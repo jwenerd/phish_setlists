@@ -3,6 +3,8 @@ import IPython
 # load data
 
 df = pd.read_csv('setlist_data.csv')
+df['show_date'] =  pd.to_datetime(df['show_date'], format='%Y-%m-%d')
+
 df = df.drop(columns=['url','location','venue','show_rating','url','comment'])
 
 def same_set(row1, row2):
@@ -27,7 +29,29 @@ for index, row in df.iterrows():
 df['prev_title'] = prev_titles
 df['next_title'] = next_titles
 
+def song_data(title):
+    song_df = df[df['title'] == title]
+    prevs = {}
+    nexts = {}
+    for i, row in song_df.iterrows():
+        n = row['next_title']
+        p = row['prev_title']
+        prevs[p] = (prevs[p]+1) if p in prevs else 1
+        nexts[n] = (nexts[n]+1) if n in nexts else 1
 
+    data = {}
+    data['prev'] = prevs
+    data['next'] = nexts
+    data['plays'] = len(song_df) #total number of times in the data
+    data['shows'] = song_df['show_date'].value_counts().size # total number of shows the song was played at 
+    data['shows_by_year'] = song_df['show_date'].drop_duplicates().apply(lambda d: d.year).value_counts().to_dict()
+    return data
+
+# example 
+carini = song_data('Carini')
+more = song_data('More')
+backwards = song_data('Backwards Down the Number Line')
+tweeprise = song_data('Tweezer Reprise')
 
 # shell
 IPython.embed()
