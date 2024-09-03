@@ -1,2 +1,2 @@
 
-from app.models import *
+from app.client import *
