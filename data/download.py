@@ -1,23 +1,12 @@
-import numpy as np
 import pandas as pd
-from time import sleep
-from setlist import get_setlist, parse_setlist
+from app import phish_net_client
 
-dfl = pd.read_csv('data/csv/set_dates.csv')
-set_dates =  list(map( lambda x: x[0], dfl.values.tolist() ) )
-output = []
 
-for idx, set_date in enumerate(set_dates):    
-    print((idx,set_date))
-    
-    setlist = get_setlist(set_date)
-    setlist = parse_setlist(setlist)
-    if setlist is None:
-        pass
-    else:
-        output.extend(setlist)
+def create_file():
+    df = pd.DataFrame(phish_net_client.download_all())
+    df[["position", "showyear", 'gap']] = df[[
+        "position", "showyear", 'gap']].apply(pd.to_numeric)
+    df = df.sort_values(['showdate', 'position'], ascending=[True, True])
 
-df = pd.DataFrame(output)
-df['show_date'] = pd.to_datetime(df['show_date'])
-df = df.loc[:, ['show_date', 'set', 'title'] ]
-df.to_csv("data/csv/setlist_data.csv", index=False)
+
+create_file()
