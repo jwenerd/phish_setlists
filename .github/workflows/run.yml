@@ -1,9 +1,11 @@
 name: run
 
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * *'
 permissions:
   contents: write
-
 jobs:
   run:
     name: ${{ github.event_name }}
@@ -21,6 +23,11 @@ jobs:
         env:
           PHISH_API_KEY: ${{ secrets.PHISH_API_KEY }}
         run: poetry run python create_file
-      - run: git add -A data/csv/
-      - run: git commit --message="Scheduled update $(date +%Y-%m-%d)"
-      - run: git push origin master
+      - name: commit 🤖
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "<>"
+
+          git add -A data/csv/
+          git commit --message="Scheduled update: $(date +%Y-%m-%d)"
+          git push origin master
