@@ -1,0 +1,733 @@
+showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,tourwhen,song,nickname,is_original,venue,city,state,country,trans_mark
+2021-07-28,2021,0,1,1,1,2,0,1868,2021 Summer Tour,2021 Summer,I Never Needed You Like This Before,I Never Needed You Like This Before,0,Walmart Arkansas Music Pavilion,Rogers,AR,USA,","
+2021-07-28,2021,0,2,2,1,2,0,2,2021 Summer Tour,2021 Summer,Tube,Tube,1,Walmart Arkansas Music Pavilion,Rogers,AR,USA,>
+2021-07-28,2021,0,3,1,1,2,0,4,2021 Summer Tour,2021 Summer,Free,Free,1,Walmart Arkansas Music Pavilion,Rogers,AR,USA,","
+2021-07-28,2021,0,4,1,1,2,0,23,2021 Summer Tour,2021 Summer,Bouncing Around the Room,Bouncin',1,Walmart Arkansas Music Pavilion,Rogers,AR,USA,","
+2021-07-28,2021,0,5,1,1,2,0,2,2021 Summer Tour,2021 Summer,46 Days,46 Days,1,Walmart Arkansas Music Pavilion,Rogers,AR,USA,","
+2021-07-28,2021,0,6,1,1,2,0,11,2021 Summer Tour,2021 Summer,Limb By Limb,LxL,1,Walmart Arkansas Music Pavilion,Rogers,AR,USA,","
+2021-07-28,2021,0,7,1,1,2,0,5,2021 Summer Tour,2021 Summer,Wolfman's Brother,Wolfman's,1,Walmart Arkansas Music Pavilion,Rogers,AR,USA,","
+2021-07-28,2021,0,8,1,1,2,0,16,2021 Summer Tour,2021 Summer,NICU,NICU,1,Walmart Arkansas Music Pavilion,Rogers,AR,USA,","
+2021-07-28,2021,0,9,4,1,2,0,3,2021 Summer Tour,2021 Summer,Drift While You're Sleeping,Drift While You're Sleeping,0,Walmart Arkansas Music Pavilion,Rogers,AR,USA,
+2021-07-28,2021,0,10,3,2,2,0,8,2021 Summer Tour,2021 Summer,Down with Disease,DwD,1,Walmart Arkansas Music Pavilion,Rogers,AR,USA,->
+2021-07-28,2021,0,11,3,2,2,0,1,2021 Summer Tour,2021 Summer,Simple,Simple,1,Walmart Arkansas Music Pavilion,Rogers,AR,USA,->
+2021-07-28,2021,0,12,3,2,2,0,1,2021 Summer Tour,2021 Summer,Fuego,Fuego,1,Walmart Arkansas Music Pavilion,Rogers,AR,USA,->
+2021-07-28,2021,0,13,2,2,2,0,3,2021 Summer Tour,2021 Summer,Plasma,Plasma,0,Walmart Arkansas Music Pavilion,Rogers,AR,USA,>
+2021-07-28,2021,0,14,3,2,2,0,12,2021 Summer Tour,2021 Summer,Runaway Jim,Runaway Jim,1,Walmart Arkansas Music Pavilion,Rogers,AR,USA,->
+2021-07-28,2021,0,15,3,2,2,0,3,2021 Summer Tour,2021 Summer,Weekapaug Groove,Weekapaug,1,Walmart Arkansas Music Pavilion,Rogers,AR,USA,->
+2021-07-28,2021,0,16,2,2,2,0,0,2021 Summer Tour,2021 Summer,Runaway Jim,Runaway Jim,1,Walmart Arkansas Music Pavilion,Rogers,AR,USA,>
+2021-07-28,2021,0,17,1,2,2,0,8,2021 Summer Tour,2021 Summer,Rift,Rift,1,Walmart Arkansas Music Pavilion,Rogers,AR,USA,","
+2021-07-28,2021,0,18,2,2,2,0,38,2021 Summer Tour,2021 Summer,If I Could,If I Could,1,Walmart Arkansas Music Pavilion,Rogers,AR,USA,>
+2021-07-28,2021,0,19,2,2,2,0,1,2021 Summer Tour,2021 Summer,Rise/Come Together,Rise/Come Together,0,Walmart Arkansas Music Pavilion,Rogers,AR,USA,>
+2021-07-28,2021,0,20,5,2,2,0,6,2021 Summer Tour,2021 Summer,Slave to the Traffic Light,Slave,1,Walmart Arkansas Music Pavilion,Rogers,AR,USA,
+2021-07-28,2021,0,21,6,e,2,0,4,2021 Summer Tour,2021 Summer,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Walmart Arkansas Music Pavilion,Rogers,AR,USA,
+2021-07-30,2021,0,1,2,1,2,0,5,2021 Summer Tour,2021 Summer,The Moma Dance,Moma,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
+2021-07-30,2021,0,2,1,1,2,0,4,2021 Summer Tour,2021 Summer,Sigma Oasis,Sigma Oasis,0,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+2021-07-30,2021,0,3,1,1,2,0,2,2021 Summer Tour,2021 Summer,Back on the Train,BOTT,0,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+2021-07-30,2021,0,4,1,1,2,0,11,2021 Summer Tour,2021 Summer,Dirt,Dirt,0,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+2021-07-30,2021,0,5,1,1,2,0,7,2021 Summer Tour,2021 Summer,The Final Hurrah,The Final Hurrah,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+2021-07-30,2021,0,6,1,1,2,0,2,2021 Summer Tour,2021 Summer,Funky Bitch,Funky Bitch,0,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+2021-07-30,2021,0,7,1,1,2,0,5,2021 Summer Tour,2021 Summer,Ghost,Ghost,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+2021-07-30,2021,0,8,1,1,2,0,17,2021 Summer Tour,2021 Summer,Driver,Driver,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+2021-07-30,2021,0,9,1,1,2,0,8,2021 Summer Tour,2021 Summer,The Wedge,Wedge,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+2021-07-30,2021,0,10,4,1,2,0,8,2021 Summer Tour,2021 Summer,Walls of the Cave,WotC,1,Oak Mountain Amphitheatre,Pelham,AL,USA,
+2021-07-30,2021,0,11,2,2,2,0,3,2021 Summer Tour,2021 Summer,Evening Song,Evening Song,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
+2021-07-30,2021,0,12,2,2,2,0,3,2021 Summer Tour,2021 Summer,Carini,Carini,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
+2021-07-30,2021,0,13,2,2,2,0,6,2021 Summer Tour,2021 Summer,Martian Monster,Martian Monster,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
+2021-07-30,2021,0,14,2,2,2,0,2,2021 Summer Tour,2021 Summer,Golden Age,Golden Age,0,Oak Mountain Amphitheatre,Pelham,AL,USA,>
+2021-07-30,2021,0,15,2,2,2,0,19,2021 Summer Tour,2021 Summer,Mountains in the Mist,Mist,0,Oak Mountain Amphitheatre,Pelham,AL,USA,>
+2021-07-30,2021,0,16,2,2,2,0,4,2021 Summer Tour,2021 Summer,Blaze On,Blaze On,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
+2021-07-30,2021,0,17,5,2,2,0,3,2021 Summer Tour,2021 Summer,Harry Hood,Hood,1,Oak Mountain Amphitheatre,Pelham,AL,USA,
+2021-07-30,2021,0,18,1,e,2,0,8,2021 Summer Tour,2021 Summer,Yarmouth Road,Yarmouth Road,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+2021-07-30,2021,0,19,2,e,2,0,9,2021 Summer Tour,2021 Summer,Gumbo,Gumbo,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
+2021-07-30,2021,0,20,6,e,2,0,9,2021 Summer Tour,2021 Summer,Character Zero,Character Zero,1,Oak Mountain Amphitheatre,Pelham,AL,USA,
+2021-07-31,2021,0,1,1,1,2,0,5,2021 Summer Tour,2021 Summer,Sand,Sand,0,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2021-07-31,2021,0,2,1,1,2,0,3,2021 Summer Tour,2021 Summer,Everything's Right,Everything's Right,0,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2021-07-31,2021,0,3,1,1,2,0,5,2021 Summer Tour,2021 Summer,Turtle in the Clouds,Turtle in the Clouds,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2021-07-31,2021,0,4,1,1,2,0,7,2021 Summer Tour,2021 Summer,Maze,Maze,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2021-07-31,2021,0,5,1,1,2,0,6,2021 Summer Tour,2021 Summer,Destiny Unbound,Destiny,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2021-07-31,2021,0,6,1,1,2,0,26,2021 Summer Tour,2021 Summer,Foam,Foam,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2021-07-31,2021,0,7,1,1,2,0,17,2021 Summer Tour,2021 Summer,Stash,Stash,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2021-07-31,2021,0,8,4,1,2,0,5,2021 Summer Tour,2021 Summer,Bathtub Gin,Gin,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,
+2021-07-31,2021,0,9,2,2,2,0,4,2021 Summer Tour,2021 Summer,Chalk Dust Torture,CDT,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2021-07-31,2021,0,10,2,2,2,0,6,2021 Summer Tour,2021 Summer,Steam,Steam,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2021-07-31,2021,0,11,2,2,2,0,7,2021 Summer Tour,2021 Summer,Prince Caspian,Caspian,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2021-07-31,2021,0,12,2,2,2,0,17,2021 Summer Tour,2021 Summer,Golgi Apparatus,Golgi,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2021-07-31,2021,0,13,2,2,2,0,7,2021 Summer Tour,2021 Summer,AC/DC Bag,Bag,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2021-07-31,2021,0,14,2,2,2,0,6,2021 Summer Tour,2021 Summer,Shade,Shade,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2021-07-31,2021,0,15,2,2,2,0,8,2021 Summer Tour,2021 Summer,Mike's Song,Mike's,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2021-07-31,2021,0,16,2,2,2,0,3,2021 Summer Tour,2021 Summer,Silent in the Morning,Silent,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2021-07-31,2021,0,17,5,2,2,0,2,2021 Summer Tour,2021 Summer,Weekapaug Groove,Weekapaug,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,
+2021-07-31,2021,0,18,1,e,2,0,4,2021 Summer Tour,2021 Summer,A Life Beyond The Dream,A Life Beyond The Dream,0,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2021-07-31,2021,0,19,6,e,2,0,6,2021 Summer Tour,2021 Summer,Cavern,Cavern,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,
+2021-08-01,2021,0,1,2,1,2,0,8,2021 Summer Tour,2021 Summer,Buried Alive,Buried Alive,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2021-08-01,2021,0,2,1,1,2,0,5,2021 Summer Tour,2021 Summer,Set Your Soul Free,Set Your Soul Free,0,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2021-08-01,2021,0,3,1,1,2,0,13,2021 Summer Tour,2021 Summer,Reba,Reba,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2021-08-01,2021,0,4,1,1,2,0,10,2021 Summer Tour,2021 Summer,"My Friend, My Friend",My Friend,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2021-08-01,2021,0,5,1,1,2,0,15,2021 Summer Tour,2021 Summer,555,555,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2021-08-01,2021,0,6,2,1,2,0,10,2021 Summer Tour,2021 Summer,Kill Devil Falls,KDF,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2021-08-01,2021,0,7,2,1,2,0,7,2021 Summer Tour,2021 Summer,Gotta Jibboo,Jibboo,0,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2021-08-01,2021,0,8,1,1,2,0,8,2021 Summer Tour,2021 Summer,Sparkle,Sparkle,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2021-08-01,2021,0,9,1,1,2,0,28,2021 Summer Tour,2021 Summer,Thread,Thread,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2021-08-01,2021,0,10,1,1,2,0,4,2021 Summer Tour,2021 Summer,Meat,Meat,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2021-08-01,2021,0,11,4,1,2,0,7,2021 Summer Tour,2021 Summer,Run Like an Antelope,Antelope,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,
+2021-08-01,2021,0,12,2,2,2,0,4,2021 Summer Tour,2021 Summer,More,More,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2021-08-01,2021,0,13,2,2,2,0,5,2021 Summer Tour,2021 Summer,Tweezer,Tweezer,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2021-08-01,2021,0,14,2,2,2,0,5,2021 Summer Tour,2021 Summer,Twist,Twist,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2021-08-01,2021,0,15,2,2,2,0,6,2021 Summer Tour,2021 Summer,Piper,Piper,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2021-08-01,2021,0,16,2,2,2,0,4,2021 Summer Tour,2021 Summer,Farmhouse,Farmhouse,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2021-08-01,2021,0,17,2,2,2,0,5,2021 Summer Tour,2021 Summer,Waste,Waste,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2021-08-01,2021,0,18,5,2,2,0,8,2021 Summer Tour,2021 Summer,First Tube,First Tube,0,Ameris Bank Amphitheatre,Alpharetta,GA,USA,
+2021-08-01,2021,0,19,2,e,2,0,34,2021 Summer Tour,2021 Summer,Sleeping Monkey,Sleeping Monkey,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2021-08-01,2021,0,20,6,e,2,0,5,2021 Summer Tour,2021 Summer,Tweezer Reprise,Tweeprise,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,
+2021-08-03,2021,0,1,1,1,2,0,9,2021 Summer Tour,2021 Summer,Punch You in the Eye,PYITE,1,Ascend Amphitheater,Nashville,TN,USA,","
+2021-08-03,2021,0,2,2,1,2,0,15,2021 Summer Tour,2021 Summer,Strawberry Letter 23,Strawberry Letter 23,0,Ascend Amphitheater,Nashville,TN,USA,>
+2021-08-03,2021,0,3,1,1,2,0,16,2021 Summer Tour,2021 Summer,Sample in a Jar,Sample,1,Ascend Amphitheater,Nashville,TN,USA,","
+2021-08-03,2021,0,4,2,1,2,0,9,2021 Summer Tour,2021 Summer,Halley's Comet,Halley's,1,Ascend Amphitheater,Nashville,TN,USA,>
+2021-08-03,2021,0,5,1,1,2,0,18,2021 Summer Tour,2021 Summer,Backwards Down the Number Line,BDTNL,0,Ascend Amphitheater,Nashville,TN,USA,","
+2021-08-03,2021,0,6,2,1,2,0,5,2021 Summer Tour,2021 Summer,Undermind,Undermind,0,Ascend Amphitheater,Nashville,TN,USA,>
+2021-08-03,2021,0,7,1,1,2,0,5,2021 Summer Tour,2021 Summer,Divided Sky,Divided,1,Ascend Amphitheater,Nashville,TN,USA,","
+2021-08-03,2021,0,8,1,1,2,0,1872,2021 Summer Tour,2021 Summer,Mull,Mull,1,Ascend Amphitheater,Nashville,TN,USA,","
+2021-08-03,2021,0,9,1,1,2,0,13,2021 Summer Tour,2021 Summer,It's Ice,It's Ice,1,Ascend Amphitheater,Nashville,TN,USA,","
+2021-08-03,2021,0,10,1,1,2,0,10,2021 Summer Tour,2021 Summer,About to Run,About to Run,0,Ascend Amphitheater,Nashville,TN,USA,","
+2021-08-03,2021,0,11,4,1,2,0,5,2021 Summer Tour,2021 Summer,The Squirming Coil,Coil,1,Ascend Amphitheater,Nashville,TN,USA,
+2021-08-03,2021,0,12,1,2,2,0,15,2021 Summer Tour,2021 Summer,Party Time,Party Time,1,Ascend Amphitheater,Nashville,TN,USA,","
+2021-08-03,2021,0,13,2,2,2,0,7,2021 Summer Tour,2021 Summer,No Men In No Man's Land,NMINML,1,Ascend Amphitheater,Nashville,TN,USA,>
+2021-08-03,2021,0,14,2,2,2,0,10,2021 Summer Tour,2021 Summer,Ruby Waves,Ruby Waves,0,Ascend Amphitheater,Nashville,TN,USA,>
+2021-08-03,2021,0,15,1,2,2,0,7,2021 Summer Tour,2021 Summer,Possum,Possum,1,Ascend Amphitheater,Nashville,TN,USA,","
+2021-08-03,2021,0,16,1,2,2,0,16,2021 Summer Tour,2021 Summer,When the Circus Comes,Circus,0,Ascend Amphitheater,Nashville,TN,USA,","
+2021-08-03,2021,0,17,2,2,2,0,9,2021 Summer Tour,2021 Summer,Light,Light,0,Ascend Amphitheater,Nashville,TN,USA,>
+2021-08-03,2021,0,18,5,2,2,0,8,2021 Summer Tour,2021 Summer,You Enjoy Myself,YEM,1,Ascend Amphitheater,Nashville,TN,USA,
+2021-08-03,2021,0,19,6,e,2,0,15,2021 Summer Tour,2021 Summer,Loving Cup,Loving Cup,0,Ascend Amphitheater,Nashville,TN,USA,
+2021-08-04,2021,0,1,1,1,2,0,1873,2021 Summer Tour,2021 Summer,Evolve,Evolve,0,Ascend Amphitheater,Nashville,TN,USA,","
+2021-08-04,2021,0,2,1,1,2,0,5,2021 Summer Tour,2021 Summer,Free,Free,1,Ascend Amphitheater,Nashville,TN,USA,","
+2021-08-04,2021,0,3,2,1,2,0,15,2021 Summer Tour,2021 Summer,Ocelot,Ocelot,1,Ascend Amphitheater,Nashville,TN,USA,>
+2021-08-04,2021,0,4,1,1,2,0,14,2021 Summer Tour,2021 Summer,My Sweet One,MSO,1,Ascend Amphitheater,Nashville,TN,USA,","
+2021-08-04,2021,0,5,1,1,2,0,15,2021 Summer Tour,2021 Summer,Cool Amber and Mercury,Cool Amber and Mercury,1,Ascend Amphitheater,Nashville,TN,USA,","
+2021-08-04,2021,0,6,1,1,2,0,15,2021 Summer Tour,2021 Summer,Halfway to the Moon,Halfway to the Moon,1,Ascend Amphitheater,Nashville,TN,USA,","
+2021-08-04,2021,0,7,1,1,2,0,17,2021 Summer Tour,2021 Summer,Water in the Sky,Water in the Sky,1,Ascend Amphitheater,Nashville,TN,USA,","
+2021-08-04,2021,0,8,2,1,2,0,17,2021 Summer Tour,2021 Summer,Theme From the Bottom,Theme,1,Ascend Amphitheater,Nashville,TN,USA,>
+2021-08-04,2021,0,9,2,1,2,0,16,2021 Summer Tour,2021 Summer,Suzy Greenberg,Suzy,1,Ascend Amphitheater,Nashville,TN,USA,>
+2021-08-04,2021,0,10,4,1,2,0,10,2021 Summer Tour,2021 Summer,Fluffhead,Fluffhead,1,Ascend Amphitheater,Nashville,TN,USA,
+2021-08-04,2021,0,11,2,2,2,0,15,2021 Summer Tour,2021 Summer,Mr. Completely,Mr. Completely,0,Ascend Amphitheater,Nashville,TN,USA,>
+2021-08-04,2021,0,12,1,2,2,0,12,2021 Summer Tour,2021 Summer,Birds of a Feather,BOAF,1,Ascend Amphitheater,Nashville,TN,USA,","
+2021-08-04,2021,0,13,3,2,2,0,4,2021 Summer Tour,2021 Summer,Ghost,Ghost,1,Ascend Amphitheater,Nashville,TN,USA,->
+2021-08-04,2021,0,14,2,2,2,0,3,2021 Summer Tour,2021 Summer,Bathtub Gin,Gin,1,Ascend Amphitheater,Nashville,TN,USA,>
+2021-08-04,2021,0,15,2,2,2,0,8,2021 Summer Tour,2021 Summer,Also Sprach Zarathustra,2001,0,Ascend Amphitheater,Nashville,TN,USA,>
+2021-08-04,2021,0,16,5,2,2,0,15,2021 Summer Tour,2021 Summer,Split Open and Melt,SOAMelt,1,Ascend Amphitheater,Nashville,TN,USA,
+2021-08-04,2021,0,17,6,e,2,0,4,2021 Summer Tour,2021 Summer,Character Zero,Character Zero,1,Ascend Amphitheater,Nashville,TN,USA,
+2021-08-06,2021,0,1,1,1,2,0,5,2021 Summer Tour,2021 Summer,Carini,Carini,1,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-06,2021,0,2,1,1,2,0,6,2021 Summer Tour,2021 Summer,Wolfman's Brother,Wolfman's,1,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-06,2021,0,3,1,1,2,0,4,2021 Summer Tour,2021 Summer,Sand,Sand,0,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-06,2021,0,4,1,1,2,0,21,2021 Summer Tour,2021 Summer,Lawn Boy,Lawn Boy,1,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-06,2021,0,5,1,1,2,0,17,2021 Summer Tour,2021 Summer,We Are Come to Outlive Our Brains,WACTOOB,1,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-06,2021,0,6,1,1,2,0,6,2021 Summer Tour,2021 Summer,Tube,Tube,1,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-06,2021,0,7,1,1,2,0,16,2021 Summer Tour,2021 Summer,Nellie Kane,Nellie Kane,0,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-06,2021,0,8,2,1,2,0,21,2021 Summer Tour,2021 Summer,Horn,Horn,1,Ruoff Music Center,Noblesville,IN,USA,>
+2021-08-06,2021,0,9,1,1,2,0,6,2021 Summer Tour,2021 Summer,Rift,Rift,1,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-06,2021,0,10,1,1,2,0,5,2021 Summer Tour,2021 Summer,The Wedge,Wedge,1,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-06,2021,0,11,4,1,2,0,5,2021 Summer Tour,2021 Summer,Walls of the Cave,WotC,1,Ruoff Music Center,Noblesville,IN,USA,
+2021-08-06,2021,0,12,2,2,2,0,4,2021 Summer Tour,2021 Summer,AC/DC Bag,Bag,1,Ruoff Music Center,Noblesville,IN,USA,>
+2021-08-06,2021,0,13,1,2,2,0,5,2021 Summer Tour,2021 Summer,Blaze On,Blaze On,1,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-06,2021,0,14,2,2,2,0,12,2021 Summer Tour,2021 Summer,Wilson,Wilson,1,Ruoff Music Center,Noblesville,IN,USA,>
+2021-08-06,2021,0,15,1,2,2,0,6,2021 Summer Tour,2021 Summer,Simple,Simple,1,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-06,2021,0,16,2,2,2,0,5,2021 Summer Tour,2021 Summer,Harry Hood,Hood,1,Ruoff Music Center,Noblesville,IN,USA,>
+2021-08-06,2021,0,17,5,2,2,0,6,2021 Summer Tour,2021 Summer,I Never Needed You Like This Before,I Never Needed You Like This Before,0,Ruoff Music Center,Noblesville,IN,USA,
+2021-08-06,2021,0,18,1,e,2,0,40,2021 Summer Tour,2021 Summer,Sanity,Sanity,1,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-06,2021,0,19,1,e,2,0,6,2021 Summer Tour,2021 Summer,Limb By Limb,LxL,1,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-06,2021,0,20,6,e,2,0,6,2021 Summer Tour,2021 Summer,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Ruoff Music Center,Noblesville,IN,USA,
+2021-08-07,2021,0,1,1,1,2,0,8,2021 Summer Tour,2021 Summer,Crowd Control,Crowd Control,1,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-07,2021,0,2,1,1,2,0,21,2021 Summer Tour,2021 Summer,Poor Heart,Poor Heart,1,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-07,2021,0,3,1,1,2,0,6,2021 Summer Tour,2021 Summer,The Moma Dance,Moma,1,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-07,2021,0,4,1,1,2,0,6,2021 Summer Tour,2021 Summer,Back on the Train,BOTT,0,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-07,2021,0,5,1,1,2,0,39,2021 Summer Tour,2021 Summer,Army of One,Army of One,1,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-07,2021,0,6,1,1,2,0,7,2021 Summer Tour,2021 Summer,Bouncing Around the Room,Bouncin',1,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-07,2021,0,7,1,1,2,0,20,2021 Summer Tour,2021 Summer,Ya Mar,Ya Mar,0,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-07,2021,0,8,1,1,2,0,21,2021 Summer Tour,2021 Summer,Roggae,Roggae,1,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-07,2021,0,9,1,1,2,0,1875,2021 Summer Tour,2021 Summer,A Wave of Hope,A Wave of Hope,0,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-07,2021,0,10,1,1,2,0,5,2021 Summer Tour,2021 Summer,Stash,Stash,1,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-07,2021,0,11,4,1,2,0,5,2021 Summer Tour,2021 Summer,Cavern,Cavern,1,Ruoff Music Center,Noblesville,IN,USA,
+2021-08-07,2021,0,12,1,2,2,0,5,2021 Summer Tour,2021 Summer,Everything's Right,Everything's Right,0,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-07,2021,0,13,1,2,2,0,12,2021 Summer Tour,2021 Summer,What's the Use?,WTU?,1,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-07,2021,0,14,2,2,2,0,11,2021 Summer Tour,2021 Summer,Crosseyed and Painless,C&amp;P,0,Ruoff Music Center,Noblesville,IN,USA,>
+2021-08-07,2021,0,15,2,2,2,0,0,2021 Summer Tour,2021 Summer,What's the Use?,WTU?,1,Ruoff Music Center,Noblesville,IN,USA,>
+2021-08-07,2021,0,16,2,2,2,0,7,2021 Summer Tour,2021 Summer,Down with Disease,DwD,1,Ruoff Music Center,Noblesville,IN,USA,>
+2021-08-07,2021,0,17,2,2,2,0,33,2021 Summer Tour,2021 Summer,Wading in the Velvet Sea,Velvet Sea,1,Ruoff Music Center,Noblesville,IN,USA,>
+2021-08-07,2021,0,18,5,2,2,0,3,2021 Summer Tour,2021 Summer,Possum,Possum,1,Ruoff Music Center,Noblesville,IN,USA,
+2021-08-07,2021,0,19,6,e,2,0,7,2021 Summer Tour,2021 Summer,Drift While You're Sleeping,Drift While You're Sleeping,0,Ruoff Music Center,Noblesville,IN,USA,
+2021-08-08,2021,0,1,1,1,2,0,7,2021 Summer Tour,2021 Summer,Sigma Oasis,Sigma Oasis,0,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-08,2021,0,2,2,1,2,0,17,2021 Summer Tour,2021 Summer,The Curtain,Curtain,1,Ruoff Music Center,Noblesville,IN,USA,>
+2021-08-08,2021,0,3,2,1,2,0,6,2021 Summer Tour,2021 Summer,Mike's Song,Mike's,1,Ruoff Music Center,Noblesville,IN,USA,>
+2021-08-08,2021,0,4,1,1,2,0,24,2021 Summer Tour,2021 Summer,My Soul,My Soul,0,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-08,2021,0,5,1,1,2,0,6,2021 Summer Tour,2021 Summer,Weekapaug Groove,Weekapaug,1,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-08,2021,0,6,2,1,2,0,13,2021 Summer Tour,2021 Summer,Mercury,Mercury,1,Ruoff Music Center,Noblesville,IN,USA,>
+2021-08-08,2021,0,7,2,1,2,0,8,2021 Summer Tour,2021 Summer,46 Days,46 Days,1,Ruoff Music Center,Noblesville,IN,USA,>
+2021-08-08,2021,0,8,1,1,2,0,25,2021 Summer Tour,2021 Summer,Taste,Taste,1,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-08,2021,0,9,1,1,2,0,1872,2021 Summer Tour,2021 Summer,Casual Enlightenment,Casual Enlightenment,1,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-08,2021,0,10,4,1,2,0,9,2021 Summer Tour,2021 Summer,David Bowie,Bowie,1,Ruoff Music Center,Noblesville,IN,USA,
+2021-08-08,2021,0,11,2,2,2,0,3,2021 Summer Tour,2021 Summer,Bathtub Gin,Gin,1,Ruoff Music Center,Noblesville,IN,USA,>
+2021-08-08,2021,0,12,3,2,2,0,10,2021 Summer Tour,2021 Summer,Waves,Waves,1,Ruoff Music Center,Noblesville,IN,USA,->
+2021-08-08,2021,0,13,2,2,2,0,3,2021 Summer Tour,2021 Summer,Ghost,Ghost,1,Ruoff Music Center,Noblesville,IN,USA,>
+2021-08-08,2021,0,14,3,2,2,0,15,2021 Summer Tour,2021 Summer,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Ruoff Music Center,Noblesville,IN,USA,->
+2021-08-08,2021,0,15,3,2,2,0,16,2021 Summer Tour,2021 Summer,Twenty Years Later,Twenty Years Later,1,Ruoff Music Center,Noblesville,IN,USA,->
+2021-08-08,2021,0,16,2,2,2,0,5,2021 Summer Tour,2021 Summer,Waste,Waste,1,Ruoff Music Center,Noblesville,IN,USA,>
+2021-08-08,2021,0,17,3,2,2,0,5,2021 Summer Tour,2021 Summer,Twist,Twist,1,Ruoff Music Center,Noblesville,IN,USA,->
+2021-08-08,2021,0,18,2,2,2,0,10,2021 Summer Tour,2021 Summer,Makisupa Policeman,Makisupa,1,Ruoff Music Center,Noblesville,IN,USA,>
+2021-08-08,2021,0,19,3,2,2,0,0,2021 Summer Tour,2021 Summer,Twist,Twist,1,Ruoff Music Center,Noblesville,IN,USA,->
+2021-08-08,2021,0,20,3,2,2,0,0,2021 Summer Tour,2021 Summer,Makisupa Policeman,Makisupa,1,Ruoff Music Center,Noblesville,IN,USA,->
+2021-08-08,2021,0,21,1,2,2,0,0,2021 Summer Tour,2021 Summer,Twist,Twist,1,Ruoff Music Center,Noblesville,IN,USA,","
+2021-08-08,2021,0,22,2,2,2,0,37,2021 Summer Tour,2021 Summer,Most Events Aren't Planned,Most Events Aren't Planned,0,Ruoff Music Center,Noblesville,IN,USA,>
+2021-08-08,2021,0,23,2,2,2,0,5,2021 Summer Tour,2021 Summer,More,More,1,Ruoff Music Center,Noblesville,IN,USA,>
+2021-08-08,2021,0,24,5,2,2,0,0,2021 Summer Tour,2021 Summer,Bathtub Gin,Gin,1,Ruoff Music Center,Noblesville,IN,USA,
+2021-08-08,2021,0,25,2,e,2,0,14,2021 Summer Tour,2021 Summer,Contact,Contact,1,Ruoff Music Center,Noblesville,IN,USA,>
+2021-08-08,2021,0,26,6,e,2,0,8,2021 Summer Tour,2021 Summer,Slave to the Traffic Light,Slave,1,Ruoff Music Center,Noblesville,IN,USA,
+2021-08-10,2021,0,1,1,1,2,0,6,2021 Summer Tour,2021 Summer,First Tube,First Tube,0,Hersheypark Stadium,Hershey,PA,USA,","
+2021-08-10,2021,0,2,1,1,2,0,14,2021 Summer Tour,2021 Summer,Axilla,Axilla,1,Hersheypark Stadium,Hershey,PA,USA,","
+2021-08-10,2021,0,3,3,1,2,0,9,2021 Summer Tour,2021 Summer,Fuego,Fuego,1,Hersheypark Stadium,Hershey,PA,USA,->
+2021-08-10,2021,0,4,1,1,2,0,9,2021 Summer Tour,2021 Summer,Runaway Jim,Runaway Jim,1,Hersheypark Stadium,Hershey,PA,USA,","
+2021-08-10,2021,0,5,2,1,2,0,8,2021 Summer Tour,2021 Summer,Gumbo,Gumbo,1,Hersheypark Stadium,Hershey,PA,USA,>
+2021-08-10,2021,0,6,1,1,2,0,5,2021 Summer Tour,2021 Summer,Sample in a Jar,Sample,1,Hersheypark Stadium,Hershey,PA,USA,","
+2021-08-10,2021,0,7,1,1,2,0,7,2021 Summer Tour,2021 Summer,Steam,Steam,1,Hersheypark Stadium,Hershey,PA,USA,","
+2021-08-10,2021,0,8,1,1,2,0,32,2021 Summer Tour,2021 Summer,Sugar Shack,Sugar Shack,1,Hersheypark Stadium,Hershey,PA,USA,","
+2021-08-10,2021,0,9,1,1,2,0,24,2021 Summer Tour,2021 Summer,Llama,Llama,1,Hersheypark Stadium,Hershey,PA,USA,","
+2021-08-10,2021,0,10,2,1,2,0,20,2021 Summer Tour,2021 Summer,Death Don't Hurt Very Long,DDHVL,1,Hersheypark Stadium,Hershey,PA,USA,>
+2021-08-10,2021,0,11,4,1,2,0,6,2021 Summer Tour,2021 Summer,Run Like an Antelope,Antelope,1,Hersheypark Stadium,Hershey,PA,USA,
+2021-08-10,2021,0,12,2,2,2,0,5,2021 Summer Tour,2021 Summer,No Men In No Man's Land,NMINML,1,Hersheypark Stadium,Hershey,PA,USA,>
+2021-08-10,2021,0,13,3,2,2,0,11,2021 Summer Tour,2021 Summer,Soul Planet,Soul Planet,0,Hersheypark Stadium,Hershey,PA,USA,->
+2021-08-10,2021,0,14,2,2,2,0,9,2021 Summer Tour,2021 Summer,NICU,NICU,1,Hersheypark Stadium,Hershey,PA,USA,>
+2021-08-10,2021,0,15,1,2,2,0,25,2021 Summer Tour,2021 Summer,Joy,Joy,1,Hersheypark Stadium,Hershey,PA,USA,","
+2021-08-10,2021,0,16,1,2,2,0,25,2021 Summer Tour,2021 Summer,Scent of a Mule,SOAMule,1,Hersheypark Stadium,Hershey,PA,USA,","
+2021-08-10,2021,0,17,2,2,2,0,8,2021 Summer Tour,2021 Summer,Golden Age,Golden Age,0,Hersheypark Stadium,Hershey,PA,USA,>
+2021-08-10,2021,0,18,2,2,2,0,7,2021 Summer Tour,2021 Summer,Prince Caspian,Caspian,1,Hersheypark Stadium,Hershey,PA,USA,>
+2021-08-10,2021,0,19,2,2,2,0,5,2021 Summer Tour,2021 Summer,Backwards Down the Number Line,BDTNL,0,Hersheypark Stadium,Hershey,PA,USA,>
+2021-08-10,2021,0,20,2,2,2,0,12,2021 Summer Tour,2021 Summer,The Lizards,Lizards,1,Hersheypark Stadium,Hershey,PA,USA,>
+2021-08-10,2021,0,21,5,2,2,0,4,2021 Summer Tour,2021 Summer,Character Zero,Character Zero,1,Hersheypark Stadium,Hershey,PA,USA,
+2021-08-10,2021,0,22,6,e,2,0,15,2021 Summer Tour,2021 Summer,Rock and Roll,R&amp;R,0,Hersheypark Stadium,Hershey,PA,USA,
+2021-08-11,2021,0,1,1,1,2,0,12,2021 Summer Tour,2021 Summer,You Sexy Thing,You Sexy Thing,0,Hersheypark Stadium,Hershey,PA,USA,","
+2021-08-11,2021,0,2,1,1,2,0,25,2021 Summer Tour,2021 Summer,Wombat,Wombat,1,Hersheypark Stadium,Hershey,PA,USA,","
+2021-08-11,2021,0,3,2,1,2,0,5,2021 Summer Tour,2021 Summer,Free,Free,1,Hersheypark Stadium,Hershey,PA,USA,>
+2021-08-11,2021,0,4,1,1,2,0,22,2021 Summer Tour,2021 Summer,A Song I Heard the Ocean Sing,ASIHTOS,1,Hersheypark Stadium,Hershey,PA,USA,","
+2021-08-11,2021,0,5,2,1,2,0,6,2021 Summer Tour,2021 Summer,Halley's Comet,Halley's,1,Hersheypark Stadium,Hershey,PA,USA,>
+2021-08-11,2021,0,6,2,1,2,0,1878,2021 Summer Tour,2021 Summer,Lonely Trip,Lonely Trip,0,Hersheypark Stadium,Hershey,PA,USA,>
+2021-08-11,2021,0,7,1,1,2,0,7,2021 Summer Tour,2021 Summer,Gotta Jibboo,Jibboo,0,Hersheypark Stadium,Hershey,PA,USA,","
+2021-08-11,2021,0,8,1,1,2,0,7,2021 Summer Tour,2021 Summer,Meat,Meat,1,Hersheypark Stadium,Hershey,PA,USA,","
+2021-08-11,2021,0,9,4,1,2,0,8,2021 Summer Tour,2021 Summer,Maze,Maze,1,Hersheypark Stadium,Hershey,PA,USA,
+2021-08-11,2021,0,10,2,2,2,0,5,2021 Summer Tour,2021 Summer,Theme From the Bottom,Theme,1,Hersheypark Stadium,Hershey,PA,USA,>
+2021-08-11,2021,0,11,1,2,2,0,5,2021 Summer Tour,2021 Summer,Birds of a Feather,BOAF,1,Hersheypark Stadium,Hershey,PA,USA,","
+2021-08-11,2021,0,12,2,2,2,0,26,2021 Summer Tour,2021 Summer,Bug,Bug,0,Hersheypark Stadium,Hershey,PA,USA,>
+2021-08-11,2021,0,13,3,2,2,0,6,2021 Summer Tour,2021 Summer,Light,Light,0,Hersheypark Stadium,Hershey,PA,USA,->
+2021-08-11,2021,0,14,2,2,2,0,6,2021 Summer Tour,2021 Summer,Party Time,Party Time,1,Hersheypark Stadium,Hershey,PA,USA,>
+2021-08-11,2021,0,15,2,2,2,0,6,2021 Summer Tour,2021 Summer,Ruby Waves,Ruby Waves,0,Hersheypark Stadium,Hershey,PA,USA,>
+2021-08-11,2021,0,16,5,2,2,0,8,2021 Summer Tour,2021 Summer,Chalk Dust Torture,CDT,1,Hersheypark Stadium,Hershey,PA,USA,
+2021-08-11,2021,0,17,2,e,2,0,17,2021 Summer Tour,2021 Summer,Show of Life,Show of Life,0,Hersheypark Stadium,Hershey,PA,USA,>
+2021-08-11,2021,0,18,6,e,2,0,4,2021 Summer Tour,2021 Summer,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Hersheypark Stadium,Hershey,PA,USA,
+2021-08-13,2021,0,1,1,1,2,0,23,2021 Summer Tour,2021 Summer,Cars Trucks Buses,CTB,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-13,2021,0,2,2,1,2,0,5,2021 Summer Tour,2021 Summer,AC/DC Bag,Bag,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-13,2021,0,3,1,1,2,0,5,2021 Summer Tour,2021 Summer,Blaze On,Blaze On,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-13,2021,0,4,1,1,2,0,5,2021 Summer Tour,2021 Summer,Wolfman's Brother,Wolfman's,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-13,2021,0,5,1,1,2,0,26,2021 Summer Tour,2021 Summer,I Didn't Know,IDK,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-13,2021,0,6,1,1,2,0,10,2021 Summer Tour,2021 Summer,Funky Bitch,Funky Bitch,0,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-13,2021,0,7,1,1,2,0,5,2021 Summer Tour,2021 Summer,Rift,Rift,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-13,2021,0,8,4,1,2,0,5,2021 Summer Tour,2021 Summer,Sand,Sand,0,Atlantic City Beach,Atlantic City,NJ,USA,
+2021-08-13,2021,0,9,2,2,2,0,8,2021 Summer Tour,2021 Summer,Tweezer,Tweezer,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-13,2021,0,10,2,2,2,0,3,2021 Summer Tour,2021 Summer,Bathtub Gin,Gin,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-13,2021,0,11,3,2,2,0,4,2021 Summer Tour,2021 Summer,Everything's Right,Everything's Right,0,Atlantic City Beach,Atlantic City,NJ,USA,->
+2021-08-13,2021,0,12,2,2,2,0,4,2021 Summer Tour,2021 Summer,Possum,Possum,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-13,2021,0,13,2,2,2,0,6,2021 Summer Tour,2021 Summer,Also Sprach Zarathustra,2001,0,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-13,2021,0,14,2,2,2,0,11,2021 Summer Tour,2021 Summer,Rise/Come Together,Rise/Come Together,0,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-13,2021,0,15,2,2,2,0,5,2021 Summer Tour,2021 Summer,Harry Hood,Hood,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-13,2021,0,16,5,2,2,0,3,2021 Summer Tour,2021 Summer,More,More,1,Atlantic City Beach,Atlantic City,NJ,USA,
+2021-08-13,2021,0,17,6,e,2,0,7,2021 Summer Tour,2021 Summer,Loving Cup,Loving Cup,0,Atlantic City Beach,Atlantic City,NJ,USA,
+2021-08-14,2021,0,1,1,1,2,0,3,2021 Summer Tour,2021 Summer,Llama,Llama,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,2,1,1,2,0,6,2021 Summer Tour,2021 Summer,Tube,Tube,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,3,2,1,2,0,10,2021 Summer Tour,2021 Summer,Destiny Unbound,Destiny,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-14,2021,0,4,1,1,2,0,5,2021 Summer Tour,2021 Summer,Ya Mar,Ya Mar,0,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,5,1,1,2,0,4,2021 Summer Tour,2021 Summer,46 Days,46 Days,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,6,1,1,2,0,9,2021 Summer Tour,2021 Summer,Reba,Reba,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,7,1,1,2,0,88,2021 Summer Tour,2021 Summer,Soul Shakedown Party,Soul Shakedown Party,0,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,8,1,1,2,0,7,2021 Summer Tour,2021 Summer,Split Open and Melt,SOAMelt,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,9,4,1,2,0,8,2021 Summer Tour,2021 Summer,The Squirming Coil,Coil,1,Atlantic City Beach,Atlantic City,NJ,USA,
+2021-08-14,2021,0,10,1,2,2,0,6,2021 Summer Tour,2021 Summer,I Never Needed You Like This Before,I Never Needed You Like This Before,0,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,11,2,2,2,0,20,2021 Summer Tour,2021 Summer,Drowned,Drowned,0,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-14,2021,0,12,3,2,2,0,4,2021 Summer Tour,2021 Summer,Ghost,Ghost,1,Atlantic City Beach,Atlantic City,NJ,USA,->
+2021-08-14,2021,0,13,2,2,2,0,23,2021 Summer Tour,2021 Summer,Scents and Subtle Sounds,Scents and Subtle Sounds,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-14,2021,0,14,2,2,2,0,2,2021 Summer Tour,2021 Summer,Chalk Dust Torture,CDT,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-14,2021,0,15,2,2,2,0,23,2021 Summer Tour,2021 Summer,No Quarter,No Quarter,0,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-14,2021,0,16,2,2,2,0,4,2021 Summer Tour,2021 Summer,Slave to the Traffic Light,Slave,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-14,2021,0,17,5,2,2,0,7,2021 Summer Tour,2021 Summer,Suzy Greenberg,Suzy,1,Atlantic City Beach,Atlantic City,NJ,USA,
+2021-08-14,2021,0,18,1,e,2,0,10,2021 Summer Tour,2021 Summer,A Life Beyond The Dream,A Life Beyond The Dream,0,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,19,6,e,2,0,9,2021 Summer Tour,2021 Summer,Tweezer Reprise,Tweeprise,1,Atlantic City Beach,Atlantic City,NJ,USA,
+2021-08-15,2021,0,1,1,1,0,0,17,2021 Summer Tour,2021 Summer,The Landlady,Landlady,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-15,2021,0,2,2,1,0,0,1,2021 Summer Tour,2021 Summer,Scents and Subtle Sounds,Scents and Subtle Sounds,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-15,2021,0,3,2,1,0,0,6,2021 Summer Tour,2021 Summer,The Moma Dance,Moma,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-15,2021,0,4,2,1,0,0,12,2021 Summer Tour,2021 Summer,The Final Hurrah,The Final Hurrah,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-15,2021,0,5,2,1,0,0,5,2021 Summer Tour,2021 Summer,Mike's Song,Mike's,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-15,2021,0,6,2,1,0,0,31,2021 Summer Tour,2021 Summer,I Am Hydrogen,Hydrogen,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-15,2021,0,7,1,1,0,0,5,2021 Summer Tour,2021 Summer,Weekapaug Groove,Weekapaug,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-15,2021,0,8,1,1,0,0,24,2021 Summer Tour,2021 Summer,The Sloth,Sloth,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-15,2021,0,9,2,1,0,0,6,2021 Summer Tour,2021 Summer,Roggae,Roggae,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-15,2021,0,10,1,1,0,0,6,2021 Summer Tour,2021 Summer,Back on the Train,BOTT,0,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-15,2021,0,11,4,1,0,0,9,2021 Summer Tour,2021 Summer,You Enjoy Myself,YEM,1,Atlantic City Beach,Atlantic City,NJ,USA,
+2021-08-15,2021,0,12,2,2,0,0,7,2021 Summer Tour,2021 Summer,Carini,Carini,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-15,2021,0,13,2,2,0,0,10,2021 Summer Tour,2021 Summer,Set Your Soul Free,Set Your Soul Free,0,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-15,2021,0,14,2,2,0,0,17,2021 Summer Tour,2021 Summer,Beneath a Sea of Stars Part 1,Beneath a Sea of Stars Part 1,0,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-15,2021,0,15,3,2,0,0,10,2021 Summer Tour,2021 Summer,Piper,Piper,1,Atlantic City Beach,Atlantic City,NJ,USA,->
+2021-08-15,2021,0,16,2,2,0,0,0,2021 Summer Tour,2021 Summer,Carini,Carini,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-15,2021,0,17,2,2,0,0,5,2021 Summer Tour,2021 Summer,Waves,Waves,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-15,2021,0,18,2,2,0,0,7,2021 Summer Tour,2021 Summer,Simple,Simple,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-15,2021,0,19,1,2,0,0,9,2021 Summer Tour,2021 Summer,About to Run,About to Run,0,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-15,2021,0,20,5,2,0,0,4,2021 Summer Tour,2021 Summer,First Tube,First Tube,0,Atlantic City Beach,Atlantic City,NJ,USA,
+2021-08-15,2021,0,21,2,e,0,0,8,2021 Summer Tour,2021 Summer,Fluffhead,Fluffhead,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-15,2021,0,22,6,e,0,0,4,2021 Summer Tour,2021 Summer,Backwards Down the Number Line,BDTNL,0,Atlantic City Beach,Atlantic City,NJ,USA,
+2021-08-27,2021,0,1,1,1,2,0,18,2021 Summer Tour,2021 Summer,Torn and Frayed,Torn and Frayed,0,Gorge Amphitheatre,George,WA,USA,","
+2021-08-27,2021,0,2,1,1,2,0,5,2021 Summer Tour,2021 Summer,No Men In No Man's Land,NMINML,1,Gorge Amphitheatre,George,WA,USA,","
+2021-08-27,2021,0,3,1,1,2,0,103,2021 Summer Tour,2021 Summer,Leaves,Leaves,1,Gorge Amphitheatre,George,WA,USA,","
+2021-08-27,2021,0,4,1,1,2,0,2,2021 Summer Tour,2021 Summer,Split Open and Melt,SOAMelt,1,Gorge Amphitheatre,George,WA,USA,","
+2021-08-27,2021,0,5,1,1,2,0,2,2021 Summer Tour,2021 Summer,Tube,Tube,1,Gorge Amphitheatre,George,WA,USA,","
+2021-08-27,2021,0,6,1,1,2,0,25,2021 Summer Tour,2021 Summer,I Been Around,I Been Around,1,Gorge Amphitheatre,George,WA,USA,","
+2021-08-27,2021,0,7,1,1,2,0,106,2021 Summer Tour,2021 Summer,Ha Ha Ha,Ha Ha Ha,1,Gorge Amphitheatre,George,WA,USA,","
+2021-08-27,2021,0,8,1,1,2,0,10,2021 Summer Tour,2021 Summer,Mull,Mull,1,Gorge Amphitheatre,George,WA,USA,","
+2021-08-27,2021,0,9,1,1,2,0,12,2021 Summer Tour,2021 Summer,Shade,Shade,1,Gorge Amphitheatre,George,WA,USA,","
+2021-08-27,2021,0,10,2,1,2,0,29,2021 Summer Tour,2021 Summer,Alaska,Alaska,0,Gorge Amphitheatre,George,WA,USA,>
+2021-08-27,2021,0,11,4,1,2,0,12,2021 Summer Tour,2021 Summer,Golgi Apparatus,Golgi,1,Gorge Amphitheatre,George,WA,USA,
+2021-08-27,2021,0,12,2,2,2,0,6,2021 Summer Tour,2021 Summer,Sigma Oasis,Sigma Oasis,0,Gorge Amphitheatre,George,WA,USA,>
+2021-08-27,2021,0,13,1,2,2,0,7,2021 Summer Tour,2021 Summer,What's the Use?,WTU?,1,Gorge Amphitheatre,George,WA,USA,","
+2021-08-27,2021,0,14,2,2,2,0,3,2021 Summer Tour,2021 Summer,Blaze On,Blaze On,1,Gorge Amphitheatre,George,WA,USA,>
+2021-08-27,2021,0,15,2,2,2,0,17,2021 Summer Tour,2021 Summer,Lifeboy,Lifeboy,1,Gorge Amphitheatre,George,WA,USA,>
+2021-08-27,2021,0,16,3,2,2,0,36,2021 Summer Tour,2021 Summer,Camel Walk,Camel Walk,1,Gorge Amphitheatre,George,WA,USA,->
+2021-08-27,2021,0,17,2,2,2,0,2,2021 Summer Tour,2021 Summer,Chalk Dust Torture,CDT,1,Gorge Amphitheatre,George,WA,USA,>
+2021-08-27,2021,0,18,5,2,2,0,2,2021 Summer Tour,2021 Summer,Slave to the Traffic Light,Slave,1,Gorge Amphitheatre,George,WA,USA,
+2021-08-27,2021,0,19,6,e,2,0,7,2021 Summer Tour,2021 Summer,Drift While You're Sleeping,Drift While You're Sleeping,0,Gorge Amphitheatre,George,WA,USA,
+2021-08-28,2021,0,1,2,1,2,0,2,2021 Summer Tour,2021 Summer,Carini,Carini,1,Gorge Amphitheatre,George,WA,USA,>
+2021-08-28,2021,0,2,2,1,2,0,5,2021 Summer Tour,2021 Summer,Maze,Maze,1,Gorge Amphitheatre,George,WA,USA,>
+2021-08-28,2021,0,3,1,1,2,0,3,2021 Summer Tour,2021 Summer,46 Days,46 Days,1,Gorge Amphitheatre,George,WA,USA,","
+2021-08-28,2021,0,4,1,1,2,0,112,2021 Summer Tour,2021 Summer,Esther,Esther,1,Gorge Amphitheatre,George,WA,USA,","
+2021-08-28,2021,0,5,2,1,2,0,12,2021 Summer Tour,2021 Summer,555,555,1,Gorge Amphitheatre,George,WA,USA,>
+2021-08-28,2021,0,6,1,1,2,0,11,2021 Summer Tour,2021 Summer,Divided Sky,Divided,1,Gorge Amphitheatre,George,WA,USA,","
+2021-08-28,2021,0,7,2,1,2,0,35,2021 Summer Tour,2021 Summer,Swept Away,Swept Away,1,Gorge Amphitheatre,George,WA,USA,>
+2021-08-28,2021,0,8,1,1,2,0,35,2021 Summer Tour,2021 Summer,Steep,Steep,1,Gorge Amphitheatre,George,WA,USA,","
+2021-08-28,2021,0,9,2,1,2,0,24,2021 Summer Tour,2021 Summer,Boogie On Reggae Woman,Boogie On,0,Gorge Amphitheatre,George,WA,USA,>
+2021-08-28,2021,0,10,4,1,2,0,5,2021 Summer Tour,2021 Summer,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Gorge Amphitheatre,George,WA,USA,
+2021-08-28,2021,0,11,2,2,2,0,4,2021 Summer Tour,2021 Summer,Sand,Sand,0,Gorge Amphitheatre,George,WA,USA,>
+2021-08-28,2021,0,12,2,2,2,0,8,2021 Summer Tour,2021 Summer,Down with Disease,DwD,1,Gorge Amphitheatre,George,WA,USA,>
+2021-08-28,2021,0,13,2,2,2,0,6,2021 Summer Tour,2021 Summer,Prince Caspian,Caspian,1,Gorge Amphitheatre,George,WA,USA,>
+2021-08-28,2021,0,14,1,2,2,0,14,2021 Summer Tour,2021 Summer,Mountains in the Mist,Mist,0,Gorge Amphitheatre,George,WA,USA,","
+2021-08-28,2021,0,15,2,2,2,0,2,2021 Summer Tour,2021 Summer,Scents and Subtle Sounds,Scents and Subtle Sounds,1,Gorge Amphitheatre,George,WA,USA,>
+2021-08-28,2021,0,16,2,2,2,0,5,2021 Summer Tour,2021 Summer,Bug,Bug,0,Gorge Amphitheatre,George,WA,USA,>
+2021-08-28,2021,0,17,5,2,2,0,4,2021 Summer Tour,2021 Summer,Possum,Possum,1,Gorge Amphitheatre,George,WA,USA,
+2021-08-28,2021,0,18,2,e,2,0,26,2021 Summer Tour,2021 Summer,Bittersweet Motel,Bittersweet Motel,1,Gorge Amphitheatre,George,WA,USA,>
+2021-08-28,2021,0,19,1,e,2,0,56,2021 Summer Tour,2021 Summer,Heavy Things,Heavy Things,1,Gorge Amphitheatre,George,WA,USA,","
+2021-08-28,2021,0,20,6,e,2,0,2,2021 Summer Tour,2021 Summer,About to Run,About to Run,0,Gorge Amphitheatre,George,WA,USA,
+2021-08-29,2021,0,1,2,1,2,0,11,2021 Summer Tour,2021 Summer,Cool Amber and Mercury,Cool Amber and Mercury,1,Gorge Amphitheatre,George,WA,USA,>
+2021-08-29,2021,0,2,1,1,2,0,3,2021 Summer Tour,2021 Summer,The Moma Dance,Moma,1,Gorge Amphitheatre,George,WA,USA,","
+2021-08-29,2021,0,3,1,1,2,0,6,2021 Summer Tour,2021 Summer,Free,Free,1,Gorge Amphitheatre,George,WA,USA,","
+2021-08-29,2021,0,4,1,1,2,0,6,2021 Summer Tour,2021 Summer,Lonely Trip,Lonely Trip,0,Gorge Amphitheatre,George,WA,USA,","
+2021-08-29,2021,0,5,2,1,2,0,48,2021 Summer Tour,2021 Summer,How Many People Are You,How Many People Are You,0,Gorge Amphitheatre,George,WA,USA,>
+2021-08-29,2021,0,6,2,1,2,0,5,2021 Summer Tour,2021 Summer,Bathtub Gin,Gin,1,Gorge Amphitheatre,George,WA,USA,>
+2021-08-29,2021,0,7,1,1,2,0,3,2021 Summer Tour,2021 Summer,Back on the Train,BOTT,0,Gorge Amphitheatre,George,WA,USA,","
+2021-08-29,2021,0,8,2,1,2,0,13,2021 Summer Tour,2021 Summer,"My Friend, My Friend",My Friend,1,Gorge Amphitheatre,George,WA,USA,>
+2021-08-29,2021,0,9,1,1,2,0,5,2021 Summer Tour,2021 Summer,Rift,Rift,1,Gorge Amphitheatre,George,WA,USA,","
+2021-08-29,2021,0,10,4,1,2,0,7,2021 Summer Tour,2021 Summer,Character Zero,Character Zero,1,Gorge Amphitheatre,George,WA,USA,
+2021-08-29,2021,0,11,3,2,2,0,11,2021 Summer Tour,2021 Summer,Mr. Completely,Mr. Completely,0,Gorge Amphitheatre,George,WA,USA,->
+2021-08-29,2021,0,12,1,2,2,0,6,2021 Summer Tour,2021 Summer,Meat,Meat,1,Gorge Amphitheatre,George,WA,USA,","
+2021-08-29,2021,0,13,3,2,2,0,9,2021 Summer Tour,2021 Summer,Crosseyed and Painless,C&amp;P,0,Gorge Amphitheatre,George,WA,USA,->
+2021-08-29,2021,0,14,2,2,2,0,27,2021 Summer Tour,2021 Summer,Saw It Again,Saw It Again,1,Gorge Amphitheatre,George,WA,USA,>
+2021-08-29,2021,0,15,2,2,2,0,45,2021 Summer Tour,2021 Summer,The Mango Song,Mango,1,Gorge Amphitheatre,George,WA,USA,>
+2021-08-29,2021,0,16,2,2,2,0,5,2021 Summer Tour,2021 Summer,Everything's Right,Everything's Right,0,Gorge Amphitheatre,George,WA,USA,>
+2021-08-29,2021,0,17,2,2,2,0,3,2021 Summer Tour,2021 Summer,Beneath a Sea of Stars Part 1,Beneath a Sea of Stars Part 1,0,Gorge Amphitheatre,George,WA,USA,>
+2021-08-29,2021,0,18,5,2,2,0,19,2021 Summer Tour,2021 Summer,I Always Wanted It This Way,I Always Wanted It This Way,1,Gorge Amphitheatre,George,WA,USA,
+2021-08-29,2021,0,19,2,e,2,0,64,2021 Summer Tour,2021 Summer,Shine a Light,Shine a Light,0,Gorge Amphitheatre,George,WA,USA,>
+2021-08-29,2021,0,20,6,e,2,0,3,2021 Summer Tour,2021 Summer,First Tube,First Tube,0,Gorge Amphitheatre,George,WA,USA,
+2021-08-31,2021,0,1,1,1,2,0,37,2021 Summer Tour,2021 Summer,Glide,Glide,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2021-08-31,2021,0,2,2,1,2,0,114,2021 Summer Tour,2021 Summer,Colonel Forbin's Ascent,Forbin's,1,Shoreline Amphitheatre,Mountain View,CA,USA,>
+2021-08-31,2021,0,3,1,1,2,0,114,2021 Summer Tour,2021 Summer,Fly Famous Mockingbird,Mockingbird,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2021-08-31,2021,0,4,1,1,2,0,6,2021 Summer Tour,2021 Summer,Wolfman's Brother,Wolfman's,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2021-08-31,2021,0,5,1,1,2,0,17,2021 Summer Tour,2021 Summer,If I Could,If I Could,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2021-08-31,2021,0,6,1,1,2,0,5,2021 Summer Tour,2021 Summer,I Never Needed You Like This Before,I Never Needed You Like This Before,0,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2021-08-31,2021,0,7,1,1,2,0,10,2021 Summer Tour,2021 Summer,Stash,Stash,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2021-08-31,2021,0,8,1,1,2,0,25,2021 Summer Tour,2021 Summer,Weigh,Weigh,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2021-08-31,2021,0,9,1,1,2,0,10,2021 Summer Tour,2021 Summer,Bouncing Around the Room,Bouncin',1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2021-08-31,2021,0,10,1,1,2,0,7,2021 Summer Tour,2021 Summer,Gotta Jibboo,Jibboo,0,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2021-08-31,2021,0,11,4,1,2,0,27,2021 Summer Tour,2021 Summer,Moonage Daydream,Moonage Daydream,0,Shoreline Amphitheatre,Mountain View,CA,USA,
+2021-08-31,2021,0,12,3,2,2,0,8,2021 Summer Tour,2021 Summer,Soul Planet,Soul Planet,0,Shoreline Amphitheatre,Mountain View,CA,USA,->
+2021-08-31,2021,0,13,2,2,2,0,4,2021 Summer Tour,2021 Summer,The Final Hurrah,The Final Hurrah,1,Shoreline Amphitheatre,Mountain View,CA,USA,>
+2021-08-31,2021,0,14,1,2,2,0,7,2021 Summer Tour,2021 Summer,Theme From the Bottom,Theme,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2021-08-31,2021,0,15,1,2,2,0,858,2021 Summer Tour,2021 Summer,Axilla (Part II),Axilla (Part II),1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2021-08-31,2021,0,16,2,2,2,0,46,2021 Summer Tour,2021 Summer,Tela,Tela,1,Shoreline Amphitheatre,Mountain View,CA,USA,>
+2021-08-31,2021,0,17,5,2,2,0,6,2021 Summer Tour,2021 Summer,Harry Hood,Hood,1,Shoreline Amphitheatre,Mountain View,CA,USA,
+2021-08-31,2021,0,18,1,e,2,0,18,2021 Summer Tour,2021 Summer,Fee,Fee,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2021-08-31,2021,0,19,6,e,0,0,11,2021 Summer Tour,2021 Summer,Wilson,Wilson,1,Shoreline Amphitheatre,Mountain View,CA,USA,
+2021-09-01,2021,0,1,2,1,2,0,5,2021 Summer Tour,2021 Summer,Mike's Song,Mike's,1,Shoreline Amphitheatre,Mountain View,CA,USA,>
+2021-09-01,2021,0,2,2,1,2,0,32,2021 Summer Tour,2021 Summer,The Man Who Stepped Into Yesterday,TMWSIY,1,Shoreline Amphitheatre,Mountain View,CA,USA,>
+2021-09-01,2021,0,3,2,1,2,0,32,2021 Summer Tour,2021 Summer,Avenu Malkenu,Avenu Malkenu,0,Shoreline Amphitheatre,Mountain View,CA,USA,>
+2021-09-01,2021,0,4,1,1,2,0,5,2021 Summer Tour,2021 Summer,Weekapaug Groove,Weekapaug,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2021-09-01,2021,0,5,1,1,2,0,27,2021 Summer Tour,2021 Summer,Brian and Robert,Brian and Robert,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2021-09-01,2021,0,6,1,1,2,0,15,2021 Summer Tour,2021 Summer,Thread,Thread,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2021-09-01,2021,0,7,1,1,2,0,12,2021 Summer Tour,2021 Summer,The Wedge,Wedge,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2021-09-01,2021,0,8,3,1,2,0,32,2021 Summer Tour,2021 Summer,Cities,Cities,0,Shoreline Amphitheatre,Mountain View,CA,USA,->
+2021-09-01,2021,0,9,2,1,2,0,19,2021 Summer Tour,2021 Summer,Passing Through,Passing Through,1,Shoreline Amphitheatre,Mountain View,CA,USA,>
+2021-09-01,2021,0,10,4,1,2,0,5,2021 Summer Tour,2021 Summer,Fluffhead,Fluffhead,1,Shoreline Amphitheatre,Mountain View,CA,USA,
+2021-09-01,2021,0,11,1,2,2,0,9,2021 Summer Tour,2021 Summer,The Lizards,Lizards,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2021-09-01,2021,0,12,2,2,2,0,7,2021 Summer Tour,2021 Summer,Tweezer,Tweezer,1,Shoreline Amphitheatre,Mountain View,CA,USA,>
+2021-09-01,2021,0,13,2,2,2,0,31,2021 Summer Tour,2021 Summer,Miss You,Miss You,1,Shoreline Amphitheatre,Mountain View,CA,USA,>
+2021-09-01,2021,0,14,2,2,2,0,5,2021 Summer Tour,2021 Summer,Piper,Piper,1,Shoreline Amphitheatre,Mountain View,CA,USA,>
+2021-09-01,2021,0,15,1,2,2,0,10,2021 Summer Tour,2021 Summer,Twenty Years Later,Twenty Years Later,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2021-09-01,2021,0,16,2,2,2,0,10,2021 Summer Tour,2021 Summer,Twist,Twist,1,Shoreline Amphitheatre,Mountain View,CA,USA,>
+2021-09-01,2021,0,17,5,2,2,0,5,2021 Summer Tour,2021 Summer,Backwards Down the Number Line,BDTNL,0,Shoreline Amphitheatre,Mountain View,CA,USA,
+2021-09-01,2021,0,18,1,e,2,0,6,2021 Summer Tour,2021 Summer,A Life Beyond The Dream,A Life Beyond The Dream,0,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2021-09-01,2021,0,19,6,e,2,0,6,2021 Summer Tour,2021 Summer,Tweezer Reprise,Tweeprise,1,Shoreline Amphitheatre,Mountain View,CA,USA,
+2021-09-03,2021,0,1,1,1,2,0,4,2021 Summer Tour,2021 Summer,46 Days,46 Days,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2021-09-03,2021,0,2,1,1,2,0,9,2021 Summer Tour,2021 Summer,Party Time,Party Time,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2021-09-03,2021,0,3,1,1,2,0,10,2021 Summer Tour,2021 Summer,Steam,Steam,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2021-09-03,2021,0,4,1,1,2,0,33,2021 Summer Tour,2021 Summer,Timber (Jerry the Mule),Timber Ho,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2021-09-03,2021,0,5,1,1,2,0,18,2021 Summer Tour,2021 Summer,Yarmouth Road,Yarmouth Road,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2021-09-03,2021,0,6,1,1,2,0,17,2021 Summer Tour,2021 Summer,Foam,Foam,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2021-09-03,2021,0,7,1,1,2,0,39,2021 Summer Tour,2021 Summer,Vultures,Vultures,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2021-09-03,2021,0,8,1,1,2,0,28,2021 Summer Tour,2021 Summer,Pebbles and Marbles,Pebbles and Marbles,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2021-09-03,2021,0,9,4,1,2,0,4,2021 Summer Tour,2021 Summer,Carini,Carini,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2021-09-03,2021,0,10,2,2,2,0,8,2021 Summer Tour,2021 Summer,Rise/Come Together,Rise/Come Together,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2021-09-03,2021,0,11,2,2,2,0,9,2021 Summer Tour,2021 Summer,A Song I Heard the Ocean Sing,ASIHTOS,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2021-09-03,2021,0,12,2,2,2,0,5,2021 Summer Tour,2021 Summer,Chalk Dust Torture,CDT,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2021-09-03,2021,0,13,2,2,2,0,3,2021 Summer Tour,2021 Summer,Beneath a Sea of Stars Part 1,Beneath a Sea of Stars Part 1,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2021-09-03,2021,0,14,3,2,2,0,9,2021 Summer Tour,2021 Summer,Light,Light,0,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2021-09-03,2021,0,15,3,2,2,0,19,2021 Summer Tour,2021 Summer,Plasma,Plasma,0,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2021-09-03,2021,0,16,1,2,2,0,0,2021 Summer Tour,2021 Summer,Chalk Dust Torture,CDT,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2021-09-03,2021,0,17,1,2,2,0,10,2021 Summer Tour,2021 Summer,Runaway Jim,Runaway Jim,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2021-09-03,2021,0,18,5,2,2,0,5,2021 Summer Tour,2021 Summer,Slave to the Traffic Light,Slave,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2021-09-03,2021,0,19,2,e,2,0,12,2021 Summer Tour,2021 Summer,Cavern,Cavern,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2021-09-03,2021,0,20,2,e,2,0,11,2021 Summer Tour,2021 Summer,Waste,Waste,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2021-09-03,2021,0,21,6,e,2,0,22,2021 Summer Tour,2021 Summer,Good Times Bad Times,GTBT,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2021-09-04,2021,0,1,2,1,2,0,29,2021 Summer Tour,2021 Summer,Alumni Blues,Alumni,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2021-09-04,2021,0,2,2,1,2,0,29,2021 Summer Tour,2021 Summer,Letter to Jimmy Page,LTJP,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2021-09-04,2021,0,3,1,1,2,0,0,2021 Summer Tour,2021 Summer,Alumni Blues,Alumni,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2021-09-04,2021,0,4,1,1,2,0,18,2021 Summer Tour,2021 Summer,Turtle in the Clouds,Turtle in the Clouds,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2021-09-04,2021,0,5,1,1,2,0,6,2021 Summer Tour,2021 Summer,Blaze On,Blaze On,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2021-09-04,2021,0,6,2,1,2,0,34,2021 Summer Tour,2021 Summer,Cool It Down,Cool It Down,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2021-09-04,2021,0,7,2,1,2,0,8,2021 Summer Tour,2021 Summer,Ghost,Ghost,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2021-09-04,2021,0,8,1,1,2,0,8,2021 Summer Tour,2021 Summer,Ya Mar,Ya Mar,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2021-09-04,2021,0,9,1,1,2,0,16,2021 Summer Tour,2021 Summer,Undermind,Undermind,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2021-09-04,2021,0,10,2,1,2,0,6,2021 Summer Tour,2021 Summer,Tube,Tube,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2021-09-04,2021,0,11,4,1,2,0,12,2021 Summer Tour,2021 Summer,David Bowie,Bowie,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2021-09-04,2021,0,12,2,2,2,0,4,2021 Summer Tour,2021 Summer,Everything's Right,Everything's Right,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2021-09-04,2021,0,13,2,2,2,0,11,2021 Summer Tour,2021 Summer,Fuego,Fuego,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2021-09-04,2021,0,14,2,2,2,0,17,2021 Summer Tour,2021 Summer,Farmhouse,Farmhouse,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2021-09-04,2021,0,15,3,2,2,0,12,2021 Summer Tour,2021 Summer,Mercury,Mercury,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2021-09-04,2021,0,16,2,2,2,0,43,2021 Summer Tour,2021 Summer,Seven Below,Seven Below,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2021-09-04,2021,0,17,1,2,2,0,6,2021 Summer Tour,2021 Summer,Drift While You're Sleeping,Drift While You're Sleeping,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2021-09-04,2021,0,18,5,2,2,0,7,2021 Summer Tour,2021 Summer,You Enjoy Myself,YEM,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2021-09-04,2021,0,19,6,e,2,0,65,2021 Summer Tour,2021 Summer,Bold As Love,Bold As Love,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2021-09-05,2021,0,1,1,1,2,0,5,2021 Summer Tour,2021 Summer,The Moma Dance,Moma,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2021-09-05,2021,0,2,1,1,2,0,100,2021 Summer Tour,2021 Summer,McGrupp and the Watchful Hosemasters,McGrupp,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2021-09-05,2021,0,3,2,1,2,0,6,2021 Summer Tour,2021 Summer,Sand,Sand,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2021-09-05,2021,0,4,2,1,2,0,7,2021 Summer Tour,2021 Summer,Sigma Oasis,Sigma Oasis,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2021-09-05,2021,0,5,1,1,2,0,83,2021 Summer Tour,2021 Summer,All of These Dreams,All of These Dreams,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2021-09-05,2021,0,6,1,1,2,0,9,2021 Summer Tour,2021 Summer,Reba,Reba,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2021-09-05,2021,0,7,4,1,2,0,5,2021 Summer Tour,2021 Summer,Bathtub Gin,Gin,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2021-09-05,2021,0,8,2,2,2,0,8,2021 Summer Tour,2021 Summer,Set Your Soul Free,Set Your Soul Free,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2021-09-05,2021,0,9,2,2,2,0,5,2021 Summer Tour,2021 Summer,Lonely Trip,Lonely Trip,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2021-09-05,2021,0,10,3,2,2,0,8,2021 Summer Tour,2021 Summer,Simple,Simple,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2021-09-05,2021,0,11,3,2,2,0,41,2021 Summer Tour,2021 Summer,Catapult,Catapult,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2021-09-05,2021,0,12,2,2,2,0,0,2021 Summer Tour,2021 Summer,Simple,Simple,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2021-09-05,2021,0,13,2,2,2,0,37,2021 Summer Tour,2021 Summer,Meatstick,Meatstick,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2021-09-05,2021,0,14,2,2,2,0,11,2021 Summer Tour,2021 Summer,Ruby Waves,Ruby Waves,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2021-09-05,2021,0,15,2,2,2,0,68,2021 Summer Tour,2021 Summer,Bliss,Bliss,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2021-09-05,2021,0,16,1,2,2,0,56,2021 Summer Tour,2021 Summer,Billy Breathes,Billy Breathes,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2021-09-05,2021,0,17,2,2,2,0,13,2021 Summer Tour,2021 Summer,Most Events Aren't Planned,Most Events Aren't Planned,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2021-09-05,2021,0,18,5,2,2,0,4,2021 Summer Tour,2021 Summer,Harry Hood,Hood,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2021-09-05,2021,0,19,2,e,2,0,10,2021 Summer Tour,2021 Summer,More,More,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2021-09-05,2021,0,20,6,e,2,0,6,2021 Summer Tour,2021 Summer,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2021-10-15,2021,0,1,1,1,2,0,5,2021 Fall Tour,2021 Fall,The Final Hurrah,The Final Hurrah,1,Golden 1 Center,Sacramento,CA,USA,","
+2021-10-15,2021,0,2,1,1,2,0,1,2021 Fall Tour,2021 Fall,Harry Hood,Hood,1,Golden 1 Center,Sacramento,CA,USA,","
+2021-10-15,2021,0,3,1,1,2,0,28,2021 Fall Tour,2021 Fall,Corinna,Corinna,0,Golden 1 Center,Sacramento,CA,USA,","
+2021-10-15,2021,0,4,2,1,2,0,10,2021 Fall Tour,2021 Fall,The Squirming Coil,Coil,1,Golden 1 Center,Sacramento,CA,USA,>
+2021-10-15,2021,0,5,1,1,2,0,7,2021 Fall Tour,2021 Fall,555,555,1,Golden 1 Center,Sacramento,CA,USA,","
+2021-10-15,2021,0,6,1,1,2,0,15,2021 Fall Tour,2021 Fall,Army of One,Army of One,1,Golden 1 Center,Sacramento,CA,USA,","
+2021-10-15,2021,0,7,1,1,2,0,73,2021 Fall Tour,2021 Fall,Beauty of My Dreams,Beauty of My Dreams,0,Golden 1 Center,Sacramento,CA,USA,","
+2021-10-15,2021,0,8,2,1,2,0,2,2021 Fall Tour,2021 Fall,Mercury,Mercury,1,Golden 1 Center,Sacramento,CA,USA,>
+2021-10-15,2021,0,9,4,1,2,0,6,2021 Fall Tour,2021 Fall,Character Zero,Character Zero,1,Golden 1 Center,Sacramento,CA,USA,
+2021-10-15,2021,0,10,3,2,2,0,7,2021 Fall Tour,2021 Fall,Scents and Subtle Sounds,Scents and Subtle Sounds,1,Golden 1 Center,Sacramento,CA,USA,->
+2021-10-15,2021,0,11,2,2,2,0,3,2021 Fall Tour,2021 Fall,Plasma,Plasma,0,Golden 1 Center,Sacramento,CA,USA,>
+2021-10-15,2021,0,12,2,2,2,0,6,2021 Fall Tour,2021 Fall,Free,Free,1,Golden 1 Center,Sacramento,CA,USA,>
+2021-10-15,2021,0,13,2,2,2,0,1,2021 Fall Tour,2021 Fall,Billy Breathes,Billy Breathes,1,Golden 1 Center,Sacramento,CA,USA,>
+2021-10-15,2021,0,14,2,2,2,0,4,2021 Fall Tour,2021 Fall,Piper,Piper,1,Golden 1 Center,Sacramento,CA,USA,>
+2021-10-15,2021,0,15,2,2,2,0,2,2021 Fall Tour,2021 Fall,Ghost,Ghost,1,Golden 1 Center,Sacramento,CA,USA,>
+2021-10-15,2021,0,16,2,2,2,0,1886,2021 Fall Tour,2021 Fall,And So To Bed,And So To Bed,1,Golden 1 Center,Sacramento,CA,USA,>
+2021-10-15,2021,0,17,2,2,2,0,1,2021 Fall Tour,2021 Fall,Sigma Oasis,Sigma Oasis,0,Golden 1 Center,Sacramento,CA,USA,>
+2021-10-15,2021,0,18,3,2,2,0,2,2021 Fall Tour,2021 Fall,Tube,Tube,1,Golden 1 Center,Sacramento,CA,USA,->
+2021-10-15,2021,0,19,1,2,2,0,108,2021 Fall Tour,2021 Fall,Brother,Brother,1,Golden 1 Center,Sacramento,CA,USA,","
+2021-10-15,2021,0,20,1,2,2,0,18,2021 Fall Tour,2021 Fall,When the Circus Comes,Circus,0,Golden 1 Center,Sacramento,CA,USA,","
+2021-10-15,2021,0,21,5,2,2,0,8,2021 Fall Tour,2021 Fall,Golgi Apparatus,Golgi,1,Golden 1 Center,Sacramento,CA,USA,
+2021-10-15,2021,0,22,6,e,2,0,1,2021 Fall Tour,2021 Fall,Sand,Sand,0,Golden 1 Center,Sacramento,CA,USA,
+2021-10-16,2021,0,1,1,1,2,0,8,2021 Fall Tour,2021 Fall,Possum,Possum,1,Chase Center,San Francisco,CA,USA,","
+2021-10-16,2021,0,2,2,1,2,0,13,2021 Fall Tour,2021 Fall,Halley's Comet,Halley's,1,Chase Center,San Francisco,CA,USA,>
+2021-10-16,2021,0,3,3,1,2,0,4,2021 Fall Tour,2021 Fall,46 Days,46 Days,1,Chase Center,San Francisco,CA,USA,->
+2021-10-16,2021,0,4,1,1,2,0,4,2021 Fall Tour,2021 Fall,Slave to the Traffic Light,Slave,1,Chase Center,San Francisco,CA,USA,","
+2021-10-16,2021,0,5,2,1,2,0,2,2021 Fall Tour,2021 Fall,Simple,Simple,1,Chase Center,San Francisco,CA,USA,>
+2021-10-16,2021,0,6,2,1,2,0,9,2021 Fall Tour,2021 Fall,Shade,Shade,1,Chase Center,San Francisco,CA,USA,>
+2021-10-16,2021,0,7,2,1,2,0,57,2021 Fall Tour,2021 Fall,Winterqueen,Winterqueen,0,Chase Center,San Francisco,CA,USA,>
+2021-10-16,2021,0,8,2,1,2,0,7,2021 Fall Tour,2021 Fall,Meat,Meat,1,Chase Center,San Francisco,CA,USA,>
+2021-10-16,2021,0,9,4,1,2,0,14,2021 Fall Tour,2021 Fall,Run Like an Antelope,Antelope,1,Chase Center,San Francisco,CA,USA,
+2021-10-16,2021,0,10,2,2,2,0,2,2021 Fall Tour,2021 Fall,Bathtub Gin,Gin,1,Chase Center,San Francisco,CA,USA,>
+2021-10-16,2021,0,11,2,2,2,0,3,2021 Fall Tour,2021 Fall,Everything's Right,Everything's Right,0,Chase Center,San Francisco,CA,USA,>
+2021-10-16,2021,0,12,2,2,2,0,197,2021 Fall Tour,2021 Fall,Frankie Says,Frankie Says,1,Chase Center,San Francisco,CA,USA,>
+2021-10-16,2021,0,13,1,2,2,0,5,2021 Fall Tour,2021 Fall,The Wedge,Wedge,1,Chase Center,San Francisco,CA,USA,","
+2021-10-16,2021,0,14,5,2,2,0,2,2021 Fall Tour,2021 Fall,The Moma Dance,Moma,1,Chase Center,San Francisco,CA,USA,
+2021-10-16,2021,0,15,6,e,0,0,4,2021 Fall Tour,2021 Fall,Carini,Carini,1,Chase Center,San Francisco,CA,USA,
+2021-10-17,2021,0,1,1,1,2,0,9,2021 Fall Tour,2021 Fall,Bug,Bug,0,Chase Center,San Francisco,CA,USA,","
+2021-10-17,2021,0,2,2,1,2,0,16,2021 Fall Tour,2021 Fall,My Soul,My Soul,0,Chase Center,San Francisco,CA,USA,>
+2021-10-17,2021,0,3,1,1,2,0,8,2021 Fall Tour,2021 Fall,Back on the Train,BOTT,0,Chase Center,San Francisco,CA,USA,","
+2021-10-17,2021,0,4,1,1,2,0,9,2021 Fall Tour,2021 Fall,Maze,Maze,1,Chase Center,San Francisco,CA,USA,","
+2021-10-17,2021,0,5,1,1,2,0,5,2021 Fall Tour,2021 Fall,Steam,Steam,1,Chase Center,San Francisco,CA,USA,","
+2021-10-17,2021,0,6,1,1,2,0,12,2021 Fall Tour,2021 Fall,Destiny Unbound,Destiny,1,Chase Center,San Francisco,CA,USA,","
+2021-10-17,2021,0,7,1,1,2,0,31,2021 Fall Tour,2021 Fall,Beauty of a Broken Heart,Beauty of a Broken Heart,0,Chase Center,San Francisco,CA,USA,","
+2021-10-17,2021,0,8,1,1,2,0,3,2021 Fall Tour,2021 Fall,Reba,Reba,1,Chase Center,San Francisco,CA,USA,","
+2021-10-17,2021,0,9,4,1,2,0,7,2021 Fall Tour,2021 Fall,I Never Needed You Like This Before,I Never Needed You Like This Before,0,Chase Center,San Francisco,CA,USA,
+2021-10-17,2021,0,10,1,2,2,0,19,2021 Fall Tour,2021 Fall,Evolve,Evolve,0,Chase Center,San Francisco,CA,USA,","
+2021-10-17,2021,0,11,1,2,2,0,3,2021 Fall Tour,2021 Fall,Set Your Soul Free,Set Your Soul Free,0,Chase Center,San Francisco,CA,USA,","
+2021-10-17,2021,0,12,2,2,2,0,25,2021 Fall Tour,2021 Fall,Wingsuit,Wingsuit,1,Chase Center,San Francisco,CA,USA,>
+2021-10-17,2021,0,13,5,2,2,0,5,2021 Fall Tour,2021 Fall,Chalk Dust Torture,CDT,1,Chase Center,San Francisco,CA,USA,
+2021-10-17,2021,0,14,1,e,2,0,18,2021 Fall Tour,2021 Fall,Lawn Boy,Lawn Boy,1,Chase Center,San Francisco,CA,USA,","
+2021-10-17,2021,0,15,6,e,2,0,7,2021 Fall Tour,2021 Fall,Wolfman's Brother,Wolfman's,1,Chase Center,San Francisco,CA,USA,
+2021-10-19,2021,0,1,3,1,2,0,10,2021 Fall Tour,2021 Fall,Down with Disease,DwD,1,Matthew Knight Arena,Eugene,OR,USA,->
+2021-10-19,2021,0,2,1,1,2,0,6,2021 Fall Tour,2021 Fall,Runaway Jim,Runaway Jim,1,Matthew Knight Arena,Eugene,OR,USA,","
+2021-10-19,2021,0,3,2,1,2,0,20,2021 Fall Tour,2021 Fall,Ocelot,Ocelot,1,Matthew Knight Arena,Eugene,OR,USA,>
+2021-10-19,2021,0,4,1,1,2,0,9,2021 Fall Tour,2021 Fall,Rift,Rift,1,Matthew Knight Arena,Eugene,OR,USA,","
+2021-10-19,2021,0,5,2,1,2,0,19,2021 Fall Tour,2021 Fall,Horn,Horn,1,Matthew Knight Arena,Eugene,OR,USA,>
+2021-10-19,2021,0,6,1,1,2,0,5,2021 Fall Tour,2021 Fall,Ya Mar,Ya Mar,0,Matthew Knight Arena,Eugene,OR,USA,","
+2021-10-19,2021,0,7,1,1,2,0,8,2021 Fall Tour,2021 Fall,Stash,Stash,1,Matthew Knight Arena,Eugene,OR,USA,","
+2021-10-19,2021,0,8,4,1,2,0,19,2021 Fall Tour,2021 Fall,Walls of the Cave,WotC,1,Matthew Knight Arena,Eugene,OR,USA,
+2021-10-19,2021,0,9,2,2,2,0,7,2021 Fall Tour,2021 Fall,Twist,Twist,1,Matthew Knight Arena,Eugene,OR,USA,>
+2021-10-19,2021,0,10,3,2,2,0,5,2021 Fall Tour,2021 Fall,Blaze On,Blaze On,1,Matthew Knight Arena,Eugene,OR,USA,->
+2021-10-19,2021,0,11,2,2,2,0,3,2021 Fall Tour,2021 Fall,Plasma,Plasma,0,Matthew Knight Arena,Eugene,OR,USA,>
+2021-10-19,2021,0,12,2,2,2,0,11,2021 Fall Tour,2021 Fall,Leaves,Leaves,1,Matthew Knight Arena,Eugene,OR,USA,>
+2021-10-19,2021,0,13,2,2,2,0,1889,2021 Fall Tour,2021 Fall,I Never Left Home,I Never Left Home,0,Matthew Knight Arena,Eugene,OR,USA,>
+2021-10-19,2021,0,14,2,2,2,0,22,2021 Fall Tour,2021 Fall,Sparkle,Sparkle,1,Matthew Knight Arena,Eugene,OR,USA,>
+2021-10-19,2021,0,15,2,2,2,0,14,2021 Fall Tour,2021 Fall,Also Sprach Zarathustra,2001,0,Matthew Knight Arena,Eugene,OR,USA,>
+2021-10-19,2021,0,16,5,2,2,0,3,2021 Fall Tour,2021 Fall,Sigma Oasis,Sigma Oasis,0,Matthew Knight Arena,Eugene,OR,USA,
+2021-10-19,2021,0,17,6,e,2,0,5,2021 Fall Tour,2021 Fall,Drift While You're Sleeping,Drift While You're Sleeping,0,Matthew Knight Arena,Eugene,OR,USA,
+2021-10-20,2021,0,1,1,1,2,0,10,2021 Fall Tour,2021 Fall,Mr. Completely,Mr. Completely,0,Matthew Knight Arena,Eugene,OR,USA,","
+2021-10-20,2021,0,2,3,1,2,0,28,2021 Fall Tour,2021 Fall,Energy,Energy,0,Matthew Knight Arena,Eugene,OR,USA,->
+2021-10-20,2021,0,3,1,1,2,0,7,2021 Fall Tour,2021 Fall,Timber (Jerry the Mule),Timber Ho,0,Matthew Knight Arena,Eugene,OR,USA,","
+2021-10-20,2021,0,4,2,1,2,0,18,2021 Fall Tour,2021 Fall,Casual Enlightenment,Casual Enlightenment,1,Matthew Knight Arena,Eugene,OR,USA,>
+2021-10-20,2021,0,5,1,1,2,0,11,2021 Fall Tour,2021 Fall,Divided Sky,Divided,1,Matthew Knight Arena,Eugene,OR,USA,","
+2021-10-20,2021,0,6,1,1,2,0,6,2021 Fall Tour,2021 Fall,Farmhouse,Farmhouse,1,Matthew Knight Arena,Eugene,OR,USA,","
+2021-10-20,2021,0,7,2,1,2,0,12,2021 Fall Tour,2021 Fall,Split Open and Melt,SOAMelt,1,Matthew Knight Arena,Eugene,OR,USA,>
+2021-10-20,2021,0,8,2,1,2,0,127,2021 Fall Tour,2021 Fall,End of Session,End of Session,1,Matthew Knight Arena,Eugene,OR,USA,>
+2021-10-20,2021,0,9,4,1,2,0,0,2021 Fall Tour,2021 Fall,Split Open and Melt,SOAMelt,1,Matthew Knight Arena,Eugene,OR,USA,
+2021-10-20,2021,0,10,2,2,2,0,15,2021 Fall Tour,2021 Fall,AC/DC Bag,Bag,1,Matthew Knight Arena,Eugene,OR,USA,>
+2021-10-20,2021,0,11,2,2,2,0,5,2021 Fall Tour,2021 Fall,Ruby Waves,Ruby Waves,0,Matthew Knight Arena,Eugene,OR,USA,>
+2021-10-20,2021,0,12,2,2,2,0,5,2021 Fall Tour,2021 Fall,Lonely Trip,Lonely Trip,0,Matthew Knight Arena,Eugene,OR,USA,>
+2021-10-20,2021,0,13,2,2,2,0,17,2021 Fall Tour,2021 Fall,Golden Age,Golden Age,0,Matthew Knight Arena,Eugene,OR,USA,>
+2021-10-20,2021,0,14,5,2,2,0,8,2021 Fall Tour,2021 Fall,Backwards Down the Number Line,BDTNL,0,Matthew Knight Arena,Eugene,OR,USA,
+2021-10-20,2021,0,15,2,e,2,0,9,2021 Fall Tour,2021 Fall,Wilson,Wilson,1,Matthew Knight Arena,Eugene,OR,USA,>
+2021-10-20,2021,0,16,6,e,2,0,5,2021 Fall Tour,2021 Fall,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Matthew Knight Arena,Eugene,OR,USA,
+2021-10-22,2021,0,1,1,1,2,0,39,2021 Fall Tour,2021 Fall,Julius,Julius,1,Ak-Chin Pavilion,Phoenix,AZ,USA,","
+2021-10-22,2021,0,2,3,1,2,0,26,2021 Fall Tour,2021 Fall,Martian Monster,Martian Monster,1,Ak-Chin Pavilion,Phoenix,AZ,USA,->
+2021-10-22,2021,0,3,2,1,2,0,10,2021 Fall Tour,2021 Fall,Soul Planet,Soul Planet,0,Ak-Chin Pavilion,Phoenix,AZ,USA,>
+2021-10-22,2021,0,4,2,1,2,0,11,2021 Fall Tour,2021 Fall,"My Friend, My Friend",My Friend,1,Ak-Chin Pavilion,Phoenix,AZ,USA,>
+2021-10-22,2021,0,5,1,1,2,0,10,2021 Fall Tour,2021 Fall,Bouncing Around the Room,Bouncin',1,Ak-Chin Pavilion,Phoenix,AZ,USA,","
+2021-10-22,2021,0,6,1,1,2,0,18,2021 Fall Tour,2021 Fall,Scent of a Mule,SOAMule,1,Ak-Chin Pavilion,Phoenix,AZ,USA,","
+2021-10-22,2021,0,7,2,1,2,0,6,2021 Fall Tour,2021 Fall,More,More,1,Ak-Chin Pavilion,Phoenix,AZ,USA,>
+2021-10-22,2021,0,8,4,1,2,0,5,2021 Fall Tour,2021 Fall,Ghost,Ghost,1,Ak-Chin Pavilion,Phoenix,AZ,USA,
+2021-10-22,2021,0,9,2,2,2,0,16,2021 Fall Tour,2021 Fall,Loving Cup,Loving Cup,0,Ak-Chin Pavilion,Phoenix,AZ,USA,>
+2021-10-22,2021,0,10,2,2,2,0,9,2021 Fall Tour,2021 Fall,Mike's Song,Mike's,1,Ak-Chin Pavilion,Phoenix,AZ,USA,>
+2021-10-22,2021,0,11,2,2,2,0,14,2021 Fall Tour,2021 Fall,I Am Hydrogen,Hydrogen,1,Ak-Chin Pavilion,Phoenix,AZ,USA,>
+2021-10-22,2021,0,12,2,2,2,0,9,2021 Fall Tour,2021 Fall,Weekapaug Groove,Weekapaug,1,Ak-Chin Pavilion,Phoenix,AZ,USA,>
+2021-10-22,2021,0,13,2,2,2,0,4,2021 Fall Tour,2021 Fall,Everything's Right,Everything's Right,0,Ak-Chin Pavilion,Phoenix,AZ,USA,>
+2021-10-22,2021,0,14,1,2,2,0,9,2021 Fall Tour,2021 Fall,A Life Beyond The Dream,A Life Beyond The Dream,0,Ak-Chin Pavilion,Phoenix,AZ,USA,","
+2021-10-22,2021,0,15,2,2,2,0,9,2021 Fall Tour,2021 Fall,Cities,Cities,0,Ak-Chin Pavilion,Phoenix,AZ,USA,>
+2021-10-22,2021,0,16,5,2,2,0,5,2021 Fall Tour,2021 Fall,Harry Hood,Hood,1,Ak-Chin Pavilion,Phoenix,AZ,USA,
+2021-10-22,2021,0,17,2,e,2,0,15,2021 Fall Tour,2021 Fall,Suzy Greenberg,Suzy,1,Ak-Chin Pavilion,Phoenix,AZ,USA,>
+2021-10-22,2021,0,18,6,e,2,0,8,2021 Fall Tour,2021 Fall,Cavern,Cavern,1,Ak-Chin Pavilion,Phoenix,AZ,USA,
+2021-10-23,2021,0,1,3,1,2,0,10,2021 Fall Tour,2021 Fall,Fluffhead,Fluffhead,1,North Island Credit Union Amphitheatre,Chula Vista,CA,USA,->
+2021-10-23,2021,0,2,3,1,2,0,19,2021 Fall Tour,2021 Fall,NICU,NICU,1,North Island Credit Union Amphitheatre,Chula Vista,CA,USA,->
+2021-10-23,2021,0,3,1,1,2,0,44,2021 Fall Tour,2021 Fall,Bye Bye Foot,Bye Bye Foot,1,North Island Credit Union Amphitheatre,Chula Vista,CA,USA,","
+2021-10-23,2021,0,4,2,1,2,0,6,2021 Fall Tour,2021 Fall,Tube,Tube,1,North Island Credit Union Amphitheatre,Chula Vista,CA,USA,>
+2021-10-23,2021,0,5,2,1,2,0,5,2021 Fall Tour,2021 Fall,Slave to the Traffic Light,Slave,1,North Island Credit Union Amphitheatre,Chula Vista,CA,USA,>
+2021-10-23,2021,0,6,2,1,2,0,16,2021 Fall Tour,2021 Fall,Llama,Llama,1,North Island Credit Union Amphitheatre,Chula Vista,CA,USA,>
+2021-10-23,2021,0,7,4,1,2,0,9,2021 Fall Tour,2021 Fall,Rise/Come Together,Rise/Come Together,0,North Island Credit Union Amphitheatre,Chula Vista,CA,USA,
+2021-10-23,2021,0,8,2,2,2,0,14,2021 Fall Tour,2021 Fall,No Men In No Man's Land,NMINML,1,North Island Credit Union Amphitheatre,Chula Vista,CA,USA,>
+2021-10-23,2021,0,9,2,2,2,0,6,2021 Fall Tour,2021 Fall,Free,Free,1,North Island Credit Union Amphitheatre,Chula Vista,CA,USA,>
+2021-10-23,2021,0,10,2,2,2,0,19,2021 Fall Tour,2021 Fall,Joy,Joy,1,North Island Credit Union Amphitheatre,Chula Vista,CA,USA,>
+2021-10-23,2021,0,11,3,2,2,0,6,2021 Fall Tour,2021 Fall,Sand,Sand,0,North Island Credit Union Amphitheatre,Chula Vista,CA,USA,->
+2021-10-23,2021,0,12,2,2,2,0,6,2021 Fall Tour,2021 Fall,Piper,Piper,1,North Island Credit Union Amphitheatre,Chula Vista,CA,USA,>
+2021-10-23,2021,0,13,5,2,2,0,6,2021 Fall Tour,2021 Fall,Scents and Subtle Sounds,Scents and Subtle Sounds,1,North Island Credit Union Amphitheatre,Chula Vista,CA,USA,
+2021-10-23,2021,0,14,1,e,2,0,2,2021 Fall Tour,2021 Fall,Lonely Trip,Lonely Trip,0,North Island Credit Union Amphitheatre,Chula Vista,CA,USA,","
+2021-10-23,2021,0,15,6,e,2,0,12,2021 Fall Tour,2021 Fall,First Tube,First Tube,0,North Island Credit Union Amphitheatre,Chula Vista,CA,USA,
+2021-10-24,2021,0,1,2,1,2,0,22,2021 Fall Tour,2021 Fall,A Wave of Hope,A Wave of Hope,0,The Forum,Inglewood,CA,USA,>
+2021-10-24,2021,0,2,2,1,2,0,9,2021 Fall Tour,2021 Fall,You Enjoy Myself,YEM,1,The Forum,Inglewood,CA,USA,>
+2021-10-24,2021,0,3,3,1,2,0,6,2021 Fall Tour,2021 Fall,The Moma Dance,Moma,1,The Forum,Inglewood,CA,USA,->
+2021-10-24,2021,0,4,3,1,2,0,6,2021 Fall Tour,2021 Fall,Simple,Simple,1,The Forum,Inglewood,CA,USA,->
+2021-10-24,2021,0,5,3,1,2,0,59,2021 Fall Tour,2021 Fall,Waiting All Night,Waiting All Night,1,The Forum,Inglewood,CA,USA,->
+2021-10-24,2021,0,6,1,1,2,0,5,2021 Fall Tour,2021 Fall,Maze,Maze,1,The Forum,Inglewood,CA,USA,","
+2021-10-24,2021,0,7,3,1,2,0,12,2021 Fall Tour,2021 Fall,Fee,Fee,1,The Forum,Inglewood,CA,USA,->
+2021-10-24,2021,0,8,2,1,2,0,5,2021 Fall Tour,2021 Fall,Steam,Steam,1,The Forum,Inglewood,CA,USA,>
+2021-10-24,2021,0,9,4,1,2,0,6,2021 Fall Tour,2021 Fall,Run Like an Antelope,Antelope,1,The Forum,Inglewood,CA,USA,
+2021-10-24,2021,0,10,1,2,2,0,18,2021 Fall Tour,2021 Fall,Cars Trucks Buses,CTB,1,The Forum,Inglewood,CA,USA,","
+2021-10-24,2021,0,11,3,2,2,0,11,2021 Fall Tour,2021 Fall,Tweezer,Tweezer,1,The Forum,Inglewood,CA,USA,->
+2021-10-24,2021,0,12,3,2,2,0,493,2021 Fall Tour,2021 Fall,L.A. Woman,L.A. Woman,0,The Forum,Inglewood,CA,USA,->
+2021-10-24,2021,0,13,3,2,2,0,3,2021 Fall Tour,2021 Fall,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,The Forum,Inglewood,CA,USA,->
+2021-10-24,2021,0,14,2,2,2,0,15,2021 Fall Tour,2021 Fall,What's the Use?,WTU?,1,The Forum,Inglewood,CA,USA,>
+2021-10-24,2021,0,15,2,2,2,0,0,2021 Fall Tour,2021 Fall,Tweezer,Tweezer,1,The Forum,Inglewood,CA,USA,>
+2021-10-24,2021,0,16,2,2,2,0,19,2021 Fall Tour,2021 Fall,Birds of a Feather,BOAF,1,The Forum,Inglewood,CA,USA,>
+2021-10-24,2021,0,17,3,2,2,0,5,2021 Fall Tour,2021 Fall,Chalk Dust Torture,CDT,1,The Forum,Inglewood,CA,USA,->
+2021-10-24,2021,0,18,2,2,2,0,14,2021 Fall Tour,2021 Fall,Boogie On Reggae Woman,Boogie On,0,The Forum,Inglewood,CA,USA,>
+2021-10-24,2021,0,19,3,2,2,0,6,2021 Fall Tour,2021 Fall,Carini,Carini,1,The Forum,Inglewood,CA,USA,->
+2021-10-24,2021,0,20,2,2,2,0,3,2021 Fall Tour,2021 Fall,Mr. Completely,Mr. Completely,0,The Forum,Inglewood,CA,USA,>
+2021-10-24,2021,0,21,5,2,2,0,11,2021 Fall Tour,2021 Fall,Tweezer Reprise,Tweeprise,1,The Forum,Inglewood,CA,USA,
+2021-10-24,2021,0,22,1,e,2,0,39,2021 Fall Tour,2021 Fall,Grind,Grind,1,The Forum,Inglewood,CA,USA,","
+2021-10-24,2021,0,23,6,e,2,0,6,2021 Fall Tour,2021 Fall,Bathtub Gin,Gin,1,The Forum,Inglewood,CA,USA,
+2021-10-26,2021,0,1,3,1,2,0,11,2021 Fall Tour,2021 Fall,Pebbles and Marbles,Pebbles and Marbles,0,Santa Barbara Bowl,Santa Barbara,CA,USA,->
+2021-10-26,2021,0,2,2,1,2,0,22,2021 Fall Tour,2021 Fall,Makisupa Policeman,Makisupa,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
+2021-10-26,2021,0,3,2,1,2,0,21,2021 Fall Tour,2021 Fall,Sample in a Jar,Sample,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
+2021-10-26,2021,0,4,2,1,2,0,1894,2021 Fall Tour,2021 Fall,The Silver Light,The Silver Light,0,Santa Barbara Bowl,Santa Barbara,CA,USA,>
+2021-10-26,2021,0,5,2,1,2,0,7,2021 Fall Tour,2021 Fall,Halley's Comet,Halley's,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
+2021-10-26,2021,0,6,1,1,2,0,15,2021 Fall Tour,2021 Fall,Mountains in the Mist,Mist,0,Santa Barbara Bowl,Santa Barbara,CA,USA,","
+2021-10-26,2021,0,7,2,1,2,0,16,2021 Fall Tour,2021 Fall,Mull,Mull,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
+2021-10-26,2021,0,8,4,1,2,0,6,2021 Fall Tour,2021 Fall,Set Your Soul Free,Set Your Soul Free,0,Santa Barbara Bowl,Santa Barbara,CA,USA,
+2021-10-26,2021,0,9,2,2,2,0,5,2021 Fall Tour,2021 Fall,Blaze On,Blaze On,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
+2021-10-26,2021,0,10,2,2,2,0,11,2021 Fall Tour,2021 Fall,Beneath a Sea of Stars Part 1,Beneath a Sea of Stars Part 1,0,Santa Barbara Bowl,Santa Barbara,CA,USA,>
+2021-10-26,2021,0,11,2,2,2,0,7,2021 Fall Tour,2021 Fall,46 Days,46 Days,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
+2021-10-26,2021,0,12,3,2,2,0,22,2021 Fall Tour,2021 Fall,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Santa Barbara Bowl,Santa Barbara,CA,USA,->
+2021-10-26,2021,0,13,1,2,2,0,3,2021 Fall Tour,2021 Fall,Weekapaug Groove,Weekapaug,1,Santa Barbara Bowl,Santa Barbara,CA,USA,","
+2021-10-26,2021,0,14,1,2,2,0,15,2021 Fall Tour,2021 Fall,About to Run,About to Run,0,Santa Barbara Bowl,Santa Barbara,CA,USA,","
+2021-10-26,2021,0,15,2,2,2,0,13,2021 Fall Tour,2021 Fall,If I Could,If I Could,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
+2021-10-26,2021,0,16,5,2,2,0,5,2021 Fall Tour,2021 Fall,Sigma Oasis,Sigma Oasis,0,Santa Barbara Bowl,Santa Barbara,CA,USA,
+2021-10-26,2021,0,17,2,e,2,0,51,2021 Fall Tour,2021 Fall,Fuck Your Face,FYF,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
+2021-10-26,2021,0,18,2,e,2,0,9,2021 Fall Tour,2021 Fall,Meatstick,Meatstick,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
+2021-10-26,2021,0,19,2,e,2,0,12,2021 Fall Tour,2021 Fall,The Lizards,Lizards,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
+2021-10-26,2021,0,20,6,e,0,0,3,2021 Fall Tour,2021 Fall,A Life Beyond The Dream,A Life Beyond The Dream,0,Santa Barbara Bowl,Santa Barbara,CA,USA,
+2021-10-28,2021,0,1,2,1,2,0,6,2021 Fall Tour,2021 Fall,Also Sprach Zarathustra,2001,0,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-28,2021,0,2,2,1,2,0,131,2021 Fall Tour,2021 Fall,1999,1999,0,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-28,2021,0,3,2,1,2,0,9,2021 Fall Tour,2021 Fall,555,555,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-28,2021,0,4,1,1,2,0,1,2021 Fall Tour,2021 Fall,46 Days,46 Days,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-28,2021,0,5,2,1,2,0,27,2021 Fall Tour,2021 Fall,Strawberry Letter 23,Strawberry Letter 23,0,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-28,2021,0,6,4,1,2,0,13,2021 Fall Tour,2021 Fall,Twenty Years Later,Twenty Years Later,1,MGM Grand Garden Arena,Las Vegas,NV,USA,
+2021-10-28,2021,0,7,2,2,2,0,11,2021 Fall Tour,2021 Fall,Seven Below,Seven Below,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-28,2021,0,8,2,2,2,0,1895,2021 Fall Tour,2021 Fall,If 6 Was 9,If 6 Was 9,0,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-28,2021,0,9,2,2,2,0,148,2021 Fall Tour,2021 Fall,Five Years,Five Years,0,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-28,2021,0,10,3,2,2,0,436,2021 Fall Tour,2021 Fall,Two Versions of Me,Two Versions of Me,1,MGM Grand Garden Arena,Las Vegas,NV,USA,->
+2021-10-28,2021,0,11,1,2,2,0,193,2021 Fall Tour,2021 Fall,NO2,NO2,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-28,2021,0,12,1,2,2,0,9,2021 Fall Tour,2021 Fall,Army of One,Army of One,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-28,2021,0,13,1,2,2,0,26,2021 Fall Tour,2021 Fall,My Sweet One,MSO,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-28,2021,0,14,2,2,2,0,3,2021 Fall Tour,2021 Fall,First Tube,First Tube,0,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-28,2021,0,15,5,2,2,0,9,2021 Fall Tour,2021 Fall,Character Zero,Character Zero,1,MGM Grand Garden Arena,Las Vegas,NV,USA,
+2021-10-28,2021,0,16,1,e,2,0,5,2021 Fall Tour,2021 Fall,Backwards Down the Number Line,BDTNL,0,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-28,2021,0,17,6,e,2,0,2,2021 Fall Tour,2021 Fall,Grind,Grind,1,MGM Grand Garden Arena,Las Vegas,NV,USA,
+2021-10-29,2021,0,1,1,1,2,0,52,2021 Fall Tour,2021 Fall,Olivia's Pool,Olivia's Pool,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-29,2021,0,2,2,1,2,0,15,2021 Fall Tour,2021 Fall,Axilla (Part II),Axilla (Part II),1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-29,2021,0,3,2,1,2,0,5,2021 Fall Tour,2021 Fall,Mike's Song,Mike's,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-29,2021,0,4,2,1,2,0,5,2021 Fall Tour,2021 Fall,I Am Hydrogen,Hydrogen,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-29,2021,0,5,1,1,2,0,2,2021 Fall Tour,2021 Fall,Weekapaug Groove,Weekapaug,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-29,2021,0,6,1,1,2,0,9,2021 Fall Tour,2021 Fall,Shade,Shade,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-29,2021,0,7,4,1,2,0,16,2021 Fall Tour,2021 Fall,I Always Wanted It This Way,I Always Wanted It This Way,1,MGM Grand Garden Arena,Las Vegas,NV,USA,
+2021-10-29,2021,0,8,2,2,2,0,40,2021 Fall Tour,2021 Fall,Ass Handed,Ass Handed,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-29,2021,0,9,2,2,2,0,3,2021 Fall Tour,2021 Fall,Tweezer,Tweezer,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-29,2021,0,10,1,2,2,0,21,2021 Fall Tour,2021 Fall,Funky Bitch,Funky Bitch,0,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-29,2021,0,11,1,2,2,0,8,2021 Fall Tour,2021 Fall,Reba,Reba,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-29,2021,0,12,3,2,2,0,4,2021 Fall Tour,2021 Fall,Sand,Sand,0,MGM Grand Garden Arena,Las Vegas,NV,USA,->
+2021-10-29,2021,0,13,3,2,2,0,0,2021 Fall Tour,2021 Fall,Tweezer,Tweezer,1,MGM Grand Garden Arena,Las Vegas,NV,USA,->
+2021-10-29,2021,0,14,2,2,2,0,2,2021 Fall Tour,2021 Fall,Sigma Oasis,Sigma Oasis,0,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-29,2021,0,15,5,2,2,0,48,2021 Fall Tour,2021 Fall,Walk Away,Walk Away,0,MGM Grand Garden Arena,Las Vegas,NV,USA,
+2021-10-29,2021,0,16,2,e,2,0,5,2021 Fall Tour,2021 Fall,Julius,Julius,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-29,2021,0,17,6,e,2,0,3,2021 Fall Tour,2021 Fall,Tweezer Reprise,Tweeprise,1,MGM Grand Garden Arena,Las Vegas,NV,USA,
+2021-10-30,2021,0,1,2,1,2,0,43,2021 Fall Tour,2021 Fall,The Dogs,The Dogs,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-30,2021,0,2,1,1,2,0,8,2021 Fall Tour,2021 Fall,Ocelot,Ocelot,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-30,2021,0,3,1,1,2,0,13,2021 Fall Tour,2021 Fall,Turtle in the Clouds,Turtle in the Clouds,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-30,2021,0,4,1,1,2,0,4,2021 Fall Tour,2021 Fall,Run Like an Antelope,Antelope,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-30,2021,0,5,1,1,2,0,19,2021 Fall Tour,2021 Fall,Camel Walk,Camel Walk,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-30,2021,0,6,2,1,2,0,23,2021 Fall Tour,2021 Fall,Wombat,Wombat,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-30,2021,0,7,1,1,2,0,43,2021 Fall Tour,2021 Fall,Guyute,Guyute,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-30,2021,0,8,1,1,2,0,48,2021 Fall Tour,2021 Fall,Big Black Furry Creature from Mars,BBFCFM,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-30,2021,0,9,1,1,2,0,332,2021 Fall Tour,2021 Fall,Shaggy Dog,Shaggy Dog,0,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-30,2021,0,10,1,1,2,0,41,2021 Fall Tour,2021 Fall,Dog Faced Boy,Dog Faced Boy,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-30,2021,0,11,1,1,2,0,20,2021 Fall Tour,2021 Fall,The Sloth,Sloth,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-30,2021,0,12,1,1,2,0,5,2021 Fall Tour,2021 Fall,Llama,Llama,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-30,2021,0,13,4,1,2,0,131,2021 Fall Tour,2021 Fall,I Am the Walrus,I Am the Walrus,0,MGM Grand Garden Arena,Las Vegas,NV,USA,
+2021-10-30,2021,0,14,1,2,2,0,56,2021 Fall Tour,2021 Fall,Dogs Stole Things,Dogs Stole Things,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-30,2021,0,15,2,2,2,0,35,2021 Fall Tour,2021 Fall,Your Pet Cat,Your Pet Cat,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-30,2021,0,16,2,2,2,0,8,2021 Fall Tour,2021 Fall,Runaway Jim,Runaway Jim,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-30,2021,0,17,3,2,2,0,5,2021 Fall Tour,2021 Fall,Piper,Piper,1,MGM Grand Garden Arena,Las Vegas,NV,USA,->
+2021-10-30,2021,0,18,1,2,2,0,4,2021 Fall Tour,2021 Fall,Birds of a Feather,BOAF,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-30,2021,0,19,2,2,2,0,130,2021 Fall Tour,2021 Fall,Harpua,Harpua,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-30,2021,0,20,2,2,2,0,9,2021 Fall Tour,2021 Fall,Bug,Bug,0,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-30,2021,0,21,1,2,2,0,3,2021 Fall Tour,2021 Fall,The Lizards,Lizards,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-30,2021,0,22,5,2,2,0,7,2021 Fall Tour,2021 Fall,Farmhouse,Farmhouse,1,MGM Grand Garden Arena,Las Vegas,NV,USA,
+2021-10-30,2021,0,23,1,e,2,0,14,2021 Fall Tour,2021 Fall,Vultures,Vultures,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-30,2021,0,24,2,e,2,0,30,2021 Fall Tour,2021 Fall,Sleeping Monkey,Sleeping Monkey,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-30,2021,0,25,6,e,2,0,10,2021 Fall Tour,2021 Fall,Possum,Possum,1,MGM Grand Garden Arena,Las Vegas,NV,USA,
+2021-10-31,2021,0,1,1,1,0,0,31,2021 Fall Tour,2021 Fall,Buried Alive,Buried Alive,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-31,2021,0,2,2,1,0,0,47,2021 Fall Tour,2021 Fall,Roses Are Free,Roses,0,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-31,2021,0,3,1,1,0,0,7,2021 Fall Tour,2021 Fall,Ghost,Ghost,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-31,2021,0,4,1,1,0,0,10,2021 Fall Tour,2021 Fall,Wolfman's Brother,Wolfman's,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-31,2021,0,5,2,1,0,0,31,2021 Fall Tour,2021 Fall,Kill Devil Falls,KDF,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-31,2021,0,6,1,1,0,0,6,2021 Fall Tour,2021 Fall,Free,Free,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-31,2021,0,7,4,1,0,0,14,2021 Fall Tour,2021 Fall,David Bowie,Bowie,1,MGM Grand Garden Arena,Las Vegas,NV,USA,
+2021-10-31,2021,0,8,1,2,0,0,1902,2021 Fall Tour,2021 Fall,Knuckle Bone Broth Avenue,KBBA,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-31,2021,0,9,1,2,0,0,0,2021 Fall Tour,2021 Fall,Get More Down,Get More Down,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-31,2021,0,10,1,2,0,0,0,2021 Fall Tour,2021 Fall,Egg in a Hole,Egg in a Hole,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-31,2021,0,11,1,2,0,0,0,2021 Fall Tour,2021 Fall,Thanksgiving,Thanksgiving,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-31,2021,0,12,2,2,0,0,0,2021 Fall Tour,2021 Fall,Clear Your Mind,Clear Your Mind,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-31,2021,0,13,1,2,0,0,1898,2021 Fall Tour,2021 Fall,The 9th Cube,The 9th Cube,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-31,2021,0,14,1,2,0,0,0,2021 Fall Tour,2021 Fall,The Inner Reaches of Outer,The Inner Reaches of Outer,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-31,2021,0,15,1,2,0,0,0,2021 Fall Tour,2021 Fall,Don't Doubt Me,Don't Doubt Me,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-31,2021,0,16,1,2,0,0,0,2021 Fall Tour,2021 Fall,The Unwinding,The Unwinding,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-31,2021,0,17,1,2,0,0,0,2021 Fall Tour,2021 Fall,Something Living Here,Something Living Here,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-31,2021,0,18,1,2,0,0,1902,2021 Fall Tour,2021 Fall,The Howling,The Howling,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-31,2021,0,19,4,2,0,0,0,2021 Fall Tour,2021 Fall,I Am in Miami,I Am in Miami,1,MGM Grand Garden Arena,Las Vegas,NV,USA,
+2021-10-31,2021,0,20,2,3,0,0,5,2021 Fall Tour,2021 Fall,Carini,Carini,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-31,2021,0,21,1,3,0,0,6,2021 Fall Tour,2021 Fall,Lonely Trip,Lonely Trip,0,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-31,2021,0,22,3,3,0,0,7,2021 Fall Tour,2021 Fall,Soul Planet,Soul Planet,0,MGM Grand Garden Arena,Las Vegas,NV,USA,->
+2021-10-31,2021,0,23,2,3,0,0,24,2021 Fall Tour,2021 Fall,Death Don't Hurt Very Long,DDHVL,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2021-10-31,2021,0,24,1,3,0,0,9,2021 Fall Tour,2021 Fall,Twist,Twist,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2021-10-31,2021,0,25,5,3,0,0,9,2021 Fall Tour,2021 Fall,Drift While You're Sleeping,Drift While You're Sleeping,0,MGM Grand Garden Arena,Las Vegas,NV,USA,
+2021-10-31,2021,0,26,6,e,0,0,7,2021 Fall Tour,2021 Fall,Harry Hood,Hood,1,MGM Grand Garden Arena,Las Vegas,NV,USA,
+2021-12-31,2021,0,1,1,1,2,0,6,Not Part of a Tour,No Tour,The Moma Dance,Moma,1,Rock Lititz,Lititz,PA,USA,","
+2021-12-31,2021,0,1,1,1,2,0,6,Not Part of a Tour,No Tour,The Moma Dance,Moma,1,Rock Lititz,Lititz,PA,USA,","
+2021-12-31,2021,0,2,1,1,2,0,7,Not Part of a Tour,No Tour,Tube,Tube,1,Rock Lititz,Lititz,PA,USA,","
+2021-12-31,2021,0,2,1,1,2,0,7,Not Part of a Tour,No Tour,Tube,Tube,1,Rock Lititz,Lititz,PA,USA,","
+2021-12-31,2021,0,3,1,1,2,0,4,Not Part of a Tour,No Tour,46 Days,46 Days,1,Rock Lititz,Lititz,PA,USA,","
+2021-12-31,2021,0,3,1,1,2,0,4,Not Part of a Tour,No Tour,46 Days,46 Days,1,Rock Lititz,Lititz,PA,USA,","
+2021-12-31,2021,0,4,1,1,2,0,390,Not Part of a Tour,No Tour,Time Turns Elastic,TTE,0,Rock Lititz,Lititz,PA,USA,","
+2021-12-31,2021,0,4,1,1,2,0,390,Not Part of a Tour,No Tour,Time Turns Elastic,TTE,0,Rock Lititz,Lititz,PA,USA,","
+2021-12-31,2021,0,5,1,1,2,0,1,Not Part of a Tour,No Tour,Free,Free,1,Rock Lititz,Lititz,PA,USA,","
+2021-12-31,2021,0,5,1,1,2,0,1,Not Part of a Tour,No Tour,Free,Free,1,Rock Lititz,Lititz,PA,USA,","
+2021-12-31,2021,0,6,2,1,2,0,1,Not Part of a Tour,No Tour,Ghost,Ghost,1,Rock Lititz,Lititz,PA,USA,>
+2021-12-31,2021,0,6,2,1,2,0,1,Not Part of a Tour,No Tour,Ghost,Ghost,1,Rock Lititz,Lititz,PA,USA,>
+2021-12-31,2021,0,7,1,1,2,0,7,Not Part of a Tour,No Tour,Slave to the Traffic Light,Slave,1,Rock Lititz,Lititz,PA,USA,","
+2021-12-31,2021,0,7,1,1,2,0,7,Not Part of a Tour,No Tour,Slave to the Traffic Light,Slave,1,Rock Lititz,Lititz,PA,USA,","
+2021-12-31,2021,0,8,4,1,2,0,8,Not Part of a Tour,No Tour,Cavern,Cavern,1,Rock Lititz,Lititz,PA,USA,
+2021-12-31,2021,0,8,4,1,2,0,8,Not Part of a Tour,No Tour,Cavern,Cavern,1,Rock Lititz,Lititz,PA,USA,
+2021-12-31,2021,0,9,2,2,2,0,3,Not Part of a Tour,No Tour,Sigma Oasis,Sigma Oasis,0,Rock Lititz,Lititz,PA,USA,>
+2021-12-31,2021,0,9,2,2,2,0,3,Not Part of a Tour,No Tour,Sigma Oasis,Sigma Oasis,0,Rock Lititz,Lititz,PA,USA,>
+2021-12-31,2021,0,10,2,2,2,0,10,Not Part of a Tour,No Tour,Down with Disease,DwD,1,Rock Lititz,Lititz,PA,USA,>
+2021-12-31,2021,0,10,2,2,2,0,10,Not Part of a Tour,No Tour,Down with Disease,DwD,1,Rock Lititz,Lititz,PA,USA,>
+2021-12-31,2021,0,11,1,2,2,0,17,Not Part of a Tour,No Tour,Miss You,Miss You,1,Rock Lititz,Lititz,PA,USA,","
+2021-12-31,2021,0,11,1,2,2,0,17,Not Part of a Tour,No Tour,Miss You,Miss You,1,Rock Lititz,Lititz,PA,USA,","
+2021-12-31,2021,0,12,2,2,2,0,6,Not Part of a Tour,No Tour,You Enjoy Myself,YEM,1,Rock Lititz,Lititz,PA,USA,>
+2021-12-31,2021,0,12,2,2,2,0,6,Not Part of a Tour,No Tour,You Enjoy Myself,YEM,1,Rock Lititz,Lititz,PA,USA,>
+2021-12-31,2021,0,13,2,2,2,0,12,Not Part of a Tour,No Tour,Frankie Says,Frankie Says,1,Rock Lititz,Lititz,PA,USA,>
+2021-12-31,2021,0,13,2,2,2,0,12,Not Part of a Tour,No Tour,Frankie Says,Frankie Says,1,Rock Lititz,Lititz,PA,USA,>
+2021-12-31,2021,0,14,2,2,2,0,13,Not Part of a Tour,No Tour,Mercury,Mercury,1,Rock Lititz,Lititz,PA,USA,>
+2021-12-31,2021,0,14,2,2,2,0,13,Not Part of a Tour,No Tour,Mercury,Mercury,1,Rock Lititz,Lititz,PA,USA,>
+2021-12-31,2021,0,15,1,2,2,0,2,Not Part of a Tour,No Tour,Possum,Possum,1,Rock Lititz,Lititz,PA,USA,","
+2021-12-31,2021,0,15,1,2,2,0,2,Not Part of a Tour,No Tour,Possum,Possum,1,Rock Lititz,Lititz,PA,USA,","
+2021-12-31,2021,0,16,4,2,2,0,5,Not Part of a Tour,No Tour,A Life Beyond The Dream,A Life Beyond The Dream,0,Rock Lititz,Lititz,PA,USA,
+2021-12-31,2021,0,16,4,2,2,0,5,Not Part of a Tour,No Tour,A Life Beyond The Dream,A Life Beyond The Dream,0,Rock Lititz,Lititz,PA,USA,
+2021-12-31,2021,0,17,2,3,2,0,5,Not Part of a Tour,No Tour,Blaze On,Blaze On,1,Rock Lititz,Lititz,PA,USA,>
+2021-12-31,2021,0,17,2,3,2,0,5,Not Part of a Tour,No Tour,Blaze On,Blaze On,1,Rock Lititz,Lititz,PA,USA,>
+2021-12-31,2021,0,18,1,3,2,0,6,Not Part of a Tour,No Tour,What's the Use?,WTU?,1,Rock Lititz,Lititz,PA,USA,","
+2021-12-31,2021,0,18,1,3,2,0,6,Not Part of a Tour,No Tour,What's the Use?,WTU?,1,Rock Lititz,Lititz,PA,USA,","
+2021-12-31,2021,0,19,2,3,2,0,8,Not Part of a Tour,No Tour,Everything's Right,Everything's Right,0,Rock Lititz,Lititz,PA,USA,>
+2021-12-31,2021,0,19,2,3,2,0,8,Not Part of a Tour,No Tour,Everything's Right,Everything's Right,0,Rock Lititz,Lititz,PA,USA,>
+2021-12-31,2021,0,20,2,3,2,0,40,Not Part of a Tour,No Tour,Auld Lang Syne,Auld Lang Syne,0,Rock Lititz,Lititz,PA,USA,>
+2021-12-31,2021,0,20,2,3,2,0,40,Not Part of a Tour,No Tour,Auld Lang Syne,Auld Lang Syne,0,Rock Lititz,Lititz,PA,USA,>
+2021-12-31,2021,0,21,2,3,2,0,0,Not Part of a Tour,No Tour,Everything's Right,Everything's Right,0,Rock Lititz,Lititz,PA,USA,>
+2021-12-31,2021,0,21,2,3,2,0,0,Not Part of a Tour,No Tour,Everything's Right,Everything's Right,0,Rock Lititz,Lititz,PA,USA,>
+2021-12-31,2021,0,22,1,3,2,0,1,Not Part of a Tour,No Tour,Twist,Twist,1,Rock Lititz,Lititz,PA,USA,","
+2021-12-31,2021,0,22,1,3,2,0,1,Not Part of a Tour,No Tour,Twist,Twist,1,Rock Lititz,Lititz,PA,USA,","
+2021-12-31,2021,0,23,2,3,2,0,1312,Not Part of a Tour,No Tour,Baby Lemonade,Baby Lemonade,0,Rock Lititz,Lititz,PA,USA,>
+2021-12-31,2021,0,23,2,3,2,0,1312,Not Part of a Tour,No Tour,Baby Lemonade,Baby Lemonade,0,Rock Lititz,Lititz,PA,USA,>
+2021-12-31,2021,0,24,1,3,2,0,47,Not Part of a Tour,No Tour,Hold Your Head Up,HYHU,0,Rock Lititz,Lititz,PA,USA,","
+2021-12-31,2021,0,24,1,3,2,0,47,Not Part of a Tour,No Tour,Hold Your Head Up,HYHU,0,Rock Lititz,Lititz,PA,USA,","
+2021-12-31,2021,0,25,6,3,2,0,1,Not Part of a Tour,No Tour,Harry Hood,Hood,1,Rock Lititz,Lititz,PA,USA,
+2021-12-31,2021,0,25,6,3,2,0,1,Not Part of a Tour,No Tour,Harry Hood,Hood,1,Rock Lititz,Lititz,PA,USA,

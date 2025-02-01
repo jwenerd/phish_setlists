@@ -1,0 +1,421 @@
+showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,tourwhen,song,nickname,is_original,venue,city,state,country,trans_mark
+1987-01-21,1987,0,1,4,1,0,0,7,1987 Tour,1987,Wilson,Wilson,1,Hunt's,Burlington,VT,USA,
+1987-01-21,1987,0,2,1,2,0,0,7,1987 Tour,1987,I Am Hydrogen,Hydrogen,1,Hunt's,Burlington,VT,USA,","
+1987-01-21,1987,0,3,1,2,0,0,1,1987 Tour,1987,Peaches en Regalia,Peaches,0,Hunt's,Burlington,VT,USA,","
+1987-01-21,1987,0,4,1,2,0,0,2,1987 Tour,1987,"Swing Low, Sweet Chariot","Swing Low, Sweet Chariot",0,Hunt's,Burlington,VT,USA,","
+1987-01-21,1987,0,5,1,2,0,0,2,1987 Tour,1987,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Hunt's,Burlington,VT,USA,","
+1987-01-21,1987,0,6,1,2,0,0,2,1987 Tour,1987,Makisupa Policeman,Makisupa,1,Hunt's,Burlington,VT,USA,","
+1987-01-21,1987,0,7,2,2,0,0,2,1987 Tour,1987,Skin It Back,Skin It Back,0,Hunt's,Burlington,VT,USA,>
+1987-01-21,1987,0,8,1,2,0,0,1,1987 Tour,1987,Cities,Cities,0,Hunt's,Burlington,VT,USA,","
+1987-01-21,1987,0,9,6,2,0,0,1,1987 Tour,1987,Fluffhead,Fluffhead,1,Hunt's,Burlington,VT,USA,
+1987-02-13,1987,0,1,1,1,2,0,4,1987 Tour,1987,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Johnson State College,Johnson,VT,USA,","
+1987-02-13,1987,0,2,1,1,2,0,5,1987 Tour,1987,Possum,Possum,1,Johnson State College,Johnson,VT,USA,","
+1987-02-13,1987,0,3,2,1,2,0,5,1987 Tour,1987,Golgi Apparatus,Golgi,1,Johnson State College,Johnson,VT,USA,>
+1987-02-13,1987,0,4,3,1,2,0,5,1987 Tour,1987,Slave to the Traffic Light,Slave,1,Johnson State College,Johnson,VT,USA,->
+1987-02-13,1987,0,5,1,1,2,0,12,1987 Tour,1987,Quinn the Eskimo (The Mighty Quinn),Quinn,0,Johnson State College,Johnson,VT,USA,","
+1987-02-13,1987,0,6,2,1,2,0,11,1987 Tour,1987,Alumni Blues,Alumni,1,Johnson State College,Johnson,VT,USA,>
+1987-02-13,1987,0,7,2,1,2,0,22,1987 Tour,1987,Letter to Jimmy Page,LTJP,1,Johnson State College,Johnson,VT,USA,>
+1987-02-13,1987,0,8,1,1,2,0,0,1987 Tour,1987,Alumni Blues,Alumni,1,Johnson State College,Johnson,VT,USA,","
+1987-02-13,1987,0,9,1,1,2,0,58,1987 Tour,1987,Suzy Greenberg,Suzy,1,Johnson State College,Johnson,VT,USA,","
+1987-02-13,1987,0,10,1,1,2,0,11,1987 Tour,1987,Sanity,Sanity,1,Johnson State College,Johnson,VT,USA,","
+1987-02-13,1987,0,11,4,1,2,0,5,1987 Tour,1987,Good Times Bad Times,GTBT,0,Johnson State College,Johnson,VT,USA,
+1987-02-13,1987,0,12,1,2,2,0,4,1987 Tour,1987,Wilson,Wilson,1,Johnson State College,Johnson,VT,USA,","
+1987-02-13,1987,0,13,3,2,2,0,11,1987 Tour,1987,Melt the Guns,Melt the Guns,0,Johnson State College,Johnson,VT,USA,->
+1987-02-13,1987,0,14,1,2,2,0,23,1987 Tour,1987,Dave's Energy Guide,DEG,1,Johnson State College,Johnson,VT,USA,","
+1987-02-13,1987,0,15,1,2,2,0,4,1987 Tour,1987,Fluffhead,Fluffhead,1,Johnson State College,Johnson,VT,USA,","
+1987-02-13,1987,0,16,6,2,2,0,10,1987 Tour,1987,Harry Hood,Hood,1,Johnson State College,Johnson,VT,USA,
+1987-02-21,1987,0,1,4,1,0,0,61,1987 Tour,1987,Why Don't You Love Me?,Why Don't You Love Me?,0,"Slade Hall, University of Vermont",Burlington,VT,USA,
+1987-02-21,1987,0,2,1,2,0,0,1,1987 Tour,1987,Fluffhead,Fluffhead,1,"Slade Hall, University of Vermont",Burlington,VT,USA,","
+1987-02-21,1987,0,3,1,2,0,0,36,1987 Tour,1987,Fire,Fire,0,"Slade Hall, University of Vermont",Burlington,VT,USA,","
+1987-02-21,1987,0,4,1,2,0,0,1,1987 Tour,1987,Suzy Greenberg,Suzy,1,"Slade Hall, University of Vermont",Burlington,VT,USA,","
+1987-02-21,1987,0,5,1,2,0,0,23,1987 Tour,1987,Dear Mrs. Reagan,Dear Mrs. Reagan,1,"Slade Hall, University of Vermont",Burlington,VT,USA,","
+1987-02-21,1987,0,6,1,2,0,0,7,1987 Tour,1987,Camel Walk,Camel Walk,1,"Slade Hall, University of Vermont",Burlington,VT,USA,","
+1987-02-21,1987,0,7,1,2,0,0,7,1987 Tour,1987,Back Porch Boogie Blues,Back Porch Boogie Blues,0,"Slade Hall, University of Vermont",Burlington,VT,USA,","
+1987-02-21,1987,0,8,1,2,0,0,61,1987 Tour,1987,Blue Monk,Blue Monk,0,"Slade Hall, University of Vermont",Burlington,VT,USA,","
+1987-02-21,1987,0,9,1,2,0,0,7,1987 Tour,1987,Clod,Clod,1,"Slade Hall, University of Vermont",Burlington,VT,USA,","
+1987-02-21,1987,0,10,1,2,0,0,13,1987 Tour,1987,Lushington,Lushington,1,"Slade Hall, University of Vermont",Burlington,VT,USA,","
+1987-02-21,1987,0,11,1,2,0,0,5,1987 Tour,1987,Peaches en Regalia,Peaches,0,"Slade Hall, University of Vermont",Burlington,VT,USA,","
+1987-02-21,1987,0,12,1,2,0,0,5,1987 Tour,1987,"Swing Low, Sweet Chariot","Swing Low, Sweet Chariot",0,"Slade Hall, University of Vermont",Burlington,VT,USA,","
+1987-02-21,1987,0,13,1,2,0,0,59,1987 Tour,1987,Boogie On Reggae Woman,Boogie On,0,"Slade Hall, University of Vermont",Burlington,VT,USA,","
+1987-02-21,1987,0,14,1,2,0,0,59,1987 Tour,1987,Ya Mar,Ya Mar,0,"Slade Hall, University of Vermont",Burlington,VT,USA,","
+1987-02-21,1987,0,15,1,2,0,0,61,1987 Tour,1987,Corinna,Corinna,0,"Slade Hall, University of Vermont",Burlington,VT,USA,","
+1987-02-21,1987,0,16,1,2,0,0,6,1987 Tour,1987,Dog Log,Dog Log,1,"Slade Hall, University of Vermont",Burlington,VT,USA,","
+1987-02-21,1987,0,17,2,2,0,0,1,1987 Tour,1987,Alumni Blues,Alumni,1,"Slade Hall, University of Vermont",Burlington,VT,USA,>
+1987-02-21,1987,0,18,2,2,0,0,1,1987 Tour,1987,Letter to Jimmy Page,LTJP,1,"Slade Hall, University of Vermont",Burlington,VT,USA,>
+1987-02-21,1987,0,19,6,2,0,0,0,1987 Tour,1987,Alumni Blues,Alumni,1,"Slade Hall, University of Vermont",Burlington,VT,USA,
+1987-03-06,1987,0,1,1,1,0,0,7,1987 Tour,1987,Funky Bitch,Funky Bitch,0,Goddard College,Plainfield,VT,USA,","
+1987-03-06,1987,0,2,1,1,0,0,2,1987 Tour,1987,Good Times Bad Times,GTBT,0,Goddard College,Plainfield,VT,USA,","
+1987-03-06,1987,0,3,1,1,0,0,1,1987 Tour,1987,Corinna,Corinna,0,Goddard College,Plainfield,VT,USA,","
+1987-03-06,1987,0,4,1,1,0,0,2,1987 Tour,1987,Golgi Apparatus,Golgi,1,Goddard College,Plainfield,VT,USA,","
+1987-03-06,1987,0,5,2,1,0,0,2,1987 Tour,1987,Quinn the Eskimo (The Mighty Quinn),Quinn,0,Goddard College,Plainfield,VT,USA,>
+1987-03-06,1987,0,6,4,1,0,0,2,1987 Tour,1987,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Goddard College,Plainfield,VT,USA,
+1987-03-06,1987,0,7,1,2,0,0,62,1987 Tour,1987,Free Bird,Free Bird,0,Goddard College,Plainfield,VT,USA,","
+1987-03-06,1987,0,8,2,2,0,0,61,1987 Tour,1987,Happy Birthday to You,Happy Birthday,0,Goddard College,Plainfield,VT,USA,>
+1987-03-06,1987,0,9,1,2,0,0,2,1987 Tour,1987,Harry Hood,Hood,1,Goddard College,Plainfield,VT,USA,","
+1987-03-06,1987,0,10,2,2,0,0,62,1987 Tour,1987,Tell Me Something Good,Tell Me Something Good,0,Goddard College,Plainfield,VT,USA,>
+1987-03-06,1987,0,11,1,2,0,0,2,1987 Tour,1987,Possum,Possum,1,Goddard College,Plainfield,VT,USA,","
+1987-03-06,1987,0,12,1,2,0,0,62,1987 Tour,1987,Freeworld,Freeworld,0,Goddard College,Plainfield,VT,USA,","
+1987-03-06,1987,0,13,5,2,0,0,2,1987 Tour,1987,Wilson,Wilson,1,Goddard College,Plainfield,VT,USA,
+1987-03-06,1987,0,14,6,e,0,0,2,1987 Tour,1987,Slave to the Traffic Light,Slave,1,Goddard College,Plainfield,VT,USA,
+1987-03-23,1987,0,1,1,1,0,0,2,1987 Tour,1987,Funky Bitch,Funky Bitch,0,Nectar's,Burlington,VT,USA,","
+1987-03-23,1987,0,2,2,1,0,0,9,1987 Tour,1987,Mike's Song,Mike's,1,Nectar's,Burlington,VT,USA,>
+1987-03-23,1987,0,3,2,1,0,0,3,1987 Tour,1987,Alumni Blues,Alumni,1,Nectar's,Burlington,VT,USA,>
+1987-03-23,1987,0,4,2,1,0,0,3,1987 Tour,1987,Letter to Jimmy Page,LTJP,1,Nectar's,Burlington,VT,USA,>
+1987-03-23,1987,0,5,1,1,0,0,0,1987 Tour,1987,Alumni Blues,Alumni,1,Nectar's,Burlington,VT,USA,","
+1987-03-23,1987,0,6,2,1,0,0,9,1987 Tour,1987,You Enjoy Myself,YEM,1,Nectar's,Burlington,VT,USA,>
+1987-03-23,1987,0,7,4,1,0,0,64,1987 Tour,1987,Sparks,Sparks,0,Nectar's,Burlington,VT,USA,
+1987-03-23,1987,0,8,1,2,0,0,3,1987 Tour,1987,Fluffhead,Fluffhead,1,Nectar's,Burlington,VT,USA,","
+1987-03-23,1987,0,9,1,2,0,0,3,1987 Tour,1987,Peaches en Regalia,Peaches,0,Nectar's,Burlington,VT,USA,","
+1987-03-23,1987,0,10,3,2,0,0,64,1987 Tour,1987,Ride Captain Ride,Ride Captain Ride,0,Nectar's,Burlington,VT,USA,->
+1987-03-23,1987,0,11,1,2,0,0,4,1987 Tour,1987,Dave's Energy Guide,DEG,1,Nectar's,Burlington,VT,USA,","
+1987-03-23,1987,0,12,1,2,0,0,2,1987 Tour,1987,Corinna,Corinna,0,Nectar's,Burlington,VT,USA,","
+1987-03-23,1987,0,13,2,2,0,0,3,1987 Tour,1987,Why Don't You Love Me?,Why Don't You Love Me?,0,Nectar's,Burlington,VT,USA,>
+1987-03-23,1987,0,14,1,2,0,0,3,1987 Tour,1987,Camel Walk,Camel Walk,1,Nectar's,Burlington,VT,USA,","
+1987-03-23,1987,0,15,1,2,0,0,2,1987 Tour,1987,Golgi Apparatus,Golgi,1,Nectar's,Burlington,VT,USA,","
+1987-03-23,1987,0,16,6,2,0,0,3,1987 Tour,1987,"Swing Low, Sweet Chariot","Swing Low, Sweet Chariot",0,Nectar's,Burlington,VT,USA,
+1987-04-24,1987,0,1,1,1,0,0,1,1987 Tour,1987,Golgi Apparatus,Golgi,1,"Billings Lounge, University of Vermont",Burlington,VT,USA,","
+1987-04-24,1987,0,2,3,1,0,0,10,1987 Tour,1987,AC/DC Bag,Bag,1,"Billings Lounge, University of Vermont",Burlington,VT,USA,->
+1987-04-24,1987,0,3,1,1,0,0,3,1987 Tour,1987,Possum,Possum,1,"Billings Lounge, University of Vermont",Burlington,VT,USA,","
+1987-04-24,1987,0,4,1,1,0,0,1,1987 Tour,1987,Fluffhead,Fluffhead,1,"Billings Lounge, University of Vermont",Burlington,VT,USA,","
+1987-04-24,1987,0,5,3,1,0,0,1,1987 Tour,1987,You Enjoy Myself,YEM,1,"Billings Lounge, University of Vermont",Burlington,VT,USA,->
+1987-04-24,1987,0,6,1,1,0,0,1,1987 Tour,1987,Dave's Energy Guide,DEG,1,"Billings Lounge, University of Vermont",Burlington,VT,USA,","
+1987-04-24,1987,0,7,2,1,0,0,65,1987 Tour,1987,Punch Me in the Eye,Punch Me in the Eye,1,"Billings Lounge, University of Vermont",Burlington,VT,USA,>
+1987-04-24,1987,0,8,2,1,0,0,1,1987 Tour,1987,Alumni Blues,Alumni,1,"Billings Lounge, University of Vermont",Burlington,VT,USA,>
+1987-04-24,1987,0,9,2,1,0,0,1,1987 Tour,1987,Letter to Jimmy Page,LTJP,1,"Billings Lounge, University of Vermont",Burlington,VT,USA,>
+1987-04-24,1987,0,10,1,1,0,0,0,1987 Tour,1987,Alumni Blues,Alumni,1,"Billings Lounge, University of Vermont",Burlington,VT,USA,","
+1987-04-24,1987,0,11,3,1,0,0,9,1987 Tour,1987,I Am Hydrogen,Hydrogen,1,"Billings Lounge, University of Vermont",Burlington,VT,USA,->
+1987-04-24,1987,0,12,1,1,0,0,65,1987 Tour,1987,Who Do? We Do!,Who Do? We Do!,1,"Billings Lounge, University of Vermont",Burlington,VT,USA,","
+1987-04-24,1987,0,13,1,1,0,0,10,1987 Tour,1987,David Bowie,Bowie,1,"Billings Lounge, University of Vermont",Burlington,VT,USA,","
+1987-04-24,1987,0,14,2,1,0,0,4,1987 Tour,1987,Dear Mrs. Reagan,Dear Mrs. Reagan,1,"Billings Lounge, University of Vermont",Burlington,VT,USA,>
+1987-04-24,1987,0,15,6,1,0,0,3,1987 Tour,1987,Slave to the Traffic Light,Slave,1,"Billings Lounge, University of Vermont",Burlington,VT,USA,
+1987-04-29,1987,0,1,1,1,0,0,13,1987 Tour,1987,She Caught the Katy and Left Me a Mule to Ride,She Caught the Katy,0,Nectar's,Burlington,VT,USA,","
+1987-04-29,1987,0,2,2,1,0,0,2,1987 Tour,1987,Alumni Blues,Alumni,1,Nectar's,Burlington,VT,USA,>
+1987-04-29,1987,0,3,2,1,0,0,2,1987 Tour,1987,Letter to Jimmy Page,LTJP,1,Nectar's,Burlington,VT,USA,>
+1987-04-29,1987,0,4,1,1,0,0,0,1987 Tour,1987,Alumni Blues,Alumni,1,Nectar's,Burlington,VT,USA,","
+1987-04-29,1987,0,5,1,1,0,0,2,1987 Tour,1987,Golgi Apparatus,Golgi,1,Nectar's,Burlington,VT,USA,","
+1987-04-29,1987,0,6,1,1,0,0,3,1987 Tour,1987,"Swing Low, Sweet Chariot","Swing Low, Sweet Chariot",0,Nectar's,Burlington,VT,USA,","
+1987-04-29,1987,0,7,1,1,0,0,6,1987 Tour,1987,Fire,Fire,0,Nectar's,Burlington,VT,USA,","
+1987-04-29,1987,0,8,3,1,0,0,11,1987 Tour,1987,Skin It Back,Skin It Back,0,Nectar's,Burlington,VT,USA,->
+1987-04-29,1987,0,9,1,1,0,0,11,1987 Tour,1987,Cities,Cities,0,Nectar's,Burlington,VT,USA,","
+1987-04-29,1987,0,10,4,1,0,0,6,1987 Tour,1987,Lushington,Lushington,1,Nectar's,Burlington,VT,USA,
+1987-04-29,1987,0,11,1,2,0,0,6,1987 Tour,1987,Dog Log,Dog Log,1,Nectar's,Burlington,VT,USA,","
+1987-04-29,1987,0,12,3,2,0,0,7,1987 Tour,1987,Melt the Guns,Melt the Guns,0,Nectar's,Burlington,VT,USA,->
+1987-04-29,1987,0,13,1,2,0,0,2,1987 Tour,1987,Dave's Energy Guide,DEG,1,Nectar's,Burlington,VT,USA,","
+1987-04-29,1987,0,14,1,2,0,0,67,1987 Tour,1987,Take the 'A' Train,'A' Train,0,Nectar's,Burlington,VT,USA,","
+1987-04-29,1987,0,15,2,2,0,0,17,1987 Tour,1987,Halley's Comet,Halley's,1,Nectar's,Burlington,VT,USA,>
+1987-04-29,1987,0,16,2,2,0,0,5,1987 Tour,1987,Quinn the Eskimo (The Mighty Quinn),Quinn,0,Nectar's,Burlington,VT,USA,>
+1987-04-29,1987,0,17,4,2,0,0,2,1987 Tour,1987,AC/DC Bag,Bag,1,Nectar's,Burlington,VT,USA,
+1987-04-29,1987,0,18,2,3,0,0,3,1987 Tour,1987,Peaches en Regalia,Peaches,0,Nectar's,Burlington,VT,USA,>
+1987-04-29,1987,0,19,1,3,0,0,2,1987 Tour,1987,Fluffhead,Fluffhead,1,Nectar's,Burlington,VT,USA,","
+1987-04-29,1987,0,20,1,3,0,0,5,1987 Tour,1987,Good Times Bad Times,GTBT,0,Nectar's,Burlington,VT,USA,","
+1987-04-29,1987,0,21,1,3,0,0,19,1987 Tour,1987,Anarchy,Anarchy,1,Nectar's,Burlington,VT,USA,","
+1987-04-29,1987,0,22,3,3,0,0,11,1987 Tour,1987,Makisupa Policeman,Makisupa,1,Nectar's,Burlington,VT,USA,->
+1987-04-29,1987,0,23,1,3,0,0,33,1987 Tour,1987,Run Like an Antelope,Antelope,1,Nectar's,Burlington,VT,USA,","
+1987-04-29,1987,0,24,1,3,0,0,6,1987 Tour,1987,Boogie On Reggae Woman,Boogie On,0,Nectar's,Burlington,VT,USA,","
+1987-04-29,1987,0,25,1,3,0,0,65,1987 Tour,1987,Timber (Jerry the Mule),Timber Ho,0,Nectar's,Burlington,VT,USA,","
+1987-04-29,1987,0,26,2,3,0,0,2,1987 Tour,1987,Slave to the Traffic Light,Slave,1,Nectar's,Burlington,VT,USA,>
+1987-04-29,1987,0,27,2,3,0,0,3,1987 Tour,1987,Sparks,Sparks,0,Nectar's,Burlington,VT,USA,>
+1987-04-29,1987,0,28,2,3,0,0,12,1987 Tour,1987,McGrupp and the Watchful Hosemasters,McGrupp,1,Nectar's,Burlington,VT,USA,>
+1987-04-29,1987,0,29,1,3,0,0,67,1987 Tour,1987,The Ballad of Curtis Loew,Curtis Loew,0,Nectar's,Burlington,VT,USA,","
+1987-04-29,1987,0,30,1,3,0,0,67,1987 Tour,1987,Come On (Part One),Come On (Part One),0,Nectar's,Burlington,VT,USA,","
+1987-04-29,1987,0,31,3,3,0,0,2,1987 Tour,1987,I Am Hydrogen,Hydrogen,1,Nectar's,Burlington,VT,USA,->
+1987-04-29,1987,0,32,5,3,0,0,2,1987 Tour,1987,Who Do? We Do!,Who Do? We Do!,1,Nectar's,Burlington,VT,USA,
+1987-04-29,1987,0,33,6,e,0,0,65,1987 Tour,1987,Fuck Your Face,FYF,1,Nectar's,Burlington,VT,USA,
+1987-05-11,1987,0,1,1,1,0,0,4,1987 Tour,1987,You Enjoy Myself,YEM,1,Nectar's,Burlington,VT,USA,","
+1987-05-11,1987,0,2,3,1,0,0,2,1987 Tour,1987,Lushington,Lushington,1,Nectar's,Burlington,VT,USA,->
+1987-05-11,1987,0,3,1,1,0,0,4,1987 Tour,1987,Possum,Possum,1,Nectar's,Burlington,VT,USA,","
+1987-05-11,1987,0,4,1,1,0,0,2,1987 Tour,1987,Slave to the Traffic Light,Slave,1,Nectar's,Burlington,VT,USA,","
+1987-05-11,1987,0,5,1,1,0,0,7,1987 Tour,1987,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Nectar's,Burlington,VT,USA,","
+1987-05-11,1987,0,6,1,1,0,0,8,1987 Tour,1987,Clod,Clod,1,Nectar's,Burlington,VT,USA,","
+1987-05-11,1987,0,7,2,1,0,0,2,1987 Tour,1987,Peaches en Regalia,Peaches,0,Nectar's,Burlington,VT,USA,>
+1987-05-11,1987,0,8,2,1,0,0,69,1987 Tour,1987,The Man Who Stepped Into Yesterday,TMWSIY,1,Nectar's,Burlington,VT,USA,>
+1987-05-11,1987,0,9,2,1,0,0,69,1987 Tour,1987,Avenu Malkenu,Avenu Malkenu,0,Nectar's,Burlington,VT,USA,>
+1987-05-11,1987,0,10,1,1,0,0,0,1987 Tour,1987,The Man Who Stepped Into Yesterday,TMWSIY,1,Nectar's,Burlington,VT,USA,","
+1987-05-11,1987,0,11,1,1,0,0,2,1987 Tour,1987,Makisupa Policeman,Makisupa,1,Nectar's,Burlington,VT,USA,","
+1987-05-11,1987,0,12,4,1,0,0,8,1987 Tour,1987,Ya Mar,Ya Mar,0,Nectar's,Burlington,VT,USA,
+1987-05-11,1987,0,13,1,2,0,0,67,1987 Tour,1987,Divided Sky,Divided,1,Nectar's,Burlington,VT,USA,","
+1987-05-11,1987,0,14,1,2,0,0,5,1987 Tour,1987,Funky Bitch,Funky Bitch,0,Nectar's,Burlington,VT,USA,","
+1987-05-11,1987,0,15,2,2,0,0,69,1987 Tour,1987,Harpua,Harpua,1,Nectar's,Burlington,VT,USA,>
+1987-05-11,1987,0,16,2,2,0,0,69,1987 Tour,1987,Bundle of Joy,Bundle of Joy,1,Nectar's,Burlington,VT,USA,>
+1987-05-11,1987,0,17,3,2,0,0,0,1987 Tour,1987,Harpua,Harpua,1,Nectar's,Burlington,VT,USA,->
+1987-05-11,1987,0,18,1,2,0,0,2,1987 Tour,1987,Fluffhead,Fluffhead,1,Nectar's,Burlington,VT,USA,","
+1987-05-11,1987,0,19,5,2,0,0,2,1987 Tour,1987,Good Times Bad Times,GTBT,0,Nectar's,Burlington,VT,USA,
+1987-05-11,1987,0,20,1,e,0,0,2,1987 Tour,1987,Golgi Apparatus,Golgi,1,Nectar's,Burlington,VT,USA,","
+1987-05-11,1987,0,21,1,e,0,0,5,1987 Tour,1987,Corinna,Corinna,0,Nectar's,Burlington,VT,USA,","
+1987-05-11,1987,0,22,6,e,0,0,2,1987 Tour,1987,Letter to Jimmy Page,LTJP,1,Nectar's,Burlington,VT,USA,
+1987-05-20,1987,0,1,2,1,0,0,10,1987 Tour,1987,Wilson,Wilson,1,The Ranch,South Burlington,VT,USA,>
+1987-05-20,1987,0,2,1,1,0,0,5,1987 Tour,1987,Run Like an Antelope,Antelope,1,The Ranch,South Burlington,VT,USA,","
+1987-05-20,1987,0,3,2,1,0,0,3,1987 Tour,1987,Golgi Apparatus,Golgi,1,The Ranch,South Burlington,VT,USA,>
+1987-05-20,1987,0,4,2,1,0,0,11,1987 Tour,1987,Back Porch Boogie Blues,Back Porch Boogie Blues,0,The Ranch,South Burlington,VT,USA,>
+1987-05-20,1987,0,5,3,1,0,0,3,1987 Tour,1987,Lushington,Lushington,1,The Ranch,South Burlington,VT,USA,->
+1987-05-20,1987,0,6,1,1,0,0,3,1987 Tour,1987,Possum,Possum,1,The Ranch,South Burlington,VT,USA,","
+1987-05-20,1987,0,7,1,1,0,0,10,1987 Tour,1987,Harry Hood,Hood,1,The Ranch,South Burlington,VT,USA,","
+1987-05-20,1987,0,8,1,1,0,0,3,1987 Tour,1987,You Enjoy Myself,YEM,1,The Ranch,South Burlington,VT,USA,","
+1987-05-20,1987,0,9,4,1,0,0,5,1987 Tour,1987,Alumni Blues,Alumni,1,The Ranch,South Burlington,VT,USA,
+1987-05-20,1987,0,10,6,2,0,0,5,1987 Tour,1987,Fire,Fire,0,The Ranch,South Burlington,VT,USA,
+1987-08-09,1987,0,1,2,1,0,0,1,1987 Tour,1987,Golgi Apparatus,Golgi,1,Nectar's,Burlington,VT,USA,>
+1987-08-09,1987,0,2,1,1,0,0,4,1987 Tour,1987,Slave to the Traffic Light,Slave,1,Nectar's,Burlington,VT,USA,","
+1987-08-09,1987,0,3,1,1,0,0,73,1987 Tour,1987,La Grange,La Grange,0,Nectar's,Burlington,VT,USA,","
+1987-08-09,1987,0,4,3,1,0,0,1,1987 Tour,1987,Lushington,Lushington,1,Nectar's,Burlington,VT,USA,->
+1987-08-09,1987,0,5,1,1,0,0,1,1987 Tour,1987,Possum,Possum,1,Nectar's,Burlington,VT,USA,","
+1987-08-09,1987,0,6,1,1,0,0,4,1987 Tour,1987,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Nectar's,Burlington,VT,USA,","
+1987-08-09,1987,0,7,1,1,0,0,6,1987 Tour,1987,Timber (Jerry the Mule),Timber Ho,0,Nectar's,Burlington,VT,USA,","
+1987-08-09,1987,0,8,1,1,0,0,4,1987 Tour,1987,Good Times Bad Times,GTBT,0,Nectar's,Burlington,VT,USA,","
+1987-08-09,1987,0,9,1,1,0,0,6,1987 Tour,1987,AC/DC Bag,Bag,1,Nectar's,Burlington,VT,USA,","
+1987-08-09,1987,0,10,1,1,0,0,19,1987 Tour,1987,Shaggy Dog,Shaggy Dog,0,Nectar's,Burlington,VT,USA,","
+1987-08-09,1987,0,11,4,1,0,0,4,1987 Tour,1987,Funky Bitch,Funky Bitch,0,Nectar's,Burlington,VT,USA,
+1987-08-09,1987,0,12,1,2,0,0,71,1987 Tour,1987,The Curtain With,Curtain With,1,Nectar's,Burlington,VT,USA,","
+1987-08-09,1987,0,13,2,2,0,0,6,1987 Tour,1987,Halley's Comet,Halley's,1,Nectar's,Burlington,VT,USA,>
+1987-08-09,1987,0,14,1,2,0,0,73,1987 Tour,1987,The Sloth,Sloth,1,Nectar's,Burlington,VT,USA,","
+1987-08-09,1987,0,15,3,2,0,0,19,1987 Tour,1987,Light Up Or Leave Me Alone,Light Up,0,Nectar's,Burlington,VT,USA,->
+1987-08-09,1987,0,16,1,2,0,0,6,1987 Tour,1987,Skin It Back,Skin It Back,0,Nectar's,Burlington,VT,USA,","
+1987-08-09,1987,0,17,1,2,0,0,4,1987 Tour,1987,Peaches en Regalia,Peaches,0,Nectar's,Burlington,VT,USA,","
+1987-08-09,1987,0,18,1,2,0,0,4,1987 Tour,1987,Fluffhead,Fluffhead,1,Nectar's,Burlington,VT,USA,","
+1987-08-09,1987,0,19,1,2,0,0,71,1987 Tour,1987,Fee,Fee,1,Nectar's,Burlington,VT,USA,","
+1987-08-09,1987,0,20,1,2,0,0,1,1987 Tour,1987,Harry Hood,Hood,1,Nectar's,Burlington,VT,USA,","
+1987-08-09,1987,0,21,1,2,0,0,4,1987 Tour,1987,Harpua,Harpua,1,Nectar's,Burlington,VT,USA,","
+1987-08-09,1987,0,22,4,2,0,0,12,1987 Tour,1987,Suzy Greenberg,Suzy,1,Nectar's,Burlington,VT,USA,
+1987-08-09,1987,0,23,1,3,0,0,8,1987 Tour,1987,David Bowie,Bowie,1,Nectar's,Burlington,VT,USA,","
+1987-08-09,1987,0,24,1,3,0,0,1,1987 Tour,1987,You Enjoy Myself,YEM,1,Nectar's,Burlington,VT,USA,","
+1987-08-09,1987,0,25,1,3,0,0,4,1987 Tour,1987,Ya Mar,Ya Mar,0,Nectar's,Burlington,VT,USA,","
+1987-08-09,1987,0,26,1,3,0,0,4,1987 Tour,1987,Divided Sky,Divided,1,Nectar's,Burlington,VT,USA,","
+1987-08-09,1987,0,27,1,3,0,0,73,1987 Tour,1987,Flat Fee,Flat Fee,1,Nectar's,Burlington,VT,USA,","
+1987-08-09,1987,0,28,1,3,0,0,6,1987 Tour,1987,McGrupp and the Watchful Hosemasters,McGrupp,1,Nectar's,Burlington,VT,USA,","
+1987-08-09,1987,0,29,6,3,0,0,4,1987 Tour,1987,Corinna,Corinna,0,Nectar's,Burlington,VT,USA,
+1987-08-10,1987,0,1,1,1,0,0,1,1987 Tour,1987,Peaches en Regalia,Peaches,0,Nectar's,Burlington,VT,USA,","
+1987-08-10,1987,0,2,2,1,0,0,2,1987 Tour,1987,Alumni Blues,Alumni,1,Nectar's,Burlington,VT,USA,>
+1987-08-10,1987,0,3,2,1,0,0,5,1987 Tour,1987,Letter to Jimmy Page,LTJP,1,Nectar's,Burlington,VT,USA,>
+1987-08-10,1987,0,4,1,1,0,0,0,1987 Tour,1987,Alumni Blues,Alumni,1,Nectar's,Burlington,VT,USA,","
+1987-08-10,1987,0,5,1,1,0,0,1,1987 Tour,1987,Golgi Apparatus,Golgi,1,Nectar's,Burlington,VT,USA,","
+1987-08-10,1987,0,6,1,1,0,0,2,1987 Tour,1987,Wilson,Wilson,1,Nectar's,Burlington,VT,USA,","
+1987-08-10,1987,0,7,1,1,0,0,7,1987 Tour,1987,Quinn the Eskimo (The Mighty Quinn),Quinn,0,Nectar's,Burlington,VT,USA,","
+1987-08-10,1987,0,8,2,1,0,0,1,1987 Tour,1987,Divided Sky,Divided,1,Nectar's,Burlington,VT,USA,>
+1987-08-10,1987,0,9,4,1,0,0,1,1987 Tour,1987,Good Times Bad Times,GTBT,0,Nectar's,Burlington,VT,USA,
+1987-08-10,1987,0,10,1,2,0,0,2,1987 Tour,1987,Fire,Fire,0,Nectar's,Burlington,VT,USA,","
+1987-08-10,1987,0,11,3,2,0,0,1,1987 Tour,1987,AC/DC Bag,Bag,1,Nectar's,Burlington,VT,USA,->
+1987-08-10,1987,0,12,1,2,0,0,1,1987 Tour,1987,Possum,Possum,1,Nectar's,Burlington,VT,USA,","
+1987-08-10,1987,0,13,1,2,0,0,1,1987 Tour,1987,Fluffhead,Fluffhead,1,Nectar's,Burlington,VT,USA,","
+1987-08-10,1987,0,14,1,2,0,0,1,1987 Tour,1987,Fee,Fee,1,Nectar's,Burlington,VT,USA,","
+1987-08-10,1987,0,15,1,2,0,0,1,1987 Tour,1987,The Curtain With,Curtain With,1,Nectar's,Burlington,VT,USA,","
+1987-08-10,1987,0,16,1,2,0,0,20,1987 Tour,1987,I Know a Little,I Know a Little,0,Nectar's,Burlington,VT,USA,","
+1987-08-10,1987,0,17,1,2,0,0,25,1987 Tour,1987,Mustang Sally,Mustang Sally,0,Nectar's,Burlington,VT,USA,","
+1987-08-10,1987,0,18,1,2,0,0,1,1987 Tour,1987,You Enjoy Myself,YEM,1,Nectar's,Burlington,VT,USA,","
+1987-08-10,1987,0,19,4,2,0,0,1,1987 Tour,1987,La Grange,La Grange,0,Nectar's,Burlington,VT,USA,
+1987-08-10,1987,0,20,1,3,0,0,19,1987 Tour,1987,Icculus,Icculus,1,Nectar's,Burlington,VT,USA,","
+1987-08-10,1987,0,21,1,3,0,0,1,1987 Tour,1987,David Bowie,Bowie,1,Nectar's,Burlington,VT,USA,","
+1987-08-10,1987,0,22,1,3,0,0,74,1987 Tour,1987,Jesus Just Left Chicago,JJLC,0,Nectar's,Burlington,VT,USA,","
+1987-08-10,1987,0,23,1,3,0,0,20,1987 Tour,1987,Whipping Post,Whipping Post,0,Nectar's,Burlington,VT,USA,","
+1987-08-10,1987,0,24,1,3,0,0,7,1987 Tour,1987,Anarchy,Anarchy,1,Nectar's,Burlington,VT,USA,","
+1987-08-10,1987,0,25,1,3,0,0,20,1987 Tour,1987,Tush,Tush,0,Nectar's,Burlington,VT,USA,","
+1987-08-10,1987,0,26,6,3,0,0,9,1987 Tour,1987,Dear Mrs. Reagan,Dear Mrs. Reagan,1,Nectar's,Burlington,VT,USA,
+1987-08-21,1987,0,1,1,1,0,0,8,1987 Tour,1987,Dog Log,Dog Log,1,Ian McLean's Farm,Hebron,NY,USA,","
+1987-08-21,1987,0,2,1,1,0,0,1,1987 Tour,1987,Peaches en Regalia,Peaches,0,Ian McLean's Farm,Hebron,NY,USA,","
+1987-08-21,1987,0,3,1,1,0,0,1,1987 Tour,1987,Divided Sky,Divided,1,Ian McLean's Farm,Hebron,NY,USA,","
+1987-08-21,1987,0,4,1,1,0,0,2,1987 Tour,1987,Funky Bitch,Funky Bitch,0,Ian McLean's Farm,Hebron,NY,USA,","
+1987-08-21,1987,0,5,1,1,0,0,2,1987 Tour,1987,Harry Hood,Hood,1,Ian McLean's Farm,Hebron,NY,USA,","
+1987-08-21,1987,0,6,1,1,0,0,6,1987 Tour,1987,Clod,Clod,1,Ian McLean's Farm,Hebron,NY,USA,","
+1987-08-21,1987,0,7,1,1,0,0,1,1987 Tour,1987,The Curtain With,Curtain With,1,Ian McLean's Farm,Hebron,NY,USA,","
+1987-08-21,1987,0,8,1,1,0,0,2,1987 Tour,1987,Light Up Or Leave Me Alone,Light Up,0,Ian McLean's Farm,Hebron,NY,USA,","
+1987-08-21,1987,0,9,1,1,0,0,2,1987 Tour,1987,Shaggy Dog,Shaggy Dog,0,Ian McLean's Farm,Hebron,NY,USA,","
+1987-08-21,1987,0,10,1,1,0,0,1,1987 Tour,1987,Wilson,Wilson,1,Ian McLean's Farm,Hebron,NY,USA,","
+1987-08-21,1987,0,11,4,1,0,0,11,1987 Tour,1987,Camel Walk,Camel Walk,1,Ian McLean's Farm,Hebron,NY,USA,
+1987-08-21,1987,0,12,3,2,0,0,11,1987 Tour,1987,Mike's Song,Mike's,1,Ian McLean's Farm,Hebron,NY,USA,->
+1987-08-21,1987,0,13,1,2,0,0,75,1987 Tour,1987,Hold Your Head Up,HYHU,0,Ian McLean's Farm,Hebron,NY,USA,","
+1987-08-21,1987,0,14,2,2,0,0,2,1987 Tour,1987,Harpua,Harpua,1,Ian McLean's Farm,Hebron,NY,USA,>
+1987-08-21,1987,0,15,2,2,0,0,6,1987 Tour,1987,Bundle of Joy,Bundle of Joy,1,Ian McLean's Farm,Hebron,NY,USA,>
+1987-08-21,1987,0,16,3,2,0,0,0,1987 Tour,1987,Harpua,Harpua,1,Ian McLean's Farm,Hebron,NY,USA,->
+1987-08-21,1987,0,17,2,2,0,0,1,1987 Tour,1987,Golgi Apparatus,Golgi,1,Ian McLean's Farm,Hebron,NY,USA,>
+1987-08-21,1987,0,18,1,2,0,0,8,1987 Tour,1987,Sparks,Sparks,0,Ian McLean's Farm,Hebron,NY,USA,","
+1987-08-21,1987,0,19,1,2,0,0,2,1987 Tour,1987,Flat Fee,Flat Fee,1,Ian McLean's Farm,Hebron,NY,USA,","
+1987-08-21,1987,0,20,1,2,0,0,1,1987 Tour,1987,Fee,Fee,1,Ian McLean's Farm,Hebron,NY,USA,","
+1987-08-21,1987,0,21,3,2,0,0,2,1987 Tour,1987,Skin It Back,Skin It Back,0,Ian McLean's Farm,Hebron,NY,USA,->
+1987-08-21,1987,0,22,3,2,1,0,50,1987 Tour,1987,Low Rider,Low Rider,0,Ian McLean's Farm,Hebron,NY,USA,->
+1987-08-21,1987,0,23,3,2,0,0,3,1987 Tour,1987,Back Porch Boogie Blues,Back Porch Boogie Blues,0,Ian McLean's Farm,Hebron,NY,USA,->
+1987-08-21,1987,0,24,4,2,0,0,2,1987 Tour,1987,The Sloth,Sloth,1,Ian McLean's Farm,Hebron,NY,USA,
+1987-08-21,1987,0,25,1,3,0,0,75,1987 Tour,1987,Big Black Furry Creature from Mars,BBFCFM,1,Ian McLean's Farm,Hebron,NY,USA,","
+1987-08-21,1987,0,26,3,3,0,0,2,1987 Tour,1987,McGrupp and the Watchful Hosemasters,McGrupp,1,Ian McLean's Farm,Hebron,NY,USA,->
+1987-08-21,1987,0,27,1,3,1,0,75,1987 Tour,1987,Stir It Up,Stir It Up,0,Ian McLean's Farm,Hebron,NY,USA,","
+1987-08-21,1987,0,28,3,3,1,0,6,1987 Tour,1987,Makisupa Policeman,Makisupa,1,Ian McLean's Farm,Hebron,NY,USA,->
+1987-08-21,1987,0,29,2,3,0,0,1,1987 Tour,1987,David Bowie,Bowie,1,Ian McLean's Farm,Hebron,NY,USA,>
+1987-08-21,1987,0,30,1,3,0,0,15,1987 Tour,1987,Sanity,Sanity,1,Ian McLean's Farm,Hebron,NY,USA,","
+1987-08-21,1987,0,31,6,3,0,0,8,1987 Tour,1987,"Swing Low, Sweet Chariot","Swing Low, Sweet Chariot",0,Ian McLean's Farm,Hebron,NY,USA,
+1987-08-29,1987,0,1,2,1,0,0,3,1987 Tour,1987,Alumni Blues,Alumni,1,The Ranch,South Burlington,VT,USA,>
+1987-08-29,1987,0,2,2,1,0,0,3,1987 Tour,1987,Letter to Jimmy Page,LTJP,1,The Ranch,South Burlington,VT,USA,>
+1987-08-29,1987,0,3,1,1,0,0,0,1987 Tour,1987,Alumni Blues,Alumni,1,The Ranch,South Burlington,VT,USA,","
+1987-08-29,1987,0,4,1,1,0,0,10,1987 Tour,1987,The Ballad of Curtis Loew,Curtis Loew,0,The Ranch,South Burlington,VT,USA,","
+1987-08-29,1987,0,5,1,1,0,0,4,1987 Tour,1987,Sneakin' Sally Through the Alley,Sneakin' Sally,0,The Ranch,South Burlington,VT,USA,","
+1987-08-29,1987,0,6,1,1,0,0,2,1987 Tour,1987,Makisupa Policeman,Makisupa,1,The Ranch,South Burlington,VT,USA,","
+1987-08-29,1987,0,7,1,1,0,0,2,1987 Tour,1987,Big Black Furry Creature from Mars,BBFCFM,1,The Ranch,South Burlington,VT,USA,","
+1987-08-29,1987,0,8,1,1,0,0,2,1987 Tour,1987,Flat Fee,Flat Fee,1,The Ranch,South Burlington,VT,USA,","
+1987-08-29,1987,0,9,1,1,0,0,4,1987 Tour,1987,Lushington,Lushington,1,The Ranch,South Burlington,VT,USA,","
+1987-08-29,1987,0,10,2,1,0,0,4,1987 Tour,1987,Suzy Greenberg,Suzy,1,The Ranch,South Burlington,VT,USA,>
+1987-08-29,1987,0,11,2,1,0,0,2,1987 Tour,1987,Hold Your Head Up,HYHU,0,The Ranch,South Burlington,VT,USA,>
+1987-08-29,1987,0,12,1,1,0,0,0,1987 Tour,1987,Suzy Greenberg,Suzy,1,The Ranch,South Burlington,VT,USA,","
+1987-08-29,1987,0,13,1,1,0,0,3,1987 Tour,1987,Mustang Sally,Mustang Sally,0,The Ranch,South Burlington,VT,USA,","
+1987-08-29,1987,0,14,1,1,0,0,4,1987 Tour,1987,Ya Mar,Ya Mar,0,The Ranch,South Burlington,VT,USA,","
+1987-08-29,1987,0,15,2,1,0,0,8,1987 Tour,1987,The Man Who Stepped Into Yesterday,TMWSIY,1,The Ranch,South Burlington,VT,USA,>
+1987-08-29,1987,0,16,2,1,0,0,8,1987 Tour,1987,Avenu Malkenu,Avenu Malkenu,0,The Ranch,South Burlington,VT,USA,>
+1987-08-29,1987,0,17,4,1,0,0,0,1987 Tour,1987,The Man Who Stepped Into Yesterday,TMWSIY,1,The Ranch,South Burlington,VT,USA,
+1987-08-29,1987,0,18,1,2,0,0,2,1987 Tour,1987,Clod,Clod,1,The Ranch,South Burlington,VT,USA,","
+1987-08-29,1987,0,19,1,2,0,0,4,1987 Tour,1987,Slave to the Traffic Light,Slave,1,The Ranch,South Burlington,VT,USA,","
+1987-08-29,1987,0,20,1,2,0,0,2,1987 Tour,1987,"Swing Low, Sweet Chariot","Swing Low, Sweet Chariot",0,The Ranch,South Burlington,VT,USA,","
+1987-08-29,1987,0,21,1,2,0,0,2,1987 Tour,1987,The Curtain With,Curtain With,1,The Ranch,South Burlington,VT,USA,","
+1987-08-29,1987,0,22,3,2,0,0,2,1987 Tour,1987,McGrupp and the Watchful Hosemasters,McGrupp,1,The Ranch,South Burlington,VT,USA,->
+1987-08-29,1987,0,23,1,2,0,0,3,1987 Tour,1987,Possum,Possum,1,The Ranch,South Burlington,VT,USA,","
+1987-08-29,1987,0,24,1,2,0,0,2,1987 Tour,1987,Harry Hood,Hood,1,The Ranch,South Burlington,VT,USA,","
+1987-08-29,1987,0,25,1,2,0,0,4,1987 Tour,1987,Timber (Jerry the Mule),Timber Ho,0,The Ranch,South Burlington,VT,USA,","
+1987-08-29,1987,0,26,1,2,0,0,3,1987 Tour,1987,AC/DC Bag,Bag,1,The Ranch,South Burlington,VT,USA,","
+1987-08-29,1987,0,27,1,2,0,0,2,1987 Tour,1987,Divided Sky,Divided,1,The Ranch,South Burlington,VT,USA,","
+1987-08-29,1987,0,28,2,2,0,0,2,1987 Tour,1987,Harpua,Harpua,1,The Ranch,South Burlington,VT,USA,>
+1987-08-29,1987,0,29,2,2,0,0,2,1987 Tour,1987,Bundle of Joy,Bundle of Joy,1,The Ranch,South Burlington,VT,USA,>
+1987-08-29,1987,0,30,4,2,0,0,0,1987 Tour,1987,Harpua,Harpua,1,The Ranch,South Burlington,VT,USA,
+1987-08-29,1987,0,31,1,3,0,0,3,1987 Tour,1987,La Grange,La Grange,0,The Ranch,South Burlington,VT,USA,","
+1987-08-29,1987,0,32,1,3,0,0,4,1987 Tour,1987,Corinna,Corinna,0,The Ranch,South Burlington,VT,USA,","
+1987-08-29,1987,0,33,2,3,0,0,2,1987 Tour,1987,Mike's Song,Mike's,1,The Ranch,South Burlington,VT,USA,>
+1987-08-29,1987,0,34,2,3,0,0,10,1987 Tour,1987,I Am Hydrogen,Hydrogen,1,The Ranch,South Burlington,VT,USA,>
+1987-08-29,1987,0,35,1,3,0,0,10,1987 Tour,1987,Who Do? We Do!,Who Do? We Do!,1,The Ranch,South Burlington,VT,USA,","
+1987-08-29,1987,0,36,1,3,0,0,2,1987 Tour,1987,Shaggy Dog,Shaggy Dog,0,The Ranch,South Burlington,VT,USA,","
+1987-08-29,1987,0,37,3,3,0,0,2,1987 Tour,1987,David Bowie,Bowie,1,The Ranch,South Burlington,VT,USA,->
+1987-08-29,1987,0,38,5,3,0,0,3,1987 Tour,1987,Jesus Just Left Chicago,JJLC,0,The Ranch,South Burlington,VT,USA,
+1987-08-29,1987,0,39,6,e,0,0,10,1987 Tour,1987,She Caught the Katy and Left Me a Mule to Ride,She Caught the Katy,0,The Ranch,South Burlington,VT,USA,
+1987-09-02,1987,0,1,1,1,0,0,1,1987 Tour,1987,AC/DC Bag,Bag,1,Hunt's,Burlington,VT,USA,","
+1987-09-02,1987,0,2,1,1,0,0,4,1987 Tour,1987,Fluffhead,Fluffhead,1,Hunt's,Burlington,VT,USA,","
+1987-09-02,1987,0,3,1,1,0,0,1,1987 Tour,1987,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Hunt's,Burlington,VT,USA,","
+1987-09-02,1987,0,4,1,1,0,0,1,1987 Tour,1987,Divided Sky,Divided,1,Hunt's,Burlington,VT,USA,","
+1987-09-02,1987,0,5,1,1,0,0,3,1987 Tour,1987,Wilson,Wilson,1,Hunt's,Burlington,VT,USA,","
+1987-09-02,1987,0,6,1,1,0,0,1,1987 Tour,1987,David Bowie,Bowie,1,Hunt's,Burlington,VT,USA,","
+1987-09-02,1987,0,7,3,1,0,0,1,1987 Tour,1987,Lushington,Lushington,1,Hunt's,Burlington,VT,USA,->
+1987-09-02,1987,0,8,1,1,0,0,1,1987 Tour,1987,Possum,Possum,1,Hunt's,Burlington,VT,USA,","
+1987-09-02,1987,0,9,1,1,0,0,1,1987 Tour,1987,Big Black Furry Creature from Mars,BBFCFM,1,Hunt's,Burlington,VT,USA,","
+1987-09-02,1987,0,10,1,1,0,0,1,1987 Tour,1987,Makisupa Policeman,Makisupa,1,Hunt's,Burlington,VT,USA,","
+1987-09-02,1987,0,11,1,1,0,0,1,1987 Tour,1987,Timber (Jerry the Mule),Timber Ho,0,Hunt's,Burlington,VT,USA,","
+1987-09-02,1987,0,12,1,1,0,0,1,1987 Tour,1987,Shaggy Dog,Shaggy Dog,0,Hunt's,Burlington,VT,USA,","
+1987-09-02,1987,0,13,6,1,0,0,4,1987 Tour,1987,You Enjoy Myself,YEM,1,Hunt's,Burlington,VT,USA,
+1987-09-21,1987,0,1,2,1,0,0,6,1987 Tour,1987,The Man Who Stepped Into Yesterday,TMWSIY,1,Nectar's,Burlington,VT,USA,>
+1987-09-21,1987,0,2,2,1,0,0,6,1987 Tour,1987,Avenu Malkenu,Avenu Malkenu,0,Nectar's,Burlington,VT,USA,>
+1987-09-21,1987,0,3,1,1,0,0,0,1987 Tour,1987,The Man Who Stepped Into Yesterday,TMWSIY,1,Nectar's,Burlington,VT,USA,","
+1987-09-21,1987,0,4,2,1,0,0,6,1987 Tour,1987,Clod,Clod,1,Nectar's,Burlington,VT,USA,>
+1987-09-21,1987,0,5,1,1,0,0,6,1987 Tour,1987,Slave to the Traffic Light,Slave,1,Nectar's,Burlington,VT,USA,","
+1987-09-21,1987,0,6,1,1,0,0,8,1987 Tour,1987,Funky Bitch,Funky Bitch,0,Nectar's,Burlington,VT,USA,","
+1987-09-21,1987,0,7,1,1,0,0,5,1987 Tour,1987,Wilson,Wilson,1,Nectar's,Burlington,VT,USA,","
+1987-09-21,1987,0,8,1,1,0,0,9,1987 Tour,1987,Dear Mrs. Reagan,Dear Mrs. Reagan,1,Nectar's,Burlington,VT,USA,","
+1987-09-21,1987,0,9,2,1,0,0,8,1987 Tour,1987,Golgi Apparatus,Golgi,1,Nectar's,Burlington,VT,USA,>
+1987-09-21,1987,0,10,3,1,0,0,5,1987 Tour,1987,AC/DC Bag,Bag,1,Nectar's,Burlington,VT,USA,->
+1987-09-21,1987,0,11,4,1,0,0,5,1987 Tour,1987,Possum,Possum,1,Nectar's,Burlington,VT,USA,
+1987-09-21,1987,0,12,1,2,0,0,5,1987 Tour,1987,You Enjoy Myself,YEM,1,Nectar's,Burlington,VT,USA,","
+1987-09-21,1987,0,13,1,2,0,0,6,1987 Tour,1987,The Curtain With,Curtain With,1,Nectar's,Burlington,VT,USA,","
+1987-09-21,1987,0,14,1,2,0,0,5,1987 Tour,1987,Big Black Furry Creature from Mars,BBFCFM,1,Nectar's,Burlington,VT,USA,","
+1987-09-21,1987,0,15,2,2,0,0,6,1987 Tour,1987,Suzy Greenberg,Suzy,1,Nectar's,Burlington,VT,USA,>
+1987-09-21,1987,0,16,2,2,0,0,6,1987 Tour,1987,Alumni Blues,Alumni,1,Nectar's,Burlington,VT,USA,>
+1987-09-21,1987,0,17,2,2,0,0,6,1987 Tour,1987,Letter to Jimmy Page,LTJP,1,Nectar's,Burlington,VT,USA,>
+1987-09-21,1987,0,18,4,2,0,0,0,1987 Tour,1987,Alumni Blues,Alumni,1,Nectar's,Burlington,VT,USA,
+1987-09-21,1987,0,19,1,3,0,0,21,1987 Tour,1987,Happy Birthday to You,Happy Birthday,0,Nectar's,Burlington,VT,USA,","
+1987-09-21,1987,0,20,1,3,0,0,9,1987 Tour,1987,Good Times Bad Times,GTBT,0,Nectar's,Burlington,VT,USA,","
+1987-09-21,1987,0,21,1,3,0,0,83,1987 Tour,1987,Rocky Top,Rocky Top,0,Nectar's,Burlington,VT,USA,","
+1987-09-21,1987,0,22,1,3,0,0,5,1987 Tour,1987,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Nectar's,Burlington,VT,USA,","
+1987-09-21,1987,0,23,2,3,0,0,8,1987 Tour,1987,Fee,Fee,1,Nectar's,Burlington,VT,USA,>
+1987-09-21,1987,0,24,1,3,0,0,5,1987 Tour,1987,Divided Sky,Divided,1,Nectar's,Burlington,VT,USA,","
+1987-09-21,1987,0,25,1,3,0,0,8,1987 Tour,1987,Dog Log,Dog Log,1,Nectar's,Burlington,VT,USA,","
+1987-09-21,1987,0,26,1,3,0,0,6,1987 Tour,1987,The Ballad of Curtis Loew,Curtis Loew,0,Nectar's,Burlington,VT,USA,","
+1987-09-21,1987,0,27,1,3,0,0,11,1987 Tour,1987,Run Like an Antelope,Antelope,1,Nectar's,Burlington,VT,USA,","
+1987-09-21,1987,0,28,1,3,0,0,5,1987 Tour,1987,Makisupa Policeman,Makisupa,1,Nectar's,Burlington,VT,USA,","
+1987-09-21,1987,0,29,1,3,0,0,6,1987 Tour,1987,Flat Fee,Flat Fee,1,Nectar's,Burlington,VT,USA,","
+1987-09-21,1987,0,30,1,3,0,0,9,1987 Tour,1987,Fire,Fire,0,Nectar's,Burlington,VT,USA,","
+1987-09-21,1987,0,31,1,3,0,0,83,1987 Tour,1987,Terrapin,Terrapin,0,Nectar's,Burlington,VT,USA,","
+1987-09-21,1987,0,32,1,3,0,0,6,1987 Tour,1987,La Grange,La Grange,0,Nectar's,Burlington,VT,USA,","
+1987-09-21,1987,0,33,6,3,0,0,5,1987 Tour,1987,Fluffhead,Fluffhead,1,Nectar's,Burlington,VT,USA,
+1987-09-26,1987,0,1,6,1,2,2,1,Not Part of a Tour,No Tour,Possum,Possum,1,Odd Fellows Hall,Burlington,VT,USA,
+1987-10-10,1987,0,1,1,2,0,0,0,1987 Tour,1987,Prep School Hippie,Prep School Hippie,1,The Ranch,Shelburne,VT,USA,","
+1987-10-10,1987,0,2,6,2,0,0,2,1987 Tour,1987,Divided Sky,Divided,1,The Ranch,Shelburne,VT,USA,
+1987-10-14,1987,0,1,1,1,0,0,11,1987 Tour,1987,Peaches en Regalia,Peaches,0,Hunt's,Burlington,VT,USA,","
+1987-10-14,1987,0,2,2,1,0,0,17,1987 Tour,1987,Take the 'A' Train,'A' Train,0,Hunt's,Burlington,VT,USA,>
+1987-10-14,1987,0,3,3,1,0,0,3,1987 Tour,1987,You Enjoy Myself,YEM,1,Hunt's,Burlington,VT,USA,->
+1987-10-14,1987,0,4,2,1,0,0,3,1987 Tour,1987,Golgi Apparatus,Golgi,1,Hunt's,Burlington,VT,USA,>
+1987-10-14,1987,0,5,2,1,0,0,3,1987 Tour,1987,Slave to the Traffic Light,Slave,1,Hunt's,Burlington,VT,USA,>
+1987-10-14,1987,0,6,2,1,0,0,86,1987 Tour,1987,The Chase,The Chase,1,Hunt's,Burlington,VT,USA,>
+1987-10-14,1987,0,7,3,1,0,0,3,1987 Tour,1987,Fluffhead,Fluffhead,1,Hunt's,Burlington,VT,USA,->
+1987-10-14,1987,0,8,2,1,0,0,19,1987 Tour,1987,Dave's Energy Guide,DEG,1,Hunt's,Burlington,VT,USA,>
+1987-10-14,1987,0,9,4,1,0,0,2,1987 Tour,1987,Possum,Possum,1,Hunt's,Burlington,VT,USA,
+1987-10-14,1987,0,10,1,2,0,0,8,1987 Tour,1987,David Bowie,Bowie,1,Hunt's,Burlington,VT,USA,","
+1987-10-14,1987,0,11,2,2,0,0,3,1987 Tour,1987,AC/DC Bag,Bag,1,Hunt's,Burlington,VT,USA,>
+1987-10-14,1987,0,12,2,2,0,0,1,1987 Tour,1987,Divided Sky,Divided,1,Hunt's,Burlington,VT,USA,>
+1987-10-14,1987,0,13,2,2,0,0,9,1987 Tour,1987,McGrupp and the Watchful Hosemasters,McGrupp,1,Hunt's,Burlington,VT,USA,>
+1987-10-14,1987,0,14,2,2,0,0,3,1987 Tour,1987,Clod,Clod,1,Hunt's,Burlington,VT,USA,>
+1987-10-14,1987,0,15,6,2,0,0,3,1987 Tour,1987,Makisupa Policeman,Makisupa,1,Hunt's,Burlington,VT,USA,
+1987-10-31,1987,0,1,3,1,0,0,36,1987 Tour,1987,Jam,Jam,0,"Sculpture Room, Goddard College",Plainfield,VT,USA,->
+1987-10-31,1987,0,2,1,1,0,0,18,1987 Tour,1987,Whipping Post,Whipping Post,0,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1987-10-31,1987,0,3,3,1,0,0,9,1987 Tour,1987,Sneakin' Sally Through the Alley,Sneakin' Sally,0,"Sculpture Room, Goddard College",Plainfield,VT,USA,->
+1987-10-31,1987,0,4,2,1,0,0,15,1987 Tour,1987,Back Porch Boogie Blues,Back Porch Boogie Blues,0,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
+1987-10-31,1987,0,5,2,1,0,0,18,1987 Tour,1987,Halley's Comet,Halley's,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
+1987-10-31,1987,0,6,1,1,0,0,17,1987 Tour,1987,Light Up Or Leave Me Alone,Light Up,0,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1987-10-31,1987,0,7,1,1,0,0,92,1987 Tour,1987,Love You,Love You,0,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1987-10-31,1987,0,8,1,1,0,0,5,1987 Tour,1987,AC/DC Bag,Bag,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1987-10-31,1987,0,9,1,1,0,0,5,1987 Tour,1987,Possum,Possum,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1987-10-31,1987,0,10,2,1,0,0,5,1987 Tour,1987,You Enjoy Myself,YEM,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
+1987-10-31,1987,0,11,4,1,0,0,9,1987 Tour,1987,Big Black Furry Creature from Mars,BBFCFM,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,
+1987-10-31,1987,0,12,2,2,0,0,9,1987 Tour,1987,The Man Who Stepped Into Yesterday,TMWSIY,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
+1987-10-31,1987,0,13,2,2,0,0,9,1987 Tour,1987,Avenu Malkenu,Avenu Malkenu,0,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
+1987-10-31,1987,0,14,2,2,0,0,0,1987 Tour,1987,The Man Who Stepped Into Yesterday,TMWSIY,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
+1987-10-31,1987,0,15,1,2,0,0,5,1987 Tour,1987,Peaches en Regalia,Peaches,0,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1987-10-31,1987,0,16,2,2,0,0,6,1987 Tour,1987,Take the 'A' Train,'A' Train,0,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
+1987-10-31,1987,0,17,1,2,0,0,13,1987 Tour,1987,Timber (Jerry the Mule),Timber Ho,0,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1987-10-31,1987,0,18,2,2,0,0,6,1987 Tour,1987,The Chase,The Chase,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
+1987-10-31,1987,0,19,2,2,0,0,14,1987 Tour,1987,I Am Hydrogen,Hydrogen,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
+1987-10-31,1987,0,20,1,2,0,0,15,1987 Tour,1987,Who Do? We Do!,Who Do? We Do!,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1987-10-31,1987,0,21,2,2,0,0,8,1987 Tour,1987,Fee,Fee,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
+1987-10-31,1987,0,22,2,2,0,0,5,1987 Tour,1987,Divided Sky,Divided,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
+1987-10-31,1987,0,23,2,2,0,0,5,1987 Tour,1987,McGrupp and the Watchful Hosemasters,McGrupp,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
+1987-10-31,1987,0,24,2,2,0,0,0,1987 Tour,1987,Who Do? We Do!,Who Do? We Do!,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
+1987-10-31,1987,0,25,1,2,0,0,6,1987 Tour,1987,Clod,Clod,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1987-10-31,1987,0,26,2,2,0,0,9,1987 Tour,1987,Alumni Blues,Alumni,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
+1987-10-31,1987,0,27,2,2,0,0,9,1987 Tour,1987,Letter to Jimmy Page,LTJP,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
+1987-10-31,1987,0,28,2,2,0,0,0,1987 Tour,1987,Alumni Blues,Alumni,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
+1987-10-31,1987,0,29,1,2,0,0,5,1987 Tour,1987,Fluffhead,Fluffhead,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1987-10-31,1987,0,30,6,2,0,0,5,1987 Tour,1987,David Bowie,Bowie,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,
+1987-11-18,1987,0,1,1,1,0,0,9,1987 Tour,1987,Slave to the Traffic Light,Slave,1,Hunt's,Burlington,VT,USA,","
+1987-11-18,1987,0,2,2,1,0,0,4,1987 Tour,1987,The Man Who Stepped Into Yesterday,TMWSIY,1,Hunt's,Burlington,VT,USA,>
+1987-11-18,1987,0,3,2,1,0,0,4,1987 Tour,1987,Avenu Malkenu,Avenu Malkenu,0,Hunt's,Burlington,VT,USA,>
+1987-11-18,1987,0,4,1,1,0,0,0,1987 Tour,1987,The Man Who Stepped Into Yesterday,TMWSIY,1,Hunt's,Burlington,VT,USA,","
+1987-11-18,1987,0,5,1,1,0,0,13,1987 Tour,1987,Flat Fee,Flat Fee,1,Hunt's,Burlington,VT,USA,","
+1987-11-18,1987,0,6,2,1,0,0,12,1987 Tour,1987,Wilson,Wilson,1,Hunt's,Burlington,VT,USA,>
+1987-11-18,1987,0,7,1,1,0,0,4,1987 Tour,1987,Peaches en Regalia,Peaches,0,Hunt's,Burlington,VT,USA,","
+1987-11-18,1987,0,8,1,1,0,0,4,1987 Tour,1987,Take the 'A' Train,'A' Train,0,Hunt's,Burlington,VT,USA,","
+1987-11-18,1987,0,9,2,1,0,0,9,1987 Tour,1987,Golgi Apparatus,Golgi,1,Hunt's,Burlington,VT,USA,>
+1987-11-18,1987,0,10,2,1,0,0,4,1987 Tour,1987,Divided Sky,Divided,1,Hunt's,Burlington,VT,USA,>
+1987-11-18,1987,0,11,2,1,0,0,4,1987 Tour,1987,Alumni Blues,Alumni,1,Hunt's,Burlington,VT,USA,>
+1987-11-18,1987,0,12,2,1,0,0,4,1987 Tour,1987,Letter to Jimmy Page,LTJP,1,Hunt's,Burlington,VT,USA,>
+1987-11-18,1987,0,13,1,1,0,0,0,1987 Tour,1987,Alumni Blues,Alumni,1,Hunt's,Burlington,VT,USA,","
+1987-11-18,1987,0,14,4,1,0,0,12,1987 Tour,1987,Good Times Bad Times,GTBT,0,Hunt's,Burlington,VT,USA,
+1987-11-18,1987,0,15,1,2,0,0,93,1987 Tour,1987,I Didn't Know,IDK,1,Hunt's,Burlington,VT,USA,","
+1987-11-18,1987,0,16,1,2,0,0,4,1987 Tour,1987,You Enjoy Myself,YEM,1,Hunt's,Burlington,VT,USA,","
+1987-11-18,1987,0,17,1,2,0,0,4,1987 Tour,1987,Fluffhead,Fluffhead,1,Hunt's,Burlington,VT,USA,","
+1987-11-18,1987,0,18,6,2,0,0,4,1987 Tour,1987,AC/DC Bag,Bag,1,Hunt's,Burlington,VT,USA,
+1987-11-19,1987,0,1,3,1,0,0,5,1987 Tour,1987,McGrupp and the Watchful Hosemasters,McGrupp,1,Hunt's,Burlington,VT,USA,->
+1987-11-19,1987,0,2,1,1,0,0,22,1987 Tour,1987,Sparks,Sparks,0,Hunt's,Burlington,VT,USA,","
+1987-11-19,1987,0,3,1,1,0,0,13,1987 Tour,1987,Funky Bitch,Funky Bitch,0,Hunt's,Burlington,VT,USA,","
+1987-11-19,1987,0,4,1,1,0,0,1,1987 Tour,1987,You Enjoy Myself,YEM,1,Hunt's,Burlington,VT,USA,","
+1987-11-19,1987,0,5,1,1,0,0,5,1987 Tour,1987,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Hunt's,Burlington,VT,USA,","
+1987-11-19,1987,0,6,1,1,0,0,19,1987 Tour,1987,Harry Hood,Hood,1,Hunt's,Burlington,VT,USA,","
+1987-11-19,1987,0,7,4,1,0,0,14,1987 Tour,1987,Fire,Fire,0,Hunt's,Burlington,VT,USA,
+1987-11-19,1987,0,8,1,2,0,0,5,1987 Tour,1987,Timber (Jerry the Mule),Timber Ho,0,Hunt's,Burlington,VT,USA,","
+1987-11-19,1987,0,9,1,2,0,0,1,1987 Tour,1987,Fluffhead,Fluffhead,1,Hunt's,Burlington,VT,USA,","
+1987-11-19,1987,0,10,1,2,0,0,1,1987 Tour,1987,I Didn't Know,IDK,1,Hunt's,Burlington,VT,USA,","
+1987-11-19,1987,0,11,1,2,0,0,5,1987 Tour,1987,Fee,Fee,1,Hunt's,Burlington,VT,USA,","
+1987-11-19,1987,0,12,1,2,0,0,20,1987 Tour,1987,Corinna,Corinna,0,Hunt's,Burlington,VT,USA,","
+1987-11-19,1987,0,13,2,2,0,0,1,1987 Tour,1987,Alumni Blues,Alumni,1,Hunt's,Burlington,VT,USA,>
+1987-11-19,1987,0,14,2,2,0,0,1,1987 Tour,1987,Letter to Jimmy Page,LTJP,1,Hunt's,Burlington,VT,USA,>
+1987-11-19,1987,0,15,4,2,0,0,0,1987 Tour,1987,Alumni Blues,Alumni,1,Hunt's,Burlington,VT,USA,
+1987-11-19,1987,0,16,1,3,0,0,5,1987 Tour,1987,Jam,Jam,0,Hunt's,Burlington,VT,USA,","
+1987-11-19,1987,0,17,2,3,0,0,13,1987 Tour,1987,Suzy Greenberg,Suzy,1,Hunt's,Burlington,VT,USA,>
+1987-11-19,1987,0,18,1,3,0,0,5,1987 Tour,1987,Possum,Possum,1,Hunt's,Burlington,VT,USA,","
+1987-11-19,1987,0,19,2,3,0,0,1,1987 Tour,1987,Divided Sky,Divided,1,Hunt's,Burlington,VT,USA,>
+1987-11-19,1987,0,20,1,3,0,0,5,1987 Tour,1987,Big Black Furry Creature from Mars,BBFCFM,1,Hunt's,Burlington,VT,USA,","
+1987-11-19,1987,0,21,1,3,0,0,94,1987 Tour,1987,Dinner and a Movie,Dinner and a Movie,1,Hunt's,Burlington,VT,USA,","
+1987-11-19,1987,0,22,1,3,0,0,14,1987 Tour,1987,The Ballad of Curtis Loew,Curtis Loew,0,Hunt's,Burlington,VT,USA,","
+1987-11-19,1987,0,23,1,3,0,0,5,1987 Tour,1987,Whipping Post,Whipping Post,0,Hunt's,Burlington,VT,USA,","
+1987-11-19,1987,0,24,1,3,0,0,20,1987 Tour,1987,Harpua,Harpua,1,Hunt's,Burlington,VT,USA,","
+1987-11-19,1987,0,25,1,3,0,0,1,1987 Tour,1987,Take the 'A' Train,'A' Train,0,Hunt's,Burlington,VT,USA,","
+1987-11-19,1987,0,26,1,3,0,0,22,1987 Tour,1987,Camel Walk,Camel Walk,1,Hunt's,Burlington,VT,USA,","
+1987-11-19,1987,0,27,1,3,0,0,14,1987 Tour,1987,La Grange,La Grange,0,Hunt's,Burlington,VT,USA,","
+1987-11-19,1987,0,28,1,3,0,0,97,1987 Tour,1987,Bike,Bike,0,Hunt's,Burlington,VT,USA,","
+1987-11-19,1987,0,29,6,3,0,0,1,1987 Tour,1987,Slave to the Traffic Light,Slave,1,Hunt's,Burlington,VT,USA,

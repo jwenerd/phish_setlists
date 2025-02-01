@@ -1,0 +1,1461 @@
+showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,tourwhen,song,nickname,is_original,venue,city,state,country,trans_mark
+1997-02-13,1997,0,1,1,1,0,0,1,1997 Winter European Tour,1997 Winter,Chalk Dust Torture,CDT,1,Shepherd's Bush Empire,London,,England,","
+1997-02-13,1997,0,2,2,1,0,0,4,1997 Winter European Tour,1997 Winter,Wolfman's Brother,Wolfman's,1,Shepherd's Bush Empire,London,,England,>
+1997-02-13,1997,0,3,2,1,0,0,1,1997 Winter European Tour,1997 Winter,Also Sprach Zarathustra,2001,0,Shepherd's Bush Empire,London,,England,>
+1997-02-13,1997,0,4,1,1,0,0,1,1997 Winter European Tour,1997 Winter,Stash,Stash,1,Shepherd's Bush Empire,London,,England,","
+1997-02-13,1997,0,5,1,1,0,0,1102,1997 Winter European Tour,1997 Winter,Walfredo,Walfredo,1,Shepherd's Bush Empire,London,,England,","
+1997-02-13,1997,0,6,2,1,0,0,3,1997 Winter European Tour,1997 Winter,Taste,Taste,1,Shepherd's Bush Empire,London,,England,>
+1997-02-13,1997,0,7,2,1,0,0,10,1997 Winter European Tour,1997 Winter,Waste,Waste,1,Shepherd's Bush Empire,London,,England,>
+1997-02-13,1997,0,8,2,1,0,0,3,1997 Winter European Tour,1997 Winter,Poor Heart,Poor Heart,1,Shepherd's Bush Empire,London,,England,>
+1997-02-13,1997,0,9,2,1,0,0,1,1997 Winter European Tour,1997 Winter,Character Zero,Character Zero,1,Shepherd's Bush Empire,London,,England,>
+1997-02-13,1997,0,10,1,1,0,0,1,1997 Winter European Tour,1997 Winter,Peaches en Regalia,Peaches,0,Shepherd's Bush Empire,London,,England,","
+1997-02-13,1997,0,11,1,1,0,0,1096,1997 Winter European Tour,1997 Winter,Love Me,Love Me,0,Shepherd's Bush Empire,London,,England,","
+1997-02-13,1997,0,12,4,1,0,0,3,1997 Winter European Tour,1997 Winter,David Bowie,Bowie,1,Shepherd's Bush Empire,London,,England,
+1997-02-13,1997,0,13,1,2,0,0,1,1997 Winter European Tour,1997 Winter,Julius,Julius,1,Shepherd's Bush Empire,London,,England,","
+1997-02-13,1997,0,14,2,2,0,0,1,1997 Winter European Tour,1997 Winter,Cars Trucks Buses,CTB,1,Shepherd's Bush Empire,London,,England,>
+1997-02-13,1997,0,15,2,2,0,0,1098,1997 Winter European Tour,1997 Winter,My Soul,My Soul,0,Shepherd's Bush Empire,London,,England,>
+1997-02-13,1997,0,16,2,2,0,0,1,1997 Winter European Tour,1997 Winter,Punch You in the Eye,PYITE,1,Shepherd's Bush Empire,London,,England,>
+1997-02-13,1997,0,17,2,2,0,0,20,1997 Winter European Tour,1997 Winter,Jam,Jam,0,Shepherd's Bush Empire,London,,England,>
+1997-02-13,1997,0,18,2,2,0,0,2,1997 Winter European Tour,1997 Winter,Slave to the Traffic Light,Slave,1,Shepherd's Bush Empire,London,,England,>
+1997-02-13,1997,0,19,2,2,0,0,1098,1997 Winter European Tour,1997 Winter,When the Circus Comes,Circus,0,Shepherd's Bush Empire,London,,England,>
+1997-02-13,1997,0,20,2,2,0,0,4,1997 Winter European Tour,1997 Winter,Maze,Maze,1,Shepherd's Bush Empire,London,,England,>
+1997-02-13,1997,0,21,1,2,0,0,1096,1997 Winter European Tour,1997 Winter,Rock A William,Rock A William,1,Shepherd's Bush Empire,London,,England,","
+1997-02-13,1997,0,22,2,2,0,0,1,1997 Winter European Tour,1997 Winter,Harry Hood,Hood,1,Shepherd's Bush Empire,London,,England,>
+1997-02-13,1997,0,23,5,2,0,0,4,1997 Winter European Tour,1997 Winter,Frankenstein,Frankenstein,0,Shepherd's Bush Empire,London,,England,
+1997-02-13,1997,0,24,2,e,0,0,1,1997 Winter European Tour,1997 Winter,Prince Caspian,Caspian,1,Shepherd's Bush Empire,London,,England,>
+1997-02-13,1997,0,25,6,e,0,0,4,1997 Winter European Tour,1997 Winter,Johnny B. Goode,JBG,0,Shepherd's Bush Empire,London,,England,
+1997-02-14,1997,0,1,2,1,0,0,5,1997 Winter European Tour,1997 Winter,Runaway Jim,Runaway Jim,1,Le Botanique,Brussels,,Belgium,>
+1997-02-14,1997,0,2,1,1,0,0,5,1997 Winter European Tour,1997 Winter,NICU,NICU,1,Le Botanique,Brussels,,Belgium,","
+1997-02-14,1997,0,3,1,1,0,0,4,1997 Winter European Tour,1997 Winter,You Enjoy Myself,YEM,1,Le Botanique,Brussels,,Belgium,","
+1997-02-14,1997,0,4,1,1,0,0,6,1997 Winter European Tour,1997 Winter,Sweet Adeline,Sweet Adeline,0,Le Botanique,Brussels,,Belgium,","
+1997-02-14,1997,0,5,2,1,0,0,2,1997 Winter European Tour,1997 Winter,Axilla,Axilla,1,Le Botanique,Brussels,,Belgium,>
+1997-02-14,1997,0,6,2,1,0,0,5,1997 Winter European Tour,1997 Winter,It's Ice,It's Ice,1,Le Botanique,Brussels,,Belgium,>
+1997-02-14,1997,0,7,1,1,0,0,5,1997 Winter European Tour,1997 Winter,Billy Breathes,Billy Breathes,1,Le Botanique,Brussels,,Belgium,","
+1997-02-14,1997,0,8,1,1,0,0,3,1997 Winter European Tour,1997 Winter,Uncle Pen,Uncle Pen,0,Le Botanique,Brussels,,Belgium,","
+1997-02-14,1997,0,9,4,1,0,0,2,1997 Winter European Tour,1997 Winter,Run Like an Antelope,Antelope,1,Le Botanique,Brussels,,Belgium,
+1997-02-14,1997,0,10,2,2,0,0,3,1997 Winter European Tour,1997 Winter,AC/DC Bag,Bag,1,Le Botanique,Brussels,,Belgium,>
+1997-02-14,1997,0,11,2,2,0,0,3,1997 Winter European Tour,1997 Winter,Ya Mar,Ya Mar,0,Le Botanique,Brussels,,Belgium,>
+1997-02-14,1997,0,12,2,2,0,0,2,1997 Winter European Tour,1997 Winter,Down with Disease,DwD,1,Le Botanique,Brussels,,Belgium,>
+1997-02-14,1997,0,13,2,2,0,0,3,1997 Winter European Tour,1997 Winter,Funky Bitch,Funky Bitch,0,Le Botanique,Brussels,,Belgium,>
+1997-02-14,1997,0,14,1,2,0,0,3,1997 Winter European Tour,1997 Winter,Reba,Reba,1,Le Botanique,Brussels,,Belgium,","
+1997-02-14,1997,0,15,1,2,0,0,1,1997 Winter European Tour,1997 Winter,Walfredo,Walfredo,1,Le Botanique,Brussels,,Belgium,","
+1997-02-14,1997,0,16,1,2,0,0,1,1997 Winter European Tour,1997 Winter,Rock A William,Rock A William,1,Le Botanique,Brussels,,Belgium,","
+1997-02-14,1997,0,17,2,2,0,0,3,1997 Winter European Tour,1997 Winter,Scent of a Mule,SOAMule,1,Le Botanique,Brussels,,Belgium,>
+1997-02-14,1997,0,18,5,2,0,0,4,1997 Winter European Tour,1997 Winter,A Day in the Life,ADITL,0,Le Botanique,Brussels,,Belgium,
+1997-02-14,1997,0,19,6,e,0,0,1,1997 Winter European Tour,1997 Winter,Character Zero,Character Zero,1,Le Botanique,Brussels,,Belgium,
+1997-02-16,1997,0,1,1,1,0,0,1100,1997 Winter European Tour,1997 Winter,Beauty of My Dreams,Beauty of My Dreams,0,Alter Wartesaal,Cologne,,Germany,","
+1997-02-16,1997,0,2,1,1,0,0,6,1997 Winter European Tour,1997 Winter,Split Open and Melt,SOAMelt,1,Alter Wartesaal,Cologne,,Germany,","
+1997-02-16,1997,0,3,1,1,0,0,6,1997 Winter European Tour,1997 Winter,Bouncing Around the Room,Bouncin',1,Alter Wartesaal,Cologne,,Germany,","
+1997-02-16,1997,0,4,2,1,0,0,29,1997 Winter European Tour,1997 Winter,Crosseyed and Painless,C&amp;P,0,Alter Wartesaal,Cologne,,Germany,>
+1997-02-16,1997,0,5,1,1,0,0,5,1997 Winter European Tour,1997 Winter,Guelah Papyrus,Guelah,1,Alter Wartesaal,Cologne,,Germany,","
+1997-02-16,1997,0,6,2,1,0,0,6,1997 Winter European Tour,1997 Winter,Ginseng Sullivan,Ginseng,0,Alter Wartesaal,Cologne,,Germany,>
+1997-02-16,1997,0,7,1,1,0,0,4,1997 Winter European Tour,1997 Winter,Tweezer,Tweezer,1,Alter Wartesaal,Cologne,,Germany,","
+1997-02-16,1997,0,8,2,1,0,0,2,1997 Winter European Tour,1997 Winter,Waste,Waste,1,Alter Wartesaal,Cologne,,Germany,>
+1997-02-16,1997,0,9,2,1,0,0,5,1997 Winter European Tour,1997 Winter,Cavern,Cavern,1,Alter Wartesaal,Cologne,,Germany,>
+1997-02-16,1997,0,10,4,1,0,0,2,1997 Winter European Tour,1997 Winter,Chalk Dust Torture,CDT,1,Alter Wartesaal,Cologne,,Germany,
+1997-02-16,1997,0,11,2,2,0,0,3,1997 Winter European Tour,1997 Winter,Sample in a Jar,Sample,1,Alter Wartesaal,Cologne,,Germany,>
+1997-02-16,1997,0,12,1,2,0,0,2,1997 Winter European Tour,1997 Winter,Cars Trucks Buses,CTB,1,Alter Wartesaal,Cologne,,Germany,","
+1997-02-16,1997,0,13,1,2,0,0,5,1997 Winter European Tour,1997 Winter,Free,Free,1,Alter Wartesaal,Cologne,,Germany,","
+1997-02-16,1997,0,14,2,2,0,0,3,1997 Winter European Tour,1997 Winter,Sparkle,Sparkle,1,Alter Wartesaal,Cologne,,Germany,>
+1997-02-16,1997,0,15,3,2,0,0,3,1997 Winter European Tour,1997 Winter,Simple,Simple,1,Alter Wartesaal,Cologne,,Germany,->
+1997-02-16,1997,0,16,1,2,0,0,2,1997 Winter European Tour,1997 Winter,When the Circus Comes,Circus,0,Alter Wartesaal,Cologne,,Germany,","
+1997-02-16,1997,0,17,2,2,0,0,3,1997 Winter European Tour,1997 Winter,Swept Away,Swept Away,1,Alter Wartesaal,Cologne,,Germany,>
+1997-02-16,1997,0,18,3,2,0,0,3,1997 Winter European Tour,1997 Winter,Steep,Steep,1,Alter Wartesaal,Cologne,,Germany,->
+1997-02-16,1997,0,19,1,2,0,0,2,1997 Winter European Tour,1997 Winter,David Bowie,Bowie,1,Alter Wartesaal,Cologne,,Germany,","
+1997-02-16,1997,0,20,2,2,0,0,14,1997 Winter European Tour,1997 Winter,Loving Cup,Loving Cup,0,Alter Wartesaal,Cologne,,Germany,>
+1997-02-16,1997,0,21,5,2,0,0,3,1997 Winter European Tour,1997 Winter,Tweezer Reprise,Tweeprise,1,Alter Wartesaal,Cologne,,Germany,
+1997-02-16,1997,0,22,2,e,0,0,4,1997 Winter European Tour,1997 Winter,Theme From the Bottom,Theme,1,Alter Wartesaal,Cologne,,Germany,>
+1997-02-16,1997,0,23,6,e,0,0,2,1997 Winter European Tour,1997 Winter,Johnny B. Goode,JBG,0,Alter Wartesaal,Cologne,,Germany,
+1997-02-17,1997,0,1,2,1,0,0,1105,1997 Winter European Tour,1997 Winter,Soul Shakedown Party,Soul Shakedown Party,0,Paradiso,Amsterdam,,Netherlands,>
+1997-02-17,1997,0,2,1,1,0,0,4,1997 Winter European Tour,1997 Winter,Divided Sky,Divided,1,Paradiso,Amsterdam,,Netherlands,","
+1997-02-17,1997,0,3,2,1,0,0,4,1997 Winter European Tour,1997 Winter,Wilson,Wilson,1,Paradiso,Amsterdam,,Netherlands,>
+1997-02-17,1997,0,4,1,1,0,0,3,1997 Winter European Tour,1997 Winter,My Soul,My Soul,0,Paradiso,Amsterdam,,Netherlands,","
+1997-02-17,1997,0,5,1,1,0,0,5,1997 Winter European Tour,1997 Winter,Guyute,Guyute,1,Paradiso,Amsterdam,,Netherlands,","
+1997-02-17,1997,0,6,2,1,0,0,5,1997 Winter European Tour,1997 Winter,Timber (Jerry the Mule),Timber Ho,0,Paradiso,Amsterdam,,Netherlands,>
+1997-02-17,1997,0,7,1,1,0,0,2,1997 Winter European Tour,1997 Winter,Billy Breathes,Billy Breathes,1,Paradiso,Amsterdam,,Netherlands,","
+1997-02-17,1997,0,8,1,1,0,0,5,1997 Winter European Tour,1997 Winter,Llama,Llama,1,Paradiso,Amsterdam,,Netherlands,","
+1997-02-17,1997,0,9,2,1,0,0,6,1997 Winter European Tour,1997 Winter,Bathtub Gin,Gin,1,Paradiso,Amsterdam,,Netherlands,>
+1997-02-17,1997,0,10,4,1,0,0,23,1997 Winter European Tour,1997 Winter,Golgi Apparatus,Golgi,1,Paradiso,Amsterdam,,Netherlands,
+1997-02-17,1997,0,11,3,2,0,0,6,1997 Winter European Tour,1997 Winter,The Squirming Coil,Coil,1,Paradiso,Amsterdam,,Netherlands,->
+1997-02-17,1997,0,12,3,2,0,0,2,1997 Winter European Tour,1997 Winter,Down with Disease,DwD,1,Paradiso,Amsterdam,,Netherlands,->
+1997-02-17,1997,0,13,3,2,0,0,1101,1997 Winter European Tour,1997 Winter,Carini,Carini,1,Paradiso,Amsterdam,,Netherlands,->
+1997-02-17,1997,0,14,3,2,0,0,3,1997 Winter European Tour,1997 Winter,Taste,Taste,1,Paradiso,Amsterdam,,Netherlands,->
+1997-02-17,1997,0,15,2,2,0,0,0,1997 Winter European Tour,1997 Winter,Down with Disease,DwD,1,Paradiso,Amsterdam,,Netherlands,>
+1997-02-17,1997,0,16,2,2,0,0,4,1997 Winter European Tour,1997 Winter,Suzy Greenberg,Suzy,1,Paradiso,Amsterdam,,Netherlands,>
+1997-02-17,1997,0,17,5,2,0,0,3,1997 Winter European Tour,1997 Winter,Prince Caspian,Caspian,1,Paradiso,Amsterdam,,Netherlands,
+1997-02-17,1997,0,18,2,e,0,0,21,1997 Winter European Tour,1997 Winter,Sleeping Monkey,Sleeping Monkey,1,Paradiso,Amsterdam,,Netherlands,>
+1997-02-17,1997,0,19,6,e,0,0,6,1997 Winter European Tour,1997 Winter,Rocky Top,Rocky Top,0,Paradiso,Amsterdam,,Netherlands,
+1997-02-18,1997,0,1,2,1,0,0,2,1997 Winter European Tour,1997 Winter,Beauty of My Dreams,Beauty of My Dreams,0,Bataclan,Paris,,France,>
+1997-02-18,1997,0,2,2,1,0,0,2,1997 Winter European Tour,1997 Winter,Cavern,Cavern,1,Bataclan,Paris,,France,>
+1997-02-18,1997,0,3,2,1,0,0,4,1997 Winter European Tour,1997 Winter,Punch You in the Eye,PYITE,1,Bataclan,Paris,,France,>
+1997-02-18,1997,0,4,2,1,0,0,3,1997 Winter European Tour,1997 Winter,Runaway Jim,Runaway Jim,1,Bataclan,Paris,,France,>
+1997-02-18,1997,0,5,2,1,0,0,3,1997 Winter European Tour,1997 Winter,NICU,NICU,1,Bataclan,Paris,,France,>
+1997-02-18,1997,0,6,1,1,0,0,4,1997 Winter European Tour,1997 Winter,Stash,Stash,1,Bataclan,Paris,,France,","
+1997-02-18,1997,0,7,1,1,0,0,2,1997 Winter European Tour,1997 Winter,Waste,Waste,1,Bataclan,Paris,,France,","
+1997-02-18,1997,0,8,1,1,0,0,3,1997 Winter European Tour,1997 Winter,Walfredo,Walfredo,1,Bataclan,Paris,,France,","
+1997-02-18,1997,0,9,2,1,0,0,3,1997 Winter European Tour,1997 Winter,Character Zero,Character Zero,1,Bataclan,Paris,,France,>
+1997-02-18,1997,0,10,4,1,0,0,4,1997 Winter European Tour,1997 Winter,Slave to the Traffic Light,Slave,1,Bataclan,Paris,,France,
+1997-02-18,1997,0,11,2,2,0,0,4,1997 Winter European Tour,1997 Winter,Peaches en Regalia,Peaches,0,Bataclan,Paris,,France,>
+1997-02-18,1997,0,12,2,2,0,0,4,1997 Winter European Tour,1997 Winter,Also Sprach Zarathustra,2001,0,Bataclan,Paris,,France,>
+1997-02-18,1997,0,13,2,2,0,0,1,1997 Winter European Tour,1997 Winter,My Soul,My Soul,0,Bataclan,Paris,,France,>
+1997-02-18,1997,0,14,1,2,0,0,4,1997 Winter European Tour,1997 Winter,Maze,Maze,1,Bataclan,Paris,,France,","
+1997-02-18,1997,0,15,2,2,0,0,4,1997 Winter European Tour,1997 Winter,Wolfman's Brother,Wolfman's,1,Bataclan,Paris,,France,>
+1997-02-18,1997,0,16,1,2,0,0,3,1997 Winter European Tour,1997 Winter,Reba,Reba,1,Bataclan,Paris,,France,","
+1997-02-18,1997,0,17,1,2,0,0,7,1997 Winter European Tour,1997 Winter,Train Song,Train Song,1,Bataclan,Paris,,France,","
+1997-02-18,1997,0,18,2,2,0,0,4,1997 Winter European Tour,1997 Winter,Harry Hood,Hood,1,Bataclan,Paris,,France,>
+1997-02-18,1997,0,19,5,2,0,0,4,1997 Winter European Tour,1997 Winter,Frankenstein,Frankenstein,0,Bataclan,Paris,,France,
+1997-02-18,1997,0,20,6,e,0,0,15,1997 Winter European Tour,1997 Winter,Bold As Love,Bold As Love,0,Bataclan,Paris,,France,
+1997-02-20,1997,0,1,2,1,0,0,13,1997 Winter European Tour,1997 Winter,The Curtain,Curtain,1,Teatro Smeraldo,Milan,,Italy,>
+1997-02-20,1997,0,2,2,1,0,0,3,1997 Winter European Tour,1997 Winter,Tweezer,Tweezer,1,Teatro Smeraldo,Milan,,Italy,>
+1997-02-20,1997,0,3,2,1,0,0,2,1997 Winter European Tour,1997 Winter,Soul Shakedown Party,Soul Shakedown Party,0,Teatro Smeraldo,Milan,,Italy,>
+1997-02-20,1997,0,4,1,1,0,0,3,1997 Winter European Tour,1997 Winter,Chalk Dust Torture,CDT,1,Teatro Smeraldo,Milan,,Italy,","
+1997-02-20,1997,0,5,1,1,0,0,5,1997 Winter European Tour,1997 Winter,Love Me,Love Me,0,Teatro Smeraldo,Milan,,Italy,","
+1997-02-20,1997,0,6,1,1,0,0,2,1997 Winter European Tour,1997 Winter,Taste,Taste,1,Teatro Smeraldo,Milan,,Italy,","
+1997-02-20,1997,0,7,1,1,0,0,7,1997 Winter European Tour,1997 Winter,Gumbo,Gumbo,1,Teatro Smeraldo,Milan,,Italy,","
+1997-02-20,1997,0,8,2,1,0,0,3,1997 Winter European Tour,1997 Winter,When the Circus Comes,Circus,0,Teatro Smeraldo,Milan,,Italy,>
+1997-02-20,1997,0,9,2,1,0,0,3,1997 Winter European Tour,1997 Winter,David Bowie,Bowie,1,Teatro Smeraldo,Milan,,Italy,>
+1997-02-20,1997,0,10,4,1,0,0,3,1997 Winter European Tour,1997 Winter,Tweezer Reprise,Tweeprise,1,Teatro Smeraldo,Milan,,Italy,
+1997-02-20,1997,0,11,2,2,0,0,3,1997 Winter European Tour,1997 Winter,Sample in a Jar,Sample,1,Teatro Smeraldo,Milan,,Italy,>
+1997-02-20,1997,0,12,1,2,0,0,3,1997 Winter European Tour,1997 Winter,Cars Trucks Buses,CTB,1,Teatro Smeraldo,Milan,,Italy,","
+1997-02-20,1997,0,13,2,2,0,0,1,1997 Winter European Tour,1997 Winter,Character Zero,Character Zero,1,Teatro Smeraldo,Milan,,Italy,>
+1997-02-20,1997,0,14,1,2,0,0,4,1997 Winter European Tour,1997 Winter,Uncle Pen,Uncle Pen,0,Teatro Smeraldo,Milan,,Italy,","
+1997-02-20,1997,0,15,1,2,0,0,1,1997 Winter European Tour,1997 Winter,Stash,Stash,1,Teatro Smeraldo,Milan,,Italy,","
+1997-02-20,1997,0,16,1,2,0,0,3,1997 Winter European Tour,1997 Winter,Bouncing Around the Room,Bouncin',1,Teatro Smeraldo,Milan,,Italy,","
+1997-02-20,1997,0,17,2,2,0,0,3,1997 Winter European Tour,1997 Winter,Free,Free,1,Teatro Smeraldo,Milan,,Italy,>
+1997-02-20,1997,0,18,2,2,0,0,3,1997 Winter European Tour,1997 Winter,Swept Away,Swept Away,1,Teatro Smeraldo,Milan,,Italy,>
+1997-02-20,1997,0,19,2,2,0,0,3,1997 Winter European Tour,1997 Winter,Steep,Steep,1,Teatro Smeraldo,Milan,,Italy,>
+1997-02-20,1997,0,20,1,2,0,0,4,1997 Winter European Tour,1997 Winter,A Day in the Life,ADITL,0,Teatro Smeraldo,Milan,,Italy,","
+1997-02-20,1997,0,21,1,2,0,0,1,1997 Winter European Tour,1997 Winter,Runaway Jim,Runaway Jim,1,Teatro Smeraldo,Milan,,Italy,","
+1997-02-20,1997,0,22,5,2,0,0,4,1997 Winter European Tour,1997 Winter,Sweet Adeline,Sweet Adeline,0,Teatro Smeraldo,Milan,,Italy,
+1997-02-20,1997,0,23,6,e,0,0,5,1997 Winter European Tour,1997 Winter,Julius,Julius,1,Teatro Smeraldo,Milan,,Italy,
+1997-02-21,1997,0,1,1,1,0,0,2,1997 Winter European Tour,1997 Winter,My Soul,My Soul,0,Tenax,Florence,,Italy,","
+1997-02-21,1997,0,2,1,1,0,0,21,1997 Winter European Tour,1997 Winter,Foam,Foam,1,Tenax,Florence,,Italy,","
+1997-02-21,1997,0,3,2,1,0,0,3,1997 Winter European Tour,1997 Winter,Down with Disease,DwD,1,Tenax,Florence,,Italy,>
+1997-02-21,1997,0,4,1,1,0,0,9,1997 Winter European Tour,1997 Winter,The Lizards,Lizards,1,Tenax,Florence,,Italy,","
+1997-02-21,1997,0,5,1,1,0,0,4,1997 Winter European Tour,1997 Winter,Crosseyed and Painless,C&amp;P,0,Tenax,Florence,,Italy,","
+1997-02-21,1997,0,6,4,1,0,0,5,1997 Winter European Tour,1997 Winter,You Enjoy Myself,YEM,1,Tenax,Florence,,Italy,
+1997-02-21,1997,0,7,1,2,0,0,5,1997 Winter European Tour,1997 Winter,Ya Mar,Ya Mar,0,Tenax,Florence,,Italy,","
+1997-02-21,1997,0,8,3,2,0,0,5,1997 Winter European Tour,1997 Winter,Run Like an Antelope,Antelope,1,Tenax,Florence,,Italy,->
+1997-02-21,1997,0,9,3,2,0,0,3,1997 Winter European Tour,1997 Winter,Wilson,Wilson,1,Tenax,Florence,,Italy,->
+1997-02-21,1997,0,10,2,2,0,0,50,1997 Winter European Tour,1997 Winter,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Tenax,Florence,,Italy,>
+1997-02-21,1997,0,11,2,2,0,0,5,1997 Winter European Tour,1997 Winter,AC/DC Bag,Bag,1,Tenax,Florence,,Italy,>
+1997-02-21,1997,0,12,1,2,0,0,3,1997 Winter European Tour,1997 Winter,Billy Breathes,Billy Breathes,1,Tenax,Florence,,Italy,","
+1997-02-21,1997,0,13,2,2,0,0,2,1997 Winter European Tour,1997 Winter,Reba,Reba,1,Tenax,Florence,,Italy,>
+1997-02-21,1997,0,14,2,2,0,0,2,1997 Winter European Tour,1997 Winter,Waste,Waste,1,Tenax,Florence,,Italy,>
+1997-02-21,1997,0,15,5,2,0,0,3,1997 Winter European Tour,1997 Winter,Prince Caspian,Caspian,1,Tenax,Florence,,Italy,
+1997-02-21,1997,0,16,6,e,0,0,1,1997 Winter European Tour,1997 Winter,Character Zero,Character Zero,1,Tenax,Florence,,Italy,
+1997-02-22,1997,0,1,1,1,0,0,3,1997 Winter European Tour,1997 Winter,Walfredo,Walfredo,1,Teatro Olimpico,Rome,,Italy,","
+1997-02-22,1997,0,2,2,1,0,0,3,1997 Winter European Tour,1997 Winter,Also Sprach Zarathustra,2001,0,Teatro Olimpico,Rome,,Italy,>
+1997-02-22,1997,0,3,1,1,0,0,6,1997 Winter European Tour,1997 Winter,Funky Bitch,Funky Bitch,0,Teatro Olimpico,Rome,,Italy,","
+1997-02-22,1997,0,4,2,1,0,0,5,1997 Winter European Tour,1997 Winter,Theme From the Bottom,Theme,1,Teatro Olimpico,Rome,,Italy,>
+1997-02-22,1997,0,5,2,1,0,0,3,1997 Winter European Tour,1997 Winter,NICU,NICU,1,Teatro Olimpico,Rome,,Italy,>
+1997-02-22,1997,0,6,1,1,0,0,2,1997 Winter European Tour,1997 Winter,When the Circus Comes,Circus,0,Teatro Olimpico,Rome,,Italy,","
+1997-02-22,1997,0,7,1,1,0,0,9,1997 Winter European Tour,1997 Winter,Talk,Talk,1,Teatro Olimpico,Rome,,Italy,","
+1997-02-22,1997,0,8,1,1,0,0,5,1997 Winter European Tour,1997 Winter,Split Open and Melt,SOAMelt,1,Teatro Olimpico,Rome,,Italy,","
+1997-02-22,1997,0,9,1,1,0,0,14,1997 Winter European Tour,1997 Winter,I Didn't Know,IDK,1,Teatro Olimpico,Rome,,Italy,","
+1997-02-22,1997,0,10,4,1,0,0,1,1997 Winter European Tour,1997 Winter,Character Zero,Character Zero,1,Teatro Olimpico,Rome,,Italy,
+1997-02-22,1997,0,11,1,2,0,0,2,1997 Winter European Tour,1997 Winter,Chalk Dust Torture,CDT,1,Teatro Olimpico,Rome,,Italy,","
+1997-02-22,1997,0,12,2,2,0,0,4,1997 Winter European Tour,1997 Winter,Bathtub Gin,Gin,1,Teatro Olimpico,Rome,,Italy,>
+1997-02-22,1997,0,13,2,2,0,0,5,1997 Winter European Tour,1997 Winter,Sparkle,Sparkle,1,Teatro Olimpico,Rome,,Italy,>
+1997-02-22,1997,0,14,2,2,0,0,5,1997 Winter European Tour,1997 Winter,Simple,Simple,1,Teatro Olimpico,Rome,,Italy,>
+1997-02-22,1997,0,15,1,2,0,0,13,1997 Winter European Tour,1997 Winter,Jesus Just Left Chicago,JJLC,0,Teatro Olimpico,Rome,,Italy,","
+1997-02-22,1997,0,16,2,2,0,0,3,1997 Winter European Tour,1997 Winter,Harry Hood,Hood,1,Teatro Olimpico,Rome,,Italy,>
+1997-02-22,1997,0,17,1,2,0,0,2,1997 Winter European Tour,1997 Winter,Free,Free,1,Teatro Olimpico,Rome,,Italy,","
+1997-02-22,1997,0,18,5,2,0,0,21,1997 Winter European Tour,1997 Winter,Hello My Baby,Hello My Baby,0,Teatro Olimpico,Rome,,Italy,
+1997-02-22,1997,0,19,6,e,0,0,5,1997 Winter European Tour,1997 Winter,Johnny B. Goode,JBG,0,Teatro Olimpico,Rome,,Italy,
+1997-02-23,1997,0,1,1,1,0,0,5,1997 Winter European Tour,1997 Winter,Carini,Carini,1,Fillmore,Cortemaggiore,,Italy,","
+1997-02-23,1997,0,2,2,1,0,0,7,1997 Winter European Tour,1997 Winter,Axilla,Axilla,1,Fillmore,Cortemaggiore,,Italy,>
+1997-02-23,1997,0,3,1,1,0,0,17,1997 Winter European Tour,1997 Winter,All Things Reconsidered,ATR,1,Fillmore,Cortemaggiore,,Italy,","
+1997-02-23,1997,0,4,1,1,0,0,10,1997 Winter European Tour,1997 Winter,The Sloth,Sloth,1,Fillmore,Cortemaggiore,,Italy,","
+1997-02-23,1997,0,5,1,1,0,0,3,1997 Winter European Tour,1997 Winter,Love Me,Love Me,0,Fillmore,Cortemaggiore,,Italy,","
+1997-02-23,1997,0,6,2,1,0,0,11,1997 Winter European Tour,1997 Winter,Rift,Rift,1,Fillmore,Cortemaggiore,,Italy,>
+1997-02-23,1997,0,7,1,1,0,0,17,1997 Winter European Tour,1997 Winter,Fluffhead,Fluffhead,1,Fillmore,Cortemaggiore,,Italy,","
+1997-02-23,1997,0,8,1,1,0,0,4,1997 Winter European Tour,1997 Winter,Frankenstein,Frankenstein,0,Fillmore,Cortemaggiore,,Italy,","
+1997-02-23,1997,0,9,4,1,0,0,3,1997 Winter European Tour,1997 Winter,David Bowie,Bowie,1,Fillmore,Cortemaggiore,,Italy,
+1997-02-23,1997,0,10,2,2,0,0,289,1997 Winter European Tour,1997 Winter,Daniel Saw the Stone,Daniel Saw the Stone,0,Fillmore,Cortemaggiore,,Italy,>
+1997-02-23,1997,0,11,2,2,0,0,5,1997 Winter European Tour,1997 Winter,Suzy Greenberg,Suzy,1,Fillmore,Cortemaggiore,,Italy,>
+1997-02-23,1997,0,12,1,2,0,0,4,1997 Winter European Tour,1997 Winter,Maze,Maze,1,Fillmore,Cortemaggiore,,Italy,","
+1997-02-23,1997,0,13,2,2,0,0,9,1997 Winter European Tour,1997 Winter,The Horse,Horse,1,Fillmore,Cortemaggiore,,Italy,>
+1997-02-23,1997,0,14,2,2,0,0,9,1997 Winter European Tour,1997 Winter,Silent in the Morning,Silent,1,Fillmore,Cortemaggiore,,Italy,>
+1997-02-23,1997,0,15,2,2,0,0,4,1997 Winter European Tour,1997 Winter,Peaches en Regalia,Peaches,0,Fillmore,Cortemaggiore,,Italy,>
+1997-02-23,1997,0,16,2,2,0,0,12,1997 Winter European Tour,1997 Winter,Mike's Song,Mike's,1,Fillmore,Cortemaggiore,,Italy,>
+1997-02-23,1997,0,17,2,2,0,0,144,1997 Winter European Tour,1997 Winter,Why Don't We Do It in the Road?,Why Don't We Do It in the Road?,0,Fillmore,Cortemaggiore,,Italy,>
+1997-02-23,1997,0,18,1,2,0,0,32,1997 Winter European Tour,1997 Winter,Hold Your Head Up,HYHU,0,Fillmore,Cortemaggiore,,Italy,","
+1997-02-23,1997,0,19,5,2,0,0,10,1997 Winter European Tour,1997 Winter,Good Times Bad Times,GTBT,0,Fillmore,Cortemaggiore,,Italy,
+1997-02-23,1997,0,20,2,e,0,0,2,1997 Winter European Tour,1997 Winter,Billy Breathes,Billy Breathes,1,Fillmore,Cortemaggiore,,Italy,>
+1997-02-23,1997,0,21,6,e,0,0,5,1997 Winter European Tour,1997 Winter,Rocky Top,Rocky Top,0,Fillmore,Cortemaggiore,,Italy,
+1997-02-25,1997,0,1,2,1,0,0,4,1997 Winter European Tour,1997 Winter,Runaway Jim,Runaway Jim,1,Incognito,Munich,,Germany,>
+1997-02-25,1997,0,2,1,1,0,0,3,1997 Winter European Tour,1997 Winter,My Soul,My Soul,0,Incognito,Munich,,Germany,","
+1997-02-25,1997,0,3,1,1,0,0,1105,1997 Winter European Tour,1997 Winter,One Meatball,One Meatball,0,Incognito,Munich,,Germany,","
+1997-02-25,1997,0,4,1,1,0,0,1105,1997 Winter European Tour,1997 Winter,Little Red Rooster,Little Red Rooster,0,Incognito,Munich,,Germany,","
+1997-02-25,1997,0,5,1,1,0,0,1105,1997 Winter European Tour,1997 Winter,Got My Mojo Working,Got My Mojo Working,0,Incognito,Munich,,Germany,","
+1997-02-25,1997,0,6,1,1,0,0,4,1997 Winter European Tour,1997 Winter,Stash,Stash,1,Incognito,Munich,,Germany,","
+1997-02-25,1997,0,7,2,1,0,0,3,1997 Winter European Tour,1997 Winter,Waste,Waste,1,Incognito,Munich,,Germany,>
+1997-02-25,1997,0,8,1,1,0,0,4,1997 Winter European Tour,1997 Winter,Taste,Taste,1,Incognito,Munich,,Germany,","
+1997-02-25,1997,0,9,4,1,0,0,7,1997 Winter European Tour,1997 Winter,Loving Cup,Loving Cup,0,Incognito,Munich,,Germany,
+1997-02-25,1997,0,10,2,2,0,0,5,1997 Winter European Tour,1997 Winter,Beauty of My Dreams,Beauty of My Dreams,0,Incognito,Munich,,Germany,>
+1997-02-25,1997,0,11,2,2,0,0,4,1997 Winter European Tour,1997 Winter,Sample in a Jar,Sample,1,Incognito,Munich,,Germany,>
+1997-02-25,1997,0,12,2,2,0,0,5,1997 Winter European Tour,1997 Winter,Punch You in the Eye,PYITE,1,Incognito,Munich,,Germany,>
+1997-02-25,1997,0,13,1,2,0,0,2,1997 Winter European Tour,1997 Winter,Free,Free,1,Incognito,Munich,,Germany,","
+1997-02-25,1997,0,14,3,2,0,0,24,1997 Winter European Tour,1997 Winter,Fee,Fee,1,Incognito,Munich,,Germany,->
+1997-02-25,1997,0,15,1,2,0,0,15,1997 Winter European Tour,1997 Winter,"My Friend, My Friend",My Friend,1,Incognito,Munich,,Germany,","
+1997-02-25,1997,0,16,2,2,0,0,3,1997 Winter European Tour,1997 Winter,Down with Disease,DwD,1,Incognito,Munich,,Germany,>
+1997-02-25,1997,0,17,1,2,0,0,3,1997 Winter European Tour,1997 Winter,Prince Caspian,Caspian,1,Incognito,Munich,,Germany,","
+1997-02-25,1997,0,18,1,2,0,0,12,1997 Winter European Tour,1997 Winter,La Grange,La Grange,0,Incognito,Munich,,Germany,","
+1997-02-25,1997,0,19,5,2,0,0,4,1997 Winter European Tour,1997 Winter,Sweet Adeline,Sweet Adeline,0,Incognito,Munich,,Germany,
+1997-02-25,1997,0,20,6,e,0,0,2,1997 Winter European Tour,1997 Winter,Chalk Dust Torture,CDT,1,Incognito,Munich,,Germany,
+1997-02-26,1997,1,1,1,1,0,0,0,Not Part of a Tour,No Tour,Talk,Talk,1,SWF3 Studios,Baden-Baden,,Germany,","
+1997-02-26,1997,0,1,1,1,0,0,140,1997 Winter European Tour,1997 Winter,Camel Walk,Camel Walk,1,Longhorn,Stuttgart,,Germany,","
+1997-02-26,1997,1,1,1,1,0,0,0,Not Part of a Tour,No Tour,Talk,Talk,1,SWF3 Studios,Baden-Baden,,Germany,","
+1997-02-26,1997,0,1,1,1,0,0,140,1997 Winter European Tour,1997 Winter,Camel Walk,Camel Walk,1,Longhorn,Stuttgart,,Germany,","
+1997-02-26,1997,1,2,1,1,0,0,0,Not Part of a Tour,No Tour,Waste,Waste,1,SWF3 Studios,Baden-Baden,,Germany,","
+1997-02-26,1997,0,2,1,1,0,0,7,1997 Winter European Tour,1997 Winter,Llama,Llama,1,Longhorn,Stuttgart,,Germany,","
+1997-02-26,1997,1,2,1,1,0,0,0,Not Part of a Tour,No Tour,Waste,Waste,1,SWF3 Studios,Baden-Baden,,Germany,","
+1997-02-26,1997,0,2,1,1,0,0,7,1997 Winter European Tour,1997 Winter,Llama,Llama,1,Longhorn,Stuttgart,,Germany,","
+1997-02-26,1997,1,3,1,1,0,0,0,Not Part of a Tour,No Tour,Train Song,Train Song,1,SWF3 Studios,Baden-Baden,,Germany,","
+1997-02-26,1997,0,3,1,1,0,0,1,1997 Winter European Tour,1997 Winter,"My Friend, My Friend",My Friend,1,Longhorn,Stuttgart,,Germany,","
+1997-02-26,1997,1,3,1,1,0,0,0,Not Part of a Tour,No Tour,Train Song,Train Song,1,SWF3 Studios,Baden-Baden,,Germany,","
+1997-02-26,1997,0,3,1,1,0,0,1,1997 Winter European Tour,1997 Winter,"My Friend, My Friend",My Friend,1,Longhorn,Stuttgart,,Germany,","
+1997-02-26,1997,1,4,1,1,0,0,0,Not Part of a Tour,No Tour,Walfredo,Walfredo,1,SWF3 Studios,Baden-Baden,,Germany,","
+1997-02-26,1997,0,4,2,1,0,0,3,1997 Winter European Tour,1997 Winter,Harry Hood,Hood,1,Longhorn,Stuttgart,,Germany,>
+1997-02-26,1997,1,4,1,1,0,0,0,Not Part of a Tour,No Tour,Walfredo,Walfredo,1,SWF3 Studios,Baden-Baden,,Germany,","
+1997-02-26,1997,0,4,2,1,0,0,3,1997 Winter European Tour,1997 Winter,Harry Hood,Hood,1,Longhorn,Stuttgart,,Germany,>
+1997-02-26,1997,1,5,6,1,0,0,0,Not Part of a Tour,No Tour,Goodbye Jam,Goodbye Jam,1,SWF3 Studios,Baden-Baden,,Germany,
+1997-02-26,1997,0,5,2,1,0,0,1,1997 Winter European Tour,1997 Winter,My Soul,My Soul,0,Longhorn,Stuttgart,,Germany,>
+1997-02-26,1997,1,5,6,1,0,0,0,Not Part of a Tour,No Tour,Goodbye Jam,Goodbye Jam,1,SWF3 Studios,Baden-Baden,,Germany,
+1997-02-26,1997,0,5,2,1,0,0,1,1997 Winter European Tour,1997 Winter,My Soul,My Soul,0,Longhorn,Stuttgart,,Germany,>
+1997-02-26,1997,0,6,2,1,0,0,32,1997 Winter European Tour,1997 Winter,Tube,Tube,1,Longhorn,Stuttgart,,Germany,>
+1997-02-26,1997,0,6,2,1,0,0,32,1997 Winter European Tour,1997 Winter,Tube,Tube,1,Longhorn,Stuttgart,,Germany,>
+1997-02-26,1997,0,7,1,1,0,0,2,1997 Winter European Tour,1997 Winter,Carini,Carini,1,Longhorn,Stuttgart,,Germany,","
+1997-02-26,1997,0,7,1,1,0,0,2,1997 Winter European Tour,1997 Winter,Carini,Carini,1,Longhorn,Stuttgart,,Germany,","
+1997-02-26,1997,0,8,1,1,0,0,9,1997 Winter European Tour,1997 Winter,Rock A William,Rock A William,1,Longhorn,Stuttgart,,Germany,","
+1997-02-26,1997,0,8,1,1,0,0,9,1997 Winter European Tour,1997 Winter,Rock A William,Rock A William,1,Longhorn,Stuttgart,,Germany,","
+1997-02-26,1997,0,9,1,1,0,0,90,1997 Winter European Tour,1997 Winter,Dog Log,Dog Log,1,Longhorn,Stuttgart,,Germany,","
+1997-02-26,1997,0,9,1,1,0,0,90,1997 Winter European Tour,1997 Winter,Dog Log,Dog Log,1,Longhorn,Stuttgart,,Germany,","
+1997-02-26,1997,0,10,4,1,0,0,90,1997 Winter European Tour,1997 Winter,While My Guitar Gently Weeps,WMGGW,0,Longhorn,Stuttgart,,Germany,
+1997-02-26,1997,0,10,4,1,0,0,90,1997 Winter European Tour,1997 Winter,While My Guitar Gently Weeps,WMGGW,0,Longhorn,Stuttgart,,Germany,
+1997-02-26,1997,0,11,2,2,0,0,32,1997 Winter European Tour,1997 Winter,Buried Alive,Buried Alive,1,Longhorn,Stuttgart,,Germany,>
+1997-02-26,1997,0,11,2,2,0,0,32,1997 Winter European Tour,1997 Winter,Buried Alive,Buried Alive,1,Longhorn,Stuttgart,,Germany,>
+1997-02-26,1997,0,12,2,2,0,0,10,1997 Winter European Tour,1997 Winter,Poor Heart,Poor Heart,1,Longhorn,Stuttgart,,Germany,>
+1997-02-26,1997,0,12,2,2,0,0,10,1997 Winter European Tour,1997 Winter,Poor Heart,Poor Heart,1,Longhorn,Stuttgart,,Germany,>
+1997-02-26,1997,0,13,2,2,0,0,16,1997 Winter European Tour,1997 Winter,Ha Ha Ha,Ha Ha Ha,1,Longhorn,Stuttgart,,Germany,>
+1997-02-26,1997,0,13,2,2,0,0,16,1997 Winter European Tour,1997 Winter,Ha Ha Ha,Ha Ha Ha,1,Longhorn,Stuttgart,,Germany,>
+1997-02-26,1997,0,14,3,2,0,0,4,1997 Winter European Tour,1997 Winter,You Enjoy Myself,YEM,1,Longhorn,Stuttgart,,Germany,->
+1997-02-26,1997,0,14,3,2,0,0,4,1997 Winter European Tour,1997 Winter,You Enjoy Myself,YEM,1,Longhorn,Stuttgart,,Germany,->
+1997-02-26,1997,0,15,3,2,0,0,27,1997 Winter European Tour,1997 Winter,Kung,Kung,1,Longhorn,Stuttgart,,Germany,->
+1997-02-26,1997,0,15,3,2,0,0,27,1997 Winter European Tour,1997 Winter,Kung,Kung,1,Longhorn,Stuttgart,,Germany,->
+1997-02-26,1997,0,16,2,2,0,0,3,1997 Winter European Tour,1997 Winter,Theme From the Bottom,Theme,1,Longhorn,Stuttgart,,Germany,>
+1997-02-26,1997,0,16,2,2,0,0,3,1997 Winter European Tour,1997 Winter,Theme From the Bottom,Theme,1,Longhorn,Stuttgart,,Germany,>
+1997-02-26,1997,0,17,2,2,0,0,9,1997 Winter European Tour,1997 Winter,Scent of a Mule,SOAMule,1,Longhorn,Stuttgart,,Germany,>
+1997-02-26,1997,0,17,2,2,0,0,9,1997 Winter European Tour,1997 Winter,Scent of a Mule,SOAMule,1,Longhorn,Stuttgart,,Germany,>
+1997-02-26,1997,0,18,3,2,0,0,10,1997 Winter European Tour,1997 Winter,Jam,Jam,0,Longhorn,Stuttgart,,Germany,->
+1997-02-26,1997,0,18,3,2,0,0,10,1997 Winter European Tour,1997 Winter,Jam,Jam,0,Longhorn,Stuttgart,,Germany,->
+1997-02-26,1997,0,19,2,2,0,0,261,1997 Winter European Tour,1997 Winter,Magilla,Magilla,1,Longhorn,Stuttgart,,Germany,>
+1997-02-26,1997,0,19,2,2,0,0,261,1997 Winter European Tour,1997 Winter,Magilla,Magilla,1,Longhorn,Stuttgart,,Germany,>
+1997-02-26,1997,0,20,1,2,0,0,0,1997 Winter European Tour,1997 Winter,Scent of a Mule,SOAMule,1,Longhorn,Stuttgart,,Germany,","
+1997-02-26,1997,0,20,1,2,0,0,0,1997 Winter European Tour,1997 Winter,Scent of a Mule,SOAMule,1,Longhorn,Stuttgart,,Germany,","
+1997-02-26,1997,0,21,5,2,0,0,6,1997 Winter European Tour,1997 Winter,Slave to the Traffic Light,Slave,1,Longhorn,Stuttgart,,Germany,
+1997-02-26,1997,0,21,5,2,0,0,6,1997 Winter European Tour,1997 Winter,Slave to the Traffic Light,Slave,1,Longhorn,Stuttgart,,Germany,
+1997-02-26,1997,0,22,6,e,0,0,18,1997 Winter European Tour,1997 Winter,Highway to Hell,Highway to Hell,0,Longhorn,Stuttgart,,Germany,
+1997-02-26,1997,0,22,6,e,0,0,18,1997 Winter European Tour,1997 Winter,Highway to Hell,Highway to Hell,0,Longhorn,Stuttgart,,Germany,
+1997-02-28,1997,0,1,1,1,0,0,1,1997 Winter European Tour,1997 Winter,Carini,Carini,1,Huxleyâs Neue Welt,Berlin,,Germany,","
+1997-02-28,1997,0,2,2,1,0,0,120,1997 Winter European Tour,1997 Winter,Paul and Silas,Paul and Silas,0,Huxleyâs Neue Welt,Berlin,,Germany,>
+1997-02-28,1997,0,3,1,1,0,0,1,1997 Winter European Tour,1997 Winter,My Soul,My Soul,0,Huxleyâs Neue Welt,Berlin,,Germany,","
+1997-02-28,1997,0,4,1,1,0,0,6,1997 Winter European Tour,1997 Winter,Cars Trucks Buses,CTB,1,Huxleyâs Neue Welt,Berlin,,Germany,","
+1997-02-28,1997,0,5,2,1,0,0,3,1997 Winter European Tour,1997 Winter,Peaches en Regalia,Peaches,0,Huxleyâs Neue Welt,Berlin,,Germany,>
+1997-02-28,1997,0,6,1,1,0,0,2,1997 Winter European Tour,1997 Winter,Stash,Stash,1,Huxleyâs Neue Welt,Berlin,,Germany,","
+1997-02-28,1997,0,7,2,1,0,0,6,1997 Winter European Tour,1997 Winter,Swept Away,Swept Away,1,Huxleyâs Neue Welt,Berlin,,Germany,>
+1997-02-28,1997,0,8,2,1,0,0,6,1997 Winter European Tour,1997 Winter,Steep,Steep,1,Huxleyâs Neue Welt,Berlin,,Germany,>
+1997-02-28,1997,0,9,1,1,0,0,5,1997 Winter European Tour,1997 Winter,Ya Mar,Ya Mar,0,Huxleyâs Neue Welt,Berlin,,Germany,","
+1997-02-28,1997,0,10,4,1,0,0,4,1997 Winter European Tour,1997 Winter,Character Zero,Character Zero,1,Huxleyâs Neue Welt,Berlin,,Germany,
+1997-02-28,1997,0,11,1,2,0,0,2,1997 Winter European Tour,1997 Winter,Taste,Taste,1,Huxleyâs Neue Welt,Berlin,,Germany,","
+1997-02-28,1997,0,12,3,2,0,0,81,1997 Winter European Tour,1997 Winter,Drowned,Drowned,0,Huxleyâs Neue Welt,Berlin,,Germany,->
+1997-02-28,1997,0,13,2,2,0,0,2,1997 Winter European Tour,1997 Winter,Prince Caspian,Caspian,1,Huxleyâs Neue Welt,Berlin,,Germany,>
+1997-02-28,1997,0,14,2,2,0,0,3,1997 Winter European Tour,1997 Winter,Frankenstein,Frankenstein,0,Huxleyâs Neue Welt,Berlin,,Germany,>
+1997-02-28,1997,0,15,1,2,0,0,3,1997 Winter European Tour,1997 Winter,David Bowie,Bowie,1,Huxleyâs Neue Welt,Berlin,,Germany,","
+1997-02-28,1997,0,16,1,2,0,0,2,1997 Winter European Tour,1997 Winter,Love Me,Love Me,0,Huxleyâs Neue Welt,Berlin,,Germany,","
+1997-02-28,1997,0,17,2,2,0,0,3,1997 Winter European Tour,1997 Winter,Axilla,Axilla,1,Huxleyâs Neue Welt,Berlin,,Germany,>
+1997-02-28,1997,0,18,2,2,0,0,2,1997 Winter European Tour,1997 Winter,Waste,Waste,1,Huxleyâs Neue Welt,Berlin,,Germany,>
+1997-02-28,1997,0,19,5,2,0,0,6,1997 Winter European Tour,1997 Winter,Julius,Julius,1,Huxleyâs Neue Welt,Berlin,,Germany,
+1997-02-28,1997,0,20,6,e,0,0,6,1997 Winter European Tour,1997 Winter,A Day in the Life,ADITL,0,Huxleyâs Neue Welt,Berlin,,Germany,
+1997-03-01,1997,0,1,2,1,0,0,223,1997 Winter European Tour,1997 Winter,Cities,Cities,0,Markthalle,Hamburg,,Germany,>
+1997-03-01,1997,0,2,1,1,0,0,6,1997 Winter European Tour,1997 Winter,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Markthalle,Hamburg,,Germany,","
+1997-03-01,1997,0,3,1,1,0,0,3,1997 Winter European Tour,1997 Winter,Down with Disease,DwD,1,Markthalle,Hamburg,,Germany,","
+1997-03-01,1997,0,4,1,1,0,0,36,1997 Winter European Tour,1997 Winter,Weigh,Weigh,1,Markthalle,Hamburg,,Germany,","
+1997-03-01,1997,0,5,1,1,0,0,3,1997 Winter European Tour,1997 Winter,Beauty of My Dreams,Beauty of My Dreams,0,Markthalle,Hamburg,,Germany,","
+1997-03-01,1997,0,6,3,1,0,0,8,1997 Winter European Tour,1997 Winter,Wolfman's Brother,Wolfman's,1,Markthalle,Hamburg,,Germany,->
+1997-03-01,1997,0,7,1,1,0,0,5,1997 Winter European Tour,1997 Winter,Jesus Just Left Chicago,JJLC,0,Markthalle,Hamburg,,Germany,","
+1997-03-01,1997,0,8,1,1,0,0,6,1997 Winter European Tour,1997 Winter,Reba,Reba,1,Markthalle,Hamburg,,Germany,","
+1997-03-01,1997,0,9,1,1,0,0,5,1997 Winter European Tour,1997 Winter,Hello My Baby,Hello My Baby,0,Markthalle,Hamburg,,Germany,","
+1997-03-01,1997,0,10,4,1,0,0,14,1997 Winter European Tour,1997 Winter,Possum,Possum,1,Markthalle,Hamburg,,Germany,
+1997-03-01,1997,0,11,1,2,0,0,1,1997 Winter European Tour,1997 Winter,Carini,Carini,1,Markthalle,Hamburg,,Germany,","
+1997-03-01,1997,0,12,2,2,0,0,59,1997 Winter European Tour,1997 Winter,Dinner and a Movie,Dinner and a Movie,1,Markthalle,Hamburg,,Germany,>
+1997-03-01,1997,0,13,3,2,0,0,4,1997 Winter European Tour,1997 Winter,Mike's Song,Mike's,1,Markthalle,Hamburg,,Germany,->
+1997-03-01,1997,0,14,2,2,0,0,18,1997 Winter European Tour,1997 Winter,Lawn Boy,Lawn Boy,1,Markthalle,Hamburg,,Germany,>
+1997-03-01,1997,0,15,1,2,0,0,16,1997 Winter European Tour,1997 Winter,Weekapaug Groove,Weekapaug,1,Markthalle,Hamburg,,Germany,","
+1997-03-01,1997,0,16,2,2,0,0,16,1997 Winter European Tour,1997 Winter,The Mango Song,Mango,1,Markthalle,Hamburg,,Germany,>
+1997-03-01,1997,0,17,1,2,0,0,4,1997 Winter European Tour,1997 Winter,Billy Breathes,Billy Breathes,1,Markthalle,Hamburg,,Germany,","
+1997-03-01,1997,0,18,5,2,0,0,2,1997 Winter European Tour,1997 Winter,Theme From the Bottom,Theme,1,Markthalle,Hamburg,,Germany,
+1997-03-01,1997,0,19,1,e,0,0,1,1997 Winter European Tour,1997 Winter,Taste,Taste,1,Markthalle,Hamburg,,Germany,","
+1997-03-01,1997,0,20,6,e,0,0,3,1997 Winter European Tour,1997 Winter,Sweet Adeline,Sweet Adeline,0,Markthalle,Hamburg,,Germany,
+1997-03-02,1997,0,1,1,1,0,0,6,1997 Winter European Tour,1997 Winter,Johnny B. Goode,JBG,0,Pumpehuset,Copenhagen,,Denmark,","
+1997-03-02,1997,0,2,1,1,0,0,8,1997 Winter European Tour,1997 Winter,Uncle Pen,Uncle Pen,0,Pumpehuset,Copenhagen,,Denmark,","
+1997-03-02,1997,0,3,1,1,0,0,4,1997 Winter European Tour,1997 Winter,Sample in a Jar,Sample,1,Pumpehuset,Copenhagen,,Denmark,","
+1997-03-02,1997,0,4,2,1,0,0,10,1997 Winter European Tour,1997 Winter,Guyute,Guyute,1,Pumpehuset,Copenhagen,,Denmark,>
+1997-03-02,1997,0,5,2,1,0,0,2,1997 Winter European Tour,1997 Winter,My Soul,My Soul,0,Pumpehuset,Copenhagen,,Denmark,>
+1997-03-02,1997,0,6,3,1,0,0,4,1997 Winter European Tour,1997 Winter,Runaway Jim,Runaway Jim,1,Pumpehuset,Copenhagen,,Denmark,->
+1997-03-02,1997,0,7,3,1,0,0,59,1997 Winter European Tour,1997 Winter,Gypsy Queen,Gypsy Queen,0,Pumpehuset,Copenhagen,,Denmark,->
+1997-03-02,1997,0,8,1,1,0,0,0,1997 Winter European Tour,1997 Winter,Runaway Jim,Runaway Jim,1,Pumpehuset,Copenhagen,,Denmark,","
+1997-03-02,1997,0,9,3,1,0,0,7,1997 Winter European Tour,1997 Winter,Run Like an Antelope,Antelope,1,Pumpehuset,Copenhagen,,Denmark,->
+1997-03-02,1997,0,10,2,1,0,0,26,1997 Winter European Tour,1997 Winter,Catapult,Catapult,1,Pumpehuset,Copenhagen,,Denmark,>
+1997-03-02,1997,0,11,2,1,0,0,19,1997 Winter European Tour,1997 Winter,Life on Mars?,Life on Mars?,0,Pumpehuset,Copenhagen,,Denmark,>
+1997-03-02,1997,0,12,1,1,0,0,4,1997 Winter European Tour,1997 Winter,Chalk Dust Torture,CDT,1,Pumpehuset,Copenhagen,,Denmark,","
+1997-03-02,1997,0,13,4,1,0,0,1,1997 Winter European Tour,1997 Winter,Hello My Baby,Hello My Baby,0,Pumpehuset,Copenhagen,,Denmark,
+1997-03-02,1997,0,14,2,2,0,0,6,1997 Winter European Tour,1997 Winter,Also Sprach Zarathustra,2001,0,Pumpehuset,Copenhagen,,Denmark,>
+1997-03-02,1997,0,15,1,2,0,0,5,1997 Winter European Tour,1997 Winter,Maze,Maze,1,Pumpehuset,Copenhagen,,Denmark,","
+1997-03-02,1997,0,16,2,2,0,0,2,1997 Winter European Tour,1997 Winter,Swept Away,Swept Away,1,Pumpehuset,Copenhagen,,Denmark,>
+1997-03-02,1997,0,17,2,2,0,0,2,1997 Winter European Tour,1997 Winter,Steep,Steep,1,Pumpehuset,Copenhagen,,Denmark,>
+1997-03-02,1997,0,18,2,2,0,0,4,1997 Winter European Tour,1997 Winter,Punch You in the Eye,PYITE,1,Pumpehuset,Copenhagen,,Denmark,>
+1997-03-02,1997,0,19,1,2,0,0,2,1997 Winter European Tour,1997 Winter,Waste,Waste,1,Pumpehuset,Copenhagen,,Denmark,","
+1997-03-02,1997,0,20,2,2,0,0,2,1997 Winter European Tour,1997 Winter,Character Zero,Character Zero,1,Pumpehuset,Copenhagen,,Denmark,>
+1997-03-02,1997,0,21,2,2,0,0,3,1997 Winter European Tour,1997 Winter,Slave to the Traffic Light,Slave,1,Pumpehuset,Copenhagen,,Denmark,>
+1997-03-02,1997,0,22,5,2,0,0,8,1997 Winter European Tour,1997 Winter,Tweezer Reprise,Tweeprise,1,Pumpehuset,Copenhagen,,Denmark,
+1997-03-02,1997,0,23,6,e,0,0,3,1997 Winter European Tour,1997 Winter,You Enjoy Myself,YEM,1,Pumpehuset,Copenhagen,,Denmark,
+1997-03-05,1997,1,1,6,1,0,0,0,Not Part of a Tour,No Tour,Character Zero,Character Zero,1,Ed Sullivan Theater,New York,NY,USA,
+1997-03-18,1997,0,1,1,1,2,0,904,Not Part of a Tour,No Tour,Cinnamon Girl,Cinnamon Girl,0,The Flynn Theatre,Burlington,VT,USA,","
+1997-03-18,1997,0,2,2,1,2,0,7,Not Part of a Tour,No Tour,NICU,NICU,1,The Flynn Theatre,Burlington,VT,USA,>
+1997-03-18,1997,0,3,2,1,2,0,1,Not Part of a Tour,No Tour,Sample in a Jar,Sample,1,The Flynn Theatre,Burlington,VT,USA,>
+1997-03-18,1997,0,4,2,1,2,0,1,Not Part of a Tour,No Tour,Punch You in the Eye,PYITE,1,The Flynn Theatre,Burlington,VT,USA,>
+1997-03-18,1997,0,5,1,1,2,0,1,Not Part of a Tour,No Tour,My Soul,My Soul,0,The Flynn Theatre,Burlington,VT,USA,","
+1997-03-18,1997,0,6,2,1,2,0,2,Not Part of a Tour,No Tour,Beauty of My Dreams,Beauty of My Dreams,0,The Flynn Theatre,Burlington,VT,USA,>
+1997-03-18,1997,0,7,2,1,2,0,4,Not Part of a Tour,No Tour,Harry Hood,Hood,1,The Flynn Theatre,Burlington,VT,USA,>
+1997-03-18,1997,0,8,1,1,2,0,3,Not Part of a Tour,No Tour,Cars Trucks Buses,CTB,1,The Flynn Theatre,Burlington,VT,USA,","
+1997-03-18,1997,0,9,2,1,2,0,6,Not Part of a Tour,No Tour,Suzy Greenberg,Suzy,1,The Flynn Theatre,Burlington,VT,USA,>
+1997-03-18,1997,0,10,4,1,2,0,1,Not Part of a Tour,No Tour,Character Zero,Character Zero,1,The Flynn Theatre,Burlington,VT,USA,
+1997-03-18,1997,0,11,2,2,2,0,2,Not Part of a Tour,No Tour,Taste,Taste,1,The Flynn Theatre,Burlington,VT,USA,>
+1997-03-18,1997,0,12,3,2,2,0,3,Not Part of a Tour,No Tour,Drowned,Drowned,0,The Flynn Theatre,Burlington,VT,USA,->
+1997-03-18,1997,0,13,2,2,2,0,3,Not Part of a Tour,No Tour,Prince Caspian,Caspian,1,The Flynn Theatre,Burlington,VT,USA,>
+1997-03-18,1997,0,14,1,2,2,0,3,Not Part of a Tour,No Tour,David Bowie,Bowie,1,The Flynn Theatre,Burlington,VT,USA,","
+1997-03-18,1997,0,15,1,2,2,0,3,Not Part of a Tour,No Tour,Love Me,Love Me,0,The Flynn Theatre,Burlington,VT,USA,","
+1997-03-18,1997,0,16,1,2,2,0,1110,Not Part of a Tour,No Tour,I Told You So,I Told You So,0,The Flynn Theatre,Burlington,VT,USA,","
+1997-03-18,1997,0,17,1,2,2,0,1110,Not Part of a Tour,No Tour,Love Me Like a Man,Love Me Like a Man,0,The Flynn Theatre,Burlington,VT,USA,","
+1997-03-18,1997,0,18,2,2,2,0,1,Not Part of a Tour,No Tour,Waste,Waste,1,The Flynn Theatre,Burlington,VT,USA,>
+1997-03-18,1997,0,19,1,2,2,0,1,Not Part of a Tour,No Tour,Chalk Dust Torture,CDT,1,The Flynn Theatre,Burlington,VT,USA,","
+1997-03-18,1997,0,20,5,2,2,0,1,Not Part of a Tour,No Tour,Slave to the Traffic Light,Slave,1,The Flynn Theatre,Burlington,VT,USA,
+1997-03-18,1997,0,21,1,e,2,0,1,Not Part of a Tour,No Tour,Hello My Baby,Hello My Baby,0,The Flynn Theatre,Burlington,VT,USA,","
+1997-03-18,1997,0,22,6,e,2,0,7,Not Part of a Tour,No Tour,Funky Bitch,Funky Bitch,0,The Flynn Theatre,Burlington,VT,USA,
+1997-05-18,1997,1,1,6,1,0,0,0,Not Part of a Tour,No Tour,The Star-Spangled Banner,Star Spangled Banner,0,CoreStates Center,Philadelphia,PA,USA,
+1997-06-06,1997,1,1,1,1,0,0,0,Not Part of a Tour,No Tour,Limb By Limb,LxL,1,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,","
+1997-06-06,1997,1,2,1,1,0,0,0,Not Part of a Tour,No Tour,Dogs Stole Things,Dogs Stole Things,1,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,","
+1997-06-06,1997,1,3,1,1,0,0,0,Not Part of a Tour,No Tour,Ghost,Ghost,1,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,","
+1997-06-06,1997,1,4,1,1,0,0,0,Not Part of a Tour,No Tour,Water in the Sky,Water in the Sky,1,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,","
+1997-06-06,1997,1,5,1,1,0,0,0,Not Part of a Tour,No Tour,Vultures,Vultures,1,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,","
+1997-06-06,1997,1,6,1,1,0,0,0,Not Part of a Tour,No Tour,Dirt,Dirt,0,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,","
+1997-06-06,1997,1,7,1,1,0,0,0,Not Part of a Tour,No Tour,Twist,Twist,1,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,","
+1997-06-06,1997,1,8,1,1,0,0,0,Not Part of a Tour,No Tour,Piper,Piper,1,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,","
+1997-06-06,1997,1,9,1,1,0,0,0,Not Part of a Tour,No Tour,Wading in the Velvet Sea,Velvet Sea,1,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,","
+1997-06-06,1997,1,10,1,1,0,0,0,Not Part of a Tour,No Tour,Olivia's Pool,Olivia's Pool,1,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,","
+1997-06-06,1997,1,11,1,1,0,0,0,Not Part of a Tour,No Tour,I Don't Care,I Don't Care,1,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,","
+1997-06-06,1997,1,12,1,1,0,0,0,Not Part of a Tour,No Tour,Samson Variation,Samson Variation,0,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,","
+1997-06-06,1997,1,13,4,1,0,0,0,Not Part of a Tour,No Tour,Bye Bye Foot,Bye Bye Foot,1,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,
+1997-06-06,1997,1,14,1,2,0,0,0,Not Part of a Tour,No Tour,Samson Variation,Samson Variation,0,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,","
+1997-06-06,1997,1,15,1,2,0,0,0,Not Part of a Tour,No Tour,Saw It Again,Saw It Again,1,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,","
+1997-06-06,1997,1,16,1,2,0,0,0,Not Part of a Tour,No Tour,Waking Up,Waking Up,1,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,","
+1997-06-06,1997,1,17,1,2,0,0,0,Not Part of a Tour,No Tour,Limb By Limb,LxL,1,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,","
+1997-06-06,1997,1,18,1,2,0,0,0,Not Part of a Tour,No Tour,Dogs Stole Things,Dogs Stole Things,1,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,","
+1997-06-06,1997,1,19,1,2,0,0,0,Not Part of a Tour,No Tour,Ghost,Ghost,1,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,","
+1997-06-06,1997,1,20,1,2,0,0,0,Not Part of a Tour,No Tour,Dirt,Dirt,0,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,","
+1997-06-06,1997,1,21,1,2,0,0,0,Not Part of a Tour,No Tour,Vultures,Vultures,1,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,","
+1997-06-06,1997,1,22,1,2,0,0,0,Not Part of a Tour,No Tour,Water in the Sky,Water in the Sky,1,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,","
+1997-06-06,1997,1,23,3,2,0,0,0,Not Part of a Tour,No Tour,Twist,Twist,1,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,->
+1997-06-06,1997,1,24,1,2,0,0,0,Not Part of a Tour,No Tour,Piper,Piper,1,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,","
+1997-06-06,1997,1,25,1,2,0,0,0,Not Part of a Tour,No Tour,Wading in the Velvet Sea,Velvet Sea,1,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,","
+1997-06-06,1997,1,26,1,2,0,0,0,Not Part of a Tour,No Tour,Ain't Love Funny,Ain't Love Funny,0,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,","
+1997-06-06,1997,1,27,3,2,0,0,0,Not Part of a Tour,No Tour,Stand!,Stand!,0,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,->
+1997-06-06,1997,1,28,6,2,0,0,0,Not Part of a Tour,No Tour,Izabella,Izabella,0,Brad Sands's and Pete Carini's House,Charlotte,VT,USA,
+1997-06-13,1997,0,1,1,1,0,0,3,1997 Summer European Tour,1997 Summer,Theme From the Bottom,Theme,1,The S.F.X. Centre,Dublin,,Ireland,","
+1997-06-13,1997,0,2,1,1,0,0,1117,1997 Summer European Tour,1997 Summer,Dogs Stole Things,Dogs Stole Things,1,The S.F.X. Centre,Dublin,,Ireland,","
+1997-06-13,1997,0,3,2,1,0,0,1,1997 Summer European Tour,1997 Summer,Beauty of My Dreams,Beauty of My Dreams,0,The S.F.X. Centre,Dublin,,Ireland,>
+1997-06-13,1997,0,4,1,1,0,0,3,1997 Summer European Tour,1997 Summer,Billy Breathes,Billy Breathes,1,The S.F.X. Centre,Dublin,,Ireland,","
+1997-06-13,1997,0,5,1,1,0,0,1113,1997 Summer European Tour,1997 Summer,Limb By Limb,LxL,1,The S.F.X. Centre,Dublin,,Ireland,","
+1997-06-13,1997,0,6,2,1,0,0,3,1997 Summer European Tour,1997 Summer,Wolfman's Brother,Wolfman's,1,The S.F.X. Centre,Dublin,,Ireland,>
+1997-06-13,1997,0,7,2,1,0,0,1113,1997 Summer European Tour,1997 Summer,Wading in the Velvet Sea,Velvet Sea,1,The S.F.X. Centre,Dublin,,Ireland,>
+1997-06-13,1997,0,8,4,1,0,0,1,1997 Summer European Tour,1997 Summer,Taste,Taste,1,The S.F.X. Centre,Dublin,,Ireland,
+1997-06-13,1997,0,9,1,2,0,0,4,1997 Summer European Tour,1997 Summer,Stash,Stash,1,The S.F.X. Centre,Dublin,,Ireland,","
+1997-06-13,1997,0,10,1,2,0,0,2,1997 Summer European Tour,1997 Summer,Maze,Maze,1,The S.F.X. Centre,Dublin,,Ireland,","
+1997-06-13,1997,0,11,1,2,0,0,1111,1997 Summer European Tour,1997 Summer,Water in the Sky,Water in the Sky,1,The S.F.X. Centre,Dublin,,Ireland,","
+1997-06-13,1997,0,12,1,2,0,0,1113,1997 Summer European Tour,1997 Summer,Vultures,Vultures,1,The S.F.X. Centre,Dublin,,Ireland,","
+1997-06-13,1997,0,13,2,2,0,0,1,1997 Summer European Tour,1997 Summer,Slave to the Traffic Light,Slave,1,The S.F.X. Centre,Dublin,,Ireland,>
+1997-06-13,1997,0,14,3,2,0,0,1,1997 Summer European Tour,1997 Summer,Chalk Dust Torture,CDT,1,The S.F.X. Centre,Dublin,,Ireland,->
+1997-06-13,1997,0,15,3,2,0,0,1113,1997 Summer European Tour,1997 Summer,Ghost,Ghost,1,The S.F.X. Centre,Dublin,,Ireland,->
+1997-06-13,1997,0,16,2,2,0,0,1117,1997 Summer European Tour,1997 Summer,Olivia's Pool,Olivia's Pool,1,The S.F.X. Centre,Dublin,,Ireland,>
+1997-06-13,1997,0,17,5,2,0,0,1,1997 Summer European Tour,1997 Summer,Character Zero,Character Zero,1,The S.F.X. Centre,Dublin,,Ireland,
+1997-06-13,1997,0,18,3,e,0,0,1111,1997 Summer European Tour,1997 Summer,Stand!,Stand!,0,The S.F.X. Centre,Dublin,,Ireland,->
+1997-06-13,1997,0,19,6,e,0,0,1113,1997 Summer European Tour,1997 Summer,Izabella,Izabella,0,The S.F.X. Centre,Dublin,,Ireland,
+1997-06-14,1997,0,1,2,1,0,0,4,1997 Summer European Tour,1997 Summer,Down with Disease,DwD,1,The S.F.X. Centre,Dublin,,Ireland,>
+1997-06-14,1997,0,2,1,1,0,0,2,1997 Summer European Tour,1997 Summer,NICU,NICU,1,The S.F.X. Centre,Dublin,,Ireland,","
+1997-06-14,1997,0,3,1,1,0,0,1114,1997 Summer European Tour,1997 Summer,Dirt,Dirt,0,The S.F.X. Centre,Dublin,,Ireland,","
+1997-06-14,1997,0,4,1,1,0,0,9,1997 Summer European Tour,1997 Summer,Talk,Talk,1,The S.F.X. Centre,Dublin,,Ireland,","
+1997-06-14,1997,0,5,1,1,0,0,2,1997 Summer European Tour,1997 Summer,My Soul,My Soul,0,The S.F.X. Centre,Dublin,,Ireland,","
+1997-06-14,1997,0,6,1,1,0,0,2,1997 Summer European Tour,1997 Summer,Cars Trucks Buses,CTB,1,The S.F.X. Centre,Dublin,,Ireland,","
+1997-06-14,1997,0,7,1,1,0,0,1,1997 Summer European Tour,1997 Summer,Limb By Limb,LxL,1,The S.F.X. Centre,Dublin,,Ireland,","
+1997-06-14,1997,0,8,1,1,0,0,1118,1997 Summer European Tour,1997 Summer,Bye Bye Foot,Bye Bye Foot,1,The S.F.X. Centre,Dublin,,Ireland,","
+1997-06-14,1997,0,9,1,1,0,0,7,1997 Summer European Tour,1997 Summer,Free,Free,1,The S.F.X. Centre,Dublin,,Ireland,","
+1997-06-14,1997,0,10,4,1,0,0,2,1997 Summer European Tour,1997 Summer,Prince Caspian,Caspian,1,The S.F.X. Centre,Dublin,,Ireland,
+1997-06-14,1997,0,11,1,2,0,0,1114,1997 Summer European Tour,1997 Summer,Twist,Twist,1,The S.F.X. Centre,Dublin,,Ireland,","
+1997-06-14,1997,0,12,1,2,0,0,1114,1997 Summer European Tour,1997 Summer,Piper,Piper,1,The S.F.X. Centre,Dublin,,Ireland,","
+1997-06-14,1997,0,13,1,2,0,0,1114,1997 Summer European Tour,1997 Summer,Saw It Again,Saw It Again,1,The S.F.X. Centre,Dublin,,Ireland,","
+1997-06-14,1997,0,14,1,2,0,0,1112,1997 Summer European Tour,1997 Summer,Waking Up,Waking Up,1,The S.F.X. Centre,Dublin,,Ireland,","
+1997-06-14,1997,0,15,1,2,0,0,1,1997 Summer European Tour,1997 Summer,Dogs Stole Things,Dogs Stole Things,1,The S.F.X. Centre,Dublin,,Ireland,","
+1997-06-14,1997,0,16,1,2,0,0,2,1997 Summer European Tour,1997 Summer,Waste,Waste,1,The S.F.X. Centre,Dublin,,Ireland,","
+1997-06-14,1997,0,17,1,2,0,0,2,1997 Summer European Tour,1997 Summer,David Bowie,Bowie,1,The S.F.X. Centre,Dublin,,Ireland,","
+1997-06-14,1997,0,18,5,2,0,0,12,1997 Summer European Tour,1997 Summer,Cavern,Cavern,1,The S.F.X. Centre,Dublin,,Ireland,
+1997-06-14,1997,0,19,1,e,0,0,9,1997 Summer European Tour,1997 Summer,When the Circus Comes,Circus,0,The S.F.X. Centre,Dublin,,Ireland,","
+1997-06-14,1997,0,20,6,e,0,0,8,1997 Summer European Tour,1997 Summer,Rocky Top,Rocky Top,0,The S.F.X. Centre,Dublin,,Ireland,
+1997-06-16,1997,0,1,2,1,0,0,14,1997 Summer European Tour,1997 Summer,The Squirming Coil,Coil,1,Royal Albert Hall,London,,England,>
+1997-06-16,1997,0,2,2,1,0,0,1,1997 Summer European Tour,1997 Summer,Dogs Stole Things,Dogs Stole Things,1,Royal Albert Hall,London,,England,>
+1997-06-16,1997,0,3,1,1,0,0,2,1997 Summer European Tour,1997 Summer,Taste,Taste,1,Royal Albert Hall,London,,England,","
+1997-06-16,1997,0,4,1,1,0,0,2,1997 Summer European Tour,1997 Summer,Water in the Sky,Water in the Sky,1,Royal Albert Hall,London,,England,","
+1997-06-16,1997,0,5,1,1,0,0,3,1997 Summer European Tour,1997 Summer,Sample in a Jar,Sample,1,Royal Albert Hall,London,,England,","
+1997-06-16,1997,0,6,1,1,0,0,2,1997 Summer European Tour,1997 Summer,Beauty of My Dreams,Beauty of My Dreams,0,Royal Albert Hall,London,,England,","
+1997-06-16,1997,0,7,1,1,0,0,2,1997 Summer European Tour,1997 Summer,Theme From the Bottom,Theme,1,Royal Albert Hall,London,,England,","
+1997-06-16,1997,0,8,1,1,0,0,2,1997 Summer European Tour,1997 Summer,Chalk Dust Torture,CDT,1,Royal Albert Hall,London,,England,","
+1997-06-16,1997,0,9,1,1,0,0,2,1997 Summer European Tour,1997 Summer,Wolfman's Brother,Wolfman's,1,Royal Albert Hall,London,,England,","
+1997-06-16,1997,0,10,4,1,0,0,2,1997 Summer European Tour,1997 Summer,Olivia's Pool,Olivia's Pool,1,Royal Albert Hall,London,,England,
+1997-06-16,1997,0,11,1,2,0,0,1,1997 Summer European Tour,1997 Summer,Limb By Limb,LxL,1,Royal Albert Hall,London,,England,","
+1997-06-16,1997,0,12,3,2,0,0,2,1997 Summer European Tour,1997 Summer,Ghost,Ghost,1,Royal Albert Hall,London,,England,->
+1997-06-16,1997,0,13,2,2,0,0,1113,1997 Summer European Tour,1997 Summer,I Don't Care,I Don't Care,1,Royal Albert Hall,London,,England,>
+1997-06-16,1997,0,14,1,2,0,0,5,1997 Summer European Tour,1997 Summer,Reba,Reba,1,Royal Albert Hall,London,,England,","
+1997-06-16,1997,0,15,1,2,0,0,2,1997 Summer European Tour,1997 Summer,Wading in the Velvet Sea,Velvet Sea,1,Royal Albert Hall,London,,England,","
+1997-06-16,1997,0,16,1,2,0,0,1,1997 Summer European Tour,1997 Summer,Dirt,Dirt,0,Royal Albert Hall,London,,England,","
+1997-06-16,1997,0,17,5,2,0,0,3,1997 Summer European Tour,1997 Summer,Harry Hood,Hood,1,Royal Albert Hall,London,,England,
+1997-06-16,1997,0,18,1,e,0,0,5,1997 Summer European Tour,1997 Summer,Cities,Cities,0,Royal Albert Hall,London,,England,","
+1997-06-16,1997,0,19,6,e,0,0,7,1997 Summer European Tour,1997 Summer,Poor Heart,Poor Heart,1,Royal Albert Hall,London,,England,
+1997-06-19,1997,0,1,1,1,0,0,1,1997 Summer European Tour,1997 Summer,Limb By Limb,LxL,1,Arena Wien,Vienna,,Austria,","
+1997-06-19,1997,0,2,1,1,0,0,1,1997 Summer European Tour,1997 Summer,Dogs Stole Things,Dogs Stole Things,1,Arena Wien,Vienna,,Austria,","
+1997-06-19,1997,0,3,2,1,0,0,1,1997 Summer European Tour,1997 Summer,Theme From the Bottom,Theme,1,Arena Wien,Vienna,,Austria,>
+1997-06-19,1997,0,4,1,1,0,0,4,1997 Summer European Tour,1997 Summer,Punch You in the Eye,PYITE,1,Arena Wien,Vienna,,Austria,","
+1997-06-19,1997,0,5,1,1,0,0,1,1997 Summer European Tour,1997 Summer,Water in the Sky,Water in the Sky,1,Arena Wien,Vienna,,Austria,","
+1997-06-19,1997,0,6,1,1,0,0,3,1997 Summer European Tour,1997 Summer,Maze,Maze,1,Arena Wien,Vienna,,Austria,","
+1997-06-19,1997,0,7,1,1,0,0,2,1997 Summer European Tour,1997 Summer,Waste,Waste,1,Arena Wien,Vienna,,Austria,","
+1997-06-19,1997,0,8,1,1,0,0,3,1997 Summer European Tour,1997 Summer,Vultures,Vultures,1,Arena Wien,Vienna,,Austria,","
+1997-06-19,1997,0,9,4,1,0,0,5,1997 Summer European Tour,1997 Summer,Runaway Jim,Runaway Jim,1,Arena Wien,Vienna,,Austria,
+1997-06-19,1997,0,10,3,2,0,0,3,1997 Summer European Tour,1997 Summer,Stash,Stash,1,Arena Wien,Vienna,,Austria,->
+1997-06-19,1997,0,11,3,2,0,0,1,1997 Summer European Tour,1997 Summer,Ghost,Ghost,1,Arena Wien,Vienna,,Austria,->
+1997-06-19,1997,0,12,2,2,0,0,2,1997 Summer European Tour,1997 Summer,Saw It Again,Saw It Again,1,Arena Wien,Vienna,,Austria,>
+1997-06-19,1997,0,13,1,2,0,0,1,1997 Summer European Tour,1997 Summer,Wading in the Velvet Sea,Velvet Sea,1,Arena Wien,Vienna,,Austria,","
+1997-06-19,1997,0,14,1,2,0,0,2,1997 Summer European Tour,1997 Summer,Piper,Piper,1,Arena Wien,Vienna,,Austria,","
+1997-06-19,1997,0,15,2,2,0,0,6,1997 Summer European Tour,1997 Summer,Jesus Just Left Chicago,JJLC,0,Arena Wien,Vienna,,Austria,>
+1997-06-19,1997,0,16,5,2,0,0,2,1997 Summer European Tour,1997 Summer,Prince Caspian,Caspian,1,Arena Wien,Vienna,,Austria,
+1997-06-19,1997,0,17,2,e,0,0,1,1997 Summer European Tour,1997 Summer,Beauty of My Dreams,Beauty of My Dreams,0,Arena Wien,Vienna,,Austria,>
+1997-06-19,1997,0,18,1,e,0,0,3,1997 Summer European Tour,1997 Summer,Character Zero,Character Zero,1,Arena Wien,Vienna,,Austria,","
+1997-06-19,1997,0,19,6,e,0,0,4,1997 Summer European Tour,1997 Summer,Hello My Baby,Hello My Baby,0,Arena Wien,Vienna,,Austria,
+1997-06-20,1997,0,1,2,1,0,0,2,1997 Summer European Tour,1997 Summer,Taste,Taste,1,Divadlo Archa,Prague,,Czech Republic,>
+1997-06-20,1997,0,2,3,1,0,0,9,1997 Summer European Tour,1997 Summer,Jam,Jam,0,Divadlo Archa,Prague,,Czech Republic,->
+1997-06-20,1997,0,3,2,1,0,0,2,1997 Summer European Tour,1997 Summer,Cities,Cities,0,Divadlo Archa,Prague,,Czech Republic,>
+1997-06-20,1997,0,4,3,1,0,0,25,1997 Summer European Tour,1997 Summer,Horn,Horn,1,Divadlo Archa,Prague,,Czech Republic,->
+1997-06-20,1997,0,5,3,1,0,0,1115,1997 Summer European Tour,1997 Summer,Ain't Love Funny,Ain't Love Funny,0,Divadlo Archa,Prague,,Czech Republic,->
+1997-06-20,1997,0,6,3,1,0,0,1,1997 Summer European Tour,1997 Summer,Limb By Limb,LxL,1,Divadlo Archa,Prague,,Czech Republic,->
+1997-06-20,1997,0,7,2,1,0,0,2,1997 Summer European Tour,1997 Summer,I Don't Care,I Don't Care,1,Divadlo Archa,Prague,,Czech Republic,>
+1997-06-20,1997,0,8,4,1,0,0,6,1997 Summer European Tour,1997 Summer,Run Like an Antelope,Antelope,1,Divadlo Archa,Prague,,Czech Republic,
+1997-06-20,1997,0,9,1,2,0,0,3,1997 Summer European Tour,1997 Summer,David Bowie,Bowie,1,Divadlo Archa,Prague,,Czech Republic,","
+1997-06-20,1997,0,10,1,2,0,0,1,1997 Summer European Tour,1997 Summer,Ghost,Ghost,1,Divadlo Archa,Prague,,Czech Republic,","
+1997-06-20,1997,0,11,2,2,0,0,3,1997 Summer European Tour,1997 Summer,Bye Bye Foot,Bye Bye Foot,1,Divadlo Archa,Prague,,Czech Republic,>
+1997-06-20,1997,0,12,2,2,0,0,17,1997 Summer European Tour,1997 Summer,Ginseng Sullivan,Ginseng,0,Divadlo Archa,Prague,,Czech Republic,>
+1997-06-20,1997,0,13,2,2,0,0,3,1997 Summer European Tour,1997 Summer,Cavern,Cavern,1,Divadlo Archa,Prague,,Czech Republic,>
+1997-06-20,1997,0,14,1,2,0,0,3,1997 Summer European Tour,1997 Summer,Twist,Twist,1,Divadlo Archa,Prague,,Czech Republic,","
+1997-06-20,1997,0,15,2,2,0,0,14,1997 Summer European Tour,1997 Summer,Bouncing Around the Room,Bouncin',1,Divadlo Archa,Prague,,Czech Republic,>
+1997-06-20,1997,0,16,5,2,0,0,8,1997 Summer European Tour,1997 Summer,Julius,Julius,1,Divadlo Archa,Prague,,Czech Republic,
+1997-06-20,1997,0,17,2,e,0,0,3,1997 Summer European Tour,1997 Summer,When the Circus Comes,Circus,0,Divadlo Archa,Prague,,Czech Republic,>
+1997-06-20,1997,0,18,6,e,0,0,3,1997 Summer European Tour,1997 Summer,Rocky Top,Rocky Top,0,Divadlo Archa,Prague,,Czech Republic,
+1997-06-21,1997,0,1,1,1,0,0,3,1997 Summer European Tour,1997 Summer,Sample in a Jar,Sample,1,Hurricane Festival,ScheeÃel,,Germany,","
+1997-06-21,1997,0,2,2,1,0,0,7,1997 Summer European Tour,1997 Summer,Also Sprach Zarathustra,2001,0,Hurricane Festival,ScheeÃel,,Germany,>
+1997-06-21,1997,0,3,1,1,0,0,3,1997 Summer European Tour,1997 Summer,Poor Heart,Poor Heart,1,Hurricane Festival,ScheeÃel,,Germany,","
+1997-06-21,1997,0,4,1,1,0,0,1,1997 Summer European Tour,1997 Summer,Taste,Taste,1,Hurricane Festival,ScheeÃel,,Germany,","
+1997-06-21,1997,0,5,1,1,0,0,2,1997 Summer European Tour,1997 Summer,Dogs Stole Things,Dogs Stole Things,1,Hurricane Festival,ScheeÃel,,Germany,","
+1997-06-21,1997,0,6,1,1,0,0,2,1997 Summer European Tour,1997 Summer,Theme From the Bottom,Theme,1,Hurricane Festival,ScheeÃel,,Germany,","
+1997-06-21,1997,0,7,2,1,0,0,7,1997 Summer European Tour,1997 Summer,Swept Away,Swept Away,1,Hurricane Festival,ScheeÃel,,Germany,>
+1997-06-21,1997,0,8,2,1,0,0,7,1997 Summer European Tour,1997 Summer,Steep,Steep,1,Hurricane Festival,ScheeÃel,,Germany,>
+1997-06-21,1997,0,9,1,1,0,0,1,1997 Summer European Tour,1997 Summer,Limb By Limb,LxL,1,Hurricane Festival,ScheeÃel,,Germany,","
+1997-06-21,1997,0,10,2,1,0,0,3,1997 Summer European Tour,1997 Summer,Dirt,Dirt,0,Hurricane Festival,ScheeÃel,,Germany,>
+1997-06-21,1997,0,11,2,1,0,0,3,1997 Summer European Tour,1997 Summer,Harry Hood,Hood,1,Hurricane Festival,ScheeÃel,,Germany,>
+1997-06-21,1997,0,12,1,1,0,0,3,1997 Summer European Tour,1997 Summer,Chalk Dust Torture,CDT,1,Hurricane Festival,ScheeÃel,,Germany,","
+1997-06-21,1997,0,13,1,1,0,0,1116,1997 Summer European Tour,1997 Summer,Samson Variation,Samson Variation,0,Hurricane Festival,ScheeÃel,,Germany,","
+1997-06-21,1997,0,14,2,1,0,0,1,1997 Summer European Tour,1997 Summer,Twist,Twist,1,Hurricane Festival,ScheeÃel,,Germany,>
+1997-06-21,1997,0,15,5,1,0,0,1,1997 Summer European Tour,1997 Summer,Cavern,Cavern,1,Hurricane Festival,ScheeÃel,,Germany,
+1997-06-21,1997,0,16,6,e,0,0,4,1997 Summer European Tour,1997 Summer,My Soul,My Soul,0,Hurricane Festival,ScheeÃel,,Germany,
+1997-06-22,1997,0,1,1,1,0,0,1,1997 Summer European Tour,1997 Summer,Taste,Taste,1,Loreley,"St. Goarshausen, Koblenz",,Germany,","
+1997-06-22,1997,0,2,1,1,0,0,3,1997 Summer European Tour,1997 Summer,Water in the Sky,Water in the Sky,1,Loreley,"St. Goarshausen, Koblenz",,Germany,","
+1997-06-22,1997,0,3,1,1,0,0,3,1997 Summer European Tour,1997 Summer,Stash,Stash,1,Loreley,"St. Goarshausen, Koblenz",,Germany,","
+1997-06-22,1997,0,4,1,1,0,0,1,1997 Summer European Tour,1997 Summer,Dirt,Dirt,0,Loreley,"St. Goarshausen, Koblenz",,Germany,","
+1997-06-22,1997,0,5,1,1,0,0,8,1997 Summer European Tour,1997 Summer,Uncle Pen,Uncle Pen,0,Loreley,"St. Goarshausen, Koblenz",,Germany,","
+1997-06-22,1997,0,6,2,1,0,0,3,1997 Summer European Tour,1997 Summer,Character Zero,Character Zero,1,Loreley,"St. Goarshausen, Koblenz",,Germany,>
+1997-06-22,1997,0,7,1,1,0,0,1,1997 Summer European Tour,1997 Summer,Theme From the Bottom,Theme,1,Loreley,"St. Goarshausen, Koblenz",,Germany,","
+1997-06-22,1997,0,8,1,1,0,0,3,1997 Summer European Tour,1997 Summer,Hello My Baby,Hello My Baby,0,Loreley,"St. Goarshausen, Koblenz",,Germany,","
+1997-06-22,1997,0,9,5,1,0,0,2,1997 Summer European Tour,1997 Summer,Ghost,Ghost,1,Loreley,"St. Goarshausen, Koblenz",,Germany,
+1997-06-22,1997,0,10,6,e,0,0,1,1997 Summer European Tour,1997 Summer,Limb By Limb,LxL,1,Loreley,"St. Goarshausen, Koblenz",,Germany,
+1997-06-24,1997,0,1,1,1,0,0,15,1997 Summer European Tour,1997 Summer,Split Open and Melt,SOAMelt,1,La Laiterie,Strasbourg,,France,","
+1997-06-24,1997,0,2,1,1,0,0,4,1997 Summer European Tour,1997 Summer,Beauty of My Dreams,Beauty of My Dreams,0,La Laiterie,Strasbourg,,France,","
+1997-06-24,1997,0,3,1,1,0,0,2,1997 Summer European Tour,1997 Summer,Dogs Stole Things,Dogs Stole Things,1,La Laiterie,Strasbourg,,France,","
+1997-06-24,1997,0,4,1,1,0,0,4,1997 Summer European Tour,1997 Summer,Vultures,Vultures,1,La Laiterie,Strasbourg,,France,","
+1997-06-24,1997,0,5,1,1,0,0,20,1997 Summer European Tour,1997 Summer,Guelah Papyrus,Guelah,1,La Laiterie,Strasbourg,,France,","
+1997-06-24,1997,0,6,3,1,0,0,4,1997 Summer European Tour,1997 Summer,Runaway Jim,Runaway Jim,1,La Laiterie,Strasbourg,,France,->
+1997-06-24,1997,0,7,3,1,0,0,9,1997 Summer European Tour,1997 Summer,Gypsy Queen,Gypsy Queen,0,La Laiterie,Strasbourg,,France,->
+1997-06-24,1997,0,8,1,1,0,0,0,1997 Summer European Tour,1997 Summer,Runaway Jim,Runaway Jim,1,La Laiterie,Strasbourg,,France,","
+1997-06-24,1997,0,9,1,1,0,0,6,1997 Summer European Tour,1997 Summer,Talk,Talk,1,La Laiterie,Strasbourg,,France,","
+1997-06-24,1997,0,10,1,1,0,0,6,1997 Summer European Tour,1997 Summer,Free,Free,1,La Laiterie,Strasbourg,,France,","
+1997-06-24,1997,0,11,2,1,0,0,4,1997 Summer European Tour,1997 Summer,Prince Caspian,Caspian,1,La Laiterie,Strasbourg,,France,>
+1997-06-24,1997,0,12,4,1,0,0,3,1997 Summer European Tour,1997 Summer,Rocky Top,Rocky Top,0,La Laiterie,Strasbourg,,France,
+1997-06-24,1997,0,13,2,2,0,0,5,1997 Summer European Tour,1997 Summer,Wolfman's Brother,Wolfman's,1,La Laiterie,Strasbourg,,France,>
+1997-06-24,1997,0,14,1,2,0,0,5,1997 Summer European Tour,1997 Summer,Reba,Reba,1,La Laiterie,Strasbourg,,France,","
+1997-06-24,1997,0,15,1,2,0,0,6,1997 Summer European Tour,1997 Summer,NICU,NICU,1,La Laiterie,Strasbourg,,France,","
+1997-06-24,1997,0,16,2,2,0,0,2,1997 Summer European Tour,1997 Summer,Twist,Twist,1,La Laiterie,Strasbourg,,France,>
+1997-06-24,1997,0,17,1,2,0,0,4,1997 Summer European Tour,1997 Summer,Piper,Piper,1,La Laiterie,Strasbourg,,France,","
+1997-06-24,1997,0,18,1,2,0,0,4,1997 Summer European Tour,1997 Summer,Wading in the Velvet Sea,Velvet Sea,1,La Laiterie,Strasbourg,,France,","
+1997-06-24,1997,0,19,5,2,0,0,1,1997 Summer European Tour,1997 Summer,Ghost,Ghost,1,La Laiterie,Strasbourg,,France,
+1997-06-24,1997,0,20,6,e,0,0,13,1997 Summer European Tour,1997 Summer,Loving Cup,Loving Cup,0,La Laiterie,Strasbourg,,France,
+1997-06-25,1997,0,1,1,1,0,0,6,1997 Summer European Tour,1997 Summer,Olivia's Pool,Olivia's Pool,1,LâAeronef,Lille,,France,","
+1997-06-25,1997,0,2,1,1,0,0,1,1997 Summer European Tour,1997 Summer,Dogs Stole Things,Dogs Stole Things,1,LâAeronef,Lille,,France,","
+1997-06-25,1997,0,3,1,1,0,0,2,1997 Summer European Tour,1997 Summer,Taste,Taste,1,LâAeronef,Lille,,France,","
+1997-06-25,1997,0,4,1,1,0,0,8,1997 Summer European Tour,1997 Summer,Billy Breathes,Billy Breathes,1,LâAeronef,Lille,,France,","
+1997-06-25,1997,0,5,1,1,0,0,17,1997 Summer European Tour,1997 Summer,AC/DC Bag,Bag,1,LâAeronef,Lille,,France,","
+1997-06-25,1997,0,6,1,1,0,0,32,1997 Summer European Tour,1997 Summer,The Old Home Place,The Old Home Place,0,LâAeronef,Lille,,France,","
+1997-06-25,1997,0,7,1,1,0,0,2,1997 Summer European Tour,1997 Summer,Theme From the Bottom,Theme,1,LâAeronef,Lille,,France,","
+1997-06-25,1997,0,8,1,1,0,0,1,1997 Summer European Tour,1997 Summer,Wading in the Velvet Sea,Velvet Sea,1,LâAeronef,Lille,,France,","
+1997-06-25,1997,0,9,1,1,0,0,5,1997 Summer European Tour,1997 Summer,Saw It Again,Saw It Again,1,LâAeronef,Lille,,France,","
+1997-06-25,1997,0,10,1,1,0,0,2,1997 Summer European Tour,1997 Summer,Limb By Limb,LxL,1,LâAeronef,Lille,,France,","
+1997-06-25,1997,0,11,4,1,0,0,3,1997 Summer European Tour,1997 Summer,My Soul,My Soul,0,LâAeronef,Lille,,France,
+1997-06-25,1997,0,12,3,2,0,0,7,1997 Summer European Tour,1997 Summer,Down with Disease,DwD,1,LâAeronef,Lille,,France,->
+1997-06-25,1997,0,13,3,2,0,0,1,1997 Summer European Tour,1997 Summer,Piper,Piper,1,LâAeronef,Lille,,France,->
+1997-06-25,1997,0,14,3,2,0,0,0,1997 Summer European Tour,1997 Summer,Down with Disease,DwD,1,LâAeronef,Lille,,France,->
+1997-06-25,1997,0,15,3,2,0,0,1121,1997 Summer European Tour,1997 Summer,Meatstick,Meatstick,1,LâAeronef,Lille,,France,->
+1997-06-25,1997,0,16,2,2,0,0,41,1997 Summer European Tour,1997 Summer,McGrupp and the Watchful Hosemasters,McGrupp,1,LâAeronef,Lille,,France,>
+1997-06-25,1997,0,17,1,2,0,0,27,1997 Summer European Tour,1997 Summer,Makisupa Policeman,Makisupa,1,LâAeronef,Lille,,France,","
+1997-06-25,1997,0,18,2,2,0,0,1119,1997 Summer European Tour,1997 Summer,Cecilia,Cecilia,0,LâAeronef,Lille,,France,>
+1997-06-25,1997,0,19,2,2,0,0,15,1997 Summer European Tour,1997 Summer,Hold Your Head Up,HYHU,0,LâAeronef,Lille,,France,>
+1997-06-25,1997,0,20,1,2,0,0,13,1997 Summer European Tour,1997 Summer,Rock A William,Rock A William,1,LâAeronef,Lille,,France,","
+1997-06-25,1997,0,21,5,2,0,0,4,1997 Summer European Tour,1997 Summer,Run Like an Antelope,Antelope,1,LâAeronef,Lille,,France,
+1997-06-25,1997,0,22,6,e,0,0,10,1997 Summer European Tour,1997 Summer,Guyute,Guyute,1,LâAeronef,Lille,,France,
+1997-06-27,1997,0,1,2,1,0,0,18,1997 Summer European Tour,1997 Summer,Wilson,Wilson,1,Worthy Farm,Somerset,,England,>
+1997-06-27,1997,0,2,1,1,0,0,4,1997 Summer European Tour,1997 Summer,Chalk Dust Torture,CDT,1,Worthy Farm,Somerset,,England,","
+1997-06-27,1997,0,3,1,1,0,0,3,1997 Summer European Tour,1997 Summer,Stash,Stash,1,Worthy Farm,Somerset,,England,","
+1997-06-27,1997,0,4,1,1,0,0,1,1997 Summer European Tour,1997 Summer,Dogs Stole Things,Dogs Stole Things,1,Worthy Farm,Somerset,,England,","
+1997-06-27,1997,0,5,2,1,0,0,4,1997 Summer European Tour,1997 Summer,Poor Heart,Poor Heart,1,Worthy Farm,Somerset,,England,>
+1997-06-27,1997,0,6,1,1,0,0,1,1997 Summer European Tour,1997 Summer,Taste,Taste,1,Worthy Farm,Somerset,,England,","
+1997-06-27,1997,0,7,1,1,0,0,5,1997 Summer European Tour,1997 Summer,Bouncing Around the Room,Bouncin',1,Worthy Farm,Somerset,,England,","
+1997-06-27,1997,0,8,6,1,0,0,3,1997 Summer European Tour,1997 Summer,Character Zero,Character Zero,1,Worthy Farm,Somerset,,England,
+1997-06-29,1997,0,1,1,1,0,0,12,1997 Summer European Tour,1997 Summer,You Enjoy Myself,YEM,1,Roskilde Festival,Roskilde,,Denmark,","
+1997-06-29,1997,0,2,1,1,0,0,1,1997 Summer European Tour,1997 Summer,Taste,Taste,1,Roskilde Festival,Roskilde,,Denmark,","
+1997-06-29,1997,0,3,1,1,0,0,1,1997 Summer European Tour,1997 Summer,Bouncing Around the Room,Bouncin',1,Roskilde Festival,Roskilde,,Denmark,","
+1997-06-29,1997,0,4,1,1,0,0,3,1997 Summer European Tour,1997 Summer,Beauty of My Dreams,Beauty of My Dreams,0,Roskilde Festival,Roskilde,,Denmark,","
+1997-06-29,1997,0,5,1,1,0,0,1,1997 Summer European Tour,1997 Summer,Chalk Dust Torture,CDT,1,Roskilde Festival,Roskilde,,Denmark,","
+1997-06-29,1997,0,6,1,1,0,0,2,1997 Summer European Tour,1997 Summer,Theme From the Bottom,Theme,1,Roskilde Festival,Roskilde,,Denmark,","
+1997-06-29,1997,0,7,5,1,0,0,1,1997 Summer European Tour,1997 Summer,Character Zero,Character Zero,1,Roskilde Festival,Roskilde,,Denmark,
+1997-06-29,1997,0,8,6,e,0,0,2,1997 Summer European Tour,1997 Summer,My Soul,My Soul,0,Roskilde Festival,Roskilde,,Denmark,
+1997-07-01,1997,0,1,1,1,2,0,4,1997 Summer European Tour,1997 Summer,Ghost,Ghost,1,Paradiso,Amsterdam,,Netherlands,","
+1997-07-01,1997,0,2,1,1,2,0,7,1997 Summer European Tour,1997 Summer,Horn,Horn,1,Paradiso,Amsterdam,,Netherlands,","
+1997-07-01,1997,0,3,1,1,2,0,15,1997 Summer European Tour,1997 Summer,Ya Mar,Ya Mar,0,Paradiso,Amsterdam,,Netherlands,","
+1997-07-01,1997,0,4,3,1,2,0,3,1997 Summer European Tour,1997 Summer,Limb By Limb,LxL,1,Paradiso,Amsterdam,,Netherlands,->
+1997-07-01,1997,0,5,1,1,2,0,7,1997 Summer European Tour,1997 Summer,Ain't Love Funny,Ain't Love Funny,0,Paradiso,Amsterdam,,Netherlands,","
+1997-07-01,1997,0,6,1,1,2,0,3,1997 Summer European Tour,1997 Summer,Saw It Again,Saw It Again,1,Paradiso,Amsterdam,,Netherlands,","
+1997-07-01,1997,0,7,1,1,2,0,5,1997 Summer European Tour,1997 Summer,Dirt,Dirt,0,Paradiso,Amsterdam,,Netherlands,","
+1997-07-01,1997,0,8,1,1,2,0,4,1997 Summer European Tour,1997 Summer,Reba,Reba,1,Paradiso,Amsterdam,,Netherlands,","
+1997-07-01,1997,0,9,4,1,2,0,2,1997 Summer European Tour,1997 Summer,Dogs Stole Things,Dogs Stole Things,1,Paradiso,Amsterdam,,Netherlands,
+1997-07-01,1997,0,10,3,2,2,0,7,1997 Summer European Tour,1997 Summer,Jam,Jam,0,Paradiso,Amsterdam,,Netherlands,->
+1997-07-01,1997,0,11,2,2,2,0,23,1997 Summer European Tour,1997 Summer,Timber (Jerry the Mule),Timber Ho,0,Paradiso,Amsterdam,,Netherlands,>
+1997-07-01,1997,0,12,3,2,2,0,19,1997 Summer European Tour,1997 Summer,Bathtub Gin,Gin,1,Paradiso,Amsterdam,,Netherlands,->
+1997-07-01,1997,0,13,2,2,2,0,7,1997 Summer European Tour,1997 Summer,Cities,Cities,0,Paradiso,Amsterdam,,Netherlands,>
+1997-07-01,1997,0,14,2,2,2,0,0,1997 Summer European Tour,1997 Summer,Jam,Jam,0,Paradiso,Amsterdam,,Netherlands,>
+1997-07-01,1997,0,15,2,2,2,0,4,1997 Summer European Tour,1997 Summer,Loving Cup,Loving Cup,0,Paradiso,Amsterdam,,Netherlands,>
+1997-07-01,1997,0,16,5,2,2,0,11,1997 Summer European Tour,1997 Summer,Slave to the Traffic Light,Slave,1,Paradiso,Amsterdam,,Netherlands,
+1997-07-01,1997,0,17,6,e,2,0,7,1997 Summer European Tour,1997 Summer,When the Circus Comes,Circus,0,Paradiso,Amsterdam,,Netherlands,
+1997-07-02,1997,0,1,2,1,0,0,15,1997 Summer European Tour,1997 Summer,Mike's Song,Mike's,1,Paradiso,Amsterdam,,Netherlands,>
+1997-07-02,1997,0,2,3,1,0,0,20,1997 Summer European Tour,1997 Summer,Simple,Simple,1,Paradiso,Amsterdam,,Netherlands,->
+1997-07-02,1997,0,3,1,1,0,0,9,1997 Summer European Tour,1997 Summer,Maze,Maze,1,Paradiso,Amsterdam,,Netherlands,","
+1997-07-02,1997,0,4,1,1,0,0,31,1997 Summer European Tour,1997 Summer,Strange Design,Strange Design,1,Paradiso,Amsterdam,,Netherlands,","
+1997-07-02,1997,0,5,1,1,0,0,8,1997 Summer European Tour,1997 Summer,Ginseng Sullivan,Ginseng,0,Paradiso,Amsterdam,,Netherlands,","
+1997-07-02,1997,0,6,1,1,0,0,5,1997 Summer European Tour,1997 Summer,Vultures,Vultures,1,Paradiso,Amsterdam,,Netherlands,","
+1997-07-02,1997,0,7,2,1,0,0,6,1997 Summer European Tour,1997 Summer,Water in the Sky,Water in the Sky,1,Paradiso,Amsterdam,,Netherlands,>
+1997-07-02,1997,0,8,4,1,0,0,15,1997 Summer European Tour,1997 Summer,Weekapaug Groove,Weekapaug,1,Paradiso,Amsterdam,,Netherlands,
+1997-07-02,1997,0,9,3,2,0,0,3,1997 Summer European Tour,1997 Summer,Stash,Stash,1,Paradiso,Amsterdam,,Netherlands,->
+1997-07-02,1997,0,10,3,2,0,0,17,1997 Summer European Tour,1997 Summer,Llama,Llama,1,Paradiso,Amsterdam,,Netherlands,->
+1997-07-02,1997,0,11,3,2,1,0,1123,1997 Summer European Tour,1997 Summer,Wormtown,Wormtown,0,Paradiso,Amsterdam,,Netherlands,->
+1997-07-02,1997,0,12,5,2,0,0,4,1997 Summer European Tour,1997 Summer,Wading in the Velvet Sea,Velvet Sea,1,Paradiso,Amsterdam,,Netherlands,
+1997-07-02,1997,0,13,7,e,0,0,5,1997 Summer European Tour,1997 Summer,Free,Free,1,Paradiso,Amsterdam,,Netherlands,
+1997-07-02,1997,0,14,6,e2,0,0,8,1997 Summer European Tour,1997 Summer,David Bowie,Bowie,1,Paradiso,Amsterdam,,Netherlands,
+1997-07-03,1997,0,1,2,1,0,0,5,1997 Summer European Tour,1997 Summer,Piper,Piper,1,Serenadenhof,NÃ¼remberg,,Germany,>
+1997-07-03,1997,0,2,2,1,0,0,3,1997 Summer European Tour,1997 Summer,My Soul,My Soul,0,Serenadenhof,NÃ¼remberg,,Germany,>
+1997-07-03,1997,0,3,1,1,0,0,25,1997 Summer European Tour,1997 Summer,Divided Sky,Divided,1,Serenadenhof,NÃ¼remberg,,Germany,","
+1997-07-03,1997,0,4,1,1,0,0,3,1997 Summer European Tour,1997 Summer,Beauty of My Dreams,Beauty of My Dreams,0,Serenadenhof,NÃ¼remberg,,Germany,","
+1997-07-03,1997,0,5,1,1,0,0,3,1997 Summer European Tour,1997 Summer,Taste,Taste,1,Serenadenhof,NÃ¼remberg,,Germany,","
+1997-07-03,1997,0,6,1,1,0,0,24,1997 Summer European Tour,1997 Summer,Train Song,Train Song,1,Serenadenhof,NÃ¼remberg,,Germany,","
+1997-07-03,1997,0,7,1,1,0,0,3,1997 Summer European Tour,1997 Summer,Theme From the Bottom,Theme,1,Serenadenhof,NÃ¼remberg,,Germany,","
+1997-07-03,1997,0,8,4,1,0,0,6,1997 Summer European Tour,1997 Summer,Rocky Top,Rocky Top,0,Serenadenhof,NÃ¼remberg,,Germany,
+1997-07-03,1997,0,9,2,2,0,0,2,1997 Summer European Tour,1997 Summer,Ghost,Ghost,1,Serenadenhof,NÃ¼remberg,,Germany,>
+1997-07-03,1997,0,10,1,2,0,0,12,1997 Summer European Tour,1997 Summer,Cars Trucks Buses,CTB,1,Serenadenhof,NÃ¼remberg,,Germany,","
+1997-07-03,1997,0,11,1,2,0,0,5,1997 Summer European Tour,1997 Summer,Billy Breathes,Billy Breathes,1,Serenadenhof,NÃ¼remberg,,Germany,","
+1997-07-03,1997,0,12,2,2,0,0,21,1997 Summer European Tour,1997 Summer,Sparkle,Sparkle,1,Serenadenhof,NÃ¼remberg,,Germany,>
+1997-07-03,1997,0,13,2,2,0,0,8,1997 Summer European Tour,1997 Summer,Harry Hood,Hood,1,Serenadenhof,NÃ¼remberg,,Germany,>
+1997-07-03,1997,0,14,5,2,0,0,8,1997 Summer European Tour,1997 Summer,Cavern,Cavern,1,Serenadenhof,NÃ¼remberg,,Germany,
+1997-07-03,1997,0,15,6,e,0,0,3,1997 Summer European Tour,1997 Summer,Character Zero,Character Zero,1,Serenadenhof,NÃ¼remberg,,Germany,
+1997-07-05,1997,0,1,1,1,0,0,10,1997 Summer European Tour,1997 Summer,Julius,Julius,1,Piazza Risorgimento,Como,,Italy,","
+1997-07-05,1997,0,2,2,1,0,0,4,1997 Summer European Tour,1997 Summer,Bouncing Around the Room,Bouncin',1,Piazza Risorgimento,Como,,Italy,>
+1997-07-05,1997,0,3,1,1,0,0,8,1997 Summer European Tour,1997 Summer,Uncle Pen,Uncle Pen,0,Piazza Risorgimento,Como,,Italy,","
+1997-07-05,1997,0,4,1,1,0,0,9,1997 Summer European Tour,1997 Summer,Sample in a Jar,Sample,1,Piazza Risorgimento,Como,,Italy,","
+1997-07-05,1997,0,5,1,1,0,0,1,1997 Summer European Tour,1997 Summer,Theme From the Bottom,Theme,1,Piazza Risorgimento,Como,,Italy,","
+1997-07-05,1997,0,6,3,1,0,0,7,1997 Summer European Tour,1997 Summer,Prince Caspian,Caspian,1,Piazza Risorgimento,Como,,Italy,->
+1997-07-05,1997,0,7,2,1,0,0,7,1997 Summer European Tour,1997 Summer,Twist,Twist,1,Piazza Risorgimento,Como,,Italy,>
+1997-07-05,1997,0,8,1,1,0,0,1,1997 Summer European Tour,1997 Summer,Piper,Piper,1,Piazza Risorgimento,Como,,Italy,","
+1997-07-05,1997,0,9,2,1,0,0,1,1997 Summer European Tour,1997 Summer,Harry Hood,Hood,1,Piazza Risorgimento,Como,,Italy,>
+1997-07-05,1997,0,10,2,1,0,0,111,1997 Summer European Tour,1997 Summer,Love You,Love You,0,Piazza Risorgimento,Como,,Italy,>
+1997-07-05,1997,0,11,2,1,0,0,6,1997 Summer European Tour,1997 Summer,Hold Your Head Up,HYHU,0,Piazza Risorgimento,Como,,Italy,>
+1997-07-05,1997,0,12,2,1,0,0,5,1997 Summer European Tour,1997 Summer,Poor Heart,Poor Heart,1,Piazza Risorgimento,Como,,Italy,>
+1997-07-05,1997,0,13,2,1,0,0,1,1997 Summer European Tour,1997 Summer,Character Zero,Character Zero,1,Piazza Risorgimento,Como,,Italy,>
+1997-07-05,1997,0,14,5,1,0,0,21,1997 Summer European Tour,1997 Summer,Good Times Bad Times,GTBT,0,Piazza Risorgimento,Como,,Italy,
+1997-07-05,1997,0,15,6,e,0,0,12,1997 Summer European Tour,1997 Summer,The Squirming Coil,Coil,1,Piazza Risorgimento,Como,,Italy,
+1997-07-06,1997,0,1,1,1,0,0,8,1997 Summer European Tour,1997 Summer,Runaway Jim,Runaway Jim,1,Spiaggia di Rivoltella,Desenzano,,Italy,","
+1997-07-06,1997,0,2,1,1,0,0,7,1997 Summer European Tour,1997 Summer,The Old Home Place,The Old Home Place,0,Spiaggia di Rivoltella,Desenzano,,Italy,","
+1997-07-06,1997,0,3,1,1,0,0,4,1997 Summer European Tour,1997 Summer,Dogs Stole Things,Dogs Stole Things,1,Spiaggia di Rivoltella,Desenzano,,Italy,","
+1997-07-06,1997,0,4,1,1,0,0,3,1997 Summer European Tour,1997 Summer,Stash,Stash,1,Spiaggia di Rivoltella,Desenzano,,Italy,","
+1997-07-06,1997,0,5,2,1,0,0,22,1997 Summer European Tour,1997 Summer,The Horse,Horse,1,Spiaggia di Rivoltella,Desenzano,,Italy,>
+1997-07-06,1997,0,6,2,1,0,0,22,1997 Summer European Tour,1997 Summer,Silent in the Morning,Silent,1,Spiaggia di Rivoltella,Desenzano,,Italy,>
+1997-07-06,1997,0,7,1,1,0,0,2,1997 Summer European Tour,1997 Summer,Cars Trucks Buses,CTB,1,Spiaggia di Rivoltella,Desenzano,,Italy,","
+1997-07-06,1997,0,8,1,1,0,0,20,1997 Summer European Tour,1997 Summer,Scent of a Mule,SOAMule,1,Spiaggia di Rivoltella,Desenzano,,Italy,","
+1997-07-06,1997,0,9,4,1,0,0,5,1997 Summer European Tour,1997 Summer,Chalk Dust Torture,CDT,1,Spiaggia di Rivoltella,Desenzano,,Italy,
+1997-07-06,1997,0,10,1,2,0,0,3,1997 Summer European Tour,1997 Summer,Free,Free,1,Spiaggia di Rivoltella,Desenzano,,Italy,","
+1997-07-06,1997,0,11,2,2,0,0,5,1997 Summer European Tour,1997 Summer,You Enjoy Myself,YEM,1,Spiaggia di Rivoltella,Desenzano,,Italy,>
+1997-07-06,1997,0,12,1,2,0,0,12,1997 Summer European Tour,1997 Summer,Waste,Waste,1,Spiaggia di Rivoltella,Desenzano,,Italy,","
+1997-07-06,1997,0,13,2,2,0,0,2,1997 Summer European Tour,1997 Summer,Rocky Top,Rocky Top,0,Spiaggia di Rivoltella,Desenzano,,Italy,>
+1997-07-06,1997,0,14,5,2,0,0,16,1997 Summer European Tour,1997 Summer,Funky Bitch,Funky Bitch,0,Spiaggia di Rivoltella,Desenzano,,Italy,
+1997-07-06,1997,0,15,6,e,0,0,2,1997 Summer European Tour,1997 Summer,My Soul,My Soul,0,Spiaggia di Rivoltella,Desenzano,,Italy,
+1997-07-09,1997,0,1,2,1,2,0,13,1997 Summer European Tour,1997 Summer,Punch You in the Eye,PYITE,1,Le Transbordeur,Lyon/Villeurbanne,,France,>
+1997-07-09,1997,0,2,1,1,2,0,2,1997 Summer European Tour,1997 Summer,Prince Caspian,Caspian,1,Le Transbordeur,Lyon/Villeurbanne,,France,","
+1997-07-09,1997,0,3,1,1,2,0,4,1997 Summer European Tour,1997 Summer,Ginseng Sullivan,Ginseng,0,Le Transbordeur,Lyon/Villeurbanne,,France,","
+1997-07-09,1997,0,4,1,1,2,0,9,1997 Summer European Tour,1997 Summer,Split Open and Melt,SOAMelt,1,Le Transbordeur,Lyon/Villeurbanne,,France,","
+1997-07-09,1997,0,5,1,1,2,0,5,1997 Summer European Tour,1997 Summer,Dirt,Dirt,0,Le Transbordeur,Lyon/Villeurbanne,,France,","
+1997-07-09,1997,0,6,1,1,2,0,3,1997 Summer European Tour,1997 Summer,Taste,Taste,1,Le Transbordeur,Lyon/Villeurbanne,,France,","
+1997-07-09,1997,0,7,1,1,2,0,19,1997 Summer European Tour,1997 Summer,Sweet Adeline,Sweet Adeline,0,Le Transbordeur,Lyon/Villeurbanne,,France,","
+1997-07-09,1997,0,8,4,1,2,0,2,1997 Summer European Tour,1997 Summer,Harry Hood,Hood,1,Le Transbordeur,Lyon/Villeurbanne,,France,
+1997-07-09,1997,0,9,2,2,2,0,8,1997 Summer European Tour,1997 Summer,Down with Disease,DwD,1,Le Transbordeur,Lyon/Villeurbanne,,France,>
+1997-07-09,1997,0,10,2,2,2,0,1,1997 Summer European Tour,1997 Summer,My Soul,My Soul,0,Le Transbordeur,Lyon/Villeurbanne,,France,>
+1997-07-09,1997,0,11,1,2,2,0,1,1997 Summer European Tour,1997 Summer,Cars Trucks Buses,CTB,1,Le Transbordeur,Lyon/Villeurbanne,,France,","
+1997-07-09,1997,0,12,3,2,2,0,1,1997 Summer European Tour,1997 Summer,You Enjoy Myself,YEM,1,Le Transbordeur,Lyon/Villeurbanne,,France,->
+1997-07-09,1997,0,13,3,2,1,0,1127,1997 Summer European Tour,1997 Summer,Trane To Conamarra,Trane To Conamarra,0,Le Transbordeur,Lyon/Villeurbanne,,France,->
+1997-07-09,1997,0,14,2,2,2,0,3,1997 Summer European Tour,1997 Summer,Ghost,Ghost,1,Le Transbordeur,Lyon/Villeurbanne,,France,>
+1997-07-09,1997,0,15,5,2,2,0,2,1997 Summer European Tour,1997 Summer,Poor Heart,Poor Heart,1,Le Transbordeur,Lyon/Villeurbanne,,France,
+1997-07-09,1997,0,16,6,e,2,0,10,1997 Summer European Tour,1997 Summer,Hello My Baby,Hello My Baby,0,Le Transbordeur,Lyon/Villeurbanne,,France,
+1997-07-10,1997,0,1,1,1,0,0,2,1997 Summer European Tour,1997 Summer,Dogs Stole Things,Dogs Stole Things,1,Espace Julien,Marseilles,,France,","
+1997-07-10,1997,0,2,1,1,0,0,6,1997 Summer European Tour,1997 Summer,Limb By Limb,LxL,1,Espace Julien,Marseilles,,France,","
+1997-07-10,1997,0,3,1,1,0,0,1,1997 Summer European Tour,1997 Summer,Ginseng Sullivan,Ginseng,0,Espace Julien,Marseilles,,France,","
+1997-07-10,1997,0,4,2,1,0,0,6,1997 Summer European Tour,1997 Summer,Bathtub Gin,Gin,1,Espace Julien,Marseilles,,France,>
+1997-07-10,1997,0,5,3,1,0,0,5,1997 Summer European Tour,1997 Summer,Llama,Llama,1,Espace Julien,Marseilles,,France,->
+1997-07-10,1997,0,6,1,1,0,0,5,1997 Summer European Tour,1997 Summer,Wading in the Velvet Sea,Velvet Sea,1,Espace Julien,Marseilles,,France,","
+1997-07-10,1997,0,7,1,1,0,0,6,1997 Summer European Tour,1997 Summer,Jam,Jam,0,Espace Julien,Marseilles,,France,","
+1997-07-10,1997,0,8,4,1,0,0,9,1997 Summer European Tour,1997 Summer,Olivia's Pool,Olivia's Pool,1,Espace Julien,Marseilles,,France,
+1997-07-10,1997,0,9,2,2,0,0,12,1997 Summer European Tour,1997 Summer,Also Sprach Zarathustra,2001,0,Espace Julien,Marseilles,,France,>
+1997-07-10,1997,0,10,3,2,0,0,3,1997 Summer European Tour,1997 Summer,Julius,Julius,1,Espace Julien,Marseilles,,France,->
+1997-07-10,1997,0,11,1,2,0,0,22,1997 Summer European Tour,1997 Summer,Magilla,Magilla,1,Espace Julien,Marseilles,,France,","
+1997-07-10,1997,0,12,3,2,0,0,6,1997 Summer European Tour,1997 Summer,Ya Mar,Ya Mar,0,Espace Julien,Marseilles,,France,->
+1997-07-10,1997,0,13,3,2,0,0,1,1997 Summer European Tour,1997 Summer,Ghost,Ghost,1,Espace Julien,Marseilles,,France,->
+1997-07-10,1997,0,14,5,2,0,0,126,1997 Summer European Tour,1997 Summer,Take Me to the River,Take Me to the River,0,Espace Julien,Marseilles,,France,
+1997-07-10,1997,0,15,6,e,0,0,2,1997 Summer European Tour,1997 Summer,Funky Bitch,Funky Bitch,0,Espace Julien,Marseilles,,France,
+1997-07-11,1997,0,1,1,1,0,0,3,1997 Summer European Tour,1997 Summer,Chalk Dust Torture,CDT,1,Doctor Music Festival,Escalarre,,Spain,","
+1997-07-11,1997,0,2,1,1,0,0,4,1997 Summer European Tour,1997 Summer,Bouncing Around the Room,Bouncin',1,Doctor Music Festival,Escalarre,,Spain,","
+1997-07-11,1997,0,3,1,1,0,0,3,1997 Summer European Tour,1997 Summer,Stash,Stash,1,Doctor Music Festival,Escalarre,,Spain,","
+1997-07-11,1997,0,4,1,1,0,0,5,1997 Summer European Tour,1997 Summer,Beauty of My Dreams,Beauty of My Dreams,0,Doctor Music Festival,Escalarre,,Spain,","
+1997-07-11,1997,0,5,2,1,0,0,11,1997 Summer European Tour,1997 Summer,Wolfman's Brother,Wolfman's,1,Doctor Music Festival,Escalarre,,Spain,>
+1997-07-11,1997,0,6,2,1,0,0,20,1997 Summer European Tour,1997 Summer,Johnny B. Goode,JBG,0,Doctor Music Festival,Escalarre,,Spain,>
+1997-07-11,1997,0,7,5,1,0,0,2,1997 Summer European Tour,1997 Summer,You Enjoy Myself,YEM,1,Doctor Music Festival,Escalarre,,Spain,
+1997-07-11,1997,0,8,6,e,0,0,4,1997 Summer European Tour,1997 Summer,Character Zero,Character Zero,1,Doctor Music Festival,Escalarre,,Spain,
+1997-07-21,1997,0,1,2,1,2,0,2,1997 Summer U.S. Tour,1997 Summer,Ghost,Ghost,1,GTE Virginia Beach Amphitheater,Virginia Beach,VA,USA,>
+1997-07-21,1997,0,2,2,1,2,0,2,1997 Summer U.S. Tour,1997 Summer,Dogs Stole Things,Dogs Stole Things,1,GTE Virginia Beach Amphitheater,Virginia Beach,VA,USA,>
+1997-07-21,1997,0,3,1,1,2,0,5,1997 Summer U.S. Tour,1997 Summer,Piper,Piper,1,GTE Virginia Beach Amphitheater,Virginia Beach,VA,USA,","
+1997-07-21,1997,0,4,1,1,2,0,3,1997 Summer U.S. Tour,1997 Summer,Dirt,Dirt,0,GTE Virginia Beach Amphitheater,Virginia Beach,VA,USA,","
+1997-07-21,1997,0,5,2,1,2,0,2,1997 Summer U.S. Tour,1997 Summer,Ginseng Sullivan,Ginseng,0,GTE Virginia Beach Amphitheater,Virginia Beach,VA,USA,>
+1997-07-21,1997,0,6,2,1,2,0,2,1997 Summer U.S. Tour,1997 Summer,Bathtub Gin,Gin,1,GTE Virginia Beach Amphitheater,Virginia Beach,VA,USA,>
+1997-07-21,1997,0,7,4,1,2,0,1,1997 Summer U.S. Tour,1997 Summer,Character Zero,Character Zero,1,GTE Virginia Beach Amphitheater,Virginia Beach,VA,USA,
+1997-07-21,1997,0,8,3,2,2,0,1,1997 Summer U.S. Tour,1997 Summer,Wolfman's Brother,Wolfman's,1,GTE Virginia Beach Amphitheater,Virginia Beach,VA,USA,->
+1997-07-21,1997,0,9,2,2,2,0,2,1997 Summer U.S. Tour,1997 Summer,Magilla,Magilla,1,GTE Virginia Beach Amphitheater,Virginia Beach,VA,USA,>
+1997-07-21,1997,0,10,1,2,2,0,7,1997 Summer U.S. Tour,1997 Summer,David Bowie,Bowie,1,GTE Virginia Beach Amphitheater,Virginia Beach,VA,USA,","
+1997-07-21,1997,0,11,1,2,2,0,2,1997 Summer U.S. Tour,1997 Summer,Wading in the Velvet Sea,Velvet Sea,1,GTE Virginia Beach Amphitheater,Virginia Beach,VA,USA,","
+1997-07-21,1997,0,12,3,2,2,0,5,1997 Summer U.S. Tour,1997 Summer,Theme From the Bottom,Theme,1,GTE Virginia Beach Amphitheater,Virginia Beach,VA,USA,->
+1997-07-21,1997,0,13,2,2,2,0,2,1997 Summer U.S. Tour,1997 Summer,Jam,Jam,0,GTE Virginia Beach Amphitheater,Virginia Beach,VA,USA,>
+1997-07-21,1997,0,14,1,2,2,0,2,1997 Summer U.S. Tour,1997 Summer,Funky Bitch,Funky Bitch,0,GTE Virginia Beach Amphitheater,Virginia Beach,VA,USA,","
+1997-07-21,1997,0,15,5,2,2,0,8,1997 Summer U.S. Tour,1997 Summer,Slave to the Traffic Light,Slave,1,GTE Virginia Beach Amphitheater,Virginia Beach,VA,USA,
+1997-07-21,1997,0,16,6,e,2,0,8,1997 Summer U.S. Tour,1997 Summer,Loving Cup,Loving Cup,0,GTE Virginia Beach Amphitheater,Virginia Beach,VA,USA,
+1997-07-22,1997,0,1,3,1,0,0,5,1997 Summer U.S. Tour,1997 Summer,Runaway Jim,Runaway Jim,1,Walnut Creek Amphitheater,Raleigh,NC,USA,->
+1997-07-22,1997,0,2,1,1,0,0,4,1997 Summer U.S. Tour,1997 Summer,My Soul,My Soul,0,Walnut Creek Amphitheater,Raleigh,NC,USA,","
+1997-07-22,1997,0,3,1,1,0,0,8,1997 Summer U.S. Tour,1997 Summer,Water in the Sky,Water in the Sky,1,Walnut Creek Amphitheater,Raleigh,NC,USA,","
+1997-07-22,1997,0,4,1,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Stash,Stash,1,Walnut Creek Amphitheater,Raleigh,NC,USA,","
+1997-07-22,1997,0,5,1,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Bouncing Around the Room,Bouncin',1,Walnut Creek Amphitheater,Raleigh,NC,USA,","
+1997-07-22,1997,0,6,1,1,0,0,8,1997 Summer U.S. Tour,1997 Summer,Vultures,Vultures,1,Walnut Creek Amphitheater,Raleigh,NC,USA,","
+1997-07-22,1997,0,7,1,1,0,0,16,1997 Summer U.S. Tour,1997 Summer,Bye Bye Foot,Bye Bye Foot,1,Walnut Creek Amphitheater,Raleigh,NC,USA,","
+1997-07-22,1997,0,8,4,1,0,0,4,1997 Summer U.S. Tour,1997 Summer,Taste,Taste,1,Walnut Creek Amphitheater,Raleigh,NC,USA,
+1997-07-22,1997,0,9,3,2,0,0,4,1997 Summer U.S. Tour,1997 Summer,Down with Disease,DwD,1,Walnut Creek Amphitheater,Raleigh,NC,USA,->
+1997-07-22,1997,0,10,2,2,0,0,8,1997 Summer U.S. Tour,1997 Summer,Mike's Song,Mike's,1,Walnut Creek Amphitheater,Raleigh,NC,USA,>
+1997-07-22,1997,0,11,3,2,0,0,8,1997 Summer U.S. Tour,1997 Summer,Simple,Simple,1,Walnut Creek Amphitheater,Raleigh,NC,USA,->
+1997-07-22,1997,0,12,2,2,0,0,83,1997 Summer U.S. Tour,1997 Summer,I Am Hydrogen,Hydrogen,1,Walnut Creek Amphitheater,Raleigh,NC,USA,>
+1997-07-22,1997,0,13,1,2,0,0,8,1997 Summer U.S. Tour,1997 Summer,Weekapaug Groove,Weekapaug,1,Walnut Creek Amphitheater,Raleigh,NC,USA,","
+1997-07-22,1997,0,14,5,2,0,0,4,1997 Summer U.S. Tour,1997 Summer,Hello My Baby,Hello My Baby,0,Walnut Creek Amphitheater,Raleigh,NC,USA,
+1997-07-22,1997,0,15,2,e,0,0,9,1997 Summer U.S. Tour,1997 Summer,When the Circus Comes,Circus,0,Walnut Creek Amphitheater,Raleigh,NC,USA,>
+1997-07-22,1997,0,16,6,e,0,0,4,1997 Summer U.S. Tour,1997 Summer,Harry Hood,Hood,1,Walnut Creek Amphitheater,Raleigh,NC,USA,
+1997-07-23,1997,0,1,1,1,0,0,4,1997 Summer U.S. Tour,1997 Summer,Julius,Julius,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
+1997-07-23,1997,0,2,1,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Dirt,Dirt,0,Lakewood Amphitheatre,Atlanta,GA,USA,","
+1997-07-23,1997,0,3,2,1,0,0,14,1997 Summer U.S. Tour,1997 Summer,NICU,NICU,1,Lakewood Amphitheatre,Atlanta,GA,USA,>
+1997-07-23,1997,0,4,2,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Dogs Stole Things,Dogs Stole Things,1,Lakewood Amphitheatre,Atlanta,GA,USA,>
+1997-07-23,1997,0,5,1,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Ginseng Sullivan,Ginseng,0,Lakewood Amphitheatre,Atlanta,GA,USA,","
+1997-07-23,1997,0,6,1,1,0,0,1,1997 Summer U.S. Tour,1997 Summer,Water in the Sky,Water in the Sky,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
+1997-07-23,1997,0,7,1,1,0,0,4,1997 Summer U.S. Tour,1997 Summer,Limb By Limb,LxL,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
+1997-07-23,1997,0,8,1,1,0,0,5,1997 Summer U.S. Tour,1997 Summer,Split Open and Melt,SOAMelt,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
+1997-07-23,1997,0,9,1,1,0,0,8,1997 Summer U.S. Tour,1997 Summer,Billy Breathes,Billy Breathes,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
+1997-07-23,1997,0,10,4,1,0,0,24,1997 Summer U.S. Tour,1997 Summer,Possum,Possum,1,Lakewood Amphitheatre,Atlanta,GA,USA,
+1997-07-23,1997,0,11,1,2,0,0,5,1997 Summer U.S. Tour,1997 Summer,Punch You in the Eye,PYITE,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
+1997-07-23,1997,0,12,2,2,0,0,2,1997 Summer U.S. Tour,1997 Summer,Ghost,Ghost,1,Lakewood Amphitheatre,Atlanta,GA,USA,>
+1997-07-23,1997,0,13,1,2,0,0,7,1997 Summer U.S. Tour,1997 Summer,Sample in a Jar,Sample,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
+1997-07-23,1997,0,14,3,2,0,0,3,1997 Summer U.S. Tour,1997 Summer,You Enjoy Myself,YEM,1,Lakewood Amphitheatre,Atlanta,GA,USA,->
+1997-07-23,1997,0,15,2,2,1,0,662,1997 Summer U.S. Tour,1997 Summer,Rocky Mountain Way,Rocky Mountain Way,0,Lakewood Amphitheatre,Atlanta,GA,USA,>
+1997-07-23,1997,0,16,5,2,0,0,3,1997 Summer U.S. Tour,1997 Summer,Chalk Dust Torture,CDT,1,Lakewood Amphitheatre,Atlanta,GA,USA,
+1997-07-23,1997,0,17,6,e,0,0,25,1997 Summer U.S. Tour,1997 Summer,Frankenstein,Frankenstein,0,Lakewood Amphitheatre,Atlanta,GA,USA,
+1997-07-25,1997,0,1,1,1,0,0,4,1997 Summer U.S. Tour,1997 Summer,Beauty of My Dreams,Beauty of My Dreams,0,Starplex Amphitheatre,Dallas,TX,USA,","
+1997-07-25,1997,0,2,2,1,0,0,3,1997 Summer U.S. Tour,1997 Summer,Wolfman's Brother,Wolfman's,1,Starplex Amphitheatre,Dallas,TX,USA,>
+1997-07-25,1997,0,3,1,1,0,0,10,1997 Summer U.S. Tour,1997 Summer,Maze,Maze,1,Starplex Amphitheatre,Dallas,TX,USA,","
+1997-07-25,1997,0,4,1,1,0,0,1,1997 Summer U.S. Tour,1997 Summer,Water in the Sky,Water in the Sky,1,Starplex Amphitheatre,Dallas,TX,USA,","
+1997-07-25,1997,0,5,3,1,0,0,3,1997 Summer U.S. Tour,1997 Summer,Bathtub Gin,Gin,1,Starplex Amphitheatre,Dallas,TX,USA,->
+1997-07-25,1997,0,6,3,1,0,0,14,1997 Summer U.S. Tour,1997 Summer,Makisupa Policeman,Makisupa,1,Starplex Amphitheatre,Dallas,TX,USA,->
+1997-07-25,1997,0,7,4,1,0,0,14,1997 Summer U.S. Tour,1997 Summer,AC/DC Bag,Bag,1,Starplex Amphitheatre,Dallas,TX,USA,
+1997-07-25,1997,0,8,3,2,0,0,1,1997 Summer U.S. Tour,1997 Summer,Chalk Dust Torture,CDT,1,Starplex Amphitheatre,Dallas,TX,USA,->
+1997-07-25,1997,0,9,3,2,0,0,2,1997 Summer U.S. Tour,1997 Summer,Taste,Taste,1,Starplex Amphitheatre,Dallas,TX,USA,->
+1997-07-25,1997,0,10,3,2,0,0,5,1997 Summer U.S. Tour,1997 Summer,Ya Mar,Ya Mar,0,Starplex Amphitheatre,Dallas,TX,USA,->
+1997-07-25,1997,0,11,3,2,0,0,231,1997 Summer U.S. Tour,1997 Summer,Drums,Drums,0,Starplex Amphitheatre,Dallas,TX,USA,->
+1997-07-25,1997,0,12,2,2,0,0,1,1997 Summer U.S. Tour,1997 Summer,Ghost,Ghost,1,Starplex Amphitheatre,Dallas,TX,USA,>
+1997-07-25,1997,0,13,5,2,0,0,3,1997 Summer U.S. Tour,1997 Summer,Character Zero,Character Zero,1,Starplex Amphitheatre,Dallas,TX,USA,
+1997-07-25,1997,0,14,6,e,0,0,3,1997 Summer U.S. Tour,1997 Summer,Theme From the Bottom,Theme,1,Starplex Amphitheatre,Dallas,TX,USA,
+1997-07-26,1997,0,1,1,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Limb By Limb,LxL,1,South Park Meadows,Austin,TX,USA,","
+1997-07-26,1997,0,2,2,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Dogs Stole Things,Dogs Stole Things,1,South Park Meadows,Austin,TX,USA,>
+1997-07-26,1997,0,3,1,1,0,0,7,1997 Summer U.S. Tour,1997 Summer,Poor Heart,Poor Heart,1,South Park Meadows,Austin,TX,USA,","
+1997-07-26,1997,0,4,1,1,0,0,3,1997 Summer U.S. Tour,1997 Summer,Stash,Stash,1,South Park Meadows,Austin,TX,USA,","
+1997-07-26,1997,0,5,1,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Billy Breathes,Billy Breathes,1,South Park Meadows,Austin,TX,USA,","
+1997-07-26,1997,0,6,1,1,0,0,7,1997 Summer U.S. Tour,1997 Summer,Cars Trucks Buses,CTB,1,South Park Meadows,Austin,TX,USA,","
+1997-07-26,1997,0,7,1,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Dirt,Dirt,0,South Park Meadows,Austin,TX,USA,","
+1997-07-26,1997,0,8,3,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,You Enjoy Myself,YEM,1,South Park Meadows,Austin,TX,USA,->
+1997-07-26,1997,0,9,4,1,0,0,23,1997 Summer U.S. Tour,1997 Summer,Izabella,Izabella,0,South Park Meadows,Austin,TX,USA,
+1997-07-26,1997,0,10,2,2,0,0,12,1997 Summer U.S. Tour,1997 Summer,Timber (Jerry the Mule),Timber Ho,0,South Park Meadows,Austin,TX,USA,>
+1997-07-26,1997,0,11,1,2,0,0,4,1997 Summer U.S. Tour,1997 Summer,David Bowie,Bowie,1,South Park Meadows,Austin,TX,USA,","
+1997-07-26,1997,0,12,3,2,0,0,3,1997 Summer U.S. Tour,1997 Summer,Harry Hood,Hood,1,South Park Meadows,Austin,TX,USA,->
+1997-07-26,1997,0,13,3,2,1,0,1140,1997 Summer U.S. Tour,1997 Summer,Blister in the Sun,Blister in the Sun,0,South Park Meadows,Austin,TX,USA,->
+1997-07-26,1997,0,14,3,2,0,0,0,1997 Summer U.S. Tour,1997 Summer,Harry Hood,Hood,1,South Park Meadows,Austin,TX,USA,->
+1997-07-26,1997,0,15,1,2,0,0,8,1997 Summer U.S. Tour,1997 Summer,Free,Free,1,South Park Meadows,Austin,TX,USA,","
+1997-07-26,1997,0,16,2,2,0,0,8,1997 Summer U.S. Tour,1997 Summer,Waste,Waste,1,South Park Meadows,Austin,TX,USA,>
+1997-07-26,1997,0,17,5,2,0,0,5,1997 Summer U.S. Tour,1997 Summer,Johnny B. Goode,JBG,0,South Park Meadows,Austin,TX,USA,
+1997-07-26,1997,0,18,1,e,0,0,3,1997 Summer U.S. Tour,1997 Summer,Bouncing Around the Room,Bouncin',1,South Park Meadows,Austin,TX,USA,","
+1997-07-26,1997,0,19,6,e,0,0,10,1997 Summer U.S. Tour,1997 Summer,Cavern,Cavern,1,South Park Meadows,Austin,TX,USA,
+1997-07-29,1997,0,1,1,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Theme From the Bottom,Theme,1,Desert Sky Pavilion,Phoenix,AZ,USA,","
+1997-07-29,1997,0,2,1,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Beauty of My Dreams,Beauty of My Dreams,0,Desert Sky Pavilion,Phoenix,AZ,USA,","
+1997-07-29,1997,0,3,1,1,0,0,34,1997 Summer U.S. Tour,1997 Summer,Gumbo,Gumbo,1,Desert Sky Pavilion,Phoenix,AZ,USA,","
+1997-07-29,1997,0,4,1,1,0,0,1,1997 Summer U.S. Tour,1997 Summer,Dirt,Dirt,0,Desert Sky Pavilion,Phoenix,AZ,USA,","
+1997-07-29,1997,0,5,1,1,0,0,11,1997 Summer U.S. Tour,1997 Summer,Sparkle,Sparkle,1,Desert Sky Pavilion,Phoenix,AZ,USA,","
+1997-07-29,1997,0,6,2,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Ghost,Ghost,1,Desert Sky Pavilion,Phoenix,AZ,USA,>
+1997-07-29,1997,0,7,2,1,0,0,19,1997 Summer U.S. Tour,1997 Summer,Swept Away,Swept Away,1,Desert Sky Pavilion,Phoenix,AZ,USA,>
+1997-07-29,1997,0,8,2,1,0,0,19,1997 Summer U.S. Tour,1997 Summer,Steep,Steep,1,Desert Sky Pavilion,Phoenix,AZ,USA,>
+1997-07-29,1997,0,9,4,1,0,0,5,1997 Summer U.S. Tour,1997 Summer,Loving Cup,Loving Cup,0,Desert Sky Pavilion,Phoenix,AZ,USA,
+1997-07-29,1997,0,10,1,2,0,0,7,1997 Summer U.S. Tour,1997 Summer,Olivia's Pool,Olivia's Pool,1,Desert Sky Pavilion,Phoenix,AZ,USA,","
+1997-07-29,1997,0,11,2,2,0,0,16,1997 Summer U.S. Tour,1997 Summer,Run Like an Antelope,Antelope,1,Desert Sky Pavilion,Phoenix,AZ,USA,>
+1997-07-29,1997,0,12,1,2,0,0,5,1997 Summer U.S. Tour,1997 Summer,Wading in the Velvet Sea,Velvet Sea,1,Desert Sky Pavilion,Phoenix,AZ,USA,","
+1997-07-29,1997,0,13,3,2,0,0,10,1997 Summer U.S. Tour,1997 Summer,Twist,Twist,1,Desert Sky Pavilion,Phoenix,AZ,USA,->
+1997-07-29,1997,0,14,1,2,0,0,2,1997 Summer U.S. Tour,1997 Summer,Taste,Taste,1,Desert Sky Pavilion,Phoenix,AZ,USA,","
+1997-07-29,1997,0,15,2,2,0,0,3,1997 Summer U.S. Tour,1997 Summer,Sample in a Jar,Sample,1,Desert Sky Pavilion,Phoenix,AZ,USA,>
+1997-07-29,1997,0,16,1,2,0,0,9,1997 Summer U.S. Tour,1997 Summer,Rocky Top,Rocky Top,0,Desert Sky Pavilion,Phoenix,AZ,USA,","
+1997-07-29,1997,0,17,5,2,0,0,10,1997 Summer U.S. Tour,1997 Summer,The Squirming Coil,Coil,1,Desert Sky Pavilion,Phoenix,AZ,USA,
+1997-07-29,1997,0,18,6,e,0,0,3,1997 Summer U.S. Tour,1997 Summer,Possum,Possum,1,Desert Sky Pavilion,Phoenix,AZ,USA,
+1997-07-30,1997,0,1,2,1,2,0,4,1997 Summer U.S. Tour,1997 Summer,NICU,NICU,1,Ventura County Fairgrounds,Ventura,CA,USA,>
+1997-07-30,1997,0,2,2,1,2,0,3,1997 Summer U.S. Tour,1997 Summer,Wolfman's Brother,Wolfman's,1,Ventura County Fairgrounds,Ventura,CA,USA,>
+1997-07-30,1997,0,3,1,1,2,0,3,1997 Summer U.S. Tour,1997 Summer,Chalk Dust Torture,CDT,1,Ventura County Fairgrounds,Ventura,CA,USA,","
+1997-07-30,1997,0,4,1,1,2,0,3,1997 Summer U.S. Tour,1997 Summer,Water in the Sky,Water in the Sky,1,Ventura County Fairgrounds,Ventura,CA,USA,","
+1997-07-30,1997,0,5,1,1,2,0,2,1997 Summer U.S. Tour,1997 Summer,Stash,Stash,1,Ventura County Fairgrounds,Ventura,CA,USA,","
+1997-07-30,1997,0,6,2,1,2,0,28,1997 Summer U.S. Tour,1997 Summer,Weigh,Weigh,1,Ventura County Fairgrounds,Ventura,CA,USA,>
+1997-07-30,1997,0,7,2,1,2,0,6,1997 Summer U.S. Tour,1997 Summer,Piper,Piper,1,Ventura County Fairgrounds,Ventura,CA,USA,>
+1997-07-30,1997,0,8,1,1,2,0,2,1997 Summer U.S. Tour,1997 Summer,Cars Trucks Buses,CTB,1,Ventura County Fairgrounds,Ventura,CA,USA,","
+1997-07-30,1997,0,9,4,1,2,0,3,1997 Summer U.S. Tour,1997 Summer,Character Zero,Character Zero,1,Ventura County Fairgrounds,Ventura,CA,USA,
+1997-07-30,1997,0,10,2,2,2,0,4,1997 Summer U.S. Tour,1997 Summer,Punch You in the Eye,PYITE,1,Ventura County Fairgrounds,Ventura,CA,USA,>
+1997-07-30,1997,0,11,2,2,2,0,2,1997 Summer U.S. Tour,1997 Summer,Free,Free,1,Ventura County Fairgrounds,Ventura,CA,USA,>
+1997-07-30,1997,0,12,3,2,2,0,2,1997 Summer U.S. Tour,1997 Summer,David Bowie,Bowie,1,Ventura County Fairgrounds,Ventura,CA,USA,->
+1997-07-30,1997,0,13,3,2,2,0,14,1997 Summer U.S. Tour,1997 Summer,Cities,Cities,0,Ventura County Fairgrounds,Ventura,CA,USA,->
+1997-07-30,1997,0,14,1,2,2,0,0,1997 Summer U.S. Tour,1997 Summer,David Bowie,Bowie,1,Ventura County Fairgrounds,Ventura,CA,USA,","
+1997-07-30,1997,0,15,1,2,2,0,2,1997 Summer U.S. Tour,1997 Summer,Bouncing Around the Room,Bouncin',1,Ventura County Fairgrounds,Ventura,CA,USA,","
+1997-07-30,1997,0,16,1,2,2,0,11,1997 Summer U.S. Tour,1997 Summer,Uncle Pen,Uncle Pen,0,Ventura County Fairgrounds,Ventura,CA,USA,","
+1997-07-30,1997,0,17,2,2,2,0,9,1997 Summer U.S. Tour,1997 Summer,Prince Caspian,Caspian,1,Ventura County Fairgrounds,Ventura,CA,USA,>
+1997-07-30,1997,0,18,5,2,2,0,47,1997 Summer U.S. Tour,1997 Summer,Fire,Fire,0,Ventura County Fairgrounds,Ventura,CA,USA,
+1997-07-30,1997,0,19,6,e,2,0,5,1997 Summer U.S. Tour,1997 Summer,My Soul,My Soul,0,Ventura County Fairgrounds,Ventura,CA,USA,
+1997-07-31,1997,0,1,2,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Ghost,Ghost,1,Shoreline Amphitheatre,Mountain View,CA,USA,>
+1997-07-31,1997,0,2,2,1,0,0,4,1997 Summer U.S. Tour,1997 Summer,Ya Mar,Ya Mar,0,Shoreline Amphitheatre,Mountain View,CA,USA,>
+1997-07-31,1997,0,3,1,1,0,0,3,1997 Summer U.S. Tour,1997 Summer,Dogs Stole Things,Dogs Stole Things,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+1997-07-31,1997,0,4,1,1,0,0,3,1997 Summer U.S. Tour,1997 Summer,Limb By Limb,LxL,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+1997-07-31,1997,0,5,2,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Dirt,Dirt,0,Shoreline Amphitheatre,Mountain View,CA,USA,>
+1997-07-31,1997,0,6,1,1,0,0,4,1997 Summer U.S. Tour,1997 Summer,Maze,Maze,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+1997-07-31,1997,0,7,1,1,0,0,50,1997 Summer U.S. Tour,1997 Summer,Glide,Glide,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+1997-07-31,1997,0,8,1,1,0,0,15,1997 Summer U.S. Tour,1997 Summer,Saw It Again,Saw It Again,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+1997-07-31,1997,0,9,4,1,0,0,3,1997 Summer U.S. Tour,1997 Summer,You Enjoy Myself,YEM,1,Shoreline Amphitheatre,Mountain View,CA,USA,
+1997-07-31,1997,0,10,3,2,0,0,6,1997 Summer U.S. Tour,1997 Summer,Runaway Jim,Runaway Jim,1,Shoreline Amphitheatre,Mountain View,CA,USA,->
+1997-07-31,1997,0,11,1,2,0,0,6,1997 Summer U.S. Tour,1997 Summer,When the Circus Comes,Circus,0,Shoreline Amphitheatre,Mountain View,CA,USA,","
+1997-07-31,1997,0,12,1,2,0,0,6,1997 Summer U.S. Tour,1997 Summer,Vultures,Vultures,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+1997-07-31,1997,0,13,2,2,0,0,18,1997 Summer U.S. Tour,1997 Summer,McGrupp and the Watchful Hosemasters,McGrupp,1,Shoreline Amphitheatre,Mountain View,CA,USA,>
+1997-07-31,1997,0,14,3,2,0,0,6,1997 Summer U.S. Tour,1997 Summer,Mike's Song,Mike's,1,Shoreline Amphitheatre,Mountain View,CA,USA,->
+1997-07-31,1997,0,15,2,2,0,0,6,1997 Summer U.S. Tour,1997 Summer,I Am Hydrogen,Hydrogen,1,Shoreline Amphitheatre,Mountain View,CA,USA,>
+1997-07-31,1997,0,16,5,2,0,0,6,1997 Summer U.S. Tour,1997 Summer,Weekapaug Groove,Weekapaug,1,Shoreline Amphitheatre,Mountain View,CA,USA,
+1997-07-31,1997,0,17,6,e,0,0,27,1997 Summer U.S. Tour,1997 Summer,Cinnamon Girl,Cinnamon Girl,0,Shoreline Amphitheatre,Mountain View,CA,USA,
+1997-08-02,1997,0,1,1,1,0,0,3,1997 Summer U.S. Tour,1997 Summer,Theme From the Bottom,Theme,1,Gorge Amphitheatre,George,WA,USA,","
+1997-08-02,1997,0,2,1,1,0,0,6,1997 Summer U.S. Tour,1997 Summer,Ginseng Sullivan,Ginseng,0,Gorge Amphitheatre,George,WA,USA,","
+1997-08-02,1997,0,3,1,1,0,0,1,1997 Summer U.S. Tour,1997 Summer,Ghost,Ghost,1,Gorge Amphitheatre,George,WA,USA,","
+1997-08-02,1997,0,4,1,1,0,0,1,1997 Summer U.S. Tour,1997 Summer,Dogs Stole Things,Dogs Stole Things,1,Gorge Amphitheatre,George,WA,USA,","
+1997-08-02,1997,0,5,1,1,0,0,14,1997 Summer U.S. Tour,1997 Summer,Divided Sky,Divided,1,Gorge Amphitheatre,George,WA,USA,","
+1997-08-02,1997,0,6,1,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Wolfman's Brother,Wolfman's,1,Gorge Amphitheatre,George,WA,USA,","
+1997-08-02,1997,0,7,1,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Water in the Sky,Water in the Sky,1,Gorge Amphitheatre,George,WA,USA,","
+1997-08-02,1997,0,8,4,1,0,0,6,1997 Summer U.S. Tour,1997 Summer,Split Open and Melt,SOAMelt,1,Gorge Amphitheatre,George,WA,USA,
+1997-08-02,1997,0,9,3,2,0,0,7,1997 Summer U.S. Tour,1997 Summer,Down with Disease,DwD,1,Gorge Amphitheatre,George,WA,USA,->
+1997-08-02,1997,0,10,3,2,0,0,37,1997 Summer U.S. Tour,1997 Summer,Tweezer,Tweezer,1,Gorge Amphitheatre,George,WA,USA,->
+1997-08-02,1997,0,11,2,2,0,0,4,1997 Summer U.S. Tour,1997 Summer,Johnny B. Goode,JBG,0,Gorge Amphitheatre,George,WA,USA,>
+1997-08-02,1997,0,12,1,2,0,0,3,1997 Summer U.S. Tour,1997 Summer,Sparkle,Sparkle,1,Gorge Amphitheatre,George,WA,USA,","
+1997-08-02,1997,0,13,1,2,0,0,3,1997 Summer U.S. Tour,1997 Summer,Wading in the Velvet Sea,Velvet Sea,1,Gorge Amphitheatre,George,WA,USA,","
+1997-08-02,1997,0,14,2,2,0,0,3,1997 Summer U.S. Tour,1997 Summer,Loving Cup,Loving Cup,0,Gorge Amphitheatre,George,WA,USA,>
+1997-08-02,1997,0,15,5,2,0,0,29,1997 Summer U.S. Tour,1997 Summer,Tweezer Reprise,Tweeprise,1,Gorge Amphitheatre,George,WA,USA,
+1997-08-02,1997,0,16,6,e,0,0,4,1997 Summer U.S. Tour,1997 Summer,Harry Hood,Hood,1,Gorge Amphitheatre,George,WA,USA,
+1997-08-03,1997,0,1,2,1,0,0,6,1997 Summer U.S. Tour,1997 Summer,Bathtub Gin,Gin,1,Gorge Amphitheatre,George,WA,USA,>
+1997-08-03,1997,0,2,1,1,0,0,37,1997 Summer U.S. Tour,1997 Summer,Foam,Foam,1,Gorge Amphitheatre,George,WA,USA,","
+1997-08-03,1997,0,3,2,1,0,0,23,1997 Summer U.S. Tour,1997 Summer,Samson Variation,Samson Variation,0,Gorge Amphitheatre,George,WA,USA,>
+1997-08-03,1997,0,4,2,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Dirt,Dirt,0,Gorge Amphitheatre,George,WA,USA,>
+1997-08-03,1997,0,5,1,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Vultures,Vultures,1,Gorge Amphitheatre,George,WA,USA,","
+1997-08-03,1997,0,6,1,1,0,0,61,1997 Summer U.S. Tour,1997 Summer,My Mind's Got a Mind of its Own,MMGAMOIO,0,Gorge Amphitheatre,George,WA,USA,","
+1997-08-03,1997,0,7,3,1,0,0,4,1997 Summer U.S. Tour,1997 Summer,Twist,Twist,1,Gorge Amphitheatre,George,WA,USA,->
+1997-08-03,1997,0,8,1,1,0,0,25,1997 Summer U.S. Tour,1997 Summer,Jesus Just Left Chicago,JJLC,0,Gorge Amphitheatre,George,WA,USA,","
+1997-08-03,1997,0,9,1,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Limb By Limb,LxL,1,Gorge Amphitheatre,George,WA,USA,","
+1997-08-03,1997,0,10,4,1,0,0,3,1997 Summer U.S. Tour,1997 Summer,Character Zero,Character Zero,1,Gorge Amphitheatre,George,WA,USA,
+1997-08-03,1997,0,11,2,2,0,0,7,1997 Summer U.S. Tour,1997 Summer,Julius,Julius,1,Gorge Amphitheatre,George,WA,USA,>
+1997-08-03,1997,0,12,2,2,0,0,8,1997 Summer U.S. Tour,1997 Summer,Simple,Simple,1,Gorge Amphitheatre,George,WA,USA,>
+1997-08-03,1997,0,13,1,2,0,0,35,1997 Summer U.S. Tour,1997 Summer,Fluffhead,Fluffhead,1,Gorge Amphitheatre,George,WA,USA,","
+1997-08-03,1997,0,14,2,2,0,0,45,1997 Summer U.S. Tour,1997 Summer,Lifeboy,Lifeboy,1,Gorge Amphitheatre,George,WA,USA,>
+1997-08-03,1997,0,15,1,2,0,0,4,1997 Summer U.S. Tour,1997 Summer,Taste,Taste,1,Gorge Amphitheatre,George,WA,USA,","
+1997-08-03,1997,0,16,1,2,0,0,8,1997 Summer U.S. Tour,1997 Summer,Hello My Baby,Hello My Baby,0,Gorge Amphitheatre,George,WA,USA,","
+1997-08-03,1997,0,17,5,2,0,0,7,1997 Summer U.S. Tour,1997 Summer,Frankenstein,Frankenstein,0,Gorge Amphitheatre,George,WA,USA,
+1997-08-03,1997,0,18,1,e,0,0,3,1997 Summer U.S. Tour,1997 Summer,Bouncing Around the Room,Bouncin',1,Gorge Amphitheatre,George,WA,USA,","
+1997-08-03,1997,0,19,6,e,0,0,9,1997 Summer U.S. Tour,1997 Summer,Slave to the Traffic Light,Slave,1,Gorge Amphitheatre,George,WA,USA,
+1997-08-06,1997,0,1,2,1,0,0,4,1997 Summer U.S. Tour,1997 Summer,NICU,NICU,1,Riverport Amphitheater,Maryland Heights,MO,USA,>
+1997-08-06,1997,0,2,1,1,0,0,4,1997 Summer U.S. Tour,1997 Summer,Stash,Stash,1,Riverport Amphitheater,Maryland Heights,MO,USA,","
+1997-08-06,1997,0,3,1,1,0,0,5,1997 Summer U.S. Tour,1997 Summer,Beauty of My Dreams,Beauty of My Dreams,0,Riverport Amphitheater,Maryland Heights,MO,USA,","
+1997-08-06,1997,0,4,3,1,0,0,1,1997 Summer U.S. Tour,1997 Summer,Twist,Twist,1,Riverport Amphitheater,Maryland Heights,MO,USA,->
+1997-08-06,1997,0,5,2,1,0,0,12,1997 Summer U.S. Tour,1997 Summer,Also Sprach Zarathustra,2001,0,Riverport Amphitheater,Maryland Heights,MO,USA,>
+1997-08-06,1997,0,6,1,1,0,0,7,1997 Summer U.S. Tour,1997 Summer,AC/DC Bag,Bag,1,Riverport Amphitheater,Maryland Heights,MO,USA,","
+1997-08-06,1997,0,7,1,1,0,0,3,1997 Summer U.S. Tour,1997 Summer,Ya Mar,Ya Mar,0,Riverport Amphitheater,Maryland Heights,MO,USA,","
+1997-08-06,1997,0,8,4,1,0,0,3,1997 Summer U.S. Tour,1997 Summer,You Enjoy Myself,YEM,1,Riverport Amphitheater,Maryland Heights,MO,USA,
+1997-08-06,1997,0,9,3,2,0,0,3,1997 Summer U.S. Tour,1997 Summer,Runaway Jim,Runaway Jim,1,Riverport Amphitheater,Maryland Heights,MO,USA,->
+1997-08-06,1997,0,10,1,2,0,0,4,1997 Summer U.S. Tour,1997 Summer,My Soul,My Soul,0,Riverport Amphitheater,Maryland Heights,MO,USA,","
+1997-08-06,1997,0,11,1,2,0,0,2,1997 Summer U.S. Tour,1997 Summer,Ghost,Ghost,1,Riverport Amphitheater,Maryland Heights,MO,USA,","
+1997-08-06,1997,0,12,2,2,0,0,4,1997 Summer U.S. Tour,1997 Summer,Prince Caspian,Caspian,1,Riverport Amphitheater,Maryland Heights,MO,USA,>
+1997-08-06,1997,0,13,2,2,0,0,4,1997 Summer U.S. Tour,1997 Summer,Cars Trucks Buses,CTB,1,Riverport Amphitheater,Maryland Heights,MO,USA,>
+1997-08-06,1997,0,14,1,2,0,0,5,1997 Summer U.S. Tour,1997 Summer,Sample in a Jar,Sample,1,Riverport Amphitheater,Maryland Heights,MO,USA,","
+1997-08-06,1997,0,15,5,2,0,0,5,1997 Summer U.S. Tour,1997 Summer,Run Like an Antelope,Antelope,1,Riverport Amphitheater,Maryland Heights,MO,USA,
+1997-08-06,1997,0,16,6,e,0,0,1,1997 Summer U.S. Tour,1997 Summer,Julius,Julius,1,Riverport Amphitheater,Maryland Heights,MO,USA,
+1997-08-08,1997,0,1,1,1,0,0,1,1997 Summer U.S. Tour,1997 Summer,Cars Trucks Buses,CTB,1,New World Music Theatre,Tinley Park,IL,USA,","
+1997-08-08,1997,0,2,2,1,0,0,6,1997 Summer U.S. Tour,1997 Summer,Gumbo,Gumbo,1,New World Music Theatre,Tinley Park,IL,USA,>
+1997-08-08,1997,0,3,1,1,0,0,39,1997 Summer U.S. Tour,1997 Summer,The Lizards,Lizards,1,New World Music Theatre,Tinley Park,IL,USA,","
+1997-08-08,1997,0,4,2,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Dirt,Dirt,0,New World Music Theatre,Tinley Park,IL,USA,>
+1997-08-08,1997,0,5,2,1,0,0,44,1997 Summer U.S. Tour,1997 Summer,It's Ice,It's Ice,1,New World Music Theatre,Tinley Park,IL,USA,>
+1997-08-08,1997,0,6,1,1,0,0,3,1997 Summer U.S. Tour,1997 Summer,Water in the Sky,Water in the Sky,1,New World Music Theatre,Tinley Park,IL,USA,","
+1997-08-08,1997,0,7,4,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Character Zero,Character Zero,1,New World Music Theatre,Tinley Park,IL,USA,
+1997-08-08,1997,0,8,3,2,0,0,3,1997 Summer U.S. Tour,1997 Summer,Wolfman's Brother,Wolfman's,1,New World Music Theatre,Tinley Park,IL,USA,->
+1997-08-08,1997,0,9,1,2,0,0,5,1997 Summer U.S. Tour,1997 Summer,Free,Free,1,New World Music Theatre,Tinley Park,IL,USA,","
+1997-08-08,1997,0,10,1,2,0,0,2,1997 Summer U.S. Tour,1997 Summer,Limb By Limb,LxL,1,New World Music Theatre,Tinley Park,IL,USA,","
+1997-08-08,1997,0,11,2,2,0,0,3,1997 Summer U.S. Tour,1997 Summer,Loving Cup,Loving Cup,0,New World Music Theatre,Tinley Park,IL,USA,>
+1997-08-08,1997,0,12,2,2,0,0,1,1997 Summer U.S. Tour,1997 Summer,Prince Caspian,Caspian,1,New World Music Theatre,Tinley Park,IL,USA,>
+1997-08-08,1997,0,13,5,2,0,0,5,1997 Summer U.S. Tour,1997 Summer,Chalk Dust Torture,CDT,1,New World Music Theatre,Tinley Park,IL,USA,
+1997-08-08,1997,0,14,1,e,0,0,383,1997 Summer U.S. Tour,1997 Summer,Hoochie Coochie Man,Hoochie Coochie Man,0,New World Music Theatre,Tinley Park,IL,USA,","
+1997-08-08,1997,0,15,6,e,0,0,1147,1997 Summer U.S. Tour,1997 Summer,Messin' with The Kid,Messin' with The Kid,1,New World Music Theatre,Tinley Park,IL,USA,
+1997-08-09,1997,0,1,1,1,0,0,4,1997 Summer U.S. Tour,1997 Summer,Theme From the Bottom,Theme,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+1997-08-09,1997,0,2,1,1,0,0,6,1997 Summer U.S. Tour,1997 Summer,Punch You in the Eye,PYITE,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+1997-08-09,1997,0,3,3,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Ghost,Ghost,1,Alpine Valley Music Theatre,East Troy,WI,USA,->
+1997-08-09,1997,0,4,1,1,0,0,3,1997 Summer U.S. Tour,1997 Summer,Taste,Taste,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+1997-08-09,1997,0,5,1,1,0,0,4,1997 Summer U.S. Tour,1997 Summer,Dogs Stole Things,Dogs Stole Things,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+1997-08-09,1997,0,6,1,1,0,0,20,1997 Summer U.S. Tour,1997 Summer,Reba,Reba,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+1997-08-09,1997,0,7,2,1,0,0,34,1997 Summer U.S. Tour,1997 Summer,Lawn Boy,Lawn Boy,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+1997-08-09,1997,0,8,4,1,0,0,127,1997 Summer U.S. Tour,1997 Summer,Crossroads,Crossroads,0,Alpine Valley Music Theatre,East Troy,WI,USA,
+1997-08-09,1997,0,9,2,2,0,0,22,1997 Summer U.S. Tour,1997 Summer,Wilson,Wilson,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+1997-08-09,1997,0,10,1,2,0,0,3,1997 Summer U.S. Tour,1997 Summer,Foam,Foam,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+1997-08-09,1997,0,11,3,2,0,0,5,1997 Summer U.S. Tour,1997 Summer,Mike's Song,Mike's,1,Alpine Valley Music Theatre,East Troy,WI,USA,->
+1997-08-09,1997,0,12,3,2,0,0,20,1997 Summer U.S. Tour,1997 Summer,Ain't Love Funny,Ain't Love Funny,0,Alpine Valley Music Theatre,East Troy,WI,USA,->
+1997-08-09,1997,0,13,3,2,0,0,3,1997 Summer U.S. Tour,1997 Summer,Simple,Simple,1,Alpine Valley Music Theatre,East Troy,WI,USA,->
+1997-08-09,1997,0,14,2,2,0,0,7,1997 Summer U.S. Tour,1997 Summer,Swept Away,Swept Away,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+1997-08-09,1997,0,15,2,2,0,0,7,1997 Summer U.S. Tour,1997 Summer,Steep,Steep,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+1997-08-09,1997,0,16,1,2,0,0,16,1997 Summer U.S. Tour,1997 Summer,Scent of a Mule,SOAMule,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+1997-08-09,1997,0,17,2,2,0,0,3,1997 Summer U.S. Tour,1997 Summer,Slave to the Traffic Light,Slave,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+1997-08-09,1997,0,18,5,2,0,0,5,1997 Summer U.S. Tour,1997 Summer,Weekapaug Groove,Weekapaug,1,Alpine Valley Music Theatre,East Troy,WI,USA,
+1997-08-09,1997,0,19,1,e,0,0,5,1997 Summer U.S. Tour,1997 Summer,When the Circus Comes,Circus,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+1997-08-09,1997,0,20,6,e,0,0,7,1997 Summer U.S. Tour,1997 Summer,Rocky Top,Rocky Top,0,Alpine Valley Music Theatre,East Troy,WI,USA,
+1997-08-10,1997,0,1,3,1,0,0,4,1997 Summer U.S. Tour,1997 Summer,Bathtub Gin,Gin,1,Deer Creek Music Center,Noblesville,IN,USA,->
+1997-08-10,1997,0,2,2,1,0,0,5,1997 Summer U.S. Tour,1997 Summer,Sparkle,Sparkle,1,Deer Creek Music Center,Noblesville,IN,USA,>
+1997-08-10,1997,0,3,2,1,0,0,5,1997 Summer U.S. Tour,1997 Summer,Down with Disease,DwD,1,Deer Creek Music Center,Noblesville,IN,USA,>
+1997-08-10,1997,0,4,1,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Dirt,Dirt,0,Deer Creek Music Center,Noblesville,IN,USA,","
+1997-08-10,1997,0,5,1,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Cars Trucks Buses,CTB,1,Deer Creek Music Center,Noblesville,IN,USA,","
+1997-08-10,1997,0,6,1,1,0,0,9,1997 Summer U.S. Tour,1997 Summer,Billy Breathes,Billy Breathes,1,Deer Creek Music Center,Noblesville,IN,USA,","
+1997-08-10,1997,0,7,1,1,0,0,5,1997 Summer U.S. Tour,1997 Summer,Split Open and Melt,SOAMelt,1,Deer Creek Music Center,Noblesville,IN,USA,","
+1997-08-10,1997,0,8,2,1,0,0,12,1997 Summer U.S. Tour,1997 Summer,Bye Bye Foot,Bye Bye Foot,1,Deer Creek Music Center,Noblesville,IN,USA,>
+1997-08-10,1997,0,9,1,1,0,0,5,1997 Summer U.S. Tour,1997 Summer,Ginseng Sullivan,Ginseng,0,Deer Creek Music Center,Noblesville,IN,USA,","
+1997-08-10,1997,0,10,4,1,0,0,5,1997 Summer U.S. Tour,1997 Summer,Harry Hood,Hood,1,Deer Creek Music Center,Noblesville,IN,USA,
+1997-08-10,1997,0,11,3,2,0,0,7,1997 Summer U.S. Tour,1997 Summer,Cities,Cities,0,Deer Creek Music Center,Noblesville,IN,USA,->
+1997-08-10,1997,0,12,3,2,0,0,18,1997 Summer U.S. Tour,1997 Summer,Good Times Bad Times,GTBT,0,Deer Creek Music Center,Noblesville,IN,USA,->
+1997-08-10,1997,0,13,3,2,0,0,50,1997 Summer U.S. Tour,1997 Summer,Rotation Jam,Rotation Jam,1,Deer Creek Music Center,Noblesville,IN,USA,->
+1997-08-10,1997,0,14,3,2,0,0,24,1997 Summer U.S. Tour,1997 Summer,Rock A William,Rock A William,1,Deer Creek Music Center,Noblesville,IN,USA,->
+1997-08-10,1997,0,15,5,2,0,0,7,1997 Summer U.S. Tour,1997 Summer,David Bowie,Bowie,1,Deer Creek Music Center,Noblesville,IN,USA,
+1997-08-10,1997,0,16,6,e,0,0,9,1997 Summer U.S. Tour,1997 Summer,Cavern,Cavern,1,Deer Creek Music Center,Noblesville,IN,USA,
+1997-08-11,1997,0,1,3,1,0,0,11,1997 Summer U.S. Tour,1997 Summer,Makisupa Policeman,Makisupa,1,Deer Creek Music Center,Noblesville,IN,USA,->
+1997-08-11,1997,0,2,1,1,0,0,7,1997 Summer U.S. Tour,1997 Summer,Maze,Maze,1,Deer Creek Music Center,Noblesville,IN,USA,","
+1997-08-11,1997,0,3,1,1,0,0,3,1997 Summer U.S. Tour,1997 Summer,Water in the Sky,Water in the Sky,1,Deer Creek Music Center,Noblesville,IN,USA,","
+1997-08-11,1997,0,4,1,1,0,0,25,1997 Summer U.S. Tour,1997 Summer,Guyute,Guyute,1,Deer Creek Music Center,Noblesville,IN,USA,","
+1997-08-11,1997,0,5,1,1,0,0,26,1997 Summer U.S. Tour,1997 Summer,Guelah Papyrus,Guelah,1,Deer Creek Music Center,Noblesville,IN,USA,","
+1997-08-11,1997,0,6,1,1,0,0,3,1997 Summer U.S. Tour,1997 Summer,Limb By Limb,LxL,1,Deer Creek Music Center,Noblesville,IN,USA,","
+1997-08-11,1997,0,7,1,1,0,0,22,1997 Summer U.S. Tour,1997 Summer,Horn,Horn,1,Deer Creek Music Center,Noblesville,IN,USA,","
+1997-08-11,1997,0,8,4,1,0,0,4,1997 Summer U.S. Tour,1997 Summer,Run Like an Antelope,Antelope,1,Deer Creek Music Center,Noblesville,IN,USA,
+1997-08-11,1997,0,9,2,2,0,0,10,1997 Summer U.S. Tour,1997 Summer,Timber (Jerry the Mule),Timber Ho,0,Deer Creek Music Center,Noblesville,IN,USA,>
+1997-08-11,1997,0,10,1,2,0,0,8,1997 Summer U.S. Tour,1997 Summer,Piper,Piper,1,Deer Creek Music Center,Noblesville,IN,USA,","
+1997-08-11,1997,0,11,2,2,0,0,5,1997 Summer U.S. Tour,1997 Summer,Vultures,Vultures,1,Deer Creek Music Center,Noblesville,IN,USA,>
+1997-08-11,1997,0,12,1,2,0,0,4,1997 Summer U.S. Tour,1997 Summer,My Soul,My Soul,0,Deer Creek Music Center,Noblesville,IN,USA,","
+1997-08-11,1997,0,13,1,2,0,0,4,1997 Summer U.S. Tour,1997 Summer,You Enjoy Myself,YEM,1,Deer Creek Music Center,Noblesville,IN,USA,","
+1997-08-11,1997,0,14,5,2,0,0,3,1997 Summer U.S. Tour,1997 Summer,Character Zero,Character Zero,1,Deer Creek Music Center,Noblesville,IN,USA,
+1997-08-11,1997,0,15,6,e,0,0,9,1997 Summer U.S. Tour,1997 Summer,The Squirming Coil,Coil,1,Deer Creek Music Center,Noblesville,IN,USA,
+1997-08-13,1997,0,1,2,1,0,0,1145,1997 Summer U.S. Tour,1997 Summer,Amoreena,Amoreena,0,Star Lake Amphitheatre,Burgettstown,PA,USA,>
+1997-08-13,1997,0,2,1,1,0,0,11,1997 Summer U.S. Tour,1997 Summer,Poor Heart,Poor Heart,1,Star Lake Amphitheatre,Burgettstown,PA,USA,","
+1997-08-13,1997,0,3,1,1,0,0,5,1997 Summer U.S. Tour,1997 Summer,Stash,Stash,1,Star Lake Amphitheatre,Burgettstown,PA,USA,","
+1997-08-13,1997,0,4,1,1,0,0,1,1997 Summer U.S. Tour,1997 Summer,Water in the Sky,Water in the Sky,1,Star Lake Amphitheatre,Burgettstown,PA,USA,","
+1997-08-13,1997,0,5,3,1,0,0,4,1997 Summer U.S. Tour,1997 Summer,Gumbo,Gumbo,1,Star Lake Amphitheatre,Burgettstown,PA,USA,->
+1997-08-13,1997,0,6,2,1,0,0,19,1997 Summer U.S. Tour,1997 Summer,The Horse,Horse,1,Star Lake Amphitheatre,Burgettstown,PA,USA,>
+1997-08-13,1997,0,7,1,1,0,0,19,1997 Summer U.S. Tour,1997 Summer,Silent in the Morning,Silent,1,Star Lake Amphitheatre,Burgettstown,PA,USA,","
+1997-08-13,1997,0,8,1,1,0,0,5,1997 Summer U.S. Tour,1997 Summer,Beauty of My Dreams,Beauty of My Dreams,0,Star Lake Amphitheatre,Burgettstown,PA,USA,","
+1997-08-13,1997,0,9,2,1,0,0,43,1997 Summer U.S. Tour,1997 Summer,Crosseyed and Painless,C&amp;P,0,Star Lake Amphitheatre,Burgettstown,PA,USA,>
+1997-08-13,1997,0,10,1,1,0,0,3,1997 Summer U.S. Tour,1997 Summer,Wilson,Wilson,1,Star Lake Amphitheatre,Burgettstown,PA,USA,","
+1997-08-13,1997,0,11,4,1,0,0,18,1997 Summer U.S. Tour,1997 Summer,Sweet Adeline,Sweet Adeline,0,Star Lake Amphitheatre,Burgettstown,PA,USA,
+1997-08-13,1997,0,12,1,2,0,0,5,1997 Summer U.S. Tour,1997 Summer,Runaway Jim,Runaway Jim,1,Star Lake Amphitheatre,Burgettstown,PA,USA,","
+1997-08-13,1997,0,13,3,2,0,0,3,1997 Summer U.S. Tour,1997 Summer,Ghost,Ghost,1,Star Lake Amphitheatre,Burgettstown,PA,USA,->
+1997-08-13,1997,0,14,1,2,0,0,11,1997 Summer U.S. Tour,1997 Summer,Izabella,Izabella,0,Star Lake Amphitheatre,Burgettstown,PA,USA,","
+1997-08-13,1997,0,15,2,2,0,0,46,1997 Summer U.S. Tour,1997 Summer,Sleeping Monkey,Sleeping Monkey,1,Star Lake Amphitheatre,Burgettstown,PA,USA,>
+1997-08-13,1997,0,16,2,2,0,0,8,1997 Summer U.S. Tour,1997 Summer,McGrupp and the Watchful Hosemasters,McGrupp,1,Star Lake Amphitheatre,Burgettstown,PA,USA,>
+1997-08-13,1997,0,17,2,2,0,0,5,1997 Summer U.S. Tour,1997 Summer,Sample in a Jar,Sample,1,Star Lake Amphitheatre,Burgettstown,PA,USA,>
+1997-08-13,1997,0,18,2,2,0,0,5,1997 Summer U.S. Tour,1997 Summer,Also Sprach Zarathustra,2001,0,Star Lake Amphitheatre,Burgettstown,PA,USA,>
+1997-08-13,1997,0,19,2,2,0,0,46,1997 Summer U.S. Tour,1997 Summer,Golgi Apparatus,Golgi,1,Star Lake Amphitheatre,Burgettstown,PA,USA,>
+1997-08-13,1997,0,20,5,2,0,0,6,1997 Summer U.S. Tour,1997 Summer,Frankenstein,Frankenstein,0,Star Lake Amphitheatre,Burgettstown,PA,USA,
+1997-08-13,1997,0,21,6,e,0,0,3,1997 Summer U.S. Tour,1997 Summer,Theme From the Bottom,Theme,1,Star Lake Amphitheatre,Burgettstown,PA,USA,
+1997-08-14,1997,0,1,1,1,0,0,5,1997 Summer U.S. Tour,1997 Summer,Ya Mar,Ya Mar,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
+1997-08-14,1997,0,2,2,1,0,0,15,1997 Summer U.S. Tour,1997 Summer,Funky Bitch,Funky Bitch,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,>
+1997-08-14,1997,0,3,1,1,0,0,7,1997 Summer U.S. Tour,1997 Summer,Fluffhead,Fluffhead,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
+1997-08-14,1997,0,4,1,1,0,0,1,1997 Summer U.S. Tour,1997 Summer,Limb By Limb,LxL,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
+1997-08-14,1997,0,5,1,1,0,0,5,1997 Summer U.S. Tour,1997 Summer,Free,Free,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
+1997-08-14,1997,0,6,1,1,0,0,3,1997 Summer U.S. Tour,1997 Summer,Cars Trucks Buses,CTB,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
+1997-08-14,1997,0,7,2,1,0,0,73,1997 Summer U.S. Tour,1997 Summer,Tela,Tela,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,>
+1997-08-14,1997,0,8,2,1,0,0,21,1997 Summer U.S. Tour,1997 Summer,Train Song,Train Song,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,>
+1997-08-14,1997,0,9,1,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Billy Breathes,Billy Breathes,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
+1997-08-14,1997,0,10,4,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Run Like an Antelope,Antelope,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,
+1997-08-14,1997,0,11,1,2,0,0,5,1997 Summer U.S. Tour,1997 Summer,Chalk Dust Torture,CDT,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
+1997-08-14,1997,0,12,1,2,0,0,35,1997 Summer U.S. Tour,1997 Summer,Love Me,Love Me,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
+1997-08-14,1997,0,13,2,2,0,0,2,1997 Summer U.S. Tour,1997 Summer,Sparkle,Sparkle,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,>
+1997-08-14,1997,0,14,3,2,0,0,3,1997 Summer U.S. Tour,1997 Summer,Harry Hood,Hood,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,->
+1997-08-14,1997,0,15,2,2,0,0,15,1997 Summer U.S. Tour,1997 Summer,Jam,Jam,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,>
+1997-08-14,1997,0,16,2,2,0,0,77,1997 Summer U.S. Tour,1997 Summer,Colonel Forbin's Ascent,Forbin's,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,>
+1997-08-14,1997,0,17,2,2,0,0,77,1997 Summer U.S. Tour,1997 Summer,Fly Famous Mockingbird,Mockingbird,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,>
+1997-08-14,1997,0,18,2,2,0,0,0,1997 Summer U.S. Tour,1997 Summer,Merry Pranksters Jam,Merry Pranksters Jam,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,>
+1997-08-14,1997,0,19,2,2,0,0,0,1997 Summer U.S. Tour,1997 Summer,Frankenstein,Frankenstein,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,>
+1997-08-14,1997,0,20,3,2,0,0,0,1997 Summer U.S. Tour,1997 Summer,Merry Pranksters Jam,Merry Pranksters Jam,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,->
+1997-08-14,1997,0,21,1,2,0,0,39,1997 Summer U.S. Tour,1997 Summer,Camel Walk,Camel Walk,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
+1997-08-14,1997,0,22,5,2,0,0,4,1997 Summer U.S. Tour,1997 Summer,Taste,Taste,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,
+1997-08-14,1997,0,23,1,e,0,0,6,1997 Summer U.S. Tour,1997 Summer,Bouncing Around the Room,Bouncin',1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
+1997-08-14,1997,0,24,4,e,0,0,3,1997 Summer U.S. Tour,1997 Summer,Rocky Top,Rocky Top,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,
+1997-08-16,1997,0,1,3,1,0,0,3,1997 Summer U.S. Tour,1997 Summer,Makisupa Policeman,Makisupa,1,Loring Commerce Centre,Limestone,ME,USA,->
+1997-08-16,1997,0,2,2,1,0,0,54,1997 Summer U.S. Tour,1997 Summer,Harpua,Harpua,1,Loring Commerce Centre,Limestone,ME,USA,>
+1997-08-16,1997,0,3,1,1,0,0,1,1997 Summer U.S. Tour,1997 Summer,Chalk Dust Torture,CDT,1,Loring Commerce Centre,Limestone,ME,USA,","
+1997-08-16,1997,0,4,2,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Theme From the Bottom,Theme,1,Loring Commerce Centre,Limestone,ME,USA,>
+1997-08-16,1997,0,5,2,1,0,0,5,1997 Summer U.S. Tour,1997 Summer,Punch You in the Eye,PYITE,1,Loring Commerce Centre,Limestone,ME,USA,>
+1997-08-16,1997,0,6,2,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Ghost,Ghost,1,Loring Commerce Centre,Limestone,ME,USA,>
+1997-08-16,1997,0,7,1,1,0,0,4,1997 Summer U.S. Tour,1997 Summer,Ginseng Sullivan,Ginseng,0,Loring Commerce Centre,Limestone,ME,USA,","
+1997-08-16,1997,0,8,2,1,0,0,3,1997 Summer U.S. Tour,1997 Summer,You Enjoy Myself,YEM,1,Loring Commerce Centre,Limestone,ME,USA,>
+1997-08-16,1997,0,9,2,1,0,0,1,1997 Summer U.S. Tour,1997 Summer,Train Song,Train Song,1,Loring Commerce Centre,Limestone,ME,USA,>
+1997-08-16,1997,0,10,1,1,0,0,3,1997 Summer U.S. Tour,1997 Summer,Character Zero,Character Zero,1,Loring Commerce Centre,Limestone,ME,USA,","
+1997-08-16,1997,0,11,4,1,0,0,3,1997 Summer U.S. Tour,1997 Summer,The Squirming Coil,Coil,1,Loring Commerce Centre,Limestone,ME,USA,
+1997-08-16,1997,0,12,3,2,0,0,6,1997 Summer U.S. Tour,1997 Summer,Wolfman's Brother,Wolfman's,1,Loring Commerce Centre,Limestone,ME,USA,->
+1997-08-16,1997,0,13,3,2,0,0,5,1997 Summer U.S. Tour,1997 Summer,Simple,Simple,1,Loring Commerce Centre,Limestone,ME,USA,->
+1997-08-16,1997,0,14,1,2,0,0,3,1997 Summer U.S. Tour,1997 Summer,My Soul,My Soul,0,Loring Commerce Centre,Limestone,ME,USA,","
+1997-08-16,1997,0,15,3,2,0,0,1,1997 Summer U.S. Tour,1997 Summer,Jam,Jam,0,Loring Commerce Centre,Limestone,ME,USA,->
+1997-08-16,1997,0,16,2,2,0,0,5,1997 Summer U.S. Tour,1997 Summer,Slave to the Traffic Light,Slave,1,Loring Commerce Centre,Limestone,ME,USA,>
+1997-08-16,1997,0,17,2,2,0,0,1,1997 Summer U.S. Tour,1997 Summer,Rocky Top,Rocky Top,0,Loring Commerce Centre,Limestone,ME,USA,>
+1997-08-16,1997,0,18,4,2,0,0,7,1997 Summer U.S. Tour,1997 Summer,Julius,Julius,1,Loring Commerce Centre,Limestone,ME,USA,
+1997-08-16,1997,0,19,3,3,0,0,92,1997 Summer U.S. Tour,1997 Summer,Halley's Comet,Halley's,1,Loring Commerce Centre,Limestone,ME,USA,->
+1997-08-16,1997,0,20,3,3,0,0,4,1997 Summer U.S. Tour,1997 Summer,Cities,Cities,0,Loring Commerce Centre,Limestone,ME,USA,->
+1997-08-16,1997,0,21,2,3,0,0,19,1997 Summer U.S. Tour,1997 Summer,Llama,Llama,1,Loring Commerce Centre,Limestone,ME,USA,>
+1997-08-16,1997,0,22,1,3,0,0,5,1997 Summer U.S. Tour,1997 Summer,Lawn Boy,Lawn Boy,1,Loring Commerce Centre,Limestone,ME,USA,","
+1997-08-16,1997,0,23,2,3,0,0,1,1997 Summer U.S. Tour,1997 Summer,Limb By Limb,LxL,1,Loring Commerce Centre,Limestone,ME,USA,>
+1997-08-16,1997,0,24,5,3,0,0,1,1997 Summer U.S. Tour,1997 Summer,Funky Bitch,Funky Bitch,0,Loring Commerce Centre,Limestone,ME,USA,
+1997-08-16,1997,0,25,2,e,0,0,60,1997 Summer U.S. Tour,1997 Summer,Contact,Contact,1,Loring Commerce Centre,Limestone,ME,USA,>
+1997-08-16,1997,0,26,6,e,0,0,6,1997 Summer U.S. Tour,1997 Summer,Loving Cup,Loving Cup,0,Loring Commerce Centre,Limestone,ME,USA,
+1997-08-17,1997,0,1,1,1,0,0,81,1997 Summer U.S. Tour,1997 Summer,The Wedge,Wedge,1,Loring Commerce Centre,Limestone,ME,USA,","
+1997-08-17,1997,0,2,1,1,0,0,3,1997 Summer U.S. Tour,1997 Summer,Beauty of My Dreams,Beauty of My Dreams,0,Loring Commerce Centre,Limestone,ME,USA,","
+1997-08-17,1997,0,3,1,1,0,0,6,1997 Summer U.S. Tour,1997 Summer,Dogs Stole Things,Dogs Stole Things,1,Loring Commerce Centre,Limestone,ME,USA,","
+1997-08-17,1997,0,4,1,1,0,0,4,1997 Summer U.S. Tour,1997 Summer,Vultures,Vultures,1,Loring Commerce Centre,Limestone,ME,USA,","
+1997-08-17,1997,0,5,2,1,0,0,3,1997 Summer U.S. Tour,1997 Summer,Water in the Sky,Water in the Sky,1,Loring Commerce Centre,Limestone,ME,USA,>
+1997-08-17,1997,0,6,1,1,0,0,4,1997 Summer U.S. Tour,1997 Summer,Maze,Maze,1,Loring Commerce Centre,Limestone,ME,USA,","
+1997-08-17,1997,0,7,2,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Bouncing Around the Room,Bouncin',1,Loring Commerce Centre,Limestone,ME,USA,>
+1997-08-17,1997,0,8,3,1,0,0,10,1997 Summer U.S. Tour,1997 Summer,Tweezer,Tweezer,1,Loring Commerce Centre,Limestone,ME,USA,->
+1997-08-17,1997,0,9,1,1,0,0,2,1997 Summer U.S. Tour,1997 Summer,Taste,Taste,1,Loring Commerce Centre,Limestone,ME,USA,","
+1997-08-17,1997,0,10,4,1,0,0,82,1997 Summer U.S. Tour,1997 Summer,Carolina,Carolina,0,Loring Commerce Centre,Limestone,ME,USA,
+1997-08-17,1997,0,11,3,2,0,0,5,1997 Summer U.S. Tour,1997 Summer,Down with Disease,DwD,1,Loring Commerce Centre,Limestone,ME,USA,->
+1997-08-17,1997,0,12,2,2,0,0,5,1997 Summer U.S. Tour,1997 Summer,Bathtub Gin,Gin,1,Loring Commerce Centre,Limestone,ME,USA,>
+1997-08-17,1997,0,13,1,2,0,0,12,1997 Summer U.S. Tour,1997 Summer,Uncle Pen,Uncle Pen,0,Loring Commerce Centre,Limestone,ME,USA,","
+1997-08-17,1997,0,14,3,2,0,0,3,1997 Summer U.S. Tour,1997 Summer,Also Sprach Zarathustra,2001,0,Loring Commerce Centre,Limestone,ME,USA,->
+1997-08-17,1997,0,15,2,2,0,0,1148,1997 Summer U.S. Tour,1997 Summer,Art Jam,Art Jam,1,Loring Commerce Centre,Limestone,ME,USA,>
+1997-08-17,1997,0,16,4,2,0,0,2,1997 Summer U.S. Tour,1997 Summer,Harry Hood,Hood,1,Loring Commerce Centre,Limestone,ME,USA,
+1997-08-17,1997,0,17,3,3,0,0,204,1997 Summer U.S. Tour,1997 Summer,Buffalo Bill,Buffalo Bill,1,Loring Commerce Centre,Limestone,ME,USA,->
+1997-08-17,1997,0,18,1,3,0,0,8,1997 Summer U.S. Tour,1997 Summer,NICU,NICU,1,Loring Commerce Centre,Limestone,ME,USA,","
+1997-08-17,1997,0,19,1,3,0,0,12,1997 Summer U.S. Tour,1997 Summer,Weigh,Weigh,1,Loring Commerce Centre,Limestone,ME,USA,","
+1997-08-17,1997,0,20,1,3,0,0,4,1997 Summer U.S. Tour,1997 Summer,Guyute,Guyute,1,Loring Commerce Centre,Limestone,ME,USA,","
+1997-08-17,1997,0,21,1,3,0,0,5,1997 Summer U.S. Tour,1997 Summer,Dirt,Dirt,0,Loring Commerce Centre,Limestone,ME,USA,","
+1997-08-17,1997,0,22,3,3,0,0,6,1997 Summer U.S. Tour,1997 Summer,Scent of a Mule,SOAMule,1,Loring Commerce Centre,Limestone,ME,USA,->
+1997-08-17,1997,0,23,3,3,0,0,56,1997 Summer U.S. Tour,1997 Summer,Digital Delay Loop Jam,Digital Delay Loop Jam,1,Loring Commerce Centre,Limestone,ME,USA,->
+1997-08-17,1997,0,24,1,3,0,0,0,1997 Summer U.S. Tour,1997 Summer,Scent of a Mule,SOAMule,1,Loring Commerce Centre,Limestone,ME,USA,","
+1997-08-17,1997,0,25,5,3,0,0,7,1997 Summer U.S. Tour,1997 Summer,Prince Caspian,Caspian,1,Loring Commerce Centre,Limestone,ME,USA,
+1997-08-17,1997,0,26,1,e,0,0,6,1997 Summer U.S. Tour,1997 Summer,When the Circus Comes,Circus,0,Loring Commerce Centre,Limestone,ME,USA,","
+1997-08-17,1997,0,27,6,e,0,0,10,1997 Summer U.S. Tour,1997 Summer,Tweezer Reprise,Tweeprise,1,Loring Commerce Centre,Limestone,ME,USA,
+1997-11-07,1997,1,1,1,1,0,0,0,Not Part of a Tour,No Tour,Farmhouse,Farmhouse,1,"NBC Television Studios, Studio 6A",New York,NY,USA,","
+1997-11-07,1997,0,1,1,1,0,0,7,Not Part of a Tour,No Tour,You Let Me Down Again,You Let Me Down Again,1,Club Toast,Burlington,VT,USA,","
+1997-11-07,1997,1,2,6,1,1,0,0,Not Part of a Tour,No Tour,Mike's Song,Mike's,1,"NBC Television Studios, Studio 6A",New York,NY,USA,
+1997-11-07,1997,0,2,1,1,0,0,0,Not Part of a Tour,No Tour,Steady Rollin' Man,Steady Rollin' Man,1,Club Toast,Burlington,VT,USA,","
+1997-11-07,1997,0,3,1,1,0,0,0,Not Part of a Tour,No Tour,Youâre The Only One,Youâre The Only One,1,Club Toast,Burlington,VT,USA,","
+1997-11-07,1997,0,4,2,1,0,0,0,Not Part of a Tour,No Tour,The Field,The Field,1,Club Toast,Burlington,VT,USA,>
+1997-11-07,1997,0,5,2,1,0,0,0,Not Part of a Tour,No Tour,When It Comes To You,When It Comes To You,1,Club Toast,Burlington,VT,USA,>
+1997-11-07,1997,0,6,2,1,0,0,0,Not Part of a Tour,No Tour,Blood Bed Roses,Blood Bed Roses,1,Club Toast,Burlington,VT,USA,>
+1997-11-07,1997,0,7,4,1,0,0,0,Not Part of a Tour,No Tour,If You Ask Me,If You Ask Me,1,Club Toast,Burlington,VT,USA,
+1997-11-07,1997,0,8,2,2,0,0,0,Not Part of a Tour,No Tour,Louisiana Sun,Louisiana Sun,1,Club Toast,Burlington,VT,USA,>
+1997-11-07,1997,0,9,2,2,0,0,0,Not Part of a Tour,No Tour,Thank You (Falettinme Be Mice Elf Agin),Thank You (Falettinme Be Mice Elf Agin),0,Club Toast,Burlington,VT,USA,>
+1997-11-07,1997,0,10,2,2,0,0,38,Not Part of a Tour,No Tour,Wild Side,Wild Side,0,Club Toast,Burlington,VT,USA,>
+1997-11-07,1997,0,11,2,2,0,0,0,Not Part of a Tour,No Tour,Outside of Home,Outside of Home,0,Club Toast,Burlington,VT,USA,>
+1997-11-07,1997,0,12,5,2,0,0,38,Not Part of a Tour,No Tour,Just a Rose,Just a Rose,0,Club Toast,Burlington,VT,USA,
+1997-11-07,1997,0,13,1,e,0,0,0,Not Part of a Tour,No Tour,"Lawyers, Guns and Money","Lawyers, Guns and Money",0,Club Toast,Burlington,VT,USA,","
+1997-11-07,1997,0,14,6,e,0,0,0,Not Part of a Tour,No Tour,What I Like About You,What I Like About You,0,Club Toast,Burlington,VT,USA,
+1997-11-13,1997,0,1,1,1,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Chalk Dust Torture,CDT,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+1997-11-13,1997,0,2,1,1,0,0,1149,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Black-Eyed Katy,BEK,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+1997-11-13,1997,0,3,1,1,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Theme From the Bottom,Theme,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+1997-11-13,1997,0,4,1,1,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Train Song,Train Song,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+1997-11-13,1997,0,5,1,1,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Split Open and Melt,SOAMelt,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+1997-11-13,1997,0,6,1,1,0,0,1,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Beauty of My Dreams,Beauty of My Dreams,0,Thomas & Mack Center,Las Vegas,NV,USA,","
+1997-11-13,1997,0,7,1,1,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,My Soul,My Soul,0,Thomas & Mack Center,Las Vegas,NV,USA,","
+1997-11-13,1997,0,8,1,1,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,You Enjoy Myself,YEM,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+1997-11-13,1997,0,9,4,1,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Character Zero,Character Zero,1,Thomas & Mack Center,Las Vegas,NV,USA,
+1997-11-13,1997,0,10,1,2,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Stash,Stash,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+1997-11-13,1997,0,11,2,2,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Punch You in the Eye,PYITE,1,Thomas & Mack Center,Las Vegas,NV,USA,>
+1997-11-13,1997,0,12,2,2,0,0,1,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Prince Caspian,Caspian,1,Thomas & Mack Center,Las Vegas,NV,USA,>
+1997-11-13,1997,0,13,1,2,0,0,1,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Bouncing Around the Room,Bouncin',1,Thomas & Mack Center,Las Vegas,NV,USA,","
+1997-11-13,1997,0,14,2,2,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Mike's Song,Mike's,1,Thomas & Mack Center,Las Vegas,NV,USA,>
+1997-11-13,1997,0,15,2,2,0,0,12,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,I Am Hydrogen,Hydrogen,1,Thomas & Mack Center,Las Vegas,NV,USA,>
+1997-11-13,1997,0,16,5,2,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Weekapaug Groove,Weekapaug,1,Thomas & Mack Center,Las Vegas,NV,USA,
+1997-11-13,1997,0,17,6,e,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Loving Cup,Loving Cup,0,Thomas & Mack Center,Las Vegas,NV,USA,
+1997-11-14,1997,0,1,1,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Runaway Jim,Runaway Jim,1,The âEâ Center,West Valley City,UT,USA,","
+1997-11-14,1997,0,2,2,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Gumbo,Gumbo,1,The âEâ Center,West Valley City,UT,USA,>
+1997-11-14,1997,0,3,2,1,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Maze,Maze,1,The âEâ Center,West Valley City,UT,USA,>
+1997-11-14,1997,0,4,1,1,0,0,68,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Fast Enough for You,FEFY,1,The âEâ Center,West Valley City,UT,USA,","
+1997-11-14,1997,0,5,2,1,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Also Sprach Zarathustra,2001,0,The âEâ Center,West Valley City,UT,USA,>
+1997-11-14,1997,0,6,1,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Funky Bitch,Funky Bitch,0,The âEâ Center,West Valley City,UT,USA,","
+1997-11-14,1997,0,7,1,1,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Guyute,Guyute,1,The âEâ Center,West Valley City,UT,USA,","
+1997-11-14,1997,0,8,4,1,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Run Like an Antelope,Antelope,1,The âEâ Center,West Valley City,UT,USA,
+1997-11-14,1997,0,9,3,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Wolfman's Brother,Wolfman's,1,The âEâ Center,West Valley City,UT,USA,->
+1997-11-14,1997,0,10,2,2,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Piper,Piper,1,The âEâ Center,West Valley City,UT,USA,>
+1997-11-14,1997,0,11,2,2,0,0,10,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Twist,Twist,1,The âEâ Center,West Valley City,UT,USA,>
+1997-11-14,1997,0,12,5,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Slave to the Traffic Light,Slave,1,The âEâ Center,West Valley City,UT,USA,
+1997-11-14,1997,0,13,6,e,0,0,50,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Bold As Love,Bold As Love,0,The âEâ Center,West Valley City,UT,USA,
+1997-11-16,1997,0,1,2,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,NICU,NICU,1,McNichols Arena,Denver,CO,USA,>
+1997-11-16,1997,0,2,1,1,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,My Soul,My Soul,0,McNichols Arena,Denver,CO,USA,","
+1997-11-16,1997,0,3,1,1,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Black-Eyed Katy,BEK,1,McNichols Arena,Denver,CO,USA,","
+1997-11-16,1997,0,4,1,1,0,0,1153,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Farmhouse,Farmhouse,1,McNichols Arena,Denver,CO,USA,","
+1997-11-16,1997,0,5,1,1,0,0,25,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,The Old Home Place,The Old Home Place,0,McNichols Arena,Denver,CO,USA,","
+1997-11-16,1997,0,6,1,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Billy Breathes,Billy Breathes,1,McNichols Arena,Denver,CO,USA,","
+1997-11-16,1997,0,7,1,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Cars Trucks Buses,CTB,1,McNichols Arena,Denver,CO,USA,","
+1997-11-16,1997,0,8,1,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Scent of a Mule,SOAMule,1,McNichols Arena,Denver,CO,USA,","
+1997-11-16,1997,0,9,1,1,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Poor Heart,Poor Heart,1,McNichols Arena,Denver,CO,USA,","
+1997-11-16,1997,0,10,1,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Taste,Taste,1,McNichols Arena,Denver,CO,USA,","
+1997-11-16,1997,0,11,4,1,0,0,12,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Hello My Baby,Hello My Baby,0,McNichols Arena,Denver,CO,USA,
+1997-11-16,1997,0,12,3,2,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Timber (Jerry the Mule),Timber Ho,0,McNichols Arena,Denver,CO,USA,->
+1997-11-16,1997,0,13,3,2,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Simple,Simple,1,McNichols Arena,Denver,CO,USA,->
+1997-11-16,1997,0,14,2,2,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Wilson,Wilson,1,McNichols Arena,Denver,CO,USA,>
+1997-11-16,1997,0,15,2,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Harry Hood,Hood,1,McNichols Arena,Denver,CO,USA,>
+1997-11-16,1997,0,16,5,2,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Izabella,Izabella,0,McNichols Arena,Denver,CO,USA,
+1997-11-16,1997,0,17,6,e,0,0,8,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,David Bowie,Bowie,1,McNichols Arena,Denver,CO,USA,
+1997-11-17,1997,0,1,1,1,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Tweezer,Tweezer,1,McNichols Arena,Denver,CO,USA,","
+1997-11-17,1997,0,2,1,1,0,0,10,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Reba,Reba,1,McNichols Arena,Denver,CO,USA,","
+1997-11-17,1997,0,3,1,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Train Song,Train Song,1,McNichols Arena,Denver,CO,USA,","
+1997-11-17,1997,0,4,2,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Ghost,Ghost,1,McNichols Arena,Denver,CO,USA,>
+1997-11-17,1997,0,5,4,1,0,0,16,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Fire,Fire,0,McNichols Arena,Denver,CO,USA,
+1997-11-17,1997,0,6,3,2,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Down with Disease,DwD,1,McNichols Arena,Denver,CO,USA,->
+1997-11-17,1997,0,7,2,2,0,0,17,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Olivia's Pool,Olivia's Pool,1,McNichols Arena,Denver,CO,USA,>
+1997-11-17,1997,0,8,3,2,0,0,14,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Johnny B. Goode,JBG,0,McNichols Arena,Denver,CO,USA,->
+1997-11-17,1997,0,9,1,2,0,0,13,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Jesus Just Left Chicago,JJLC,0,McNichols Arena,Denver,CO,USA,","
+1997-11-17,1997,0,10,1,2,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,When the Circus Comes,Circus,0,McNichols Arena,Denver,CO,USA,","
+1997-11-17,1997,0,11,5,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,You Enjoy Myself,YEM,1,McNichols Arena,Denver,CO,USA,
+1997-11-17,1997,0,12,6,e,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Character Zero,Character Zero,1,McNichols Arena,Denver,CO,USA,
+1997-11-19,1997,0,1,1,1,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Julius,Julius,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,","
+1997-11-19,1997,0,2,3,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Bathtub Gin,Gin,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,->
+1997-11-19,1997,0,3,1,1,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Llama,Llama,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,","
+1997-11-19,1997,0,4,1,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Dirt,Dirt,0,"Assembly Hall, University of Illinois",Champaign,IL,USA,","
+1997-11-19,1997,0,5,1,1,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Limb By Limb,LxL,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,","
+1997-11-19,1997,0,6,1,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Funky Bitch,Funky Bitch,0,"Assembly Hall, University of Illinois",Champaign,IL,USA,","
+1997-11-19,1997,0,7,1,1,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Theme From the Bottom,Theme,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,","
+1997-11-19,1997,0,8,1,1,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Ginseng Sullivan,Ginseng,0,"Assembly Hall, University of Illinois",Champaign,IL,USA,","
+1997-11-19,1997,0,9,3,1,0,0,48,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Fee,Fee,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,->
+1997-11-19,1997,0,10,4,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Run Like an Antelope,Antelope,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,
+1997-11-19,1997,0,11,2,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Also Sprach Zarathustra,2001,0,"Assembly Hall, University of Illinois",Champaign,IL,USA,>
+1997-11-19,1997,0,12,3,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Wolfman's Brother,Wolfman's,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,->
+1997-11-19,1997,0,13,2,2,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Makisupa Policeman,Makisupa,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,>
+1997-11-19,1997,0,14,5,2,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Taste,Taste,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,
+1997-11-19,1997,0,15,6,e,0,0,18,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Possum,Possum,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,
+1997-11-21,1997,0,1,2,1,0,0,1160,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Emotional Rescue,Emotional Rescue,0,Hampton Coliseum,Hampton,VA,USA,>
+1997-11-21,1997,0,2,1,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Split Open and Melt,SOAMelt,1,Hampton Coliseum,Hampton,VA,USA,","
+1997-11-21,1997,0,3,1,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Beauty of My Dreams,Beauty of My Dreams,0,Hampton Coliseum,Hampton,VA,USA,","
+1997-11-21,1997,0,4,1,1,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Dogs Stole Things,Dogs Stole Things,1,Hampton Coliseum,Hampton,VA,USA,","
+1997-11-21,1997,0,5,3,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Punch You in the Eye,PYITE,1,Hampton Coliseum,Hampton,VA,USA,->
+1997-11-21,1997,0,6,2,1,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Lawn Boy,Lawn Boy,1,Hampton Coliseum,Hampton,VA,USA,>
+1997-11-21,1997,0,7,1,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Chalk Dust Torture,CDT,1,Hampton Coliseum,Hampton,VA,USA,","
+1997-11-21,1997,0,8,4,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Prince Caspian,Caspian,1,Hampton Coliseum,Hampton,VA,USA,
+1997-11-21,1997,0,9,2,2,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Ghost,Ghost,1,Hampton Coliseum,Hampton,VA,USA,>
+1997-11-21,1997,0,10,3,2,0,0,14,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,AC/DC Bag,Bag,1,Hampton Coliseum,Hampton,VA,USA,->
+1997-11-21,1997,0,11,1,2,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Slave to the Traffic Light,Slave,1,Hampton Coliseum,Hampton,VA,USA,","
+1997-11-21,1997,0,12,5,2,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Loving Cup,Loving Cup,0,Hampton Coliseum,Hampton,VA,USA,
+1997-11-21,1997,0,13,6,e,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Guyute,Guyute,1,Hampton Coliseum,Hampton,VA,USA,
+1997-11-22,1997,0,1,3,1,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Mike's Song,Mike's,1,Hampton Coliseum,Hampton,VA,USA,->
+1997-11-22,1997,0,2,2,1,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,I Am Hydrogen,Hydrogen,1,Hampton Coliseum,Hampton,VA,USA,>
+1997-11-22,1997,0,3,1,1,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Weekapaug Groove,Weekapaug,1,Hampton Coliseum,Hampton,VA,USA,","
+1997-11-22,1997,0,4,2,1,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Harry Hood,Hood,1,Hampton Coliseum,Hampton,VA,USA,>
+1997-11-22,1997,0,5,1,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Train Song,Train Song,1,Hampton Coliseum,Hampton,VA,USA,","
+1997-11-22,1997,0,6,1,1,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Billy Breathes,Billy Breathes,1,Hampton Coliseum,Hampton,VA,USA,","
+1997-11-22,1997,0,7,2,1,0,0,10,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Frankenstein,Frankenstein,0,Hampton Coliseum,Hampton,VA,USA,>
+1997-11-22,1997,0,8,4,1,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Izabella,Izabella,0,Hampton Coliseum,Hampton,VA,USA,
+1997-11-22,1997,0,9,2,2,0,0,8,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Halley's Comet,Halley's,1,Hampton Coliseum,Hampton,VA,USA,>
+1997-11-22,1997,0,10,2,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Tweezer,Tweezer,1,Hampton Coliseum,Hampton,VA,USA,>
+1997-11-22,1997,0,11,2,2,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Black-Eyed Katy,BEK,1,Hampton Coliseum,Hampton,VA,USA,>
+1997-11-22,1997,0,12,2,2,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Piper,Piper,1,Hampton Coliseum,Hampton,VA,USA,>
+1997-11-22,1997,0,13,5,2,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Run Like an Antelope,Antelope,1,Hampton Coliseum,Hampton,VA,USA,
+1997-11-22,1997,0,14,2,e,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Bouncing Around the Room,Bouncin',1,Hampton Coliseum,Hampton,VA,USA,>
+1997-11-22,1997,0,15,6,e,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Tweezer Reprise,Tweeprise,1,Hampton Coliseum,Hampton,VA,USA,
+1997-11-23,1997,0,1,1,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,My Soul,My Soul,0,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,","
+1997-11-23,1997,0,2,2,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Theme From the Bottom,Theme,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,>
+1997-11-23,1997,0,3,1,1,0,0,1,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Black-Eyed Katy,BEK,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,","
+1997-11-23,1997,0,4,1,1,0,0,10,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Sparkle,Sparkle,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,","
+1997-11-23,1997,0,5,2,1,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Twist,Twist,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,>
+1997-11-23,1997,0,6,3,1,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Stash,Stash,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,->
+1997-11-23,1997,0,7,1,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,NICU,NICU,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,","
+1997-11-23,1997,0,8,2,1,0,0,10,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Fluffhead,Fluffhead,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,>
+1997-11-23,1997,0,9,4,1,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Character Zero,Character Zero,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,
+1997-11-23,1997,0,10,3,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Bathtub Gin,Gin,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,->
+1997-11-23,1997,0,11,3,2,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Down with Disease,DwD,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,->
+1997-11-23,1997,0,12,3,2,0,0,266,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Low Rider,Low Rider,0,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,->
+1997-11-23,1997,0,13,1,2,0,0,0,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Down with Disease,DwD,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,","
+1997-11-23,1997,0,14,5,2,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Bold As Love,Bold As Love,0,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,
+1997-11-23,1997,0,15,6,e,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Julius,Julius,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,
+1997-11-26,1997,0,1,2,1,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Tweezer,Tweezer,1,Hartford Civic Center,Hartford,CT,USA,>
+1997-11-26,1997,0,2,2,1,0,0,1,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Sparkle,Sparkle,1,Hartford Civic Center,Hartford,CT,USA,>
+1997-11-26,1997,0,3,2,1,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Gumbo,Gumbo,1,Hartford Civic Center,Hartford,CT,USA,>
+1997-11-26,1997,0,4,1,1,0,0,1,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,My Soul,My Soul,0,Hartford Civic Center,Hartford,CT,USA,","
+1997-11-26,1997,0,5,1,1,0,0,12,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,McGrupp and the Watchful Hosemasters,McGrupp,1,Hartford Civic Center,Hartford,CT,USA,","
+1997-11-26,1997,0,6,1,1,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Dirt,Dirt,0,Hartford Civic Center,Hartford,CT,USA,","
+1997-11-26,1997,0,7,1,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Split Open and Melt,SOAMelt,1,Hartford Civic Center,Hartford,CT,USA,","
+1997-11-26,1997,0,8,2,1,0,0,12,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,The Horse,Horse,1,Hartford Civic Center,Hartford,CT,USA,>
+1997-11-26,1997,0,9,1,1,0,0,12,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Silent in the Morning,Silent,1,Hartford Civic Center,Hartford,CT,USA,","
+1997-11-26,1997,0,10,4,1,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Taste,Taste,1,Hartford Civic Center,Hartford,CT,USA,
+1997-11-26,1997,0,11,3,2,0,0,1,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Character Zero,Character Zero,1,Hartford Civic Center,Hartford,CT,USA,->
+1997-11-26,1997,0,12,3,2,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Also Sprach Zarathustra,2001,0,Hartford Civic Center,Hartford,CT,USA,->
+1997-11-26,1997,0,13,3,2,0,0,10,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Cities,Cities,0,Hartford Civic Center,Hartford,CT,USA,->
+1997-11-26,1997,0,14,2,2,0,0,11,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Ya Mar,Ya Mar,0,Hartford Civic Center,Hartford,CT,USA,>
+1997-11-26,1997,0,15,2,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Punch You in the Eye,PYITE,1,Hartford Civic Center,Hartford,CT,USA,>
+1997-11-26,1997,0,16,1,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Prince Caspian,Caspian,1,Hartford Civic Center,Hartford,CT,USA,","
+1997-11-26,1997,0,17,2,2,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Poor Heart,Poor Heart,1,Hartford Civic Center,Hartford,CT,USA,>
+1997-11-26,1997,0,18,5,2,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Tweezer Reprise,Tweeprise,1,Hartford Civic Center,Hartford,CT,USA,
+1997-11-26,1997,0,19,6,e,0,0,14,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Cavern,Cavern,1,Hartford Civic Center,Hartford,CT,USA,
+1997-11-28,1997,0,1,2,1,0,0,57,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,The Curtain,Curtain,1,Worcester Centrum Centre,Worcester,MA,USA,>
+1997-11-28,1997,0,2,3,1,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,You Enjoy Myself,YEM,1,Worcester Centrum Centre,Worcester,MA,USA,->
+1997-11-28,1997,0,3,1,1,0,0,55,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,I Didn't Know,IDK,1,Worcester Centrum Centre,Worcester,MA,USA,","
+1997-11-28,1997,0,4,1,1,0,0,8,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Maze,Maze,1,Worcester Centrum Centre,Worcester,MA,USA,","
+1997-11-28,1997,0,5,1,1,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Farmhouse,Farmhouse,1,Worcester Centrum Centre,Worcester,MA,USA,","
+1997-11-28,1997,0,6,1,1,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Black-Eyed Katy,BEK,1,Worcester Centrum Centre,Worcester,MA,USA,","
+1997-11-28,1997,0,7,2,1,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Theme From the Bottom,Theme,1,Worcester Centrum Centre,Worcester,MA,USA,>
+1997-11-28,1997,0,8,4,1,0,0,11,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Rocky Top,Rocky Top,0,Worcester Centrum Centre,Worcester,MA,USA,
+1997-11-28,1997,0,9,2,2,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Timber (Jerry the Mule),Timber Ho,0,Worcester Centrum Centre,Worcester,MA,USA,>
+1997-11-28,1997,0,10,1,2,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Limb By Limb,LxL,1,Worcester Centrum Centre,Worcester,MA,USA,","
+1997-11-28,1997,0,11,2,2,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Slave to the Traffic Light,Slave,1,Worcester Centrum Centre,Worcester,MA,USA,>
+1997-11-28,1997,0,12,2,2,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Ghost,Ghost,1,Worcester Centrum Centre,Worcester,MA,USA,>
+1997-11-28,1997,0,13,5,2,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Johnny B. Goode,JBG,0,Worcester Centrum Centre,Worcester,MA,USA,
+1997-11-28,1997,0,14,6,e,0,0,1,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,My Soul,My Soul,0,Worcester Centrum Centre,Worcester,MA,USA,
+1997-11-29,1997,0,1,1,1,0,0,11,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,The Wedge,Wedge,1,Worcester Centrum Centre,Worcester,MA,USA,","
+1997-11-29,1997,0,2,1,1,0,0,17,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Foam,Foam,1,Worcester Centrum Centre,Worcester,MA,USA,","
+1997-11-29,1997,0,3,3,1,0,0,8,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Simple,Simple,1,Worcester Centrum Centre,Worcester,MA,USA,->
+1997-11-29,1997,0,4,2,1,0,0,67,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,The Man Who Stepped Into Yesterday,TMWSIY,1,Worcester Centrum Centre,Worcester,MA,USA,>
+1997-11-29,1997,0,5,2,1,0,0,67,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Avenu Malkenu,Avenu Malkenu,0,Worcester Centrum Centre,Worcester,MA,USA,>
+1997-11-29,1997,0,6,1,1,0,0,0,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,The Man Who Stepped Into Yesterday,TMWSIY,1,Worcester Centrum Centre,Worcester,MA,USA,","
+1997-11-29,1997,0,7,1,1,0,0,55,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,The Sloth,Sloth,1,Worcester Centrum Centre,Worcester,MA,USA,","
+1997-11-29,1997,0,8,1,1,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Ginseng Sullivan,Ginseng,0,Worcester Centrum Centre,Worcester,MA,USA,","
+1997-11-29,1997,0,9,1,1,0,0,22,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Saw It Again,Saw It Again,1,Worcester Centrum Centre,Worcester,MA,USA,","
+1997-11-29,1997,0,10,1,1,0,0,15,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Horn,Horn,1,Worcester Centrum Centre,Worcester,MA,USA,","
+1997-11-29,1997,0,11,1,1,0,0,11,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Water in the Sky,Water in the Sky,1,Worcester Centrum Centre,Worcester,MA,USA,","
+1997-11-29,1997,0,12,4,1,0,0,8,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,David Bowie,Bowie,1,Worcester Centrum Centre,Worcester,MA,USA,
+1997-11-29,1997,0,13,2,2,0,0,9,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Runaway Jim,Runaway Jim,1,Worcester Centrum Centre,Worcester,MA,USA,>
+1997-11-29,1997,0,14,2,2,0,0,36,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Strange Design,Strange Design,1,Worcester Centrum Centre,Worcester,MA,USA,>
+1997-11-29,1997,0,15,2,2,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Harry Hood,Hood,1,Worcester Centrum Centre,Worcester,MA,USA,>
+1997-11-29,1997,0,16,1,2,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Prince Caspian,Caspian,1,Worcester Centrum Centre,Worcester,MA,USA,","
+1997-11-29,1997,0,17,5,2,0,0,49,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Suzy Greenberg,Suzy,1,Worcester Centrum Centre,Worcester,MA,USA,
+1997-11-29,1997,0,18,1,e,0,0,11,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Buffalo Bill,Buffalo Bill,1,Worcester Centrum Centre,Worcester,MA,USA,","
+1997-11-29,1997,0,19,2,e,0,0,437,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Moby Dick,Moby Dick,0,Worcester Centrum Centre,Worcester,MA,USA,>
+1997-11-29,1997,0,20,6,e,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Fire,Fire,0,Worcester Centrum Centre,Worcester,MA,USA,
+1997-11-30,1997,0,1,1,1,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Guyute,Guyute,1,Worcester Centrum Centre,Worcester,MA,USA,","
+1997-11-30,1997,0,2,1,1,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Funky Bitch,Funky Bitch,0,Worcester Centrum Centre,Worcester,MA,USA,","
+1997-11-30,1997,0,3,3,1,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Wolfman's Brother,Wolfman's,1,Worcester Centrum Centre,Worcester,MA,USA,->
+1997-11-30,1997,0,4,1,1,0,0,14,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Love Me,Love Me,0,Worcester Centrum Centre,Worcester,MA,USA,","
+1997-11-30,1997,0,5,1,1,0,0,13,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,The Squirming Coil,Coil,1,Worcester Centrum Centre,Worcester,MA,USA,","
+1997-11-30,1997,0,6,4,1,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Loving Cup,Loving Cup,0,Worcester Centrum Centre,Worcester,MA,USA,
+1997-11-30,1997,0,7,1,2,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,NICU,NICU,1,Worcester Centrum Centre,Worcester,MA,USA,","
+1997-11-30,1997,0,8,3,2,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Stash,Stash,1,Worcester Centrum Centre,Worcester,MA,USA,->
+1997-11-30,1997,0,9,2,2,0,0,14,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Free,Free,1,Worcester Centrum Centre,Worcester,MA,USA,>
+1997-11-30,1997,0,10,3,2,0,0,13,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Jam,Jam,0,Worcester Centrum Centre,Worcester,MA,USA,->
+1997-11-30,1997,0,11,2,2,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Piper,Piper,1,Worcester Centrum Centre,Worcester,MA,USA,>
+1997-11-30,1997,0,12,1,2,0,0,8,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,When the Circus Comes,Circus,0,Worcester Centrum Centre,Worcester,MA,USA,","
+1997-11-30,1997,0,13,5,2,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Run Like an Antelope,Antelope,1,Worcester Centrum Centre,Worcester,MA,USA,
+1997-11-30,1997,0,14,6,e,0,0,1160,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Them Changes,Them Changes,0,Worcester Centrum Centre,Worcester,MA,USA,
+1997-12-01,1997,1,1,6,1,0,0,0,Not Part of a Tour,No Tour,The Star-Spangled Banner,Star Spangled Banner,0,CoreStates Center,Philadelphia,PA,USA,
+1997-12-02,1997,0,1,2,1,0,0,55,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Buried Alive,Buried Alive,1,CoreStates Spectrum,Philadelphia,PA,USA,>
+1997-12-02,1997,0,2,3,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Down with Disease,DwD,1,CoreStates Spectrum,Philadelphia,PA,USA,->
+1997-12-02,1997,0,3,1,1,0,0,8,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Makisupa Policeman,Makisupa,1,CoreStates Spectrum,Philadelphia,PA,USA,","
+1997-12-02,1997,0,4,1,1,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Chalk Dust Torture,CDT,1,CoreStates Spectrum,Philadelphia,PA,USA,","
+1997-12-02,1997,0,5,2,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Ghost,Ghost,1,CoreStates Spectrum,Philadelphia,PA,USA,>
+1997-12-02,1997,0,6,1,1,0,0,23,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Divided Sky,Divided,1,CoreStates Spectrum,Philadelphia,PA,USA,","
+1997-12-02,1997,0,7,2,1,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Dirt,Dirt,0,CoreStates Spectrum,Philadelphia,PA,USA,>
+1997-12-02,1997,0,8,1,1,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Taste,Taste,1,CoreStates Spectrum,Philadelphia,PA,USA,","
+1997-12-02,1997,0,9,4,1,0,0,69,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,The Star-Spangled Banner,Star Spangled Banner,0,CoreStates Spectrum,Philadelphia,PA,USA,
+1997-12-02,1997,0,10,3,2,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Mike's Song,Mike's,1,CoreStates Spectrum,Philadelphia,PA,USA,->
+1997-12-02,1997,0,11,3,2,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Simple,Simple,1,CoreStates Spectrum,Philadelphia,PA,USA,->
+1997-12-02,1997,0,12,3,2,0,0,109,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Dog Faced Boy,Dog Faced Boy,1,CoreStates Spectrum,Philadelphia,PA,USA,->
+1997-12-02,1997,0,13,3,2,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Ya Mar,Ya Mar,0,CoreStates Spectrum,Philadelphia,PA,USA,->
+1997-12-02,1997,0,14,1,2,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Weekapaug Groove,Weekapaug,1,CoreStates Spectrum,Philadelphia,PA,USA,","
+1997-12-02,1997,0,15,1,2,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Bouncing Around the Room,Bouncin',1,CoreStates Spectrum,Philadelphia,PA,USA,","
+1997-12-02,1997,0,16,5,2,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Character Zero,Character Zero,1,CoreStates Spectrum,Philadelphia,PA,USA,
+1997-12-02,1997,0,17,2,e,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Ginseng Sullivan,Ginseng,0,CoreStates Spectrum,Philadelphia,PA,USA,>
+1997-12-02,1997,0,18,6,e,0,0,16,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Sample in a Jar,Sample,1,CoreStates Spectrum,Philadelphia,PA,USA,
+1997-12-03,1997,0,1,2,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Punch You in the Eye,PYITE,1,CoreStates Spectrum,Philadelphia,PA,USA,>
+1997-12-03,1997,0,2,1,1,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,My Soul,My Soul,0,CoreStates Spectrum,Philadelphia,PA,USA,","
+1997-12-03,1997,0,3,1,1,0,0,52,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Drowned,Drowned,0,CoreStates Spectrum,Philadelphia,PA,USA,","
+1997-12-03,1997,0,4,1,1,0,0,11,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,The Old Home Place,The Old Home Place,0,CoreStates Spectrum,Philadelphia,PA,USA,","
+1997-12-03,1997,0,5,2,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Gumbo,Gumbo,1,CoreStates Spectrum,Philadelphia,PA,USA,>
+1997-12-03,1997,0,6,2,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Also Sprach Zarathustra,2001,0,CoreStates Spectrum,Philadelphia,PA,USA,>
+1997-12-03,1997,0,7,4,1,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,You Enjoy Myself,YEM,1,CoreStates Spectrum,Philadelphia,PA,USA,
+1997-12-03,1997,0,8,3,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,David Bowie,Bowie,1,CoreStates Spectrum,Philadelphia,PA,USA,->
+1997-12-03,1997,0,9,2,2,0,0,9,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Possum,Possum,1,CoreStates Spectrum,Philadelphia,PA,USA,>
+1997-12-03,1997,0,10,3,2,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Jam,Jam,0,CoreStates Spectrum,Philadelphia,PA,USA,->
+1997-12-03,1997,0,11,2,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Prince Caspian,Caspian,1,CoreStates Spectrum,Philadelphia,PA,USA,>
+1997-12-03,1997,0,12,2,2,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Frankenstein,Frankenstein,0,CoreStates Spectrum,Philadelphia,PA,USA,>
+1997-12-03,1997,0,13,5,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Harry Hood,Hood,1,CoreStates Spectrum,Philadelphia,PA,USA,
+1997-12-03,1997,0,14,6,e,0,0,20,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Crossroads,Crossroads,0,CoreStates Spectrum,Philadelphia,PA,USA,
+1997-12-05,1997,0,1,2,1,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Ghost,Ghost,1,CSU Convocation Center,Cleveland,OH,USA,>
+1997-12-05,1997,0,2,2,1,0,0,12,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Wilson,Wilson,1,CSU Convocation Center,Cleveland,OH,USA,>
+1997-12-05,1997,0,3,2,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Funky Bitch,Funky Bitch,0,CSU Convocation Center,Cleveland,OH,USA,>
+1997-12-05,1997,0,4,1,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Black-Eyed Katy,BEK,1,CSU Convocation Center,Cleveland,OH,USA,","
+1997-12-05,1997,0,5,2,1,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Sparkle,Sparkle,1,CSU Convocation Center,Cleveland,OH,USA,>
+1997-12-05,1997,0,6,3,1,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Runaway Jim,Runaway Jim,1,CSU Convocation Center,Cleveland,OH,USA,->
+1997-12-05,1997,0,7,1,1,0,0,57,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,"My Friend, My Friend",My Friend,1,CSU Convocation Center,Cleveland,OH,USA,","
+1997-12-05,1997,0,8,1,1,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Ginseng Sullivan,Ginseng,0,CSU Convocation Center,Cleveland,OH,USA,","
+1997-12-05,1997,0,9,2,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Limb By Limb,LxL,1,CSU Convocation Center,Cleveland,OH,USA,>
+1997-12-05,1997,0,10,4,1,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Character Zero,Character Zero,1,CSU Convocation Center,Cleveland,OH,USA,
+1997-12-05,1997,0,11,1,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Stash,Stash,1,CSU Convocation Center,Cleveland,OH,USA,","
+1997-12-05,1997,0,12,1,2,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Bouncing Around the Room,Bouncin',1,CSU Convocation Center,Cleveland,OH,USA,","
+1997-12-05,1997,0,13,2,2,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Julius,Julius,1,CSU Convocation Center,Cleveland,OH,USA,>
+1997-12-05,1997,0,14,2,2,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Slave to the Traffic Light,Slave,1,CSU Convocation Center,Cleveland,OH,USA,>
+1997-12-05,1997,0,15,1,2,0,0,22,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,The Lizards,Lizards,1,CSU Convocation Center,Cleveland,OH,USA,","
+1997-12-05,1997,0,16,2,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Loving Cup,Loving Cup,0,CSU Convocation Center,Cleveland,OH,USA,>
+1997-12-05,1997,0,17,5,2,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Chalk Dust Torture,CDT,1,CSU Convocation Center,Cleveland,OH,USA,
+1997-12-05,1997,0,18,6,e,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Bold As Love,Bold As Love,0,CSU Convocation Center,Cleveland,OH,USA,
+1997-12-06,1997,0,1,1,1,0,0,19,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Golgi Apparatus,Golgi,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,","
+1997-12-06,1997,0,2,1,1,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Run Like an Antelope,Antelope,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,","
+1997-12-06,1997,0,3,2,1,0,0,9,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Train Song,Train Song,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,>
+1997-12-06,1997,0,4,3,1,0,0,8,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Bathtub Gin,Gin,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,->
+1997-12-06,1997,0,5,1,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Foam,Foam,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,","
+1997-12-06,1997,0,6,1,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Sample in a Jar,Sample,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,","
+1997-12-06,1997,0,7,2,1,0,0,11,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Fee,Fee,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,>
+1997-12-06,1997,0,8,1,1,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Maze,Maze,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,","
+1997-12-06,1997,0,9,4,1,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Cavern,Cavern,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,
+1997-12-06,1997,0,10,3,2,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Tweezer,Tweezer,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,->
+1997-12-06,1997,0,11,3,2,0,0,9,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Izabella,Izabella,0,The Palace of Auburn Hills,Auburn Hills,MI,USA,->
+1997-12-06,1997,0,12,3,2,0,0,8,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Twist,Twist,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,->
+1997-12-06,1997,0,13,1,2,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Piper,Piper,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,","
+1997-12-06,1997,0,14,2,2,0,0,19,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Sleeping Monkey,Sleeping Monkey,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,>
+1997-12-06,1997,0,15,5,2,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Tweezer Reprise,Tweeprise,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,
+1997-12-06,1997,0,16,6,e,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Rocky Top,Rocky Top,0,The Palace of Auburn Hills,Auburn Hills,MI,USA,
+1997-12-07,1997,0,1,3,1,0,0,11,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,AC/DC Bag,Bag,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,->
+1997-12-07,1997,0,2,3,1,0,0,415,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Psycho Killer,Psycho Killer,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,->
+1997-12-07,1997,0,3,1,1,0,0,13,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Jesus Just Left Chicago,JJLC,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
+1997-12-07,1997,0,4,2,1,0,0,26,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,My Mind's Got a Mind of its Own,MMGAMOIO,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
+1997-12-07,1997,0,5,3,1,0,0,24,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,It's Ice,It's Ice,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,->
+1997-12-07,1997,0,6,2,1,0,0,23,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Swept Away,Swept Away,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
+1997-12-07,1997,0,7,2,1,0,0,23,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Steep,Steep,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
+1997-12-07,1997,0,8,2,1,0,0,0,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,It's Ice,It's Ice,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
+1997-12-07,1997,0,9,1,1,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Theme From the Bottom,Theme,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
+1997-12-07,1997,0,10,1,1,0,0,59,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Tube,Tube,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
+1997-12-07,1997,0,11,3,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Jam,Jam,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,->
+1997-12-07,1997,0,12,4,1,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Slave to the Traffic Light,Slave,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,
+1997-12-07,1997,0,13,2,2,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Timber (Jerry the Mule),Timber Ho,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
+1997-12-07,1997,0,14,3,2,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Wolfman's Brother,Wolfman's,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,->
+1997-12-07,1997,0,15,2,2,0,0,993,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Boogie On Reggae Woman,Boogie On,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
+1997-12-07,1997,0,16,1,2,0,0,13,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Reba,Reba,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
+1997-12-07,1997,0,17,2,2,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Guyute,Guyute,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
+1997-12-07,1997,0,18,5,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Possum,Possum,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,
+1997-12-07,1997,0,19,6,e,0,0,58,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,A Day in the Life,ADITL,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,
+1997-12-09,1997,0,1,2,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Mike's Song,Mike's,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,>
+1997-12-09,1997,0,2,1,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Chalk Dust Torture,CDT,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,","
+1997-12-09,1997,0,3,1,1,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,My Soul,My Soul,0,"Bryce Jordan Center, Penn State University",State College,PA,USA,","
+1997-12-09,1997,0,4,2,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Stash,Stash,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,>
+1997-12-09,1997,0,5,2,1,0,0,11,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,I Am Hydrogen,Hydrogen,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,>
+1997-12-09,1997,0,6,1,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Weekapaug Groove,Weekapaug,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,","
+1997-12-09,1997,0,7,1,1,0,0,12,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Dogs Stole Things,Dogs Stole Things,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,","
+1997-12-09,1997,0,8,1,1,0,0,12,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Beauty of My Dreams,Beauty of My Dreams,0,"Bryce Jordan Center, Penn State University",State College,PA,USA,","
+1997-12-09,1997,0,9,2,1,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Horn,Horn,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,>
+1997-12-09,1997,0,10,4,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Loving Cup,Loving Cup,0,"Bryce Jordan Center, Penn State University",State College,PA,USA,
+1997-12-09,1997,0,11,2,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Julius,Julius,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,>
+1997-12-09,1997,0,12,3,2,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Simple,Simple,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,->
+1997-12-09,1997,0,13,2,2,0,0,1,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Timber (Jerry the Mule),Timber Ho,0,"Bryce Jordan Center, Penn State University",State College,PA,USA,>
+1997-12-09,1997,0,14,1,2,0,0,19,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Contact,Contact,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,","
+1997-12-09,1997,0,15,2,2,0,0,59,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Axilla,Axilla,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,>
+1997-12-09,1997,0,16,5,2,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Harry Hood,Hood,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,
+1997-12-09,1997,0,17,6,e,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Fire,Fire,0,"Bryce Jordan Center, Penn State University",State College,PA,USA,
+1997-12-11,1997,0,1,2,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Punch You in the Eye,PYITE,1,Rochester War Memorial,Rochester,NY,USA,>
+1997-12-11,1997,0,2,3,1,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Down with Disease,DwD,1,Rochester War Memorial,Rochester,NY,USA,->
+1997-12-11,1997,0,3,1,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Maze,Maze,1,Rochester War Memorial,Rochester,NY,USA,","
+1997-12-11,1997,0,4,1,1,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Dirt,Dirt,0,Rochester War Memorial,Rochester,NY,USA,","
+1997-12-11,1997,0,5,1,1,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Limb By Limb,LxL,1,Rochester War Memorial,Rochester,NY,USA,","
+1997-12-11,1997,0,6,2,1,0,0,1,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Loving Cup,Loving Cup,0,Rochester War Memorial,Rochester,NY,USA,>
+1997-12-11,1997,0,7,4,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Rocky Top,Rocky Top,0,Rochester War Memorial,Rochester,NY,USA,
+1997-12-11,1997,0,8,3,2,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Drowned,Drowned,0,Rochester War Memorial,Rochester,NY,USA,->
+1997-12-11,1997,0,9,3,2,0,0,1167,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Roses Are Free,Roses,0,Rochester War Memorial,Rochester,NY,USA,->
+1997-12-11,1997,0,10,2,2,0,0,118,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Big Black Furry Creature from Mars,BBFCFM,1,Rochester War Memorial,Rochester,NY,USA,>
+1997-12-11,1997,0,11,3,2,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Ghost,Ghost,1,Rochester War Memorial,Rochester,NY,USA,->
+1997-12-11,1997,0,12,3,2,0,0,0,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Down with Disease,DwD,1,Rochester War Memorial,Rochester,NY,USA,->
+1997-12-11,1997,0,13,5,2,0,0,9,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Johnny B. Goode,JBG,0,Rochester War Memorial,Rochester,NY,USA,
+1997-12-11,1997,0,14,6,e,0,0,33,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Waste,Waste,1,Rochester War Memorial,Rochester,NY,USA,
+1997-12-12,1997,0,1,3,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Funky Bitch,Funky Bitch,0,Pepsi Arena,Albany,NY,USA,->
+1997-12-12,1997,0,2,2,1,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Also Sprach Zarathustra,2001,0,Pepsi Arena,Albany,NY,USA,>
+1997-12-12,1997,0,3,1,1,0,0,22,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Camel Walk,Camel Walk,1,Pepsi Arena,Albany,NY,USA,","
+1997-12-12,1997,0,4,2,1,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Taste,Taste,1,Pepsi Arena,Albany,NY,USA,>
+1997-12-12,1997,0,5,1,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Bouncing Around the Room,Bouncin',1,Pepsi Arena,Albany,NY,USA,","
+1997-12-12,1997,0,6,2,1,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Tweezer,Tweezer,1,Pepsi Arena,Albany,NY,USA,>
+1997-12-12,1997,0,7,2,1,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Train Song,Train Song,1,Pepsi Arena,Albany,NY,USA,>
+1997-12-12,1997,0,8,4,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Character Zero,Character Zero,1,Pepsi Arena,Albany,NY,USA,
+1997-12-12,1997,0,9,3,2,0,0,9,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Saw It Again,Saw It Again,1,Pepsi Arena,Albany,NY,USA,->
+1997-12-12,1997,0,10,2,2,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Piper,Piper,1,Pepsi Arena,Albany,NY,USA,>
+1997-12-12,1997,0,11,2,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Swept Away,Swept Away,1,Pepsi Arena,Albany,NY,USA,>
+1997-12-12,1997,0,12,2,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Steep,Steep,1,Pepsi Arena,Albany,NY,USA,>
+1997-12-12,1997,0,13,2,2,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Prince Caspian,Caspian,1,Pepsi Arena,Albany,NY,USA,>
+1997-12-12,1997,0,14,3,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Jam,Jam,0,Pepsi Arena,Albany,NY,USA,->
+1997-12-12,1997,0,15,2,2,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Izabella,Izabella,0,Pepsi Arena,Albany,NY,USA,>
+1997-12-12,1997,0,16,5,2,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Tweezer Reprise,Tweeprise,1,Pepsi Arena,Albany,NY,USA,
+1997-12-12,1997,0,17,1,e,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Guyute,Guyute,1,Pepsi Arena,Albany,NY,USA,","
+1997-12-12,1997,0,18,6,e,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Run Like an Antelope,Antelope,1,Pepsi Arena,Albany,NY,USA,
+1997-12-13,1997,0,1,2,1,0,0,8,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Ya Mar,Ya Mar,0,Pepsi Arena,Albany,NY,USA,>
+1997-12-13,1997,0,2,2,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Axilla,Axilla,1,Pepsi Arena,Albany,NY,USA,>
+1997-12-13,1997,0,3,1,1,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Theme From the Bottom,Theme,1,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,4,1,1,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Ginseng Sullivan,Ginseng,0,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,5,1,1,0,0,10,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Strange Design,Strange Design,1,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,6,1,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Sample in a Jar,Sample,1,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,7,1,1,0,0,21,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Vultures,Vultures,1,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,8,1,1,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Tube,Tube,1,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,9,4,1,0,0,26,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Good Times Bad Times,GTBT,0,Pepsi Arena,Albany,NY,USA,
+1997-12-13,1997,0,10,2,2,0,0,9,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,NICU,NICU,1,Pepsi Arena,Albany,NY,USA,>
+1997-12-13,1997,0,11,2,2,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Punch You in the Eye,PYITE,1,Pepsi Arena,Albany,NY,USA,>
+1997-12-13,1997,0,12,2,2,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Ghost,Ghost,1,Pepsi Arena,Albany,NY,USA,>
+1997-12-13,1997,0,13,3,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Mike's Song,Mike's,1,Pepsi Arena,Albany,NY,USA,->
+1997-12-13,1997,0,14,1,2,0,0,16,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Llama,Llama,1,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,15,1,2,0,0,9,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,When the Circus Comes,Circus,0,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,16,3,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Weekapaug Groove,Weekapaug,1,Pepsi Arena,Albany,NY,USA,->
+1997-12-13,1997,0,17,3,2,0,0,60,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Catapult,Catapult,1,Pepsi Arena,Albany,NY,USA,->
+1997-12-13,1997,0,18,1,2,0,0,0,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Weekapaug Groove,Weekapaug,1,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,19,5,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Harry Hood,Hood,1,Pepsi Arena,Albany,NY,USA,
+1997-12-13,1997,0,20,1,e,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,My Soul,My Soul,0,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,21,6,e,0,0,9,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,The Squirming Coil,Coil,1,Pepsi Arena,Albany,NY,USA,
+1997-12-28,1997,0,1,1,1,0,0,4,1997 NYE Run,1997 NYE,Julius,Julius,1,USAir Arena,Landover,MD,USA,","
+1997-12-28,1997,0,2,2,1,0,0,13,1997 NYE Run,1997 NYE,Cities,Cities,0,USAir Arena,Landover,MD,USA,>
+1997-12-28,1997,0,3,2,1,0,0,12,1997 NYE Run,1997 NYE,The Curtain,Curtain,1,USAir Arena,Landover,MD,USA,>
+1997-12-28,1997,0,4,1,1,0,0,1,1997 NYE Run,1997 NYE,Sample in a Jar,Sample,1,USAir Arena,Landover,MD,USA,","
+1997-12-28,1997,0,5,2,1,0,0,8,1997 NYE Run,1997 NYE,The Old Home Place,The Old Home Place,0,USAir Arena,Landover,MD,USA,>
+1997-12-28,1997,0,6,1,1,0,0,7,1997 NYE Run,1997 NYE,Runaway Jim,Runaway Jim,1,USAir Arena,Landover,MD,USA,","
+1997-12-28,1997,0,7,1,1,0,0,12,1997 NYE Run,1997 NYE,Farmhouse,Farmhouse,1,USAir Arena,Landover,MD,USA,","
+1997-12-28,1997,0,8,1,1,0,0,2,1997 NYE Run,1997 NYE,Funky Bitch,Funky Bitch,0,USAir Arena,Landover,MD,USA,","
+1997-12-28,1997,0,9,1,1,0,0,13,1997 NYE Run,1997 NYE,Split Open and Melt,SOAMelt,1,USAir Arena,Landover,MD,USA,","
+1997-12-28,1997,0,10,1,1,0,0,2,1997 NYE Run,1997 NYE,Bouncing Around the Room,Bouncin',1,USAir Arena,Landover,MD,USA,","
+1997-12-28,1997,0,11,4,1,0,0,2,1997 NYE Run,1997 NYE,Character Zero,Character Zero,1,USAir Arena,Landover,MD,USA,
+1997-12-28,1997,0,12,2,2,0,0,1,1997 NYE Run,1997 NYE,Axilla,Axilla,1,USAir Arena,Landover,MD,USA,>
+1997-12-28,1997,0,13,1,2,0,0,4,1997 NYE Run,1997 NYE,Simple,Simple,1,USAir Arena,Landover,MD,USA,","
+1997-12-28,1997,0,14,2,2,0,0,1,1997 NYE Run,1997 NYE,Ghost,Ghost,1,USAir Arena,Landover,MD,USA,>
+1997-12-28,1997,0,15,2,2,0,0,2,1997 NYE Run,1997 NYE,Drowned,Drowned,0,USAir Arena,Landover,MD,USA,>
+1997-12-28,1997,0,16,1,2,0,0,19,1997 NYE Run,1997 NYE,Scent of a Mule,SOAMule,1,USAir Arena,Landover,MD,USA,","
+1997-12-28,1997,0,17,2,2,0,0,15,1997 NYE Run,1997 NYE,Halley's Comet,Halley's,1,USAir Arena,Landover,MD,USA,>
+1997-12-28,1997,0,18,1,2,0,0,5,1997 NYE Run,1997 NYE,Slave to the Traffic Light,Slave,1,USAir Arena,Landover,MD,USA,","
+1997-12-28,1997,0,19,2,2,0,0,2,1997 NYE Run,1997 NYE,Rocky Top,Rocky Top,0,USAir Arena,Landover,MD,USA,>
+1997-12-28,1997,0,20,5,2,0,0,6,1997 NYE Run,1997 NYE,Cavern,Cavern,1,USAir Arena,Landover,MD,USA,
+1997-12-28,1997,0,21,6,e,0,0,7,1997 NYE Run,1997 NYE,Bold As Love,Bold As Love,0,USAir Arena,Landover,MD,USA,
+1997-12-29,1997,0,1,2,1,2,0,2,1997 NYE Run,1997 NYE,NICU,NICU,1,Madison Square Garden,New York,NY,USA,>
+1997-12-29,1997,0,2,2,1,2,0,7,1997 NYE Run,1997 NYE,Golgi Apparatus,Golgi,1,Madison Square Garden,New York,NY,USA,>
+1997-12-29,1997,0,3,1,1,2,0,9,1997 NYE Run,1997 NYE,Crossroads,Crossroads,0,Madison Square Garden,New York,NY,USA,","
+1997-12-29,1997,0,4,1,1,2,0,20,1997 NYE Run,1997 NYE,Cars Trucks Buses,CTB,1,Madison Square Garden,New York,NY,USA,","
+1997-12-29,1997,0,5,1,1,2,0,3,1997 NYE Run,1997 NYE,Train Song,Train Song,1,Madison Square Garden,New York,NY,USA,","
+1997-12-29,1997,0,6,2,1,2,0,2,1997 NYE Run,1997 NYE,Theme From the Bottom,Theme,1,Madison Square Garden,New York,NY,USA,>
+1997-12-29,1997,0,7,1,1,2,0,15,1997 NYE Run,1997 NYE,Fluffhead,Fluffhead,1,Madison Square Garden,New York,NY,USA,","
+1997-12-29,1997,0,8,1,1,2,0,4,1997 NYE Run,1997 NYE,Dirt,Dirt,0,Madison Square Garden,New York,NY,USA,","
+1997-12-29,1997,0,9,4,1,2,0,3,1997 NYE Run,1997 NYE,Run Like an Antelope,Antelope,1,Madison Square Garden,New York,NY,USA,
+1997-12-29,1997,0,10,3,2,2,0,4,1997 NYE Run,1997 NYE,Down with Disease,DwD,1,Madison Square Garden,New York,NY,USA,->
+1997-12-29,1997,0,11,2,2,2,0,9,1997 NYE Run,1997 NYE,David Bowie,Bowie,1,Madison Square Garden,New York,NY,USA,>
+1997-12-29,1997,0,12,3,2,2,0,6,1997 NYE Run,1997 NYE,Possum,Possum,1,Madison Square Garden,New York,NY,USA,->
+1997-12-29,1997,0,13,2,2,1,0,1177,1997 NYE Run,1997 NYE,I Can't Turn You Loose,I Can't Turn You Loose,0,Madison Square Garden,New York,NY,USA,>
+1997-12-29,1997,0,14,2,2,2,0,0,1997 NYE Run,1997 NYE,Possum,Possum,1,Madison Square Garden,New York,NY,USA,>
+1997-12-29,1997,0,15,1,2,1,0,0,1997 NYE Run,1997 NYE,I Can't Turn You Loose,I Can't Turn You Loose,0,Madison Square Garden,New York,NY,USA,","
+1997-12-29,1997,0,16,1,2,2,0,2,1997 NYE Run,1997 NYE,Tube,Tube,1,Madison Square Garden,New York,NY,USA,","
+1997-12-29,1997,0,17,5,2,2,0,9,1997 NYE Run,1997 NYE,You Enjoy Myself,YEM,1,Madison Square Garden,New York,NY,USA,
+1997-12-29,1997,0,18,6,e,2,0,2,1997 NYE Run,1997 NYE,Good Times Bad Times,GTBT,0,Madison Square Garden,New York,NY,USA,
+1997-12-30,1997,0,1,3,1,0,0,925,1997 NYE Run,1997 NYE,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Madison Square Garden,New York,NY,USA,->
+1997-12-30,1997,0,1,6,1,0,0,228,Not Part of a Tour,No Tour,Self,Self,0,Downtime,New York,NY,USA,
+1997-12-30,1997,0,2,1,1,0,0,4,1997 NYE Run,1997 NYE,Taste,Taste,1,Madison Square Garden,New York,NY,USA,","
+1997-12-30,1997,0,3,2,1,0,0,13,1997 NYE Run,1997 NYE,Water in the Sky,Water in the Sky,1,Madison Square Garden,New York,NY,USA,>
+1997-12-30,1997,0,4,2,1,0,0,3,1997 NYE Run,1997 NYE,Punch You in the Eye,PYITE,1,Madison Square Garden,New York,NY,USA,>
+1997-12-30,1997,0,5,1,1,0,0,6,1997 NYE Run,1997 NYE,Stash,Stash,1,Madison Square Garden,New York,NY,USA,","
+1997-12-30,1997,0,6,1,1,0,0,6,1997 NYE Run,1997 NYE,Chalk Dust Torture,CDT,1,Madison Square Garden,New York,NY,USA,","
+1997-12-30,1997,0,7,4,1,0,0,7,1997 NYE Run,1997 NYE,A Day in the Life,ADITL,0,Madison Square Garden,New York,NY,USA,
+1997-12-30,1997,0,8,2,2,0,0,7,1997 NYE Run,1997 NYE,AC/DC Bag,Bag,1,Madison Square Garden,New York,NY,USA,>
+1997-12-30,1997,0,9,1,2,0,0,15,1997 NYE Run,1997 NYE,McGrupp and the Watchful Hosemasters,McGrupp,1,Madison Square Garden,New York,NY,USA,","
+1997-12-30,1997,0,10,2,2,0,0,25,1997 NYE Run,1997 NYE,Harpua,Harpua,1,Madison Square Garden,New York,NY,USA,>
+1997-12-30,1997,0,11,2,2,0,0,1172,1997 NYE Run,1997 NYE,I'm Gonna Be (500 Miles),I'm Gonna Be (500 Miles),0,Madison Square Garden,New York,NY,USA,>
+1997-12-30,1997,0,12,2,2,0,0,0,1997 NYE Run,1997 NYE,Harpua,Harpua,1,Madison Square Garden,New York,NY,USA,>
+1997-12-30,1997,0,13,2,2,0,0,4,1997 NYE Run,1997 NYE,Izabella,Izabella,0,Madison Square Garden,New York,NY,USA,>
+1997-12-30,1997,0,14,3,2,0,0,3,1997 NYE Run,1997 NYE,Harry Hood,Hood,1,Madison Square Garden,New York,NY,USA,->
+1997-12-30,1997,0,15,2,2,0,0,3,1997 NYE Run,1997 NYE,My Soul,My Soul,0,Madison Square Garden,New York,NY,USA,>
+1997-12-30,1997,0,16,2,2,0,0,8,1997 NYE Run,1997 NYE,Sleeping Monkey,Sleeping Monkey,1,Madison Square Garden,New York,NY,USA,>
+1997-12-30,1997,0,17,5,2,0,0,4,1997 NYE Run,1997 NYE,Guyute,Guyute,1,Madison Square Garden,New York,NY,USA,
+1997-12-30,1997,0,18,3,e,0,0,64,1997 NYE Run,1997 NYE,Carini,Carini,1,Madison Square Garden,New York,NY,USA,->
+1997-12-30,1997,0,19,3,e,0,0,9,1997 NYE Run,1997 NYE,Black-Eyed Katy,BEK,1,Madison Square Garden,New York,NY,USA,->
+1997-12-30,1997,0,20,2,e,0,0,0,1997 NYE Run,1997 NYE,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Madison Square Garden,New York,NY,USA,>
+1997-12-30,1997,0,21,6,e,0,0,10,1997 NYE Run,1997 NYE,Frankenstein,Frankenstein,0,Madison Square Garden,New York,NY,USA,
+1997-12-31,1997,0,1,2,1,0,0,19,1997 NYE Run,1997 NYE,Emotional Rescue,Emotional Rescue,0,Madison Square Garden,New York,NY,USA,>
+1997-12-31,1997,0,2,1,1,0,0,4,1997 NYE Run,1997 NYE,Ya Mar,Ya Mar,0,Madison Square Garden,New York,NY,USA,","
+1997-12-31,1997,0,3,2,1,0,0,155,1997 NYE Run,1997 NYE,My Sweet One,MSO,1,Madison Square Garden,New York,NY,USA,>
+1997-12-31,1997,0,4,1,1,0,0,7,1997 NYE Run,1997 NYE,Beauty of My Dreams,Beauty of My Dreams,0,Madison Square Garden,New York,NY,USA,","
+1997-12-31,1997,0,5,1,1,0,0,8,1997 NYE Run,1997 NYE,Wolfman's Brother,Wolfman's,1,Madison Square Garden,New York,NY,USA,","
+1997-12-31,1997,0,6,1,1,0,0,6,1997 NYE Run,1997 NYE,Limb By Limb,LxL,1,Madison Square Garden,New York,NY,USA,","
+1997-12-31,1997,0,7,2,1,0,0,16,1997 NYE Run,1997 NYE,The Horse,Horse,1,Madison Square Garden,New York,NY,USA,>
+1997-12-31,1997,0,8,2,1,0,0,16,1997 NYE Run,1997 NYE,Silent in the Morning,Silent,1,Madison Square Garden,New York,NY,USA,>
+1997-12-31,1997,0,9,1,1,0,0,14,1997 NYE Run,1997 NYE,The Sloth,Sloth,1,Madison Square Garden,New York,NY,USA,","
+1997-12-31,1997,0,10,4,1,0,0,7,1997 NYE Run,1997 NYE,Fire,Fire,0,Madison Square Garden,New York,NY,USA,
+1997-12-31,1997,0,11,2,2,0,0,7,1997 NYE Run,1997 NYE,Timber (Jerry the Mule),Timber Ho,0,Madison Square Garden,New York,NY,USA,>
+1997-12-31,1997,0,12,1,2,0,0,4,1997 NYE Run,1997 NYE,Mike's Song,Mike's,1,Madison Square Garden,New York,NY,USA,","
+1997-12-31,1997,0,13,2,2,0,0,5,1997 NYE Run,1997 NYE,Piper,Piper,1,Madison Square Garden,New York,NY,USA,>
+1997-12-31,1997,0,14,3,2,0,0,4,1997 NYE Run,1997 NYE,When the Circus Comes,Circus,0,Madison Square Garden,New York,NY,USA,->
+1997-12-31,1997,0,15,2,2,0,0,6,1997 NYE Run,1997 NYE,Roses Are Free,Roses,0,Madison Square Garden,New York,NY,USA,>
+1997-12-31,1997,0,16,4,2,0,0,4,1997 NYE Run,1997 NYE,Weekapaug Groove,Weekapaug,1,Madison Square Garden,New York,NY,USA,
+1997-12-31,1997,0,17,2,3,0,0,5,1997 NYE Run,1997 NYE,Also Sprach Zarathustra,2001,0,Madison Square Garden,New York,NY,USA,>
+1997-12-31,1997,0,18,2,3,0,0,78,1997 NYE Run,1997 NYE,Auld Lang Syne,Auld Lang Syne,0,Madison Square Garden,New York,NY,USA,>
+1997-12-31,1997,0,19,2,3,0,0,5,1997 NYE Run,1997 NYE,Tweezer,Tweezer,1,Madison Square Garden,New York,NY,USA,>
+1997-12-31,1997,0,20,2,3,0,0,6,1997 NYE Run,1997 NYE,Maze,Maze,1,Madison Square Garden,New York,NY,USA,>
+1997-12-31,1997,0,21,2,3,0,0,5,1997 NYE Run,1997 NYE,Prince Caspian,Caspian,1,Madison Square Garden,New York,NY,USA,>
+1997-12-31,1997,0,22,5,3,0,0,6,1997 NYE Run,1997 NYE,Loving Cup,Loving Cup,0,Madison Square Garden,New York,NY,USA,
+1997-12-31,1997,0,23,2,e,0,0,1179,1997 NYE Run,1997 NYE,"Theme from New York, New York","Theme from New York, New York",0,Madison Square Garden,New York,NY,USA,>
+1997-12-31,1997,0,24,6,e,0,0,5,1997 NYE Run,1997 NYE,Tweezer Reprise,Tweeprise,1,Madison Square Garden,New York,NY,USA,

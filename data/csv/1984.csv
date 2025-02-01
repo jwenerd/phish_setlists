@@ -1,0 +1,32 @@
+showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,tourwhen,song,nickname,is_original,venue,city,state,country,trans_mark
+1984-10-23,1984,0,1,6,1,0,0,3,1984 Tour,1984,Makisupa Policeman,Makisupa,1,69 Grant Street,Burlington,VT,USA,
+1984-11-03,1984,0,1,1,1,0,0,3,1984 Tour,1984,In the Midnight Hour,In the Midnight Hour,0,"Slade Hall, University of Vermont",Burlington,VT,USA,","
+1984-11-03,1984,0,2,1,1,0,0,4,1984 Tour,1984,Wild Child,Wild Child,0,"Slade Hall, University of Vermont",Burlington,VT,USA,","
+1984-11-03,1984,0,3,3,1,0,0,4,1984 Tour,1984,Jam,Jam,0,"Slade Hall, University of Vermont",Burlington,VT,USA,->
+1984-11-03,1984,0,4,1,1,0,0,4,1984 Tour,1984,Bertha,Bertha,0,"Slade Hall, University of Vermont",Burlington,VT,USA,","
+1984-11-03,1984,0,5,3,1,0,0,4,1984 Tour,1984,Can't You Hear Me Knocking,Can't You Hear Me Knocking,0,"Slade Hall, University of Vermont",Burlington,VT,USA,->
+1984-11-03,1984,0,6,3,1,1,0,4,1984 Tour,1984,St. Stephen,St. Stephen,0,"Slade Hall, University of Vermont",Burlington,VT,USA,->
+1984-11-03,1984,0,7,1,1,0,0,0,1984 Tour,1984,Can't You Hear Me Knocking,Can't You Hear Me Knocking,0,"Slade Hall, University of Vermont",Burlington,VT,USA,","
+1984-11-03,1984,0,8,1,1,0,0,4,1984 Tour,1984,Camel Walk,Camel Walk,1,"Slade Hall, University of Vermont",Burlington,VT,USA,","
+1984-11-03,1984,0,9,3,1,0,0,4,1984 Tour,1984,Eyes of the World,Eyes of the World,0,"Slade Hall, University of Vermont",Burlington,VT,USA,->
+1984-11-03,1984,0,10,3,1,0,0,4,1984 Tour,1984,Whipping Post,Whipping Post,0,"Slade Hall, University of Vermont",Burlington,VT,USA,->
+1984-11-03,1984,0,11,6,1,0,0,4,1984 Tour,1984,Drums,Drums,0,"Slade Hall, University of Vermont",Burlington,VT,USA,
+1984-12-01,1984,0,1,1,1,0,0,1,1984 Tour,1984,Jam,Jam,0,Nectar's,Burlington,VT,USA,","
+1984-12-01,1984,0,2,2,1,0,0,1,1984 Tour,1984,Wild Child,Wild Child,0,Nectar's,Burlington,VT,USA,>
+1984-12-01,1984,0,3,1,1,0,0,1,1984 Tour,1984,Bertha,Bertha,0,Nectar's,Burlington,VT,USA,","
+1984-12-01,1984,0,4,1,1,0,0,1,1984 Tour,1984,Can't You Hear Me Knocking,Can't You Hear Me Knocking,0,Nectar's,Burlington,VT,USA,","
+1984-12-01,1984,0,5,1,1,0,0,1,1984 Tour,1984,Camel Walk,Camel Walk,1,Nectar's,Burlington,VT,USA,","
+1984-12-01,1984,0,6,1,1,0,0,0,1984 Tour,1984,Jam,Jam,0,Nectar's,Burlington,VT,USA,","
+1984-12-01,1984,0,7,1,1,0,0,1,1984 Tour,1984,In the Midnight Hour,In the Midnight Hour,0,Nectar's,Burlington,VT,USA,","
+1984-12-01,1984,0,8,2,1,0,0,4,1984 Tour,1984,Scarlet Begonias,Scarlet Begonias,0,Nectar's,Burlington,VT,USA,>
+1984-12-01,1984,0,9,2,1,0,0,5,1984 Tour,1984,Fire,Fire,0,Nectar's,Burlington,VT,USA,>
+1984-12-01,1984,0,10,2,1,0,0,4,1984 Tour,1984,Fire on the Mountain,FOTM,0,Nectar's,Burlington,VT,USA,>
+1984-12-01,1984,0,11,1,1,0,0,2,1984 Tour,1984,Makisupa Policeman,Makisupa,1,Nectar's,Burlington,VT,USA,","
+1984-12-01,1984,0,12,1,1,0,0,5,1984 Tour,1984,Slave to the Traffic Light,Slave,1,Nectar's,Burlington,VT,USA,","
+1984-12-01,1984,0,13,1,1,0,0,5,1984 Tour,1984,Spanish Flea,Spanish Flea,0,Nectar's,Burlington,VT,USA,","
+1984-12-01,1984,0,14,3,1,0,0,5,1984 Tour,1984,Don't Want You No More,Don't Want You No More,0,Nectar's,Burlington,VT,USA,->
+1984-12-01,1984,0,15,3,1,0,0,5,1984 Tour,1984,Cities,Cities,0,Nectar's,Burlington,VT,USA,->
+1984-12-01,1984,0,16,3,1,0,0,1,1984 Tour,1984,Drums,Drums,0,Nectar's,Burlington,VT,USA,->
+1984-12-01,1984,0,17,1,1,0,0,5,1984 Tour,1984,Skippy the Wondermouse,Skippy the Wondermouse,1,Nectar's,Burlington,VT,USA,","
+1984-12-01,1984,0,18,5,1,0,0,5,1984 Tour,1984,Fluffhead,Fluffhead,1,Nectar's,Burlington,VT,USA,
+1984-12-01,1984,0,19,6,e,0,0,1,1984 Tour,1984,Eyes of the World,Eyes of the World,0,Nectar's,Burlington,VT,USA,

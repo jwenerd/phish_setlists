@@ -1,0 +1,1084 @@
+showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,tourwhen,song,nickname,is_original,venue,city,state,country,trans_mark
+2010-03-15,2010,1,1,1,1,0,0,0,Not Part of a Tour,No Tour,Watcher of the Skies,Watcher of the Skies,0,The Waldorf Astoria,New York,NY,USA,","
+2010-03-15,2010,1,2,6,1,0,0,0,Not Part of a Tour,No Tour,No Reply At All,No Reply At All,0,The Waldorf Astoria,New York,NY,USA,
+2010-05-13,2010,1,1,1,1,0,0,0,Not Part of a Tour,No Tour,Loving Cup,Loving Cup,0,"NBC Television Studios, Studio 6B",New York,NY,USA,","
+2010-05-13,2010,1,2,6,1,0,0,0,Not Part of a Tour,No Tour,Kill Devil Falls,KDF,1,"NBC Television Studios, Studio 6B",New York,NY,USA,
+2010-06-11,2010,0,1,1,1,0,0,1,2010 Early Summer Tour,2010 Summer,Down with Disease,DwD,1,Toyota Park,Bridgeview,IL,USA,","
+2010-06-11,2010,0,2,1,1,0,0,3,2010 Early Summer Tour,2010 Summer,Wolfman's Brother,Wolfman's,1,Toyota Park,Bridgeview,IL,USA,","
+2010-06-11,2010,0,3,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,Possum,Possum,1,Toyota Park,Bridgeview,IL,USA,","
+2010-06-11,2010,0,4,1,1,0,0,2,2010 Early Summer Tour,2010 Summer,Boogie On Reggae Woman,Boogie On,0,Toyota Park,Bridgeview,IL,USA,","
+2010-06-11,2010,0,5,1,1,0,0,3,2010 Early Summer Tour,2010 Summer,Reba,Reba,1,Toyota Park,Bridgeview,IL,USA,","
+2010-06-11,2010,0,6,1,1,0,0,2,2010 Early Summer Tour,2010 Summer,Jesus Just Left Chicago,JJLC,0,Toyota Park,Bridgeview,IL,USA,","
+2010-06-11,2010,0,7,1,1,0,0,3,2010 Early Summer Tour,2010 Summer,Divided Sky,Divided,1,Toyota Park,Bridgeview,IL,USA,","
+2010-06-11,2010,0,8,2,1,0,0,3,2010 Early Summer Tour,2010 Summer,Golgi Apparatus,Golgi,1,Toyota Park,Bridgeview,IL,USA,>
+2010-06-11,2010,0,9,4,1,0,0,2,2010 Early Summer Tour,2010 Summer,David Bowie,Bowie,1,Toyota Park,Bridgeview,IL,USA,
+2010-06-11,2010,0,10,3,2,0,0,4,2010 Early Summer Tour,2010 Summer,Light,Light,0,Toyota Park,Bridgeview,IL,USA,->
+2010-06-11,2010,0,11,1,2,0,0,3,2010 Early Summer Tour,2010 Summer,Maze,Maze,1,Toyota Park,Bridgeview,IL,USA,","
+2010-06-11,2010,0,12,3,2,0,0,1,2010 Early Summer Tour,2010 Summer,Ghost,Ghost,1,Toyota Park,Bridgeview,IL,USA,->
+2010-06-11,2010,0,13,2,2,0,0,11,2010 Early Summer Tour,2010 Summer,Limb By Limb,LxL,1,Toyota Park,Bridgeview,IL,USA,>
+2010-06-11,2010,0,14,2,2,0,0,3,2010 Early Summer Tour,2010 Summer,Prince Caspian,Caspian,1,Toyota Park,Bridgeview,IL,USA,>
+2010-06-11,2010,0,15,2,2,0,0,6,2010 Early Summer Tour,2010 Summer,The Horse,Horse,1,Toyota Park,Bridgeview,IL,USA,>
+2010-06-11,2010,0,16,1,2,0,0,6,2010 Early Summer Tour,2010 Summer,Silent in the Morning,Silent,1,Toyota Park,Bridgeview,IL,USA,","
+2010-06-11,2010,0,17,1,2,0,0,2,2010 Early Summer Tour,2010 Summer,Run Like an Antelope,Antelope,1,Toyota Park,Bridgeview,IL,USA,","
+2010-06-11,2010,0,18,5,2,0,0,1470,2010 Early Summer Tour,2010 Summer,Show of Life,Show of Life,0,Toyota Park,Bridgeview,IL,USA,
+2010-06-11,2010,0,19,2,e,0,0,3,2010 Early Summer Tour,2010 Summer,Cavern,Cavern,1,Toyota Park,Bridgeview,IL,USA,>
+2010-06-11,2010,0,20,6,e,0,0,1,2010 Early Summer Tour,2010 Summer,Julius,Julius,1,Toyota Park,Bridgeview,IL,USA,
+2010-06-12,2010,0,1,1,1,0,0,1471,2010 Early Summer Tour,2010 Summer,Look Out Cleveland,Look Out Cleveland,0,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2010-06-12,2010,0,2,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,Ocelot,Ocelot,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2010-06-12,2010,0,3,1,1,0,0,2,2010 Early Summer Tour,2010 Summer,Water in the Sky,Water in the Sky,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2010-06-12,2010,0,4,1,1,0,0,5,2010 Early Summer Tour,2010 Summer,Stash,Stash,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2010-06-12,2010,0,5,1,1,0,0,48,2010 Early Summer Tour,2010 Summer,The Ballad of Curtis Loew,Curtis Loew,0,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2010-06-12,2010,0,6,1,1,0,0,5,2010 Early Summer Tour,2010 Summer,Sample in a Jar,Sample,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2010-06-12,2010,0,7,1,1,0,0,8,2010 Early Summer Tour,2010 Summer,Time Turns Elastic,TTE,0,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2010-06-12,2010,0,8,2,1,0,0,5,2010 Early Summer Tour,2010 Summer,Mike's Song,Mike's,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2010-06-12,2010,0,9,2,1,0,0,5,2010 Early Summer Tour,2010 Summer,I Am Hydrogen,Hydrogen,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2010-06-12,2010,0,10,4,1,0,0,5,2010 Early Summer Tour,2010 Summer,Weekapaug Groove,Weekapaug,1,Blossom Music Center,Cuyahoga Falls,OH,USA,
+2010-06-12,2010,0,11,2,2,0,0,2,2010 Early Summer Tour,2010 Summer,Rock and Roll,R&amp;R,0,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2010-06-12,2010,0,12,2,2,0,0,5,2010 Early Summer Tour,2010 Summer,Harry Hood,Hood,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2010-06-12,2010,0,13,2,2,0,0,5,2010 Early Summer Tour,2010 Summer,Backwards Down the Number Line,BDTNL,0,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2010-06-12,2010,0,14,1,2,0,0,14,2010 Early Summer Tour,2010 Summer,Twenty Years Later,Twenty Years Later,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2010-06-12,2010,0,15,2,2,0,0,1471,2010 Early Summer Tour,2010 Summer,Instant Karma!,Instant Karma!,0,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2010-06-12,2010,0,16,2,2,0,0,51,2010 Early Summer Tour,2010 Summer,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2010-06-12,2010,0,17,2,2,0,0,2,2010 Early Summer Tour,2010 Summer,Suzy Greenberg,Suzy,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2010-06-12,2010,0,18,2,2,0,0,10,2010 Early Summer Tour,2010 Summer,Waste,Waste,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2010-06-12,2010,0,19,5,2,0,0,5,2010 Early Summer Tour,2010 Summer,Character Zero,Character Zero,1,Blossom Music Center,Cuyahoga Falls,OH,USA,
+2010-06-12,2010,0,20,6,e,0,0,2,2010 Early Summer Tour,2010 Summer,The Squirming Coil,Coil,1,Blossom Music Center,Cuyahoga Falls,OH,USA,
+2010-06-13,2010,0,1,1,1,0,0,5,2010 Early Summer Tour,2010 Summer,Gotta Jibboo,Jibboo,0,Hersheypark Stadium,Hershey,PA,USA,","
+2010-06-13,2010,0,2,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,Chalk Dust Torture,CDT,1,Hersheypark Stadium,Hershey,PA,USA,","
+2010-06-13,2010,0,3,1,1,0,0,3,2010 Early Summer Tour,2010 Summer,Fluffhead,Fluffhead,1,Hersheypark Stadium,Hershey,PA,USA,","
+2010-06-13,2010,0,4,1,1,0,0,7,2010 Early Summer Tour,2010 Summer,Funky Bitch,Funky Bitch,0,Hersheypark Stadium,Hershey,PA,USA,","
+2010-06-13,2010,0,5,2,1,0,0,4,2010 Early Summer Tour,2010 Summer,Runaway Jim,Runaway Jim,1,Hersheypark Stadium,Hershey,PA,USA,>
+2010-06-13,2010,0,6,1,1,0,0,6,2010 Early Summer Tour,2010 Summer,NICU,NICU,1,Hersheypark Stadium,Hershey,PA,USA,","
+2010-06-13,2010,0,7,2,1,0,0,19,2010 Early Summer Tour,2010 Summer,Horn,Horn,1,Hersheypark Stadium,Hershey,PA,USA,>
+2010-06-13,2010,0,8,2,1,0,0,13,2010 Early Summer Tour,2010 Summer,It's Ice,It's Ice,1,Hersheypark Stadium,Hershey,PA,USA,>
+2010-06-13,2010,0,9,1,1,0,0,6,2010 Early Summer Tour,2010 Summer,Bouncing Around the Room,Bouncin',1,Hersheypark Stadium,Hershey,PA,USA,","
+2010-06-13,2010,0,10,1,1,0,0,10,2010 Early Summer Tour,2010 Summer,Sparkle,Sparkle,1,Hersheypark Stadium,Hershey,PA,USA,","
+2010-06-13,2010,0,11,4,1,0,0,12,2010 Early Summer Tour,2010 Summer,Split Open and Melt,SOAMelt,1,Hersheypark Stadium,Hershey,PA,USA,
+2010-06-13,2010,0,12,2,2,0,0,16,2010 Early Summer Tour,2010 Summer,Drowned,Drowned,0,Hersheypark Stadium,Hershey,PA,USA,>
+2010-06-13,2010,0,13,3,2,0,0,5,2010 Early Summer Tour,2010 Summer,Tweezer,Tweezer,1,Hersheypark Stadium,Hershey,PA,USA,->
+2010-06-13,2010,0,14,2,2,0,0,8,2010 Early Summer Tour,2010 Summer,Twist,Twist,1,Hersheypark Stadium,Hershey,PA,USA,>
+2010-06-13,2010,0,15,2,2,0,0,3,2010 Early Summer Tour,2010 Summer,Piper,Piper,1,Hersheypark Stadium,Hershey,PA,USA,>
+2010-06-13,2010,0,16,1,2,0,0,4,2010 Early Summer Tour,2010 Summer,Free,Free,1,Hersheypark Stadium,Hershey,PA,USA,","
+2010-06-13,2010,0,17,1,2,0,0,4,2010 Early Summer Tour,2010 Summer,Wading in the Velvet Sea,Velvet Sea,1,Hersheypark Stadium,Hershey,PA,USA,","
+2010-06-13,2010,0,18,5,2,0,0,3,2010 Early Summer Tour,2010 Summer,You Enjoy Myself,YEM,1,Hersheypark Stadium,Hershey,PA,USA,
+2010-06-13,2010,0,19,6,e,0,0,7,2010 Early Summer Tour,2010 Summer,Bold As Love,Bold As Love,0,Hersheypark Stadium,Hershey,PA,USA,
+2010-06-15,2010,0,1,1,1,0,0,17,2010 Early Summer Tour,2010 Summer,Tube,Tube,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2010-06-15,2010,0,2,1,1,0,0,6,2010 Early Summer Tour,2010 Summer,Kill Devil Falls,KDF,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2010-06-15,2010,0,3,1,1,0,0,6,2010 Early Summer Tour,2010 Summer,Slave to the Traffic Light,Slave,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2010-06-15,2010,0,4,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,Lawn Boy,Lawn Boy,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2010-06-15,2010,0,5,1,1,0,0,7,2010 Early Summer Tour,2010 Summer,Poor Heart,Poor Heart,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2010-06-15,2010,0,6,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,AC/DC Bag,Bag,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2010-06-15,2010,0,7,2,1,0,0,4,2010 Early Summer Tour,2010 Summer,The Moma Dance,Moma,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2010-06-15,2010,0,8,1,1,0,0,14,2010 Early Summer Tour,2010 Summer,"My Friend, My Friend",My Friend,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2010-06-15,2010,0,9,1,1,0,0,1473,2010 Early Summer Tour,2010 Summer,Cold Water,Cold Water,0,nTelos Pavilion,Portsmouth,VA,USA,","
+2010-06-15,2010,0,10,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,Bathtub Gin,Gin,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2010-06-15,2010,0,11,4,1,0,0,5,2010 Early Summer Tour,2010 Summer,Stealing Time From the Faulty Plan,STFTFP,1,nTelos Pavilion,Portsmouth,VA,USA,
+2010-06-15,2010,0,12,2,2,0,0,6,2010 Early Summer Tour,2010 Summer,Wilson,Wilson,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2010-06-15,2010,0,13,2,2,0,0,4,2010 Early Summer Tour,2010 Summer,Seven Below,Seven Below,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2010-06-15,2010,0,14,2,2,0,0,4,2010 Early Summer Tour,2010 Summer,46 Days,46 Days,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2010-06-15,2010,0,15,2,2,0,0,1473,2010 Early Summer Tour,2010 Summer,Idea,Idea,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2010-06-15,2010,0,16,2,2,0,0,6,2010 Early Summer Tour,2010 Summer,Also Sprach Zarathustra,2001,0,nTelos Pavilion,Portsmouth,VA,USA,>
+2010-06-15,2010,0,17,3,2,0,0,4,2010 Early Summer Tour,2010 Summer,Simple,Simple,1,nTelos Pavilion,Portsmouth,VA,USA,->
+2010-06-15,2010,0,18,1,2,0,0,4,2010 Early Summer Tour,2010 Summer,Joy,Joy,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2010-06-15,2010,0,19,1,2,0,0,10,2010 Early Summer Tour,2010 Summer,Taste,Taste,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2010-06-15,2010,0,20,2,2,0,0,4,2010 Early Summer Tour,2010 Summer,Theme From the Bottom,Theme,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2010-06-15,2010,0,21,5,2,0,0,11,2010 Early Summer Tour,2010 Summer,A Day in the Life,ADITL,0,nTelos Pavilion,Portsmouth,VA,USA,
+2010-06-15,2010,0,22,1,e,0,0,6,2010 Early Summer Tour,2010 Summer,Heavy Things,Heavy Things,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2010-06-15,2010,0,23,6,e,0,0,7,2010 Early Summer Tour,2010 Summer,First Tube,First Tube,0,nTelos Pavilion,Portsmouth,VA,USA,
+2010-06-17,2010,0,1,2,1,0,0,5,2010 Early Summer Tour,2010 Summer,Punch You in the Eye,PYITE,1,The Comcast Theatre,Hartford,CT,USA,>
+2010-06-17,2010,0,2,1,1,0,0,3,2010 Early Summer Tour,2010 Summer,Ocelot,Ocelot,1,The Comcast Theatre,Hartford,CT,USA,","
+2010-06-17,2010,0,3,1,1,0,0,10,2010 Early Summer Tour,2010 Summer,Dinner and a Movie,Dinner and a Movie,1,The Comcast Theatre,Hartford,CT,USA,","
+2010-06-17,2010,0,4,1,1,0,0,3,2010 Early Summer Tour,2010 Summer,Stash,Stash,1,The Comcast Theatre,Hartford,CT,USA,","
+2010-06-17,2010,0,5,1,1,0,0,16,2010 Early Summer Tour,2010 Summer,Esther,Esther,1,The Comcast Theatre,Hartford,CT,USA,","
+2010-06-17,2010,0,6,1,1,0,0,14,2010 Early Summer Tour,2010 Summer,Walk Away,Walk Away,0,The Comcast Theatre,Hartford,CT,USA,","
+2010-06-17,2010,0,7,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,Divided Sky,Divided,1,The Comcast Theatre,Hartford,CT,USA,","
+2010-06-17,2010,0,8,1,1,0,0,13,2010 Early Summer Tour,2010 Summer,When the Circus Comes,Circus,0,The Comcast Theatre,Hartford,CT,USA,","
+2010-06-17,2010,0,9,1,1,0,0,16,2010 Early Summer Tour,2010 Summer,Sugar Shack,Sugar Shack,1,The Comcast Theatre,Hartford,CT,USA,","
+2010-06-17,2010,0,10,2,1,0,0,8,2010 Early Summer Tour,2010 Summer,Alaska,Alaska,0,The Comcast Theatre,Hartford,CT,USA,>
+2010-06-17,2010,0,11,4,1,0,0,4,2010 Early Summer Tour,2010 Summer,Golgi Apparatus,Golgi,1,The Comcast Theatre,Hartford,CT,USA,
+2010-06-17,2010,0,12,2,2,0,0,5,2010 Early Summer Tour,2010 Summer,Party Time,Party Time,1,The Comcast Theatre,Hartford,CT,USA,>
+2010-06-17,2010,0,13,3,2,0,0,4,2010 Early Summer Tour,2010 Summer,Down with Disease,DwD,1,The Comcast Theatre,Hartford,CT,USA,->
+2010-06-17,2010,0,14,3,2,0,0,6,2010 Early Summer Tour,2010 Summer,Sand,Sand,0,The Comcast Theatre,Hartford,CT,USA,->
+2010-06-17,2010,0,15,2,2,0,0,4,2010 Early Summer Tour,2010 Summer,The Horse,Horse,1,The Comcast Theatre,Hartford,CT,USA,>
+2010-06-17,2010,0,16,2,2,0,0,4,2010 Early Summer Tour,2010 Summer,Silent in the Morning,Silent,1,The Comcast Theatre,Hartford,CT,USA,>
+2010-06-17,2010,0,17,1,2,0,0,5,2010 Early Summer Tour,2010 Summer,Guyute,Guyute,1,The Comcast Theatre,Hartford,CT,USA,","
+2010-06-17,2010,0,18,1,2,0,0,16,2010 Early Summer Tour,2010 Summer,Farmhouse,Farmhouse,1,The Comcast Theatre,Hartford,CT,USA,","
+2010-06-17,2010,0,19,2,2,0,0,3,2010 Early Summer Tour,2010 Summer,Mike's Song,Mike's,1,The Comcast Theatre,Hartford,CT,USA,>
+2010-06-17,2010,0,20,2,2,0,0,3,2010 Early Summer Tour,2010 Summer,I Am Hydrogen,Hydrogen,1,The Comcast Theatre,Hartford,CT,USA,>
+2010-06-17,2010,0,21,5,2,0,0,3,2010 Early Summer Tour,2010 Summer,Weekapaug Groove,Weekapaug,1,The Comcast Theatre,Hartford,CT,USA,
+2010-06-17,2010,0,22,6,e,0,0,5,2010 Early Summer Tour,2010 Summer,Shine a Light,Shine a Light,0,The Comcast Theatre,Hartford,CT,USA,
+2010-06-18,2010,0,1,2,1,0,0,47,2010 Early Summer Tour,2010 Summer,Fee,Fee,1,The Comcast Theatre,Hartford,CT,USA,>
+2010-06-18,2010,0,2,1,1,0,0,23,2010 Early Summer Tour,2010 Summer,Rift,Rift,1,The Comcast Theatre,Hartford,CT,USA,","
+2010-06-18,2010,0,3,1,1,0,0,5,2010 Early Summer Tour,2010 Summer,Wolfman's Brother,Wolfman's,1,The Comcast Theatre,Hartford,CT,USA,","
+2010-06-18,2010,0,4,1,1,0,0,1475,2010 Early Summer Tour,2010 Summer,Summer of '89,Summer of '89,1,The Comcast Theatre,Hartford,CT,USA,","
+2010-06-18,2010,0,5,1,1,0,0,15,2010 Early Summer Tour,2010 Summer,Foam,Foam,1,The Comcast Theatre,Hartford,CT,USA,","
+2010-06-18,2010,0,6,2,1,0,0,5,2010 Early Summer Tour,2010 Summer,Possum,Possum,1,The Comcast Theatre,Hartford,CT,USA,>
+2010-06-18,2010,0,7,2,1,0,0,2,2010 Early Summer Tour,2010 Summer,The Moma Dance,Moma,1,The Comcast Theatre,Hartford,CT,USA,>
+2010-06-18,2010,0,8,1,1,0,0,5,2010 Early Summer Tour,2010 Summer,Julius,Julius,1,The Comcast Theatre,Hartford,CT,USA,","
+2010-06-18,2010,0,9,1,1,0,0,5,2010 Early Summer Tour,2010 Summer,Reba,Reba,1,The Comcast Theatre,Hartford,CT,USA,","
+2010-06-18,2010,0,10,4,1,0,0,5,2010 Early Summer Tour,2010 Summer,Cavern,Cavern,1,The Comcast Theatre,Hartford,CT,USA,
+2010-06-18,2010,0,11,2,2,0,0,12,2010 Early Summer Tour,2010 Summer,Halley's Comet,Halley's,1,The Comcast Theatre,Hartford,CT,USA,>
+2010-06-18,2010,0,12,3,2,0,0,5,2010 Early Summer Tour,2010 Summer,Light,Light,0,The Comcast Theatre,Hartford,CT,USA,->
+2010-06-18,2010,0,13,1,2,0,0,37,2010 Early Summer Tour,2010 Summer,Billy Breathes,Billy Breathes,1,The Comcast Theatre,Hartford,CT,USA,","
+2010-06-18,2010,0,14,2,2,0,0,3,2010 Early Summer Tour,2010 Summer,Tweezer,Tweezer,1,The Comcast Theatre,Hartford,CT,USA,>
+2010-06-18,2010,0,15,2,2,0,0,2,2010 Early Summer Tour,2010 Summer,Theme From the Bottom,Theme,1,The Comcast Theatre,Hartford,CT,USA,>
+2010-06-18,2010,0,16,2,2,0,0,4,2010 Early Summer Tour,2010 Summer,Harry Hood,Hood,1,The Comcast Theatre,Hartford,CT,USA,>
+2010-06-18,2010,0,17,1,2,0,0,3,2010 Early Summer Tour,2010 Summer,Wading in the Velvet Sea,Velvet Sea,1,The Comcast Theatre,Hartford,CT,USA,","
+2010-06-18,2010,0,18,5,2,0,0,2,2010 Early Summer Tour,2010 Summer,Stealing Time From the Faulty Plan,STFTFP,1,The Comcast Theatre,Hartford,CT,USA,
+2010-06-18,2010,0,19,2,e,0,0,8,2010 Early Summer Tour,2010 Summer,Sleeping Monkey,Sleeping Monkey,1,The Comcast Theatre,Hartford,CT,USA,>
+2010-06-18,2010,0,20,1,e,0,0,8,2010 Early Summer Tour,2010 Summer,Tweezer Reprise,Tweeprise,1,The Comcast Theatre,Hartford,CT,USA,","
+2010-06-18,2010,0,21,6,e,0,0,0,2010 Early Summer Tour,2010 Summer,Tweezer Reprise,Tweeprise,1,The Comcast Theatre,Hartford,CT,USA,
+2010-06-19,2010,0,1,1,1,0,0,1,2010 Early Summer Tour,2010 Summer,Tweezer Reprise,Tweeprise,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2010-06-19,2010,0,2,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,Chalk Dust Torture,CDT,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2010-06-19,2010,0,3,2,1,0,0,4,2010 Early Summer Tour,2010 Summer,Funky Bitch,Funky Bitch,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2010-06-19,2010,0,4,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,Runaway Jim,Runaway Jim,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2010-06-19,2010,0,5,1,1,0,0,11,2010 Early Summer Tour,2010 Summer,Ya Mar,Ya Mar,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2010-06-19,2010,0,6,1,1,0,0,5,2010 Early Summer Tour,2010 Summer,Sample in a Jar,Sample,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2010-06-19,2010,0,7,2,1,0,0,13,2010 Early Summer Tour,2010 Summer,Axilla,Axilla,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2010-06-19,2010,0,8,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,Fluffhead,Fluffhead,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2010-06-19,2010,0,9,1,1,0,0,3,2010 Early Summer Tour,2010 Summer,Bathtub Gin,Gin,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2010-06-19,2010,0,10,4,1,0,0,5,2010 Early Summer Tour,2010 Summer,Suzy Greenberg,Suzy,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
+2010-06-19,2010,0,11,2,2,0,0,5,2010 Early Summer Tour,2010 Summer,Rock and Roll,R&amp;R,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2010-06-19,2010,0,12,1,2,0,0,4,2010 Early Summer Tour,2010 Summer,Free,Free,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2010-06-19,2010,0,13,1,2,0,0,5,2010 Early Summer Tour,2010 Summer,Backwards Down the Number Line,BDTNL,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2010-06-19,2010,0,14,2,2,0,0,1480,2010 Early Summer Tour,2010 Summer,Halfway to the Moon,Halfway to the Moon,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2010-06-19,2010,0,15,2,2,0,0,6,2010 Early Summer Tour,2010 Summer,Prince Caspian,Caspian,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2010-06-19,2010,0,16,1,2,0,0,3,2010 Early Summer Tour,2010 Summer,Joy,Joy,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2010-06-19,2010,0,17,1,2,0,0,6,2010 Early Summer Tour,2010 Summer,David Bowie,Bowie,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2010-06-19,2010,0,18,5,2,0,0,6,2010 Early Summer Tour,2010 Summer,Show of Life,Show of Life,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
+2010-06-19,2010,0,19,1,e,0,0,5,2010 Early Summer Tour,2010 Summer,The Squirming Coil,Coil,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2010-06-19,2010,0,20,2,e,0,0,5,2010 Early Summer Tour,2010 Summer,Character Zero,Character Zero,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2010-06-19,2010,0,21,6,e,0,0,0,2010 Early Summer Tour,2010 Summer,Tweezer Reprise,Tweeprise,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
+2010-06-20,2010,0,1,1,1,0,0,40,2010 Early Summer Tour,2010 Summer,Brother,Brother,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2010-06-20,2010,0,2,2,1,0,0,4,2010 Early Summer Tour,2010 Summer,AC/DC Bag,Bag,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2010-06-20,2010,0,3,1,1,0,0,9,2010 Early Summer Tour,2010 Summer,Back on the Train,BOTT,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2010-06-20,2010,0,4,1,1,0,0,11,2010 Early Summer Tour,2010 Summer,Undermind,Undermind,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2010-06-20,2010,0,5,1,1,0,0,14,2010 Early Summer Tour,2010 Summer,Cities,Cities,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2010-06-20,2010,0,6,1,1,0,0,5,2010 Early Summer Tour,2010 Summer,Gotta Jibboo,Jibboo,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2010-06-20,2010,0,7,1,1,0,0,11,2010 Early Summer Tour,2010 Summer,Roggae,Roggae,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2010-06-20,2010,0,8,1,1,0,0,19,2010 Early Summer Tour,2010 Summer,Sleep Again,Sleep Again,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2010-06-20,2010,0,9,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,Lawn Boy,Lawn Boy,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2010-06-20,2010,0,10,4,1,0,0,7,2010 Early Summer Tour,2010 Summer,Run Like an Antelope,Antelope,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
+2010-06-20,2010,0,11,2,2,0,0,16,2010 Early Summer Tour,2010 Summer,Carini,Carini,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2010-06-20,2010,0,12,2,2,0,0,20,2010 Early Summer Tour,2010 Summer,The Mango Song,Mango,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2010-06-20,2010,0,13,1,2,0,0,4,2010 Early Summer Tour,2010 Summer,Wilson,Wilson,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2010-06-20,2010,0,14,2,2,0,0,5,2010 Early Summer Tour,2010 Summer,Drowned,Drowned,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2010-06-20,2010,0,15,2,2,0,0,8,2010 Early Summer Tour,2010 Summer,Swept Away,Swept Away,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2010-06-20,2010,0,16,1,2,0,0,8,2010 Early Summer Tour,2010 Summer,Steep,Steep,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2010-06-20,2010,0,17,1,2,0,0,11,2010 Early Summer Tour,2010 Summer,Makisupa Policeman,Makisupa,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2010-06-20,2010,0,18,2,2,0,0,5,2010 Early Summer Tour,2010 Summer,Piper,Piper,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2010-06-20,2010,0,19,2,2,0,0,4,2010 Early Summer Tour,2010 Summer,Also Sprach Zarathustra,2001,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2010-06-20,2010,0,20,5,2,0,0,5,2010 Early Summer Tour,2010 Summer,You Enjoy Myself,YEM,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
+2010-06-20,2010,0,21,6,e,0,0,9,2010 Early Summer Tour,2010 Summer,Frankenstein,Frankenstein,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
+2010-06-22,2010,0,1,1,1,0,0,1478,2010 Early Summer Tour,2010 Summer,Lit O Bit,Lit O Bit,0,Comcast Center,Mansfield,MA,USA,","
+2010-06-22,2010,0,2,1,1,0,0,21,2010 Early Summer Tour,2010 Summer,Camel Walk,Camel Walk,1,Comcast Center,Mansfield,MA,USA,","
+2010-06-22,2010,0,3,1,1,0,0,3,2010 Early Summer Tour,2010 Summer,Possum,Possum,1,Comcast Center,Mansfield,MA,USA,","
+2010-06-22,2010,0,4,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,Divided Sky,Divided,1,Comcast Center,Mansfield,MA,USA,","
+2010-06-22,2010,0,5,2,1,0,0,23,2010 Early Summer Tour,2010 Summer,Dirt,Dirt,0,Comcast Center,Mansfield,MA,USA,>
+2010-06-22,2010,0,6,1,1,0,0,2,2010 Early Summer Tour,2010 Summer,Sample in a Jar,Sample,1,Comcast Center,Mansfield,MA,USA,","
+2010-06-22,2010,0,7,1,1,0,0,5,2010 Early Summer Tour,2010 Summer,Kill Devil Falls,KDF,1,Comcast Center,Mansfield,MA,USA,","
+2010-06-22,2010,0,8,1,1,0,0,1478,2010 Early Summer Tour,2010 Summer,Dr. Gabel,Dr. Gabel,1,Comcast Center,Mansfield,MA,USA,","
+2010-06-22,2010,0,9,4,1,0,0,1,2010 Early Summer Tour,2010 Summer,Run Like an Antelope,Antelope,1,Comcast Center,Mansfield,MA,USA,
+2010-06-22,2010,0,10,2,2,0,0,4,2010 Early Summer Tour,2010 Summer,Mike's Song,Mike's,1,Comcast Center,Mansfield,MA,USA,>
+2010-06-22,2010,0,11,2,2,0,0,4,2010 Early Summer Tour,2010 Summer,I Am Hydrogen,Hydrogen,1,Comcast Center,Mansfield,MA,USA,>
+2010-06-22,2010,0,12,1,2,0,0,4,2010 Early Summer Tour,2010 Summer,Weekapaug Groove,Weekapaug,1,Comcast Center,Mansfield,MA,USA,","
+2010-06-22,2010,0,13,3,2,0,0,13,2010 Early Summer Tour,2010 Summer,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Comcast Center,Mansfield,MA,USA,->
+2010-06-22,2010,0,14,3,2,0,0,3,2010 Early Summer Tour,2010 Summer,Light,Light,0,Comcast Center,Mansfield,MA,USA,->
+2010-06-22,2010,0,15,1,2,0,0,5,2010 Early Summer Tour,2010 Summer,46 Days,46 Days,1,Comcast Center,Mansfield,MA,USA,","
+2010-06-22,2010,0,16,1,2,0,0,8,2010 Early Summer Tour,2010 Summer,Limb By Limb,LxL,1,Comcast Center,Mansfield,MA,USA,","
+2010-06-22,2010,0,17,2,2,0,0,4,2010 Early Summer Tour,2010 Summer,Golgi Apparatus,Golgi,1,Comcast Center,Mansfield,MA,USA,>
+2010-06-22,2010,0,18,1,2,0,0,5,2010 Early Summer Tour,2010 Summer,Slave to the Traffic Light,Slave,1,Comcast Center,Mansfield,MA,USA,","
+2010-06-22,2010,0,19,5,2,0,0,9,2010 Early Summer Tour,2010 Summer,Loving Cup,Loving Cup,0,Comcast Center,Mansfield,MA,USA,
+2010-06-22,2010,0,20,6,e,0,0,5,2010 Early Summer Tour,2010 Summer,First Tube,First Tube,0,Comcast Center,Mansfield,MA,USA,
+2010-06-24,2010,0,1,1,1,0,0,3,2010 Early Summer Tour,2010 Summer,David Bowie,Bowie,1,Susquehanna Bank Center,Camden,NJ,USA,","
+2010-06-24,2010,0,2,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Susquehanna Bank Center,Camden,NJ,USA,","
+2010-06-24,2010,0,3,1,1,0,0,8,2010 Early Summer Tour,2010 Summer,Water in the Sky,Water in the Sky,1,Susquehanna Bank Center,Camden,NJ,USA,","
+2010-06-24,2010,0,4,1,1,0,0,5,2010 Early Summer Tour,2010 Summer,Ocelot,Ocelot,1,Susquehanna Bank Center,Camden,NJ,USA,","
+2010-06-24,2010,0,5,1,1,0,0,19,2010 Early Summer Tour,2010 Summer,Uncle Pen,Uncle Pen,0,Susquehanna Bank Center,Camden,NJ,USA,","
+2010-06-24,2010,0,6,1,1,0,0,9,2010 Early Summer Tour,2010 Summer,Boogie On Reggae Woman,Boogie On,0,Susquehanna Bank Center,Camden,NJ,USA,","
+2010-06-24,2010,0,7,2,1,0,0,20,2010 Early Summer Tour,2010 Summer,Gumbo,Gumbo,1,Susquehanna Bank Center,Camden,NJ,USA,>
+2010-06-24,2010,0,8,2,1,0,0,20,2010 Early Summer Tour,2010 Summer,Timber (Jerry the Mule),Timber Ho,0,Susquehanna Bank Center,Camden,NJ,USA,>
+2010-06-24,2010,0,9,1,1,0,0,13,2010 Early Summer Tour,2010 Summer,I Didn't Know,IDK,1,Susquehanna Bank Center,Camden,NJ,USA,","
+2010-06-24,2010,0,10,1,1,0,0,21,2010 Early Summer Tour,2010 Summer,Birds of a Feather,BOAF,1,Susquehanna Bank Center,Camden,NJ,USA,","
+2010-06-24,2010,0,11,1,1,0,0,7,2010 Early Summer Tour,2010 Summer,Bouncing Around the Room,Bouncin',1,Susquehanna Bank Center,Camden,NJ,USA,","
+2010-06-24,2010,0,12,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,Reba,Reba,1,Susquehanna Bank Center,Camden,NJ,USA,","
+2010-06-24,2010,0,13,4,1,0,0,1479,2010 Early Summer Tour,2010 Summer,The Rover,The Rover,0,Susquehanna Bank Center,Camden,NJ,USA,
+2010-06-24,2010,0,14,3,2,0,0,5,2010 Early Summer Tour,2010 Summer,Down with Disease,DwD,1,Susquehanna Bank Center,Camden,NJ,USA,->
+2010-06-24,2010,0,15,2,2,0,0,40,2010 Early Summer Tour,2010 Summer,Crosseyed and Painless,C&amp;P,0,Susquehanna Bank Center,Camden,NJ,USA,>
+2010-06-24,2010,0,16,2,2,0,0,52,2010 Early Summer Tour,2010 Summer,Nothing,Nothing,0,Susquehanna Bank Center,Camden,NJ,USA,>
+2010-06-24,2010,0,17,2,2,0,0,8,2010 Early Summer Tour,2010 Summer,Twenty Years Later,Twenty Years Later,1,Susquehanna Bank Center,Camden,NJ,USA,>
+2010-06-24,2010,0,18,2,2,0,0,4,2010 Early Summer Tour,2010 Summer,Harry Hood,Hood,1,Susquehanna Bank Center,Camden,NJ,USA,>
+2010-06-24,2010,0,19,2,2,0,0,3,2010 Early Summer Tour,2010 Summer,Fluffhead,Fluffhead,1,Susquehanna Bank Center,Camden,NJ,USA,>
+2010-06-24,2010,0,20,1,2,0,0,4,2010 Early Summer Tour,2010 Summer,Julius,Julius,1,Susquehanna Bank Center,Camden,NJ,USA,","
+2010-06-24,2010,0,21,5,2,0,0,2,2010 Early Summer Tour,2010 Summer,You Enjoy Myself,YEM,1,Susquehanna Bank Center,Camden,NJ,USA,
+2010-06-24,2010,0,22,6,e,0,0,26,2010 Early Summer Tour,2010 Summer,Bug,Bug,0,Susquehanna Bank Center,Camden,NJ,USA,
+2010-06-25,2010,0,1,2,1,0,0,224,2010 Early Summer Tour,2010 Summer,Alumni Blues,Alumni,1,Susquehanna Bank Center,Camden,NJ,USA,>
+2010-06-25,2010,0,2,2,1,0,0,590,2010 Early Summer Tour,2010 Summer,Letter to Jimmy Page,LTJP,1,Susquehanna Bank Center,Camden,NJ,USA,>
+2010-06-25,2010,0,3,1,1,0,0,0,2010 Early Summer Tour,2010 Summer,Alumni Blues,Alumni,1,Susquehanna Bank Center,Camden,NJ,USA,","
+2010-06-25,2010,0,4,1,1,0,0,24,2010 Early Summer Tour,2010 Summer,Big Black Furry Creature from Mars,BBFCFM,1,Susquehanna Bank Center,Camden,NJ,USA,","
+2010-06-25,2010,0,5,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,Runaway Jim,Runaway Jim,1,Susquehanna Bank Center,Camden,NJ,USA,","
+2010-06-25,2010,0,6,1,1,0,0,28,2010 Early Summer Tour,2010 Summer,Army of One,Army of One,1,Susquehanna Bank Center,Camden,NJ,USA,","
+2010-06-25,2010,0,7,1,1,0,0,1480,2010 Early Summer Tour,2010 Summer,Free Man in Paris,Free Man in Paris,0,Susquehanna Bank Center,Camden,NJ,USA,","
+2010-06-25,2010,0,8,1,1,0,0,5,2010 Early Summer Tour,2010 Summer,Summer of '89,Summer of '89,1,Susquehanna Bank Center,Camden,NJ,USA,","
+2010-06-25,2010,0,9,1,1,0,0,8,2010 Early Summer Tour,2010 Summer,Split Open and Melt,SOAMelt,1,Susquehanna Bank Center,Camden,NJ,USA,","
+2010-06-25,2010,0,10,1,1,0,0,32,2010 Early Summer Tour,2010 Summer,The Sloth,Sloth,1,Susquehanna Bank Center,Camden,NJ,USA,","
+2010-06-25,2010,0,11,1,1,0,0,9,2010 Early Summer Tour,2010 Summer,Time Turns Elastic,TTE,0,Susquehanna Bank Center,Camden,NJ,USA,","
+2010-06-25,2010,0,12,4,1,0,0,2,2010 Early Summer Tour,2010 Summer,Golgi Apparatus,Golgi,1,Susquehanna Bank Center,Camden,NJ,USA,
+2010-06-25,2010,0,13,2,2,0,0,4,2010 Early Summer Tour,2010 Summer,Chalk Dust Torture,CDT,1,Susquehanna Bank Center,Camden,NJ,USA,>
+2010-06-25,2010,0,14,2,2,0,0,4,2010 Early Summer Tour,2010 Summer,Prince Caspian,Caspian,1,Susquehanna Bank Center,Camden,NJ,USA,>
+2010-06-25,2010,0,15,2,2,0,0,7,2010 Early Summer Tour,2010 Summer,Heavy Things,Heavy Things,1,Susquehanna Bank Center,Camden,NJ,USA,>
+2010-06-25,2010,0,16,3,2,0,0,6,2010 Early Summer Tour,2010 Summer,Alaska,Alaska,0,Susquehanna Bank Center,Camden,NJ,USA,->
+2010-06-25,2010,0,17,3,2,0,0,3,2010 Early Summer Tour,2010 Summer,Also Sprach Zarathustra,2001,0,Susquehanna Bank Center,Camden,NJ,USA,->
+2010-06-25,2010,0,18,3,2,1,0,1480,2010 Early Summer Tour,2010 Summer,Billie Jean,Billie Jean,0,Susquehanna Bank Center,Camden,NJ,USA,->
+2010-06-25,2010,0,19,2,2,0,0,0,2010 Early Summer Tour,2010 Summer,Also Sprach Zarathustra,2001,0,Susquehanna Bank Center,Camden,NJ,USA,>
+2010-06-25,2010,0,20,3,2,0,0,2,2010 Early Summer Tour,2010 Summer,Light,Light,0,Susquehanna Bank Center,Camden,NJ,USA,->
+2010-06-25,2010,0,21,2,2,0,0,2,2010 Early Summer Tour,2010 Summer,Possum,Possum,1,Susquehanna Bank Center,Camden,NJ,USA,>
+2010-06-25,2010,0,22,5,2,0,0,4,2010 Early Summer Tour,2010 Summer,Character Zero,Character Zero,1,Susquehanna Bank Center,Camden,NJ,USA,
+2010-06-25,2010,0,23,6,e,0,0,6,2010 Early Summer Tour,2010 Summer,Shine a Light,Shine a Light,0,Susquehanna Bank Center,Camden,NJ,USA,
+2010-06-26,2010,0,1,1,1,0,0,33,2010 Early Summer Tour,2010 Summer,Crowd Control,Crowd Control,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2010-06-26,2010,0,2,1,1,0,0,3,2010 Early Summer Tour,2010 Summer,Kill Devil Falls,KDF,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2010-06-26,2010,0,3,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,AC/DC Bag,Bag,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2010-06-26,2010,0,4,1,1,0,0,7,2010 Early Summer Tour,2010 Summer,Sugar Shack,Sugar Shack,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2010-06-26,2010,0,5,1,1,0,0,8,2010 Early Summer Tour,2010 Summer,Tube,Tube,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2010-06-26,2010,0,6,1,1,0,0,1481,2010 Early Summer Tour,2010 Summer,In the Aeroplane Over the Sea,In the Aeroplane Over the Sea,0,Merriweather Post Pavilion,Columbia,MD,USA,","
+2010-06-26,2010,0,7,1,1,0,0,7,2010 Early Summer Tour,2010 Summer,Stash,Stash,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2010-06-26,2010,0,8,1,1,0,0,5,2010 Early Summer Tour,2010 Summer,Backwards Down the Number Line,BDTNL,0,Merriweather Post Pavilion,Columbia,MD,USA,","
+2010-06-26,2010,0,9,2,1,0,0,9,2010 Early Summer Tour,2010 Summer,NICU,NICU,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2010-06-26,2010,0,10,1,1,0,0,3,2010 Early Summer Tour,2010 Summer,46 Days,46 Days,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2010-06-26,2010,0,11,4,1,0,0,5,2010 Early Summer Tour,2010 Summer,Suzy Greenberg,Suzy,1,Merriweather Post Pavilion,Columbia,MD,USA,
+2010-06-26,2010,0,12,2,2,0,0,5,2010 Early Summer Tour,2010 Summer,Rock and Roll,R&amp;R,0,Merriweather Post Pavilion,Columbia,MD,USA,>
+2010-06-26,2010,0,13,1,2,0,0,5,2010 Early Summer Tour,2010 Summer,Free,Free,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2010-06-26,2010,0,14,1,2,0,0,27,2010 Early Summer Tour,2010 Summer,Fast Enough for You,FEFY,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2010-06-26,2010,0,15,2,2,0,0,9,2010 Early Summer Tour,2010 Summer,Sparkle,Sparkle,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2010-06-26,2010,0,16,1,2,0,0,6,2010 Early Summer Tour,2010 Summer,Tweezer,Tweezer,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2010-06-26,2010,0,17,2,2,0,0,7,2010 Early Summer Tour,2010 Summer,The Horse,Horse,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2010-06-26,2010,0,18,2,2,0,0,7,2010 Early Summer Tour,2010 Summer,Silent in the Morning,Silent,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2010-06-26,2010,0,19,2,2,0,0,6,2010 Early Summer Tour,2010 Summer,Wolfman's Brother,Wolfman's,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2010-06-26,2010,0,20,2,2,0,0,3,2010 Early Summer Tour,2010 Summer,Slave to the Traffic Light,Slave,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2010-06-26,2010,0,21,5,2,0,0,5,2010 Early Summer Tour,2010 Summer,Tweezer Reprise,Tweeprise,1,Merriweather Post Pavilion,Columbia,MD,USA,
+2010-06-26,2010,0,22,1,e,0,0,5,2010 Early Summer Tour,2010 Summer,Show of Life,Show of Life,0,Merriweather Post Pavilion,Columbia,MD,USA,","
+2010-06-26,2010,0,23,6,e,0,0,25,2010 Early Summer Tour,2010 Summer,Good Times Bad Times,GTBT,0,Merriweather Post Pavilion,Columbia,MD,USA,
+2010-06-27,2010,0,1,1,1,0,0,131,2010 Early Summer Tour,2010 Summer,Walfredo,Walfredo,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2010-06-27,2010,0,2,1,1,0,0,89,2010 Early Summer Tour,2010 Summer,Mellow Mood,Mellow Mood,0,Merriweather Post Pavilion,Columbia,MD,USA,","
+2010-06-27,2010,0,3,2,1,0,0,3,2010 Early Summer Tour,2010 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2010-06-27,2010,0,4,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,Divided Sky,Divided,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2010-06-27,2010,0,5,1,1,0,0,14,2010 Early Summer Tour,2010 Summer,Tela,Tela,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2010-06-27,2010,0,6,1,1,0,0,16,2010 Early Summer Tour,2010 Summer,My Soul,My Soul,0,Merriweather Post Pavilion,Columbia,MD,USA,","
+2010-06-27,2010,0,7,1,1,0,0,27,2010 Early Summer Tour,2010 Summer,Ginseng Sullivan,Ginseng,0,Merriweather Post Pavilion,Columbia,MD,USA,","
+2010-06-27,2010,0,8,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,Sample in a Jar,Sample,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2010-06-27,2010,0,9,1,1,0,0,6,2010 Early Summer Tour,2010 Summer,Bathtub Gin,Gin,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2010-06-27,2010,0,10,1,1,0,0,20,2010 Early Summer Tour,2010 Summer,Brian and Robert,Brian and Robert,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2010-06-27,2010,0,11,4,1,0,0,4,2010 Early Summer Tour,2010 Summer,Run Like an Antelope,Antelope,1,Merriweather Post Pavilion,Columbia,MD,USA,
+2010-06-27,2010,0,12,2,2,0,0,5,2010 Early Summer Tour,2010 Summer,Wilson,Wilson,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2010-06-27,2010,0,13,3,2,0,0,57,2010 Early Summer Tour,2010 Summer,Meatstick,Meatstick,1,Merriweather Post Pavilion,Columbia,MD,USA,->
+2010-06-27,2010,0,14,3,2,0,0,89,2010 Early Summer Tour,2010 Summer,Saw It Again,Saw It Again,1,Merriweather Post Pavilion,Columbia,MD,USA,->
+2010-06-27,2010,0,15,2,2,0,0,5,2010 Early Summer Tour,2010 Summer,Piper,Piper,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2010-06-27,2010,0,16,3,2,0,0,12,2010 Early Summer Tour,2010 Summer,Ghost,Ghost,1,Merriweather Post Pavilion,Columbia,MD,USA,->
+2010-06-27,2010,0,17,3,2,0,0,1482,2010 Early Summer Tour,2010 Summer,Jumpin' Jack Flash,Jumpin' Jack Flash,0,Merriweather Post Pavilion,Columbia,MD,USA,->
+2010-06-27,2010,0,18,2,2,0,0,0,2010 Early Summer Tour,2010 Summer,Saw It Again,Saw It Again,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2010-06-27,2010,0,19,1,2,0,0,16,2010 Early Summer Tour,2010 Summer,Contact,Contact,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2010-06-27,2010,0,20,5,2,0,0,3,2010 Early Summer Tour,2010 Summer,You Enjoy Myself,YEM,1,Merriweather Post Pavilion,Columbia,MD,USA,
+2010-06-27,2010,0,21,6,e,0,0,23,2010 Early Summer Tour,2010 Summer,Fire,Fire,0,Merriweather Post Pavilion,Columbia,MD,USA,
+2010-06-29,2010,0,1,1,1,0,0,16,2010 Early Summer Tour,2010 Summer,The Connection,The Connection,1,CMAC Performing Arts Center,Canandaigua,NY,USA,","
+2010-06-29,2010,0,2,2,1,0,0,4,2010 Early Summer Tour,2010 Summer,Down with Disease,DwD,1,CMAC Performing Arts Center,Canandaigua,NY,USA,>
+2010-06-29,2010,0,3,1,1,0,0,1,2010 Early Summer Tour,2010 Summer,Sample in a Jar,Sample,1,CMAC Performing Arts Center,Canandaigua,NY,USA,","
+2010-06-29,2010,0,4,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,Ocelot,Ocelot,1,CMAC Performing Arts Center,Canandaigua,NY,USA,","
+2010-06-29,2010,0,5,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,Reba,Reba,1,CMAC Performing Arts Center,Canandaigua,NY,USA,","
+2010-06-29,2010,0,6,1,1,0,0,11,2010 Early Summer Tour,2010 Summer,Horn,Horn,1,CMAC Performing Arts Center,Canandaigua,NY,USA,","
+2010-06-29,2010,0,7,1,1,0,0,7,2010 Early Summer Tour,2010 Summer,Funky Bitch,Funky Bitch,0,CMAC Performing Arts Center,Canandaigua,NY,USA,","
+2010-06-29,2010,0,8,1,1,0,0,6,2010 Early Summer Tour,2010 Summer,Undermind,Undermind,0,CMAC Performing Arts Center,Canandaigua,NY,USA,","
+2010-06-29,2010,0,9,1,1,0,0,12,2010 Early Summer Tour,2010 Summer,The Ballad of Curtis Loew,Curtis Loew,0,CMAC Performing Arts Center,Canandaigua,NY,USA,","
+2010-06-29,2010,0,10,4,1,0,0,4,2010 Early Summer Tour,2010 Summer,David Bowie,Bowie,1,CMAC Performing Arts Center,Canandaigua,NY,USA,
+2010-06-29,2010,0,11,1,2,0,0,3,2010 Early Summer Tour,2010 Summer,Possum,Possum,1,CMAC Performing Arts Center,Canandaigua,NY,USA,","
+2010-06-29,2010,0,12,2,2,0,0,5,2010 Early Summer Tour,2010 Summer,Mike's Song,Mike's,1,CMAC Performing Arts Center,Canandaigua,NY,USA,>
+2010-06-29,2010,0,13,2,2,0,0,10,2010 Early Summer Tour,2010 Summer,Simple,Simple,1,CMAC Performing Arts Center,Canandaigua,NY,USA,>
+2010-06-29,2010,0,14,2,2,0,0,1491,2010 Early Summer Tour,2010 Summer,I Am the Walrus,I Am the Walrus,0,CMAC Performing Arts Center,Canandaigua,NY,USA,>
+2010-06-29,2010,0,15,2,2,0,0,5,2010 Early Summer Tour,2010 Summer,Weekapaug Groove,Weekapaug,1,CMAC Performing Arts Center,Canandaigua,NY,USA,>
+2010-06-29,2010,0,16,2,2,0,0,5,2010 Early Summer Tour,2010 Summer,Limb By Limb,LxL,1,CMAC Performing Arts Center,Canandaigua,NY,USA,>
+2010-06-29,2010,0,17,1,2,0,0,7,2010 Early Summer Tour,2010 Summer,Joy,Joy,1,CMAC Performing Arts Center,Canandaigua,NY,USA,","
+2010-06-29,2010,0,18,2,2,0,0,4,2010 Early Summer Tour,2010 Summer,Harry Hood,Hood,1,CMAC Performing Arts Center,Canandaigua,NY,USA,>
+2010-06-29,2010,0,19,5,2,0,0,3,2010 Early Summer Tour,2010 Summer,Golgi Apparatus,Golgi,1,CMAC Performing Arts Center,Canandaigua,NY,USA,
+2010-06-29,2010,0,20,6,e,0,0,5,2010 Early Summer Tour,2010 Summer,First Tube,First Tube,0,CMAC Performing Arts Center,Canandaigua,NY,USA,
+2010-07-01,2010,0,1,1,1,0,0,35,2010 Early Summer Tour,2010 Summer,Llama,Llama,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
+2010-07-01,2010,0,2,1,1,0,0,43,2010 Early Summer Tour,2010 Summer,Roses Are Free,Roses,0,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
+2010-07-01,2010,0,3,1,1,0,0,3,2010 Early Summer Tour,2010 Summer,Kill Devil Falls,KDF,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
+2010-07-01,2010,0,4,1,1,0,0,127,2010 Early Summer Tour,2010 Summer,Time Loves a Hero,Time Loves a Hero,0,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
+2010-07-01,2010,0,5,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,Alaska,Alaska,0,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
+2010-07-01,2010,0,6,1,1,0,0,5,2010 Early Summer Tour,2010 Summer,Water in the Sky,Water in the Sky,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
+2010-07-01,2010,0,7,2,1,0,0,4,2010 Early Summer Tour,2010 Summer,Runaway Jim,Runaway Jim,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,>
+2010-07-01,2010,0,8,2,1,0,0,9,2010 Early Summer Tour,2010 Summer,The Moma Dance,Moma,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,>
+2010-07-01,2010,0,9,1,1,0,0,2,2010 Early Summer Tour,2010 Summer,Divided Sky,Divided,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
+2010-07-01,2010,0,10,4,1,0,0,9,2010 Early Summer Tour,2010 Summer,Cavern,Cavern,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,
+2010-07-01,2010,0,11,2,2,0,0,3,2010 Early Summer Tour,2010 Summer,Backwards Down the Number Line,BDTNL,0,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,>
+2010-07-01,2010,0,12,3,2,0,0,9,2010 Early Summer Tour,2010 Summer,Halley's Comet,Halley's,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,->
+2010-07-01,2010,0,13,2,2,0,0,4,2010 Early Summer Tour,2010 Summer,Light,Light,0,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,>
+2010-07-01,2010,0,14,2,2,0,0,5,2010 Early Summer Tour,2010 Summer,Fluffhead,Fluffhead,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,>
+2010-07-01,2010,0,15,1,2,0,0,191,2010 Early Summer Tour,2010 Summer,Have Mercy,Have Mercy,0,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
+2010-07-01,2010,0,16,3,2,0,0,183,2010 Early Summer Tour,2010 Summer,Light Up Or Leave Me Alone,Light Up,0,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,->
+2010-07-01,2010,0,17,2,2,0,0,3,2010 Early Summer Tour,2010 Summer,Free,Free,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,>
+2010-07-01,2010,0,18,1,2,0,0,9,2010 Early Summer Tour,2010 Summer,Wading in the Velvet Sea,Velvet Sea,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
+2010-07-01,2010,0,19,2,2,0,0,8,2010 Early Summer Tour,2010 Summer,The Squirming Coil,Coil,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,>
+2010-07-01,2010,0,20,5,2,0,0,3,2010 Early Summer Tour,2010 Summer,Suzy Greenberg,Suzy,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,
+2010-07-01,2010,0,21,6,e,0,0,5,2010 Early Summer Tour,2010 Summer,Boogie On Reggae Woman,Boogie On,0,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,
+2010-07-02,2010,0,1,2,1,0,0,59,2010 Early Summer Tour,2010 Summer,Buried Alive,Buried Alive,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
+2010-07-02,2010,0,2,2,1,0,0,4,2010 Early Summer Tour,2010 Summer,AC/DC Bag,Bag,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
+2010-07-02,2010,0,3,1,1,0,0,25,2010 Early Summer Tour,2010 Summer,Vultures,Vultures,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
+2010-07-02,2010,0,4,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,Wolfman's Brother,Wolfman's,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
+2010-07-02,2010,0,5,1,1,0,0,8,2010 Early Summer Tour,2010 Summer,Back on the Train,BOTT,0,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
+2010-07-02,2010,0,6,1,1,0,0,20,2010 Early Summer Tour,2010 Summer,The Wedge,Wedge,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
+2010-07-02,2010,0,7,1,1,0,0,64,2010 Early Summer Tour,2010 Summer,Mexican Cousin,Mexican Cousin,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
+2010-07-02,2010,0,8,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,Stash,Stash,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
+2010-07-02,2010,0,9,2,1,0,0,4,2010 Early Summer Tour,2010 Summer,Sparkle,Sparkle,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
+2010-07-02,2010,0,10,4,1,0,0,5,2010 Early Summer Tour,2010 Summer,Chalk Dust Torture,CDT,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,
+2010-07-02,2010,0,11,2,2,0,0,8,2010 Early Summer Tour,2010 Summer,Drowned,Drowned,0,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
+2010-07-02,2010,0,12,2,2,0,0,4,2010 Early Summer Tour,2010 Summer,46 Days,46 Days,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
+2010-07-02,2010,0,13,2,2,0,0,6,2010 Early Summer Tour,2010 Summer,Twenty Years Later,Twenty Years Later,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
+2010-07-02,2010,0,14,1,2,0,0,49,2010 Early Summer Tour,2010 Summer,The Lizards,Lizards,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
+2010-07-02,2010,0,15,2,2,0,0,8,2010 Early Summer Tour,2010 Summer,Carini,Carini,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
+2010-07-02,2010,0,16,2,2,0,0,1424,2010 Early Summer Tour,2010 Summer,Fuck Your Face,FYF,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
+2010-07-02,2010,0,17,2,2,0,0,5,2010 Early Summer Tour,2010 Summer,Also Sprach Zarathustra,2001,0,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
+2010-07-02,2010,0,18,5,2,0,0,3,2010 Early Summer Tour,2010 Summer,You Enjoy Myself,YEM,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,
+2010-07-02,2010,0,19,6,e,0,0,12,2010 Early Summer Tour,2010 Summer,A Day in the Life,ADITL,0,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,
+2010-07-03,2010,0,1,1,1,0,0,6,2010 Early Summer Tour,2010 Summer,Character Zero,Character Zero,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2010-07-03,2010,0,2,2,1,0,0,43,2010 Early Summer Tour,2010 Summer,Destiny Unbound,Destiny,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2010-07-03,2010,0,3,1,1,0,0,11,2010 Early Summer Tour,2010 Summer,Rift,Rift,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2010-07-03,2010,0,4,1,1,0,0,34,2010 Early Summer Tour,2010 Summer,McGrupp and the Watchful Hosemasters,McGrupp,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2010-07-03,2010,0,5,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,Bathtub Gin,Gin,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2010-07-03,2010,0,6,1,1,0,0,33,2010 Early Summer Tour,2010 Summer,Mountains in the Mist,Mist,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2010-07-03,2010,0,7,2,1,0,0,5,2010 Early Summer Tour,2010 Summer,NICU,NICU,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2010-07-03,2010,0,8,2,1,0,0,7,2010 Early Summer Tour,2010 Summer,Gumbo,Gumbo,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2010-07-03,2010,0,9,1,1,0,0,34,2010 Early Summer Tour,2010 Summer,My Sweet One,MSO,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2010-07-03,2010,0,10,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2010-07-03,2010,0,11,1,1,0,0,31,2010 Early Summer Tour,2010 Summer,Strange Design,Strange Design,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2010-07-03,2010,0,12,1,1,0,0,26,2010 Early Summer Tour,2010 Summer,Sanity,Sanity,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2010-07-03,2010,0,13,4,1,0,0,4,2010 Early Summer Tour,2010 Summer,Run Like an Antelope,Antelope,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
+2010-07-03,2010,0,14,2,2,0,0,5,2010 Early Summer Tour,2010 Summer,Rock and Roll,R&amp;R,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2010-07-03,2010,0,15,2,2,0,0,6,2010 Early Summer Tour,2010 Summer,Prince Caspian,Caspian,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2010-07-03,2010,0,16,3,2,0,0,5,2010 Early Summer Tour,2010 Summer,Tweezer,Tweezer,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,->
+2010-07-03,2010,0,17,1,2,0,0,5,2010 Early Summer Tour,2010 Summer,Slave to the Traffic Light,Slave,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2010-07-03,2010,0,18,1,2,0,0,7,2010 Early Summer Tour,2010 Summer,Bouncing Around the Room,Bouncin',1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2010-07-03,2010,0,19,1,2,0,0,3,2010 Early Summer Tour,2010 Summer,Possum,Possum,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2010-07-03,2010,0,20,2,2,0,0,2,2010 Early Summer Tour,2010 Summer,Backwards Down the Number Line,BDTNL,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2010-07-03,2010,0,21,2,2,0,0,3,2010 Early Summer Tour,2010 Summer,Harry Hood,Hood,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2010-07-03,2010,0,22,5,2,0,0,8,2010 Early Summer Tour,2010 Summer,Loving Cup,Loving Cup,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
+2010-07-03,2010,0,23,2,e,0,0,11,2010 Early Summer Tour,2010 Summer,Sleeping Monkey,Sleeping Monkey,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2010-07-03,2010,0,24,6,e,0,0,5,2010 Early Summer Tour,2010 Summer,Tweezer Reprise,Tweeprise,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
+2010-07-04,2010,0,1,1,1,0,0,54,2010 Early Summer Tour,2010 Summer,The Star-Spangled Banner,Star Spangled Banner,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2010-07-04,2010,0,2,2,1,0,0,13,2010 Early Summer Tour,2010 Summer,Punch You in the Eye,PYITE,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2010-07-04,2010,0,3,2,1,0,0,40,2010 Early Summer Tour,2010 Summer,Colonel Forbin's Ascent,Forbin's,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2010-07-04,2010,0,4,1,1,0,0,40,2010 Early Summer Tour,2010 Summer,Fly Famous Mockingbird,Mockingbird,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2010-07-04,2010,0,5,1,1,0,0,9,2010 Early Summer Tour,2010 Summer,Camel Walk,Camel Walk,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2010-07-04,2010,0,6,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,Ocelot,Ocelot,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2010-07-04,2010,0,7,2,1,0,0,7,2010 Early Summer Tour,2010 Summer,Heavy Things,Heavy Things,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2010-07-04,2010,0,8,2,1,0,0,14,2010 Early Summer Tour,2010 Summer,"My Friend, My Friend",My Friend,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2010-07-04,2010,0,9,1,1,0,0,10,2010 Early Summer Tour,2010 Summer,Lawn Boy,Lawn Boy,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2010-07-04,2010,0,10,1,1,0,0,4,2010 Early Summer Tour,2010 Summer,David Bowie,Bowie,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2010-07-04,2010,0,11,4,1,0,0,10,2010 Early Summer Tour,2010 Summer,Gotta Jibboo,Jibboo,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
+2010-07-04,2010,0,12,2,2,0,0,4,2010 Early Summer Tour,2010 Summer,Down with Disease,DwD,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2010-07-04,2010,0,13,2,2,0,0,5,2010 Early Summer Tour,2010 Summer,Piper,Piper,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2010-07-04,2010,0,14,2,2,0,0,5,2010 Early Summer Tour,2010 Summer,Ghost,Ghost,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2010-07-04,2010,0,15,1,2,0,0,16,2010 Early Summer Tour,2010 Summer,Waste,Waste,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2010-07-04,2010,0,16,2,2,0,0,8,2010 Early Summer Tour,2010 Summer,Julius,Julius,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2010-07-04,2010,0,17,2,2,0,0,4,2010 Early Summer Tour,2010 Summer,Mike's Song,Mike's,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2010-07-04,2010,0,18,1,2,0,0,5,2010 Early Summer Tour,2010 Summer,Tela,Tela,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2010-07-04,2010,0,19,2,2,0,0,38,2010 Early Summer Tour,2010 Summer,Harpua,Harpua,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2010-07-04,2010,0,20,2,2,0,0,1487,2010 Early Summer Tour,2010 Summer,Killing in the Name,Killing in the Name,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2010-07-04,2010,0,21,2,2,0,0,0,2010 Early Summer Tour,2010 Summer,Harpua,Harpua,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2010-07-04,2010,0,22,5,2,0,0,4,2010 Early Summer Tour,2010 Summer,Weekapaug Groove,Weekapaug,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
+2010-07-04,2010,0,23,6,e,0,0,4,2010 Early Summer Tour,2010 Summer,First Tube,First Tube,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
+2010-08-05,2010,0,1,1,1,0,0,2,2010 Late Summer Tour,2010 Summer,Possum,Possum,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-05,2010,0,2,1,1,0,0,3,2010 Late Summer Tour,2010 Summer,Wolfman's Brother,Wolfman's,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-05,2010,0,3,1,1,0,0,4,2010 Late Summer Tour,2010 Summer,Divided Sky,Divided,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-05,2010,0,4,1,1,0,0,5,2010 Late Summer Tour,2010 Summer,Funky Bitch,Funky Bitch,0,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-05,2010,0,5,1,1,0,0,4,2010 Late Summer Tour,2010 Summer,Kill Devil Falls,KDF,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-05,2010,0,6,2,1,0,0,4,2010 Late Summer Tour,2010 Summer,Halley's Comet,Halley's,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
+2010-08-05,2010,0,7,1,1,0,0,5,2010 Late Summer Tour,2010 Summer,Sample in a Jar,Sample,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-05,2010,0,8,1,1,0,0,2,2010 Late Summer Tour,2010 Summer,NICU,NICU,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-05,2010,0,9,1,1,0,0,2,2010 Late Summer Tour,2010 Summer,Bouncing Around the Room,Bouncin',1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-05,2010,0,10,4,1,0,0,2,2010 Late Summer Tour,2010 Summer,Run Like an Antelope,Antelope,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,
+2010-08-05,2010,0,11,3,2,0,0,1,2010 Late Summer Tour,2010 Summer,Down with Disease,DwD,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,->
+2010-08-05,2010,0,12,1,2,0,0,4,2010 Late Summer Tour,2010 Summer,Free,Free,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-05,2010,0,13,2,2,0,0,4,2010 Late Summer Tour,2010 Summer,Alaska,Alaska,0,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
+2010-08-05,2010,0,14,1,2,0,0,3,2010 Late Summer Tour,2010 Summer,Back on the Train,BOTT,0,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-05,2010,0,15,1,2,0,0,18,2010 Late Summer Tour,2010 Summer,Maze,Maze,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-05,2010,0,16,1,2,0,0,5,2010 Late Summer Tour,2010 Summer,Joy,Joy,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-05,2010,0,17,3,2,0,0,2,2010 Late Summer Tour,2010 Summer,Tweezer,Tweezer,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,->
+2010-08-05,2010,0,18,5,2,0,0,4,2010 Late Summer Tour,2010 Summer,Fluffhead,Fluffhead,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,
+2010-08-05,2010,0,19,1,e,0,0,2,2010 Late Summer Tour,2010 Summer,Loving Cup,Loving Cup,0,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-05,2010,0,20,6,e,0,0,2,2010 Late Summer Tour,2010 Summer,Tweezer Reprise,Tweeprise,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,
+2010-08-06,2010,0,1,1,1,0,0,4,2010 Late Summer Tour,2010 Summer,Chalk Dust Torture,CDT,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-06,2010,0,2,1,1,0,0,15,2010 Late Summer Tour,2010 Summer,Guyute,Guyute,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-06,2010,0,3,1,1,0,0,2,2010 Late Summer Tour,2010 Summer,Ocelot,Ocelot,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-06,2010,0,4,1,1,0,0,17,2010 Late Summer Tour,2010 Summer,It's Ice,It's Ice,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-06,2010,0,5,2,1,0,0,12,2010 Late Summer Tour,2010 Summer,Cities,Cities,0,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
+2010-08-06,2010,0,6,2,1,0,0,5,2010 Late Summer Tour,2010 Summer,The Moma Dance,Moma,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
+2010-08-06,2010,0,7,2,1,0,0,3,2010 Late Summer Tour,2010 Summer,Bathtub Gin,Gin,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
+2010-08-06,2010,0,8,4,1,0,0,3,2010 Late Summer Tour,2010 Summer,Stealing Time From the Faulty Plan,STFTFP,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,
+2010-08-06,2010,0,9,2,2,0,0,3,2010 Late Summer Tour,2010 Summer,Rock and Roll,R&amp;R,0,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
+2010-08-06,2010,0,10,2,2,0,0,2,2010 Late Summer Tour,2010 Summer,Ghost,Ghost,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
+2010-08-06,2010,0,11,2,2,0,0,2,2010 Late Summer Tour,2010 Summer,Mike's Song,Mike's,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
+2010-08-06,2010,0,12,2,2,0,0,6,2010 Late Summer Tour,2010 Summer,Simple,Simple,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
+2010-08-06,2010,0,13,1,2,0,0,3,2010 Late Summer Tour,2010 Summer,Backwards Down the Number Line,BDTNL,0,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-06,2010,0,14,1,2,0,0,8,2010 Late Summer Tour,2010 Summer,Show of Life,Show of Life,0,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-06,2010,0,15,3,2,0,0,16,2010 Late Summer Tour,2010 Summer,Seven Below,Seven Below,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,->
+2010-08-06,2010,0,16,1,2,0,0,2,2010 Late Summer Tour,2010 Summer,Weekapaug Groove,Weekapaug,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-06,2010,0,17,5,2,0,0,4,2010 Late Summer Tour,2010 Summer,You Enjoy Myself,YEM,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,
+2010-08-06,2010,0,18,6,e,0,0,8,2010 Late Summer Tour,2010 Summer,Good Times Bad Times,GTBT,0,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,
+2010-08-07,2010,0,1,2,1,0,0,5,2010 Late Summer Tour,2010 Summer,AC/DC Bag,Bag,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
+2010-08-07,2010,0,2,1,1,0,0,15,2010 Late Summer Tour,2010 Summer,Foam,Foam,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-07,2010,0,3,1,1,0,0,3,2010 Late Summer Tour,2010 Summer,Gotta Jibboo,Jibboo,0,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-07,2010,0,4,1,1,0,0,7,2010 Late Summer Tour,2010 Summer,Reba,Reba,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-07,2010,0,5,1,1,0,0,13,2010 Late Summer Tour,2010 Summer,Sleep Again,Sleep Again,0,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-07,2010,0,6,2,1,0,0,10,2010 Late Summer Tour,2010 Summer,Army of One,Army of One,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
+2010-08-07,2010,0,7,2,1,0,0,17,2010 Late Summer Tour,2010 Summer,Poor Heart,Poor Heart,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
+2010-08-07,2010,0,8,2,1,0,0,5,2010 Late Summer Tour,2010 Summer,46 Days,46 Days,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
+2010-08-07,2010,0,9,2,1,0,0,9,2010 Late Summer Tour,2010 Summer,Tube,Tube,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
+2010-08-07,2010,0,10,4,1,0,0,4,2010 Late Summer Tour,2010 Summer,Character Zero,Character Zero,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,
+2010-08-07,2010,0,11,3,2,0,0,8,2010 Late Summer Tour,2010 Summer,Wilson,Wilson,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,->
+2010-08-07,2010,0,12,2,2,0,0,6,2010 Late Summer Tour,2010 Summer,Light,Light,0,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
+2010-08-07,2010,0,13,2,2,0,0,5,2010 Late Summer Tour,2010 Summer,Twenty Years Later,Twenty Years Later,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
+2010-08-07,2010,0,14,2,2,0,0,4,2010 Late Summer Tour,2010 Summer,Harry Hood,Hood,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
+2010-08-07,2010,0,15,1,2,0,0,15,2010 Late Summer Tour,2010 Summer,Theme From the Bottom,Theme,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-07,2010,0,16,2,2,0,0,5,2010 Late Summer Tour,2010 Summer,Also Sprach Zarathustra,2001,0,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
+2010-08-07,2010,0,17,2,2,0,0,6,2010 Late Summer Tour,2010 Summer,Suzy Greenberg,Suzy,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
+2010-08-07,2010,0,18,5,2,0,0,4,2010 Late Summer Tour,2010 Summer,Slave to the Traffic Light,Slave,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,
+2010-08-07,2010,0,19,1,e,0,0,5,2010 Late Summer Tour,2010 Summer,The Lizards,Lizards,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-07,2010,0,20,6,e,0,0,3,2010 Late Summer Tour,2010 Summer,First Tube,First Tube,0,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,
+2010-08-09,2010,0,1,1,1,0,0,3,2010 Late Summer Tour,2010 Summer,Down with Disease,DwD,1,Telluride Town Park,Telluride,CO,USA,","
+2010-08-09,2010,0,2,1,1,0,0,4,2010 Late Summer Tour,2010 Summer,Camel Walk,Camel Walk,1,Telluride Town Park,Telluride,CO,USA,","
+2010-08-09,2010,0,3,1,1,0,0,2,2010 Late Summer Tour,2010 Summer,Ocelot,Ocelot,1,Telluride Town Park,Telluride,CO,USA,","
+2010-08-09,2010,0,4,1,1,0,0,7,2010 Late Summer Tour,2010 Summer,Light Up Or Leave Me Alone,Light Up,0,Telluride Town Park,Telluride,CO,USA,","
+2010-08-09,2010,0,5,1,1,0,0,11,2010 Late Summer Tour,2010 Summer,Summer of '89,Summer of '89,1,Telluride Town Park,Telluride,CO,USA,","
+2010-08-09,2010,0,6,1,1,0,0,6,2010 Late Summer Tour,2010 Summer,Stash,Stash,1,Telluride Town Park,Telluride,CO,USA,","
+2010-08-09,2010,0,7,2,1,0,0,7,2010 Late Summer Tour,2010 Summer,Cavern,Cavern,1,Telluride Town Park,Telluride,CO,USA,>
+2010-08-09,2010,0,8,2,1,0,0,6,2010 Late Summer Tour,2010 Summer,The Wedge,Wedge,1,Telluride Town Park,Telluride,CO,USA,>
+2010-08-09,2010,0,9,1,1,0,0,3,2010 Late Summer Tour,2010 Summer,Possum,Possum,1,Telluride Town Park,Telluride,CO,USA,","
+2010-08-09,2010,0,10,4,1,0,0,4,2010 Late Summer Tour,2010 Summer,Julius,Julius,1,Telluride Town Park,Telluride,CO,USA,
+2010-08-09,2010,0,11,2,2,0,0,17,2010 Late Summer Tour,2010 Summer,Sand,Sand,0,Telluride Town Park,Telluride,CO,USA,>
+2010-08-09,2010,0,12,2,2,0,0,2,2010 Late Summer Tour,2010 Summer,Backwards Down the Number Line,BDTNL,0,Telluride Town Park,Telluride,CO,USA,>
+2010-08-09,2010,0,13,2,2,0,0,5,2010 Late Summer Tour,2010 Summer,Prince Caspian,Caspian,1,Telluride Town Park,Telluride,CO,USA,>
+2010-08-09,2010,0,14,3,2,0,0,3,2010 Late Summer Tour,2010 Summer,Tweezer,Tweezer,1,Telluride Town Park,Telluride,CO,USA,->
+2010-08-09,2010,0,15,2,2,0,0,7,2010 Late Summer Tour,2010 Summer,Boogie On Reggae Woman,Boogie On,0,Telluride Town Park,Telluride,CO,USA,>
+2010-08-09,2010,0,16,2,2,0,0,4,2010 Late Summer Tour,2010 Summer,Piper,Piper,1,Telluride Town Park,Telluride,CO,USA,>
+2010-08-09,2010,0,17,1,2,0,0,5,2010 Late Summer Tour,2010 Summer,Mountains in the Mist,Mist,0,Telluride Town Park,Telluride,CO,USA,","
+2010-08-09,2010,0,18,1,2,0,0,4,2010 Late Summer Tour,2010 Summer,David Bowie,Bowie,1,Telluride Town Park,Telluride,CO,USA,","
+2010-08-09,2010,0,19,5,2,0,0,6,2010 Late Summer Tour,2010 Summer,A Day in the Life,ADITL,0,Telluride Town Park,Telluride,CO,USA,
+2010-08-09,2010,0,20,2,e,0,0,211,2010 Late Summer Tour,2010 Summer,Quinn the Eskimo (The Mighty Quinn),Quinn,0,Telluride Town Park,Telluride,CO,USA,>
+2010-08-09,2010,0,21,6,e,0,0,3,2010 Late Summer Tour,2010 Summer,Tweezer Reprise,Tweeprise,1,Telluride Town Park,Telluride,CO,USA,
+2010-08-10,2010,0,1,1,1,0,0,8,2010 Late Summer Tour,2010 Summer,The Squirming Coil,Coil,1,Telluride Town Park,Telluride,CO,USA,","
+2010-08-10,2010,0,2,1,1,0,0,3,2010 Late Summer Tour,2010 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Telluride Town Park,Telluride,CO,USA,","
+2010-08-10,2010,0,3,1,1,0,0,16,2010 Late Summer Tour,2010 Summer,Ya Mar,Ya Mar,0,Telluride Town Park,Telluride,CO,USA,","
+2010-08-10,2010,0,4,1,1,0,0,13,2010 Late Summer Tour,2010 Summer,Timber (Jerry the Mule),Timber Ho,0,Telluride Town Park,Telluride,CO,USA,","
+2010-08-10,2010,0,5,1,1,0,0,32,2010 Late Summer Tour,2010 Summer,Let Me Lie,Let Me Lie,0,Telluride Town Park,Telluride,CO,USA,","
+2010-08-10,2010,0,6,1,1,0,0,4,2010 Late Summer Tour,2010 Summer,Divided Sky,Divided,1,Telluride Town Park,Telluride,CO,USA,","
+2010-08-10,2010,0,7,1,1,0,0,18,2010 Late Summer Tour,2010 Summer,Walk Away,Walk Away,0,Telluride Town Park,Telluride,CO,USA,","
+2010-08-10,2010,0,8,2,1,0,0,8,2010 Late Summer Tour,2010 Summer,Roses Are Free,Roses,0,Telluride Town Park,Telluride,CO,USA,>
+2010-08-10,2010,0,9,1,1,0,0,9,2010 Late Summer Tour,2010 Summer,Limb By Limb,LxL,1,Telluride Town Park,Telluride,CO,USA,","
+2010-08-10,2010,0,10,1,1,0,0,4,2010 Late Summer Tour,2010 Summer,Bouncing Around the Room,Bouncin',1,Telluride Town Park,Telluride,CO,USA,","
+2010-08-10,2010,0,11,4,1,0,0,4,2010 Late Summer Tour,2010 Summer,Run Like an Antelope,Antelope,1,Telluride Town Park,Telluride,CO,USA,
+2010-08-10,2010,0,12,1,2,0,0,18,2010 Late Summer Tour,2010 Summer,Party Time,Party Time,1,Telluride Town Park,Telluride,CO,USA,","
+2010-08-10,2010,0,13,2,2,0,0,3,2010 Late Summer Tour,2010 Summer,Mike's Song,Mike's,1,Telluride Town Park,Telluride,CO,USA,>
+2010-08-10,2010,0,14,2,2,0,0,13,2010 Late Summer Tour,2010 Summer,Crosseyed and Painless,C&amp;P,0,Telluride Town Park,Telluride,CO,USA,>
+2010-08-10,2010,0,15,2,2,0,0,14,2010 Late Summer Tour,2010 Summer,I Am Hydrogen,Hydrogen,1,Telluride Town Park,Telluride,CO,USA,>
+2010-08-10,2010,0,16,1,2,0,0,3,2010 Late Summer Tour,2010 Summer,Weekapaug Groove,Weekapaug,1,Telluride Town Park,Telluride,CO,USA,","
+2010-08-10,2010,0,17,1,2,0,0,6,2010 Late Summer Tour,2010 Summer,Destiny Unbound,Destiny,1,Telluride Town Park,Telluride,CO,USA,","
+2010-08-10,2010,0,18,2,2,0,0,7,2010 Late Summer Tour,2010 Summer,Carini,Carini,1,Telluride Town Park,Telluride,CO,USA,>
+2010-08-10,2010,0,19,2,2,0,0,4,2010 Late Summer Tour,2010 Summer,Free,Free,1,Telluride Town Park,Telluride,CO,USA,>
+2010-08-10,2010,0,20,1,2,0,0,5,2010 Late Summer Tour,2010 Summer,Heavy Things,Heavy Things,1,Telluride Town Park,Telluride,CO,USA,","
+2010-08-10,2010,0,21,5,2,0,0,3,2010 Late Summer Tour,2010 Summer,You Enjoy Myself,YEM,1,Telluride Town Park,Telluride,CO,USA,
+2010-08-10,2010,0,22,6,e,0,0,12,2010 Late Summer Tour,2010 Summer,Shine a Light,Shine a Light,0,Telluride Town Park,Telluride,CO,USA,
+2010-08-12,2010,0,1,2,1,0,0,9,2010 Late Summer Tour,2010 Summer,Runaway Jim,Runaway Jim,1,Verizon Wireless Music Center,Noblesville,IN,USA,>
+2010-08-12,2010,0,2,1,1,0,0,6,2010 Late Summer Tour,2010 Summer,Punch You in the Eye,PYITE,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2010-08-12,2010,0,3,1,1,0,0,16,2010 Late Summer Tour,2010 Summer,Roggae,Roggae,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2010-08-12,2010,0,4,2,1,0,0,44,2010 Late Summer Tour,2010 Summer,Cars Trucks Buses,CTB,1,Verizon Wireless Music Center,Noblesville,IN,USA,>
+2010-08-12,2010,0,5,1,1,0,0,5,2010 Late Summer Tour,2010 Summer,Sample in a Jar,Sample,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2010-08-12,2010,0,6,1,1,0,0,5,2010 Late Summer Tour,2010 Summer,NICU,NICU,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2010-08-12,2010,0,7,1,1,0,0,10,2010 Late Summer Tour,2010 Summer,Horn,Horn,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2010-08-12,2010,0,8,1,1,0,0,12,2010 Late Summer Tour,2010 Summer,Sugar Shack,Sugar Shack,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2010-08-12,2010,0,9,2,1,0,0,5,2010 Late Summer Tour,2010 Summer,Wolfman's Brother,Wolfman's,1,Verizon Wireless Music Center,Noblesville,IN,USA,>
+2010-08-12,2010,0,10,4,1,0,0,13,2010 Late Summer Tour,2010 Summer,Time Turns Elastic,TTE,0,Verizon Wireless Music Center,Noblesville,IN,USA,
+2010-08-12,2010,0,11,2,2,0,0,8,2010 Late Summer Tour,2010 Summer,Drowned,Drowned,0,Verizon Wireless Music Center,Noblesville,IN,USA,>
+2010-08-12,2010,0,12,3,2,0,0,3,2010 Late Summer Tour,2010 Summer,Gotta Jibboo,Jibboo,0,Verizon Wireless Music Center,Noblesville,IN,USA,->
+2010-08-12,2010,0,13,1,2,0,0,4,2010 Late Summer Tour,2010 Summer,Bathtub Gin,Gin,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2010-08-12,2010,0,14,1,2,0,0,6,2010 Late Summer Tour,2010 Summer,"My Friend, My Friend",My Friend,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2010-08-12,2010,0,15,2,2,0,0,81,2010 Late Summer Tour,2010 Summer,Buffalo Bill,Buffalo Bill,1,Verizon Wireless Music Center,Noblesville,IN,USA,>
+2010-08-12,2010,0,16,2,2,0,0,21,2010 Late Summer Tour,2010 Summer,Twist,Twist,1,Verizon Wireless Music Center,Noblesville,IN,USA,>
+2010-08-12,2010,0,17,2,2,0,0,12,2010 Late Summer Tour,2010 Summer,The Horse,Horse,1,Verizon Wireless Music Center,Noblesville,IN,USA,>
+2010-08-12,2010,0,18,2,2,0,0,12,2010 Late Summer Tour,2010 Summer,Silent in the Morning,Silent,1,Verizon Wireless Music Center,Noblesville,IN,USA,>
+2010-08-12,2010,0,19,2,2,0,0,13,2010 Late Summer Tour,2010 Summer,Split Open and Melt,SOAMelt,1,Verizon Wireless Music Center,Noblesville,IN,USA,>
+2010-08-12,2010,0,20,1,2,0,0,64,2010 Late Summer Tour,2010 Summer,Dog Faced Boy,Dog Faced Boy,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2010-08-12,2010,0,21,2,2,0,0,3,2010 Late Summer Tour,2010 Summer,Harry Hood,Hood,1,Verizon Wireless Music Center,Noblesville,IN,USA,>
+2010-08-12,2010,0,22,5,2,0,0,10,2010 Late Summer Tour,2010 Summer,Golgi Apparatus,Golgi,1,Verizon Wireless Music Center,Noblesville,IN,USA,
+2010-08-12,2010,0,23,2,e,0,0,18,2010 Late Summer Tour,2010 Summer,Fee,Fee,1,Verizon Wireless Music Center,Noblesville,IN,USA,>
+2010-08-12,2010,0,24,3,e,0,0,24,2010 Late Summer Tour,2010 Summer,NO2,NO2,1,Verizon Wireless Music Center,Noblesville,IN,USA,->
+2010-08-12,2010,0,25,2,e,0,0,88,2010 Late Summer Tour,2010 Summer,Kung,Kung,1,Verizon Wireless Music Center,Noblesville,IN,USA,>
+2010-08-12,2010,0,26,6,e,0,0,11,2010 Late Summer Tour,2010 Summer,Fire,Fire,0,Verizon Wireless Music Center,Noblesville,IN,USA,
+2010-08-13,2010,0,1,1,1,0,0,5,2010 Late Summer Tour,2010 Summer,Chalk Dust Torture,CDT,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2010-08-13,2010,0,2,1,1,0,0,42,2010 Late Summer Tour,2010 Summer,Guelah Papyrus,Guelah,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2010-08-13,2010,0,3,1,1,0,0,8,2010 Late Summer Tour,2010 Summer,My Sweet One,MSO,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2010-08-13,2010,0,4,1,1,0,0,18,2010 Late Summer Tour,2010 Summer,Axilla,Axilla,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2010-08-13,2010,0,5,1,1,0,0,15,2010 Late Summer Tour,2010 Summer,I Didn't Know,IDK,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2010-08-13,2010,0,6,1,1,0,0,76,2010 Late Summer Tour,2010 Summer,Walls of the Cave,WotC,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2010-08-13,2010,0,7,1,1,0,0,3,2010 Late Summer Tour,2010 Summer,Stash,Stash,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2010-08-13,2010,0,8,2,1,0,0,36,2010 Late Summer Tour,2010 Summer,Train Song,Train Song,1,Verizon Wireless Music Center,Noblesville,IN,USA,>
+2010-08-13,2010,0,9,1,1,0,0,3,2010 Late Summer Tour,2010 Summer,Backwards Down the Number Line,BDTNL,0,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2010-08-13,2010,0,10,1,1,0,0,3,2010 Late Summer Tour,2010 Summer,Ocelot,Ocelot,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2010-08-13,2010,0,11,1,1,0,0,11,2010 Late Summer Tour,2010 Summer,The Ballad of Curtis Loew,Curtis Loew,0,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2010-08-13,2010,0,12,2,1,0,0,4,2010 Late Summer Tour,2010 Summer,Wilson,Wilson,1,Verizon Wireless Music Center,Noblesville,IN,USA,>
+2010-08-13,2010,0,13,4,1,0,0,3,2010 Late Summer Tour,2010 Summer,Possum,Possum,1,Verizon Wireless Music Center,Noblesville,IN,USA,
+2010-08-13,2010,0,14,2,2,0,0,6,2010 Late Summer Tour,2010 Summer,Halley's Comet,Halley's,1,Verizon Wireless Music Center,Noblesville,IN,USA,>
+2010-08-13,2010,0,15,2,2,0,0,4,2010 Late Summer Tour,2010 Summer,Light,Light,0,Verizon Wireless Music Center,Noblesville,IN,USA,>
+2010-08-13,2010,0,16,2,2,0,0,4,2010 Late Summer Tour,2010 Summer,46 Days,46 Days,1,Verizon Wireless Music Center,Noblesville,IN,USA,>
+2010-08-13,2010,0,17,1,2,0,0,6,2010 Late Summer Tour,2010 Summer,Maze,Maze,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2010-08-13,2010,0,18,3,2,0,0,12,2010 Late Summer Tour,2010 Summer,Meatstick,Meatstick,1,Verizon Wireless Music Center,Noblesville,IN,USA,->
+2010-08-13,2010,0,19,2,2,0,0,17,2010 Late Summer Tour,2010 Summer,The Mango Song,Mango,1,Verizon Wireless Music Center,Noblesville,IN,USA,>
+2010-08-13,2010,0,20,2,2,0,0,6,2010 Late Summer Tour,2010 Summer,Fluffhead,Fluffhead,1,Verizon Wireless Music Center,Noblesville,IN,USA,>
+2010-08-13,2010,0,21,5,2,0,0,3,2010 Late Summer Tour,2010 Summer,Julius,Julius,1,Verizon Wireless Music Center,Noblesville,IN,USA,
+2010-08-13,2010,0,22,2,e,0,0,12,2010 Late Summer Tour,2010 Summer,Contact,Contact,1,Verizon Wireless Music Center,Noblesville,IN,USA,>
+2010-08-13,2010,0,23,6,e,0,0,4,2010 Late Summer Tour,2010 Summer,Slave to the Traffic Light,Slave,1,Verizon Wireless Music Center,Noblesville,IN,USA,
+2010-08-14,2010,0,1,2,1,0,0,5,2010 Late Summer Tour,2010 Summer,Tube,Tube,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2010-08-14,2010,0,2,2,1,0,0,24,2010 Late Summer Tour,2010 Summer,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2010-08-14,2010,0,3,1,1,0,0,5,2010 Late Summer Tour,2010 Summer,Suzy Greenberg,Suzy,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2010-08-14,2010,0,4,2,1,0,0,7,2010 Late Summer Tour,2010 Summer,Funky Bitch,Funky Bitch,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2010-08-14,2010,0,5,1,1,0,0,5,2010 Late Summer Tour,2010 Summer,Reba,Reba,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2010-08-14,2010,0,6,1,1,0,0,10,2010 Late Summer Tour,2010 Summer,Fuck Your Face,FYF,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2010-08-14,2010,0,7,1,1,0,0,7,2010 Late Summer Tour,2010 Summer,Alaska,Alaska,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2010-08-14,2010,0,8,1,1,0,0,7,2010 Late Summer Tour,2010 Summer,Back on the Train,BOTT,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2010-08-14,2010,0,9,2,1,0,0,22,2010 Late Summer Tour,2010 Summer,Taste,Taste,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2010-08-14,2010,0,10,1,1,0,0,21,2010 Late Summer Tour,2010 Summer,When the Circus Comes,Circus,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2010-08-14,2010,0,11,1,1,0,0,8,2010 Late Summer Tour,2010 Summer,Lawn Boy,Lawn Boy,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2010-08-14,2010,0,12,1,1,0,0,10,2010 Late Summer Tour,2010 Summer,Sparkle,Sparkle,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2010-08-14,2010,0,13,2,1,0,0,9,2010 Late Summer Tour,2010 Summer,Gumbo,Gumbo,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2010-08-14,2010,0,14,4,1,0,0,3,2010 Late Summer Tour,2010 Summer,Run Like an Antelope,Antelope,1,Alpine Valley Music Theatre,East Troy,WI,USA,
+2010-08-14,2010,0,15,1,2,0,0,15,2010 Late Summer Tour,2010 Summer,The Sloth,Sloth,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2010-08-14,2010,0,16,3,2,0,0,4,2010 Late Summer Tour,2010 Summer,Down with Disease,DwD,1,Alpine Valley Music Theatre,East Troy,WI,USA,->
+2010-08-14,2010,0,17,2,2,0,0,27,2010 Late Summer Tour,2010 Summer,What's the Use?,WTU?,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2010-08-14,2010,0,18,1,2,0,0,68,2010 Late Summer Tour,2010 Summer,Scent of a Mule,SOAMule,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2010-08-14,2010,0,19,2,2,0,0,3,2010 Late Summer Tour,2010 Summer,Mike's Song,Mike's,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2010-08-14,2010,0,20,2,2,0,0,17,2010 Late Summer Tour,2010 Summer,Dirt,Dirt,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2010-08-14,2010,0,21,2,2,0,0,17,2010 Late Summer Tour,2010 Summer,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2010-08-14,2010,0,22,1,2,0,0,3,2010 Late Summer Tour,2010 Summer,Weekapaug Groove,Weekapaug,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2010-08-14,2010,0,23,5,2,0,0,16,2010 Late Summer Tour,2010 Summer,Bug,Bug,0,Alpine Valley Music Theatre,East Troy,WI,USA,
+2010-08-14,2010,0,24,6,e,0,0,4,2010 Late Summer Tour,2010 Summer,Quinn the Eskimo (The Mighty Quinn),Quinn,0,Alpine Valley Music Theatre,East Troy,WI,USA,
+2010-08-15,2010,0,1,1,1,0,0,5,2010 Late Summer Tour,2010 Summer,Tweezer,Tweezer,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2010-08-15,2010,0,2,1,1,0,0,6,2010 Late Summer Tour,2010 Summer,AC/DC Bag,Bag,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2010-08-15,2010,0,3,1,1,0,0,37,2010 Late Summer Tour,2010 Summer,On Your Way Down,On Your Way Down,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2010-08-15,2010,0,4,1,1,0,0,4,2010 Late Summer Tour,2010 Summer,Divided Sky,Divided,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2010-08-15,2010,0,5,1,1,0,0,4,2010 Late Summer Tour,2010 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2010-08-15,2010,0,6,2,1,0,0,12,2010 Late Summer Tour,2010 Summer,Water in the Sky,Water in the Sky,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2010-08-15,2010,0,7,2,1,0,0,7,2010 Late Summer Tour,2010 Summer,The Moma Dance,Moma,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2010-08-15,2010,0,8,1,1,0,0,22,2010 Late Summer Tour,2010 Summer,Farmhouse,Farmhouse,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2010-08-15,2010,0,9,4,1,0,0,5,2010 Late Summer Tour,2010 Summer,David Bowie,Bowie,1,Alpine Valley Music Theatre,East Troy,WI,USA,
+2010-08-15,2010,0,10,2,2,0,0,7,2010 Late Summer Tour,2010 Summer,Ghost,Ghost,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2010-08-15,2010,0,11,2,2,0,0,6,2010 Late Summer Tour,2010 Summer,Theme From the Bottom,Theme,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2010-08-15,2010,0,12,1,2,0,0,16,2010 Late Summer Tour,2010 Summer,Big Black Furry Creature from Mars,BBFCFM,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2010-08-15,2010,0,13,2,2,0,0,4,2010 Late Summer Tour,2010 Summer,You Enjoy Myself,YEM,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2010-08-15,2010,0,14,2,2,0,0,5,2010 Late Summer Tour,2010 Summer,Piper,Piper,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2010-08-15,2010,0,15,2,2,0,0,6,2010 Late Summer Tour,2010 Summer,Also Sprach Zarathustra,2001,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2010-08-15,2010,0,16,1,2,0,0,49,2010 Late Summer Tour,2010 Summer,While My Guitar Gently Weeps,WMGGW,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2010-08-15,2010,0,17,5,2,0,0,6,2010 Late Summer Tour,2010 Summer,Character Zero,Character Zero,1,Alpine Valley Music Theatre,East Troy,WI,USA,
+2010-08-15,2010,0,18,2,e,0,0,38,2010 Late Summer Tour,2010 Summer,Oh! Sweet Nuthin',Oh! Sweet Nuthin',0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2010-08-15,2010,0,19,2,e,0,0,5,2010 Late Summer Tour,2010 Summer,Cavern,Cavern,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2010-08-15,2010,0,20,2,e,0,0,8,2010 Late Summer Tour,2010 Summer,Joy,Joy,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2010-08-15,2010,0,21,6,e,0,0,5,2010 Late Summer Tour,2010 Summer,Tweezer Reprise,Tweeprise,1,Alpine Valley Music Theatre,East Troy,WI,USA,
+2010-08-17,2010,0,1,1,1,0,0,3,2010 Late Summer Tour,2010 Summer,Fluffhead,Fluffhead,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2010-08-17,2010,0,2,2,1,0,0,9,2010 Late Summer Tour,2010 Summer,Kill Devil Falls,KDF,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2010-08-17,2010,0,3,1,1,0,0,8,2010 Late Summer Tour,2010 Summer,Cities,Cities,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2010-08-17,2010,0,4,2,1,0,0,2,2010 Late Summer Tour,2010 Summer,Funky Bitch,Funky Bitch,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2010-08-17,2010,0,5,1,1,0,0,3,2010 Late Summer Tour,2010 Summer,Wilson,Wilson,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2010-08-17,2010,0,6,1,1,0,0,2,2010 Late Summer Tour,2010 Summer,Reba,Reba,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2010-08-17,2010,0,7,1,1,0,0,5,2010 Late Summer Tour,2010 Summer,Walk Away,Walk Away,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2010-08-17,2010,0,8,2,1,0,0,4,2010 Late Summer Tour,2010 Summer,Wolfman's Brother,Wolfman's,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2010-08-17,2010,0,9,4,1,0,0,3,2010 Late Summer Tour,2010 Summer,Possum,Possum,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,
+2010-08-17,2010,0,10,3,2,0,0,68,2010 Late Summer Tour,2010 Summer,Lengthwise,Lengthwise,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,->
+2010-08-17,2010,0,11,1,2,0,0,3,2010 Late Summer Tour,2010 Summer,Maze,Maze,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2010-08-17,2010,0,12,2,2,0,0,3,2010 Late Summer Tour,2010 Summer,Halley's Comet,Halley's,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2010-08-17,2010,0,13,2,2,0,0,2,2010 Late Summer Tour,2010 Summer,Mike's Song,Mike's,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2010-08-17,2010,0,14,2,2,0,0,8,2010 Late Summer Tour,2010 Summer,Simple,Simple,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2010-08-17,2010,0,15,2,2,0,0,3,2010 Late Summer Tour,2010 Summer,Backwards Down the Number Line,BDTNL,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2010-08-17,2010,0,16,2,2,0,0,6,2010 Late Summer Tour,2010 Summer,Prince Caspian,Caspian,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2010-08-17,2010,0,17,2,2,0,0,8,2010 Late Summer Tour,2010 Summer,Rock and Roll,R&amp;R,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2010-08-17,2010,0,18,1,2,0,0,2,2010 Late Summer Tour,2010 Summer,Weekapaug Groove,Weekapaug,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2010-08-17,2010,0,19,5,2,0,0,9,2010 Late Summer Tour,2010 Summer,Loving Cup,Loving Cup,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,
+2010-08-17,2010,0,20,1,e,0,0,8,2010 Late Summer Tour,2010 Summer,Show of Life,Show of Life,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2010-08-17,2010,0,21,6,e,0,0,4,2010 Late Summer Tour,2010 Summer,Golgi Apparatus,Golgi,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,
+2010-08-18,2010,0,1,2,1,0,0,3,2010 Late Summer Tour,2010 Summer,Down with Disease,DwD,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2010-08-18,2010,0,2,1,1,0,0,5,2010 Late Summer Tour,2010 Summer,Sample in a Jar,Sample,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2010-08-18,2010,0,3,1,1,0,0,4,2010 Late Summer Tour,2010 Summer,Guelah Papyrus,Guelah,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2010-08-18,2010,0,4,2,1,0,0,8,2010 Late Summer Tour,2010 Summer,Poor Heart,Poor Heart,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2010-08-18,2010,0,5,1,1,0,0,4,2010 Late Summer Tour,2010 Summer,Ocelot,Ocelot,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2010-08-18,2010,0,6,1,1,0,0,4,2010 Late Summer Tour,2010 Summer,Chalk Dust Torture,CDT,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2010-08-18,2010,0,7,1,1,0,0,5,2010 Late Summer Tour,2010 Summer,Bathtub Gin,Gin,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2010-08-18,2010,0,8,1,1,0,0,3,2010 Late Summer Tour,2010 Summer,Tube,Tube,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2010-08-18,2010,0,9,1,1,0,0,6,2010 Late Summer Tour,2010 Summer,Destiny Unbound,Destiny,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2010-08-18,2010,0,10,1,1,0,0,2,2010 Late Summer Tour,2010 Summer,Joy,Joy,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2010-08-18,2010,0,11,4,1,0,0,3,2010 Late Summer Tour,2010 Summer,Run Like an Antelope,Antelope,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,
+2010-08-18,2010,0,12,2,2,0,0,4,2010 Late Summer Tour,2010 Summer,Axilla,Axilla,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2010-08-18,2010,0,13,2,2,0,0,6,2010 Late Summer Tour,2010 Summer,Timber (Jerry the Mule),Timber Ho,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2010-08-18,2010,0,14,3,2,0,0,4,2010 Late Summer Tour,2010 Summer,Light,Light,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,->
+2010-08-18,2010,0,15,3,2,0,0,4,2010 Late Summer Tour,2010 Summer,46 Days,46 Days,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,->
+2010-08-18,2010,0,16,1,2,0,0,5,2010 Late Summer Tour,2010 Summer,"My Friend, My Friend",My Friend,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2010-08-18,2010,0,17,2,2,0,0,5,2010 Late Summer Tour,2010 Summer,Harry Hood,Hood,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2010-08-18,2010,0,18,3,2,0,0,2,2010 Late Summer Tour,2010 Summer,Tweezer,Tweezer,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,->
+2010-08-18,2010,0,19,2,2,0,0,5,2010 Late Summer Tour,2010 Summer,The Horse,Horse,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2010-08-18,2010,0,20,1,2,0,0,5,2010 Late Summer Tour,2010 Summer,Silent in the Morning,Silent,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2010-08-18,2010,0,21,5,2,0,0,2,2010 Late Summer Tour,2010 Summer,You Enjoy Myself,YEM,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,
+2010-08-18,2010,0,22,2,e,0,0,3,2010 Late Summer Tour,2010 Summer,Suzy Greenberg,Suzy,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2010-08-18,2010,0,23,6,e,0,0,2,2010 Late Summer Tour,2010 Summer,Tweezer Reprise,Tweeprise,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,
+2010-10-08,2010,0,1,2,1,0,0,1,2010 Fall Tour,2010 Fall,Down with Disease,DwD,1,Zilker Park,Austin,TX,USA,>
+2010-10-08,2010,0,2,2,1,0,0,2,2010 Fall Tour,2010 Fall,Cities,Cities,0,Zilker Park,Austin,TX,USA,>
+2010-10-08,2010,0,3,1,1,0,0,2,2010 Fall Tour,2010 Fall,Possum,Possum,1,Zilker Park,Austin,TX,USA,","
+2010-10-08,2010,0,4,1,1,0,0,2,2010 Fall Tour,2010 Fall,Wolfman's Brother,Wolfman's,1,Zilker Park,Austin,TX,USA,","
+2010-10-08,2010,0,5,1,1,0,0,1,2010 Fall Tour,2010 Fall,Chalk Dust Torture,CDT,1,Zilker Park,Austin,TX,USA,","
+2010-10-08,2010,0,6,2,1,0,0,2,2010 Fall Tour,2010 Fall,Rock and Roll,R&amp;R,0,Zilker Park,Austin,TX,USA,>
+2010-10-08,2010,0,7,2,1,0,0,3,2010 Fall Tour,2010 Fall,Also Sprach Zarathustra,2001,0,Zilker Park,Austin,TX,USA,>
+2010-10-08,2010,0,8,2,1,0,0,2,2010 Fall Tour,2010 Fall,Backwards Down the Number Line,BDTNL,0,Zilker Park,Austin,TX,USA,>
+2010-10-08,2010,0,9,3,1,0,0,1,2010 Fall Tour,2010 Fall,Harry Hood,Hood,1,Zilker Park,Austin,TX,USA,->
+2010-10-08,2010,0,10,2,1,0,0,1,2010 Fall Tour,2010 Fall,Light,Light,0,Zilker Park,Austin,TX,USA,>
+2010-10-08,2010,0,11,2,1,0,0,1,2010 Fall Tour,2010 Fall,Suzy Greenberg,Suzy,1,Zilker Park,Austin,TX,USA,>
+2010-10-08,2010,0,12,5,1,0,0,1,2010 Fall Tour,2010 Fall,You Enjoy Myself,YEM,1,Zilker Park,Austin,TX,USA,
+2010-10-08,2010,0,13,2,e,0,0,3,2010 Fall Tour,2010 Fall,Cavern,Cavern,1,Zilker Park,Austin,TX,USA,>
+2010-10-08,2010,0,14,6,e,0,0,9,2010 Fall Tour,2010 Fall,First Tube,First Tube,0,Zilker Park,Austin,TX,USA,
+2010-10-10,2010,0,1,1,1,0,0,1,2010 Fall Tour,2010 Fall,Chalk Dust Torture,CDT,1,1stBank Center,Broomfield,CO,USA,","
+2010-10-10,2010,0,2,1,1,0,0,2,2010 Fall Tour,2010 Fall,Ocelot,Ocelot,1,1stBank Center,Broomfield,CO,USA,","
+2010-10-10,2010,0,3,2,1,0,0,11,2010 Fall Tour,2010 Fall,It's Ice,It's Ice,1,1stBank Center,Broomfield,CO,USA,>
+2010-10-10,2010,0,4,1,1,0,0,8,2010 Fall Tour,2010 Fall,Bouncing Around the Room,Bouncin',1,1stBank Center,Broomfield,CO,USA,","
+2010-10-10,2010,0,5,1,1,0,0,3,2010 Fall Tour,2010 Fall,Funky Bitch,Funky Bitch,0,1stBank Center,Broomfield,CO,USA,","
+2010-10-10,2010,0,6,2,1,0,0,4,2010 Fall Tour,2010 Fall,AC/DC Bag,Bag,1,1stBank Center,Broomfield,CO,USA,>
+2010-10-10,2010,0,7,2,1,0,0,7,2010 Fall Tour,2010 Fall,NICU,NICU,1,1stBank Center,Broomfield,CO,USA,>
+2010-10-10,2010,0,8,2,1,0,0,4,2010 Fall Tour,2010 Fall,The Moma Dance,Moma,1,1stBank Center,Broomfield,CO,USA,>
+2010-10-10,2010,0,9,1,1,0,0,7,2010 Fall Tour,2010 Fall,Horn,Horn,1,1stBank Center,Broomfield,CO,USA,","
+2010-10-10,2010,0,10,1,1,0,0,6,2010 Fall Tour,2010 Fall,Stash,Stash,1,1stBank Center,Broomfield,CO,USA,","
+2010-10-10,2010,0,11,4,1,0,0,3,2010 Fall Tour,2010 Fall,Golgi Apparatus,Golgi,1,1stBank Center,Broomfield,CO,USA,
+2010-10-10,2010,0,12,2,2,0,0,3,2010 Fall Tour,2010 Fall,Mike's Song,Mike's,1,1stBank Center,Broomfield,CO,USA,>
+2010-10-10,2010,0,13,2,2,0,0,3,2010 Fall Tour,2010 Fall,Simple,Simple,1,1stBank Center,Broomfield,CO,USA,>
+2010-10-10,2010,0,14,2,2,0,0,4,2010 Fall Tour,2010 Fall,Ghost,Ghost,1,1stBank Center,Broomfield,CO,USA,>
+2010-10-10,2010,0,15,1,2,0,0,3,2010 Fall Tour,2010 Fall,Weekapaug Groove,Weekapaug,1,1stBank Center,Broomfield,CO,USA,","
+2010-10-10,2010,0,16,2,2,0,0,7,2010 Fall Tour,2010 Fall,Fee,Fee,1,1stBank Center,Broomfield,CO,USA,>
+2010-10-10,2010,0,17,1,2,0,0,23,2010 Fall Tour,2010 Fall,Makisupa Policeman,Makisupa,1,1stBank Center,Broomfield,CO,USA,","
+2010-10-10,2010,0,18,2,2,0,0,1500,2010 Fall Tour,2010 Fall,My Problem Right There,My Problem Right There,1,1stBank Center,Broomfield,CO,USA,>
+2010-10-10,2010,0,19,3,2,0,0,0,2010 Fall Tour,2010 Fall,Makisupa Policeman,Makisupa,1,1stBank Center,Broomfield,CO,USA,->
+2010-10-10,2010,0,20,1,2,0,0,6,2010 Fall Tour,2010 Fall,Slave to the Traffic Light,Slave,1,1stBank Center,Broomfield,CO,USA,","
+2010-10-10,2010,0,21,2,2,0,0,14,2010 Fall Tour,2010 Fall,Strange Design,Strange Design,1,1stBank Center,Broomfield,CO,USA,>
+2010-10-10,2010,0,22,5,2,0,0,6,2010 Fall Tour,2010 Fall,Julius,Julius,1,1stBank Center,Broomfield,CO,USA,
+2010-10-10,2010,0,23,6,e,0,0,3,2010 Fall Tour,2010 Fall,Loving Cup,Loving Cup,0,1stBank Center,Broomfield,CO,USA,
+2010-10-11,2010,0,1,1,1,0,0,8,2010 Fall Tour,2010 Fall,Runaway Jim,Runaway Jim,1,1stBank Center,Broomfield,CO,USA,","
+2010-10-11,2010,0,2,1,1,0,0,11,2010 Fall Tour,2010 Fall,Foam,Foam,1,1stBank Center,Broomfield,CO,USA,","
+2010-10-11,2010,0,3,1,1,0,0,6,2010 Fall Tour,2010 Fall,Back on the Train,BOTT,0,1stBank Center,Broomfield,CO,USA,","
+2010-10-11,2010,0,4,1,1,0,0,2,2010 Fall Tour,2010 Fall,Wolfman's Brother,Wolfman's,1,1stBank Center,Broomfield,CO,USA,","
+2010-10-11,2010,0,5,1,1,0,0,4,2010 Fall Tour,2010 Fall,Reba,Reba,1,1stBank Center,Broomfield,CO,USA,","
+2010-10-11,2010,0,6,2,1,0,0,4,2010 Fall Tour,2010 Fall,Halley's Comet,Halley's,1,1stBank Center,Broomfield,CO,USA,>
+2010-10-11,2010,0,7,1,1,0,0,3,2010 Fall Tour,2010 Fall,Tweezer,Tweezer,1,1stBank Center,Broomfield,CO,USA,","
+2010-10-11,2010,0,8,1,1,0,0,1501,2010 Fall Tour,2010 Fall,What Things Seem,What Things Seem,0,1stBank Center,Broomfield,CO,USA,","
+2010-10-11,2010,0,9,1,1,0,0,9,2010 Fall Tour,2010 Fall,The Squirming Coil,Coil,1,1stBank Center,Broomfield,CO,USA,","
+2010-10-11,2010,0,10,4,1,0,0,3,2010 Fall Tour,2010 Fall,Run Like an Antelope,Antelope,1,1stBank Center,Broomfield,CO,USA,
+2010-10-11,2010,0,11,3,2,0,0,42,2010 Fall Tour,2010 Fall,Golden Age,Golden Age,0,1stBank Center,Broomfield,CO,USA,->
+2010-10-11,2010,0,12,3,2,0,0,5,2010 Fall Tour,2010 Fall,Piper,Piper,1,1stBank Center,Broomfield,CO,USA,->
+2010-10-11,2010,0,13,1,2,0,0,10,2010 Fall Tour,2010 Fall,Camel Walk,Camel Walk,1,1stBank Center,Broomfield,CO,USA,","
+2010-10-11,2010,0,14,1,2,0,0,6,2010 Fall Tour,2010 Fall,Alaska,Alaska,0,1stBank Center,Broomfield,CO,USA,","
+2010-10-11,2010,0,15,1,2,0,0,8,2010 Fall Tour,2010 Fall,Gotta Jibboo,Jibboo,0,1stBank Center,Broomfield,CO,USA,","
+2010-10-11,2010,0,16,1,2,0,0,17,2010 Fall Tour,2010 Fall,Wading in the Velvet Sea,Velvet Sea,1,1stBank Center,Broomfield,CO,USA,","
+2010-10-11,2010,0,17,2,2,0,0,8,2010 Fall Tour,2010 Fall,Twist,Twist,1,1stBank Center,Broomfield,CO,USA,>
+2010-10-11,2010,0,18,2,2,0,0,4,2010 Fall Tour,2010 Fall,Fluffhead,Fluffhead,1,1stBank Center,Broomfield,CO,USA,>
+2010-10-11,2010,0,19,5,2,0,0,2,2010 Fall Tour,2010 Fall,Backwards Down the Number Line,BDTNL,0,1stBank Center,Broomfield,CO,USA,
+2010-10-11,2010,0,20,2,e,0,0,15,2010 Fall Tour,2010 Fall,Sleeping Monkey,Sleeping Monkey,1,1stBank Center,Broomfield,CO,USA,>
+2010-10-11,2010,0,21,6,e,0,0,3,2010 Fall Tour,2010 Fall,Tweezer Reprise,Tweeprise,1,1stBank Center,Broomfield,CO,USA,
+2010-10-12,2010,0,1,1,1,0,0,6,2010 Fall Tour,2010 Fall,Stealing Time From the Faulty Plan,STFTFP,1,1stBank Center,Broomfield,CO,USA,","
+2010-10-12,2010,0,2,1,1,0,0,9,2010 Fall Tour,2010 Fall,Time Turns Elastic,TTE,0,1stBank Center,Broomfield,CO,USA,","
+2010-10-12,2010,0,3,1,1,0,0,41,2010 Fall Tour,2010 Fall,Meat,Meat,1,1stBank Center,Broomfield,CO,USA,","
+2010-10-12,2010,0,4,1,1,0,0,6,2010 Fall Tour,2010 Fall,Divided Sky,Divided,1,1stBank Center,Broomfield,CO,USA,","
+2010-10-12,2010,0,5,1,1,0,0,4,2010 Fall Tour,2010 Fall,Timber (Jerry the Mule),Timber Ho,0,1stBank Center,Broomfield,CO,USA,","
+2010-10-12,2010,0,6,1,1,0,0,6,2010 Fall Tour,2010 Fall,On Your Way Down,On Your Way Down,0,1stBank Center,Broomfield,CO,USA,","
+2010-10-12,2010,0,7,1,1,0,0,10,2010 Fall Tour,2010 Fall,Heavy Things,Heavy Things,1,1stBank Center,Broomfield,CO,USA,","
+2010-10-12,2010,0,8,1,1,0,0,9,2010 Fall Tour,2010 Fall,Sugar Shack,Sugar Shack,1,1stBank Center,Broomfield,CO,USA,","
+2010-10-12,2010,0,9,4,1,0,0,4,2010 Fall Tour,2010 Fall,46 Days,46 Days,1,1stBank Center,Broomfield,CO,USA,
+2010-10-12,2010,0,10,3,2,0,0,10,2010 Fall Tour,2010 Fall,Carini,Carini,1,1stBank Center,Broomfield,CO,USA,->
+2010-10-12,2010,0,11,1,2,0,0,6,2010 Fall Tour,2010 Fall,David Bowie,Bowie,1,1stBank Center,Broomfield,CO,USA,","
+2010-10-12,2010,0,12,2,2,0,0,3,2010 Fall Tour,2010 Fall,Light,Light,0,1stBank Center,Broomfield,CO,USA,>
+2010-10-12,2010,0,13,3,2,0,0,6,2010 Fall Tour,2010 Fall,Theme From the Bottom,Theme,1,1stBank Center,Broomfield,CO,USA,->
+2010-10-12,2010,0,14,2,2,0,0,10,2010 Fall Tour,2010 Fall,Free,Free,1,1stBank Center,Broomfield,CO,USA,>
+2010-10-12,2010,0,15,1,2,0,0,4,2010 Fall Tour,2010 Fall,Joy,Joy,1,1stBank Center,Broomfield,CO,USA,","
+2010-10-12,2010,0,16,2,2,0,0,26,2010 Fall Tour,2010 Fall,Halfway to the Moon,Halfway to the Moon,1,1stBank Center,Broomfield,CO,USA,>
+2010-10-12,2010,0,17,1,2,0,0,7,2010 Fall Tour,2010 Fall,Bug,Bug,0,1stBank Center,Broomfield,CO,USA,","
+2010-10-12,2010,0,18,2,2,0,0,11,2010 Fall Tour,2010 Fall,Summer of '89,Summer of '89,1,1stBank Center,Broomfield,CO,USA,>
+2010-10-12,2010,0,19,5,2,0,0,9,2010 Fall Tour,2010 Fall,Split Open and Melt,SOAMelt,1,1stBank Center,Broomfield,CO,USA,
+2010-10-12,2010,0,20,6,e,0,0,8,2010 Fall Tour,2010 Fall,Meatstick,Meatstick,1,1stBank Center,Broomfield,CO,USA,
+2010-10-15,2010,0,1,2,1,0,0,10,2010 Fall Tour,2010 Fall,Punch You in the Eye,PYITE,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2010-10-15,2010,0,2,1,1,0,0,4,2010 Fall Tour,2010 Fall,Possum,Possum,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-15,2010,0,3,1,1,0,0,5,2010 Fall Tour,2010 Fall,Bathtub Gin,Gin,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-15,2010,0,4,1,1,0,0,95,2010 Fall Tour,2010 Fall,"Bill Bailey, Won't You Please Come Home?","Bill Bailey, Won't You Please Come Home?",0,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-15,2010,0,5,1,1,0,0,12,2010 Fall Tour,2010 Fall,Boogie On Reggae Woman,Boogie On,0,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-15,2010,0,6,1,1,0,0,5,2010 Fall Tour,2010 Fall,Destiny Unbound,Destiny,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-15,2010,0,7,1,1,0,0,2,2010 Fall Tour,2010 Fall,Backwards Down the Number Line,BDTNL,0,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-15,2010,0,8,1,1,0,0,3,2010 Fall Tour,2010 Fall,Bouncing Around the Room,Bouncin',1,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-15,2010,0,9,1,1,0,0,3,2010 Fall Tour,2010 Fall,Stash,Stash,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-15,2010,0,10,1,1,0,0,1,2010 Fall Tour,2010 Fall,Joy,Joy,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-15,2010,0,11,1,1,0,0,10,2010 Fall Tour,2010 Fall,Buffalo Bill,Buffalo Bill,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-15,2010,0,12,1,1,0,0,10,2010 Fall Tour,2010 Fall,Dog Faced Boy,Dog Faced Boy,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-15,2010,0,13,4,1,0,0,2,2010 Fall Tour,2010 Fall,Run Like an Antelope,Antelope,1,North Charleston Coliseum,North Charleston,SC,USA,
+2010-10-15,2010,0,14,2,2,0,0,4,2010 Fall Tour,2010 Fall,Down with Disease,DwD,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2010-10-15,2010,0,15,2,2,0,0,6,2010 Fall Tour,2010 Fall,Prince Caspian,Caspian,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2010-10-15,2010,0,16,1,2,0,0,2,2010 Fall Tour,2010 Fall,Twist,Twist,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-15,2010,0,17,2,2,0,0,11,2010 Fall Tour,2010 Fall,Roses Are Free,Roses,0,North Charleston Coliseum,North Charleston,SC,USA,>
+2010-10-15,2010,0,18,2,2,0,0,5,2010 Fall Tour,2010 Fall,"My Friend, My Friend",My Friend,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2010-10-15,2010,0,19,1,2,0,0,3,2010 Fall Tour,2010 Fall,My Problem Right There,My Problem Right There,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-15,2010,0,20,2,2,0,0,5,2010 Fall Tour,2010 Fall,Tube,Tube,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2010-10-15,2010,0,21,2,2,0,0,3,2010 Fall Tour,2010 Fall,Mike's Song,Mike's,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2010-10-15,2010,0,22,2,2,0,0,5,2010 Fall Tour,2010 Fall,The Horse,Horse,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2010-10-15,2010,0,23,1,2,0,0,5,2010 Fall Tour,2010 Fall,Silent in the Morning,Silent,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-15,2010,0,24,1,2,0,0,18,2010 Fall Tour,2010 Fall,Mexican Cousin,Mexican Cousin,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-15,2010,0,25,1,2,0,0,3,2010 Fall Tour,2010 Fall,Weekapaug Groove,Weekapaug,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-15,2010,0,26,2,2,0,0,4,2010 Fall Tour,2010 Fall,Suzy Greenberg,Suzy,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2010-10-15,2010,0,27,5,2,0,0,3,2010 Fall Tour,2010 Fall,Slave to the Traffic Light,Slave,1,North Charleston Coliseum,North Charleston,SC,USA,
+2010-10-15,2010,0,28,6,e,0,0,7,2010 Fall Tour,2010 Fall,Character Zero,Character Zero,1,North Charleston Coliseum,North Charleston,SC,USA,
+2010-10-16,2010,0,1,1,1,0,0,7,2010 Fall Tour,2010 Fall,Kill Devil Falls,KDF,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-16,2010,0,2,1,1,0,0,6,2010 Fall Tour,2010 Fall,Guelah Papyrus,Guelah,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-16,2010,0,3,2,1,0,0,36,2010 Fall Tour,2010 Fall,The Curtain With,Curtain With,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2010-10-16,2010,0,4,2,1,0,0,10,2010 Fall Tour,2010 Fall,The Mango Song,Mango,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2010-10-16,2010,0,5,1,1,0,0,13,2010 Fall Tour,2010 Fall,Sand,Sand,0,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-16,2010,0,6,1,1,0,0,12,2010 Fall Tour,2010 Fall,Limb By Limb,LxL,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-16,2010,0,7,1,1,0,0,9,2010 Fall Tour,2010 Fall,Sneakin' Sally Through the Alley,Sneakin' Sally,0,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-16,2010,0,8,1,1,0,0,25,2010 Fall Tour,2010 Fall,Uncle Pen,Uncle Pen,0,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-16,2010,0,9,1,1,0,0,43,2010 Fall Tour,2010 Fall,Pebbles and Marbles,Pebbles and Marbles,0,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-16,2010,0,10,2,1,0,0,5,2010 Fall Tour,2010 Fall,Cavern,Cavern,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2010-10-16,2010,0,11,4,1,0,0,2,2010 Fall Tour,2010 Fall,David Bowie,Bowie,1,North Charleston Coliseum,North Charleston,SC,USA,
+2010-10-16,2010,0,12,1,2,0,0,12,2010 Fall Tour,2010 Fall,Crosseyed and Painless,C&amp;P,0,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-16,2010,0,13,2,2,0,0,9,2010 Fall Tour,2010 Fall,Dirt,Dirt,0,North Charleston Coliseum,North Charleston,SC,USA,>
+2010-10-16,2010,0,14,2,2,0,0,3,2010 Fall Tour,2010 Fall,Fluffhead,Fluffhead,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2010-10-16,2010,0,15,2,2,0,0,5,2010 Fall Tour,2010 Fall,Also Sprach Zarathustra,2001,0,North Charleston Coliseum,North Charleston,SC,USA,>
+2010-10-16,2010,0,16,2,2,0,0,3,2010 Fall Tour,2010 Fall,Tweezer,Tweezer,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2010-10-16,2010,0,17,1,2,0,0,7,2010 Fall Tour,2010 Fall,Show of Life,Show of Life,0,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-16,2010,0,18,5,2,0,0,5,2010 Fall Tour,2010 Fall,You Enjoy Myself,YEM,1,North Charleston Coliseum,North Charleston,SC,USA,
+2010-10-16,2010,0,19,1,e,0,0,45,2010 Fall Tour,2010 Fall,I Been Around,I Been Around,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-16,2010,0,20,2,e,0,0,9,2010 Fall Tour,2010 Fall,Quinn the Eskimo (The Mighty Quinn),Quinn,0,North Charleston Coliseum,North Charleston,SC,USA,>
+2010-10-16,2010,0,21,6,e,0,0,3,2010 Fall Tour,2010 Fall,Tweezer Reprise,Tweeprise,1,North Charleston Coliseum,North Charleston,SC,USA,
+2010-10-19,2010,0,1,1,1,0,0,5,2010 Fall Tour,2010 Fall,Chalk Dust Torture,CDT,1,Augusta Civic Center,Augusta,ME,USA,","
+2010-10-19,2010,0,2,1,1,0,0,4,2010 Fall Tour,2010 Fall,Back on the Train,BOTT,0,Augusta Civic Center,Augusta,ME,USA,","
+2010-10-19,2010,0,3,1,1,0,0,50,2010 Fall Tour,2010 Fall,Torn and Frayed,Torn and Frayed,0,Augusta Civic Center,Augusta,ME,USA,","
+2010-10-19,2010,0,4,1,1,0,0,2,2010 Fall Tour,2010 Fall,Bathtub Gin,Gin,1,Augusta Civic Center,Augusta,ME,USA,","
+2010-10-19,2010,0,5,1,1,0,0,10,2010 Fall Tour,2010 Fall,Gumbo,Gumbo,1,Augusta Civic Center,Augusta,ME,USA,","
+2010-10-19,2010,0,6,1,1,0,0,3,2010 Fall Tour,2010 Fall,Divided Sky,Divided,1,Augusta Civic Center,Augusta,ME,USA,","
+2010-10-19,2010,0,7,1,1,0,0,35,2010 Fall Tour,2010 Fall,Jesus Just Left Chicago,JJLC,0,Augusta Civic Center,Augusta,ME,USA,","
+2010-10-19,2010,0,8,2,1,0,0,44,2010 Fall Tour,2010 Fall,Nellie Kane,Nellie Kane,0,Augusta Civic Center,Augusta,ME,USA,>
+2010-10-19,2010,0,9,2,1,0,0,3,2010 Fall Tour,2010 Fall,46 Days,46 Days,1,Augusta Civic Center,Augusta,ME,USA,>
+2010-10-19,2010,0,10,4,1,0,0,2,2010 Fall Tour,2010 Fall,Possum,Possum,1,Augusta Civic Center,Augusta,ME,USA,
+2010-10-19,2010,0,11,2,2,0,0,10,2010 Fall Tour,2010 Fall,Fuck Your Face,FYF,1,Augusta Civic Center,Augusta,ME,USA,>
+2010-10-19,2010,0,12,3,2,0,0,2,2010 Fall Tour,2010 Fall,Mike's Song,Mike's,1,Augusta Civic Center,Augusta,ME,USA,->
+2010-10-19,2010,0,13,2,2,0,0,0,2010 Fall Tour,2010 Fall,Fuck Your Face,FYF,1,Augusta Civic Center,Augusta,ME,USA,>
+2010-10-19,2010,0,14,3,2,0,0,3,2010 Fall Tour,2010 Fall,Light,Light,0,Augusta Civic Center,Augusta,ME,USA,->
+2010-10-19,2010,0,15,2,2,0,0,15,2010 Fall Tour,2010 Fall,Twenty Years Later,Twenty Years Later,1,Augusta Civic Center,Augusta,ME,USA,>
+2010-10-19,2010,0,16,1,2,0,0,24,2010 Fall Tour,2010 Fall,Fast Enough for You,FEFY,1,Augusta Civic Center,Augusta,ME,USA,","
+2010-10-19,2010,0,17,1,2,0,0,2,2010 Fall Tour,2010 Fall,Weekapaug Groove,Weekapaug,1,Augusta Civic Center,Augusta,ME,USA,","
+2010-10-19,2010,0,18,2,2,0,0,4,2010 Fall Tour,2010 Fall,Halley's Comet,Halley's,1,Augusta Civic Center,Augusta,ME,USA,>
+2010-10-19,2010,0,19,2,2,0,0,3,2010 Fall Tour,2010 Fall,Free,Free,1,Augusta Civic Center,Augusta,ME,USA,>
+2010-10-19,2010,0,20,2,2,0,0,6,2010 Fall Tour,2010 Fall,Harry Hood,Hood,1,Augusta Civic Center,Augusta,ME,USA,>
+2010-10-19,2010,0,21,1,2,0,0,5,2010 Fall Tour,2010 Fall,Golgi Apparatus,Golgi,1,Augusta Civic Center,Augusta,ME,USA,","
+2010-10-19,2010,0,22,5,2,0,0,14,2010 Fall Tour,2010 Fall,A Day in the Life,ADITL,0,Augusta Civic Center,Augusta,ME,USA,
+2010-10-19,2010,0,23,1,e,0,0,4,2010 Fall Tour,2010 Fall,Reba,Reba,1,Augusta Civic Center,Augusta,ME,USA,","
+2010-10-19,2010,0,24,6,e,0,0,2,2010 Fall Tour,2010 Fall,Backwards Down the Number Line,BDTNL,0,Augusta Civic Center,Augusta,ME,USA,
+2010-10-20,2010,0,1,1,1,0,0,24,2010 Fall Tour,2010 Fall,My Soul,My Soul,0,Utica Memorial Auditorium,Utica,NY,USA,","
+2010-10-20,2010,0,2,1,1,0,0,4,2010 Fall Tour,2010 Fall,Stealing Time From the Faulty Plan,STFTFP,1,Utica Memorial Auditorium,Utica,NY,USA,","
+2010-10-20,2010,0,3,1,1,0,0,21,2010 Fall Tour,2010 Fall,Vultures,Vultures,1,Utica Memorial Auditorium,Utica,NY,USA,","
+2010-10-20,2010,0,4,3,1,0,0,5,2010 Fall Tour,2010 Fall,Wolfman's Brother,Wolfman's,1,Utica Memorial Auditorium,Utica,NY,USA,->
+2010-10-20,2010,0,5,2,1,0,0,7,2010 Fall Tour,2010 Fall,Cities,Cities,0,Utica Memorial Auditorium,Utica,NY,USA,>
+2010-10-20,2010,0,6,1,1,0,0,17,2010 Fall Tour,2010 Fall,Guyute,Guyute,1,Utica Memorial Auditorium,Utica,NY,USA,","
+2010-10-20,2010,0,7,1,1,0,0,2,2010 Fall Tour,2010 Fall,David Bowie,Bowie,1,Utica Memorial Auditorium,Utica,NY,USA,","
+2010-10-20,2010,0,8,2,1,0,0,9,2010 Fall Tour,2010 Fall,Wilson,Wilson,1,Utica Memorial Auditorium,Utica,NY,USA,>
+2010-10-20,2010,0,9,2,1,0,0,20,2010 Fall Tour,2010 Fall,McGrupp and the Watchful Hosemasters,McGrupp,1,Utica Memorial Auditorium,Utica,NY,USA,>
+2010-10-20,2010,0,10,3,1,0,0,24,2010 Fall Tour,2010 Fall,Saw It Again,Saw It Again,1,Utica Memorial Auditorium,Utica,NY,USA,->
+2010-10-20,2010,0,11,4,1,0,0,3,2010 Fall Tour,2010 Fall,Run Like an Antelope,Antelope,1,Utica Memorial Auditorium,Utica,NY,USA,
+2010-10-20,2010,0,12,3,2,0,0,13,2010 Fall Tour,2010 Fall,Drowned,Drowned,0,Utica Memorial Auditorium,Utica,NY,USA,->
+2010-10-20,2010,0,13,2,2,0,0,2,2010 Fall Tour,2010 Fall,Sand,Sand,0,Utica Memorial Auditorium,Utica,NY,USA,>
+2010-10-20,2010,0,14,1,2,0,0,4,2010 Fall Tour,2010 Fall,Theme From the Bottom,Theme,1,Utica Memorial Auditorium,Utica,NY,USA,","
+2010-10-20,2010,0,15,2,2,0,0,8,2010 Fall Tour,2010 Fall,Axilla,Axilla,1,Utica Memorial Auditorium,Utica,NY,USA,>
+2010-10-20,2010,0,16,1,2,0,0,27,2010 Fall Tour,2010 Fall,Birds of a Feather,BOAF,1,Utica Memorial Auditorium,Utica,NY,USA,","
+2010-10-20,2010,0,17,2,2,0,0,19,2010 Fall Tour,2010 Fall,Tela,Tela,1,Utica Memorial Auditorium,Utica,NY,USA,>
+2010-10-20,2010,0,18,3,2,0,0,4,2010 Fall Tour,2010 Fall,Split Open and Melt,SOAMelt,1,Utica Memorial Auditorium,Utica,NY,USA,->
+2010-10-20,2010,0,19,2,2,0,0,22,2010 Fall Tour,2010 Fall,Have Mercy,Have Mercy,0,Utica Memorial Auditorium,Utica,NY,USA,>
+2010-10-20,2010,0,20,3,2,0,0,5,2010 Fall Tour,2010 Fall,Piper,Piper,1,Utica Memorial Auditorium,Utica,NY,USA,->
+2010-10-20,2010,0,21,2,2,0,0,0,2010 Fall Tour,2010 Fall,Split Open and Melt,SOAMelt,1,Utica Memorial Auditorium,Utica,NY,USA,>
+2010-10-20,2010,0,22,5,2,0,0,3,2010 Fall Tour,2010 Fall,Slave to the Traffic Light,Slave,1,Utica Memorial Auditorium,Utica,NY,USA,
+2010-10-20,2010,0,23,6,e,0,0,17,2010 Fall Tour,2010 Fall,Good Times Bad Times,GTBT,0,Utica Memorial Auditorium,Utica,NY,USA,
+2010-10-22,2010,0,1,1,1,0,0,4,2010 Fall Tour,2010 Fall,Down with Disease,DwD,1,Dunkin' Donuts Center,Providence,RI,USA,","
+2010-10-22,2010,0,2,1,1,0,0,7,2010 Fall Tour,2010 Fall,Funky Bitch,Funky Bitch,0,Dunkin' Donuts Center,Providence,RI,USA,","
+2010-10-22,2010,0,3,1,1,0,0,3,2010 Fall Tour,2010 Fall,Fluffhead,Fluffhead,1,Dunkin' Donuts Center,Providence,RI,USA,","
+2010-10-22,2010,0,4,2,1,0,0,4,2010 Fall Tour,2010 Fall,Roses Are Free,Roses,0,Dunkin' Donuts Center,Providence,RI,USA,>
+2010-10-22,2010,0,5,1,1,0,0,21,2010 Fall Tour,2010 Fall,Rift,Rift,1,Dunkin' Donuts Center,Providence,RI,USA,","
+2010-10-22,2010,0,6,2,1,0,0,7,2010 Fall Tour,2010 Fall,The Moma Dance,Moma,1,Dunkin' Donuts Center,Providence,RI,USA,>
+2010-10-22,2010,0,7,1,1,0,0,7,2010 Fall Tour,2010 Fall,Ocelot,Ocelot,1,Dunkin' Donuts Center,Providence,RI,USA,","
+2010-10-22,2010,0,8,1,1,0,0,7,2010 Fall Tour,2010 Fall,NICU,NICU,1,Dunkin' Donuts Center,Providence,RI,USA,","
+2010-10-22,2010,0,9,1,1,0,0,9,2010 Fall Tour,2010 Fall,Sample in a Jar,Sample,1,Dunkin' Donuts Center,Providence,RI,USA,","
+2010-10-22,2010,0,10,4,1,0,0,7,2010 Fall Tour,2010 Fall,Julius,Julius,1,Dunkin' Donuts Center,Providence,RI,USA,
+2010-10-22,2010,0,11,3,2,0,0,8,2010 Fall Tour,2010 Fall,Rock and Roll,R&amp;R,0,Dunkin' Donuts Center,Providence,RI,USA,->
+2010-10-22,2010,0,12,3,2,0,0,5,2010 Fall Tour,2010 Fall,Carini,Carini,1,Dunkin' Donuts Center,Providence,RI,USA,->
+2010-10-22,2010,0,13,1,2,0,0,4,2010 Fall Tour,2010 Fall,My Problem Right There,My Problem Right There,1,Dunkin' Donuts Center,Providence,RI,USA,","
+2010-10-22,2010,0,14,2,2,0,0,2,2010 Fall Tour,2010 Fall,Mike's Song,Mike's,1,Dunkin' Donuts Center,Providence,RI,USA,>
+2010-10-22,2010,0,15,2,2,0,0,21,2010 Fall Tour,2010 Fall,Sanity,Sanity,1,Dunkin' Donuts Center,Providence,RI,USA,>
+2010-10-22,2010,0,16,1,2,0,0,2,2010 Fall Tour,2010 Fall,Weekapaug Groove,Weekapaug,1,Dunkin' Donuts Center,Providence,RI,USA,","
+2010-10-22,2010,0,17,2,2,0,0,4,2010 Fall Tour,2010 Fall,Suzy Greenberg,Suzy,1,Dunkin' Donuts Center,Providence,RI,USA,>
+2010-10-22,2010,0,18,2,2,0,0,2,2010 Fall Tour,2010 Fall,Light,Light,0,Dunkin' Donuts Center,Providence,RI,USA,>
+2010-10-22,2010,0,19,2,2,0,0,4,2010 Fall Tour,2010 Fall,Character Zero,Character Zero,1,Dunkin' Donuts Center,Providence,RI,USA,>
+2010-10-22,2010,0,20,2,2,0,0,3,2010 Fall Tour,2010 Fall,Also Sprach Zarathustra,2001,0,Dunkin' Donuts Center,Providence,RI,USA,>
+2010-10-22,2010,0,21,5,2,0,0,7,2010 Fall Tour,2010 Fall,Loving Cup,Loving Cup,0,Dunkin' Donuts Center,Providence,RI,USA,
+2010-10-22,2010,0,22,6,e,0,0,8,2010 Fall Tour,2010 Fall,First Tube,First Tube,0,Dunkin' Donuts Center,Providence,RI,USA,
+2010-10-23,2010,0,1,1,1,0,0,6,2010 Fall Tour,2010 Fall,Meatstick,Meatstick,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+2010-10-23,2010,0,2,1,1,0,0,16,2010 Fall Tour,2010 Fall,Party Time,Party Time,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+2010-10-23,2010,0,3,1,1,0,0,3,2010 Fall Tour,2010 Fall,Golgi Apparatus,Golgi,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+2010-10-23,2010,0,4,2,1,0,0,4,2010 Fall Tour,2010 Fall,Kill Devil Falls,KDF,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-23,2010,0,5,1,1,0,0,4,2010 Fall Tour,2010 Fall,Tweezer,Tweezer,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+2010-10-23,2010,0,6,1,1,0,0,13,2010 Fall Tour,2010 Fall,Lawn Boy,Lawn Boy,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+2010-10-23,2010,0,7,2,1,0,0,13,2010 Fall Tour,2010 Fall,Sparkle,Sparkle,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-23,2010,0,8,1,1,0,0,12,2010 Fall Tour,2010 Fall,Big Black Furry Creature from Mars,BBFCFM,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+2010-10-23,2010,0,9,2,1,0,0,40,2010 Fall Tour,2010 Fall,Hold Your Head Up,HYHU,0,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-23,2010,0,10,2,1,0,0,40,2010 Fall Tour,2010 Fall,Love You,Love You,0,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-23,2010,0,11,1,1,0,0,0,2010 Fall Tour,2010 Fall,Hold Your Head Up,HYHU,0,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+2010-10-23,2010,0,12,2,1,0,0,3,2010 Fall Tour,2010 Fall,Possum,Possum,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-23,2010,0,13,4,1,0,0,4,2010 Fall Tour,2010 Fall,Tweezer Reprise,Tweeprise,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,
+2010-10-23,2010,0,14,2,2,0,0,1,2010 Fall Tour,2010 Fall,Down with Disease,DwD,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-23,2010,0,15,3,2,0,0,5,2010 Fall Tour,2010 Fall,"My Friend, My Friend",My Friend,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,->
+2010-10-23,2010,0,16,3,2,0,0,5,2010 Fall Tour,2010 Fall,Prince Caspian,Caspian,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,->
+2010-10-23,2010,0,17,3,2,0,0,6,2010 Fall Tour,2010 Fall,Halfway to the Moon,Halfway to the Moon,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,->
+2010-10-23,2010,0,18,2,2,0,0,5,2010 Fall Tour,2010 Fall,Boogie On Reggae Woman,Boogie On,0,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-23,2010,0,19,1,2,0,0,11,2010 Fall Tour,2010 Fall,Maze,Maze,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+2010-10-23,2010,0,20,2,2,0,0,7,2010 Fall Tour,2010 Fall,Wading in the Velvet Sea,Velvet Sea,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-23,2010,0,21,2,2,0,0,2,2010 Fall Tour,2010 Fall,Piper,Piper,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-23,2010,0,22,2,2,0,0,3,2010 Fall Tour,2010 Fall,Harry Hood,Hood,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-23,2010,0,23,5,2,0,0,4,2010 Fall Tour,2010 Fall,You Enjoy Myself,YEM,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,
+2010-10-23,2010,0,24,6,e,0,0,16,2010 Fall Tour,2010 Fall,Shine a Light,Shine a Light,0,"Mullins Center, University of Massachusetts",Amherst,MA,USA,
+2010-10-24,2010,0,1,2,1,0,0,9,2010 Fall Tour,2010 Fall,AC/DC Bag,Bag,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-24,2010,0,2,1,1,0,0,8,2010 Fall Tour,2010 Fall,Camel Walk,Camel Walk,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+2010-10-24,2010,0,3,1,1,0,0,4,2010 Fall Tour,2010 Fall,Divided Sky,Divided,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+2010-10-24,2010,0,4,1,1,0,0,216,2010 Fall Tour,2010 Fall,Ride Captain Ride,Ride Captain Ride,0,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+2010-10-24,2010,0,5,1,1,0,0,6,2010 Fall Tour,2010 Fall,Stash,Stash,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+2010-10-24,2010,0,6,3,1,0,0,9,2010 Fall Tour,2010 Fall,Fee,Fee,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,->
+2010-10-24,2010,0,7,1,1,0,0,7,2010 Fall Tour,2010 Fall,Time Turns Elastic,TTE,0,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+2010-10-24,2010,0,8,2,1,0,0,5,2010 Fall Tour,2010 Fall,Cavern,Cavern,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-24,2010,0,9,4,1,0,0,3,2010 Fall Tour,2010 Fall,Run Like an Antelope,Antelope,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,
+2010-10-24,2010,0,10,2,2,0,0,20,2010 Fall Tour,2010 Fall,Seven Below,Seven Below,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-24,2010,0,11,1,2,0,0,3,2010 Fall Tour,2010 Fall,Wolfman's Brother,Wolfman's,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+2010-10-24,2010,0,12,2,2,0,0,4,2010 Fall Tour,2010 Fall,Backwards Down the Number Line,BDTNL,0,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-24,2010,0,13,2,2,0,0,8,2010 Fall Tour,2010 Fall,Alaska,Alaska,0,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-24,2010,0,14,2,2,0,0,4,2010 Fall Tour,2010 Fall,Free,Free,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-24,2010,0,15,1,2,0,0,19,2010 Fall Tour,2010 Fall,The Lizards,Lizards,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+2010-10-24,2010,0,16,1,2,0,0,32,2010 Fall Tour,2010 Fall,Brother,Brother,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+2010-10-24,2010,0,17,3,2,0,0,16,2010 Fall Tour,2010 Fall,Roggae,Roggae,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,->
+2010-10-24,2010,0,18,2,2,0,0,14,2010 Fall Tour,2010 Fall,Taste,Taste,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-24,2010,0,19,2,2,0,0,22,2010 Fall Tour,2010 Fall,Waste,Waste,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-24,2010,0,20,5,2,0,0,3,2010 Fall Tour,2010 Fall,David Bowie,Bowie,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,
+2010-10-24,2010,0,21,2,e,0,0,5,2010 Fall Tour,2010 Fall,Quinn the Eskimo (The Mighty Quinn),Quinn,0,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-24,2010,0,22,6,e,0,0,4,2010 Fall Tour,2010 Fall,Chalk Dust Torture,CDT,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,
+2010-10-26,2010,0,1,1,1,0,0,208,2010 Fall Tour,2010 Fall,After Midnight,After Midnight,0,Verizon Wireless Arena,Manchester,NH,USA,","
+2010-10-26,2010,0,2,1,1,0,0,15,2010 Fall Tour,2010 Fall,The Sloth,Sloth,1,Verizon Wireless Arena,Manchester,NH,USA,","
+2010-10-26,2010,0,3,2,1,0,0,30,2010 Fall Tour,2010 Fall,Alumni Blues,Alumni,1,Verizon Wireless Arena,Manchester,NH,USA,>
+2010-10-26,2010,0,4,2,1,0,0,30,2010 Fall Tour,2010 Fall,Letter to Jimmy Page,LTJP,1,Verizon Wireless Arena,Manchester,NH,USA,>
+2010-10-26,2010,0,5,1,1,0,0,0,2010 Fall Tour,2010 Fall,Alumni Blues,Alumni,1,Verizon Wireless Arena,Manchester,NH,USA,","
+2010-10-26,2010,0,6,1,1,0,0,28,2010 Fall Tour,2010 Fall,Mellow Mood,Mellow Mood,0,Verizon Wireless Arena,Manchester,NH,USA,","
+2010-10-26,2010,0,7,1,1,0,0,43,2010 Fall Tour,2010 Fall,Access Me,Access Me,1,Verizon Wireless Arena,Manchester,NH,USA,","
+2010-10-26,2010,0,8,1,1,0,0,26,2010 Fall Tour,2010 Fall,Llama,Llama,1,Verizon Wireless Arena,Manchester,NH,USA,","
+2010-10-26,2010,0,9,1,1,0,0,88,2010 Fall Tour,2010 Fall,All of These Dreams,All of These Dreams,1,Verizon Wireless Arena,Manchester,NH,USA,","
+2010-10-26,2010,0,10,2,1,0,0,6,2010 Fall Tour,2010 Fall,The Curtain With,Curtain With,1,Verizon Wireless Arena,Manchester,NH,USA,>
+2010-10-26,2010,0,11,1,1,0,0,15,2010 Fall Tour,2010 Fall,Scent of a Mule,SOAMule,1,Verizon Wireless Arena,Manchester,NH,USA,","
+2010-10-26,2010,0,12,1,1,0,0,75,2010 Fall Tour,2010 Fall,A Song I Heard the Ocean Sing,ASIHTOS,1,Verizon Wireless Arena,Manchester,NH,USA,","
+2010-10-26,2010,0,13,2,1,0,0,10,2010 Fall Tour,2010 Fall,It's Ice,It's Ice,1,Verizon Wireless Arena,Manchester,NH,USA,>
+2010-10-26,2010,0,14,4,1,0,0,16,2010 Fall Tour,2010 Fall,Walls of the Cave,WotC,1,Verizon Wireless Arena,Manchester,NH,USA,
+2010-10-26,2010,0,15,2,2,0,0,2,2010 Fall Tour,2010 Fall,Possum,Possum,1,Verizon Wireless Arena,Manchester,NH,USA,>
+2010-10-26,2010,0,16,2,2,0,0,3,2010 Fall Tour,2010 Fall,Light,Light,0,Verizon Wireless Arena,Manchester,NH,USA,>
+2010-10-26,2010,0,17,2,2,0,0,3,2010 Fall Tour,2010 Fall,Mike's Song,Mike's,1,Verizon Wireless Arena,Manchester,NH,USA,>
+2010-10-26,2010,0,18,2,2,0,0,10,2010 Fall Tour,2010 Fall,Simple,Simple,1,Verizon Wireless Arena,Manchester,NH,USA,>
+2010-10-26,2010,0,19,3,2,0,0,10,2010 Fall Tour,2010 Fall,Makisupa Policeman,Makisupa,1,Verizon Wireless Arena,Manchester,NH,USA,->
+2010-10-26,2010,0,20,3,2,0,0,1510,2010 Fall Tour,2010 Fall,Night Nurse,Night Nurse,0,Verizon Wireless Arena,Manchester,NH,USA,->
+2010-10-26,2010,0,21,2,2,0,0,0,2010 Fall Tour,2010 Fall,Makisupa Policeman,Makisupa,1,Verizon Wireless Arena,Manchester,NH,USA,>
+2010-10-26,2010,0,22,1,2,0,0,19,2010 Fall Tour,2010 Fall,The Wedge,Wedge,1,Verizon Wireless Arena,Manchester,NH,USA,","
+2010-10-26,2010,0,23,3,2,0,0,10,2010 Fall Tour,2010 Fall,Ghost,Ghost,1,Verizon Wireless Arena,Manchester,NH,USA,->
+2010-10-26,2010,0,24,2,2,0,0,6,2010 Fall Tour,2010 Fall,The Mango Song,Mango,1,Verizon Wireless Arena,Manchester,NH,USA,>
+2010-10-26,2010,0,25,3,2,0,0,3,2010 Fall Tour,2010 Fall,Weekapaug Groove,Weekapaug,1,Verizon Wireless Arena,Manchester,NH,USA,->
+2010-10-26,2010,0,26,5,2,0,1,0,2010 Fall Tour,2010 Fall,Llama,Llama,1,Verizon Wireless Arena,Manchester,NH,USA,
+2010-10-26,2010,0,27,6,e,0,0,6,2010 Fall Tour,2010 Fall,Show of Life,Show of Life,0,Verizon Wireless Arena,Manchester,NH,USA,
+2010-10-29,2010,0,1,1,1,0,0,24,2010 Fall Tour,2010 Fall,The Star-Spangled Banner,Star Spangled Banner,0,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-29,2010,0,2,1,1,0,0,5,2010 Fall Tour,2010 Fall,My Soul,My Soul,0,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-29,2010,0,3,1,1,0,0,2,2010 Fall Tour,2010 Fall,AC/DC Bag,Bag,1,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-29,2010,0,4,1,1,0,0,4,2010 Fall Tour,2010 Fall,Ocelot,Ocelot,1,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-29,2010,0,5,1,1,0,0,4,2010 Fall Tour,2010 Fall,Sample in a Jar,Sample,1,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-29,2010,0,6,1,1,0,0,20,2010 Fall Tour,2010 Fall,Light Up Or Leave Me Alone,Light Up,0,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-29,2010,0,7,1,1,0,0,9,2010 Fall Tour,2010 Fall,Sugar Shack,Sugar Shack,1,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-29,2010,0,8,2,1,0,0,9,2010 Fall Tour,2010 Fall,Timber (Jerry the Mule),Timber Ho,0,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-29,2010,0,9,1,1,0,0,8,2010 Fall Tour,2010 Fall,Bouncing Around the Room,Bouncin',1,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-29,2010,0,10,2,1,0,0,5,2010 Fall Tour,2010 Fall,Axilla,Axilla,1,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-29,2010,0,11,1,1,0,0,4,2010 Fall Tour,2010 Fall,Rift,Rift,1,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-29,2010,0,12,2,1,0,0,4,2010 Fall Tour,2010 Fall,The Moma Dance,Moma,1,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-29,2010,0,13,2,1,0,0,5,2010 Fall Tour,2010 Fall,Cities,Cities,0,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-29,2010,0,14,4,1,0,0,6,2010 Fall Tour,2010 Fall,46 Days,46 Days,1,Boardwalk Hall,Atlantic City,NJ,USA,
+2010-10-29,2010,0,15,2,2,0,0,8,2010 Fall Tour,2010 Fall,Punch You in the Eye,PYITE,1,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-29,2010,0,16,3,2,0,0,5,2010 Fall Tour,2010 Fall,Sand,Sand,0,Boardwalk Hall,Atlantic City,NJ,USA,->
+2010-10-29,2010,0,17,2,2,0,0,4,2010 Fall Tour,2010 Fall,Carini,Carini,1,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-29,2010,0,18,1,2,0,0,3,2010 Fall Tour,2010 Fall,Prince Caspian,Caspian,1,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-29,2010,0,19,1,2,0,0,43,2010 Fall Tour,2010 Fall,Corinna,Corinna,0,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-29,2010,0,20,2,2,0,0,3,2010 Fall Tour,2010 Fall,Piper,Piper,1,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-29,2010,0,21,2,2,0,0,5,2010 Fall Tour,2010 Fall,Theme From the Bottom,Theme,1,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-29,2010,0,22,2,2,0,0,3,2010 Fall Tour,2010 Fall,Golgi Apparatus,Golgi,1,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-29,2010,0,23,2,2,0,0,5,2010 Fall Tour,2010 Fall,Slave to the Traffic Light,Slave,1,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-29,2010,0,24,5,2,0,0,4,2010 Fall Tour,2010 Fall,Fluffhead,Fluffhead,1,Boardwalk Hall,Atlantic City,NJ,USA,
+2010-10-29,2010,0,25,6,e,0,0,4,2010 Fall Tour,2010 Fall,Loving Cup,Loving Cup,0,Boardwalk Hall,Atlantic City,NJ,USA,
+2010-10-30,2010,0,1,1,1,0,0,4,2010 Fall Tour,2010 Fall,Kill Devil Falls,KDF,1,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-30,2010,0,2,1,1,0,0,3,2010 Fall Tour,2010 Fall,Cavern,Cavern,1,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-30,2010,0,3,1,1,0,0,11,2010 Fall Tour,2010 Fall,Foam,Foam,1,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-30,2010,0,4,1,1,0,0,8,2010 Fall Tour,2010 Fall,Guelah Papyrus,Guelah,1,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-30,2010,0,5,3,1,0,0,3,2010 Fall Tour,2010 Fall,Chalk Dust Torture,CDT,1,Boardwalk Hall,Atlantic City,NJ,USA,->
+2010-10-30,2010,0,6,2,1,0,0,1037,2010 Fall Tour,2010 Fall,Whole Lotta Love,Whole Lotta Love,0,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-30,2010,0,7,1,1,0,0,0,2010 Fall Tour,2010 Fall,Chalk Dust Torture,CDT,1,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-30,2010,0,8,1,1,0,0,64,2010 Fall Tour,2010 Fall,Ha Ha Ha,Ha Ha Ha,1,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-30,2010,0,9,1,1,0,0,15,2010 Fall Tour,2010 Fall,Walk Away,Walk Away,0,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-30,2010,0,10,3,1,0,0,3,2010 Fall Tour,2010 Fall,Wolfman's Brother,Wolfman's,1,Boardwalk Hall,Atlantic City,NJ,USA,->
+2010-10-30,2010,0,11,2,1,0,0,29,2010 Fall Tour,2010 Fall,Undermind,Undermind,0,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-30,2010,0,12,1,1,0,0,7,2010 Fall Tour,2010 Fall,Bathtub Gin,Gin,1,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-30,2010,0,13,4,1,0,0,11,2010 Fall Tour,2010 Fall,The Squirming Coil,Coil,1,Boardwalk Hall,Atlantic City,NJ,USA,
+2010-10-30,2010,0,14,2,2,0,0,9,2010 Fall Tour,2010 Fall,Tube,Tube,1,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-30,2010,0,15,2,2,0,0,2,2010 Fall Tour,2010 Fall,Possum,Possum,1,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-30,2010,0,16,3,2,0,0,4,2010 Fall Tour,2010 Fall,Tweezer,Tweezer,1,Boardwalk Hall,Atlantic City,NJ,USA,->
+2010-10-30,2010,0,17,3,2,0,0,1512,2010 Fall Tour,2010 Fall,Heartbreaker,Heartbreaker,0,Boardwalk Hall,Atlantic City,NJ,USA,->
+2010-10-30,2010,0,18,3,2,0,0,0,2010 Fall Tour,2010 Fall,Tweezer,Tweezer,1,Boardwalk Hall,Atlantic City,NJ,USA,->
+2010-10-30,2010,0,19,3,2,0,0,307,2010 Fall Tour,2010 Fall,Ramble On,Ramble On,0,Boardwalk Hall,Atlantic City,NJ,USA,->
+2010-10-30,2010,0,20,3,2,0,0,1512,2010 Fall Tour,2010 Fall,Thank You,Thank You,0,Boardwalk Hall,Atlantic City,NJ,USA,->
+2010-10-30,2010,0,21,3,2,0,0,0,2010 Fall Tour,2010 Fall,Tweezer,Tweezer,1,Boardwalk Hall,Atlantic City,NJ,USA,->
+2010-10-30,2010,0,22,1,2,0,0,1512,2010 Fall Tour,2010 Fall,Stairway to Heaven,Stairway to Heaven,0,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-30,2010,0,23,2,2,0,0,7,2010 Fall Tour,2010 Fall,Halley's Comet,Halley's,1,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-30,2010,0,24,2,2,0,0,5,2010 Fall Tour,2010 Fall,Also Sprach Zarathustra,2001,0,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-30,2010,0,25,1,2,0,0,3,2010 Fall Tour,2010 Fall,David Bowie,Bowie,1,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-30,2010,0,26,1,2,0,0,2,2010 Fall Tour,2010 Fall,Show of Life,Show of Life,0,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-30,2010,0,27,2,2,0,0,3,2010 Fall Tour,2010 Fall,Backwards Down the Number Line,BDTNL,0,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-30,2010,0,28,5,2,0,0,6,2010 Fall Tour,2010 Fall,Good Times Bad Times,GTBT,0,Boardwalk Hall,Atlantic City,NJ,USA,
+2010-10-30,2010,0,29,2,e,0,0,11,2010 Fall Tour,2010 Fall,Sleeping Monkey,Sleeping Monkey,1,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-30,2010,0,30,6,e,0,0,4,2010 Fall Tour,2010 Fall,Tweezer Reprise,Tweeprise,1,Boardwalk Hall,Atlantic City,NJ,USA,
+2010-10-31,2010,0,1,1,1,0,0,36,2010 Fall Tour,2010 Fall,Frankenstein,Frankenstein,0,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-31,2010,0,2,1,1,0,0,5,2010 Fall Tour,2010 Fall,Big Black Furry Creature from Mars,BBFCFM,1,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-31,2010,0,3,3,1,0,0,3,2010 Fall Tour,2010 Fall,Ghost,Ghost,1,Boardwalk Hall,Atlantic City,NJ,USA,->
+2010-10-31,2010,0,4,2,1,0,0,754,2010 Fall Tour,2010 Fall,Spooky,Spooky,0,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-31,2010,0,5,1,1,0,0,4,2010 Fall Tour,2010 Fall,Divided Sky,Divided,1,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-31,2010,0,6,2,1,0,0,5,2010 Fall Tour,2010 Fall,Roses Are Free,Roses,0,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-31,2010,0,7,1,1,0,0,6,2010 Fall Tour,2010 Fall,Funky Bitch,Funky Bitch,0,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-31,2010,0,8,1,1,0,0,5,2010 Fall Tour,2010 Fall,Boogie On Reggae Woman,Boogie On,0,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-31,2010,0,9,1,1,0,0,4,2010 Fall Tour,2010 Fall,Stash,Stash,1,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-31,2010,0,10,4,1,0,0,6,2010 Fall Tour,2010 Fall,Character Zero,Character Zero,1,Boardwalk Hall,Atlantic City,NJ,USA,
+2010-10-31,2010,0,11,1,2,0,0,1521,2010 Fall Tour,2010 Fall,Fat Man in the Bathtub,Fat Man in the Bathtub,0,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-31,2010,0,12,1,2,0,0,0,2010 Fall Tour,2010 Fall,All That You Dream,All That You Dream,0,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-31,2010,0,13,1,2,0,0,0,2010 Fall Tour,2010 Fall,Oh Atlanta,Oh Atlanta,0,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-31,2010,0,14,1,2,0,0,0,2010 Fall Tour,2010 Fall,Old Folks Boogie,Old Folks Boogie,0,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-31,2010,0,15,3,2,0,0,29,2010 Fall Tour,2010 Fall,Time Loves a Hero,Time Loves a Hero,0,Boardwalk Hall,Atlantic City,NJ,USA,->
+2010-10-31,2010,0,16,1,2,0,0,0,2010 Fall Tour,2010 Fall,Day or Night,Day or Night,0,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-31,2010,0,17,1,2,0,0,0,2010 Fall Tour,2010 Fall,Mercenary Territory,Mercenary Territory,0,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-31,2010,0,18,1,2,0,0,1521,2010 Fall Tour,2010 Fall,Spanish Moon,Spanish Moon,0,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-31,2010,0,19,3,2,0,0,0,2010 Fall Tour,2010 Fall,Dixie Chicken,Dixie Chicken,0,Boardwalk Hall,Atlantic City,NJ,USA,->
+2010-10-31,2010,0,20,1,2,0,0,0,2010 Fall Tour,2010 Fall,Tripe Face Boogie,Tripe Face Boogie,0,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-31,2010,0,21,1,2,0,0,0,2010 Fall Tour,2010 Fall,Rocket in My Pocket,Rocket in My Pocket,0,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-31,2010,0,22,1,2,0,0,1521,2010 Fall Tour,2010 Fall,Willin',Willin',0,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-31,2010,0,23,1,2,0,0,1521,2010 Fall Tour,2010 Fall,Don't Bogart That Joint,Don't Bogart That Joint,0,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-31,2010,0,24,1,2,0,0,0,2010 Fall Tour,2010 Fall,A Apolitical Blues,A Apolitical Blues,0,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-31,2010,0,25,1,2,0,0,0,2010 Fall Tour,2010 Fall,Sailin' Shoes,Sailin' Shoes,0,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-31,2010,0,26,4,2,0,0,0,2010 Fall Tour,2010 Fall,Feats Don't Fail Me Now,Feats Don't Fail Me Now,0,Boardwalk Hall,Atlantic City,NJ,USA,
+2010-10-31,2010,0,27,2,3,0,0,5,2010 Fall Tour,2010 Fall,Down with Disease,DwD,1,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-31,2010,0,28,2,3,0,0,8,2010 Fall Tour,2010 Fall,Back on the Train,BOTT,0,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-31,2010,0,29,2,3,0,0,12,2010 Fall Tour,2010 Fall,Gotta Jibboo,Jibboo,0,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-31,2010,0,30,1,3,0,0,4,2010 Fall Tour,2010 Fall,Camel Walk,Camel Walk,1,Boardwalk Hall,Atlantic City,NJ,USA,","
+2010-10-31,2010,0,31,2,3,0,0,6,2010 Fall Tour,2010 Fall,Suzy Greenberg,Suzy,1,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-31,2010,0,32,2,3,0,0,7,2010 Fall Tour,2010 Fall,Wilson,Wilson,1,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-31,2010,0,33,2,3,0,0,5,2010 Fall Tour,2010 Fall,Harry Hood,Hood,1,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-31,2010,0,34,2,3,0,0,10,2010 Fall Tour,2010 Fall,The Horse,Horse,1,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-31,2010,0,35,2,3,0,0,10,2010 Fall Tour,2010 Fall,Silent in the Morning,Silent,1,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-31,2010,0,36,5,3,0,0,5,2010 Fall Tour,2010 Fall,You Enjoy Myself,YEM,1,Boardwalk Hall,Atlantic City,NJ,USA,
+2010-10-31,2010,0,37,6,e,0,0,6,2010 Fall Tour,2010 Fall,Julius,Julius,1,Boardwalk Hall,Atlantic City,NJ,USA,
+2010-12-27,2010,0,1,1,1,0,0,3,2010/2011 NYE Run,2010-2011 NYE,Sample in a Jar,Sample,1,DCU Center,Worcester,MA,USA,","
+2010-12-27,2010,0,2,1,1,0,0,1,2010/2011 NYE Run,2010-2011 NYE,Funky Bitch,Funky Bitch,0,DCU Center,Worcester,MA,USA,","
+2010-12-27,2010,0,3,1,1,0,0,54,2010/2011 NYE Run,2010-2011 NYE,Cool It Down,Cool It Down,0,DCU Center,Worcester,MA,USA,","
+2010-12-27,2010,0,4,1,1,0,0,5,2010/2011 NYE Run,2010-2011 NYE,Roggae,Roggae,1,DCU Center,Worcester,MA,USA,","
+2010-12-27,2010,0,5,1,1,0,0,12,2010/2011 NYE Run,2010-2011 NYE,Heavy Things,Heavy Things,1,DCU Center,Worcester,MA,USA,","
+2010-12-27,2010,0,6,1,1,0,0,13,2010/2011 NYE Run,2010-2011 NYE,What Things Seem,What Things Seem,0,DCU Center,Worcester,MA,USA,","
+2010-12-27,2010,0,7,2,1,0,0,1,2010/2011 NYE Run,2010-2011 NYE,Roses Are Free,Roses,0,DCU Center,Worcester,MA,USA,>
+2010-12-27,2010,0,8,1,1,0,0,4,2010/2011 NYE Run,2010-2011 NYE,It's Ice,It's Ice,1,DCU Center,Worcester,MA,USA,","
+2010-12-27,2010,0,9,1,1,0,0,23,2010/2011 NYE Run,2010-2011 NYE,Mountains in the Mist,Mist,0,DCU Center,Worcester,MA,USA,","
+2010-12-27,2010,0,10,4,1,0,0,1,2010/2011 NYE Run,2010-2011 NYE,Julius,Julius,1,DCU Center,Worcester,MA,USA,
+2010-12-27,2010,0,11,2,2,0,0,4,2010/2011 NYE Run,2010-2011 NYE,Mike's Song,Mike's,1,DCU Center,Worcester,MA,USA,>
+2010-12-27,2010,0,12,1,2,0,0,74,2010/2011 NYE Run,2010-2011 NYE,Mound,Mound,1,DCU Center,Worcester,MA,USA,","
+2010-12-27,2010,0,13,1,2,0,0,4,2010/2011 NYE Run,2010-2011 NYE,Weekapaug Groove,Weekapaug,1,DCU Center,Worcester,MA,USA,","
+2010-12-27,2010,0,14,1,2,0,0,18,2010/2011 NYE Run,2010-2011 NYE,Farmhouse,Farmhouse,1,DCU Center,Worcester,MA,USA,","
+2010-12-27,2010,0,15,2,2,0,0,5,2010/2011 NYE Run,2010-2011 NYE,Seven Below,Seven Below,1,DCU Center,Worcester,MA,USA,>
+2010-12-27,2010,0,16,2,2,0,0,19,2010/2011 NYE Run,2010-2011 NYE,What's the Use?,WTU?,1,DCU Center,Worcester,MA,USA,>
+2010-12-27,2010,0,17,1,2,0,0,9,2010/2011 NYE Run,2010-2011 NYE,Twenty Years Later,Twenty Years Later,1,DCU Center,Worcester,MA,USA,","
+2010-12-27,2010,0,18,1,2,0,0,6,2010/2011 NYE Run,2010-2011 NYE,Wading in the Velvet Sea,Velvet Sea,1,DCU Center,Worcester,MA,USA,","
+2010-12-27,2010,0,19,2,2,0,0,2,2010/2011 NYE Run,2010-2011 NYE,Possum,Possum,1,DCU Center,Worcester,MA,USA,>
+2010-12-27,2010,0,20,2,2,0,0,2,2010/2011 NYE Run,2010-2011 NYE,Cavern,Cavern,1,DCU Center,Worcester,MA,USA,>
+2010-12-27,2010,0,21,5,2,0,0,2,2010/2011 NYE Run,2010-2011 NYE,David Bowie,Bowie,1,DCU Center,Worcester,MA,USA,
+2010-12-27,2010,0,22,6,e,0,0,3,2010/2011 NYE Run,2010-2011 NYE,Loving Cup,Loving Cup,0,DCU Center,Worcester,MA,USA,
+2010-12-28,2010,0,1,1,1,0,0,3,2010/2011 NYE Run,2010-2011 NYE,Kill Devil Falls,KDF,1,DCU Center,Worcester,MA,USA,","
+2010-12-28,2010,0,2,1,1,0,0,56,2010/2011 NYE Run,2010-2011 NYE,My Mind's Got a Mind of its Own,MMGAMOIO,0,DCU Center,Worcester,MA,USA,","
+2010-12-28,2010,0,3,1,1,0,0,6,2010/2011 NYE Run,2010-2011 NYE,Alaska,Alaska,0,DCU Center,Worcester,MA,USA,","
+2010-12-28,2010,0,4,1,1,0,0,325,2010/2011 NYE Run,2010-2011 NYE,She Caught the Katy and Left Me a Mule to Ride,She Caught the Katy,0,DCU Center,Worcester,MA,USA,","
+2010-12-28,2010,0,5,1,1,0,0,3,2010/2011 NYE Run,2010-2011 NYE,Wolfman's Brother,Wolfman's,1,DCU Center,Worcester,MA,USA,","
+2010-12-28,2010,0,6,1,1,0,0,1523,2010/2011 NYE Run,2010-2011 NYE,Pigtail,Pigtail,1,DCU Center,Worcester,MA,USA,","
+2010-12-28,2010,0,7,1,1,0,0,2,2010/2011 NYE Run,2010-2011 NYE,Stash,Stash,1,DCU Center,Worcester,MA,USA,","
+2010-12-28,2010,0,8,2,1,0,0,4,2010/2011 NYE Run,2010-2011 NYE,Bouncing Around the Room,Bouncin',1,DCU Center,Worcester,MA,USA,>
+2010-12-28,2010,0,9,1,1,0,0,4,2010/2011 NYE Run,2010-2011 NYE,Rift,Rift,1,DCU Center,Worcester,MA,USA,","
+2010-12-28,2010,0,10,1,1,0,0,9,2010/2011 NYE Run,2010-2011 NYE,Stealing Time From the Faulty Plan,STFTFP,1,DCU Center,Worcester,MA,USA,","
+2010-12-28,2010,0,11,4,1,0,0,1523,2010/2011 NYE Run,2010-2011 NYE,The Birdwatcher,Birdwatcher,1,DCU Center,Worcester,MA,USA,
+2010-12-28,2010,0,12,2,2,0,0,4,2010/2011 NYE Run,2010-2011 NYE,Carini,Carini,1,DCU Center,Worcester,MA,USA,>
+2010-12-28,2010,0,13,2,2,0,0,3,2010/2011 NYE Run,2010-2011 NYE,Backwards Down the Number Line,BDTNL,0,DCU Center,Worcester,MA,USA,>
+2010-12-28,2010,0,14,3,2,0,0,2,2010/2011 NYE Run,2010-2011 NYE,Back on the Train,BOTT,0,DCU Center,Worcester,MA,USA,->
+2010-12-28,2010,0,15,2,2,0,0,11,2010/2011 NYE Run,2010-2011 NYE,Limb By Limb,LxL,1,DCU Center,Worcester,MA,USA,>
+2010-12-28,2010,0,16,2,2,0,0,5,2010/2011 NYE Run,2010-2011 NYE,The Wedge,Wedge,1,DCU Center,Worcester,MA,USA,>
+2010-12-28,2010,0,17,2,2,0,0,82,2010/2011 NYE Run,2010-2011 NYE,Frankie Says,Frankie Says,1,DCU Center,Worcester,MA,USA,>
+2010-12-28,2010,0,18,1,2,0,0,60,2010/2011 NYE Run,2010-2011 NYE,Albuquerque,Albuquerque,0,DCU Center,Worcester,MA,USA,","
+2010-12-28,2010,0,19,2,2,0,0,2,2010/2011 NYE Run,2010-2011 NYE,Harry Hood,Hood,1,DCU Center,Worcester,MA,USA,>
+2010-12-28,2010,0,20,5,2,0,0,13,2010/2011 NYE Run,2010-2011 NYE,Bug,Bug,0,DCU Center,Worcester,MA,USA,
+2010-12-28,2010,0,21,6,e,0,0,7,2010/2011 NYE Run,2010-2011 NYE,Shine a Light,Shine a Light,0,DCU Center,Worcester,MA,USA,
+2010-12-30,2010,0,1,1,1,0,0,5,2010/2011 NYE Run,2010-2011 NYE,Cities,Cities,0,Madison Square Garden,New York,NY,USA,","
+2010-12-30,2010,0,2,1,1,0,0,4,2010/2011 NYE Run,2010-2011 NYE,Chalk Dust Torture,CDT,1,Madison Square Garden,New York,NY,USA,","
+2010-12-30,2010,0,3,2,1,0,0,11,2010/2011 NYE Run,2010-2011 NYE,Gumbo,Gumbo,1,Madison Square Garden,New York,NY,USA,>
+2010-12-30,2010,0,4,1,1,0,0,7,2010/2011 NYE Run,2010-2011 NYE,Quinn the Eskimo (The Mighty Quinn),Quinn,0,Madison Square Garden,New York,NY,USA,","
+2010-12-30,2010,0,5,2,1,0,0,4,2010/2011 NYE Run,2010-2011 NYE,Halley's Comet,Halley's,1,Madison Square Garden,New York,NY,USA,>
+2010-12-30,2010,0,6,1,1,0,0,3,2010/2011 NYE Run,2010-2011 NYE,Camel Walk,Camel Walk,1,Madison Square Garden,New York,NY,USA,","
+2010-12-30,2010,0,7,1,1,0,0,8,2010/2011 NYE Run,2010-2011 NYE,Maze,Maze,1,Madison Square Garden,New York,NY,USA,","
+2010-12-30,2010,0,8,1,1,0,0,49,2010/2011 NYE Run,2010-2011 NYE,Driver,Driver,1,Madison Square Garden,New York,NY,USA,","
+2010-12-30,2010,0,9,1,1,0,0,4,2010/2011 NYE Run,2010-2011 NYE,Bathtub Gin,Gin,1,Madison Square Garden,New York,NY,USA,","
+2010-12-30,2010,0,10,1,1,0,0,3,2010/2011 NYE Run,2010-2011 NYE,Fat Man in the Bathtub,Fat Man in the Bathtub,0,Madison Square Garden,New York,NY,USA,","
+2010-12-30,2010,0,11,2,1,0,0,5,2010/2011 NYE Run,2010-2011 NYE,Timber (Jerry the Mule),Timber Ho,0,Madison Square Garden,New York,NY,USA,>
+2010-12-30,2010,0,12,1,1,0,0,5,2010/2011 NYE Run,2010-2011 NYE,Golgi Apparatus,Golgi,1,Madison Square Garden,New York,NY,USA,","
+2010-12-30,2010,0,13,4,1,0,0,3,2010/2011 NYE Run,2010-2011 NYE,Character Zero,Character Zero,1,Madison Square Garden,New York,NY,USA,
+2010-12-30,2010,0,14,2,2,0,0,4,2010/2011 NYE Run,2010-2011 NYE,Tweezer,Tweezer,1,Madison Square Garden,New York,NY,USA,>
+2010-12-30,2010,0,15,2,2,0,0,6,2010/2011 NYE Run,2010-2011 NYE,Light,Light,0,Madison Square Garden,New York,NY,USA,>
+2010-12-30,2010,0,16,3,2,0,0,5,2010/2011 NYE Run,2010-2011 NYE,Theme From the Bottom,Theme,1,Madison Square Garden,New York,NY,USA,->
+2010-12-30,2010,0,17,2,2,0,0,8,2010/2011 NYE Run,2010-2011 NYE,"My Friend, My Friend",My Friend,1,Madison Square Garden,New York,NY,USA,>
+2010-12-30,2010,0,18,1,2,0,0,5,2010/2011 NYE Run,2010-2011 NYE,Axilla,Axilla,1,Madison Square Garden,New York,NY,USA,","
+2010-12-30,2010,0,19,1,2,0,0,5,2010/2011 NYE Run,2010-2011 NYE,Fluffhead,Fluffhead,1,Madison Square Garden,New York,NY,USA,","
+2010-12-30,2010,0,20,3,2,0,0,3,2010/2011 NYE Run,2010-2011 NYE,Boogie On Reggae Woman,Boogie On,0,Madison Square Garden,New York,NY,USA,->
+2010-12-30,2010,0,21,2,2,0,0,4,2010/2011 NYE Run,2010-2011 NYE,Also Sprach Zarathustra,2001,0,Madison Square Garden,New York,NY,USA,>
+2010-12-30,2010,0,22,5,2,0,0,3,2010/2011 NYE Run,2010-2011 NYE,Suzy Greenberg,Suzy,1,Madison Square Garden,New York,NY,USA,
+2010-12-30,2010,0,23,2,e,0,0,7,2010/2011 NYE Run,2010-2011 NYE,Run Like an Antelope,Antelope,1,Madison Square Garden,New York,NY,USA,>
+2010-12-30,2010,0,24,6,e,0,0,4,2010/2011 NYE Run,2010-2011 NYE,Tweezer Reprise,Tweeprise,1,Madison Square Garden,New York,NY,USA,
+2010-12-31,2010,0,1,2,1,0,0,6,2010/2011 NYE Run,2010-2011 NYE,Punch You in the Eye,PYITE,1,Madison Square Garden,New York,NY,USA,>
+2010-12-31,2010,0,2,2,1,0,0,6,2010/2011 NYE Run,2010-2011 NYE,AC/DC Bag,Bag,1,Madison Square Garden,New York,NY,USA,>
+2010-12-31,2010,0,3,2,1,0,0,6,2010/2011 NYE Run,2010-2011 NYE,The Moma Dance,Moma,1,Madison Square Garden,New York,NY,USA,>
+2010-12-31,2010,0,4,1,1,0,0,7,2010/2011 NYE Run,2010-2011 NYE,Scent of a Mule,SOAMule,1,Madison Square Garden,New York,NY,USA,","
+2010-12-31,2010,0,5,1,1,0,0,1517,2010/2011 NYE Run,2010-2011 NYE,Burn That Bridge,Burn That Bridge,0,Madison Square Garden,New York,NY,USA,","
+2010-12-31,2010,0,6,2,1,0,0,56,2010/2011 NYE Run,2010-2011 NYE,Weigh,Weigh,1,Madison Square Garden,New York,NY,USA,>
+2010-12-31,2010,0,7,1,1,0,0,6,2010/2011 NYE Run,2010-2011 NYE,Ocelot,Ocelot,1,Madison Square Garden,New York,NY,USA,","
+2010-12-31,2010,0,8,1,1,0,0,133,2010/2011 NYE Run,2010-2011 NYE,Beauty of My Dreams,Beauty of My Dreams,0,Madison Square Garden,New York,NY,USA,","
+2010-12-31,2010,0,9,1,1,0,0,49,2010/2011 NYE Run,2010-2011 NYE,Gone,Gone,0,Madison Square Garden,New York,NY,USA,","
+2010-12-31,2010,0,10,4,1,0,0,10,2010/2011 NYE Run,2010-2011 NYE,Rock and Roll,R&amp;R,0,Madison Square Garden,New York,NY,USA,
+2010-12-31,2010,0,11,2,2,0,0,4,2010/2011 NYE Run,2010-2011 NYE,Wilson,Wilson,1,Madison Square Garden,New York,NY,USA,>
+2010-12-31,2010,0,12,1,2,0,0,6,2010/2011 NYE Run,2010-2011 NYE,46 Days,46 Days,1,Madison Square Garden,New York,NY,USA,","
+2010-12-31,2010,0,13,1,2,0,0,6,2010/2011 NYE Run,2010-2011 NYE,Sand,Sand,0,Madison Square Garden,New York,NY,USA,","
+2010-12-31,2010,0,14,2,2,0,0,10,2010/2011 NYE Run,2010-2011 NYE,NICU,NICU,1,Madison Square Garden,New York,NY,USA,>
+2010-12-31,2010,0,15,2,2,0,0,4,2010/2011 NYE Run,2010-2011 NYE,Down with Disease,DwD,1,Madison Square Garden,New York,NY,USA,>
+2010-12-31,2010,0,16,1,2,0,0,4,2010/2011 NYE Run,2010-2011 NYE,Ghost,Ghost,1,Madison Square Garden,New York,NY,USA,","
+2010-12-31,2010,0,17,3,2,0,0,4,2010/2011 NYE Run,2010-2011 NYE,You Enjoy Myself,YEM,1,Madison Square Garden,New York,NY,USA,->
+2010-12-31,2010,0,18,3,2,0,0,303,2010/2011 NYE Run,2010-2011 NYE,Manteca,Manteca,0,Madison Square Garden,New York,NY,USA,->
+2010-12-31,2010,0,19,4,2,0,0,0,2010/2011 NYE Run,2010-2011 NYE,You Enjoy Myself,YEM,1,Madison Square Garden,New York,NY,USA,
+2010-12-31,2010,0,20,1,3,0,0,9,2010/2011 NYE Run,2010-2011 NYE,Meatstick,Meatstick,1,Madison Square Garden,New York,NY,USA,","
+2010-12-31,2010,0,21,1,3,0,0,48,2010/2011 NYE Run,2010-2011 NYE,Auld Lang Syne,Auld Lang Syne,0,Madison Square Garden,New York,NY,USA,","
+2010-12-31,2010,0,22,1,3,0,0,7,2010/2011 NYE Run,2010-2011 NYE,After Midnight,After Midnight,0,Madison Square Garden,New York,NY,USA,","
+2010-12-31,2010,0,23,2,3,0,0,2,2010/2011 NYE Run,2010-2011 NYE,Backwards Down the Number Line,BDTNL,0,Madison Square Garden,New York,NY,USA,>
+2010-12-31,2010,0,24,2,3,0,0,6,2010/2011 NYE Run,2010-2011 NYE,Piper,Piper,1,Madison Square Garden,New York,NY,USA,>
+2010-12-31,2010,0,25,1,3,0,0,8,2010/2011 NYE Run,2010-2011 NYE,Free,Free,1,Madison Square Garden,New York,NY,USA,","
+2010-12-31,2010,0,26,2,3,0,0,8,2010/2011 NYE Run,2010-2011 NYE,Waste,Waste,1,Madison Square Garden,New York,NY,USA,>
+2010-12-31,2010,0,27,1,3,0,0,6,2010/2011 NYE Run,2010-2011 NYE,Slave to the Traffic Light,Slave,1,Madison Square Garden,New York,NY,USA,","
+2010-12-31,2010,0,28,5,3,0,0,65,2010/2011 NYE Run,2010-2011 NYE,Grind,Grind,1,Madison Square Garden,New York,NY,USA,
+2010-12-31,2010,0,29,6,e,0,0,10,2010/2011 NYE Run,2010-2011 NYE,First Tube,First Tube,0,Madison Square Garden,New York,NY,USA,

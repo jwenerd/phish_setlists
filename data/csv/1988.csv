@@ -1,0 +1,974 @@
+showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,tourwhen,song,nickname,is_original,venue,city,state,country,trans_mark
+1988-01-27,1988,0,1,1,1,0,0,4,1988 Tour,1988,Funky Bitch,Funky Bitch,0,Gallagher's,Waitsfield,VT,USA,","
+1988-01-27,1988,0,2,1,1,0,0,24,1988 Tour,1988,Mustang Sally,Mustang Sally,0,Gallagher's,Waitsfield,VT,USA,","
+1988-01-27,1988,0,3,3,1,0,0,5,1988 Tour,1988,AC/DC Bag,Bag,1,Gallagher's,Waitsfield,VT,USA,->
+1988-01-27,1988,0,4,1,1,0,0,4,1988 Tour,1988,Possum,Possum,1,Gallagher's,Waitsfield,VT,USA,","
+1988-01-27,1988,0,5,1,1,0,0,24,1988 Tour,1988,Jesus Just Left Chicago,JJLC,0,Gallagher's,Waitsfield,VT,USA,","
+1988-01-27,1988,0,6,1,1,0,0,4,1988 Tour,1988,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Gallagher's,Waitsfield,VT,USA,","
+1988-01-27,1988,0,7,2,1,0,0,4,1988 Tour,1988,Alumni Blues,Alumni,1,Gallagher's,Waitsfield,VT,USA,>
+1988-01-27,1988,0,8,2,1,0,0,4,1988 Tour,1988,Letter to Jimmy Page,LTJP,1,Gallagher's,Waitsfield,VT,USA,>
+1988-01-27,1988,0,9,1,1,0,0,0,1988 Tour,1988,Alumni Blues,Alumni,1,Gallagher's,Waitsfield,VT,USA,","
+1988-01-27,1988,0,10,1,1,0,0,4,1988 Tour,1988,Take the 'A' Train,'A' Train,0,Gallagher's,Waitsfield,VT,USA,","
+1988-01-27,1988,0,11,4,1,0,0,5,1988 Tour,1988,Good Times Bad Times,GTBT,0,Gallagher's,Waitsfield,VT,USA,
+1988-01-27,1988,0,12,1,2,0,0,5,1988 Tour,1988,Wilson,Wilson,1,Gallagher's,Waitsfield,VT,USA,","
+1988-01-27,1988,0,13,1,2,0,0,4,1988 Tour,1988,Slave to the Traffic Light,Slave,1,Gallagher's,Waitsfield,VT,USA,","
+1988-01-27,1988,0,14,2,2,0,0,4,1988 Tour,1988,Corinna,Corinna,0,Gallagher's,Waitsfield,VT,USA,>
+1988-01-27,1988,0,15,1,2,0,0,4,1988 Tour,1988,Fire,Fire,0,Gallagher's,Waitsfield,VT,USA,","
+1988-01-27,1988,0,16,1,2,0,0,4,1988 Tour,1988,Fluffhead,Fluffhead,1,Gallagher's,Waitsfield,VT,USA,","
+1988-01-27,1988,0,17,1,2,0,0,4,1988 Tour,1988,Divided Sky,Divided,1,Gallagher's,Waitsfield,VT,USA,","
+1988-01-27,1988,0,18,1,2,0,0,4,1988 Tour,1988,The Ballad of Curtis Loew,Curtis Loew,0,Gallagher's,Waitsfield,VT,USA,","
+1988-01-27,1988,0,19,1,2,0,0,4,1988 Tour,1988,You Enjoy Myself,YEM,1,Gallagher's,Waitsfield,VT,USA,","
+1988-01-27,1988,0,20,2,2,0,0,26,1988 Tour,1988,The Sloth,Sloth,1,Gallagher's,Waitsfield,VT,USA,>
+1988-01-27,1988,0,21,4,2,0,0,4,1988 Tour,1988,Whipping Post,Whipping Post,0,Gallagher's,Waitsfield,VT,USA,
+1988-01-27,1988,0,22,2,3,0,0,4,1988 Tour,1988,Fee,Fee,1,Gallagher's,Waitsfield,VT,USA,>
+1988-01-27,1988,0,23,1,3,0,0,98,1988 Tour,1988,The Lizards,Lizards,1,Gallagher's,Waitsfield,VT,USA,","
+1988-01-27,1988,0,24,1,3,0,0,4,1988 Tour,1988,Suzy Greenberg,Suzy,1,Gallagher's,Waitsfield,VT,USA,","
+1988-01-27,1988,0,25,1,3,0,0,5,1988 Tour,1988,Golgi Apparatus,Golgi,1,Gallagher's,Waitsfield,VT,USA,","
+1988-01-27,1988,0,26,1,3,0,0,4,1988 Tour,1988,Bike,Bike,0,Gallagher's,Waitsfield,VT,USA,","
+1988-01-27,1988,0,27,1,3,0,0,4,1988 Tour,1988,Big Black Furry Creature from Mars,BBFCFM,1,Gallagher's,Waitsfield,VT,USA,","
+1988-01-27,1988,0,28,1,3,0,0,4,1988 Tour,1988,Camel Walk,Camel Walk,1,Gallagher's,Waitsfield,VT,USA,","
+1988-01-27,1988,0,29,6,3,0,0,4,1988 Tour,1988,Harry Hood,Hood,1,Gallagher's,Waitsfield,VT,USA,
+1988-02-03,1988,0,1,4,1,0,0,10,1988 Tour,1988,David Bowie,Bowie,1,Gallagher's,Waitsfield,VT,USA,
+1988-02-03,1988,0,2,1,2,0,0,100,1988 Tour,1988,Sympathy for the Devil,Sympathy for the Devil,0,Gallagher's,Waitsfield,VT,USA,","
+1988-02-03,1988,0,3,1,2,0,0,1,1988 Tour,1988,Fee,Fee,1,Gallagher's,Waitsfield,VT,USA,","
+1988-02-03,1988,0,4,1,2,0,0,18,1988 Tour,1988,Run Like an Antelope,Antelope,1,Gallagher's,Waitsfield,VT,USA,","
+1988-02-03,1988,0,5,3,2,0,0,1,1988 Tour,1988,AC/DC Bag,Bag,1,Gallagher's,Waitsfield,VT,USA,->
+1988-02-03,1988,0,6,6,2,0,0,1,1988 Tour,1988,Possum,Possum,1,Gallagher's,Waitsfield,VT,USA,
+1988-02-07,1988,0,1,1,1,0,0,2,1988 Tour,1988,Fire,Fire,0,Nectar's,Burlington,VT,USA,","
+1988-02-07,1988,0,2,1,1,0,0,6,1988 Tour,1988,McGrupp and the Watchful Hosemasters,McGrupp,1,Nectar's,Burlington,VT,USA,","
+1988-02-07,1988,0,3,1,1,0,0,25,1988 Tour,1988,Shaggy Dog,Shaggy Dog,0,Nectar's,Burlington,VT,USA,","
+1988-02-07,1988,0,4,2,1,0,0,2,1988 Tour,1988,Golgi Apparatus,Golgi,1,Nectar's,Burlington,VT,USA,>
+1988-02-07,1988,0,5,2,1,0,0,2,1988 Tour,1988,Alumni Blues,Alumni,1,Nectar's,Burlington,VT,USA,>
+1988-02-07,1988,0,6,2,1,0,0,2,1988 Tour,1988,Letter to Jimmy Page,LTJP,1,Nectar's,Burlington,VT,USA,>
+1988-02-07,1988,0,7,1,1,0,0,0,1988 Tour,1988,Alumni Blues,Alumni,1,Nectar's,Burlington,VT,USA,","
+1988-02-07,1988,0,8,1,1,0,0,7,1988 Tour,1988,Peaches en Regalia,Peaches,0,Nectar's,Burlington,VT,USA,","
+1988-02-07,1988,0,9,1,1,0,0,101,1988 Tour,1988,Phase Dance,Phase Dance,0,Nectar's,Burlington,VT,USA,","
+1988-02-07,1988,0,10,1,1,0,0,18,1988 Tour,1988,Dear Mrs. Reagan,Dear Mrs. Reagan,1,Nectar's,Burlington,VT,USA,","
+1988-02-07,1988,0,11,1,1,0,0,6,1988 Tour,1988,I Didn't Know,IDK,1,Nectar's,Burlington,VT,USA,","
+1988-02-07,1988,0,12,4,1,0,0,1,1988 Tour,1988,David Bowie,Bowie,1,Nectar's,Burlington,VT,USA,
+1988-02-07,1988,0,13,1,2,0,0,20,1988 Tour,1988,Happy Birthday to You,Happy Birthday,0,Nectar's,Burlington,VT,USA,","
+1988-02-07,1988,0,14,2,2,0,0,1,1988 Tour,1988,AC/DC Bag,Bag,1,Nectar's,Burlington,VT,USA,>
+1988-02-07,1988,0,15,1,2,0,0,6,1988 Tour,1988,Timber (Jerry the Mule),Timber Ho,0,Nectar's,Burlington,VT,USA,","
+1988-02-07,1988,0,16,1,2,0,0,7,1988 Tour,1988,Flat Fee,Flat Fee,1,Nectar's,Burlington,VT,USA,","
+1988-02-07,1988,0,17,1,2,0,0,1,1988 Tour,1988,Fee,Fee,1,Nectar's,Burlington,VT,USA,","
+1988-02-07,1988,0,18,1,2,0,0,1,1988 Tour,1988,Possum,Possum,1,Nectar's,Burlington,VT,USA,","
+1988-02-07,1988,0,19,1,2,0,0,2,1988 Tour,1988,The Lizards,Lizards,1,Nectar's,Burlington,VT,USA,","
+1988-02-07,1988,0,20,1,2,0,0,103,1988 Tour,1988,Fly Famous Mockingbird,Mockingbird,1,Nectar's,Burlington,VT,USA,","
+1988-02-07,1988,0,21,4,2,0,0,2,1988 Tour,1988,Whipping Post,Whipping Post,0,Nectar's,Burlington,VT,USA,
+1988-02-07,1988,0,22,2,3,0,0,2,1988 Tour,1988,Suzy Greenberg,Suzy,1,Nectar's,Burlington,VT,USA,>
+1988-02-07,1988,0,23,2,3,0,0,7,1988 Tour,1988,The Man Who Stepped Into Yesterday,TMWSIY,1,Nectar's,Burlington,VT,USA,>
+1988-02-07,1988,0,24,2,3,0,0,7,1988 Tour,1988,Avenu Malkenu,Avenu Malkenu,0,Nectar's,Burlington,VT,USA,>
+1988-02-07,1988,0,25,1,3,0,0,0,1988 Tour,1988,The Man Who Stepped Into Yesterday,TMWSIY,1,Nectar's,Burlington,VT,USA,","
+1988-02-07,1988,0,26,2,3,0,0,11,1988 Tour,1988,Clod,Clod,1,Nectar's,Burlington,VT,USA,>
+1988-02-07,1988,0,27,1,3,0,0,24,1988 Tour,1988,Bundle of Joy,Bundle of Joy,1,Nectar's,Burlington,VT,USA,","
+1988-02-07,1988,0,28,1,3,0,0,19,1988 Tour,1988,The Curtain With,Curtain With,1,Nectar's,Burlington,VT,USA,","
+1988-02-07,1988,0,29,1,3,0,0,2,1988 Tour,1988,The Ballad of Curtis Loew,Curtis Loew,0,Nectar's,Burlington,VT,USA,","
+1988-02-07,1988,0,30,6,3,0,0,2,1988 Tour,1988,Good Times Bad Times,GTBT,0,Nectar's,Burlington,VT,USA,
+1988-02-08,1988,0,1,1,1,0,0,3,1988 Tour,1988,Slave to the Traffic Light,Slave,1,Nectar's,Burlington,VT,USA,","
+1988-02-08,1988,0,2,1,1,0,0,3,1988 Tour,1988,Funky Bitch,Funky Bitch,0,Nectar's,Burlington,VT,USA,","
+1988-02-08,1988,0,3,1,1,0,0,3,1988 Tour,1988,Take the 'A' Train,'A' Train,0,Nectar's,Burlington,VT,USA,","
+1988-02-08,1988,0,4,1,1,0,0,1,1988 Tour,1988,Golgi Apparatus,Golgi,1,Nectar's,Burlington,VT,USA,","
+1988-02-08,1988,0,5,1,1,0,0,1,1988 Tour,1988,Phase Dance,Phase Dance,0,Nectar's,Burlington,VT,USA,","
+1988-02-08,1988,0,6,1,1,0,0,1,1988 Tour,1988,Fire,Fire,0,Nectar's,Burlington,VT,USA,","
+1988-02-08,1988,0,7,4,1,0,0,3,1988 Tour,1988,You Enjoy Myself,YEM,1,Nectar's,Burlington,VT,USA,
+1988-02-08,1988,0,8,1,2,0,0,3,1988 Tour,1988,Fluffhead,Fluffhead,1,Nectar's,Burlington,VT,USA,","
+1988-02-08,1988,0,9,2,2,0,0,3,1988 Tour,1988,Wilson,Wilson,1,Nectar's,Burlington,VT,USA,>
+1988-02-08,1988,0,10,2,2,0,0,1,1988 Tour,1988,Peaches en Regalia,Peaches,0,Nectar's,Burlington,VT,USA,>
+1988-02-08,1988,0,11,1,2,0,0,3,1988 Tour,1988,Divided Sky,Divided,1,Nectar's,Burlington,VT,USA,","
+1988-02-08,1988,0,12,1,2,0,0,1,1988 Tour,1988,The Lizards,Lizards,1,Nectar's,Burlington,VT,USA,","
+1988-02-08,1988,0,13,4,2,0,0,2,1988 Tour,1988,Run Like an Antelope,Antelope,1,Nectar's,Burlington,VT,USA,
+1988-02-08,1988,0,14,1,3,0,0,3,1988 Tour,1988,The Sloth,Sloth,1,Nectar's,Burlington,VT,USA,","
+1988-02-08,1988,0,15,1,3,0,0,1,1988 Tour,1988,Flat Fee,Flat Fee,1,Nectar's,Burlington,VT,USA,","
+1988-02-08,1988,0,16,1,3,0,0,7,1988 Tour,1988,Dinner and a Movie,Dinner and a Movie,1,Nectar's,Burlington,VT,USA,","
+1988-02-08,1988,0,17,2,3,0,0,1,1988 Tour,1988,Alumni Blues,Alumni,1,Nectar's,Burlington,VT,USA,>
+1988-02-08,1988,0,18,2,3,0,0,1,1988 Tour,1988,Letter to Jimmy Page,LTJP,1,Nectar's,Burlington,VT,USA,>
+1988-02-08,1988,0,19,1,3,0,0,0,1988 Tour,1988,Alumni Blues,Alumni,1,Nectar's,Burlington,VT,USA,","
+1988-02-08,1988,0,20,1,3,0,0,3,1988 Tour,1988,Harry Hood,Hood,1,Nectar's,Burlington,VT,USA,","
+1988-02-08,1988,0,21,1,3,0,0,3,1988 Tour,1988,Bike,Bike,0,Nectar's,Burlington,VT,USA,","
+1988-02-08,1988,0,22,1,3,0,0,1,1988 Tour,1988,Fee,Fee,1,Nectar's,Burlington,VT,USA,","
+1988-02-08,1988,0,23,1,3,0,0,3,1988 Tour,1988,Jesus Just Left Chicago,JJLC,0,Nectar's,Burlington,VT,USA,","
+1988-02-08,1988,0,24,6,3,0,0,3,1988 Tour,1988,Big Black Furry Creature from Mars,BBFCFM,1,Nectar's,Burlington,VT,USA,
+1988-02-20,1988,0,1,1,1,0,0,2,1988 Tour,1988,Funky Bitch,Funky Bitch,0,St. Lawrence University,Canton,NY,USA,","
+1988-02-20,1988,0,2,1,1,0,0,2,1988 Tour,1988,Golgi Apparatus,Golgi,1,St. Lawrence University,Canton,NY,USA,","
+1988-02-20,1988,0,3,1,1,0,0,2,1988 Tour,1988,Peaches en Regalia,Peaches,0,St. Lawrence University,Canton,NY,USA,","
+1988-02-20,1988,0,4,2,1,0,0,2,1988 Tour,1988,Take the 'A' Train,'A' Train,0,St. Lawrence University,Canton,NY,USA,>
+1988-02-20,1988,0,5,1,1,0,0,3,1988 Tour,1988,Possum,Possum,1,St. Lawrence University,Canton,NY,USA,","
+1988-02-20,1988,0,6,1,1,0,0,2,1988 Tour,1988,Phase Dance,Phase Dance,0,St. Lawrence University,Canton,NY,USA,","
+1988-02-20,1988,0,7,1,1,0,0,3,1988 Tour,1988,Good Times Bad Times,GTBT,0,St. Lawrence University,Canton,NY,USA,","
+1988-02-20,1988,0,8,1,1,0,0,31,1988 Tour,1988,Skin It Back,Skin It Back,0,St. Lawrence University,Canton,NY,USA,","
+1988-02-20,1988,0,9,4,1,0,0,3,1988 Tour,1988,David Bowie,Bowie,1,St. Lawrence University,Canton,NY,USA,
+1988-02-20,1988,0,10,1,2,0,0,2,1988 Tour,1988,Wilson,Wilson,1,St. Lawrence University,Canton,NY,USA,","
+1988-02-20,1988,0,11,1,2,0,0,3,1988 Tour,1988,I Didn't Know,IDK,1,St. Lawrence University,Canton,NY,USA,","
+1988-02-20,1988,0,12,1,2,0,0,2,1988 Tour,1988,Fluffhead,Fluffhead,1,St. Lawrence University,Canton,NY,USA,","
+1988-02-20,1988,0,13,1,2,0,0,2,1988 Tour,1988,Fire,Fire,0,St. Lawrence University,Canton,NY,USA,","
+1988-02-20,1988,0,14,1,2,0,0,2,1988 Tour,1988,Fee,Fee,1,St. Lawrence University,Canton,NY,USA,","
+1988-02-20,1988,0,15,2,2,0,0,2,1988 Tour,1988,You Enjoy Myself,YEM,1,St. Lawrence University,Canton,NY,USA,>
+1988-02-20,1988,0,16,1,2,0,0,2,1988 Tour,1988,Divided Sky,Divided,1,St. Lawrence University,Canton,NY,USA,","
+1988-02-20,1988,0,17,2,2,0,0,3,1988 Tour,1988,AC/DC Bag,Bag,1,St. Lawrence University,Canton,NY,USA,>
+1988-02-20,1988,0,18,1,2,0,0,3,1988 Tour,1988,Whipping Post,Whipping Post,0,St. Lawrence University,Canton,NY,USA,","
+1988-02-20,1988,0,19,5,2,0,0,2,1988 Tour,1988,Slave to the Traffic Light,Slave,1,St. Lawrence University,Canton,NY,USA,
+1988-02-20,1988,0,20,6,e,0,0,2,1988 Tour,1988,Big Black Furry Creature from Mars,BBFCFM,1,St. Lawrence University,Canton,NY,USA,
+1988-02-24,1988,0,1,1,1,0,0,1,1988 Tour,1988,Funky Bitch,Funky Bitch,0,Gallagher's,Waitsfield,VT,USA,","
+1988-02-24,1988,0,2,1,1,0,0,1,1988 Tour,1988,Fluffhead,Fluffhead,1,Gallagher's,Waitsfield,VT,USA,","
+1988-02-24,1988,0,3,2,1,0,0,104,1988 Tour,1988,The Curtain,Curtain,1,Gallagher's,Waitsfield,VT,USA,>
+1988-02-24,1988,0,4,1,1,0,0,1,1988 Tour,1988,You Enjoy Myself,YEM,1,Gallagher's,Waitsfield,VT,USA,","
+1988-02-24,1988,0,5,1,1,0,0,1,1988 Tour,1988,I Didn't Know,IDK,1,Gallagher's,Waitsfield,VT,USA,","
+1988-02-24,1988,0,6,1,1,0,0,3,1988 Tour,1988,The Lizards,Lizards,1,Gallagher's,Waitsfield,VT,USA,","
+1988-02-24,1988,0,7,2,1,0,0,1,1988 Tour,1988,Wilson,Wilson,1,Gallagher's,Waitsfield,VT,USA,>
+1988-02-24,1988,0,8,1,1,0,0,1,1988 Tour,1988,Peaches en Regalia,Peaches,0,Gallagher's,Waitsfield,VT,USA,","
+1988-02-24,1988,0,9,2,1,0,0,1,1988 Tour,1988,Golgi Apparatus,Golgi,1,Gallagher's,Waitsfield,VT,USA,>
+1988-02-24,1988,0,10,1,1,0,0,1,1988 Tour,1988,Slave to the Traffic Light,Slave,1,Gallagher's,Waitsfield,VT,USA,","
+1988-02-24,1988,0,11,1,1,0,0,6,1988 Tour,1988,Corinna,Corinna,0,Gallagher's,Waitsfield,VT,USA,","
+1988-02-24,1988,0,12,2,1,0,0,1,1988 Tour,1988,Fee,Fee,1,Gallagher's,Waitsfield,VT,USA,>
+1988-02-24,1988,0,13,4,1,0,0,1,1988 Tour,1988,David Bowie,Bowie,1,Gallagher's,Waitsfield,VT,USA,
+1988-02-24,1988,0,14,1,2,0,0,6,1988 Tour,1988,Mustang Sally,Mustang Sally,0,Gallagher's,Waitsfield,VT,USA,","
+1988-02-24,1988,0,15,1,2,0,0,6,1988 Tour,1988,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Gallagher's,Waitsfield,VT,USA,","
+1988-02-24,1988,0,16,1,2,0,0,32,1988 Tour,1988,Sanity,Sanity,1,Gallagher's,Waitsfield,VT,USA,","
+1988-02-24,1988,0,17,1,2,0,0,10,1988 Tour,1988,La Grange,La Grange,0,Gallagher's,Waitsfield,VT,USA,","
+1988-02-24,1988,0,18,6,2,0,0,3,1988 Tour,1988,Harry Hood,Hood,1,Gallagher's,Waitsfield,VT,USA,
+1988-02-26,1988,0,1,2,1,0,0,1,1988 Tour,1988,The Curtain,Curtain,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,>
+1988-02-26,1988,0,2,1,1,0,0,5,1988 Tour,1988,Suzy Greenberg,Suzy,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,","
+1988-02-26,1988,0,3,1,1,0,0,1,1988 Tour,1988,You Enjoy Myself,YEM,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,","
+1988-02-26,1988,0,4,2,1,0,0,5,1988 Tour,1988,The Man Who Stepped Into Yesterday,TMWSIY,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,>
+1988-02-26,1988,0,5,2,1,0,0,5,1988 Tour,1988,Avenu Malkenu,Avenu Malkenu,0,"Living and Learning Center, University of Vermont",Burlington,VT,USA,>
+1988-02-26,1988,0,6,2,1,0,0,0,1988 Tour,1988,The Man Who Stepped Into Yesterday,TMWSIY,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,>
+1988-02-26,1988,0,7,2,1,0,0,2,1988 Tour,1988,AC/DC Bag,Bag,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,>
+1988-02-26,1988,0,8,1,1,0,0,2,1988 Tour,1988,Possum,Possum,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,","
+1988-02-26,1988,0,9,1,1,0,0,2,1988 Tour,1988,Phase Dance,Phase Dance,0,"Living and Learning Center, University of Vermont",Burlington,VT,USA,","
+1988-02-26,1988,0,10,4,1,0,0,2,1988 Tour,1988,Good Times Bad Times,GTBT,0,"Living and Learning Center, University of Vermont",Burlington,VT,USA,
+1988-02-26,1988,0,11,1,2,0,0,1,1988 Tour,1988,Fluffhead,Fluffhead,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,","
+1988-02-26,1988,0,12,1,2,0,0,1,1988 Tour,1988,I Didn't Know,IDK,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,","
+1988-02-26,1988,0,13,2,2,0,0,1,1988 Tour,1988,Golgi Apparatus,Golgi,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,>
+1988-02-26,1988,0,14,1,2,0,0,1,1988 Tour,1988,The Lizards,Lizards,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,","
+1988-02-26,1988,0,15,1,2,0,0,1,1988 Tour,1988,David Bowie,Bowie,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,","
+1988-02-26,1988,0,16,1,2,0,0,5,1988 Tour,1988,The Ballad of Curtis Loew,Curtis Loew,0,"Living and Learning Center, University of Vermont",Burlington,VT,USA,","
+1988-02-26,1988,0,17,2,2,0,0,1,1988 Tour,1988,Fee,Fee,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,>
+1988-02-26,1988,0,18,2,2,0,0,5,1988 Tour,1988,McGrupp and the Watchful Hosemasters,McGrupp,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,>
+1988-02-26,1988,0,19,1,2,0,0,5,1988 Tour,1988,Dear Mrs. Reagan,Dear Mrs. Reagan,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,","
+1988-02-26,1988,0,20,1,2,0,0,22,1988 Tour,1988,Makisupa Policeman,Makisupa,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,","
+1988-02-26,1988,0,21,2,2,0,0,4,1988 Tour,1988,Alumni Blues,Alumni,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,>
+1988-02-26,1988,0,22,2,2,0,0,4,1988 Tour,1988,Letter to Jimmy Page,LTJP,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,>
+1988-02-26,1988,0,23,1,2,0,0,0,1988 Tour,1988,Alumni Blues,Alumni,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,","
+1988-02-26,1988,0,24,6,2,0,0,2,1988 Tour,1988,Whipping Post,Whipping Post,0,"Living and Learning Center, University of Vermont",Burlington,VT,USA,
+1988-03-11,1988,0,1,1,1,0,0,108,1988 Tour,1988,The Chicken,The Chicken,0,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
+1988-03-11,1988,0,2,1,1,0,0,3,1988 Tour,1988,Funky Bitch,Funky Bitch,0,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
+1988-03-11,1988,0,3,1,1,0,0,3,1988 Tour,1988,Sneakin' Sally Through the Alley,Sneakin' Sally,0,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
+1988-03-11,1988,0,4,1,1,0,0,4,1988 Tour,1988,Take the 'A' Train,'A' Train,0,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
+1988-03-11,1988,0,5,3,1,0,0,2,1988 Tour,1988,You Enjoy Myself,YEM,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,->
+1988-03-11,1988,0,6,1,1,0,0,3,1988 Tour,1988,Wilson,Wilson,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
+1988-03-11,1988,0,7,2,1,0,0,2,1988 Tour,1988,Golgi Apparatus,Golgi,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,>
+1988-03-11,1988,0,8,1,1,0,0,3,1988 Tour,1988,Slave to the Traffic Light,Slave,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
+1988-03-11,1988,0,9,1,1,0,0,6,1988 Tour,1988,Flat Fee,Flat Fee,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
+1988-03-11,1988,0,10,1,1,0,0,3,1988 Tour,1988,Corinna,Corinna,0,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
+1988-03-11,1988,0,11,1,1,0,0,2,1988 Tour,1988,The Lizards,Lizards,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
+1988-03-11,1988,0,12,4,1,0,0,2,1988 Tour,1988,David Bowie,Bowie,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,
+1988-03-11,1988,0,13,1,2,0,0,2,1988 Tour,1988,Fluffhead,Fluffhead,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
+1988-03-11,1988,0,14,1,2,0,0,6,1988 Tour,1988,Dinner and a Movie,Dinner and a Movie,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
+1988-03-11,1988,0,15,1,2,0,0,3,1988 Tour,1988,Harry Hood,Hood,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
+1988-03-11,1988,0,16,1,2,0,0,2,1988 Tour,1988,The Ballad of Curtis Loew,Curtis Loew,0,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
+1988-03-11,1988,0,17,1,2,0,0,13,1988 Tour,1988,Harpua,Harpua,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
+1988-03-11,1988,0,18,2,2,0,0,2,1988 Tour,1988,AC/DC Bag,Bag,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,>
+1988-03-11,1988,0,19,2,2,0,0,2,1988 Tour,1988,Alumni Blues,Alumni,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,>
+1988-03-11,1988,0,20,6,2,0,0,6,1988 Tour,1988,Run Like an Antelope,Antelope,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,
+1988-03-12,1988,0,1,1,1,0,0,111,1988 Tour,1988,Jump Monk,Jump Monk,0,Nectar's,Burlington,VT,USA,","
+1988-03-12,1988,0,2,2,1,0,0,3,1988 Tour,1988,McGrupp and the Watchful Hosemasters,McGrupp,1,Nectar's,Burlington,VT,USA,>
+1988-03-12,1988,0,3,2,1,0,0,1,1988 Tour,1988,The Lizards,Lizards,1,Nectar's,Burlington,VT,USA,>
+1988-03-12,1988,0,4,2,1,0,0,111,1988 Tour,1988,Tela,Tela,1,Nectar's,Burlington,VT,USA,>
+1988-03-12,1988,0,5,2,1,0,0,1,1988 Tour,1988,Wilson,Wilson,1,Nectar's,Burlington,VT,USA,>
+1988-03-12,1988,0,6,2,1,0,0,1,1988 Tour,1988,AC/DC Bag,Bag,1,Nectar's,Burlington,VT,USA,>
+1988-03-12,1988,0,7,2,1,0,0,111,1988 Tour,1988,Colonel Forbin's Ascent,Forbin's,1,Nectar's,Burlington,VT,USA,>
+1988-03-12,1988,0,8,2,1,0,0,8,1988 Tour,1988,Fly Famous Mockingbird,Mockingbird,1,Nectar's,Burlington,VT,USA,>
+1988-03-12,1988,0,9,2,1,0,0,7,1988 Tour,1988,The Sloth,Sloth,1,Nectar's,Burlington,VT,USA,>
+1988-03-12,1988,0,10,1,1,0,0,3,1988 Tour,1988,Possum,Possum,1,Nectar's,Burlington,VT,USA,","
+1988-03-12,1988,0,11,6,1,0,0,1,1988 Tour,1988,Run Like an Antelope,Antelope,1,Nectar's,Burlington,VT,USA,
+1988-03-21,1988,0,1,1,1,0,0,5,1988 Tour,1988,Suzy Greenberg,Suzy,1,Nectar's,Burlington,VT,USA,","
+1988-03-21,1988,0,2,1,1,0,0,3,1988 Tour,1988,Golgi Apparatus,Golgi,1,Nectar's,Burlington,VT,USA,","
+1988-03-21,1988,0,3,1,1,0,0,2,1988 Tour,1988,McGrupp and the Watchful Hosemasters,McGrupp,1,Nectar's,Burlington,VT,USA,","
+1988-03-21,1988,0,4,1,1,0,0,3,1988 Tour,1988,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Nectar's,Burlington,VT,USA,","
+1988-03-21,1988,0,5,1,1,0,0,7,1988 Tour,1988,Divided Sky,Divided,1,Nectar's,Burlington,VT,USA,","
+1988-03-21,1988,0,6,2,1,0,0,45,1988 Tour,1988,Boogie On Reggae Woman,Boogie On,0,Nectar's,Burlington,VT,USA,>
+1988-03-21,1988,0,7,1,1,0,0,10,1988 Tour,1988,Timber (Jerry the Mule),Timber Ho,0,Nectar's,Burlington,VT,USA,","
+1988-03-21,1988,0,8,4,1,0,0,2,1988 Tour,1988,The Lizards,Lizards,1,Nectar's,Burlington,VT,USA,
+1988-03-21,1988,0,9,1,2,0,0,7,1988 Tour,1988,Fire,Fire,0,Nectar's,Burlington,VT,USA,","
+1988-03-21,1988,0,10,2,2,0,0,2,1988 Tour,1988,AC/DC Bag,Bag,1,Nectar's,Burlington,VT,USA,>
+1988-03-21,1988,0,11,2,2,0,0,21,1988 Tour,1988,The Chase,The Chase,1,Nectar's,Burlington,VT,USA,>
+1988-03-21,1988,0,12,1,2,0,0,2,1988 Tour,1988,Possum,Possum,1,Nectar's,Burlington,VT,USA,","
+1988-03-21,1988,0,13,1,2,0,0,3,1988 Tour,1988,Dinner and a Movie,Dinner and a Movie,1,Nectar's,Burlington,VT,USA,","
+1988-03-21,1988,0,14,1,2,0,0,5,1988 Tour,1988,I Didn't Know,IDK,1,Nectar's,Burlington,VT,USA,","
+1988-03-21,1988,0,15,2,2,0,0,2,1988 Tour,1988,Colonel Forbin's Ascent,Forbin's,1,Nectar's,Burlington,VT,USA,>
+1988-03-21,1988,0,16,6,2,0,0,2,1988 Tour,1988,Fly Famous Mockingbird,Mockingbird,1,Nectar's,Burlington,VT,USA,
+1988-03-22,1988,0,1,1,1,0,0,4,1988 Tour,1988,Harpua,Harpua,1,Nectar's,Burlington,VT,USA,","
+1988-03-22,1988,0,2,2,1,0,0,3,1988 Tour,1988,Wilson,Wilson,1,Nectar's,Burlington,VT,USA,>
+1988-03-22,1988,0,3,1,1,0,0,7,1988 Tour,1988,Peaches en Regalia,Peaches,0,Nectar's,Burlington,VT,USA,","
+1988-03-22,1988,0,4,1,1,0,0,4,1988 Tour,1988,Funky Bitch,Funky Bitch,0,Nectar's,Burlington,VT,USA,","
+1988-03-22,1988,0,5,1,1,0,0,1,1988 Tour,1988,Golgi Apparatus,Golgi,1,Nectar's,Burlington,VT,USA,","
+1988-03-22,1988,0,6,1,1,0,0,1,1988 Tour,1988,Suzy Greenberg,Suzy,1,Nectar's,Burlington,VT,USA,","
+1988-03-22,1988,0,7,1,1,0,0,4,1988 Tour,1988,You Enjoy Myself,YEM,1,Nectar's,Burlington,VT,USA,","
+1988-03-22,1988,0,8,1,1,0,0,1,1988 Tour,1988,The Lizards,Lizards,1,Nectar's,Burlington,VT,USA,","
+1988-03-22,1988,0,9,1,1,0,0,6,1988 Tour,1988,Good Times Bad Times,GTBT,0,Nectar's,Burlington,VT,USA,","
+1988-03-22,1988,0,10,1,1,0,0,11,1988 Tour,1988,Happy Birthday to You,Happy Birthday,0,Nectar's,Burlington,VT,USA,","
+1988-03-22,1988,0,11,2,1,0,0,1,1988 Tour,1988,Colonel Forbin's Ascent,Forbin's,1,Nectar's,Burlington,VT,USA,>
+1988-03-22,1988,0,12,2,1,0,0,39,1988 Tour,1988,Icculus,Icculus,1,Nectar's,Burlington,VT,USA,>
+1988-03-22,1988,0,13,2,1,0,0,0,1988 Tour,1988,Colonel Forbin's Ascent,Forbin's,1,Nectar's,Burlington,VT,USA,>
+1988-03-22,1988,0,14,2,1,0,0,1,1988 Tour,1988,Fly Famous Mockingbird,Mockingbird,1,Nectar's,Burlington,VT,USA,>
+1988-03-22,1988,0,15,6,1,0,0,1,1988 Tour,1988,AC/DC Bag,Bag,1,Nectar's,Burlington,VT,USA,
+1988-03-31,1988,0,1,1,1,0,0,2,1988 Tour,1988,I Didn't Know,IDK,1,Kenny's Castaways,New York,NY,USA,","
+1988-03-31,1988,0,2,1,1,0,0,1,1988 Tour,1988,Golgi Apparatus,Golgi,1,Kenny's Castaways,New York,NY,USA,","
+1988-03-31,1988,0,3,2,1,0,0,7,1988 Tour,1988,Fee,Fee,1,Kenny's Castaways,New York,NY,USA,>
+1988-03-31,1988,0,4,2,1,0,0,1,1988 Tour,1988,AC/DC Bag,Bag,1,Kenny's Castaways,New York,NY,USA,>
+1988-03-31,1988,0,5,1,1,0,0,2,1988 Tour,1988,Possum,Possum,1,Kenny's Castaways,New York,NY,USA,","
+1988-03-31,1988,0,6,1,1,0,0,5,1988 Tour,1988,Fluffhead,Fluffhead,1,Kenny's Castaways,New York,NY,USA,","
+1988-03-31,1988,0,7,1,1,0,0,5,1988 Tour,1988,Alumni Blues,Alumni,1,Kenny's Castaways,New York,NY,USA,","
+1988-03-31,1988,0,8,1,1,0,0,1,1988 Tour,1988,The Lizards,Lizards,1,Kenny's Castaways,New York,NY,USA,","
+1988-03-31,1988,0,9,2,1,0,0,1,1988 Tour,1988,Colonel Forbin's Ascent,Forbin's,1,Kenny's Castaways,New York,NY,USA,>
+1988-03-31,1988,0,10,1,1,0,0,1,1988 Tour,1988,Fly Famous Mockingbird,Mockingbird,1,Kenny's Castaways,New York,NY,USA,","
+1988-03-31,1988,0,11,1,1,0,0,5,1988 Tour,1988,Take the 'A' Train,'A' Train,0,Kenny's Castaways,New York,NY,USA,","
+1988-03-31,1988,0,12,1,1,0,0,2,1988 Tour,1988,Fire,Fire,0,Kenny's Castaways,New York,NY,USA,","
+1988-03-31,1988,0,13,1,1,0,0,1,1988 Tour,1988,You Enjoy Myself,YEM,1,Kenny's Castaways,New York,NY,USA,","
+1988-03-31,1988,0,14,6,1,0,0,1,1988 Tour,1988,Wilson,Wilson,1,Kenny's Castaways,New York,NY,USA,
+1988-04-02,1988,0,1,1,1,0,0,1,1988 Tour,1988,Fire,Fire,0,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,","
+1988-04-02,1988,0,2,6,1,0,0,2,1988 Tour,1988,Good Times Bad Times,GTBT,0,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,
+1988-04-22,1988,0,1,1,1,0,0,6,1988 Tour,1988,I Didn't Know,IDK,1,University of Vermont,Burlington,VT,USA,","
+1988-04-22,1988,0,2,1,1,0,0,6,1988 Tour,1988,Golgi Apparatus,Golgi,1,University of Vermont,Burlington,VT,USA,","
+1988-04-22,1988,0,3,1,1,0,0,6,1988 Tour,1988,The Lizards,Lizards,1,University of Vermont,Burlington,VT,USA,","
+1988-04-22,1988,0,4,1,1,0,0,6,1988 Tour,1988,Fee,Fee,1,University of Vermont,Burlington,VT,USA,","
+1988-04-22,1988,0,5,1,1,0,0,18,1988 Tour,1988,Shaggy Dog,Shaggy Dog,0,University of Vermont,Burlington,VT,USA,","
+1988-04-22,1988,0,6,1,1,0,0,15,1988 Tour,1988,Big Black Furry Creature from Mars,BBFCFM,1,University of Vermont,Burlington,VT,USA,","
+1988-04-22,1988,0,7,1,1,0,0,6,1988 Tour,1988,You Enjoy Myself,YEM,1,University of Vermont,Burlington,VT,USA,","
+1988-04-22,1988,0,8,1,1,0,0,7,1988 Tour,1988,Suzy Greenberg,Suzy,1,University of Vermont,Burlington,VT,USA,","
+1988-04-22,1988,0,9,1,1,0,0,43,1988 Tour,1988,Ya Mar,Ya Mar,0,University of Vermont,Burlington,VT,USA,","
+1988-04-22,1988,0,10,3,1,0,0,6,1988 Tour,1988,AC/DC Bag,Bag,1,University of Vermont,Burlington,VT,USA,->
+1988-04-22,1988,0,11,1,1,0,0,6,1988 Tour,1988,Possum,Possum,1,University of Vermont,Burlington,VT,USA,","
+1988-04-22,1988,0,12,1,1,0,0,11,1988 Tour,1988,The Ballad of Curtis Loew,Curtis Loew,0,University of Vermont,Burlington,VT,USA,","
+1988-04-22,1988,0,13,4,1,0,0,11,1988 Tour,1988,David Bowie,Bowie,1,University of Vermont,Burlington,VT,USA,
+1988-04-22,1988,0,14,2,2,0,0,6,1988 Tour,1988,Colonel Forbin's Ascent,Forbin's,1,University of Vermont,Burlington,VT,USA,>
+1988-04-22,1988,0,15,1,2,0,0,6,1988 Tour,1988,Fly Famous Mockingbird,Mockingbird,1,University of Vermont,Burlington,VT,USA,","
+1988-04-22,1988,0,16,1,2,0,0,5,1988 Tour,1988,Fire,Fire,0,University of Vermont,Burlington,VT,USA,","
+1988-04-22,1988,0,17,2,2,0,0,6,1988 Tour,1988,Alumni Blues,Alumni,1,University of Vermont,Burlington,VT,USA,>
+1988-04-22,1988,0,18,2,2,0,0,13,1988 Tour,1988,Letter to Jimmy Page,LTJP,1,University of Vermont,Burlington,VT,USA,>
+1988-04-22,1988,0,19,2,2,0,0,0,1988 Tour,1988,Alumni Blues,Alumni,1,University of Vermont,Burlington,VT,USA,>
+1988-04-22,1988,0,20,6,2,0,0,10,1988 Tour,1988,Run Like an Antelope,Antelope,1,University of Vermont,Burlington,VT,USA,
+1988-05-14,1988,0,1,1,1,0,0,10,1988 Tour,1988,Fire,Fire,0,Goddard College,Plainfield,VT,USA,","
+1988-05-14,1988,0,2,1,1,0,0,10,1988 Tour,1988,I Didn't Know,IDK,1,Goddard College,Plainfield,VT,USA,","
+1988-05-14,1988,0,3,2,1,0,0,39,1988 Tour,1988,Halley's Comet,Halley's,1,Goddard College,Plainfield,VT,USA,>
+1988-05-14,1988,0,4,1,1,0,0,39,1988 Tour,1988,Light Up Or Leave Me Alone,Light Up,0,Goddard College,Plainfield,VT,USA,","
+1988-05-14,1988,0,5,1,1,0,0,10,1988 Tour,1988,You Enjoy Myself,YEM,1,Goddard College,Plainfield,VT,USA,","
+1988-05-14,1988,0,6,1,1,0,0,10,1988 Tour,1988,The Lizards,Lizards,1,Goddard College,Plainfield,VT,USA,","
+1988-05-14,1988,0,7,1,1,0,0,10,1988 Tour,1988,Big Black Furry Creature from Mars,BBFCFM,1,Goddard College,Plainfield,VT,USA,","
+1988-05-14,1988,0,8,1,1,0,0,27,1988 Tour,1988,Jesus Just Left Chicago,JJLC,0,Goddard College,Plainfield,VT,USA,","
+1988-05-14,1988,0,9,2,1,0,0,16,1988 Tour,1988,Fluffhead,Fluffhead,1,Goddard College,Plainfield,VT,USA,>
+1988-05-14,1988,0,10,2,1,0,0,10,1988 Tour,1988,Alumni Blues,Alumni,1,Goddard College,Plainfield,VT,USA,>
+1988-05-14,1988,0,11,2,1,0,0,10,1988 Tour,1988,Letter to Jimmy Page,LTJP,1,Goddard College,Plainfield,VT,USA,>
+1988-05-14,1988,0,12,1,1,0,0,0,1988 Tour,1988,Alumni Blues,Alumni,1,Goddard College,Plainfield,VT,USA,","
+1988-05-14,1988,0,13,6,1,0,0,16,1988 Tour,1988,Take the 'A' Train,'A' Train,0,Goddard College,Plainfield,VT,USA,
+1988-05-15,1988,0,1,2,1,0,0,1,1988 Tour,1988,Alumni Blues,Alumni,1,Beecher Hill Farm,Hinesburg,VT,USA,>
+1988-05-15,1988,0,2,2,1,0,0,1,1988 Tour,1988,Letter to Jimmy Page,LTJP,1,Beecher Hill Farm,Hinesburg,VT,USA,>
+1988-05-15,1988,0,3,1,1,0,0,0,1988 Tour,1988,Alumni Blues,Alumni,1,Beecher Hill Farm,Hinesburg,VT,USA,","
+1988-05-15,1988,0,4,1,1,0,0,11,1988 Tour,1988,Golgi Apparatus,Golgi,1,Beecher Hill Farm,Hinesburg,VT,USA,","
+1988-05-15,1988,0,5,1,1,0,0,1,1988 Tour,1988,You Enjoy Myself,YEM,1,Beecher Hill Farm,Hinesburg,VT,USA,","
+1988-05-15,1988,0,6,1,1,0,0,11,1988 Tour,1988,Suzy Greenberg,Suzy,1,Beecher Hill Farm,Hinesburg,VT,USA,","
+1988-05-15,1988,0,7,1,1,0,0,16,1988 Tour,1988,Good Times Bad Times,GTBT,0,Beecher Hill Farm,Hinesburg,VT,USA,","
+1988-05-15,1988,0,8,1,1,0,0,1,1988 Tour,1988,Fluffhead,Fluffhead,1,Beecher Hill Farm,Hinesburg,VT,USA,","
+1988-05-15,1988,0,9,1,1,0,0,11,1988 Tour,1988,Shaggy Dog,Shaggy Dog,0,Beecher Hill Farm,Hinesburg,VT,USA,","
+1988-05-15,1988,0,10,1,1,0,0,1,1988 Tour,1988,The Lizards,Lizards,1,Beecher Hill Farm,Hinesburg,VT,USA,","
+1988-05-15,1988,0,11,1,1,0,0,19,1988 Tour,1988,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Beecher Hill Farm,Hinesburg,VT,USA,","
+1988-05-15,1988,0,12,3,1,0,0,11,1988 Tour,1988,AC/DC Bag,Bag,1,Beecher Hill Farm,Hinesburg,VT,USA,->
+1988-05-15,1988,0,13,4,1,0,0,11,1988 Tour,1988,Possum,Possum,1,Beecher Hill Farm,Hinesburg,VT,USA,
+1988-05-15,1988,0,14,1,2,0,0,18,1988 Tour,1988,Icculus,Icculus,1,Beecher Hill Farm,Hinesburg,VT,USA,","
+1988-05-15,1988,0,15,1,2,0,0,19,1988 Tour,1988,McGrupp and the Watchful Hosemasters,McGrupp,1,Beecher Hill Farm,Hinesburg,VT,USA,","
+1988-05-15,1988,0,16,2,2,0,0,29,1988 Tour,1988,The Curtain With,Curtain With,1,Beecher Hill Farm,Hinesburg,VT,USA,>
+1988-05-15,1988,0,17,1,2,0,0,17,1988 Tour,1988,Wilson,Wilson,1,Beecher Hill Farm,Hinesburg,VT,USA,","
+1988-05-15,1988,0,18,1,2,0,0,18,1988 Tour,1988,Peaches en Regalia,Peaches,0,Beecher Hill Farm,Hinesburg,VT,USA,","
+1988-05-15,1988,0,19,1,2,0,0,1,1988 Tour,1988,Take the 'A' Train,'A' Train,0,Beecher Hill Farm,Hinesburg,VT,USA,","
+1988-05-15,1988,0,20,1,2,0,0,1,1988 Tour,1988,Jesus Just Left Chicago,JJLC,0,Beecher Hill Farm,Hinesburg,VT,USA,","
+1988-05-15,1988,0,21,1,2,0,0,1,1988 Tour,1988,I Didn't Know,IDK,1,Beecher Hill Farm,Hinesburg,VT,USA,","
+1988-05-15,1988,0,22,2,2,0,0,22,1988 Tour,1988,Flat Fee,Flat Fee,1,Beecher Hill Farm,Hinesburg,VT,USA,>
+1988-05-15,1988,0,23,1,2,0,0,24,1988 Tour,1988,Whipping Post,Whipping Post,0,Beecher Hill Farm,Hinesburg,VT,USA,","
+1988-05-15,1988,0,24,5,2,0,0,18,1988 Tour,1988,Harpua,Harpua,1,Beecher Hill Farm,Hinesburg,VT,USA,
+1988-05-15,1988,0,25,6,e,0,0,1,1988 Tour,1988,Fire,Fire,0,Beecher Hill Farm,Hinesburg,VT,USA,
+1988-05-22,1988,0,1,1,1,0,0,19,1988 Tour,1988,Funky Bitch,Funky Bitch,0,Nectar's,Burlington,VT,USA,","
+1988-05-22,1988,0,2,1,1,0,0,2,1988 Tour,1988,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Nectar's,Burlington,VT,USA,","
+1988-05-22,1988,0,3,2,1,0,0,2,1988 Tour,1988,Alumni Blues,Alumni,1,Nectar's,Burlington,VT,USA,>
+1988-05-22,1988,0,4,2,1,0,0,2,1988 Tour,1988,Letter to Jimmy Page,LTJP,1,Nectar's,Burlington,VT,USA,>
+1988-05-22,1988,0,5,1,1,0,0,0,1988 Tour,1988,Alumni Blues,Alumni,1,Nectar's,Burlington,VT,USA,","
+1988-05-22,1988,0,6,1,1,0,0,1,1988 Tour,1988,You Enjoy Myself,YEM,1,Nectar's,Burlington,VT,USA,","
+1988-05-22,1988,0,7,1,1,0,0,131,1988 Tour,1988,St. Thomas,St. Thomas,0,Nectar's,Burlington,VT,USA,","
+1988-05-22,1988,0,8,1,1,0,0,1,1988 Tour,1988,Golgi Apparatus,Golgi,1,Nectar's,Burlington,VT,USA,","
+1988-05-22,1988,0,9,4,1,0,0,2,1988 Tour,1988,Fire,Fire,0,Nectar's,Burlington,VT,USA,
+1988-05-22,1988,0,10,1,2,0,0,27,1988 Tour,1988,La Grange,La Grange,0,Nectar's,Burlington,VT,USA,","
+1988-05-22,1988,0,11,1,2,0,0,1,1988 Tour,1988,Possum,Possum,1,Nectar's,Burlington,VT,USA,","
+1988-05-22,1988,0,12,1,2,0,0,1,1988 Tour,1988,The Lizards,Lizards,1,Nectar's,Burlington,VT,USA,","
+1988-05-22,1988,0,13,1,2,0,0,20,1988 Tour,1988,Timber (Jerry the Mule),Timber Ho,0,Nectar's,Burlington,VT,USA,","
+1988-05-22,1988,0,14,1,2,0,0,23,1988 Tour,1988,Tela,Tela,1,Nectar's,Burlington,VT,USA,","
+1988-05-22,1988,0,15,1,2,0,0,20,1988 Tour,1988,Happy Birthday to You,Happy Birthday,0,Nectar's,Burlington,VT,USA,","
+1988-05-22,1988,0,16,1,2,0,0,1,1988 Tour,1988,Fluffhead,Fluffhead,1,Nectar's,Burlington,VT,USA,","
+1988-05-22,1988,0,17,1,2,0,0,30,1988 Tour,1988,Bike,Bike,0,Nectar's,Burlington,VT,USA,","
+1988-05-22,1988,0,18,4,2,0,0,1,1988 Tour,1988,Good Times Bad Times,GTBT,0,Nectar's,Burlington,VT,USA,
+1988-05-22,1988,0,19,1,3,0,0,106,1988 Tour,1988,Big Leg Emma,Big Leg Emma,0,Nectar's,Burlington,VT,USA,","
+1988-05-22,1988,0,20,1,3,0,0,48,1988 Tour,1988,Rocky Top,Rocky Top,0,Nectar's,Burlington,VT,USA,","
+1988-05-22,1988,0,21,1,3,0,0,65,1988 Tour,1988,Cities,Cities,0,Nectar's,Burlington,VT,USA,","
+1988-05-22,1988,0,22,1,3,0,0,1,1988 Tour,1988,Take the 'A' Train,'A' Train,0,Nectar's,Burlington,VT,USA,","
+1988-05-22,1988,0,23,1,3,0,0,1,1988 Tour,1988,The Curtain With,Curtain With,1,Nectar's,Burlington,VT,USA,","
+1988-05-22,1988,0,24,6,3,0,0,1,1988 Tour,1988,Suzy Greenberg,Suzy,1,Nectar's,Burlington,VT,USA,
+1988-05-23,1988,0,1,1,1,0,0,2,1988 Tour,1988,Take the 'A' Train,'A' Train,0,Nectar's,Burlington,VT,USA,","
+1988-05-23,1988,0,2,1,1,0,0,1,1988 Tour,1988,Golgi Apparatus,Golgi,1,Nectar's,Burlington,VT,USA,","
+1988-05-23,1988,0,3,1,1,0,0,1,1988 Tour,1988,You Enjoy Myself,YEM,1,Nectar's,Burlington,VT,USA,","
+1988-05-23,1988,0,4,1,1,0,0,2,1988 Tour,1988,Rocky Top,Rocky Top,0,Nectar's,Burlington,VT,USA,","
+1988-05-23,1988,0,5,1,1,0,0,4,1988 Tour,1988,Light Up Or Leave Me Alone,Light Up,0,Nectar's,Burlington,VT,USA,","
+1988-05-23,1988,0,6,1,1,0,0,2,1988 Tour,1988,I Didn't Know,IDK,1,Nectar's,Burlington,VT,USA,","
+1988-05-23,1988,0,7,2,1,0,0,2,1988 Tour,1988,Peaches en Regalia,Peaches,0,Nectar's,Burlington,VT,USA,>
+1988-05-23,1988,0,8,1,1,0,0,1,1988 Tour,1988,Possum,Possum,1,Nectar's,Burlington,VT,USA,","
+1988-05-23,1988,0,9,6,1,0,0,1,1988 Tour,1988,Good Times Bad Times,GTBT,0,Nectar's,Burlington,VT,USA,
+1988-05-24,1988,0,1,1,1,0,0,2,1988 Tour,1988,The Curtain With,Curtain With,1,Nectar's,Burlington,VT,USA,","
+1988-05-24,1988,0,2,1,1,0,0,1,1988 Tour,1988,Rocky Top,Rocky Top,0,Nectar's,Burlington,VT,USA,","
+1988-05-24,1988,0,3,1,1,0,0,2,1988 Tour,1988,Funky Bitch,Funky Bitch,0,Nectar's,Burlington,VT,USA,","
+1988-05-24,1988,0,4,2,1,0,0,2,1988 Tour,1988,Alumni Blues,Alumni,1,Nectar's,Burlington,VT,USA,>
+1988-05-24,1988,0,5,2,1,0,0,2,1988 Tour,1988,Letter to Jimmy Page,LTJP,1,Nectar's,Burlington,VT,USA,>
+1988-05-24,1988,0,6,1,1,0,0,0,1988 Tour,1988,Alumni Blues,Alumni,1,Nectar's,Burlington,VT,USA,","
+1988-05-24,1988,0,7,1,1,0,0,1,1988 Tour,1988,Peaches en Regalia,Peaches,0,Nectar's,Burlington,VT,USA,","
+1988-05-24,1988,0,8,1,1,0,0,1,1988 Tour,1988,Golgi Apparatus,Golgi,1,Nectar's,Burlington,VT,USA,","
+1988-05-24,1988,0,9,1,1,0,0,2,1988 Tour,1988,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Nectar's,Burlington,VT,USA,","
+1988-05-24,1988,0,10,1,1,0,0,2,1988 Tour,1988,Suzy Greenberg,Suzy,1,Nectar's,Burlington,VT,USA,","
+1988-05-24,1988,0,11,4,1,0,0,2,1988 Tour,1988,Fire,Fire,0,Nectar's,Burlington,VT,USA,
+1988-05-24,1988,0,12,1,2,0,0,4,1988 Tour,1988,Jesus Just Left Chicago,JJLC,0,Nectar's,Burlington,VT,USA,","
+1988-05-24,1988,0,13,2,2,0,0,2,1988 Tour,1988,Fluffhead,Fluffhead,1,Nectar's,Burlington,VT,USA,>
+1988-05-24,1988,0,14,4,2,0,0,4,1988 Tour,1988,Whipping Post,Whipping Post,0,Nectar's,Burlington,VT,USA,
+1988-05-24,1988,0,15,3,3,0,0,14,1988 Tour,1988,Ya Mar,Ya Mar,0,Nectar's,Burlington,VT,USA,->
+1988-05-24,1988,0,16,2,3,0,0,38,1988 Tour,1988,Jam,Jam,0,Nectar's,Burlington,VT,USA,>
+1988-05-24,1988,0,17,2,3,0,0,4,1988 Tour,1988,Halley's Comet,Halley's,1,Nectar's,Burlington,VT,USA,>
+1988-05-24,1988,0,18,1,3,0,0,25,1988 Tour,1988,The Sloth,Sloth,1,Nectar's,Burlington,VT,USA,","
+1988-05-24,1988,0,19,1,3,0,0,1,1988 Tour,1988,I Didn't Know,IDK,1,Nectar's,Burlington,VT,USA,","
+1988-05-24,1988,0,20,1,3,0,0,2,1988 Tour,1988,La Grange,La Grange,0,Nectar's,Burlington,VT,USA,","
+1988-05-24,1988,0,21,1,3,0,0,14,1988 Tour,1988,Fee,Fee,1,Nectar's,Burlington,VT,USA,","
+1988-05-24,1988,0,22,1,3,0,0,60,1988 Tour,1988,I Know a Little,I Know a Little,0,Nectar's,Burlington,VT,USA,","
+1988-05-24,1988,0,23,1,3,0,0,5,1988 Tour,1988,Big Black Furry Creature from Mars,BBFCFM,1,Nectar's,Burlington,VT,USA,","
+1988-05-24,1988,0,24,1,3,0,0,26,1988 Tour,1988,Corinna,Corinna,0,Nectar's,Burlington,VT,USA,","
+1988-05-24,1988,0,25,1,3,0,0,4,1988 Tour,1988,Harpua,Harpua,1,Nectar's,Burlington,VT,USA,","
+1988-05-24,1988,0,26,6,3,0,0,14,1988 Tour,1988,Run Like an Antelope,Antelope,1,Nectar's,Burlington,VT,USA,
+1988-06-15,1988,0,1,1,1,0,0,4,1988 Tour,1988,Suzy Greenberg,Suzy,1,The Front,Burlington,VT,USA,","
+1988-06-15,1988,0,2,2,1,0,0,4,1988 Tour,1988,Alumni Blues,Alumni,1,The Front,Burlington,VT,USA,>
+1988-06-15,1988,0,3,2,1,0,0,4,1988 Tour,1988,Letter to Jimmy Page,LTJP,1,The Front,Burlington,VT,USA,>
+1988-06-15,1988,0,4,1,1,0,0,0,1988 Tour,1988,Alumni Blues,Alumni,1,The Front,Burlington,VT,USA,","
+1988-06-15,1988,0,5,3,1,0,0,5,1988 Tour,1988,You Enjoy Myself,YEM,1,The Front,Burlington,VT,USA,->
+1988-06-15,1988,0,6,1,1,0,0,7,1988 Tour,1988,Wilson,Wilson,1,The Front,Burlington,VT,USA,","
+1988-06-15,1988,0,7,1,1,0,0,4,1988 Tour,1988,Rocky Top,Rocky Top,0,The Front,Burlington,VT,USA,","
+1988-06-15,1988,0,8,1,1,0,0,7,1988 Tour,1988,McGrupp and the Watchful Hosemasters,McGrupp,1,The Front,Burlington,VT,USA,","
+1988-06-15,1988,0,9,1,1,0,0,4,1988 Tour,1988,Fluffhead,Fluffhead,1,The Front,Burlington,VT,USA,","
+1988-06-15,1988,0,10,4,1,0,0,4,1988 Tour,1988,Golgi Apparatus,Golgi,1,The Front,Burlington,VT,USA,
+1988-06-15,1988,0,11,1,2,0,0,4,1988 Tour,1988,La Grange,La Grange,0,The Front,Burlington,VT,USA,","
+1988-06-15,1988,0,12,2,2,0,0,4,1988 Tour,1988,Fee,Fee,1,The Front,Burlington,VT,USA,>
+1988-06-15,1988,0,13,1,2,0,0,6,1988 Tour,1988,Timber (Jerry the Mule),Timber Ho,0,The Front,Burlington,VT,USA,","
+1988-06-15,1988,0,14,1,2,0,0,4,1988 Tour,1988,I Didn't Know,IDK,1,The Front,Burlington,VT,USA,","
+1988-06-15,1988,0,15,1,2,0,0,6,1988 Tour,1988,The Lizards,Lizards,1,The Front,Burlington,VT,USA,","
+1988-06-15,1988,0,16,1,2,0,0,7,1988 Tour,1988,AC/DC Bag,Bag,1,The Front,Burlington,VT,USA,","
+1988-06-15,1988,0,17,1,2,0,0,4,1988 Tour,1988,The Sloth,Sloth,1,The Front,Burlington,VT,USA,","
+1988-06-15,1988,0,18,1,2,0,0,136,1988 Tour,1988,Contact,Contact,1,The Front,Burlington,VT,USA,","
+1988-06-15,1988,0,19,1,2,0,0,26,1988 Tour,1988,Dinner and a Movie,Dinner and a Movie,1,The Front,Burlington,VT,USA,","
+1988-06-15,1988,0,20,1,2,0,0,5,1988 Tour,1988,Take the 'A' Train,'A' Train,0,The Front,Burlington,VT,USA,","
+1988-06-15,1988,0,21,1,2,0,0,5,1988 Tour,1988,Good Times Bad Times,GTBT,0,The Front,Burlington,VT,USA,","
+1988-06-15,1988,0,22,1,2,0,0,4,1988 Tour,1988,Whipping Post,Whipping Post,0,The Front,Burlington,VT,USA,","
+1988-06-15,1988,0,23,6,2,0,0,32,1988 Tour,1988,Dear Mrs. Reagan,Dear Mrs. Reagan,1,The Front,Burlington,VT,USA,
+1988-06-19,1988,0,1,1,1,0,0,6,1988 Tour,1988,The Curtain With,Curtain With,1,Nectar's,Burlington,VT,USA,","
+1988-06-19,1988,0,2,1,1,0,0,6,1988 Tour,1988,Funky Bitch,Funky Bitch,0,Nectar's,Burlington,VT,USA,","
+1988-06-19,1988,0,3,1,1,0,0,7,1988 Tour,1988,Possum,Possum,1,Nectar's,Burlington,VT,USA,","
+1988-06-19,1988,0,4,1,1,0,0,2,1988 Tour,1988,Golgi Apparatus,Golgi,1,Nectar's,Burlington,VT,USA,","
+1988-06-19,1988,0,5,1,1,0,0,2,1988 Tour,1988,La Grange,La Grange,0,Nectar's,Burlington,VT,USA,","
+1988-06-19,1988,0,6,1,1,0,0,2,1988 Tour,1988,Suzy Greenberg,Suzy,1,Nectar's,Burlington,VT,USA,","
+1988-06-19,1988,0,7,1,1,0,0,9,1988 Tour,1988,Big Leg Emma,Big Leg Emma,0,Nectar's,Burlington,VT,USA,","
+1988-06-19,1988,0,8,4,1,0,0,2,1988 Tour,1988,You Enjoy Myself,YEM,1,Nectar's,Burlington,VT,USA,
+1988-06-19,1988,0,9,1,2,0,0,2,1988 Tour,1988,Good Times Bad Times,GTBT,0,Nectar's,Burlington,VT,USA,","
+1988-06-19,1988,0,10,1,2,0,0,8,1988 Tour,1988,Cities,Cities,0,Nectar's,Burlington,VT,USA,","
+1988-06-19,1988,0,11,2,2,0,0,2,1988 Tour,1988,Alumni Blues,Alumni,1,Nectar's,Burlington,VT,USA,>
+1988-06-19,1988,0,12,2,2,0,0,2,1988 Tour,1988,Letter to Jimmy Page,LTJP,1,Nectar's,Burlington,VT,USA,>
+1988-06-19,1988,0,13,1,2,0,0,0,1988 Tour,1988,Alumni Blues,Alumni,1,Nectar's,Burlington,VT,USA,","
+1988-06-19,1988,0,14,1,2,0,0,6,1988 Tour,1988,Big Black Furry Creature from Mars,BBFCFM,1,Nectar's,Burlington,VT,USA,","
+1988-06-19,1988,0,15,1,2,0,0,65,1988 Tour,1988,"Swing Low, Sweet Chariot","Swing Low, Sweet Chariot",0,Nectar's,Burlington,VT,USA,","
+1988-06-19,1988,0,16,1,2,0,0,2,1988 Tour,1988,Contact,Contact,1,Nectar's,Burlington,VT,USA,","
+1988-06-19,1988,0,17,4,2,0,0,6,1988 Tour,1988,Run Like an Antelope,Antelope,1,Nectar's,Burlington,VT,USA,
+1988-06-19,1988,0,18,2,3,0,0,6,1988 Tour,1988,I Know a Little,I Know a Little,0,Nectar's,Burlington,VT,USA,>
+1988-06-19,1988,0,19,1,3,0,0,63,1988 Tour,1988,Mike's Song,Mike's,1,Nectar's,Burlington,VT,USA,","
+1988-06-19,1988,0,20,1,3,0,0,6,1988 Tour,1988,Corinna,Corinna,0,Nectar's,Burlington,VT,USA,","
+1988-06-19,1988,0,21,1,3,0,0,2,1988 Tour,1988,Rocky Top,Rocky Top,0,Nectar's,Burlington,VT,USA,","
+1988-06-19,1988,0,22,5,3,0,0,2,1988 Tour,1988,McGrupp and the Watchful Hosemasters,McGrupp,1,Nectar's,Burlington,VT,USA,
+1988-06-19,1988,0,23,6,e,0,0,6,1988 Tour,1988,Jesus Just Left Chicago,JJLC,0,Nectar's,Burlington,VT,USA,
+1988-06-20,1988,0,1,1,1,0,0,32,1988 Tour,1988,Slave to the Traffic Light,Slave,1,Nectar's,Burlington,VT,USA,","
+1988-06-20,1988,0,2,1,1,0,0,7,1988 Tour,1988,Peaches en Regalia,Peaches,0,Nectar's,Burlington,VT,USA,","
+1988-06-20,1988,0,3,1,1,0,0,1,1988 Tour,1988,You Enjoy Myself,YEM,1,Nectar's,Burlington,VT,USA,","
+1988-06-20,1988,0,4,1,1,0,0,3,1988 Tour,1988,Fluffhead,Fluffhead,1,Nectar's,Burlington,VT,USA,","
+1988-06-20,1988,0,5,2,1,0,0,3,1988 Tour,1988,AC/DC Bag,Bag,1,Nectar's,Burlington,VT,USA,>
+1988-06-20,1988,0,6,4,1,0,0,3,1988 Tour,1988,The Lizards,Lizards,1,Nectar's,Burlington,VT,USA,
+1988-06-20,1988,0,7,3,2,0,0,7,1988 Tour,1988,Halley's Comet,Halley's,1,Nectar's,Burlington,VT,USA,->
+1988-06-20,1988,0,8,1,2,0,0,3,1988 Tour,1988,Wilson,Wilson,1,Nectar's,Burlington,VT,USA,","
+1988-06-20,1988,0,9,3,2,0,0,7,1988 Tour,1988,Ya Mar,Ya Mar,0,Nectar's,Burlington,VT,USA,->
+1988-06-20,1988,0,10,1,2,0,0,7,1988 Tour,1988,Jam,Jam,0,Nectar's,Burlington,VT,USA,","
+1988-06-20,1988,0,11,4,2,0,0,3,1988 Tour,1988,I Didn't Know,IDK,1,Nectar's,Burlington,VT,USA,
+1988-06-20,1988,0,12,1,3,0,0,7,1988 Tour,1988,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Nectar's,Burlington,VT,USA,","
+1988-06-20,1988,0,13,1,3,0,0,9,1988 Tour,1988,Tela,Tela,1,Nectar's,Burlington,VT,USA,","
+1988-06-20,1988,0,14,1,3,0,0,3,1988 Tour,1988,Fee,Fee,1,Nectar's,Burlington,VT,USA,","
+1988-06-20,1988,0,15,1,3,0,0,1,1988 Tour,1988,Golgi Apparatus,Golgi,1,Nectar's,Burlington,VT,USA,","
+1988-06-20,1988,0,16,2,3,0,0,143,1988 Tour,1988,Satin Doll,Satin Doll,0,Nectar's,Burlington,VT,USA,>
+1988-06-20,1988,0,17,2,3,0,0,3,1988 Tour,1988,Take the 'A' Train,'A' Train,0,Nectar's,Burlington,VT,USA,>
+1988-06-20,1988,0,18,1,3,0,0,1,1988 Tour,1988,Possum,Possum,1,Nectar's,Burlington,VT,USA,","
+1988-06-20,1988,0,19,1,3,0,0,22,1988 Tour,1988,The Ballad of Curtis Loew,Curtis Loew,0,Nectar's,Burlington,VT,USA,","
+1988-06-20,1988,0,20,6,3,0,0,21,1988 Tour,1988,David Bowie,Bowie,1,Nectar's,Burlington,VT,USA,
+1988-06-21,1988,0,1,1,1,0,0,1,1988 Tour,1988,Fluffhead,Fluffhead,1,Nectar's,Burlington,VT,USA,","
+1988-06-21,1988,0,2,1,1,0,0,2,1988 Tour,1988,Rocky Top,Rocky Top,0,Nectar's,Burlington,VT,USA,","
+1988-06-21,1988,0,3,1,1,0,0,37,1988 Tour,1988,Mustang Sally,Mustang Sally,0,Nectar's,Burlington,VT,USA,","
+1988-06-21,1988,0,4,2,1,0,0,2,1988 Tour,1988,Suzy Greenberg,Suzy,1,Nectar's,Burlington,VT,USA,>
+1988-06-21,1988,0,5,2,1,0,0,35,1988 Tour,1988,The Curtain,Curtain,1,Nectar's,Burlington,VT,USA,>
+1988-06-21,1988,0,6,1,1,0,0,1,1988 Tour,1988,The Lizards,Lizards,1,Nectar's,Burlington,VT,USA,","
+1988-06-21,1988,0,7,1,1,0,0,23,1988 Tour,1988,Fly Famous Mockingbird,Mockingbird,1,Nectar's,Burlington,VT,USA,","
+1988-06-21,1988,0,8,4,1,0,0,8,1988 Tour,1988,Fire,Fire,0,Nectar's,Burlington,VT,USA,
+1988-06-21,1988,0,9,1,2,0,0,1,1988 Tour,1988,AC/DC Bag,Bag,1,Nectar's,Burlington,VT,USA,","
+1988-06-21,1988,0,10,1,2,0,0,12,1988 Tour,1988,Flat Fee,Flat Fee,1,Nectar's,Burlington,VT,USA,","
+1988-06-21,1988,0,11,2,2,0,0,2,1988 Tour,1988,Alumni Blues,Alumni,1,Nectar's,Burlington,VT,USA,>
+1988-06-21,1988,0,12,2,2,0,0,2,1988 Tour,1988,Letter to Jimmy Page,LTJP,1,Nectar's,Burlington,VT,USA,>
+1988-06-21,1988,0,13,1,2,0,0,0,1988 Tour,1988,Alumni Blues,Alumni,1,Nectar's,Burlington,VT,USA,","
+1988-06-21,1988,0,14,1,2,0,0,2,1988 Tour,1988,Jesus Just Left Chicago,JJLC,0,Nectar's,Burlington,VT,USA,","
+1988-06-21,1988,0,15,1,2,0,0,2,1988 Tour,1988,Good Times Bad Times,GTBT,0,Nectar's,Burlington,VT,USA,","
+1988-06-21,1988,0,16,1,2,0,0,2,1988 Tour,1988,Contact,Contact,1,Nectar's,Burlington,VT,USA,","
+1988-06-21,1988,0,17,1,2,0,0,1,1988 Tour,1988,Peaches en Regalia,Peaches,0,Nectar's,Burlington,VT,USA,","
+1988-06-21,1988,0,18,4,2,0,0,1,1988 Tour,1988,Golgi Apparatus,Golgi,1,Nectar's,Burlington,VT,USA,
+1988-06-21,1988,0,19,1,3,0,0,8,1988 Tour,1988,Harpua,Harpua,1,Nectar's,Burlington,VT,USA,","
+1988-06-21,1988,0,20,2,3,0,0,1,1988 Tour,1988,I Didn't Know,IDK,1,Nectar's,Burlington,VT,USA,>
+1988-06-21,1988,0,21,6,3,0,0,4,1988 Tour,1988,Whipping Post,Whipping Post,0,Nectar's,Burlington,VT,USA,
+1988-06-24,1988,0,1,1,1,0,0,146,1988 Tour,1988,On Your Way Down,On Your Way Down,0,Halverson's,Burlington,VT,USA,","
+1988-06-24,1988,0,2,1,1,0,0,2,1988 Tour,1988,Golgi Apparatus,Golgi,1,Halverson's,Burlington,VT,USA,","
+1988-06-24,1988,0,3,1,1,0,0,3,1988 Tour,1988,Fee,Fee,1,Halverson's,Burlington,VT,USA,","
+1988-06-24,1988,0,4,1,1,0,0,3,1988 Tour,1988,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Halverson's,Burlington,VT,USA,","
+1988-06-24,1988,0,5,1,1,0,0,3,1988 Tour,1988,You Enjoy Myself,YEM,1,Halverson's,Burlington,VT,USA,","
+1988-06-24,1988,0,6,1,1,0,0,3,1988 Tour,1988,The Ballad of Curtis Loew,Curtis Loew,0,Halverson's,Burlington,VT,USA,","
+1988-06-24,1988,0,7,6,1,0,0,2,1988 Tour,1988,Fluffhead,Fluffhead,1,Halverson's,Burlington,VT,USA,
+1988-07-07,1988,0,1,1,1,0,0,4,1988 Tour,1988,AC/DC Bag,Bag,1,The Front,Burlington,VT,USA,","
+1988-07-07,1988,0,2,2,1,0,0,2,1988 Tour,1988,You Enjoy Myself,YEM,1,The Front,Burlington,VT,USA,>
+1988-07-07,1988,0,3,1,1,0,0,6,1988 Tour,1988,La Grange,La Grange,0,The Front,Burlington,VT,USA,","
+1988-07-07,1988,0,4,1,1,0,0,16,1988 Tour,1988,Shaggy Dog,Shaggy Dog,0,The Front,Burlington,VT,USA,","
+1988-07-07,1988,0,5,1,1,0,0,2,1988 Tour,1988,Golgi Apparatus,Golgi,1,The Front,Burlington,VT,USA,","
+1988-07-07,1988,0,6,1,1,0,0,4,1988 Tour,1988,I Didn't Know,IDK,1,The Front,Burlington,VT,USA,","
+1988-07-07,1988,0,7,1,1,0,0,0,1988 Tour,1988,Sweet Georgia Brown,Sweet Georgia Brown,0,The Front,Burlington,VT,USA,","
+1988-07-07,1988,0,8,4,1,0,0,144,1988 Tour,1988,Bold As Love,Bold As Love,0,The Front,Burlington,VT,USA,
+1988-07-07,1988,0,9,2,2,0,0,27,1988 Tour,1988,Colonel Forbin's Ascent,Forbin's,1,The Front,Burlington,VT,USA,>
+1988-07-07,1988,0,10,1,2,0,0,4,1988 Tour,1988,Fly Famous Mockingbird,Mockingbird,1,The Front,Burlington,VT,USA,","
+1988-07-07,1988,0,11,1,2,0,0,4,1988 Tour,1988,Suzy Greenberg,Suzy,1,The Front,Burlington,VT,USA,","
+1988-07-07,1988,0,12,6,2,0,0,4,1988 Tour,1988,Good Times Bad Times,GTBT,0,The Front,Burlington,VT,USA,
+1988-07-11,1988,0,1,1,1,0,0,7,1988 Tour,1988,Satin Doll,Satin Doll,0,Sam's Tavern,Burlington,VT,USA,","
+1988-07-11,1988,0,2,1,1,0,0,2,1988 Tour,1988,Suzy Greenberg,Suzy,1,Sam's Tavern,Burlington,VT,USA,","
+1988-07-11,1988,0,3,1,1,0,0,8,1988 Tour,1988,The Curtain With,Curtain With,1,Sam's Tavern,Burlington,VT,USA,","
+1988-07-11,1988,0,4,1,1,0,0,8,1988 Tour,1988,Funky Bitch,Funky Bitch,0,Sam's Tavern,Burlington,VT,USA,","
+1988-07-11,1988,0,5,1,1,0,0,6,1988 Tour,1988,Fire,Fire,0,Sam's Tavern,Burlington,VT,USA,","
+1988-07-11,1988,0,6,1,1,0,0,2,1988 Tour,1988,Bold As Love,Bold As Love,0,Sam's Tavern,Burlington,VT,USA,","
+1988-07-11,1988,0,7,2,1,0,0,2,1988 Tour,1988,Colonel Forbin's Ascent,Forbin's,1,Sam's Tavern,Burlington,VT,USA,>
+1988-07-11,1988,0,8,1,1,0,0,2,1988 Tour,1988,Fly Famous Mockingbird,Mockingbird,1,Sam's Tavern,Burlington,VT,USA,","
+1988-07-11,1988,0,9,1,1,0,0,2,1988 Tour,1988,Golgi Apparatus,Golgi,1,Sam's Tavern,Burlington,VT,USA,","
+1988-07-11,1988,0,10,2,1,0,0,6,1988 Tour,1988,Alumni Blues,Alumni,1,Sam's Tavern,Burlington,VT,USA,>
+1988-07-11,1988,0,11,2,1,0,0,6,1988 Tour,1988,Letter to Jimmy Page,LTJP,1,Sam's Tavern,Burlington,VT,USA,>
+1988-07-11,1988,0,12,5,1,0,0,0,1988 Tour,1988,Alumni Blues,Alumni,1,Sam's Tavern,Burlington,VT,USA,
+1988-07-11,1988,0,13,2,e,0,0,8,1988 Tour,1988,McGrupp and the Watchful Hosemasters,McGrupp,1,Sam's Tavern,Burlington,VT,USA,>
+1988-07-11,1988,0,14,6,e,0,0,2,1988 Tour,1988,La Grange,La Grange,0,Sam's Tavern,Burlington,VT,USA,
+1988-07-12,1988,0,1,1,1,2,0,9,1988 Tour,1988,Cities,Cities,0,Sam's Tavern,Burlington,VT,USA,","
+1988-07-12,1988,0,2,1,1,2,0,7,1988 Tour,1988,The Lizards,Lizards,1,Sam's Tavern,Burlington,VT,USA,","
+1988-07-12,1988,0,3,1,1,2,0,5,1988 Tour,1988,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Sam's Tavern,Burlington,VT,USA,","
+1988-07-12,1988,0,4,1,1,2,0,3,1988 Tour,1988,Good Times Bad Times,GTBT,0,Sam's Tavern,Burlington,VT,USA,","
+1988-07-12,1988,0,5,2,1,2,0,17,1988 Tour,1988,Happy Birthday to You,Happy Birthday,0,Sam's Tavern,Burlington,VT,USA,>
+1988-07-12,1988,0,6,1,1,2,0,7,1988 Tour,1988,Peaches en Regalia,Peaches,0,Sam's Tavern,Burlington,VT,USA,","
+1988-07-12,1988,0,7,1,1,2,0,3,1988 Tour,1988,You Enjoy Myself,YEM,1,Sam's Tavern,Burlington,VT,USA,","
+1988-07-12,1988,0,8,4,1,2,0,3,1988 Tour,1988,I Didn't Know,IDK,1,Sam's Tavern,Burlington,VT,USA,
+1988-07-12,1988,0,9,1,2,2,0,149,1988 Tour,1988,Blue Bossa,Blue Bossa,0,Sam's Tavern,Burlington,VT,USA,","
+1988-07-12,1988,0,10,2,2,2,0,8,1988 Tour,1988,Take the 'A' Train,'A' Train,0,Sam's Tavern,Burlington,VT,USA,>
+1988-07-12,1988,0,11,1,2,2,0,11,1988 Tour,1988,Timber (Jerry the Mule),Timber Ho,0,Sam's Tavern,Burlington,VT,USA,","
+1988-07-12,1988,0,12,2,2,2,0,5,1988 Tour,1988,Fluffhead,Fluffhead,1,Sam's Tavern,Burlington,VT,USA,>
+1988-07-12,1988,0,13,1,2,2,0,7,1988 Tour,1988,Jesus Just Left Chicago,JJLC,0,Sam's Tavern,Burlington,VT,USA,","
+1988-07-12,1988,0,14,1,2,2,0,43,1988 Tour,1988,Makisupa Policeman,Makisupa,1,Sam's Tavern,Burlington,VT,USA,","
+1988-07-12,1988,0,15,1,2,2,0,8,1988 Tour,1988,Slave to the Traffic Light,Slave,1,Sam's Tavern,Burlington,VT,USA,","
+1988-07-12,1988,0,16,2,2,2,0,3,1988 Tour,1988,AC/DC Bag,Bag,1,Sam's Tavern,Burlington,VT,USA,>
+1988-07-12,1988,0,17,6,2,2,0,103,1988 Tour,1988,Roll Like a Cantaloupe,Roll Like a Cantaloupe,1,Sam's Tavern,Burlington,VT,USA,
+1988-07-23,1988,0,1,1,1,2,0,9,1988 Tour,1988,Jam,Jam,0,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
+1988-07-23,1988,0,2,2,1,2,0,2,1988 Tour,1988,Colonel Forbin's Ascent,Forbin's,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,>
+1988-07-23,1988,0,3,1,1,2,0,2,1988 Tour,1988,Fly Famous Mockingbird,Mockingbird,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
+1988-07-23,1988,0,4,2,1,2,0,10,1988 Tour,1988,Mike's Song,Mike's,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,>
+1988-07-23,1988,0,5,2,1,2,0,59,1988 Tour,1988,I Am Hydrogen,Hydrogen,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,>
+1988-07-23,1988,0,6,1,1,2,0,148,1988 Tour,1988,Weekapaug Groove,Weekapaug,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
+1988-07-23,1988,0,7,1,1,2,0,1,1988 Tour,1988,The Lizards,Lizards,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
+1988-07-23,1988,0,8,1,1,2,0,6,1988 Tour,1988,On Your Way Down,On Your Way Down,0,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
+1988-07-23,1988,0,9,2,1,2,0,1,1988 Tour,1988,AC/DC Bag,Bag,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,>
+1988-07-23,1988,0,10,1,1,2,0,9,1988 Tour,1988,Possum,Possum,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
+1988-07-23,1988,0,11,1,1,2,0,152,1988 Tour,1988,Walk Away,Walk Away,0,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
+1988-07-23,1988,0,12,1,1,2,0,2,1988 Tour,1988,Bold As Love,Bold As Love,0,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
+1988-07-23,1988,0,13,1,1,2,0,152,1988 Tour,1988,No Dogs Allowed,No Dogs Allowed,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
+1988-07-23,1988,0,14,1,1,2,0,12,1988 Tour,1988,The Sloth,Sloth,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
+1988-07-23,1988,0,15,4,1,2,0,2,1988 Tour,1988,Fire,Fire,0,Pete's Phabulous Phish Phest,Underhill,VT,USA,
+1988-07-23,1988,0,16,3,2,2,0,2,1988 Tour,1988,The Curtain With,Curtain With,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,->
+1988-07-23,1988,0,17,3,2,2,0,66,1988 Tour,1988,Dave's Energy Guide,DEG,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,->
+1988-07-23,1988,0,18,1,2,2,0,0,1988 Tour,1988,The Curtain With,Curtain With,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
+1988-07-23,1988,0,19,1,2,2,0,9,1988 Tour,1988,Wilson,Wilson,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
+1988-07-23,1988,0,20,1,2,2,0,69,1988 Tour,1988,Terrapin,Terrapin,0,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
+1988-07-23,1988,0,21,1,2,2,0,10,1988 Tour,1988,Run Like an Antelope,Antelope,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
+1988-07-23,1988,0,22,1,2,2,0,2,1988 Tour,1988,Satin Doll,Satin Doll,0,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
+1988-07-23,1988,0,23,1,2,2,0,1,1988 Tour,1988,Blue Bossa,Blue Bossa,0,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
+1988-07-23,1988,0,24,1,2,2,0,2,1988 Tour,1988,La Grange,La Grange,0,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
+1988-07-23,1988,0,25,2,2,2,0,2,1988 Tour,1988,Alumni Blues,Alumni,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,>
+1988-07-23,1988,0,26,2,2,2,0,2,1988 Tour,1988,Letter to Jimmy Page,LTJP,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,>
+1988-07-23,1988,0,27,1,2,2,0,0,1988 Tour,1988,Alumni Blues,Alumni,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
+1988-07-23,1988,0,28,4,2,2,0,1,1988 Tour,1988,Peaches en Regalia,Peaches,0,Pete's Phabulous Phish Phest,Underhill,VT,USA,
+1988-07-23,1988,0,29,1,3,2,0,1,1988 Tour,1988,You Enjoy Myself,YEM,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
+1988-07-23,1988,0,30,1,3,2,0,8,1988 Tour,1988,Contact,Contact,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
+1988-07-23,1988,0,31,1,3,2,0,41,1988 Tour,1988,Harry Hood,Hood,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
+1988-07-23,1988,0,32,1,3,2,0,12,1988 Tour,1988,Dinner and a Movie,Dinner and a Movie,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
+1988-07-23,1988,0,33,1,3,2,0,1,1988 Tour,1988,Slave to the Traffic Light,Slave,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
+1988-07-23,1988,0,34,1,3,2,0,6,1988 Tour,1988,The Ballad of Curtis Loew,Curtis Loew,0,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
+1988-07-23,1988,0,35,6,3,2,0,1,1988 Tour,1988,Good Times Bad Times,GTBT,0,Pete's Phabulous Phish Phest,Underhill,VT,USA,
+1988-07-24,1988,0,1,1,1,0,0,1,1988 Tour,1988,Walk Away,Walk Away,0,Nectar's,Burlington,VT,USA,","
+1988-07-24,1988,0,2,1,1,0,0,3,1988 Tour,1988,Golgi Apparatus,Golgi,1,Nectar's,Burlington,VT,USA,","
+1988-07-24,1988,0,3,1,1,0,0,3,1988 Tour,1988,Funky Bitch,Funky Bitch,0,Nectar's,Burlington,VT,USA,","
+1988-07-24,1988,0,4,2,1,0,0,1,1988 Tour,1988,Colonel Forbin's Ascent,Forbin's,1,Nectar's,Burlington,VT,USA,>
+1988-07-24,1988,0,5,1,1,0,0,1,1988 Tour,1988,Fly Famous Mockingbird,Mockingbird,1,Nectar's,Burlington,VT,USA,","
+1988-07-24,1988,0,6,1,1,0,0,2,1988 Tour,1988,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Nectar's,Burlington,VT,USA,","
+1988-07-24,1988,0,7,2,1,0,0,1,1988 Tour,1988,Mike's Song,Mike's,1,Nectar's,Burlington,VT,USA,>
+1988-07-24,1988,0,8,2,1,0,0,1,1988 Tour,1988,I Am Hydrogen,Hydrogen,1,Nectar's,Burlington,VT,USA,>
+1988-07-24,1988,0,9,1,1,0,0,1,1988 Tour,1988,Weekapaug Groove,Weekapaug,1,Nectar's,Burlington,VT,USA,","
+1988-07-24,1988,0,10,4,1,0,0,1,1988 Tour,1988,Bold As Love,Bold As Love,0,Nectar's,Burlington,VT,USA,
+1988-07-24,1988,0,11,1,2,0,0,18,1988 Tour,1988,Light Up Or Leave Me Alone,Light Up,0,Nectar's,Burlington,VT,USA,","
+1988-07-24,1988,0,12,1,2,0,0,2,1988 Tour,1988,Fluffhead,Fluffhead,1,Nectar's,Burlington,VT,USA,","
+1988-07-24,1988,0,13,1,2,0,0,1,1988 Tour,1988,La Grange,La Grange,0,Nectar's,Burlington,VT,USA,","
+1988-07-24,1988,0,14,1,2,0,0,1,1988 Tour,1988,The Lizards,Lizards,1,Nectar's,Burlington,VT,USA,","
+1988-07-24,1988,0,15,2,2,0,0,1,1988 Tour,1988,Alumni Blues,Alumni,1,Nectar's,Burlington,VT,USA,>
+1988-07-24,1988,0,16,2,2,0,0,1,1988 Tour,1988,Letter to Jimmy Page,LTJP,1,Nectar's,Burlington,VT,USA,>
+1988-07-24,1988,0,17,1,2,0,0,0,1988 Tour,1988,Alumni Blues,Alumni,1,Nectar's,Burlington,VT,USA,","
+1988-07-24,1988,0,18,1,2,0,0,1,1988 Tour,1988,On Your Way Down,On Your Way Down,0,Nectar's,Burlington,VT,USA,","
+1988-07-24,1988,0,19,1,2,0,0,2,1988 Tour,1988,Cities,Cities,0,Nectar's,Burlington,VT,USA,","
+1988-07-24,1988,0,20,4,2,0,0,10,1988 Tour,1988,David Bowie,Bowie,1,Nectar's,Burlington,VT,USA,
+1988-07-24,1988,0,21,2,3,0,0,45,1988 Tour,1988,The Man Who Stepped Into Yesterday,TMWSIY,1,Nectar's,Burlington,VT,USA,>
+1988-07-24,1988,0,22,2,3,0,0,45,1988 Tour,1988,Avenu Malkenu,Avenu Malkenu,0,Nectar's,Burlington,VT,USA,>
+1988-07-24,1988,0,23,1,3,0,0,1,1988 Tour,1988,Peaches en Regalia,Peaches,0,Nectar's,Burlington,VT,USA,","
+1988-07-24,1988,0,24,1,3,0,0,2,1988 Tour,1988,Jesus Just Left Chicago,JJLC,0,Nectar's,Burlington,VT,USA,","
+1988-07-24,1988,0,25,3,3,0,0,3,1988 Tour,1988,McGrupp and the Watchful Hosemasters,McGrupp,1,Nectar's,Burlington,VT,USA,->
+1988-07-24,1988,0,26,6,3,0,0,1,1988 Tour,1988,Run Like an Antelope,Antelope,1,Nectar's,Burlington,VT,USA,
+1988-07-25,1988,0,1,2,1,0,0,1,1988 Tour,1988,Mike's Song,Mike's,1,Nectar's,Burlington,VT,USA,>
+1988-07-25,1988,0,2,2,1,0,0,1,1988 Tour,1988,I Am Hydrogen,Hydrogen,1,Nectar's,Burlington,VT,USA,>
+1988-07-25,1988,0,3,1,1,0,0,1,1988 Tour,1988,Weekapaug Groove,Weekapaug,1,Nectar's,Burlington,VT,USA,","
+1988-07-25,1988,0,4,1,1,0,0,1,1988 Tour,1988,Bold As Love,Bold As Love,0,Nectar's,Burlington,VT,USA,","
+1988-07-25,1988,0,5,1,1,0,0,1,1988 Tour,1988,Light Up Or Leave Me Alone,Light Up,0,Nectar's,Burlington,VT,USA,","
+1988-07-25,1988,0,6,4,1,0,0,1,1988 Tour,1988,Fluffhead,Fluffhead,1,Nectar's,Burlington,VT,USA,
+1988-07-25,1988,0,7,1,2,0,0,48,1988 Tour,1988,Skin It Back,Skin It Back,0,Nectar's,Burlington,VT,USA,","
+1988-07-25,1988,0,8,1,2,0,0,10,1988 Tour,1988,Harpua,Harpua,1,Nectar's,Burlington,VT,USA,","
+1988-07-25,1988,0,9,1,2,0,0,12,1988 Tour,1988,Big Black Furry Creature from Mars,BBFCFM,1,Nectar's,Burlington,VT,USA,","
+1988-07-25,1988,0,10,5,2,0,0,47,1988 Tour,1988,Sanity,Sanity,1,Nectar's,Burlington,VT,USA,
+1988-07-25,1988,0,11,1,e,0,0,21,1988 Tour,1988,Icculus,Icculus,1,Nectar's,Burlington,VT,USA,","
+1988-07-25,1988,0,12,6,e,0,0,53,1988 Tour,1988,Camel Walk,Camel Walk,1,Nectar's,Burlington,VT,USA,
+1988-07-28,1988,0,1,1,2,0,0,1,1988 Tour,1988,Fluffhead,Fluffhead,1,The Roma,Telluride,CO,USA,","
+1988-07-28,1988,0,2,1,2,0,0,2,1988 Tour,1988,La Grange,La Grange,0,The Roma,Telluride,CO,USA,","
+1988-07-28,1988,0,3,1,2,0,0,2,1988 Tour,1988,The Lizards,Lizards,1,The Roma,Telluride,CO,USA,","
+1988-07-28,1988,0,4,1,2,0,0,4,1988 Tour,1988,Take the 'A' Train,'A' Train,0,The Roma,Telluride,CO,USA,","
+1988-07-28,1988,0,5,2,2,0,0,13,1988 Tour,1988,Corinna,Corinna,0,The Roma,Telluride,CO,USA,>
+1988-07-28,1988,0,6,1,2,0,0,2,1988 Tour,1988,David Bowie,Bowie,1,The Roma,Telluride,CO,USA,","
+1988-07-28,1988,0,7,1,2,0,0,9,1988 Tour,1988,Fee,Fee,1,The Roma,Telluride,CO,USA,","
+1988-07-28,1988,0,8,6,2,0,0,1,1988 Tour,1988,Big Black Furry Creature from Mars,BBFCFM,1,The Roma,Telluride,CO,USA,
+1988-07-29,1988,0,1,1,1,0,0,4,1988 Tour,1988,You Enjoy Myself,YEM,1,The Roma,Telluride,CO,USA,","
+1988-07-29,1988,0,2,1,1,0,0,4,1988 Tour,1988,Satin Doll,Satin Doll,0,The Roma,Telluride,CO,USA,","
+1988-07-29,1988,0,3,1,1,0,0,3,1988 Tour,1988,Walk Away,Walk Away,0,The Roma,Telluride,CO,USA,","
+1988-07-29,1988,0,4,1,1,0,0,3,1988 Tour,1988,Sneakin' Sally Through the Alley,Sneakin' Sally,0,The Roma,Telluride,CO,USA,","
+1988-07-29,1988,0,5,1,1,0,0,4,1988 Tour,1988,The Curtain With,Curtain With,1,The Roma,Telluride,CO,USA,","
+1988-07-29,1988,0,6,4,1,0,0,4,1988 Tour,1988,Fire,Fire,0,The Roma,Telluride,CO,USA,
+1988-07-29,1988,0,7,1,2,0,0,6,1988 Tour,1988,Suzy Greenberg,Suzy,1,The Roma,Telluride,CO,USA,","
+1988-07-29,1988,0,8,1,2,0,0,2,1988 Tour,1988,Skin It Back,Skin It Back,0,The Roma,Telluride,CO,USA,","
+1988-07-29,1988,0,9,1,2,0,0,3,1988 Tour,1988,Jesus Just Left Chicago,JJLC,0,The Roma,Telluride,CO,USA,","
+1988-07-29,1988,0,10,1,2,0,0,4,1988 Tour,1988,Dinner and a Movie,Dinner and a Movie,1,The Roma,Telluride,CO,USA,","
+1988-07-29,1988,0,11,1,2,0,0,4,1988 Tour,1988,The Sloth,Sloth,1,The Roma,Telluride,CO,USA,","
+1988-07-29,1988,0,12,1,2,0,0,2,1988 Tour,1988,Icculus,Icculus,1,The Roma,Telluride,CO,USA,","
+1988-07-29,1988,0,13,2,2,0,0,3,1988 Tour,1988,Colonel Forbin's Ascent,Forbin's,1,The Roma,Telluride,CO,USA,>
+1988-07-29,1988,0,14,1,2,0,0,3,1988 Tour,1988,Fly Famous Mockingbird,Mockingbird,1,The Roma,Telluride,CO,USA,","
+1988-07-29,1988,0,15,1,2,0,0,5,1988 Tour,1988,I Didn't Know,IDK,1,The Roma,Telluride,CO,USA,","
+1988-07-29,1988,0,16,4,2,0,0,4,1988 Tour,1988,Good Times Bad Times,GTBT,0,The Roma,Telluride,CO,USA,
+1988-07-29,1988,0,17,1,3,0,0,12,1988 Tour,1988,Rocky Top,Rocky Top,0,The Roma,Telluride,CO,USA,","
+1988-07-29,1988,0,18,1,3,0,0,2,1988 Tour,1988,Light Up Or Leave Me Alone,Light Up,0,The Roma,Telluride,CO,USA,","
+1988-07-29,1988,0,19,1,3,0,0,4,1988 Tour,1988,Contact,Contact,1,The Roma,Telluride,CO,USA,","
+1988-07-29,1988,0,20,1,3,0,0,12,1988 Tour,1988,Whipping Post,Whipping Post,0,The Roma,Telluride,CO,USA,","
+1988-07-29,1988,0,21,1,3,0,0,4,1988 Tour,1988,The Ballad of Curtis Loew,Curtis Loew,0,The Roma,Telluride,CO,USA,","
+1988-07-29,1988,0,22,1,3,0,0,1,1988 Tour,1988,Take the 'A' Train,'A' Train,0,The Roma,Telluride,CO,USA,","
+1988-07-29,1988,0,23,1,3,0,0,3,1988 Tour,1988,McGrupp and the Watchful Hosemasters,McGrupp,1,The Roma,Telluride,CO,USA,","
+1988-07-29,1988,0,24,6,3,0,0,2,1988 Tour,1988,Bold As Love,Bold As Love,0,The Roma,Telluride,CO,USA,
+1988-07-30,1988,0,1,1,1,0,0,119,1988 Tour,1988,All Blues,All Blues,0,The Roma,Telluride,CO,USA,","
+1988-07-30,1988,0,2,4,1,0,0,157,1988 Tour,1988,Mr. P.C.,Mr. P.C.,0,The Roma,Telluride,CO,USA,
+1988-07-30,1988,0,3,1,2,0,0,4,1988 Tour,1988,Funky Bitch,Funky Bitch,0,The Roma,Telluride,CO,USA,","
+1988-07-30,1988,0,4,1,2,0,0,1,1988 Tour,1988,Suzy Greenberg,Suzy,1,The Roma,Telluride,CO,USA,","
+1988-07-30,1988,0,5,1,2,0,0,80,1988 Tour,1988,She Caught the Katy and Left Me a Mule to Ride,She Caught the Katy,0,The Roma,Telluride,CO,USA,","
+1988-07-30,1988,0,6,1,2,0,0,1,1988 Tour,1988,Contact,Contact,1,The Roma,Telluride,CO,USA,","
+1988-07-30,1988,0,7,1,2,0,0,155,1988 Tour,1988,Maiden Voyage,Maiden Voyage,0,The Roma,Telluride,CO,USA,","
+1988-07-30,1988,0,8,4,2,0,0,2,1988 Tour,1988,Corinna,Corinna,0,The Roma,Telluride,CO,USA,
+1988-07-30,1988,0,9,1,3,0,0,2,1988 Tour,1988,La Grange,La Grange,0,The Roma,Telluride,CO,USA,","
+1988-07-30,1988,0,10,1,3,0,0,4,1988 Tour,1988,On Your Way Down,On Your Way Down,0,The Roma,Telluride,CO,USA,","
+1988-07-30,1988,0,11,1,3,0,0,5,1988 Tour,1988,Slave to the Traffic Light,Slave,1,The Roma,Telluride,CO,USA,","
+1988-07-30,1988,0,12,1,3,0,0,6,1988 Tour,1988,Timber (Jerry the Mule),Timber Ho,0,The Roma,Telluride,CO,USA,","
+1988-07-30,1988,0,13,2,3,0,0,1,1988 Tour,1988,Walk Away,Walk Away,0,The Roma,Telluride,CO,USA,>
+1988-07-30,1988,0,14,1,3,0,0,5,1988 Tour,1988,Possum,Possum,1,The Roma,Telluride,CO,USA,","
+1988-07-30,1988,0,15,1,3,0,0,1,1988 Tour,1988,Sneakin' Sally Through the Alley,Sneakin' Sally,0,The Roma,Telluride,CO,USA,","
+1988-07-30,1988,0,16,4,3,0,0,3,1988 Tour,1988,Harpua,Harpua,1,The Roma,Telluride,CO,USA,
+1988-07-30,1988,0,17,1,4,0,0,2,1988 Tour,1988,Fluffhead,Fluffhead,1,The Roma,Telluride,CO,USA,","
+1988-07-30,1988,0,18,1,4,0,0,83,1988 Tour,1988,Anarchy,Anarchy,1,The Roma,Telluride,CO,USA,","
+1988-07-30,1988,0,19,1,4,0,0,17,1988 Tour,1988,Dear Mrs. Reagan,Dear Mrs. Reagan,1,The Roma,Telluride,CO,USA,","
+1988-07-30,1988,0,20,1,4,0,0,5,1988 Tour,1988,Terrapin,Terrapin,0,The Roma,Telluride,CO,USA,","
+1988-07-30,1988,0,21,5,4,0,0,4,1988 Tour,1988,Run Like an Antelope,Antelope,1,The Roma,Telluride,CO,USA,
+1988-07-30,1988,0,22,6,e,0,0,1,1988 Tour,1988,Fire,Fire,0,The Roma,Telluride,CO,USA,
+1988-08-03,1988,0,1,1,1,0,0,1,1988 Tour,1988,Possum,Possum,1,Fly Me to the Moon Saloon,Telluride,CO,USA,","
+1988-08-03,1988,0,2,1,1,0,0,1,1988 Tour,1988,On Your Way Down,On Your Way Down,0,Fly Me to the Moon Saloon,Telluride,CO,USA,","
+1988-08-03,1988,0,3,1,1,0,0,1,1988 Tour,1988,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Fly Me to the Moon Saloon,Telluride,CO,USA,","
+1988-08-03,1988,0,4,2,1,0,0,2,1988 Tour,1988,Colonel Forbin's Ascent,Forbin's,1,Fly Me to the Moon Saloon,Telluride,CO,USA,>
+1988-08-03,1988,0,5,1,1,0,0,2,1988 Tour,1988,Fly Famous Mockingbird,Mockingbird,1,Fly Me to the Moon Saloon,Telluride,CO,USA,","
+1988-08-03,1988,0,6,4,1,0,0,2,1988 Tour,1988,Good Times Bad Times,GTBT,0,Fly Me to the Moon Saloon,Telluride,CO,USA,
+1988-08-03,1988,0,7,2,2,0,0,1,1988 Tour,1988,Suzy Greenberg,Suzy,1,Fly Me to the Moon Saloon,Telluride,CO,USA,>
+1988-08-03,1988,0,8,1,2,0,0,2,1988 Tour,1988,Light Up Or Leave Me Alone,Light Up,0,Fly Me to the Moon Saloon,Telluride,CO,USA,","
+1988-08-03,1988,0,9,2,2,0,0,3,1988 Tour,1988,Fee,Fee,1,Fly Me to the Moon Saloon,Telluride,CO,USA,>
+1988-08-03,1988,0,10,1,2,0,0,1,1988 Tour,1988,La Grange,La Grange,0,Fly Me to the Moon Saloon,Telluride,CO,USA,","
+1988-08-03,1988,0,11,1,2,0,0,2,1988 Tour,1988,Take the 'A' Train,'A' Train,0,Fly Me to the Moon Saloon,Telluride,CO,USA,","
+1988-08-03,1988,0,12,1,2,0,0,2,1988 Tour,1988,Whipping Post,Whipping Post,0,Fly Me to the Moon Saloon,Telluride,CO,USA,","
+1988-08-03,1988,0,13,1,2,0,0,3,1988 Tour,1988,The Lizards,Lizards,1,Fly Me to the Moon Saloon,Telluride,CO,USA,","
+1988-08-03,1988,0,14,1,2,0,0,16,1988 Tour,1988,I Know a Little,I Know a Little,0,Fly Me to the Moon Saloon,Telluride,CO,USA,","
+1988-08-03,1988,0,15,1,2,0,0,2,1988 Tour,1988,You Enjoy Myself,YEM,1,Fly Me to the Moon Saloon,Telluride,CO,USA,","
+1988-08-03,1988,0,16,4,2,0,0,2,1988 Tour,1988,Jesus Just Left Chicago,JJLC,0,Fly Me to the Moon Saloon,Telluride,CO,USA,
+1988-08-03,1988,0,17,2,3,0,0,5,1988 Tour,1988,Peaches en Regalia,Peaches,0,Fly Me to the Moon Saloon,Telluride,CO,USA,>
+1988-08-03,1988,0,18,2,3,0,0,4,1988 Tour,1988,Mike's Song,Mike's,1,Fly Me to the Moon Saloon,Telluride,CO,USA,>
+1988-08-03,1988,0,19,1,3,0,0,4,1988 Tour,1988,I Am Hydrogen,Hydrogen,1,Fly Me to the Moon Saloon,Telluride,CO,USA,","
+1988-08-03,1988,0,20,1,3,0,0,1,1988 Tour,1988,Fluffhead,Fluffhead,1,Fly Me to the Moon Saloon,Telluride,CO,USA,","
+1988-08-03,1988,0,21,1,3,0,0,6,1988 Tour,1988,Harry Hood,Hood,1,Fly Me to the Moon Saloon,Telluride,CO,USA,","
+1988-08-03,1988,0,22,1,3,0,0,2,1988 Tour,1988,Satin Doll,Satin Doll,0,Fly Me to the Moon Saloon,Telluride,CO,USA,","
+1988-08-03,1988,0,23,1,3,0,0,1,1988 Tour,1988,Funky Bitch,Funky Bitch,0,Fly Me to the Moon Saloon,Telluride,CO,USA,","
+1988-08-03,1988,0,24,6,3,0,0,1,1988 Tour,1988,Walk Away,Walk Away,0,Fly Me to the Moon Saloon,Telluride,CO,USA,
+1988-08-04,1988,0,1,2,1,2,0,6,1988 Tour,1988,The Man Who Stepped Into Yesterday,TMWSIY,1,The Roma,Telluride,CO,USA,>
+1988-08-04,1988,0,2,2,1,2,0,6,1988 Tour,1988,Avenu Malkenu,Avenu Malkenu,0,The Roma,Telluride,CO,USA,>
+1988-08-04,1988,0,3,1,1,2,0,0,1988 Tour,1988,The Man Who Stepped Into Yesterday,TMWSIY,1,The Roma,Telluride,CO,USA,","
+1988-08-04,1988,0,4,1,1,2,0,15,1988 Tour,1988,Flat Fee,Flat Fee,1,The Roma,Telluride,CO,USA,","
+1988-08-04,1988,0,5,1,1,2,0,1,1988 Tour,1988,The Lizards,Lizards,1,The Roma,Telluride,CO,USA,","
+1988-08-04,1988,0,6,1,1,2,0,3,1988 Tour,1988,McGrupp and the Watchful Hosemasters,McGrupp,1,The Roma,Telluride,CO,USA,","
+1988-08-04,1988,0,7,2,1,2,0,6,1988 Tour,1988,Alumni Blues,Alumni,1,The Roma,Telluride,CO,USA,>
+1988-08-04,1988,0,8,2,1,2,0,6,1988 Tour,1988,Letter to Jimmy Page,LTJP,1,The Roma,Telluride,CO,USA,>
+1988-08-04,1988,0,9,1,1,2,0,0,1988 Tour,1988,Alumni Blues,Alumni,1,The Roma,Telluride,CO,USA,","
+1988-08-04,1988,0,10,1,1,2,0,3,1988 Tour,1988,The Sloth,Sloth,1,The Roma,Telluride,CO,USA,","
+1988-08-04,1988,0,11,1,1,2,0,1,1988 Tour,1988,Take the 'A' Train,'A' Train,0,The Roma,Telluride,CO,USA,","
+1988-08-04,1988,0,12,1,1,2,0,155,1988 Tour,1988,Poor Heart,Poor Heart,1,The Roma,Telluride,CO,USA,","
+1988-08-04,1988,0,13,1,1,2,0,1,1988 Tour,1988,Peaches en Regalia,Peaches,0,The Roma,Telluride,CO,USA,","
+1988-08-04,1988,0,14,4,1,2,0,4,1988 Tour,1988,David Bowie,Bowie,1,The Roma,Telluride,CO,USA,
+1988-08-04,1988,0,15,1,2,2,0,5,1988 Tour,1988,Camel Walk,Camel Walk,1,The Roma,Telluride,CO,USA,","
+1988-08-04,1988,0,16,2,2,2,0,15,1988 Tour,1988,The Curtain,Curtain,1,The Roma,Telluride,CO,USA,>
+1988-08-04,1988,0,17,1,2,2,0,7,1988 Tour,1988,Wilson,Wilson,1,The Roma,Telluride,CO,USA,","
+1988-08-04,1988,0,18,1,2,2,0,7,1988 Tour,1988,No Dogs Allowed,No Dogs Allowed,1,The Roma,Telluride,CO,USA,","
+1988-08-04,1988,0,19,1,2,2,0,74,1988 Tour,1988,Dog Log,Dog Log,1,The Roma,Telluride,CO,USA,","
+1988-08-04,1988,0,20,1,2,2,0,1,1988 Tour,1988,Suzy Greenberg,Suzy,1,The Roma,Telluride,CO,USA,","
+1988-08-04,1988,0,21,2,2,2,0,1,1988 Tour,1988,Mike's Song,Mike's,1,The Roma,Telluride,CO,USA,>
+1988-08-04,1988,0,22,2,2,2,0,1,1988 Tour,1988,I Am Hydrogen,Hydrogen,1,The Roma,Telluride,CO,USA,>
+1988-08-04,1988,0,23,1,2,2,0,5,1988 Tour,1988,Weekapaug Groove,Weekapaug,1,The Roma,Telluride,CO,USA,","
+1988-08-04,1988,0,24,1,2,2,0,1,1988 Tour,1988,Satin Doll,Satin Doll,0,The Roma,Telluride,CO,USA,","
+1988-08-04,1988,0,25,4,2,2,0,1,1988 Tour,1988,Possum,Possum,1,The Roma,Telluride,CO,USA,
+1988-08-04,1988,0,26,1,3,2,0,17,1988 Tour,1988,Big Leg Emma,Big Leg Emma,0,The Roma,Telluride,CO,USA,","
+1988-08-04,1988,0,27,2,3,2,0,1,1988 Tour,1988,Fee,Fee,1,The Roma,Telluride,CO,USA,>
+1988-08-04,1988,0,28,1,3,2,0,2,1988 Tour,1988,Run Like an Antelope,Antelope,1,The Roma,Telluride,CO,USA,","
+1988-08-04,1988,0,29,1,3,2,0,3,1988 Tour,1988,Rocky Top,Rocky Top,0,The Roma,Telluride,CO,USA,","
+1988-08-04,1988,0,30,1,3,2,0,16,1988 Tour,1988,Tela,Tela,1,The Roma,Telluride,CO,USA,","
+1988-08-04,1988,0,31,5,3,2,0,2,1988 Tour,1988,Dear Mrs. Reagan,Dear Mrs. Reagan,1,The Roma,Telluride,CO,USA,
+1988-08-04,1988,0,32,6,e,2,0,1,1988 Tour,1988,Fluffhead,Fluffhead,1,The Roma,Telluride,CO,USA,
+1988-08-05,1988,0,1,1,1,0,0,2,1988 Tour,1988,La Grange,La Grange,0,The Roma,Telluride,CO,USA,","
+1988-08-05,1988,0,2,2,1,0,0,2,1988 Tour,1988,You Enjoy Myself,YEM,1,The Roma,Telluride,CO,USA,>
+1988-08-05,1988,0,3,3,1,0,0,7,1988 Tour,1988,Cities,Cities,0,The Roma,Telluride,CO,USA,->
+1988-08-05,1988,0,4,2,1,0,0,8,1988 Tour,1988,Dave's Energy Guide,DEG,1,The Roma,Telluride,CO,USA,>
+1988-08-05,1988,0,5,1,1,0,0,0,1988 Tour,1988,Cities,Cities,0,The Roma,Telluride,CO,USA,","
+1988-08-05,1988,0,6,1,1,0,0,1,1988 Tour,1988,Take the 'A' Train,'A' Train,0,The Roma,Telluride,CO,USA,","
+1988-08-05,1988,0,7,1,1,0,0,2,1988 Tour,1988,Funky Bitch,Funky Bitch,0,The Roma,Telluride,CO,USA,","
+1988-08-05,1988,0,8,1,1,0,0,4,1988 Tour,1988,Dinner and a Movie,Dinner and a Movie,1,The Roma,Telluride,CO,USA,","
+1988-08-05,1988,0,9,4,1,0,0,3,1988 Tour,1988,Fire,Fire,0,The Roma,Telluride,CO,USA,
+1988-08-05,1988,0,10,2,2,0,0,7,1988 Tour,1988,Golgi Apparatus,Golgi,1,The Roma,Telluride,CO,USA,>
+1988-08-05,1988,0,11,1,2,0,0,8,1988 Tour,1988,AC/DC Bag,Bag,1,The Roma,Telluride,CO,USA,","
+1988-08-05,1988,0,12,1,2,0,0,1,1988 Tour,1988,Satin Doll,Satin Doll,0,The Roma,Telluride,CO,USA,","
+1988-08-05,1988,0,13,1,2,0,0,6,1988 Tour,1988,Sanity,Sanity,1,The Roma,Telluride,CO,USA,","
+1988-08-05,1988,0,14,1,2,0,0,5,1988 Tour,1988,Big Black Furry Creature from Mars,BBFCFM,1,The Roma,Telluride,CO,USA,","
+1988-08-05,1988,0,15,2,2,0,0,3,1988 Tour,1988,Slave to the Traffic Light,Slave,1,The Roma,Telluride,CO,USA,>
+1988-08-05,1988,0,16,2,2,0,0,1,1988 Tour,1988,Alumni Blues,Alumni,1,The Roma,Telluride,CO,USA,>
+1988-08-05,1988,0,17,2,2,0,0,1,1988 Tour,1988,Letter to Jimmy Page,LTJP,1,The Roma,Telluride,CO,USA,>
+1988-08-05,1988,0,18,1,2,0,0,0,1988 Tour,1988,Alumni Blues,Alumni,1,The Roma,Telluride,CO,USA,","
+1988-08-05,1988,0,19,4,2,0,0,1,1988 Tour,1988,The Lizards,Lizards,1,The Roma,Telluride,CO,USA,
+1988-08-05,1988,0,20,1,3,0,0,16,1988 Tour,1988,Mustang Sally,Mustang Sally,0,The Roma,Telluride,CO,USA,","
+1988-08-05,1988,0,21,1,3,0,0,3,1988 Tour,1988,Corinna,Corinna,0,The Roma,Telluride,CO,USA,","
+1988-08-05,1988,0,22,1,3,0,0,2,1988 Tour,1988,Walk Away,Walk Away,0,The Roma,Telluride,CO,USA,","
+1988-08-05,1988,0,23,1,3,0,0,2,1988 Tour,1988,Jesus Just Left Chicago,JJLC,0,The Roma,Telluride,CO,USA,","
+1988-08-05,1988,0,24,1,3,0,0,3,1988 Tour,1988,Contact,Contact,1,The Roma,Telluride,CO,USA,","
+1988-08-05,1988,0,25,1,3,0,0,9,1988 Tour,1988,Makisupa Policeman,Makisupa,1,The Roma,Telluride,CO,USA,","
+1988-08-05,1988,0,26,5,3,0,0,2,1988 Tour,1988,Whipping Post,Whipping Post,0,The Roma,Telluride,CO,USA,
+1988-08-05,1988,0,27,6,e,0,0,3,1988 Tour,1988,Harpua,Harpua,1,The Roma,Telluride,CO,USA,
+1988-08-13,1988,0,1,1,1,0,0,6,1988 Tour,1988,Peaches en Regalia,Peaches,0,The Front,Burlington,VT,USA,","
+1988-08-13,1988,0,2,1,1,0,0,5,1988 Tour,1988,AC/DC Bag,Bag,1,The Front,Burlington,VT,USA,","
+1988-08-13,1988,0,3,1,1,0,0,5,1988 Tour,1988,Take the 'A' Train,'A' Train,0,The Front,Burlington,VT,USA,","
+1988-08-13,1988,0,4,2,1,0,0,7,1988 Tour,1988,Colonel Forbin's Ascent,Forbin's,1,The Front,Burlington,VT,USA,>
+1988-08-13,1988,0,5,1,1,0,0,7,1988 Tour,1988,Fly Famous Mockingbird,Mockingbird,1,The Front,Burlington,VT,USA,","
+1988-08-13,1988,0,6,1,1,0,0,7,1988 Tour,1988,Light Up Or Leave Me Alone,Light Up,0,The Front,Burlington,VT,USA,","
+1988-08-13,1988,0,7,2,1,0,0,6,1988 Tour,1988,Suzy Greenberg,Suzy,1,The Front,Burlington,VT,USA,>
+1988-08-13,1988,0,8,2,1,0,0,5,1988 Tour,1988,Alumni Blues,Alumni,1,The Front,Burlington,VT,USA,>
+1988-08-13,1988,0,9,2,1,0,0,5,1988 Tour,1988,Letter to Jimmy Page,LTJP,1,The Front,Burlington,VT,USA,>
+1988-08-13,1988,0,10,1,1,0,0,0,1988 Tour,1988,Alumni Blues,Alumni,1,The Front,Burlington,VT,USA,","
+1988-08-13,1988,0,11,4,1,0,0,5,1988 Tour,1988,Fire,Fire,0,The Front,Burlington,VT,USA,
+1988-08-13,1988,0,12,1,2,0,0,6,1988 Tour,1988,Wilson,Wilson,1,The Front,Burlington,VT,USA,","
+1988-08-13,1988,0,13,1,2,0,0,51,1988 Tour,1988,Divided Sky,Divided,1,The Front,Burlington,VT,USA,","
+1988-08-13,1988,0,14,1,2,0,0,5,1988 Tour,1988,Jesus Just Left Chicago,JJLC,0,The Front,Burlington,VT,USA,","
+1988-08-13,1988,0,15,1,2,0,0,6,1988 Tour,1988,Possum,Possum,1,The Front,Burlington,VT,USA,","
+1988-08-13,1988,0,16,1,2,0,0,7,1988 Tour,1988,Harry Hood,Hood,1,The Front,Burlington,VT,USA,","
+1988-08-13,1988,0,17,2,2,0,0,5,1988 Tour,1988,Corinna,Corinna,0,The Front,Burlington,VT,USA,>
+1988-08-13,1988,0,18,6,2,0,0,5,1988 Tour,1988,Whipping Post,Whipping Post,0,The Front,Burlington,VT,USA,
+1988-08-22,1988,0,1,1,1,0,0,4,1988 Tour,1988,Take the 'A' Train,'A' Train,0,Nectar's,Burlington,VT,USA,","
+1988-08-22,1988,0,2,1,1,0,0,9,1988 Tour,1988,Satin Doll,Satin Doll,0,Nectar's,Burlington,VT,USA,","
+1988-08-22,1988,0,3,1,1,0,0,10,1988 Tour,1988,McGrupp and the Watchful Hosemasters,McGrupp,1,Nectar's,Burlington,VT,USA,","
+1988-08-22,1988,0,4,2,1,0,0,4,1988 Tour,1988,Colonel Forbin's Ascent,Forbin's,1,Nectar's,Burlington,VT,USA,>
+1988-08-22,1988,0,5,1,1,0,0,4,1988 Tour,1988,Fly Famous Mockingbird,Mockingbird,1,Nectar's,Burlington,VT,USA,","
+1988-08-22,1988,0,6,1,1,0,0,10,1988 Tour,1988,Fluffhead,Fluffhead,1,Nectar's,Burlington,VT,USA,","
+1988-08-22,1988,0,7,2,1,0,0,9,1988 Tour,1988,Cities,Cities,0,Nectar's,Burlington,VT,USA,>
+1988-08-22,1988,0,8,2,1,0,0,9,1988 Tour,1988,Dave's Energy Guide,DEG,1,Nectar's,Burlington,VT,USA,>
+1988-08-22,1988,0,9,1,1,0,0,0,1988 Tour,1988,Cities,Cities,0,Nectar's,Burlington,VT,USA,","
+1988-08-22,1988,0,10,1,1,0,0,4,1988 Tour,1988,Suzy Greenberg,Suzy,1,Nectar's,Burlington,VT,USA,","
+1988-08-22,1988,0,11,6,1,0,0,9,1988 Tour,1988,The Lizards,Lizards,1,Nectar's,Burlington,VT,USA,
+1988-08-27,1988,0,1,1,1,0,0,2,1988 Tour,1988,Satin Doll,Satin Doll,0,"Food Court, Mont Alto Campus, Penn State University",Mont Alto,PA,USA,","
+1988-08-27,1988,0,2,2,1,0,0,11,1988 Tour,1988,You Enjoy Myself,YEM,1,"Food Court, Mont Alto Campus, Penn State University",Mont Alto,PA,USA,>
+1988-08-27,1988,0,3,1,1,0,0,11,1988 Tour,1988,Funky Bitch,Funky Bitch,0,"Food Court, Mont Alto Campus, Penn State University",Mont Alto,PA,USA,","
+1988-08-27,1988,0,4,1,1,0,0,11,1988 Tour,1988,Walk Away,Walk Away,0,"Food Court, Mont Alto Campus, Penn State University",Mont Alto,PA,USA,","
+1988-08-27,1988,0,5,1,1,0,0,2,1988 Tour,1988,Fluffhead,Fluffhead,1,"Food Court, Mont Alto Campus, Penn State University",Mont Alto,PA,USA,","
+1988-08-27,1988,0,6,1,1,0,0,12,1988 Tour,1988,Mike's Song,Mike's,1,"Food Court, Mont Alto Campus, Penn State University",Mont Alto,PA,USA,","
+1988-08-27,1988,0,7,1,1,0,0,2,1988 Tour,1988,Take the 'A' Train,'A' Train,0,"Food Court, Mont Alto Campus, Penn State University",Mont Alto,PA,USA,","
+1988-08-27,1988,0,8,1,1,0,0,11,1988 Tour,1988,Golgi Apparatus,Golgi,1,"Food Court, Mont Alto Campus, Penn State University",Mont Alto,PA,USA,","
+1988-08-27,1988,0,9,1,1,0,0,12,1988 Tour,1988,Tela,Tela,1,"Food Court, Mont Alto Campus, Penn State University",Mont Alto,PA,USA,","
+1988-08-27,1988,0,10,1,1,0,0,12,1988 Tour,1988,Poor Heart,Poor Heart,1,"Food Court, Mont Alto Campus, Penn State University",Mont Alto,PA,USA,","
+1988-08-27,1988,0,11,6,1,0,0,13,1988 Tour,1988,Good Times Bad Times,GTBT,0,"Food Court, Mont Alto Campus, Penn State University",Mont Alto,PA,USA,
+1988-09-08,1988,0,1,2,1,0,0,9,1988 Tour,1988,Peaches en Regalia,Peaches,0,The Front,Burlington,VT,USA,>
+1988-09-08,1988,0,2,1,1,0,0,3,1988 Tour,1988,Walk Away,Walk Away,0,The Front,Burlington,VT,USA,","
+1988-09-08,1988,0,3,1,1,0,0,14,1988 Tour,1988,Slave to the Traffic Light,Slave,1,The Front,Burlington,VT,USA,","
+1988-09-08,1988,0,4,1,1,0,0,149,1988 Tour,1988,Wild Child,Wild Child,0,The Front,Burlington,VT,USA,","
+1988-09-08,1988,0,5,1,1,0,0,9,1988 Tour,1988,AC/DC Bag,Bag,1,The Front,Burlington,VT,USA,","
+1988-09-08,1988,0,6,2,1,0,0,5,1988 Tour,1988,Colonel Forbin's Ascent,Forbin's,1,The Front,Burlington,VT,USA,>
+1988-09-08,1988,0,7,1,1,0,0,5,1988 Tour,1988,Fly Famous Mockingbird,Mockingbird,1,The Front,Burlington,VT,USA,","
+1988-09-08,1988,0,8,4,1,0,0,18,1988 Tour,1988,Bold As Love,Bold As Love,0,The Front,Burlington,VT,USA,
+1988-09-08,1988,0,9,1,2,0,0,9,1988 Tour,1988,Possum,Possum,1,The Front,Burlington,VT,USA,","
+1988-09-08,1988,0,10,1,2,0,0,3,1988 Tour,1988,You Enjoy Myself,YEM,1,The Front,Burlington,VT,USA,","
+1988-09-08,1988,0,11,3,2,0,0,5,1988 Tour,1988,Cities,Cities,0,The Front,Burlington,VT,USA,->
+1988-09-08,1988,0,12,2,2,0,0,5,1988 Tour,1988,Dave's Energy Guide,DEG,1,The Front,Burlington,VT,USA,>
+1988-09-08,1988,0,13,1,2,0,0,0,1988 Tour,1988,Cities,Cities,0,The Front,Burlington,VT,USA,","
+1988-09-08,1988,0,14,1,2,0,0,3,1988 Tour,1988,Good Times Bad Times,GTBT,0,The Front,Burlington,VT,USA,","
+1988-09-08,1988,0,15,2,2,0,0,16,1988 Tour,1988,On Your Way Down,On Your Way Down,0,The Front,Burlington,VT,USA,>
+1988-09-08,1988,0,16,6,2,0,0,9,1988 Tour,1988,Whipping Post,Whipping Post,0,The Front,Burlington,VT,USA,
+1988-09-12,1988,0,1,1,1,0,0,29,1988 Tour,1988,Shaggy Dog,Shaggy Dog,0,Sam's Tavern,Burlington,VT,USA,","
+1988-09-12,1988,0,2,1,1,0,0,6,1988 Tour,1988,Take the 'A' Train,'A' Train,0,Sam's Tavern,Burlington,VT,USA,","
+1988-09-12,1988,0,3,1,1,0,0,18,1988 Tour,1988,Fee,Fee,1,Sam's Tavern,Burlington,VT,USA,","
+1988-09-12,1988,0,4,4,1,0,0,3,1988 Tour,1988,Bold As Love,Bold As Love,0,Sam's Tavern,Burlington,VT,USA,
+1988-09-12,1988,0,5,1,2,0,0,20,1988 Tour,1988,Timber (Jerry the Mule),Timber Ho,0,Sam's Tavern,Burlington,VT,USA,","
+1988-09-12,1988,0,6,2,2,0,0,6,1988 Tour,1988,Satin Doll,Satin Doll,0,Sam's Tavern,Burlington,VT,USA,>
+1988-09-12,1988,0,7,1,2,0,0,8,1988 Tour,1988,The Lizards,Lizards,1,Sam's Tavern,Burlington,VT,USA,","
+1988-09-12,1988,0,8,2,2,0,0,18,1988 Tour,1988,The Man Who Stepped Into Yesterday,TMWSIY,1,Sam's Tavern,Burlington,VT,USA,>
+1988-09-12,1988,0,9,2,2,0,0,18,1988 Tour,1988,Avenu Malkenu,Avenu Malkenu,0,Sam's Tavern,Burlington,VT,USA,>
+1988-09-12,1988,0,10,2,2,0,0,74,1988 Tour,1988,Bundle of Joy,Bundle of Joy,1,Sam's Tavern,Burlington,VT,USA,>
+1988-09-12,1988,0,11,1,2,0,0,18,1988 Tour,1988,Camel Walk,Camel Walk,1,Sam's Tavern,Burlington,VT,USA,","
+1988-09-12,1988,0,12,1,2,0,0,175,1988 Tour,1988,The Practical Song,The Practical Song,1,Sam's Tavern,Burlington,VT,USA,","
+1988-09-12,1988,0,13,1,2,0,0,12,1988 Tour,1988,Harry Hood,Hood,1,Sam's Tavern,Burlington,VT,USA,","
+1988-09-12,1988,0,14,6,2,0,0,173,1988 Tour,1988,Esther,Esther,1,Sam's Tavern,Burlington,VT,USA,
+1988-09-13,1988,0,1,1,1,0,0,4,1988 Tour,1988,Walk Away,Walk Away,0,Sam's Tavern,Burlington,VT,USA,","
+1988-09-13,1988,0,2,1,1,0,0,7,1988 Tour,1988,Funky Bitch,Funky Bitch,0,Sam's Tavern,Burlington,VT,USA,","
+1988-09-13,1988,0,3,1,1,0,0,4,1988 Tour,1988,You Enjoy Myself,YEM,1,Sam's Tavern,Burlington,VT,USA,","
+1988-09-13,1988,0,4,1,1,0,0,19,1988 Tour,1988,Flat Fee,Flat Fee,1,Sam's Tavern,Burlington,VT,USA,","
+1988-09-13,1988,0,5,2,1,0,0,9,1988 Tour,1988,McGrupp and the Watchful Hosemasters,McGrupp,1,Sam's Tavern,Burlington,VT,USA,>
+1988-09-13,1988,0,6,2,1,0,0,13,1988 Tour,1988,Wilson,Wilson,1,Sam's Tavern,Burlington,VT,USA,>
+1988-09-13,1988,0,7,1,1,0,0,4,1988 Tour,1988,Peaches en Regalia,Peaches,0,Sam's Tavern,Burlington,VT,USA,","
+1988-09-13,1988,0,8,4,1,0,0,4,1988 Tour,1988,Good Times Bad Times,GTBT,0,Sam's Tavern,Burlington,VT,USA,
+1988-09-13,1988,0,9,1,2,0,0,114,1988 Tour,1988,Ride Captain Ride,Ride Captain Ride,0,Sam's Tavern,Burlington,VT,USA,","
+1988-09-13,1988,0,10,1,2,0,0,64,1988 Tour,1988,Boogie On Reggae Woman,Boogie On,0,Sam's Tavern,Burlington,VT,USA,","
+1988-09-13,1988,0,11,2,2,0,0,4,1988 Tour,1988,Cities,Cities,0,Sam's Tavern,Burlington,VT,USA,>
+1988-09-13,1988,0,12,2,2,0,0,4,1988 Tour,1988,Dave's Energy Guide,DEG,1,Sam's Tavern,Burlington,VT,USA,>
+1988-09-13,1988,0,13,1,2,0,0,0,1988 Tour,1988,Cities,Cities,0,Sam's Tavern,Burlington,VT,USA,","
+1988-09-13,1988,0,14,1,2,0,0,19,1988 Tour,1988,Run Like an Antelope,Antelope,1,Sam's Tavern,Burlington,VT,USA,","
+1988-09-13,1988,0,15,4,2,0,0,7,1988 Tour,1988,Fluffhead,Fluffhead,1,Sam's Tavern,Burlington,VT,USA,
+1988-09-13,1988,0,16,1,3,0,0,26,1988 Tour,1988,Jam,Jam,0,Sam's Tavern,Burlington,VT,USA,","
+1988-09-13,1988,0,17,3,3,0,0,176,1988 Tour,1988,Andy's Chest,Andy's Chest,0,Sam's Tavern,Burlington,VT,USA,->
+1988-09-13,1988,0,18,3,3,0,0,18,1988 Tour,1988,Big Black Furry Creature from Mars,BBFCFM,1,Sam's Tavern,Burlington,VT,USA,->
+1988-09-13,1988,0,19,3,3,0,0,0,1988 Tour,1988,Dave's Energy Guide,DEG,1,Sam's Tavern,Burlington,VT,USA,->
+1988-09-13,1988,0,20,1,3,0,0,0,1988 Tour,1988,Big Black Furry Creature from Mars,BBFCFM,1,Sam's Tavern,Burlington,VT,USA,","
+1988-09-13,1988,0,21,3,3,0,0,18,1988 Tour,1988,Sanity,Sanity,1,Sam's Tavern,Burlington,VT,USA,->
+1988-09-13,1988,0,22,1,3,0,0,0,1988 Tour,1988,Jam,Jam,0,Sam's Tavern,Burlington,VT,USA,","
+1988-09-13,1988,0,23,6,3,0,0,13,1988 Tour,1988,Fire,Fire,0,Sam's Tavern,Burlington,VT,USA,
+1988-09-22,1988,0,1,1,1,0,0,2,1988 Tour,1988,McGrupp and the Watchful Hosemasters,McGrupp,1,"Campus Pub, Binghamton College",Binghamton,NY,USA,","
+1988-09-22,1988,0,2,1,1,0,0,3,1988 Tour,1988,Take the 'A' Train,'A' Train,0,"Campus Pub, Binghamton College",Binghamton,NY,USA,","
+1988-09-22,1988,0,3,1,1,0,0,2,1988 Tour,1988,Fluffhead,Fluffhead,1,"Campus Pub, Binghamton College",Binghamton,NY,USA,","
+1988-09-22,1988,0,4,1,1,0,0,2,1988 Tour,1988,You Enjoy Myself,YEM,1,"Campus Pub, Binghamton College",Binghamton,NY,USA,","
+1988-09-22,1988,0,5,6,1,0,0,21,1988 Tour,1988,David Bowie,Bowie,1,"Campus Pub, Binghamton College",Binghamton,NY,USA,
+1988-09-24,1988,0,1,1,1,0,0,10,1988 Tour,1988,Golgi Apparatus,Golgi,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,","
+1988-09-24,1988,0,2,1,1,0,0,7,1988 Tour,1988,On Your Way Down,On Your Way Down,0,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,","
+1988-09-24,1988,0,3,2,1,0,0,16,1988 Tour,1988,Alumni Blues,Alumni,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,>
+1988-09-24,1988,0,4,2,1,0,0,16,1988 Tour,1988,Letter to Jimmy Page,LTJP,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,>
+1988-09-24,1988,0,5,1,1,0,0,0,1988 Tour,1988,Alumni Blues,Alumni,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,","
+1988-09-24,1988,0,6,3,1,0,0,1,1988 Tour,1988,You Enjoy Myself,YEM,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,->
+1988-09-24,1988,0,7,2,1,0,0,3,1988 Tour,1988,Wilson,Wilson,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,>
+1988-09-24,1988,0,8,2,1,0,0,3,1988 Tour,1988,Peaches en Regalia,Peaches,0,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,>
+1988-09-24,1988,0,9,1,1,0,0,21,1988 Tour,1988,La Grange,La Grange,0,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,","
+1988-09-24,1988,0,10,1,1,0,0,1,1988 Tour,1988,Take the 'A' Train,'A' Train,0,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,","
+1988-09-24,1988,0,11,1,1,0,0,16,1988 Tour,1988,Divided Sky,Divided,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,","
+1988-09-24,1988,0,12,4,1,0,0,4,1988 Tour,1988,Bold As Love,Bold As Love,0,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,
+1988-09-24,1988,0,13,1,2,0,0,1,1988 Tour,1988,David Bowie,Bowie,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,","
+1988-09-24,1988,0,14,1,2,0,0,4,1988 Tour,1988,The Lizards,Lizards,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,","
+1988-09-24,1988,0,15,2,2,0,0,3,1988 Tour,1988,Walk Away,Walk Away,0,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,>
+1988-09-24,1988,0,16,1,2,0,0,7,1988 Tour,1988,Possum,Possum,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,","
+1988-09-24,1988,0,17,3,2,0,0,4,1988 Tour,1988,Fee,Fee,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,->
+1988-09-24,1988,0,18,2,2,0,0,84,1988 Tour,1988,Sparks,Sparks,0,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,>
+1988-09-24,1988,0,19,4,2,0,0,7,1988 Tour,1988,Whipping Post,Whipping Post,0,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,
+1988-09-24,1988,0,20,2,3,0,0,3,1988 Tour,1988,Good Times Bad Times,GTBT,0,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,>
+1988-09-24,1988,0,21,1,3,0,0,1,1988 Tour,1988,Fluffhead,Fluffhead,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,","
+1988-09-24,1988,0,22,2,3,0,0,22,1988 Tour,1988,The Curtain,Curtain,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,>
+1988-09-24,1988,0,23,1,3,0,0,7,1988 Tour,1988,AC/DC Bag,Bag,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,","
+1988-09-24,1988,0,24,1,3,0,0,21,1988 Tour,1988,Dinner and a Movie,Dinner and a Movie,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,","
+1988-09-24,1988,0,25,1,3,0,0,21,1988 Tour,1988,Contact,Contact,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,","
+1988-09-24,1988,0,26,6,3,0,0,3,1988 Tour,1988,Big Black Furry Creature from Mars,BBFCFM,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,
+1988-10-29,1988,0,1,2,1,0,0,14,1988 Tour,1988,Suzy Greenberg,Suzy,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
+1988-10-29,1988,0,2,1,1,0,0,2,1988 Tour,1988,The Lizards,Lizards,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1988-10-29,1988,0,3,1,1,0,0,183,1988 Tour,1988,Time Loves a Hero,Time Loves a Hero,0,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1988-10-29,1988,0,4,1,1,0,0,2,1988 Tour,1988,Golgi Apparatus,Golgi,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1988-10-29,1988,0,5,1,1,0,0,2,1988 Tour,1988,Bold As Love,Bold As Love,0,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1988-10-29,1988,0,6,1,1,0,0,2,1988 Tour,1988,La Grange,La Grange,0,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1988-10-29,1988,0,7,1,1,0,0,2,1988 Tour,1988,Contact,Contact,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1988-10-29,1988,0,8,3,1,0,0,181,1988 Tour,1988,Costume Contest,Costume Contest,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,->
+1988-10-29,1988,0,9,4,1,0,0,6,1988 Tour,1988,Harry Hood,Hood,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,
+1988-10-29,1988,0,10,3,2,0,0,40,1988 Tour,1988,Halley's Comet,Halley's,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,->
+1988-10-29,1988,0,11,1,2,0,0,2,1988 Tour,1988,Whipping Post,Whipping Post,0,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1988-10-29,1988,0,12,2,2,0,0,2,1988 Tour,1988,Fee,Fee,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
+1988-10-29,1988,0,13,2,2,0,0,2,1988 Tour,1988,Alumni Blues,Alumni,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
+1988-10-29,1988,0,14,2,2,0,0,2,1988 Tour,1988,Letter to Jimmy Page,LTJP,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
+1988-10-29,1988,0,15,1,2,0,0,0,1988 Tour,1988,Alumni Blues,Alumni,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1988-10-29,1988,0,16,2,2,0,0,2,1988 Tour,1988,Walk Away,Walk Away,0,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
+1988-10-29,1988,0,17,1,2,0,0,2,1988 Tour,1988,Divided Sky,Divided,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1988-10-29,1988,0,18,1,2,0,0,27,1988 Tour,1988,The Ballad of Curtis Loew,Curtis Loew,0,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1988-10-29,1988,0,19,1,2,0,0,12,1988 Tour,1988,Mike's Song,Mike's,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1988-10-29,1988,0,20,2,2,0,0,2,1988 Tour,1988,Take the 'A' Train,'A' Train,0,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
+1988-10-29,1988,0,21,4,2,0,0,5,1988 Tour,1988,Fire,Fire,0,"Sculpture Room, Goddard College",Plainfield,VT,USA,
+1988-10-29,1988,0,22,2,3,0,0,2,1988 Tour,1988,Fluffhead,Fluffhead,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
+1988-10-29,1988,0,23,1,3,0,0,2,1988 Tour,1988,AC/DC Bag,Bag,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1988-10-29,1988,0,24,1,3,0,0,179,1988 Tour,1988,Foam,Foam,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1988-10-29,1988,0,25,1,3,0,0,26,1988 Tour,1988,Terrapin,Terrapin,0,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1988-10-29,1988,0,26,1,3,0,0,2,1988 Tour,1988,Big Black Furry Creature from Mars,BBFCFM,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1988-10-29,1988,0,27,1,3,0,0,6,1988 Tour,1988,Timber (Jerry the Mule),Timber Ho,0,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1988-10-29,1988,0,28,1,3,0,0,9,1988 Tour,1988,Slave to the Traffic Light,Slave,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1988-10-29,1988,0,29,1,3,0,0,183,1988 Tour,1988,Donna Lee,Donna Lee,0,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1988-10-29,1988,0,30,1,3,0,0,5,1988 Tour,1988,Run Like an Antelope,Antelope,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1988-10-29,1988,0,31,1,3,0,0,27,1988 Tour,1988,I Didn't Know,IDK,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1988-10-29,1988,0,32,1,3,0,0,2,1988 Tour,1988,Wilson,Wilson,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1988-10-29,1988,0,33,1,3,0,0,2,1988 Tour,1988,Peaches en Regalia,Peaches,0,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
+1988-10-29,1988,0,34,6,3,0,0,5,1988 Tour,1988,Funky Bitch,Funky Bitch,0,"Sculpture Room, Goddard College",Plainfield,VT,USA,
+1988-11-03,1988,0,1,1,1,0,0,1,1988 Tour,1988,Fire,Fire,0,Molly's Cafe,Boston,MA,USA,","
+1988-11-03,1988,0,2,1,1,0,0,1,1988 Tour,1988,Golgi Apparatus,Golgi,1,Molly's Cafe,Boston,MA,USA,","
+1988-11-03,1988,0,3,2,1,0,0,1,1988 Tour,1988,Fluffhead,Fluffhead,1,Molly's Cafe,Boston,MA,USA,>
+1988-11-03,1988,0,4,1,1,0,0,3,1988 Tour,1988,Possum,Possum,1,Molly's Cafe,Boston,MA,USA,","
+1988-11-03,1988,0,5,1,1,0,0,1,1988 Tour,1988,Fee,Fee,1,Molly's Cafe,Boston,MA,USA,","
+1988-11-03,1988,0,6,2,1,0,0,1,1988 Tour,1988,Alumni Blues,Alumni,1,Molly's Cafe,Boston,MA,USA,>
+1988-11-03,1988,0,7,2,1,0,0,1,1988 Tour,1988,Letter to Jimmy Page,LTJP,1,Molly's Cafe,Boston,MA,USA,>
+1988-11-03,1988,0,8,1,1,0,0,0,1988 Tour,1988,Alumni Blues,Alumni,1,Molly's Cafe,Boston,MA,USA,","
+1988-11-03,1988,0,9,4,1,0,0,3,1988 Tour,1988,Good Times Bad Times,GTBT,0,Molly's Cafe,Boston,MA,USA,
+1988-11-03,1988,0,10,1,2,0,0,1,1988 Tour,1988,Time Loves a Hero,Time Loves a Hero,0,Molly's Cafe,Boston,MA,USA,","
+1988-11-03,1988,0,11,1,2,0,0,1,1988 Tour,1988,Walk Away,Walk Away,0,Molly's Cafe,Boston,MA,USA,","
+1988-11-03,1988,0,12,1,2,0,0,1,1988 Tour,1988,The Lizards,Lizards,1,Molly's Cafe,Boston,MA,USA,","
+1988-11-03,1988,0,13,1,2,0,0,7,1988 Tour,1988,Shaggy Dog,Shaggy Dog,0,Molly's Cafe,Boston,MA,USA,","
+1988-11-03,1988,0,14,1,2,0,0,1,1988 Tour,1988,Whipping Post,Whipping Post,0,Molly's Cafe,Boston,MA,USA,","
+1988-11-03,1988,0,15,1,2,0,0,1,1988 Tour,1988,Contact,Contact,1,Molly's Cafe,Boston,MA,USA,","
+1988-11-03,1988,0,16,1,2,0,0,1,1988 Tour,1988,Bold As Love,Bold As Love,0,Molly's Cafe,Boston,MA,USA,","
+1988-11-03,1988,0,17,1,2,0,0,1,1988 Tour,1988,Take the 'A' Train,'A' Train,0,Molly's Cafe,Boston,MA,USA,","
+1988-11-03,1988,0,18,4,2,0,0,1,1988 Tour,1988,Run Like an Antelope,Antelope,1,Molly's Cafe,Boston,MA,USA,
+1988-11-03,1988,0,19,1,3,0,0,1,1988 Tour,1988,Suzy Greenberg,Suzy,1,Molly's Cafe,Boston,MA,USA,","
+1988-11-03,1988,0,20,1,3,0,0,1,1988 Tour,1988,Foam,Foam,1,Molly's Cafe,Boston,MA,USA,","
+1988-11-03,1988,0,21,1,3,0,0,1,1988 Tour,1988,I Didn't Know,IDK,1,Molly's Cafe,Boston,MA,USA,","
+1988-11-03,1988,0,22,1,3,0,0,1,1988 Tour,1988,Big Black Furry Creature from Mars,BBFCFM,1,Molly's Cafe,Boston,MA,USA,","
+1988-11-03,1988,0,23,1,3,0,0,24,1988 Tour,1988,Harpua,Harpua,1,Molly's Cafe,Boston,MA,USA,","
+1988-11-03,1988,0,24,6,3,0,0,3,1988 Tour,1988,David Bowie,Bowie,1,Molly's Cafe,Boston,MA,USA,
+1988-11-04,1988,0,1,6,1,0,0,2,1988 Tour,1988,Mike's Song,Mike's,1,Nardis Restaurant,Clinton,NY,USA,
+1988-11-05,1988,0,1,1,1,0,0,3,1988 Tour,1988,Slave to the Traffic Light,Slave,1,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,","
+1988-11-05,1988,0,2,1,1,0,0,2,1988 Tour,1988,Time Loves a Hero,Time Loves a Hero,0,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,","
+1988-11-05,1988,0,3,1,1,0,0,2,1988 Tour,1988,Fire,Fire,0,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,","
+1988-11-05,1988,0,4,2,1,0,0,5,1988 Tour,1988,You Enjoy Myself,YEM,1,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,>
+1988-11-05,1988,0,5,1,1,0,0,2,1988 Tour,1988,Possum,Possum,1,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,","
+1988-11-05,1988,0,6,1,1,0,0,2,1988 Tour,1988,Take the 'A' Train,'A' Train,0,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,","
+1988-11-05,1988,0,7,1,1,0,0,2,1988 Tour,1988,Golgi Apparatus,Golgi,1,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,","
+1988-11-05,1988,0,8,1,1,0,0,2,1988 Tour,1988,Walk Away,Walk Away,0,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,","
+1988-11-05,1988,0,9,2,1,0,0,2,1988 Tour,1988,Fluffhead,Fluffhead,1,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,>
+1988-11-05,1988,0,10,2,1,0,0,2,1988 Tour,1988,Alumni Blues,Alumni,1,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,>
+1988-11-05,1988,0,11,2,1,0,0,2,1988 Tour,1988,Letter to Jimmy Page,LTJP,1,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,>
+1988-11-05,1988,0,12,1,1,0,0,0,1988 Tour,1988,Alumni Blues,Alumni,1,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,","
+1988-11-05,1988,0,13,4,1,0,0,2,1988 Tour,1988,David Bowie,Bowie,1,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,
+1988-11-05,1988,0,14,2,2,0,0,3,1988 Tour,1988,Wilson,Wilson,1,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,>
+1988-11-05,1988,0,15,1,2,0,0,3,1988 Tour,1988,Peaches en Regalia,Peaches,0,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,","
+1988-11-05,1988,0,16,1,2,0,0,2,1988 Tour,1988,Bold As Love,Bold As Love,0,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,","
+1988-11-05,1988,0,17,1,2,0,0,2,1988 Tour,1988,The Lizards,Lizards,1,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,","
+1988-11-05,1988,0,18,3,2,0,0,3,1988 Tour,1988,AC/DC Bag,Bag,1,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,->
+1988-11-05,1988,0,19,1,2,0,0,2,1988 Tour,1988,Fee,Fee,1,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,","
+1988-11-05,1988,0,20,2,2,0,0,1,1988 Tour,1988,Mike's Song,Mike's,1,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,>
+1988-11-05,1988,0,21,2,2,0,0,27,1988 Tour,1988,I Am Hydrogen,Hydrogen,1,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,>
+1988-11-05,1988,0,22,1,2,0,0,27,1988 Tour,1988,Weekapaug Groove,Weekapaug,1,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,","
+1988-11-05,1988,0,23,1,2,0,0,2,1988 Tour,1988,I Didn't Know,IDK,1,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,","
+1988-11-05,1988,0,24,4,2,0,0,2,1988 Tour,1988,Good Times Bad Times,GTBT,0,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,
+1988-11-05,1988,0,25,1,3,0,0,30,1988 Tour,1988,Icculus,Icculus,1,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,","
+1988-11-05,1988,0,26,1,3,0,0,2,1988 Tour,1988,Suzy Greenberg,Suzy,1,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,","
+1988-11-05,1988,0,27,2,3,0,0,5,1988 Tour,1988,Sparks,Sparks,0,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,>
+1988-11-05,1988,0,28,6,3,0,0,3,1988 Tour,1988,Divided Sky,Divided,1,"Sigma Phi Fraternity, Hamilton College",Clinton,NY,USA,
+1988-11-11,1988,0,1,1,1,2,0,1,1988 Tour,1988,I Didn't Know,IDK,1,Old Stone Church,Newmarket,NH,USA,","
+1988-11-11,1988,0,2,1,1,2,0,1,1988 Tour,1988,Good Times Bad Times,GTBT,0,Old Stone Church,Newmarket,NH,USA,","
+1988-11-11,1988,0,3,1,1,2,0,1,1988 Tour,1988,You Enjoy Myself,YEM,1,Old Stone Church,Newmarket,NH,USA,","
+1988-11-11,1988,0,4,1,1,2,0,1,1988 Tour,1988,Possum,Possum,1,Old Stone Church,Newmarket,NH,USA,","
+1988-11-11,1988,0,5,1,1,2,0,1,1988 Tour,1988,Fluffhead,Fluffhead,1,Old Stone Church,Newmarket,NH,USA,","
+1988-11-11,1988,0,6,1,1,2,0,1,1988 Tour,1988,Take the 'A' Train,'A' Train,0,Old Stone Church,Newmarket,NH,USA,","
+1988-11-11,1988,0,7,4,1,2,0,1,1988 Tour,1988,David Bowie,Bowie,1,Old Stone Church,Newmarket,NH,USA,
+1988-11-11,1988,0,8,1,2,2,0,1,1988 Tour,1988,Golgi Apparatus,Golgi,1,Old Stone Church,Newmarket,NH,USA,","
+1988-11-11,1988,0,9,2,2,2,0,13,1988 Tour,1988,Colonel Forbin's Ascent,Forbin's,1,Old Stone Church,Newmarket,NH,USA,>
+1988-11-11,1988,0,10,1,2,2,0,13,1988 Tour,1988,Fly Famous Mockingbird,Mockingbird,1,Old Stone Church,Newmarket,NH,USA,","
+1988-11-11,1988,0,11,2,2,2,0,1,1988 Tour,1988,Mike's Song,Mike's,1,Old Stone Church,Newmarket,NH,USA,>
+1988-11-11,1988,0,12,2,2,2,0,1,1988 Tour,1988,I Am Hydrogen,Hydrogen,1,Old Stone Church,Newmarket,NH,USA,>
+1988-11-11,1988,0,13,4,2,2,0,1,1988 Tour,1988,Weekapaug Groove,Weekapaug,1,Old Stone Church,Newmarket,NH,USA,
+1988-11-11,1988,0,14,1,3,2,0,30,1988 Tour,1988,Mr. P.C.,Mr. P.C.,0,Old Stone Church,Newmarket,NH,USA,","
+1988-11-11,1988,0,15,1,3,2,0,1,1988 Tour,1988,Fee,Fee,1,Old Stone Church,Newmarket,NH,USA,","
+1988-11-11,1988,0,16,1,3,2,0,1,1988 Tour,1988,Bold As Love,Bold As Love,0,Old Stone Church,Newmarket,NH,USA,","
+1988-11-11,1988,0,17,1,3,2,0,1,1988 Tour,1988,The Lizards,Lizards,1,Old Stone Church,Newmarket,NH,USA,","
+1988-11-11,1988,0,18,6,3,2,0,3,1988 Tour,1988,Whipping Post,Whipping Post,0,Old Stone Church,Newmarket,NH,USA,
+1988-12-02,1988,0,1,1,1,2,0,29,1988 Tour,1988,The Sloth,Sloth,1,Molly's Cafe,Boston,MA,USA,","
+1988-12-02,1988,0,2,1,1,2,0,1,1988 Tour,1988,Golgi Apparatus,Golgi,1,Molly's Cafe,Boston,MA,USA,","
+1988-12-02,1988,0,3,1,1,2,0,1,1988 Tour,1988,Bold As Love,Bold As Love,0,Molly's Cafe,Boston,MA,USA,","
+1988-12-02,1988,0,4,1,1,2,0,0,1988 Tour,1988,Take the 'A' Train,'A' Train,0,Molly's Cafe,Boston,MA,USA,","
+1988-12-02,1988,0,5,1,1,2,0,2,1988 Tour,1988,Divided Sky,Divided,1,Molly's Cafe,Boston,MA,USA,","
+1988-12-02,1988,0,6,1,1,2,0,4,1988 Tour,1988,Contact,Contact,1,Molly's Cafe,Boston,MA,USA,","
+1988-12-02,1988,0,7,1,1,2,0,1,1988 Tour,1988,You Enjoy Myself,YEM,1,Molly's Cafe,Boston,MA,USA,","
+1988-12-02,1988,0,8,1,1,2,0,1,1988 Tour,1988,I Didn't Know,IDK,1,Molly's Cafe,Boston,MA,USA,","
+1988-12-02,1988,0,9,4,1,2,0,1,1988 Tour,1988,Good Times Bad Times,GTBT,0,Molly's Cafe,Boston,MA,USA,
+1988-12-02,1988,0,10,2,2,2,0,2,1988 Tour,1988,Alumni Blues,Alumni,1,Molly's Cafe,Boston,MA,USA,>
+1988-12-02,1988,0,11,2,2,2,0,2,1988 Tour,1988,Letter to Jimmy Page,LTJP,1,Molly's Cafe,Boston,MA,USA,>
+1988-12-02,1988,0,12,1,2,2,0,0,1988 Tour,1988,Alumni Blues,Alumni,1,Molly's Cafe,Boston,MA,USA,","
+1988-12-02,1988,0,13,1,2,2,0,1,1988 Tour,1988,The Lizards,Lizards,1,Molly's Cafe,Boston,MA,USA,","
+1988-12-02,1988,0,14,1,2,2,0,1,1988 Tour,1988,David Bowie,Bowie,1,Molly's Cafe,Boston,MA,USA,","
+1988-12-02,1988,0,15,1,2,2,0,1,1988 Tour,1988,Fee,Fee,1,Molly's Cafe,Boston,MA,USA,","
+1988-12-02,1988,0,16,1,2,2,0,7,1988 Tour,1988,Dinner and a Movie,Dinner and a Movie,1,Molly's Cafe,Boston,MA,USA,","
+1988-12-02,1988,0,17,2,2,2,0,1,1988 Tour,1988,Colonel Forbin's Ascent,Forbin's,1,Molly's Cafe,Boston,MA,USA,>
+1988-12-02,1988,0,18,1,2,2,0,1,1988 Tour,1988,Fly Famous Mockingbird,Mockingbird,1,Molly's Cafe,Boston,MA,USA,","
+1988-12-02,1988,0,19,1,2,2,0,5,1988 Tour,1988,The Ballad of Curtis Loew,Curtis Loew,0,Molly's Cafe,Boston,MA,USA,","
+1988-12-02,1988,0,20,6,2,2,0,1,1988 Tour,1988,Possum,Possum,1,Molly's Cafe,Boston,MA,USA,
+1988-12-09,1988,0,1,6,1,0,0,1,1988 Tour,1988,Take the 'A' Train,'A' Train,0,Sheehan's,Northampton,MA,USA,
+1988-12-10,1988,0,1,1,1,0,0,2,1988 Tour,1988,I Didn't Know,IDK,1,"The Red Barn, Hampshire College",Amherst,MA,USA,","
+1988-12-10,1988,0,2,1,1,0,0,2,1988 Tour,1988,Golgi Apparatus,Golgi,1,"The Red Barn, Hampshire College",Amherst,MA,USA,","
+1988-12-10,1988,0,3,1,1,0,0,2,1988 Tour,1988,David Bowie,Bowie,1,"The Red Barn, Hampshire College",Amherst,MA,USA,","
+1988-12-10,1988,0,4,1,1,0,0,2,1988 Tour,1988,The Lizards,Lizards,1,"The Red Barn, Hampshire College",Amherst,MA,USA,","
+1988-12-10,1988,0,5,1,1,0,0,6,1988 Tour,1988,Foam,Foam,1,"The Red Barn, Hampshire College",Amherst,MA,USA,","
+1988-12-10,1988,0,6,1,1,0,0,2,1988 Tour,1988,Fee,Fee,1,"The Red Barn, Hampshire College",Amherst,MA,USA,","
+1988-12-10,1988,0,7,2,1,0,0,3,1988 Tour,1988,Mike's Song,Mike's,1,"The Red Barn, Hampshire College",Amherst,MA,USA,>
+1988-12-10,1988,0,8,2,1,0,0,3,1988 Tour,1988,I Am Hydrogen,Hydrogen,1,"The Red Barn, Hampshire College",Amherst,MA,USA,>
+1988-12-10,1988,0,9,1,1,0,0,3,1988 Tour,1988,Weekapaug Groove,Weekapaug,1,"The Red Barn, Hampshire College",Amherst,MA,USA,","
+1988-12-10,1988,0,10,1,1,0,0,4,1988 Tour,1988,Wilson,Wilson,1,"The Red Barn, Hampshire College",Amherst,MA,USA,","
+1988-12-10,1988,0,11,2,1,0,0,2,1988 Tour,1988,Colonel Forbin's Ascent,Forbin's,1,"The Red Barn, Hampshire College",Amherst,MA,USA,>
+1988-12-10,1988,0,12,4,1,0,0,2,1988 Tour,1988,Fly Famous Mockingbird,Mockingbird,1,"The Red Barn, Hampshire College",Amherst,MA,USA,
+1988-12-10,1988,0,13,2,2,0,0,2,1988 Tour,1988,Alumni Blues,Alumni,1,"The Red Barn, Hampshire College",Amherst,MA,USA,>
+1988-12-10,1988,0,14,2,2,0,0,2,1988 Tour,1988,Letter to Jimmy Page,LTJP,1,"The Red Barn, Hampshire College",Amherst,MA,USA,>
+1988-12-10,1988,0,15,1,2,0,0,0,1988 Tour,1988,Alumni Blues,Alumni,1,"The Red Barn, Hampshire College",Amherst,MA,USA,","
+1988-12-10,1988,0,16,1,2,0,0,2,1988 Tour,1988,You Enjoy Myself,YEM,1,"The Red Barn, Hampshire College",Amherst,MA,USA,","
+1988-12-10,1988,0,17,1,2,0,0,2,1988 Tour,1988,Contact,Contact,1,"The Red Barn, Hampshire College",Amherst,MA,USA,","
+1988-12-10,1988,0,18,1,2,0,0,2,1988 Tour,1988,The Sloth,Sloth,1,"The Red Barn, Hampshire College",Amherst,MA,USA,","
+1988-12-10,1988,0,19,3,2,0,0,4,1988 Tour,1988,AC/DC Bag,Bag,1,"The Red Barn, Hampshire College",Amherst,MA,USA,->
+1988-12-10,1988,0,20,1,2,0,0,2,1988 Tour,1988,Possum,Possum,1,"The Red Barn, Hampshire College",Amherst,MA,USA,","
+1988-12-10,1988,0,21,5,2,0,0,2,1988 Tour,1988,Good Times Bad Times,GTBT,0,"The Red Barn, Hampshire College",Amherst,MA,USA,
+1988-12-10,1988,0,22,6,e,0,0,6,1988 Tour,1988,Run Like an Antelope,Antelope,1,"The Red Barn, Hampshire College",Amherst,MA,USA,
+1988-12-17,1988,0,1,1,1,0,0,7,1988 Tour,1988,Divided Sky,Divided,1,Old Stone Church,Newmarket,NH,USA,","
+1988-12-17,1988,0,2,2,1,0,0,5,1988 Tour,1988,You Enjoy Myself,YEM,1,Old Stone Church,Newmarket,NH,USA,>
+1988-12-17,1988,0,3,1,1,0,0,9,1988 Tour,1988,Slave to the Traffic Light,Slave,1,Old Stone Church,Newmarket,NH,USA,","
+1988-12-17,1988,0,4,2,1,0,0,5,1988 Tour,1988,Foam,Foam,1,Old Stone Church,Newmarket,NH,USA,>
+1988-12-17,1988,0,5,1,1,0,0,5,1988 Tour,1988,Possum,Possum,1,Old Stone Church,Newmarket,NH,USA,","
+1988-12-17,1988,0,6,2,1,0,0,5,1988 Tour,1988,Colonel Forbin's Ascent,Forbin's,1,Old Stone Church,Newmarket,NH,USA,>
+1988-12-17,1988,0,7,2,1,0,0,5,1988 Tour,1988,Fly Famous Mockingbird,Mockingbird,1,Old Stone Church,Newmarket,NH,USA,>
+1988-12-17,1988,0,8,6,1,0,0,5,1988 Tour,1988,David Bowie,Bowie,1,Old Stone Church,Newmarket,NH,USA,
