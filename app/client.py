@@ -1,6 +1,7 @@
 import pysh
 import os
 import itertools
+import concurrent.futures
 
 if "PHISH_API_KEY" in os.environ:
     apikey = os.environ["PHISH_API_KEY"]
@@ -35,13 +36,14 @@ class PhishNetClient():
             shows = [show for show in shows if show['showyear'] == str(year)]
 
         print(f"  downloading: year={year}, {len(shows)} shows")
-        setlist_data = []
-        for show in shows:
-            setlist = self.get_setlist_by_date(show['showdate'])
-            for index, setlist_song in enumerate(setlist):
-                setlist[index] = {key: setlist_song[key]
-                                  for key in SONG_KEYS if key in setlist_song}
 
+        with concurrent.futures.ThreadPoolExecutor() as executor:
+            setlists = list(executor.map(lambda show: self.get_setlist_by_date(show['showdate']), shows))
+
+        setlist_data = []
+        for setlist in setlists:
+            for index, setlist_song in enumerate(setlist):
+                setlist[index] = {key: setlist_song[key] for key in SONG_KEYS if key in setlist_song}
             setlist_data.append(setlist)
 
         return list(itertools.chain(*setlist_data))  # flatten
