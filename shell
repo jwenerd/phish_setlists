@@ -1,0 +1,12 @@
+#!/usr/bin/env python
+import IPython
+from app import *
+import pandas as pd
+
+data = pd.read_csv('data/csv/all.csv')
+print("--------------------------------------")
+print("data = pd.read_csv('data/csv/all.csv')")
+print("--------------------------------------")
+print("")
+
+IPython.embed()
