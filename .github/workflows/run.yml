@@ -1,9 +1,19 @@
+---
 name: run
-
 on:
   workflow_dispatch:
+    inputs:
+      run_option:
+        description: 'Run Option'
+        required: true
+        default: 'year'
+        type: choice
+        options:
+          - all
+          - year
   schedule:
     - cron: '0 3 * * *'
+    - cron: '0 5 * * 0'
 permissions:
   contents: write
 jobs:
@@ -19,15 +29,28 @@ jobs:
           python-version: '3.12'
           cache: 'poetry'
       - run: poetry install
-      - name: create file 🗄️
+      - name: run 🗄️
         env:
           PHISH_API_KEY: ${{ secrets.PHISH_API_KEY }}
-        run: poetry run python create_file
-      - name: commit 🤖
+          INPUT_RUN_OPTION: ${{ inputs.run_option }}
+          SCHEDULE_RUN_OPTION: ${{ github.event.schedule != '0 5 * * 0' && 'year' || 'all' }}
+          GITHUB_EVENT_SCHEDULE: ${{ github.event.schedule }}
+        run: |
+          true || 🚀
+
+          RUN_OPTION='year'
+          [[ -n $SCHEDULE_RUN_OPTION ]] && RUN_OPTION=$SCHEDULE_RUN_OPTION
+          [[ -n $INPUT_RUN_OPTION ]] && RUN_OPTION=$INPUT_RUN_OPTION
+
+          echo "::group::run $RUN_OPTION"
+          poetry run python run --update $RUN_OPTION
+          echo "::endgroup::"
+
+      - name: Commit 🤖
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "<>"
 
           git add -A data/csv/
-          git commit --message="Scheduled update: $(date +%Y-%m-%d)"
-          git push origin master
+          git diff-index --quiet HEAD || git commit --message="GitHub Action Update: $(date +%Y-%m-%d)"
+          git push origin $(git rev-parse --abbrev-ref HEAD)

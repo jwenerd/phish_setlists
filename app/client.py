@@ -22,10 +22,8 @@ class PhishNetClient():
     def get_all_shows(self):
         if self._all_shows:
             return self._all_shows
-        all_shows = self.client.get_shows(
-            parameters=pysh.Parameters(order_by='showdate'))
-        self._all_shows = [show for show in all_shows if str(
-            show.get('artist_name')).lower() == 'phish']
+        all_shows = self.client.get_shows(parameters=pysh.Parameters(order_by='showdate'))
+        self._all_shows = [show for show in all_shows if str(show.get('artist_name')).lower() == 'phish']
         return self._all_shows
 
     def get_setlist_by_date(self, date):
@@ -34,8 +32,9 @@ class PhishNetClient():
     def get_setlist_data(self, year=None):
         shows = self.get_all_shows()
         if year:
-            shows = [show for show in shows if show['showyear'] == year]
-        print(f"get_setlist_data: year={year}, {len(shows)} shows")
+            shows = [show for show in shows if show['showyear'] == str(year)]
+
+        print(f"  downloading: year={year}, {len(shows)} shows")
         setlist_data = []
         for show in shows:
             setlist = self.get_setlist_by_date(show['showdate'])

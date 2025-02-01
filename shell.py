@@ -1,4 +1,4 @@
 import IPython
-from data.create_file import create_file
+from data.create_file import *
 
 IPython.embed()
