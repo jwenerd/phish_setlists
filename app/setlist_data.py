@@ -12,9 +12,14 @@ class SetlistData:
         df[self.to_numeric] = df[self.to_numeric].apply(pd.to_numeric)
         df = df.sort_values(self.to_sort, ascending=[True, True])
 
-        # strip all
-        def trim_strings(x): return x.strip() if isinstance(x, str) else x
-        df = df.map(trim_strings)
+        # strip all, correct encoding from client
+        def format_strings(x):
+            if isinstance(x, str):
+                return x.encode('latin-1').decode('utf-8').strip()
+            else:
+                return x
+
+        df = df.map(format_strings)
         return df
 
     def save_all(self):

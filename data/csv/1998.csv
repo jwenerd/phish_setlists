@@ -790,31 +790,31 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1998-10-31,1998,0,23,5,3,0,0,3,1998 Fall Tour,1998 Fall,Ghost,Ghost,1,Thomas & Mack Center,Las Vegas,NV,USA,
 1998-10-31,1998,0,24,2,e,0,0,10,1998 Fall Tour,1998 Fall,Sleeping Monkey,Sleeping Monkey,1,Thomas & Mack Center,Las Vegas,NV,USA,>
 1998-10-31,1998,0,25,6,e,0,0,9,1998 Fall Tour,1998 Fall,Tweezer Reprise,Tweeprise,1,Thomas & Mack Center,Las Vegas,NV,USA,
-1998-11-02,1998,0,1,3,1,0,0,17,1998 Fall Tour,1998 Fall,Tube,Tube,1,The âEâ Center,West Valley City,UT,USA,->
-1998-11-02,1998,0,2,3,1,0,0,15,1998 Fall Tour,1998 Fall,Drowned,Drowned,0,The âEâ Center,West Valley City,UT,USA,->
-1998-11-02,1998,0,3,1,1,0,0,28,1998 Fall Tour,1998 Fall,Jesus Just Left Chicago,JJLC,0,The âEâ Center,West Valley City,UT,USA,","
-1998-11-02,1998,0,4,1,1,0,0,2,1998 Fall Tour,1998 Fall,Driver,Driver,1,The âEâ Center,West Valley City,UT,USA,","
-1998-11-02,1998,0,5,1,1,0,0,9,1998 Fall Tour,1998 Fall,Bittersweet Motel,Bittersweet Motel,1,The âEâ Center,West Valley City,UT,USA,","
-1998-11-02,1998,0,6,1,1,0,0,3,1998 Fall Tour,1998 Fall,Limb By Limb,LxL,1,The âEâ Center,West Valley City,UT,USA,","
-1998-11-02,1998,0,7,2,1,0,0,4,1998 Fall Tour,1998 Fall,Wading in the Velvet Sea,Velvet Sea,1,The âEâ Center,West Valley City,UT,USA,>
-1998-11-02,1998,0,8,4,1,0,0,12,1998 Fall Tour,1998 Fall,Sample in a Jar,Sample,1,The âEâ Center,West Valley City,UT,USA,
-1998-11-02,1998,0,9,1,2,0,0,9,1998 Fall Tour,1998 Fall,Down with Disease,DwD,1,The âEâ Center,West Valley City,UT,USA,","
-1998-11-02,1998,0,10,2,2,0,0,9,1998 Fall Tour,1998 Fall,The Mango Song,Mango,1,The âEâ Center,West Valley City,UT,USA,>
-1998-11-02,1998,0,11,1,2,0,0,3,1998 Fall Tour,1998 Fall,The Moma Dance,Moma,1,The âEâ Center,West Valley City,UT,USA,","
-1998-11-02,1998,0,12,1,2,0,0,11,1998 Fall Tour,1998 Fall,You Enjoy Myself,YEM,1,The âEâ Center,West Valley City,UT,USA,","
-1998-11-02,1998,0,13,2,2,0,0,46,1998 Fall Tour,1998 Fall,Harpua,Harpua,1,The âEâ Center,West Valley City,UT,USA,>
-1998-11-02,1998,0,14,3,2,0,0,1218,1998 Fall Tour,1998 Fall,Speak to Me,Speak to Me,0,The âEâ Center,West Valley City,UT,USA,->
-1998-11-02,1998,0,15,2,2,0,0,230,1998 Fall Tour,1998 Fall,Breathe,Breathe,0,The âEâ Center,West Valley City,UT,USA,>
-1998-11-02,1998,0,16,1,2,0,0,1218,1998 Fall Tour,1998 Fall,On The Run,On The Run,0,The âEâ Center,West Valley City,UT,USA,","
-1998-11-02,1998,0,17,2,2,0,0,1218,1998 Fall Tour,1998 Fall,Time,Time,0,The âEâ Center,West Valley City,UT,USA,>
-1998-11-02,1998,0,18,2,2,0,0,333,1998 Fall Tour,1998 Fall,The Great Gig in the Sky,Great Gig in the Sky,0,The âEâ Center,West Valley City,UT,USA,>
-1998-11-02,1998,0,19,2,2,0,0,1218,1998 Fall Tour,1998 Fall,Money,Money,0,The âEâ Center,West Valley City,UT,USA,>
-1998-11-02,1998,0,20,3,2,0,0,1218,1998 Fall Tour,1998 Fall,Us and Them,Us and Them,0,The âEâ Center,West Valley City,UT,USA,->
-1998-11-02,1998,0,21,3,2,0,0,1218,1998 Fall Tour,1998 Fall,Any Colour You Like,Any Colour You Like,0,The âEâ Center,West Valley City,UT,USA,->
-1998-11-02,1998,0,22,3,2,0,0,1218,1998 Fall Tour,1998 Fall,Brain Damage,Brain Damage,0,The âEâ Center,West Valley City,UT,USA,->
-1998-11-02,1998,0,23,2,2,0,0,1218,1998 Fall Tour,1998 Fall,Eclipse,Eclipse,0,The âEâ Center,West Valley City,UT,USA,>
-1998-11-02,1998,0,24,5,2,0,0,0,1998 Fall Tour,1998 Fall,Harpua,Harpua,1,The âEâ Center,West Valley City,UT,USA,
-1998-11-02,1998,0,25,6,e,0,0,1218,1998 Fall Tour,1998 Fall,Smells Like Teen Spirit,Smells Like Teen Spirit,0,The âEâ Center,West Valley City,UT,USA,
+1998-11-02,1998,0,1,3,1,0,0,17,1998 Fall Tour,1998 Fall,Tube,Tube,1,The “E” Center,West Valley City,UT,USA,->
+1998-11-02,1998,0,2,3,1,0,0,15,1998 Fall Tour,1998 Fall,Drowned,Drowned,0,The “E” Center,West Valley City,UT,USA,->
+1998-11-02,1998,0,3,1,1,0,0,28,1998 Fall Tour,1998 Fall,Jesus Just Left Chicago,JJLC,0,The “E” Center,West Valley City,UT,USA,","
+1998-11-02,1998,0,4,1,1,0,0,2,1998 Fall Tour,1998 Fall,Driver,Driver,1,The “E” Center,West Valley City,UT,USA,","
+1998-11-02,1998,0,5,1,1,0,0,9,1998 Fall Tour,1998 Fall,Bittersweet Motel,Bittersweet Motel,1,The “E” Center,West Valley City,UT,USA,","
+1998-11-02,1998,0,6,1,1,0,0,3,1998 Fall Tour,1998 Fall,Limb By Limb,LxL,1,The “E” Center,West Valley City,UT,USA,","
+1998-11-02,1998,0,7,2,1,0,0,4,1998 Fall Tour,1998 Fall,Wading in the Velvet Sea,Velvet Sea,1,The “E” Center,West Valley City,UT,USA,>
+1998-11-02,1998,0,8,4,1,0,0,12,1998 Fall Tour,1998 Fall,Sample in a Jar,Sample,1,The “E” Center,West Valley City,UT,USA,
+1998-11-02,1998,0,9,1,2,0,0,9,1998 Fall Tour,1998 Fall,Down with Disease,DwD,1,The “E” Center,West Valley City,UT,USA,","
+1998-11-02,1998,0,10,2,2,0,0,9,1998 Fall Tour,1998 Fall,The Mango Song,Mango,1,The “E” Center,West Valley City,UT,USA,>
+1998-11-02,1998,0,11,1,2,0,0,3,1998 Fall Tour,1998 Fall,The Moma Dance,Moma,1,The “E” Center,West Valley City,UT,USA,","
+1998-11-02,1998,0,12,1,2,0,0,11,1998 Fall Tour,1998 Fall,You Enjoy Myself,YEM,1,The “E” Center,West Valley City,UT,USA,","
+1998-11-02,1998,0,13,2,2,0,0,46,1998 Fall Tour,1998 Fall,Harpua,Harpua,1,The “E” Center,West Valley City,UT,USA,>
+1998-11-02,1998,0,14,3,2,0,0,1218,1998 Fall Tour,1998 Fall,Speak to Me,Speak to Me,0,The “E” Center,West Valley City,UT,USA,->
+1998-11-02,1998,0,15,2,2,0,0,230,1998 Fall Tour,1998 Fall,Breathe,Breathe,0,The “E” Center,West Valley City,UT,USA,>
+1998-11-02,1998,0,16,1,2,0,0,1218,1998 Fall Tour,1998 Fall,On The Run,On The Run,0,The “E” Center,West Valley City,UT,USA,","
+1998-11-02,1998,0,17,2,2,0,0,1218,1998 Fall Tour,1998 Fall,Time,Time,0,The “E” Center,West Valley City,UT,USA,>
+1998-11-02,1998,0,18,2,2,0,0,333,1998 Fall Tour,1998 Fall,The Great Gig in the Sky,Great Gig in the Sky,0,The “E” Center,West Valley City,UT,USA,>
+1998-11-02,1998,0,19,2,2,0,0,1218,1998 Fall Tour,1998 Fall,Money,Money,0,The “E” Center,West Valley City,UT,USA,>
+1998-11-02,1998,0,20,3,2,0,0,1218,1998 Fall Tour,1998 Fall,Us and Them,Us and Them,0,The “E” Center,West Valley City,UT,USA,->
+1998-11-02,1998,0,21,3,2,0,0,1218,1998 Fall Tour,1998 Fall,Any Colour You Like,Any Colour You Like,0,The “E” Center,West Valley City,UT,USA,->
+1998-11-02,1998,0,22,3,2,0,0,1218,1998 Fall Tour,1998 Fall,Brain Damage,Brain Damage,0,The “E” Center,West Valley City,UT,USA,->
+1998-11-02,1998,0,23,2,2,0,0,1218,1998 Fall Tour,1998 Fall,Eclipse,Eclipse,0,The “E” Center,West Valley City,UT,USA,>
+1998-11-02,1998,0,24,5,2,0,0,0,1998 Fall Tour,1998 Fall,Harpua,Harpua,1,The “E” Center,West Valley City,UT,USA,
+1998-11-02,1998,0,25,6,e,0,0,1218,1998 Fall Tour,1998 Fall,Smells Like Teen Spirit,Smells Like Teen Spirit,0,The “E” Center,West Valley City,UT,USA,
 1998-11-03,1998,1,1,1,1,0,0,0,Not Part of a Tour,No Tour,Driver,Driver,1,KBCO Studio C,Boulder,CO,USA,","
 1998-11-03,1998,1,2,1,1,0,0,0,Not Part of a Tour,No Tour,Wading in the Velvet Sea,Velvet Sea,1,KBCO Studio C,Boulder,CO,USA,","
 1998-11-03,1998,1,3,1,1,0,0,0,Not Part of a Tour,No Tour,Possum,Possum,1,KBCO Studio C,Boulder,CO,USA,","

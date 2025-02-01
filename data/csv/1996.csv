@@ -167,36 +167,36 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1996-07-18,1996,0,5,1,1,0,0,4,1996 Summer European Tour,1996 Summer,Hello My Baby,Hello My Baby,0,Theatre de Verdure,Nice,,France,","
 1996-07-18,1996,0,6,1,1,0,0,2,1996 Summer European Tour,1996 Summer,It's Ice,It's Ice,1,Theatre de Verdure,Nice,,France,","
 1996-07-18,1996,0,7,6,1,0,0,3,1996 Summer European Tour,1996 Summer,You Enjoy Myself,YEM,1,Theatre de Verdure,Nice,,France,
-1996-07-19,1996,0,1,1,1,0,0,4,1996 Summer European Tour,1996 Summer,Runaway Jim,Runaway Jim,1,Les ArÃ¨nes d'Arles,Arles,,France,","
-1996-07-19,1996,0,2,1,1,0,0,22,1996 Summer European Tour,1996 Summer,Foam,Foam,1,Les ArÃ¨nes d'Arles,Arles,,France,","
-1996-07-19,1996,0,3,1,1,0,0,9,1996 Summer European Tour,1996 Summer,Sweet Adeline,Sweet Adeline,0,Les ArÃ¨nes d'Arles,Arles,,France,","
-1996-07-19,1996,0,4,1,1,0,0,7,1996 Summer European Tour,1996 Summer,Waste,Waste,1,Les ArÃ¨nes d'Arles,Arles,,France,","
-1996-07-19,1996,0,5,1,1,0,0,4,1996 Summer European Tour,1996 Summer,Chalk Dust Torture,CDT,1,Les ArÃ¨nes d'Arles,Arles,,France,","
-1996-07-19,1996,0,6,6,1,0,0,15,1996 Summer European Tour,1996 Summer,The Squirming Coil,Coil,1,Les ArÃ¨nes d'Arles,Arles,,France,
-1996-07-21,1996,0,1,2,1,0,0,4,1996 Summer European Tour,1996 Summer,Golgi Apparatus,Golgi,1,The Forum,NÃ¼remberg,,Germany,>
-1996-07-21,1996,0,2,2,1,0,0,31,1996 Summer European Tour,1996 Summer,Guelah Papyrus,Guelah,1,The Forum,NÃ¼remberg,,Germany,>
-1996-07-21,1996,0,3,2,1,0,0,19,1996 Summer European Tour,1996 Summer,Rift,Rift,1,The Forum,NÃ¼remberg,,Germany,>
-1996-07-21,1996,0,4,1,1,0,0,6,1996 Summer European Tour,1996 Summer,Tweezer,Tweezer,1,The Forum,NÃ¼remberg,,Germany,","
-1996-07-21,1996,0,5,1,1,0,0,34,1996 Summer European Tour,1996 Summer,If I Could,If I Could,1,The Forum,NÃ¼remberg,,Germany,","
-1996-07-21,1996,0,6,1,1,0,0,30,1996 Summer European Tour,1996 Summer,My Mind's Got a Mind of its Own,MMGAMOIO,0,The Forum,NÃ¼remberg,,Germany,","
-1996-07-21,1996,0,7,1,1,0,0,5,1996 Summer European Tour,1996 Summer,Split Open and Melt,SOAMelt,1,The Forum,NÃ¼remberg,,Germany,","
-1996-07-21,1996,0,8,2,1,0,0,24,1996 Summer European Tour,1996 Summer,The Horse,Horse,1,The Forum,NÃ¼remberg,,Germany,>
-1996-07-21,1996,0,9,1,1,0,0,24,1996 Summer European Tour,1996 Summer,Silent in the Morning,Silent,1,The Forum,NÃ¼remberg,,Germany,","
-1996-07-21,1996,0,10,1,1,0,0,6,1996 Summer European Tour,1996 Summer,Taste,Taste,1,The Forum,NÃ¼remberg,,Germany,","
-1996-07-21,1996,0,11,1,1,0,0,1047,1996 Summer European Tour,1996 Summer,Train Song,Train Song,1,The Forum,NÃ¼remberg,,Germany,","
-1996-07-21,1996,0,12,2,1,0,0,14,1996 Summer European Tour,1996 Summer,Fee,Fee,1,The Forum,NÃ¼remberg,,Germany,>
-1996-07-21,1996,0,13,2,1,0,0,19,1996 Summer European Tour,1996 Summer,Timber (Jerry the Mule),Timber Ho,0,The Forum,NÃ¼remberg,,Germany,>
-1996-07-21,1996,0,14,4,1,0,0,6,1996 Summer European Tour,1996 Summer,Johnny B. Goode,JBG,0,The Forum,NÃ¼remberg,,Germany,
-1996-07-21,1996,0,15,1,2,0,0,6,1996 Summer European Tour,1996 Summer,Llama,Llama,1,The Forum,NÃ¼remberg,,Germany,","
-1996-07-21,1996,0,16,2,2,0,0,6,1996 Summer European Tour,1996 Summer,Theme From the Bottom,Theme,1,The Forum,NÃ¼remberg,,Germany,>
-1996-07-21,1996,0,17,1,2,0,0,5,1996 Summer European Tour,1996 Summer,Reba,Reba,1,The Forum,NÃ¼remberg,,Germany,","
-1996-07-21,1996,0,18,1,2,0,0,37,1996 Summer European Tour,1996 Summer,Life on Mars?,Life on Mars?,0,The Forum,NÃ¼remberg,,Germany,","
-1996-07-21,1996,0,19,1,2,0,0,6,1996 Summer European Tour,1996 Summer,Free,Free,1,The Forum,NÃ¼remberg,,Germany,","
-1996-07-21,1996,0,20,2,2,0,0,4,1996 Summer European Tour,1996 Summer,Run Like an Antelope,Antelope,1,The Forum,NÃ¼remberg,,Germany,>
-1996-07-21,1996,0,21,3,2,0,0,17,1996 Summer European Tour,1996 Summer,Simple,Simple,1,The Forum,NÃ¼remberg,,Germany,->
-1996-07-21,1996,0,22,2,2,0,0,6,1996 Summer European Tour,1996 Summer,Prince Caspian,Caspian,1,The Forum,NÃ¼remberg,,Germany,>
-1996-07-21,1996,0,23,5,2,0,0,6,1996 Summer European Tour,1996 Summer,Suzy Greenberg,Suzy,1,The Forum,NÃ¼remberg,,Germany,
-1996-07-21,1996,0,24,6,e,0,0,4,1996 Summer European Tour,1996 Summer,Harry Hood,Hood,1,The Forum,NÃ¼remberg,,Germany,
+1996-07-19,1996,0,1,1,1,0,0,4,1996 Summer European Tour,1996 Summer,Runaway Jim,Runaway Jim,1,Les Arènes d'Arles,Arles,,France,","
+1996-07-19,1996,0,2,1,1,0,0,22,1996 Summer European Tour,1996 Summer,Foam,Foam,1,Les Arènes d'Arles,Arles,,France,","
+1996-07-19,1996,0,3,1,1,0,0,9,1996 Summer European Tour,1996 Summer,Sweet Adeline,Sweet Adeline,0,Les Arènes d'Arles,Arles,,France,","
+1996-07-19,1996,0,4,1,1,0,0,7,1996 Summer European Tour,1996 Summer,Waste,Waste,1,Les Arènes d'Arles,Arles,,France,","
+1996-07-19,1996,0,5,1,1,0,0,4,1996 Summer European Tour,1996 Summer,Chalk Dust Torture,CDT,1,Les Arènes d'Arles,Arles,,France,","
+1996-07-19,1996,0,6,6,1,0,0,15,1996 Summer European Tour,1996 Summer,The Squirming Coil,Coil,1,Les Arènes d'Arles,Arles,,France,
+1996-07-21,1996,0,1,2,1,0,0,4,1996 Summer European Tour,1996 Summer,Golgi Apparatus,Golgi,1,The Forum,Nüremberg,,Germany,>
+1996-07-21,1996,0,2,2,1,0,0,31,1996 Summer European Tour,1996 Summer,Guelah Papyrus,Guelah,1,The Forum,Nüremberg,,Germany,>
+1996-07-21,1996,0,3,2,1,0,0,19,1996 Summer European Tour,1996 Summer,Rift,Rift,1,The Forum,Nüremberg,,Germany,>
+1996-07-21,1996,0,4,1,1,0,0,6,1996 Summer European Tour,1996 Summer,Tweezer,Tweezer,1,The Forum,Nüremberg,,Germany,","
+1996-07-21,1996,0,5,1,1,0,0,34,1996 Summer European Tour,1996 Summer,If I Could,If I Could,1,The Forum,Nüremberg,,Germany,","
+1996-07-21,1996,0,6,1,1,0,0,30,1996 Summer European Tour,1996 Summer,My Mind's Got a Mind of its Own,MMGAMOIO,0,The Forum,Nüremberg,,Germany,","
+1996-07-21,1996,0,7,1,1,0,0,5,1996 Summer European Tour,1996 Summer,Split Open and Melt,SOAMelt,1,The Forum,Nüremberg,,Germany,","
+1996-07-21,1996,0,8,2,1,0,0,24,1996 Summer European Tour,1996 Summer,The Horse,Horse,1,The Forum,Nüremberg,,Germany,>
+1996-07-21,1996,0,9,1,1,0,0,24,1996 Summer European Tour,1996 Summer,Silent in the Morning,Silent,1,The Forum,Nüremberg,,Germany,","
+1996-07-21,1996,0,10,1,1,0,0,6,1996 Summer European Tour,1996 Summer,Taste,Taste,1,The Forum,Nüremberg,,Germany,","
+1996-07-21,1996,0,11,1,1,0,0,1047,1996 Summer European Tour,1996 Summer,Train Song,Train Song,1,The Forum,Nüremberg,,Germany,","
+1996-07-21,1996,0,12,2,1,0,0,14,1996 Summer European Tour,1996 Summer,Fee,Fee,1,The Forum,Nüremberg,,Germany,>
+1996-07-21,1996,0,13,2,1,0,0,19,1996 Summer European Tour,1996 Summer,Timber (Jerry the Mule),Timber Ho,0,The Forum,Nüremberg,,Germany,>
+1996-07-21,1996,0,14,4,1,0,0,6,1996 Summer European Tour,1996 Summer,Johnny B. Goode,JBG,0,The Forum,Nüremberg,,Germany,
+1996-07-21,1996,0,15,1,2,0,0,6,1996 Summer European Tour,1996 Summer,Llama,Llama,1,The Forum,Nüremberg,,Germany,","
+1996-07-21,1996,0,16,2,2,0,0,6,1996 Summer European Tour,1996 Summer,Theme From the Bottom,Theme,1,The Forum,Nüremberg,,Germany,>
+1996-07-21,1996,0,17,1,2,0,0,5,1996 Summer European Tour,1996 Summer,Reba,Reba,1,The Forum,Nüremberg,,Germany,","
+1996-07-21,1996,0,18,1,2,0,0,37,1996 Summer European Tour,1996 Summer,Life on Mars?,Life on Mars?,0,The Forum,Nüremberg,,Germany,","
+1996-07-21,1996,0,19,1,2,0,0,6,1996 Summer European Tour,1996 Summer,Free,Free,1,The Forum,Nüremberg,,Germany,","
+1996-07-21,1996,0,20,2,2,0,0,4,1996 Summer European Tour,1996 Summer,Run Like an Antelope,Antelope,1,The Forum,Nüremberg,,Germany,>
+1996-07-21,1996,0,21,3,2,0,0,17,1996 Summer European Tour,1996 Summer,Simple,Simple,1,The Forum,Nüremberg,,Germany,->
+1996-07-21,1996,0,22,2,2,0,0,6,1996 Summer European Tour,1996 Summer,Prince Caspian,Caspian,1,The Forum,Nüremberg,,Germany,>
+1996-07-21,1996,0,23,5,2,0,0,6,1996 Summer European Tour,1996 Summer,Suzy Greenberg,Suzy,1,The Forum,Nüremberg,,Germany,
+1996-07-21,1996,0,24,6,e,0,0,4,1996 Summer European Tour,1996 Summer,Harry Hood,Hood,1,The Forum,Nüremberg,,Germany,
 1996-07-22,1996,0,1,2,1,0,0,4,1996 Summer European Tour,1996 Summer,Sample in a Jar,Sample,1,Tanzbrunnen,Cologne,,Germany,>
 1996-07-22,1996,0,2,1,1,0,0,6,1996 Summer European Tour,1996 Summer,Poor Heart,Poor Heart,1,Tanzbrunnen,Cologne,,Germany,","
 1996-07-22,1996,0,3,1,1,0,0,5,1996 Summer European Tour,1996 Summer,Cavern,Cavern,1,Tanzbrunnen,Cologne,,Germany,","
