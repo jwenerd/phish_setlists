@@ -1,60 +1,60 @@
 showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,tourwhen,song,nickname,is_original,venue,city,state,country,trans_mark
-2025-01-28,2025,1,1,1,1,0,0,382,Not Part of a Tour,No Tour,Jam,Jam,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2025-01-28,2025,1,2,1,1,0,0,18,Not Part of a Tour,No Tour,My Soul,My Soul,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2025-01-28,2025,1,3,1,1,0,0,10,Not Part of a Tour,No Tour,Ocelot,Ocelot,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2025-01-28,2025,1,4,6,1,2,2,382,Not Part of a Tour,No Tour,Jam,Jam,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,
-2025-01-29,2025,0,1,1,1,0,0,0,2025 Mexico,2025 Mexico,Sand,Sand,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2025-01-28,2025,1,1,1,1,0,0,382,Not Part of a Tour,No Tour,Jam,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2025-01-28,2025,1,2,1,1,0,0,18,Not Part of a Tour,No Tour,My Soul,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2025-01-28,2025,1,3,1,1,0,0,10,Not Part of a Tour,No Tour,Ocelot,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2025-01-28,2025,1,4,6,1,2,2,382,Not Part of a Tour,No Tour,Jam,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,
+2025-01-29,2025,0,1,1,1,0,0,0,2025 Mexico,2025 Mexico,Sand,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2025-01-29,2025,0,2,1,1,0,0,1,2025 Mexico,2025 Mexico,Theme From the Bottom,Theme,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2025-01-29,2025,0,3,1,1,0,0,3,2025 Mexico,2025 Mexico,Free,Free,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2025-01-29,2025,0,4,1,1,0,0,28,2025 Mexico,2025 Mexico,Mull,Mull,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2025-01-29,2025,0,3,1,1,0,0,3,2025 Mexico,2025 Mexico,Free,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2025-01-29,2025,0,4,1,1,0,0,28,2025 Mexico,2025 Mexico,Mull,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2025-01-29,2025,0,5,1,1,0,0,3,2025 Mexico,2025 Mexico,Kill Devil Falls,KDF,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2025-01-29,2025,0,6,1,1,0,0,2,2025 Mexico,2025 Mexico,Ghost,Ghost,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2025-01-29,2025,0,7,1,1,0,0,0,2025 Mexico,2025 Mexico,Evolve,Evolve,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2025-01-29,2025,0,6,1,1,0,0,2,2025 Mexico,2025 Mexico,Ghost,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2025-01-29,2025,0,7,1,1,0,0,0,2025 Mexico,2025 Mexico,Evolve,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2025-01-29,2025,0,8,4,1,0,0,3,2025 Mexico,2025 Mexico,Run Like an Antelope,Antelope,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
-2025-01-29,2025,0,9,2,2,0,0,7,2025 Mexico,2025 Mexico,Set Your Soul Free,Set Your Soul Free,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2025-01-29,2025,0,10,2,2,0,0,10,2025 Mexico,2025 Mexico,Cities,Cities,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2025-01-29,2025,0,11,2,2,0,0,6,2025 Mexico,2025 Mexico,Light,Light,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2025-01-29,2025,0,9,2,2,0,0,7,2025 Mexico,2025 Mexico,Set Your Soul Free,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2025-01-29,2025,0,10,2,2,0,0,10,2025 Mexico,2025 Mexico,Cities,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2025-01-29,2025,0,11,2,2,0,0,6,2025 Mexico,2025 Mexico,Light,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2025-01-29,2025,0,12,2,2,0,0,0,2025 Mexico,2025 Mexico,Mike's Song,Mike's,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2025-01-29,2025,0,13,2,2,0,0,12,2025 Mexico,2025 Mexico,I Am Hydrogen,Hydrogen,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2025-01-29,2025,0,14,1,2,0,0,0,2025 Mexico,2025 Mexico,Weekapaug Groove,Weekapaug,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2025-01-29,2025,0,15,2,2,0,0,3,2025 Mexico,2025 Mexico,Twist,Twist,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2025-01-29,2025,0,15,2,2,0,0,3,2025 Mexico,2025 Mexico,Twist,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2025-01-29,2025,0,16,5,2,0,0,0,2025 Mexico,2025 Mexico,Backwards Down the Number Line,BDTNL,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,
 2025-01-29,2025,0,17,2,e,0,0,4,2025 Mexico,2025 Mexico,My Sweet One,MSO,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2025-01-29,2025,0,18,6,e,2,2,0,2025 Mexico,2025 Mexico,Carini,Carini,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
-2025-01-30,2025,0,1,1,1,0,0,4,2025 Mexico,2025 Mexico,Blaze On,Blaze On,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2025-01-30,2025,0,2,1,1,0,0,22,2025 Mexico,2025 Mexico,Plasma,Plasma,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2025-01-30,2025,0,3,1,1,0,0,23,2025 Mexico,2025 Mexico,Halfway to the Moon,Halfway to the Moon,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2025-01-30,2025,0,4,1,1,0,0,4,2025 Mexico,2025 Mexico,46 Days,46 Days,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2025-01-29,2025,0,18,6,e,2,2,0,2025 Mexico,2025 Mexico,Carini,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
+2025-01-30,2025,0,1,1,1,0,0,4,2025 Mexico,2025 Mexico,Blaze On,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2025-01-30,2025,0,2,1,1,0,0,22,2025 Mexico,2025 Mexico,Plasma,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2025-01-30,2025,0,3,1,1,0,0,23,2025 Mexico,2025 Mexico,Halfway to the Moon,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2025-01-30,2025,0,4,1,1,0,0,4,2025 Mexico,2025 Mexico,46 Days,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2025-01-30,2025,0,5,1,1,0,0,4,2025 Mexico,2025 Mexico,Back on the Train,BOTT,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2025-01-30,2025,0,6,2,1,0,0,17,2025 Mexico,2025 Mexico,Gumbo,Gumbo,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2025-01-30,2025,0,7,1,1,0,0,15,2025 Mexico,2025 Mexico,Funky Bitch,Funky Bitch,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2025-01-30,2025,0,8,1,1,0,0,15,2025 Mexico,2025 Mexico,Roggae,Roggae,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2025-01-30,2025,0,6,2,1,0,0,17,2025 Mexico,2025 Mexico,Gumbo,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2025-01-30,2025,0,7,1,1,0,0,15,2025 Mexico,2025 Mexico,Funky Bitch,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2025-01-30,2025,0,8,1,1,0,0,15,2025 Mexico,2025 Mexico,Roggae,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2025-01-30,2025,0,9,2,1,0,0,17,2025 Mexico,2025 Mexico,Halley's Comet,Halley's,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2025-01-30,2025,0,10,2,1,0,0,3,2025 Mexico,2025 Mexico,Runaway Jim,Runaway Jim,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2025-01-30,2025,0,11,4,1,0,0,4,2025 Mexico,2025 Mexico,Cavern,Cavern,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
-2025-01-30,2025,0,12,2,2,0,0,2,2025 Mexico,2025 Mexico,Everything's Right,Everything's Right,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2025-01-30,2025,0,10,2,1,0,0,3,2025 Mexico,2025 Mexico,Runaway Jim,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2025-01-30,2025,0,11,4,1,0,0,4,2025 Mexico,2025 Mexico,Cavern,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
+2025-01-30,2025,0,12,2,2,0,0,2,2025 Mexico,2025 Mexico,Everything's Right,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2025-01-30,2025,0,13,1,2,0,0,2,2025 Mexico,2025 Mexico,No Men In No Man's Land,NMINML,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2025-01-30,2025,0,14,2,2,0,0,26,2025 Mexico,2025 Mexico,Twenty Years Later,Twenty Years Later,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2025-01-30,2025,0,15,2,2,0,0,2,2025 Mexico,2025 Mexico,Piper,Piper,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2025-01-30,2025,0,16,1,2,0,0,1,2025 Mexico,2025 Mexico,Taste,Taste,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2025-01-30,2025,0,17,1,2,0,0,23,2025 Mexico,2025 Mexico,Shade,Shade,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2025-01-30,2025,0,14,2,2,0,0,26,2025 Mexico,2025 Mexico,Twenty Years Later,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2025-01-30,2025,0,15,2,2,0,0,2,2025 Mexico,2025 Mexico,Piper,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2025-01-30,2025,0,16,1,2,0,0,1,2025 Mexico,2025 Mexico,Taste,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2025-01-30,2025,0,17,1,2,0,0,23,2025 Mexico,2025 Mexico,Shade,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2025-01-30,2025,0,18,1,2,0,0,7,2025 Mexico,2025 Mexico,The Wedge,Wedge,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2025-01-30,2025,0,19,5,2,0,0,1,2025 Mexico,2025 Mexico,Character Zero,Character Zero,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
+2025-01-30,2025,0,19,5,2,0,0,1,2025 Mexico,2025 Mexico,Character Zero,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
 2025-01-30,2025,0,20,6,e,0,0,2,2025 Mexico,2025 Mexico,Harry Hood,Hood,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
 2025-01-31,2025,0,1,1,1,0,0,27,2025 Mexico,2025 Mexico,Cars Trucks Buses,CTB,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2025-01-31,2025,0,2,1,1,0,0,5,2025 Mexico,2025 Mexico,The Moma Dance,Moma,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2025-01-31,2025,0,3,1,1,0,0,3,2025 Mexico,2025 Mexico,Sigma Oasis,Sigma Oasis,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2025-01-31,2025,0,4,1,1,0,0,6,2025 Mexico,2025 Mexico,Tube,Tube,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2025-01-31,2025,0,3,1,1,0,0,3,2025 Mexico,2025 Mexico,Sigma Oasis,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2025-01-31,2025,0,4,1,1,0,0,6,2025 Mexico,2025 Mexico,Tube,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2025-01-31,2025,0,5,1,1,0,0,4,2025 Mexico,2025 Mexico,Wolfman's Brother,Wolfman's,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2025-01-31,2025,0,6,1,1,0,0,4,2025 Mexico,2025 Mexico,Maze,Maze,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2025-01-31,2025,0,7,1,1,0,0,8,2025 Mexico,2025 Mexico,Lonely Trip,Lonely Trip,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2025-01-31,2025,0,8,4,1,0,0,4,2025 Mexico,2025 Mexico,Possum,Possum,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
-2025-01-31,2025,0,9,1,2,0,0,6,2025 Mexico,2025 Mexico,Oblivion,Oblivion,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2025-01-31,2025,0,10,1,2,0,0,53,2025 Mexico,2025 Mexico,Sightless Escape,Sightless Escape,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2025-01-31,2025,0,6,1,1,0,0,4,2025 Mexico,2025 Mexico,Maze,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2025-01-31,2025,0,7,1,1,0,0,8,2025 Mexico,2025 Mexico,Lonely Trip,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2025-01-31,2025,0,8,4,1,0,0,4,2025 Mexico,2025 Mexico,Possum,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
+2025-01-31,2025,0,9,1,2,0,0,6,2025 Mexico,2025 Mexico,Oblivion,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2025-01-31,2025,0,10,1,2,0,0,53,2025 Mexico,2025 Mexico,Sightless Escape,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2025-01-31,2025,0,11,2,2,0,0,5,2025 Mexico,2025 Mexico,Prince Caspian,Caspian,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2025-01-31,2025,0,12,1,2,0,0,5,2025 Mexico,2025 Mexico,Fuego,Fuego,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2025-01-31,2025,0,13,1,2,0,0,19,2025 Mexico,2025 Mexico,Beneath a Sea of Stars Part 1,Beneath a Sea of Stars Part 1,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2025-01-31,2025,0,12,1,2,0,0,5,2025 Mexico,2025 Mexico,Fuego,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2025-01-31,2025,0,13,1,2,0,0,19,2025 Mexico,2025 Mexico,Beneath a Sea of Stars Part 1,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2025-01-31,2025,0,14,2,2,0,0,3,2025 Mexico,2025 Mexico,Chalk Dust Torture,CDT,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2025-01-31,2025,0,15,5,2,0,0,4,2025 Mexico,2025 Mexico,Most Events Aren't Planned,Most Events Aren't Planned,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,
-2025-01-31,2025,0,16,2,e,0,0,17,2025 Mexico,2025 Mexico,Saw It Again,Saw It Again,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2025-01-31,2025,0,17,6,e,0,0,3,2025 Mexico,2025 Mexico,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
+2025-01-31,2025,0,15,5,2,0,0,4,2025 Mexico,2025 Mexico,Most Events Aren't Planned,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,
+2025-01-31,2025,0,16,2,e,0,0,17,2025 Mexico,2025 Mexico,Saw It Again,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2025-01-31,2025,0,17,6,e,0,0,3,2025 Mexico,2025 Mexico,Say It To Me S.A.N.T.O.S.,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,

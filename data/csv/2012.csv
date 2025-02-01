@@ -1,672 +1,672 @@
 showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,tourwhen,song,nickname,is_original,venue,city,state,country,trans_mark
-2012-06-07,2012,0,1,2,1,0,0,26,2012 Early Summer Tour,2012 Summer,Buried Alive,Buried Alive,1,DCU Center,Worcester,MA,USA,>
-2012-06-07,2012,0,2,2,1,0,0,10,2012 Early Summer Tour,2012 Summer,Runaway Jim,Runaway Jim,1,DCU Center,Worcester,MA,USA,>
-2012-06-07,2012,0,3,1,1,0,0,20,2012 Early Summer Tour,2012 Summer,Torn and Frayed,Torn and Frayed,0,DCU Center,Worcester,MA,USA,","
-2012-06-07,2012,0,4,1,1,0,0,3,2012 Early Summer Tour,2012 Summer,Funky Bitch,Funky Bitch,0,DCU Center,Worcester,MA,USA,","
+2012-06-07,2012,0,1,2,1,0,0,26,2012 Early Summer Tour,2012 Summer,Buried Alive,,1,DCU Center,Worcester,MA,USA,>
+2012-06-07,2012,0,2,2,1,0,0,10,2012 Early Summer Tour,2012 Summer,Runaway Jim,,1,DCU Center,Worcester,MA,USA,>
+2012-06-07,2012,0,3,1,1,0,0,20,2012 Early Summer Tour,2012 Summer,Torn and Frayed,,0,DCU Center,Worcester,MA,USA,","
+2012-06-07,2012,0,4,1,1,0,0,3,2012 Early Summer Tour,2012 Summer,Funky Bitch,,0,DCU Center,Worcester,MA,USA,","
 2012-06-07,2012,0,5,2,1,0,0,3,2012 Early Summer Tour,2012 Summer,The Moma Dance,Moma,1,DCU Center,Worcester,MA,USA,>
-2012-06-07,2012,0,6,1,1,0,0,2,2012 Early Summer Tour,2012 Summer,Rift,Rift,1,DCU Center,Worcester,MA,USA,","
-2012-06-07,2012,0,7,1,1,0,0,78,2012 Early Summer Tour,2012 Summer,Nothing,Nothing,0,DCU Center,Worcester,MA,USA,","
-2012-06-07,2012,0,8,1,1,0,0,1,2012 Early Summer Tour,2012 Summer,Ocelot,Ocelot,1,DCU Center,Worcester,MA,USA,","
-2012-06-07,2012,0,9,1,1,0,0,91,2012 Early Summer Tour,2012 Summer,Beauty of a Broken Heart,Beauty of a Broken Heart,0,DCU Center,Worcester,MA,USA,","
-2012-06-07,2012,0,10,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,Possum,Possum,1,DCU Center,Worcester,MA,USA,","
-2012-06-07,2012,0,11,4,1,0,0,4,2012 Early Summer Tour,2012 Summer,Rocky Top,Rocky Top,0,DCU Center,Worcester,MA,USA,
-2012-06-07,2012,0,12,3,2,0,0,4,2012 Early Summer Tour,2012 Summer,Carini,Carini,1,DCU Center,Worcester,MA,USA,->
-2012-06-07,2012,0,13,2,2,0,0,17,2012 Early Summer Tour,2012 Summer,Taste,Taste,1,DCU Center,Worcester,MA,USA,>
-2012-06-07,2012,0,14,2,2,0,0,1,2012 Early Summer Tour,2012 Summer,Ghost,Ghost,1,DCU Center,Worcester,MA,USA,>
+2012-06-07,2012,0,6,1,1,0,0,2,2012 Early Summer Tour,2012 Summer,Rift,,1,DCU Center,Worcester,MA,USA,","
+2012-06-07,2012,0,7,1,1,0,0,78,2012 Early Summer Tour,2012 Summer,Nothing,,0,DCU Center,Worcester,MA,USA,","
+2012-06-07,2012,0,8,1,1,0,0,1,2012 Early Summer Tour,2012 Summer,Ocelot,,1,DCU Center,Worcester,MA,USA,","
+2012-06-07,2012,0,9,1,1,0,0,91,2012 Early Summer Tour,2012 Summer,Beauty of a Broken Heart,,0,DCU Center,Worcester,MA,USA,","
+2012-06-07,2012,0,10,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,Possum,,1,DCU Center,Worcester,MA,USA,","
+2012-06-07,2012,0,11,4,1,0,0,4,2012 Early Summer Tour,2012 Summer,Rocky Top,,0,DCU Center,Worcester,MA,USA,
+2012-06-07,2012,0,12,3,2,0,0,4,2012 Early Summer Tour,2012 Summer,Carini,,1,DCU Center,Worcester,MA,USA,->
+2012-06-07,2012,0,13,2,2,0,0,17,2012 Early Summer Tour,2012 Summer,Taste,,1,DCU Center,Worcester,MA,USA,>
+2012-06-07,2012,0,14,2,2,0,0,1,2012 Early Summer Tour,2012 Summer,Ghost,,1,DCU Center,Worcester,MA,USA,>
 2012-06-07,2012,0,15,2,2,0,0,2,2012 Early Summer Tour,2012 Summer,Boogie On Reggae Woman,Boogie On,0,DCU Center,Worcester,MA,USA,>
-2012-06-07,2012,0,16,1,2,0,0,102,2012 Early Summer Tour,2012 Summer,If I Could,If I Could,1,DCU Center,Worcester,MA,USA,","
+2012-06-07,2012,0,16,1,2,0,0,102,2012 Early Summer Tour,2012 Summer,If I Could,,1,DCU Center,Worcester,MA,USA,","
 2012-06-07,2012,0,17,2,2,0,0,2,2012 Early Summer Tour,2012 Summer,Quinn the Eskimo (The Mighty Quinn),Quinn,0,DCU Center,Worcester,MA,USA,>
 2012-06-07,2012,0,18,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Harry Hood,Hood,1,DCU Center,Worcester,MA,USA,>
-2012-06-07,2012,0,19,2,2,0,0,1,2012 Early Summer Tour,2012 Summer,Cavern,Cavern,1,DCU Center,Worcester,MA,USA,>
-2012-06-07,2012,0,20,5,2,0,1,0,2012 Early Summer Tour,2012 Summer,Buried Alive,Buried Alive,1,DCU Center,Worcester,MA,USA,
-2012-06-07,2012,0,21,6,e,0,0,3,2012 Early Summer Tour,2012 Summer,Loving Cup,Loving Cup,0,DCU Center,Worcester,MA,USA,
-2012-06-08,2012,0,1,1,1,0,0,5,2012 Early Summer Tour,2012 Summer,Free,Free,1,DCU Center,Worcester,MA,USA,","
+2012-06-07,2012,0,19,2,2,0,0,1,2012 Early Summer Tour,2012 Summer,Cavern,,1,DCU Center,Worcester,MA,USA,>
+2012-06-07,2012,0,20,5,2,0,1,0,2012 Early Summer Tour,2012 Summer,Buried Alive,,1,DCU Center,Worcester,MA,USA,
+2012-06-07,2012,0,21,6,e,0,0,3,2012 Early Summer Tour,2012 Summer,Loving Cup,,0,DCU Center,Worcester,MA,USA,
+2012-06-08,2012,0,1,1,1,0,0,5,2012 Early Summer Tour,2012 Summer,Free,,1,DCU Center,Worcester,MA,USA,","
 2012-06-08,2012,0,2,1,1,0,0,5,2012 Early Summer Tour,2012 Summer,Kill Devil Falls,KDF,1,DCU Center,Worcester,MA,USA,","
 2012-06-08,2012,0,3,2,1,0,0,4,2012 Early Summer Tour,2012 Summer,Roses Are Free,Roses,0,DCU Center,Worcester,MA,USA,>
 2012-06-08,2012,0,4,2,1,0,0,2,2012 Early Summer Tour,2012 Summer,Theme From the Bottom,Theme,1,DCU Center,Worcester,MA,USA,>
-2012-06-08,2012,0,5,2,1,0,0,3,2012 Early Summer Tour,2012 Summer,Axilla,Axilla,1,DCU Center,Worcester,MA,USA,>
-2012-06-08,2012,0,6,1,1,0,0,3,2012 Early Summer Tour,2012 Summer,Julius,Julius,1,DCU Center,Worcester,MA,USA,","
+2012-06-08,2012,0,5,2,1,0,0,3,2012 Early Summer Tour,2012 Summer,Axilla,,1,DCU Center,Worcester,MA,USA,>
+2012-06-08,2012,0,6,1,1,0,0,3,2012 Early Summer Tour,2012 Summer,Julius,,1,DCU Center,Worcester,MA,USA,","
 2012-06-08,2012,0,7,1,1,0,0,5,2012 Early Summer Tour,2012 Summer,Bouncing Around the Room,Bouncin',1,DCU Center,Worcester,MA,USA,","
-2012-06-08,2012,0,8,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,Maze,Maze,1,DCU Center,Worcester,MA,USA,","
+2012-06-08,2012,0,8,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,Maze,,1,DCU Center,Worcester,MA,USA,","
 2012-06-08,2012,0,9,4,1,0,0,5,2012 Early Summer Tour,2012 Summer,Bathtub Gin,Gin,1,DCU Center,Worcester,MA,USA,
 2012-06-08,2012,0,10,2,2,0,0,2,2012 Early Summer Tour,2012 Summer,Down with Disease,DwD,1,DCU Center,Worcester,MA,USA,>
-2012-06-08,2012,0,11,3,2,0,0,3,2012 Early Summer Tour,2012 Summer,Sand,Sand,0,DCU Center,Worcester,MA,USA,->
-2012-06-08,2012,0,12,1,2,0,0,3,2012 Early Summer Tour,2012 Summer,Nellie Kane,Nellie Kane,0,DCU Center,Worcester,MA,USA,","
+2012-06-08,2012,0,11,3,2,0,0,3,2012 Early Summer Tour,2012 Summer,Sand,,0,DCU Center,Worcester,MA,USA,->
+2012-06-08,2012,0,12,1,2,0,0,3,2012 Early Summer Tour,2012 Summer,Nellie Kane,,0,DCU Center,Worcester,MA,USA,","
 2012-06-08,2012,0,13,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Mike's Song,Mike's,1,DCU Center,Worcester,MA,USA,>
 2012-06-08,2012,0,14,2,2,0,0,10,2012 Early Summer Tour,2012 Summer,Makisupa Policeman,Makisupa,1,DCU Center,Worcester,MA,USA,>
 2012-06-08,2012,0,15,1,2,0,0,4,2012 Early Summer Tour,2012 Summer,Weekapaug Groove,Weekapaug,1,DCU Center,Worcester,MA,USA,","
 2012-06-08,2012,0,16,1,2,0,0,2,2012 Early Summer Tour,2012 Summer,Wading in the Velvet Sea,Velvet Sea,1,DCU Center,Worcester,MA,USA,","
 2012-06-08,2012,0,17,1,2,0,0,3,2012 Early Summer Tour,2012 Summer,Also Sprach Zarathustra,2001,0,DCU Center,Worcester,MA,USA,","
-2012-06-08,2012,0,18,5,2,0,0,4,2012 Early Summer Tour,2012 Summer,Character Zero,Character Zero,1,DCU Center,Worcester,MA,USA,
+2012-06-08,2012,0,18,5,2,0,0,4,2012 Early Summer Tour,2012 Summer,Character Zero,,1,DCU Center,Worcester,MA,USA,
 2012-06-08,2012,0,19,2,e,0,0,15,2012 Early Summer Tour,2012 Summer,The Oh Kee Pa Ceremony,Oh Kee Pa,1,DCU Center,Worcester,MA,USA,>
 2012-06-08,2012,0,20,6,e,0,0,2,2012 Early Summer Tour,2012 Summer,Suzy Greenberg,Suzy,1,DCU Center,Worcester,MA,USA,
 2012-06-10,2012,0,1,2,1,0,0,1,2012 Early Summer Tour,2012 Summer,Down with Disease,DwD,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
-2012-06-10,2012,0,2,1,1,0,0,2,2012 Early Summer Tour,2012 Summer,Funky Bitch,Funky Bitch,0,Bonnaroo Music & Arts Festival,Manchester,TN,USA,","
+2012-06-10,2012,0,2,1,1,0,0,2,2012 Early Summer Tour,2012 Summer,Funky Bitch,,0,Bonnaroo Music & Arts Festival,Manchester,TN,USA,","
 2012-06-10,2012,0,3,2,1,0,0,2,2012 Early Summer Tour,2012 Summer,The Moma Dance,Moma,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
 2012-06-10,2012,0,4,1,1,0,0,6,2012 Early Summer Tour,2012 Summer,Sample in a Jar,Sample,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,","
-2012-06-10,2012,0,5,1,1,0,0,1,2012 Early Summer Tour,2012 Summer,Axilla,Axilla,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,","
-2012-06-10,2012,0,6,1,1,0,0,0,2012 Early Summer Tour,2012 Summer,The Gambler,The Gambler,0,Bonnaroo Music & Arts Festival,Manchester,TN,USA,","
-2012-06-10,2012,0,7,2,1,0,0,2,2012 Early Summer Tour,2012 Summer,Possum,Possum,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
-2012-06-10,2012,0,8,2,1,0,0,4,2012 Early Summer Tour,2012 Summer,Wilson,Wilson,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
-2012-06-10,2012,0,9,2,1,0,0,6,2012 Early Summer Tour,2012 Summer,Tweezer,Tweezer,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
-2012-06-10,2012,0,10,2,1,0,0,1,2012 Early Summer Tour,2012 Summer,Free,Free,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
+2012-06-10,2012,0,5,1,1,0,0,1,2012 Early Summer Tour,2012 Summer,Axilla,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,","
+2012-06-10,2012,0,6,1,1,0,0,0,2012 Early Summer Tour,2012 Summer,The Gambler,,0,Bonnaroo Music & Arts Festival,Manchester,TN,USA,","
+2012-06-10,2012,0,7,2,1,0,0,2,2012 Early Summer Tour,2012 Summer,Possum,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
+2012-06-10,2012,0,8,2,1,0,0,4,2012 Early Summer Tour,2012 Summer,Wilson,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
+2012-06-10,2012,0,9,2,1,0,0,6,2012 Early Summer Tour,2012 Summer,Tweezer,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
+2012-06-10,2012,0,10,2,1,0,0,1,2012 Early Summer Tour,2012 Summer,Free,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
 2012-06-10,2012,0,11,2,1,0,0,4,2012 Early Summer Tour,2012 Summer,Backwards Down the Number Line,BDTNL,0,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
-2012-06-10,2012,0,12,4,1,0,0,2,2012 Early Summer Tour,2012 Summer,Cavern,Cavern,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,
-2012-06-10,2012,0,13,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Golden Age,Golden Age,0,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
+2012-06-10,2012,0,12,4,1,0,0,2,2012 Early Summer Tour,2012 Summer,Cavern,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,
+2012-06-10,2012,0,13,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Golden Age,,0,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
 2012-06-10,2012,0,14,2,2,0,0,1,2012 Early Summer Tour,2012 Summer,Also Sprach Zarathustra,2001,0,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
 2012-06-10,2012,0,15,1,2,0,0,5,2012 Early Summer Tour,2012 Summer,Chalk Dust Torture,CDT,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,","
-2012-06-10,2012,0,16,3,2,0,0,2,2012 Early Summer Tour,2012 Summer,Carini,Carini,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,->
-2012-06-10,2012,0,17,2,2,0,0,159,2012 Early Summer Tour,2012 Summer,Shafty,Shafty,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
+2012-06-10,2012,0,16,3,2,0,0,2,2012 Early Summer Tour,2012 Summer,Carini,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,->
+2012-06-10,2012,0,17,2,2,0,0,159,2012 Early Summer Tour,2012 Summer,Shafty,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
 2012-06-10,2012,0,18,1,2,0,0,6,2012 Early Summer Tour,2012 Summer,Rock and Roll,R&amp;R,0,Bonnaroo Music & Arts Festival,Manchester,TN,USA,","
-2012-06-10,2012,0,19,2,2,0,0,2,2012 Early Summer Tour,2012 Summer,Alaska,Alaska,0,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
+2012-06-10,2012,0,19,2,2,0,0,2,2012 Early Summer Tour,2012 Summer,Alaska,,0,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
 2012-06-10,2012,0,20,3,2,0,0,2,2012 Early Summer Tour,2012 Summer,Harry Hood,Hood,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,->
-2012-06-10,2012,0,21,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Light,Light,0,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
-2012-06-10,2012,0,22,2,2,0,0,1,2012 Early Summer Tour,2012 Summer,Character Zero,Character Zero,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
-2012-06-10,2012,0,23,5,2,0,0,1,2012 Early Summer Tour,2012 Summer,Rocky Top,Rocky Top,0,Bonnaroo Music & Arts Festival,Manchester,TN,USA,
-2012-06-10,2012,0,24,2,e,0,0,4,2012 Early Summer Tour,2012 Summer,Show of Life,Show of Life,0,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
-2012-06-10,2012,0,25,2,e,0,0,1,2012 Early Summer Tour,2012 Summer,Julius,Julius,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
+2012-06-10,2012,0,21,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Light,,0,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
+2012-06-10,2012,0,22,2,2,0,0,1,2012 Early Summer Tour,2012 Summer,Character Zero,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
+2012-06-10,2012,0,23,5,2,0,0,1,2012 Early Summer Tour,2012 Summer,Rocky Top,,0,Bonnaroo Music & Arts Festival,Manchester,TN,USA,
+2012-06-10,2012,0,24,2,e,0,0,4,2012 Early Summer Tour,2012 Summer,Show of Life,,0,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
+2012-06-10,2012,0,25,2,e,0,0,1,2012 Early Summer Tour,2012 Summer,Julius,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
 2012-06-10,2012,0,26,6,e,0,0,6,2012 Early Summer Tour,2012 Summer,Tweezer Reprise,Tweeprise,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,
 2012-06-15,2012,0,1,1,1,0,0,6,2012 Early Summer Tour,2012 Summer,The Sloth,Sloth,1,Bader Field,Atlantic City,NJ,USA,","
 2012-06-15,2012,0,2,2,1,0,0,66,2012 Early Summer Tour,2012 Summer,My Sweet One,MSO,1,Bader Field,Atlantic City,NJ,USA,>
-2012-06-15,2012,0,3,2,1,0,0,4,2012 Early Summer Tour,2012 Summer,46 Days,46 Days,1,Bader Field,Atlantic City,NJ,USA,>
-2012-06-15,2012,0,4,1,1,0,0,14,2012 Early Summer Tour,2012 Summer,Camel Walk,Camel Walk,1,Bader Field,Atlantic City,NJ,USA,","
-2012-06-15,2012,0,5,2,1,0,0,7,2012 Early Summer Tour,2012 Summer,Tube,Tube,1,Bader Field,Atlantic City,NJ,USA,>
-2012-06-15,2012,0,6,2,1,0,0,7,2012 Early Summer Tour,2012 Summer,Cities,Cities,0,Bader Field,Atlantic City,NJ,USA,>
-2012-06-15,2012,0,7,1,1,0,0,16,2012 Early Summer Tour,2012 Summer,It's Ice,It's Ice,1,Bader Field,Atlantic City,NJ,USA,","
+2012-06-15,2012,0,3,2,1,0,0,4,2012 Early Summer Tour,2012 Summer,46 Days,,1,Bader Field,Atlantic City,NJ,USA,>
+2012-06-15,2012,0,4,1,1,0,0,14,2012 Early Summer Tour,2012 Summer,Camel Walk,,1,Bader Field,Atlantic City,NJ,USA,","
+2012-06-15,2012,0,5,2,1,0,0,7,2012 Early Summer Tour,2012 Summer,Tube,,1,Bader Field,Atlantic City,NJ,USA,>
+2012-06-15,2012,0,6,2,1,0,0,7,2012 Early Summer Tour,2012 Summer,Cities,,0,Bader Field,Atlantic City,NJ,USA,>
+2012-06-15,2012,0,7,1,1,0,0,16,2012 Early Summer Tour,2012 Summer,It's Ice,,1,Bader Field,Atlantic City,NJ,USA,","
 2012-06-15,2012,0,8,1,1,0,0,13,2012 Early Summer Tour,2012 Summer,Ginseng Sullivan,Ginseng,0,Bader Field,Atlantic City,NJ,USA,","
-2012-06-15,2012,0,9,1,1,0,0,7,2012 Early Summer Tour,2012 Summer,Stash,Stash,1,Bader Field,Atlantic City,NJ,USA,","
-2012-06-15,2012,0,10,2,1,0,0,6,2012 Early Summer Tour,2012 Summer,Simple,Simple,1,Bader Field,Atlantic City,NJ,USA,>
+2012-06-15,2012,0,9,1,1,0,0,7,2012 Early Summer Tour,2012 Summer,Stash,,1,Bader Field,Atlantic City,NJ,USA,","
+2012-06-15,2012,0,10,2,1,0,0,6,2012 Early Summer Tour,2012 Summer,Simple,,1,Bader Field,Atlantic City,NJ,USA,>
 2012-06-15,2012,0,11,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,The Wedge,Wedge,1,Bader Field,Atlantic City,NJ,USA,","
 2012-06-15,2012,0,12,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Bader Field,Atlantic City,NJ,USA,","
 2012-06-15,2012,0,13,4,1,0,0,5,2012 Early Summer Tour,2012 Summer,The Squirming Coil,Coil,1,Bader Field,Atlantic City,NJ,USA,
-2012-06-15,2012,0,14,1,2,0,0,42,2012 Early Summer Tour,2012 Summer,My Soul,My Soul,0,Bader Field,Atlantic City,NJ,USA,","
+2012-06-15,2012,0,14,1,2,0,0,42,2012 Early Summer Tour,2012 Summer,My Soul,,0,Bader Field,Atlantic City,NJ,USA,","
 2012-06-15,2012,0,15,3,2,0,0,7,2012 Early Summer Tour,2012 Summer,Birds of a Feather,BOAF,1,Bader Field,Atlantic City,NJ,USA,->
 2012-06-15,2012,0,16,2,2,0,0,6,2012 Early Summer Tour,2012 Summer,Back on the Train,BOTT,0,Bader Field,Atlantic City,NJ,USA,>
-2012-06-15,2012,0,17,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Heavy Things,Heavy Things,1,Bader Field,Atlantic City,NJ,USA,>
-2012-06-15,2012,0,18,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Twist,Twist,1,Bader Field,Atlantic City,NJ,USA,>
-2012-06-15,2012,0,19,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Piper,Piper,1,Bader Field,Atlantic City,NJ,USA,>
-2012-06-15,2012,0,20,1,2,0,0,85,2012 Early Summer Tour,2012 Summer,Billy Breathes,Billy Breathes,1,Bader Field,Atlantic City,NJ,USA,","
+2012-06-15,2012,0,17,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Heavy Things,,1,Bader Field,Atlantic City,NJ,USA,>
+2012-06-15,2012,0,18,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Twist,,1,Bader Field,Atlantic City,NJ,USA,>
+2012-06-15,2012,0,19,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Piper,,1,Bader Field,Atlantic City,NJ,USA,>
+2012-06-15,2012,0,20,1,2,0,0,85,2012 Early Summer Tour,2012 Summer,Billy Breathes,,1,Bader Field,Atlantic City,NJ,USA,","
 2012-06-15,2012,0,21,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Bader Field,Atlantic City,NJ,USA,>
 2012-06-15,2012,0,22,5,2,0,0,5,2012 Early Summer Tour,2012 Summer,David Bowie,Bowie,1,Bader Field,Atlantic City,NJ,USA,
-2012-06-15,2012,0,23,6,e,0,0,4,2012 Early Summer Tour,2012 Summer,First Tube,First Tube,0,Bader Field,Atlantic City,NJ,USA,
+2012-06-15,2012,0,23,6,e,0,0,4,2012 Early Summer Tour,2012 Summer,First Tube,,0,Bader Field,Atlantic City,NJ,USA,
 2012-06-16,2012,0,1,2,1,0,0,3,2012 Early Summer Tour,2012 Summer,Mike's Song,Mike's,1,Bader Field,Atlantic City,NJ,USA,>
 2012-06-16,2012,0,2,2,1,0,0,7,2012 Early Summer Tour,2012 Summer,I Am Hydrogen,Hydrogen,1,Bader Field,Atlantic City,NJ,USA,>
 2012-06-16,2012,0,3,1,1,0,0,3,2012 Early Summer Tour,2012 Summer,Weekapaug Groove,Weekapaug,1,Bader Field,Atlantic City,NJ,USA,","
-2012-06-16,2012,0,4,1,1,0,0,10,2012 Early Summer Tour,2012 Summer,Gumbo,Gumbo,1,Bader Field,Atlantic City,NJ,USA,","
+2012-06-16,2012,0,4,1,1,0,0,10,2012 Early Summer Tour,2012 Summer,Gumbo,,1,Bader Field,Atlantic City,NJ,USA,","
 2012-06-16,2012,0,5,2,1,0,0,7,2012 Early Summer Tour,2012 Summer,Halley's Comet,Halley's,1,Bader Field,Atlantic City,NJ,USA,>
 2012-06-16,2012,0,6,1,1,0,0,8,2012 Early Summer Tour,2012 Summer,"My Friend, My Friend",My Friend,1,Bader Field,Atlantic City,NJ,USA,","
 2012-06-16,2012,0,7,1,1,0,0,5,2012 Early Summer Tour,2012 Summer,Wolfman's Brother,Wolfman's,1,Bader Field,Atlantic City,NJ,USA,","
 2012-06-16,2012,0,8,1,1,0,0,6,2012 Early Summer Tour,2012 Summer,The Horse,Horse,1,Bader Field,Atlantic City,NJ,USA,","
-2012-06-16,2012,0,9,1,1,0,0,5,2012 Early Summer Tour,2012 Summer,Lawn Boy,Lawn Boy,1,Bader Field,Atlantic City,NJ,USA,","
-2012-06-16,2012,0,10,2,1,0,0,2,2012 Early Summer Tour,2012 Summer,Possum,Possum,1,Bader Field,Atlantic City,NJ,USA,>
+2012-06-16,2012,0,9,1,1,0,0,5,2012 Early Summer Tour,2012 Summer,Lawn Boy,,1,Bader Field,Atlantic City,NJ,USA,","
+2012-06-16,2012,0,10,2,1,0,0,2,2012 Early Summer Tour,2012 Summer,Possum,,1,Bader Field,Atlantic City,NJ,USA,>
 2012-06-16,2012,0,11,2,1,0,0,6,2012 Early Summer Tour,2012 Summer,Punch You in the Eye,PYITE,1,Bader Field,Atlantic City,NJ,USA,>
-2012-06-16,2012,0,12,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,Ocelot,Ocelot,1,Bader Field,Atlantic City,NJ,USA,","
+2012-06-16,2012,0,12,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,Ocelot,,1,Bader Field,Atlantic City,NJ,USA,","
 2012-06-16,2012,0,13,4,1,0,0,3,2012 Early Summer Tour,2012 Summer,Suzy Greenberg,Suzy,1,Bader Field,Atlantic City,NJ,USA,
 2012-06-16,2012,0,14,2,2,0,0,7,2012 Early Summer Tour,2012 Summer,Crosseyed and Painless,C&amp;P,0,Bader Field,Atlantic City,NJ,USA,>
 2012-06-16,2012,0,15,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Slave to the Traffic Light,Slave,1,Bader Field,Atlantic City,NJ,USA,>
-2012-06-16,2012,0,16,3,2,0,0,2,2012 Early Summer Tour,2012 Summer,Light,Light,0,Bader Field,Atlantic City,NJ,USA,->
-2012-06-16,2012,0,17,3,2,0,0,41,2012 Early Summer Tour,2012 Summer,Manteca,Manteca,0,Bader Field,Atlantic City,NJ,USA,->
-2012-06-16,2012,0,18,2,2,0,0,0,2012 Early Summer Tour,2012 Summer,Light,Light,0,Bader Field,Atlantic City,NJ,USA,>
+2012-06-16,2012,0,16,3,2,0,0,2,2012 Early Summer Tour,2012 Summer,Light,,0,Bader Field,Atlantic City,NJ,USA,->
+2012-06-16,2012,0,17,3,2,0,0,41,2012 Early Summer Tour,2012 Summer,Manteca,,0,Bader Field,Atlantic City,NJ,USA,->
+2012-06-16,2012,0,18,2,2,0,0,0,2012 Early Summer Tour,2012 Summer,Light,,0,Bader Field,Atlantic City,NJ,USA,>
 2012-06-16,2012,0,19,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Theme From the Bottom,Theme,1,Bader Field,Atlantic City,NJ,USA,>
 2012-06-16,2012,0,20,2,2,0,0,6,2012 Early Summer Tour,2012 Summer,Golgi Apparatus,Golgi,1,Bader Field,Atlantic City,NJ,USA,>
-2012-06-16,2012,0,21,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Sand,Sand,0,Bader Field,Atlantic City,NJ,USA,>
+2012-06-16,2012,0,21,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Sand,,0,Bader Field,Atlantic City,NJ,USA,>
 2012-06-16,2012,0,22,2,2,0,0,2,2012 Early Summer Tour,2012 Summer,Backwards Down the Number Line,BDTNL,0,Bader Field,Atlantic City,NJ,USA,>
 2012-06-16,2012,0,23,5,2,0,0,7,2012 Early Summer Tour,2012 Summer,Run Like an Antelope,Antelope,1,Bader Field,Atlantic City,NJ,USA,
 2012-06-16,2012,0,24,6,e,0,0,6,2012 Early Summer Tour,2012 Summer,Good Times Bad Times,GTBT,0,Bader Field,Atlantic City,NJ,USA,
-2012-06-17,2012,0,1,1,1,0,0,26,2012 Early Summer Tour,2012 Summer,Brother,Brother,1,Bader Field,Atlantic City,NJ,USA,","
-2012-06-17,2012,0,2,1,1,0,0,5,2012 Early Summer Tour,2012 Summer,Runaway Jim,Runaway Jim,1,Bader Field,Atlantic City,NJ,USA,","
-2012-06-17,2012,0,3,1,1,0,0,18,2012 Early Summer Tour,2012 Summer,Dogs Stole Things,Dogs Stole Things,1,Bader Field,Atlantic City,NJ,USA,","
+2012-06-17,2012,0,1,1,1,0,0,26,2012 Early Summer Tour,2012 Summer,Brother,,1,Bader Field,Atlantic City,NJ,USA,","
+2012-06-17,2012,0,2,1,1,0,0,5,2012 Early Summer Tour,2012 Summer,Runaway Jim,,1,Bader Field,Atlantic City,NJ,USA,","
+2012-06-17,2012,0,3,1,1,0,0,18,2012 Early Summer Tour,2012 Summer,Dogs Stole Things,,1,Bader Field,Atlantic City,NJ,USA,","
 2012-06-17,2012,0,4,2,1,0,0,5,2012 Early Summer Tour,2012 Summer,Boogie On Reggae Woman,Boogie On,0,Bader Field,Atlantic City,NJ,USA,>
-2012-06-17,2012,0,5,1,1,0,0,9,2012 Early Summer Tour,2012 Summer,NICU,NICU,1,Bader Field,Atlantic City,NJ,USA,","
-2012-06-17,2012,0,6,2,1,0,0,15,2012 Early Summer Tour,2012 Summer,Foam,Foam,1,Bader Field,Atlantic City,NJ,USA,>
-2012-06-17,2012,0,7,2,1,0,0,3,2012 Early Summer Tour,2012 Summer,Wilson,Wilson,1,Bader Field,Atlantic City,NJ,USA,>
+2012-06-17,2012,0,5,1,1,0,0,9,2012 Early Summer Tour,2012 Summer,NICU,,1,Bader Field,Atlantic City,NJ,USA,","
+2012-06-17,2012,0,6,2,1,0,0,15,2012 Early Summer Tour,2012 Summer,Foam,,1,Bader Field,Atlantic City,NJ,USA,>
+2012-06-17,2012,0,7,2,1,0,0,3,2012 Early Summer Tour,2012 Summer,Wilson,,1,Bader Field,Atlantic City,NJ,USA,>
 2012-06-17,2012,0,8,1,1,0,0,11,2012 Early Summer Tour,2012 Summer,Timber (Jerry the Mule),Timber Ho,0,Bader Field,Atlantic City,NJ,USA,","
-2012-06-17,2012,0,9,1,1,0,0,6,2012 Early Summer Tour,2012 Summer,Fluffhead,Fluffhead,1,Bader Field,Atlantic City,NJ,USA,","
+2012-06-17,2012,0,9,1,1,0,0,6,2012 Early Summer Tour,2012 Summer,Fluffhead,,1,Bader Field,Atlantic City,NJ,USA,","
 2012-06-17,2012,0,10,2,1,0,0,11,2012 Early Summer Tour,2012 Summer,Walls of the Cave,WotC,1,Bader Field,Atlantic City,NJ,USA,>
-2012-06-17,2012,0,11,4,1,0,0,3,2012 Early Summer Tour,2012 Summer,Character Zero,Character Zero,1,Bader Field,Atlantic City,NJ,USA,
-2012-06-17,2012,0,12,2,2,0,0,40,2012 Early Summer Tour,2012 Summer,Drowned,Drowned,0,Bader Field,Atlantic City,NJ,USA,>
+2012-06-17,2012,0,11,4,1,0,0,3,2012 Early Summer Tour,2012 Summer,Character Zero,,1,Bader Field,Atlantic City,NJ,USA,
+2012-06-17,2012,0,12,2,2,0,0,40,2012 Early Summer Tour,2012 Summer,Drowned,,0,Bader Field,Atlantic City,NJ,USA,>
 2012-06-17,2012,0,13,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Also Sprach Zarathustra,2001,0,Bader Field,Atlantic City,NJ,USA,>
-2012-06-17,2012,0,14,1,2,0,0,16,2012 Early Summer Tour,2012 Summer,Reba,Reba,1,Bader Field,Atlantic City,NJ,USA,","
+2012-06-17,2012,0,14,1,2,0,0,16,2012 Early Summer Tour,2012 Summer,Reba,,1,Bader Field,Atlantic City,NJ,USA,","
 2012-06-17,2012,0,15,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Roses Are Free,Roses,0,Bader Field,Atlantic City,NJ,USA,>
 2012-06-17,2012,0,16,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Chalk Dust Torture,CDT,1,Bader Field,Atlantic City,NJ,USA,>
 2012-06-17,2012,0,17,3,2,0,0,7,2012 Early Summer Tour,2012 Summer,Prince Caspian,Caspian,1,Bader Field,Atlantic City,NJ,USA,->
 2012-06-17,2012,0,18,1,2,0,0,7,2012 Early Summer Tour,2012 Summer,Silent in the Morning,Silent,1,Bader Field,Atlantic City,NJ,USA,","
-2012-06-17,2012,0,19,2,2,0,0,9,2012 Early Summer Tour,2012 Summer,Bug,Bug,0,Bader Field,Atlantic City,NJ,USA,>
+2012-06-17,2012,0,19,2,2,0,0,9,2012 Early Summer Tour,2012 Summer,Bug,,0,Bader Field,Atlantic City,NJ,USA,>
 2012-06-17,2012,0,20,2,2,0,0,15,2012 Early Summer Tour,2012 Summer,A Day in the Life,ADITL,0,Bader Field,Atlantic City,NJ,USA,>
 2012-06-17,2012,0,21,5,2,0,0,3,2012 Early Summer Tour,2012 Summer,Down with Disease,DwD,1,Bader Field,Atlantic City,NJ,USA,
 2012-06-17,2012,0,22,2,e,0,0,6,2012 Early Summer Tour,2012 Summer,Gotta Jibboo,Jibboo,0,Bader Field,Atlantic City,NJ,USA,>
 2012-06-17,2012,0,23,6,e,0,0,5,2012 Early Summer Tour,2012 Summer,Quinn the Eskimo (The Mighty Quinn),Quinn,0,Bader Field,Atlantic City,NJ,USA,
 2012-06-19,2012,0,1,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,Sample in a Jar,Sample,1,nTelos Pavilion,Portsmouth,VA,USA,","
-2012-06-19,2012,0,2,1,1,0,0,7,2012 Early Summer Tour,2012 Summer,Party Time,Party Time,1,nTelos Pavilion,Portsmouth,VA,USA,","
-2012-06-19,2012,0,3,2,1,0,0,3,2012 Early Summer Tour,2012 Summer,Simple,Simple,1,nTelos Pavilion,Portsmouth,VA,USA,>
-2012-06-19,2012,0,4,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,Axilla,Axilla,1,nTelos Pavilion,Portsmouth,VA,USA,","
-2012-06-19,2012,0,5,1,1,0,0,3,2012 Early Summer Tour,2012 Summer,Tube,Tube,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2012-06-19,2012,0,2,1,1,0,0,7,2012 Early Summer Tour,2012 Summer,Party Time,,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2012-06-19,2012,0,3,2,1,0,0,3,2012 Early Summer Tour,2012 Summer,Simple,,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2012-06-19,2012,0,4,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,Axilla,,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2012-06-19,2012,0,5,1,1,0,0,3,2012 Early Summer Tour,2012 Summer,Tube,,1,nTelos Pavilion,Portsmouth,VA,USA,","
 2012-06-19,2012,0,6,1,1,0,0,5,2012 Early Summer Tour,2012 Summer,Kill Devil Falls,KDF,1,nTelos Pavilion,Portsmouth,VA,USA,","
-2012-06-19,2012,0,7,2,1,0,0,19,2012 Early Summer Tour,2012 Summer,Water in the Sky,Water in the Sky,1,nTelos Pavilion,Portsmouth,VA,USA,>
-2012-06-19,2012,0,8,1,1,0,0,20,2012 Early Summer Tour,2012 Summer,Horn,Horn,1,nTelos Pavilion,Portsmouth,VA,USA,","
-2012-06-19,2012,0,9,1,1,0,0,16,2012 Early Summer Tour,2012 Summer,Babylon Baby,Babylon Baby,0,nTelos Pavilion,Portsmouth,VA,USA,","
+2012-06-19,2012,0,7,2,1,0,0,19,2012 Early Summer Tour,2012 Summer,Water in the Sky,,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2012-06-19,2012,0,8,1,1,0,0,20,2012 Early Summer Tour,2012 Summer,Horn,,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2012-06-19,2012,0,9,1,1,0,0,16,2012 Early Summer Tour,2012 Summer,Babylon Baby,,0,nTelos Pavilion,Portsmouth,VA,USA,","
 2012-06-19,2012,0,10,2,1,0,0,5,2012 Early Summer Tour,2012 Summer,Bathtub Gin,Gin,1,nTelos Pavilion,Portsmouth,VA,USA,>
 2012-06-19,2012,0,11,1,1,0,0,3,2012 Early Summer Tour,2012 Summer,Stealing Time From the Faulty Plan,STFTFP,1,nTelos Pavilion,Portsmouth,VA,USA,","
 2012-06-19,2012,0,12,2,1,0,0,16,2012 Early Summer Tour,2012 Summer,I Didn't Know,IDK,1,nTelos Pavilion,Portsmouth,VA,USA,>
 2012-06-19,2012,0,13,4,1,0,0,2,2012 Early Summer Tour,2012 Summer,Run Like an Antelope,Antelope,1,nTelos Pavilion,Portsmouth,VA,USA,
 2012-06-19,2012,0,14,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Back on the Train,BOTT,0,nTelos Pavilion,Portsmouth,VA,USA,>
-2012-06-19,2012,0,15,1,2,0,0,6,2012 Early Summer Tour,2012 Summer,Rift,Rift,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2012-06-19,2012,0,15,1,2,0,0,6,2012 Early Summer Tour,2012 Summer,Rift,,1,nTelos Pavilion,Portsmouth,VA,USA,","
 2012-06-19,2012,0,16,2,2,0,0,14,2012 Early Summer Tour,2012 Summer,Split Open and Melt,SOAMelt,1,nTelos Pavilion,Portsmouth,VA,USA,>
 2012-06-19,2012,0,17,2,2,0,0,25,2012 Early Summer Tour,2012 Summer,The Mango Song,Mango,1,nTelos Pavilion,Portsmouth,VA,USA,>
 2012-06-19,2012,0,18,1,2,0,0,2,2012 Early Summer Tour,2012 Summer,Backwards Down the Number Line,BDTNL,0,nTelos Pavilion,Portsmouth,VA,USA,","
 2012-06-19,2012,0,19,1,2,0,0,13,2012 Early Summer Tour,2012 Summer,Limb By Limb,LxL,1,nTelos Pavilion,Portsmouth,VA,USA,","
-2012-06-19,2012,0,20,1,2,0,0,13,2012 Early Summer Tour,2012 Summer,Shine a Light,Shine a Light,0,nTelos Pavilion,Portsmouth,VA,USA,","
-2012-06-19,2012,0,21,3,2,0,0,66,2012 Early Summer Tour,2012 Summer,Lengthwise,Lengthwise,1,nTelos Pavilion,Portsmouth,VA,USA,->
-2012-06-19,2012,0,22,1,2,0,0,5,2012 Early Summer Tour,2012 Summer,Maze,Maze,1,nTelos Pavilion,Portsmouth,VA,USA,","
-2012-06-19,2012,0,23,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Cavern,Cavern,1,nTelos Pavilion,Portsmouth,VA,USA,>
-2012-06-19,2012,0,24,5,2,0,0,17,2012 Early Summer Tour,2012 Summer,Fire,Fire,0,nTelos Pavilion,Portsmouth,VA,USA,
-2012-06-19,2012,0,25,2,e,0,0,16,2012 Early Summer Tour,2012 Summer,Mexican Cousin,Mexican Cousin,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2012-06-19,2012,0,20,1,2,0,0,13,2012 Early Summer Tour,2012 Summer,Shine a Light,,0,nTelos Pavilion,Portsmouth,VA,USA,","
+2012-06-19,2012,0,21,3,2,0,0,66,2012 Early Summer Tour,2012 Summer,Lengthwise,,1,nTelos Pavilion,Portsmouth,VA,USA,->
+2012-06-19,2012,0,22,1,2,0,0,5,2012 Early Summer Tour,2012 Summer,Maze,,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2012-06-19,2012,0,23,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Cavern,,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2012-06-19,2012,0,24,5,2,0,0,17,2012 Early Summer Tour,2012 Summer,Fire,,0,nTelos Pavilion,Portsmouth,VA,USA,
+2012-06-19,2012,0,25,2,e,0,0,16,2012 Early Summer Tour,2012 Summer,Mexican Cousin,,1,nTelos Pavilion,Portsmouth,VA,USA,>
 2012-06-19,2012,0,26,6,e,0,0,2,2012 Early Summer Tour,2012 Summer,Slave to the Traffic Light,Slave,1,nTelos Pavilion,Portsmouth,VA,USA,
-2012-06-20,2012,0,1,1,1,0,0,15,2012 Early Summer Tour,2012 Summer,Sparkle,Sparkle,1,nTelos Pavilion,Portsmouth,VA,USA,","
-2012-06-20,2012,0,2,1,1,0,0,17,2012 Early Summer Tour,2012 Summer,Ha Ha Ha,Ha Ha Ha,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2012-06-20,2012,0,1,1,1,0,0,15,2012 Early Summer Tour,2012 Summer,Sparkle,,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2012-06-20,2012,0,2,1,1,0,0,17,2012 Early Summer Tour,2012 Summer,Ha Ha Ha,,1,nTelos Pavilion,Portsmouth,VA,USA,","
 2012-06-20,2012,0,3,2,1,0,0,8,2012 Early Summer Tour,2012 Summer,AC/DC Bag,Bag,1,nTelos Pavilion,Portsmouth,VA,USA,>
 2012-06-20,2012,0,4,1,1,0,0,9,2012 Early Summer Tour,2012 Summer,Divided Sky,Divided,1,nTelos Pavilion,Portsmouth,VA,USA,","
-2012-06-20,2012,0,5,1,1,0,0,172,2012 Early Summer Tour,2012 Summer,Dog Log,Dog Log,1,nTelos Pavilion,Portsmouth,VA,USA,","
-2012-06-20,2012,0,6,2,1,0,0,18,2012 Early Summer Tour,2012 Summer,Undermind,Undermind,0,nTelos Pavilion,Portsmouth,VA,USA,>
+2012-06-20,2012,0,5,1,1,0,0,172,2012 Early Summer Tour,2012 Summer,Dog Log,,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2012-06-20,2012,0,6,2,1,0,0,18,2012 Early Summer Tour,2012 Summer,Undermind,,0,nTelos Pavilion,Portsmouth,VA,USA,>
 2012-06-20,2012,0,7,2,1,0,0,3,2012 Early Summer Tour,2012 Summer,Mike's Song,Mike's,1,nTelos Pavilion,Portsmouth,VA,USA,>
 2012-06-20,2012,0,8,2,1,0,0,3,2012 Early Summer Tour,2012 Summer,I Am Hydrogen,Hydrogen,1,nTelos Pavilion,Portsmouth,VA,USA,>
 2012-06-20,2012,0,9,1,1,0,0,3,2012 Early Summer Tour,2012 Summer,Weekapaug Groove,Weekapaug,1,nTelos Pavilion,Portsmouth,VA,USA,","
-2012-06-20,2012,0,10,3,1,0,0,4,2012 Early Summer Tour,2012 Summer,Cities,Cities,0,nTelos Pavilion,Portsmouth,VA,USA,->
-2012-06-20,2012,0,11,1,1,0,0,20,2012 Early Summer Tour,2012 Summer,Ya Mar,Ya Mar,0,nTelos Pavilion,Portsmouth,VA,USA,","
-2012-06-20,2012,0,12,2,1,0,0,35,2012 Early Summer Tour,2012 Summer,Bold As Love,Bold As Love,0,nTelos Pavilion,Portsmouth,VA,USA,>
-2012-06-20,2012,0,13,4,1,0,0,5,2012 Early Summer Tour,2012 Summer,Julius,Julius,1,nTelos Pavilion,Portsmouth,VA,USA,
+2012-06-20,2012,0,10,3,1,0,0,4,2012 Early Summer Tour,2012 Summer,Cities,,0,nTelos Pavilion,Portsmouth,VA,USA,->
+2012-06-20,2012,0,11,1,1,0,0,20,2012 Early Summer Tour,2012 Summer,Ya Mar,,0,nTelos Pavilion,Portsmouth,VA,USA,","
+2012-06-20,2012,0,12,2,1,0,0,35,2012 Early Summer Tour,2012 Summer,Bold As Love,,0,nTelos Pavilion,Portsmouth,VA,USA,>
+2012-06-20,2012,0,13,4,1,0,0,5,2012 Early Summer Tour,2012 Summer,Julius,,1,nTelos Pavilion,Portsmouth,VA,USA,
 2012-06-20,2012,0,14,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Rock and Roll,R&amp;R,0,nTelos Pavilion,Portsmouth,VA,USA,>
-2012-06-20,2012,0,15,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Tweezer,Tweezer,1,nTelos Pavilion,Portsmouth,VA,USA,>
-2012-06-20,2012,0,16,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Free,Free,1,nTelos Pavilion,Portsmouth,VA,USA,>
-2012-06-20,2012,0,17,1,2,0,0,10,2012 Early Summer Tour,2012 Summer,Guyute,Guyute,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2012-06-20,2012,0,15,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Tweezer,,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2012-06-20,2012,0,16,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Free,,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2012-06-20,2012,0,17,1,2,0,0,10,2012 Early Summer Tour,2012 Summer,Guyute,,1,nTelos Pavilion,Portsmouth,VA,USA,","
 2012-06-20,2012,0,18,1,2,0,0,4,2012 Early Summer Tour,2012 Summer,Birds of a Feather,BOAF,1,nTelos Pavilion,Portsmouth,VA,USA,","
 2012-06-20,2012,0,19,3,2,0,0,5,2012 Early Summer Tour,2012 Summer,Harry Hood,Hood,1,nTelos Pavilion,Portsmouth,VA,USA,->
 2012-06-20,2012,0,20,2,2,0,0,25,2012 Early Summer Tour,2012 Summer,What's the Use?,WTU?,1,nTelos Pavilion,Portsmouth,VA,USA,>
 2012-06-20,2012,0,21,2,2,0,0,6,2012 Early Summer Tour,2012 Summer,Wading in the Velvet Sea,Velvet Sea,1,nTelos Pavilion,Portsmouth,VA,USA,>
-2012-06-20,2012,0,22,5,2,0,0,3,2012 Early Summer Tour,2012 Summer,Possum,Possum,1,nTelos Pavilion,Portsmouth,VA,USA,
-2012-06-20,2012,0,23,2,e,0,0,14,2012 Early Summer Tour,2012 Summer,Sleeping Monkey,Sleeping Monkey,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2012-06-20,2012,0,22,5,2,0,0,3,2012 Early Summer Tour,2012 Summer,Possum,,1,nTelos Pavilion,Portsmouth,VA,USA,
+2012-06-20,2012,0,23,2,e,0,0,14,2012 Early Summer Tour,2012 Summer,Sleeping Monkey,,1,nTelos Pavilion,Portsmouth,VA,USA,>
 2012-06-20,2012,0,24,6,e,0,0,5,2012 Early Summer Tour,2012 Summer,Tweezer Reprise,Tweeprise,1,nTelos Pavilion,Portsmouth,VA,USA,
 2012-06-22,2012,0,1,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,Wolfman's Brother,Wolfman's,1,Riverbend Music Center,Cincinnati,OH,USA,","
 2012-06-22,2012,0,2,1,1,0,0,20,2012 Early Summer Tour,2012 Summer,Peaches en Regalia,Peaches,0,Riverbend Music Center,Cincinnati,OH,USA,","
-2012-06-22,2012,0,3,2,1,0,0,576,2012 Early Summer Tour,2012 Summer,Shaggy Dog,Shaggy Dog,0,Riverbend Music Center,Cincinnati,OH,USA,>
-2012-06-22,2012,0,4,1,1,0,0,3,2012 Early Summer Tour,2012 Summer,Runaway Jim,Runaway Jim,1,Riverbend Music Center,Cincinnati,OH,USA,","
+2012-06-22,2012,0,3,2,1,0,0,576,2012 Early Summer Tour,2012 Summer,Shaggy Dog,,0,Riverbend Music Center,Cincinnati,OH,USA,>
+2012-06-22,2012,0,4,1,1,0,0,3,2012 Early Summer Tour,2012 Summer,Runaway Jim,,1,Riverbend Music Center,Cincinnati,OH,USA,","
 2012-06-22,2012,0,5,2,1,0,0,33,2012 Early Summer Tour,2012 Summer,Light Up Or Leave Me Alone,Light Up,0,Riverbend Music Center,Cincinnati,OH,USA,>
-2012-06-22,2012,0,6,2,1,0,0,3,2012 Early Summer Tour,2012 Summer,Wilson,Wilson,1,Riverbend Music Center,Cincinnati,OH,USA,>
-2012-06-22,2012,0,7,1,1,0,0,6,2012 Early Summer Tour,2012 Summer,Alaska,Alaska,0,Riverbend Music Center,Cincinnati,OH,USA,","
-2012-06-22,2012,0,8,1,1,0,0,5,2012 Early Summer Tour,2012 Summer,Stash,Stash,1,Riverbend Music Center,Cincinnati,OH,USA,","
-2012-06-22,2012,0,9,1,1,0,0,15,2012 Early Summer Tour,2012 Summer,Llama,Llama,1,Riverbend Music Center,Cincinnati,OH,USA,","
-2012-06-22,2012,0,10,1,1,0,0,17,2012 Early Summer Tour,2012 Summer,Buffalo Bill,Buffalo Bill,1,Riverbend Music Center,Cincinnati,OH,USA,","
-2012-06-22,2012,0,11,2,1,0,0,59,2012 Early Summer Tour,2012 Summer,Saw It Again,Saw It Again,1,Riverbend Music Center,Cincinnati,OH,USA,>
+2012-06-22,2012,0,6,2,1,0,0,3,2012 Early Summer Tour,2012 Summer,Wilson,,1,Riverbend Music Center,Cincinnati,OH,USA,>
+2012-06-22,2012,0,7,1,1,0,0,6,2012 Early Summer Tour,2012 Summer,Alaska,,0,Riverbend Music Center,Cincinnati,OH,USA,","
+2012-06-22,2012,0,8,1,1,0,0,5,2012 Early Summer Tour,2012 Summer,Stash,,1,Riverbend Music Center,Cincinnati,OH,USA,","
+2012-06-22,2012,0,9,1,1,0,0,15,2012 Early Summer Tour,2012 Summer,Llama,,1,Riverbend Music Center,Cincinnati,OH,USA,","
+2012-06-22,2012,0,10,1,1,0,0,17,2012 Early Summer Tour,2012 Summer,Buffalo Bill,,1,Riverbend Music Center,Cincinnati,OH,USA,","
+2012-06-22,2012,0,11,2,1,0,0,59,2012 Early Summer Tour,2012 Summer,Saw It Again,,1,Riverbend Music Center,Cincinnati,OH,USA,>
 2012-06-22,2012,0,12,4,1,0,0,5,2012 Early Summer Tour,2012 Summer,David Bowie,Bowie,1,Riverbend Music Center,Cincinnati,OH,USA,
 2012-06-22,2012,0,13,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Down with Disease,DwD,1,Riverbend Music Center,Cincinnati,OH,USA,>
 2012-06-22,2012,0,14,1,2,0,0,19,2012 Early Summer Tour,2012 Summer,Guelah Papyrus,Guelah,1,Riverbend Music Center,Cincinnati,OH,USA,","
 2012-06-22,2012,0,15,2,2,0,0,2,2012 Early Summer Tour,2012 Summer,Kill Devil Falls,KDF,1,Riverbend Music Center,Cincinnati,OH,USA,>
-2012-06-22,2012,0,16,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Twist,Twist,1,Riverbend Music Center,Cincinnati,OH,USA,>
+2012-06-22,2012,0,16,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Twist,,1,Riverbend Music Center,Cincinnati,OH,USA,>
 2012-06-22,2012,0,17,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Halley's Comet,Halley's,1,Riverbend Music Center,Cincinnati,OH,USA,>
-2012-06-22,2012,0,18,3,2,0,0,4,2012 Early Summer Tour,2012 Summer,Sand,Sand,0,Riverbend Music Center,Cincinnati,OH,USA,->
-2012-06-22,2012,0,19,1,2,0,0,14,2012 Early Summer Tour,2012 Summer,Roggae,Roggae,1,Riverbend Music Center,Cincinnati,OH,USA,","
-2012-06-22,2012,0,20,2,2,0,0,6,2012 Early Summer Tour,2012 Summer,Carini,Carini,1,Riverbend Music Center,Cincinnati,OH,USA,>
+2012-06-22,2012,0,18,3,2,0,0,4,2012 Early Summer Tour,2012 Summer,Sand,,0,Riverbend Music Center,Cincinnati,OH,USA,->
+2012-06-22,2012,0,19,1,2,0,0,14,2012 Early Summer Tour,2012 Summer,Roggae,,1,Riverbend Music Center,Cincinnati,OH,USA,","
+2012-06-22,2012,0,20,2,2,0,0,6,2012 Early Summer Tour,2012 Summer,Carini,,1,Riverbend Music Center,Cincinnati,OH,USA,>
 2012-06-22,2012,0,21,1,2,0,0,3,2012 Early Summer Tour,2012 Summer,Chalk Dust Torture,CDT,1,Riverbend Music Center,Cincinnati,OH,USA,","
 2012-06-22,2012,0,22,5,2,0,0,4,2012 Early Summer Tour,2012 Summer,Golgi Apparatus,Golgi,1,Riverbend Music Center,Cincinnati,OH,USA,
-2012-06-22,2012,0,23,6,e,0,0,3,2012 Early Summer Tour,2012 Summer,Fluffhead,Fluffhead,1,Riverbend Music Center,Cincinnati,OH,USA,
-2012-06-23,2012,0,1,2,1,0,0,7,2012 Early Summer Tour,2012 Summer,Funky Bitch,Funky Bitch,0,First Niagara Pavilion,Burgettstown,PA,USA,>
+2012-06-22,2012,0,23,6,e,0,0,3,2012 Early Summer Tour,2012 Summer,Fluffhead,,1,Riverbend Music Center,Cincinnati,OH,USA,
+2012-06-23,2012,0,1,2,1,0,0,7,2012 Early Summer Tour,2012 Summer,Funky Bitch,,0,First Niagara Pavilion,Burgettstown,PA,USA,>
 2012-06-23,2012,0,2,1,1,0,0,3,2012 Early Summer Tour,2012 Summer,Backwards Down the Number Line,BDTNL,0,First Niagara Pavilion,Burgettstown,PA,USA,","
-2012-06-23,2012,0,3,2,1,0,0,5,2012 Early Summer Tour,2012 Summer,Gumbo,Gumbo,1,First Niagara Pavilion,Burgettstown,PA,USA,>
-2012-06-23,2012,0,4,1,1,0,0,3,2012 Early Summer Tour,2012 Summer,Maze,Maze,1,First Niagara Pavilion,Burgettstown,PA,USA,","
-2012-06-23,2012,0,5,1,1,0,0,9,2012 Early Summer Tour,2012 Summer,Torn and Frayed,Torn and Frayed,0,First Niagara Pavilion,Burgettstown,PA,USA,","
+2012-06-23,2012,0,3,2,1,0,0,5,2012 Early Summer Tour,2012 Summer,Gumbo,,1,First Niagara Pavilion,Burgettstown,PA,USA,>
+2012-06-23,2012,0,4,1,1,0,0,3,2012 Early Summer Tour,2012 Summer,Maze,,1,First Niagara Pavilion,Burgettstown,PA,USA,","
+2012-06-23,2012,0,5,1,1,0,0,9,2012 Early Summer Tour,2012 Summer,Torn and Frayed,,0,First Niagara Pavilion,Burgettstown,PA,USA,","
 2012-06-23,2012,0,6,2,1,0,0,7,2012 Early Summer Tour,2012 Summer,The Moma Dance,Moma,1,First Niagara Pavilion,Burgettstown,PA,USA,>
 2012-06-23,2012,0,7,1,1,0,0,10,2012 Early Summer Tour,2012 Summer,Scent of a Mule,SOAMule,1,First Niagara Pavilion,Burgettstown,PA,USA,","
-2012-06-23,2012,0,8,1,1,0,0,6,2012 Early Summer Tour,2012 Summer,46 Days,46 Days,1,First Niagara Pavilion,Burgettstown,PA,USA,","
+2012-06-23,2012,0,8,1,1,0,0,6,2012 Early Summer Tour,2012 Summer,46 Days,,1,First Niagara Pavilion,Burgettstown,PA,USA,","
 2012-06-23,2012,0,9,4,1,0,0,12,2012 Early Summer Tour,2012 Summer,You Enjoy Myself,YEM,1,First Niagara Pavilion,Burgettstown,PA,USA,
 2012-06-23,2012,0,10,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Gotta Jibboo,Jibboo,0,First Niagara Pavilion,Burgettstown,PA,USA,>
 2012-06-23,2012,0,11,2,2,0,0,2,2012 Early Summer Tour,2012 Summer,Mike's Song,Mike's,1,First Niagara Pavilion,Burgettstown,PA,USA,>
-2012-06-23,2012,0,12,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Simple,Simple,1,First Niagara Pavilion,Burgettstown,PA,USA,>
-2012-06-23,2012,0,13,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Light,Light,0,First Niagara Pavilion,Burgettstown,PA,USA,>
+2012-06-23,2012,0,12,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Simple,,1,First Niagara Pavilion,Burgettstown,PA,USA,>
+2012-06-23,2012,0,13,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Light,,0,First Niagara Pavilion,Burgettstown,PA,USA,>
 2012-06-23,2012,0,14,3,2,0,0,2,2012 Early Summer Tour,2012 Summer,Weekapaug Groove,Weekapaug,1,First Niagara Pavilion,Burgettstown,PA,USA,->
-2012-06-23,2012,0,15,1,2,0,0,17,2012 Early Summer Tour,2012 Summer,Seven Below,Seven Below,1,First Niagara Pavilion,Burgettstown,PA,USA,","
+2012-06-23,2012,0,15,1,2,0,0,17,2012 Early Summer Tour,2012 Summer,Seven Below,,1,First Niagara Pavilion,Burgettstown,PA,USA,","
 2012-06-23,2012,0,16,2,2,0,0,8,2012 Early Summer Tour,2012 Summer,Bouncing Around the Room,Bouncin',1,First Niagara Pavilion,Burgettstown,PA,USA,>
-2012-06-23,2012,0,17,2,2,0,0,2,2012 Early Summer Tour,2012 Summer,Julius,Julius,1,First Niagara Pavilion,Burgettstown,PA,USA,>
+2012-06-23,2012,0,17,2,2,0,0,2,2012 Early Summer Tour,2012 Summer,Julius,,1,First Niagara Pavilion,Burgettstown,PA,USA,>
 2012-06-23,2012,0,18,5,2,0,0,3,2012 Early Summer Tour,2012 Summer,Slave to the Traffic Light,Slave,1,First Niagara Pavilion,Burgettstown,PA,USA,
 2012-06-23,2012,0,19,6,e,0,0,41,2012 Early Summer Tour,2012 Summer,The Lizards,Lizards,1,First Niagara Pavilion,Burgettstown,PA,USA,
 2012-06-24,2012,0,1,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,Sample in a Jar,Sample,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-2012-06-24,2012,0,2,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,Tube,Tube,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-2012-06-24,2012,0,3,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,Axilla,Axilla,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2012-06-24,2012,0,2,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,Tube,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2012-06-24,2012,0,3,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,Axilla,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
 2012-06-24,2012,0,4,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,Bathtub Gin,Gin,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
 2012-06-24,2012,0,5,2,1,0,0,5,2012 Early Summer Tour,2012 Summer,Roses Are Free,Roses,0,Blossom Music Center,Cuyahoga Falls,OH,USA,>
 2012-06-24,2012,0,6,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,Limb By Limb,LxL,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-2012-06-24,2012,0,7,2,1,0,0,3,2012 Early Summer Tour,2012 Summer,Free,Free,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
-2012-06-24,2012,0,8,2,1,0,0,5,2012 Early Summer Tour,2012 Summer,NICU,NICU,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
-2012-06-24,2012,0,9,2,1,0,0,3,2012 Early Summer Tour,2012 Summer,Possum,Possum,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2012-06-24,2012,0,7,2,1,0,0,3,2012 Early Summer Tour,2012 Summer,Free,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2012-06-24,2012,0,8,2,1,0,0,5,2012 Early Summer Tour,2012 Summer,NICU,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2012-06-24,2012,0,9,2,1,0,0,3,2012 Early Summer Tour,2012 Summer,Possum,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
 2012-06-24,2012,0,10,1,1,0,0,7,2012 Early Summer Tour,2012 Summer,The Wedge,Wedge,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-2012-06-24,2012,0,11,1,1,0,0,56,2012 Early Summer Tour,2012 Summer,Corinna,Corinna,0,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-2012-06-24,2012,0,12,4,1,0,0,27,2012 Early Summer Tour,2012 Summer,Meatstick,Meatstick,1,Blossom Music Center,Cuyahoga Falls,OH,USA,
-2012-06-24,2012,0,13,2,2,0,0,8,2012 Early Summer Tour,2012 Summer,Golden Age,Golden Age,0,Blossom Music Center,Cuyahoga Falls,OH,USA,>
-2012-06-24,2012,0,14,2,2,0,0,10,2012 Early Summer Tour,2012 Summer,Ghost,Ghost,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
-2012-06-24,2012,0,15,1,2,0,0,18,2012 Early Summer Tour,2012 Summer,Sweet Virginia,Sweet Virginia,0,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-2012-06-24,2012,0,16,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Rift,Rift,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
-2012-06-24,2012,0,17,3,2,0,0,3,2012 Early Summer Tour,2012 Summer,Tweezer,Tweezer,1,Blossom Music Center,Cuyahoga Falls,OH,USA,->
-2012-06-24,2012,0,18,2,2,0,0,27,2012 Early Summer Tour,2012 Summer,Walk Away,Walk Away,0,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2012-06-24,2012,0,11,1,1,0,0,56,2012 Early Summer Tour,2012 Summer,Corinna,,0,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2012-06-24,2012,0,12,4,1,0,0,27,2012 Early Summer Tour,2012 Summer,Meatstick,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,
+2012-06-24,2012,0,13,2,2,0,0,8,2012 Early Summer Tour,2012 Summer,Golden Age,,0,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2012-06-24,2012,0,14,2,2,0,0,10,2012 Early Summer Tour,2012 Summer,Ghost,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2012-06-24,2012,0,15,1,2,0,0,18,2012 Early Summer Tour,2012 Summer,Sweet Virginia,,0,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2012-06-24,2012,0,16,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Rift,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2012-06-24,2012,0,17,3,2,0,0,3,2012 Early Summer Tour,2012 Summer,Tweezer,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,->
+2012-06-24,2012,0,18,2,2,0,0,27,2012 Early Summer Tour,2012 Summer,Walk Away,,0,Blossom Music Center,Cuyahoga Falls,OH,USA,>
 2012-06-24,2012,0,19,2,2,0,0,6,2012 Early Summer Tour,2012 Summer,The Horse,Horse,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
 2012-06-24,2012,0,20,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Silent in the Morning,Silent,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
-2012-06-24,2012,0,21,2,2,0,0,7,2012 Early Summer Tour,2012 Summer,Piper,Piper,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
-2012-06-24,2012,0,22,2,2,0,0,26,2012 Early Summer Tour,2012 Summer,Waste,Waste,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2012-06-24,2012,0,21,2,2,0,0,7,2012 Early Summer Tour,2012 Summer,Piper,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2012-06-24,2012,0,22,2,2,0,0,26,2012 Early Summer Tour,2012 Summer,Waste,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
 2012-06-24,2012,0,23,5,2,0,0,4,2012 Early Summer Tour,2012 Summer,Run Like an Antelope,Antelope,1,Blossom Music Center,Cuyahoga Falls,OH,USA,
-2012-06-24,2012,0,24,2,e,0,0,10,2012 Early Summer Tour,2012 Summer,Loving Cup,Loving Cup,0,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2012-06-24,2012,0,24,2,e,0,0,10,2012 Early Summer Tour,2012 Summer,Loving Cup,,0,Blossom Music Center,Cuyahoga Falls,OH,USA,>
 2012-06-24,2012,0,25,6,e,0,0,3,2012 Early Summer Tour,2012 Summer,Tweezer Reprise,Tweeprise,1,Blossom Music Center,Cuyahoga Falls,OH,USA,
 2012-06-28,2012,0,1,1,1,0,0,35,2012 Early Summer Tour,2012 Summer,The Birdwatcher,Birdwatcher,1,Klipsch Music Center,Noblesville,IN,USA,","
 2012-06-28,2012,0,2,1,1,0,0,39,2012 Early Summer Tour,2012 Summer,The Curtain With,Curtain With,1,Klipsch Music Center,Noblesville,IN,USA,","
 2012-06-28,2012,0,3,1,1,0,0,43,2012 Early Summer Tour,2012 Summer,Fuck Your Face,FYF,1,Klipsch Music Center,Noblesville,IN,USA,","
-2012-06-28,2012,0,4,1,1,0,0,103,2012 Early Summer Tour,2012 Summer,The Old Home Place,The Old Home Place,0,Klipsch Music Center,Noblesville,IN,USA,","
-2012-06-28,2012,0,5,1,1,0,0,12,2012 Early Summer Tour,2012 Summer,Pebbles and Marbles,Pebbles and Marbles,0,Klipsch Music Center,Noblesville,IN,USA,","
-2012-06-28,2012,0,6,1,1,0,0,20,2012 Early Summer Tour,2012 Summer,Weigh,Weigh,1,Klipsch Music Center,Noblesville,IN,USA,","
+2012-06-28,2012,0,4,1,1,0,0,103,2012 Early Summer Tour,2012 Summer,The Old Home Place,,0,Klipsch Music Center,Noblesville,IN,USA,","
+2012-06-28,2012,0,5,1,1,0,0,12,2012 Early Summer Tour,2012 Summer,Pebbles and Marbles,,0,Klipsch Music Center,Noblesville,IN,USA,","
+2012-06-28,2012,0,6,1,1,0,0,20,2012 Early Summer Tour,2012 Summer,Weigh,,1,Klipsch Music Center,Noblesville,IN,USA,","
 2012-06-28,2012,0,7,1,1,0,0,3,2012 Early Summer Tour,2012 Summer,Chalk Dust Torture,CDT,1,Klipsch Music Center,Noblesville,IN,USA,","
 2012-06-28,2012,0,8,1,1,0,0,3,2012 Early Summer Tour,2012 Summer,Wolfman's Brother,Wolfman's,1,Klipsch Music Center,Noblesville,IN,USA,","
-2012-06-28,2012,0,9,2,1,0,0,54,2012 Early Summer Tour,2012 Summer,Cool It Down,Cool It Down,0,Klipsch Music Center,Noblesville,IN,USA,>
-2012-06-28,2012,0,10,1,1,0,0,1,2012 Early Summer Tour,2012 Summer,Tweezer,Tweezer,1,Klipsch Music Center,Noblesville,IN,USA,","
-2012-06-28,2012,0,11,2,1,0,0,44,2012 Early Summer Tour,2012 Summer,Tela,Tela,1,Klipsch Music Center,Noblesville,IN,USA,>
+2012-06-28,2012,0,9,2,1,0,0,54,2012 Early Summer Tour,2012 Summer,Cool It Down,,0,Klipsch Music Center,Noblesville,IN,USA,>
+2012-06-28,2012,0,10,1,1,0,0,1,2012 Early Summer Tour,2012 Summer,Tweezer,,1,Klipsch Music Center,Noblesville,IN,USA,","
+2012-06-28,2012,0,11,2,1,0,0,44,2012 Early Summer Tour,2012 Summer,Tela,,1,Klipsch Music Center,Noblesville,IN,USA,>
 2012-06-28,2012,0,12,4,1,0,0,5,2012 Early Summer Tour,2012 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Klipsch Music Center,Noblesville,IN,USA,
 2012-06-28,2012,0,13,2,2,0,0,2,2012 Early Summer Tour,2012 Summer,Mike's Song,Mike's,1,Klipsch Music Center,Noblesville,IN,USA,>
 2012-06-28,2012,0,14,2,2,0,0,30,2012 Early Summer Tour,2012 Summer,McGrupp and the Watchful Hosemasters,McGrupp,1,Klipsch Music Center,Noblesville,IN,USA,>
 2012-06-28,2012,0,15,3,2,0,0,5,2012 Early Summer Tour,2012 Summer,Back on the Train,BOTT,0,Klipsch Music Center,Noblesville,IN,USA,->
 2012-06-28,2012,0,16,2,2,0,0,26,2012 Early Summer Tour,2012 Summer,Hold Your Head Up,HYHU,0,Klipsch Music Center,Noblesville,IN,USA,>
-2012-06-28,2012,0,17,2,2,0,0,34,2012 Early Summer Tour,2012 Summer,Bike,Bike,0,Klipsch Music Center,Noblesville,IN,USA,>
+2012-06-28,2012,0,17,2,2,0,0,34,2012 Early Summer Tour,2012 Summer,Bike,,0,Klipsch Music Center,Noblesville,IN,USA,>
 2012-06-28,2012,0,18,2,2,0,0,0,2012 Early Summer Tour,2012 Summer,Hold Your Head Up,HYHU,0,Klipsch Music Center,Noblesville,IN,USA,>
 2012-06-28,2012,0,19,2,2,0,0,2,2012 Early Summer Tour,2012 Summer,Weekapaug Groove,Weekapaug,1,Klipsch Music Center,Noblesville,IN,USA,>
 2012-06-28,2012,0,20,2,2,0,0,6,2012 Early Summer Tour,2012 Summer,Prince Caspian,Caspian,1,Klipsch Music Center,Noblesville,IN,USA,>
-2012-06-28,2012,0,21,2,2,0,0,22,2012 Early Summer Tour,2012 Summer,Waves,Waves,1,Klipsch Music Center,Noblesville,IN,USA,>
-2012-06-28,2012,0,22,2,2,0,0,6,2012 Early Summer Tour,2012 Summer,Bug,Bug,0,Klipsch Music Center,Noblesville,IN,USA,>
+2012-06-28,2012,0,21,2,2,0,0,22,2012 Early Summer Tour,2012 Summer,Waves,,1,Klipsch Music Center,Noblesville,IN,USA,>
+2012-06-28,2012,0,22,2,2,0,0,6,2012 Early Summer Tour,2012 Summer,Bug,,0,Klipsch Music Center,Noblesville,IN,USA,>
 2012-06-28,2012,0,23,5,2,0,0,3,2012 Early Summer Tour,2012 Summer,David Bowie,Bowie,1,Klipsch Music Center,Noblesville,IN,USA,
-2012-06-28,2012,0,24,2,e,0,0,9,2012 Early Summer Tour,2012 Summer,Show of Life,Show of Life,0,Klipsch Music Center,Noblesville,IN,USA,>
+2012-06-28,2012,0,24,2,e,0,0,9,2012 Early Summer Tour,2012 Summer,Show of Life,,0,Klipsch Music Center,Noblesville,IN,USA,>
 2012-06-28,2012,0,25,6,e,0,0,1,2012 Early Summer Tour,2012 Summer,Tweezer Reprise,Tweeprise,1,Klipsch Music Center,Noblesville,IN,USA,
-2012-06-29,2012,0,1,1,1,0,0,88,2012 Early Summer Tour,2012 Summer,Crowd Control,Crowd Control,1,Klipsch Music Center,Noblesville,IN,USA,","
-2012-06-29,2012,0,2,1,1,0,0,22,2012 Early Summer Tour,2012 Summer,Dinner and a Movie,Dinner and a Movie,1,Klipsch Music Center,Noblesville,IN,USA,","
-2012-06-29,2012,0,3,1,1,0,0,354,2012 Early Summer Tour,2012 Summer,Sweet Jane,Sweet Jane,0,Klipsch Music Center,Noblesville,IN,USA,","
+2012-06-29,2012,0,1,1,1,0,0,88,2012 Early Summer Tour,2012 Summer,Crowd Control,,1,Klipsch Music Center,Noblesville,IN,USA,","
+2012-06-29,2012,0,2,1,1,0,0,22,2012 Early Summer Tour,2012 Summer,Dinner and a Movie,,1,Klipsch Music Center,Noblesville,IN,USA,","
+2012-06-29,2012,0,3,1,1,0,0,354,2012 Early Summer Tour,2012 Summer,Sweet Jane,,0,Klipsch Music Center,Noblesville,IN,USA,","
 2012-06-29,2012,0,4,2,1,0,0,2,2012 Early Summer Tour,2012 Summer,Limb By Limb,LxL,1,Klipsch Music Center,Noblesville,IN,USA,>
-2012-06-29,2012,0,5,1,1,0,0,2,2012 Early Summer Tour,2012 Summer,Possum,Possum,1,Klipsch Music Center,Noblesville,IN,USA,","
-2012-06-29,2012,0,6,1,1,0,0,24,2012 Early Summer Tour,2012 Summer,Mound,Mound,1,Klipsch Music Center,Noblesville,IN,USA,","
-2012-06-29,2012,0,7,1,1,0,0,24,2012 Early Summer Tour,2012 Summer,Life on Mars?,Life on Mars?,0,Klipsch Music Center,Noblesville,IN,USA,","
+2012-06-29,2012,0,5,1,1,0,0,2,2012 Early Summer Tour,2012 Summer,Possum,,1,Klipsch Music Center,Noblesville,IN,USA,","
+2012-06-29,2012,0,6,1,1,0,0,24,2012 Early Summer Tour,2012 Summer,Mound,,1,Klipsch Music Center,Noblesville,IN,USA,","
+2012-06-29,2012,0,7,1,1,0,0,24,2012 Early Summer Tour,2012 Summer,Life on Mars?,,0,Klipsch Music Center,Noblesville,IN,USA,","
 2012-06-29,2012,0,8,2,1,0,0,6,2012 Early Summer Tour,2012 Summer,The Mango Song,Mango,1,Klipsch Music Center,Noblesville,IN,USA,>
 2012-06-29,2012,0,9,1,1,0,0,30,2012 Early Summer Tour,2012 Summer,Big Black Furry Creature from Mars,BBFCFM,1,Klipsch Music Center,Noblesville,IN,USA,","
-2012-06-29,2012,0,10,1,1,0,0,20,2012 Early Summer Tour,2012 Summer,Strange Design,Strange Design,1,Klipsch Music Center,Noblesville,IN,USA,","
+2012-06-29,2012,0,10,1,1,0,0,20,2012 Early Summer Tour,2012 Summer,Strange Design,,1,Klipsch Music Center,Noblesville,IN,USA,","
 2012-06-29,2012,0,11,1,1,0,0,5,2012 Early Summer Tour,2012 Summer,Birds of a Feather,BOAF,1,Klipsch Music Center,Noblesville,IN,USA,","
 2012-06-29,2012,0,12,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,Halley's Comet,Halley's,1,Klipsch Music Center,Noblesville,IN,USA,","
 2012-06-29,2012,0,13,4,1,0,0,73,2012 Early Summer Tour,2012 Summer,While My Guitar Gently Weeps,WMGGW,0,Klipsch Music Center,Noblesville,IN,USA,
 2012-06-29,2012,0,14,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Down with Disease,DwD,1,Klipsch Music Center,Noblesville,IN,USA,>
-2012-06-29,2012,0,15,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Sand,Sand,0,Klipsch Music Center,Noblesville,IN,USA,>
-2012-06-29,2012,0,16,3,2,0,0,4,2012 Early Summer Tour,2012 Summer,Twist,Twist,1,Klipsch Music Center,Noblesville,IN,USA,->
-2012-06-29,2012,0,17,2,2,0,0,2,2012 Early Summer Tour,2012 Summer,Rift,Rift,1,Klipsch Music Center,Noblesville,IN,USA,>
+2012-06-29,2012,0,15,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Sand,,0,Klipsch Music Center,Noblesville,IN,USA,>
+2012-06-29,2012,0,16,3,2,0,0,4,2012 Early Summer Tour,2012 Summer,Twist,,1,Klipsch Music Center,Noblesville,IN,USA,->
+2012-06-29,2012,0,17,2,2,0,0,2,2012 Early Summer Tour,2012 Summer,Rift,,1,Klipsch Music Center,Noblesville,IN,USA,>
 2012-06-29,2012,0,18,3,2,0,0,2,2012 Early Summer Tour,2012 Summer,Bathtub Gin,Gin,1,Klipsch Music Center,Noblesville,IN,USA,->
-2012-06-29,2012,0,19,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Fluffhead,Fluffhead,1,Klipsch Music Center,Noblesville,IN,USA,>
-2012-06-29,2012,0,20,2,2,0,0,41,2012 Early Summer Tour,2012 Summer,Ride Captain Ride,Ride Captain Ride,0,Klipsch Music Center,Noblesville,IN,USA,>
+2012-06-29,2012,0,19,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Fluffhead,,1,Klipsch Music Center,Noblesville,IN,USA,>
+2012-06-29,2012,0,20,2,2,0,0,41,2012 Early Summer Tour,2012 Summer,Ride Captain Ride,,0,Klipsch Music Center,Noblesville,IN,USA,>
 2012-06-29,2012,0,21,5,2,0,0,2,2012 Early Summer Tour,2012 Summer,Run Like an Antelope,Antelope,1,Klipsch Music Center,Noblesville,IN,USA,
-2012-06-29,2012,0,22,2,e,0,0,6,2012 Early Summer Tour,2012 Summer,Cavern,Cavern,1,Klipsch Music Center,Noblesville,IN,USA,>
-2012-06-29,2012,0,23,1,e,0,0,20,2012 Early Summer Tour,2012 Summer,Sanity,Sanity,1,Klipsch Music Center,Noblesville,IN,USA,","
-2012-06-29,2012,0,24,6,e,0,0,9,2012 Early Summer Tour,2012 Summer,First Tube,First Tube,0,Klipsch Music Center,Noblesville,IN,USA,
-2012-06-30,2012,0,1,1,1,0,0,10,2012 Early Summer Tour,2012 Summer,My Soul,My Soul,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2012-06-30,2012,0,2,1,1,0,0,40,2012 Early Summer Tour,2012 Summer,Daniel Saw the Stone,Daniel Saw the Stone,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2012-06-29,2012,0,22,2,e,0,0,6,2012 Early Summer Tour,2012 Summer,Cavern,,1,Klipsch Music Center,Noblesville,IN,USA,>
+2012-06-29,2012,0,23,1,e,0,0,20,2012 Early Summer Tour,2012 Summer,Sanity,,1,Klipsch Music Center,Noblesville,IN,USA,","
+2012-06-29,2012,0,24,6,e,0,0,9,2012 Early Summer Tour,2012 Summer,First Tube,,0,Klipsch Music Center,Noblesville,IN,USA,
+2012-06-30,2012,0,1,1,1,0,0,10,2012 Early Summer Tour,2012 Summer,My Soul,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2012-06-30,2012,0,2,1,1,0,0,40,2012 Early Summer Tour,2012 Summer,Daniel Saw the Stone,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2012-06-30,2012,0,3,2,1,0,0,6,2012 Early Summer Tour,2012 Summer,AC/DC Bag,Bag,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2012-06-30,2012,0,4,2,1,0,0,4,2012 Early Summer Tour,2012 Summer,The Moma Dance,Moma,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2012-06-30,2012,0,5,1,1,0,0,5,2012 Early Summer Tour,2012 Summer,Runaway Jim,Runaway Jim,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2012-06-30,2012,0,6,1,1,0,0,23,2012 Early Summer Tour,2012 Summer,Let It Loose,Let It Loose,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2012-06-30,2012,0,7,1,1,0,0,8,2012 Early Summer Tour,2012 Summer,Reba,Reba,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2012-06-30,2012,0,5,1,1,0,0,5,2012 Early Summer Tour,2012 Summer,Runaway Jim,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2012-06-30,2012,0,6,1,1,0,0,23,2012 Early Summer Tour,2012 Summer,Let It Loose,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2012-06-30,2012,0,7,1,1,0,0,8,2012 Early Summer Tour,2012 Summer,Reba,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2012-06-30,2012,0,8,2,1,0,0,5,2012 Early Summer Tour,2012 Summer,Kill Devil Falls,KDF,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2012-06-30,2012,0,9,1,1,0,0,10,2012 Early Summer Tour,2012 Summer,The Sloth,Sloth,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2012-06-30,2012,0,10,2,1,0,0,9,2012 Early Summer Tour,2012 Summer,Ocelot,Ocelot,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2012-06-30,2012,0,11,1,1,0,0,26,2012 Early Summer Tour,2012 Summer,Poor Heart,Poor Heart,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2012-06-30,2012,0,10,2,1,0,0,9,2012 Early Summer Tour,2012 Summer,Ocelot,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2012-06-30,2012,0,11,1,1,0,0,26,2012 Early Summer Tour,2012 Summer,Poor Heart,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2012-06-30,2012,0,12,2,1,0,0,26,2012 Early Summer Tour,2012 Summer,When the Circus Comes,Circus,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2012-06-30,2012,0,13,2,1,0,0,8,2012 Early Summer Tour,2012 Summer,Timber (Jerry the Mule),Timber Ho,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2012-06-30,2012,0,14,2,1,0,0,12,2012 Early Summer Tour,2012 Summer,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2012-06-30,2012,0,15,4,1,0,0,9,2012 Early Summer Tour,2012 Summer,Suzy Greenberg,Suzy,1,Alpine Valley Music Theatre,East Troy,WI,USA,
 2012-06-30,2012,0,16,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Backwards Down the Number Line,BDTNL,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2012-06-30,2012,0,17,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Carini,Carini,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2012-06-30,2012,0,18,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Wilson,Wilson,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2012-06-30,2012,0,19,3,2,0,0,3,2012 Early Summer Tour,2012 Summer,Golden Age,Golden Age,0,Alpine Valley Music Theatre,East Troy,WI,USA,->
+2012-06-30,2012,0,17,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Carini,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2012-06-30,2012,0,18,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Wilson,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2012-06-30,2012,0,19,3,2,0,0,3,2012 Early Summer Tour,2012 Summer,Golden Age,,0,Alpine Valley Music Theatre,East Troy,WI,USA,->
 2012-06-30,2012,0,20,2,2,0,0,8,2012 Early Summer Tour,2012 Summer,Also Sprach Zarathustra,2001,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2012-06-30,2012,0,21,2,2,0,0,6,2012 Early Summer Tour,2012 Summer,Rock and Roll,R&amp;R,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2012-06-30,2012,0,22,2,2,0,0,14,2012 Early Summer Tour,2012 Summer,Steam,Steam,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2012-06-30,2012,0,23,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Piper,Piper,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2012-06-30,2012,0,22,2,2,0,0,14,2012 Early Summer Tour,2012 Summer,Steam,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2012-06-30,2012,0,23,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Piper,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2012-06-30,2012,0,24,1,2,0,0,8,2012 Early Summer Tour,2012 Summer,Quinn the Eskimo (The Mighty Quinn),Quinn,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2012-06-30,2012,0,25,2,2,0,0,6,2012 Early Summer Tour,2012 Summer,Harry Hood,Hood,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2012-06-30,2012,0,26,5,2,0,0,8,2012 Early Summer Tour,2012 Summer,Character Zero,Character Zero,1,Alpine Valley Music Theatre,East Troy,WI,USA,
+2012-06-30,2012,0,26,5,2,0,0,8,2012 Early Summer Tour,2012 Summer,Character Zero,,1,Alpine Valley Music Theatre,East Troy,WI,USA,
 2012-06-30,2012,0,27,6,e,0,0,9,2012 Early Summer Tour,2012 Summer,Good Times Bad Times,GTBT,0,Alpine Valley Music Theatre,East Troy,WI,USA,
-2012-07-01,2012,0,1,1,1,0,0,22,2012 Early Summer Tour,2012 Summer,Soul Shakedown Party,Soul Shakedown Party,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2012-07-01,2012,0,2,1,1,0,0,40,2012 Early Summer Tour,2012 Summer,Lonesome Cowboy Bill,Lonesome Cowboy Bill,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2012-07-01,2012,0,3,1,1,0,0,16,2012 Early Summer Tour,2012 Summer,Vultures,Vultures,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2012-07-01,2012,0,1,1,1,0,0,22,2012 Early Summer Tour,2012 Summer,Soul Shakedown Party,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2012-07-01,2012,0,2,1,1,0,0,40,2012 Early Summer Tour,2012 Summer,Lonesome Cowboy Bill,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2012-07-01,2012,0,3,1,1,0,0,16,2012 Early Summer Tour,2012 Summer,Vultures,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2012-07-01,2012,0,4,1,1,0,0,5,2012 Early Summer Tour,2012 Summer,Gotta Jibboo,Jibboo,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2012-07-01,2012,0,5,1,1,0,0,25,2012 Early Summer Tour,2012 Summer,Dirt,Dirt,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2012-07-01,2012,0,5,1,1,0,0,25,2012 Early Summer Tour,2012 Summer,Dirt,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2012-07-01,2012,0,6,1,1,0,0,32,2012 Early Summer Tour,2012 Summer,A Song I Heard the Ocean Sing,ASIHTOS,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2012-07-01,2012,0,7,1,1,0,0,41,2012 Early Summer Tour,2012 Summer,Access Me,Access Me,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2012-07-01,2012,0,8,1,1,0,0,28,2012 Early Summer Tour,2012 Summer,Meat,Meat,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2012-07-01,2012,0,9,1,1,0,0,53,2012 Early Summer Tour,2012 Summer,Frankenstein,Frankenstein,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2012-07-01,2012,0,10,1,1,0,0,45,2012 Early Summer Tour,2012 Summer,Fee,Fee,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2012-07-01,2012,0,11,1,1,0,0,5,2012 Early Summer Tour,2012 Summer,Maze,Maze,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2012-07-01,2012,0,7,1,1,0,0,41,2012 Early Summer Tour,2012 Summer,Access Me,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2012-07-01,2012,0,8,1,1,0,0,28,2012 Early Summer Tour,2012 Summer,Meat,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2012-07-01,2012,0,9,1,1,0,0,53,2012 Early Summer Tour,2012 Summer,Frankenstein,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2012-07-01,2012,0,10,1,1,0,0,45,2012 Early Summer Tour,2012 Summer,Fee,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2012-07-01,2012,0,11,1,1,0,0,5,2012 Early Summer Tour,2012 Summer,Maze,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2012-07-01,2012,0,12,4,1,0,0,11,2012 Early Summer Tour,2012 Summer,The Squirming Coil,Coil,1,Alpine Valley Music Theatre,East Troy,WI,USA,
 2012-07-01,2012,0,13,2,2,0,0,10,2012 Early Summer Tour,2012 Summer,Crosseyed and Painless,C&amp;P,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2012-07-01,2012,0,14,2,2,0,0,23,2012 Early Summer Tour,2012 Summer,No Quarter,No Quarter,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2012-07-01,2012,0,15,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Light,Light,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2012-07-01,2012,0,16,3,2,0,0,4,2012 Early Summer Tour,2012 Summer,Ghost,Ghost,1,Alpine Valley Music Theatre,East Troy,WI,USA,->
+2012-07-01,2012,0,14,2,2,0,0,23,2012 Early Summer Tour,2012 Summer,No Quarter,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2012-07-01,2012,0,15,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Light,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2012-07-01,2012,0,16,3,2,0,0,4,2012 Early Summer Tour,2012 Summer,Ghost,,1,Alpine Valley Music Theatre,East Troy,WI,USA,->
 2012-07-01,2012,0,17,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Back on the Train,BOTT,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2012-07-01,2012,0,18,1,2,0,0,15,2012 Early Summer Tour,2012 Summer,Farmhouse,Farmhouse,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2012-07-01,2012,0,19,1,2,0,0,5,2012 Early Summer Tour,2012 Summer,46 Days,46 Days,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2012-07-01,2012,0,20,2,2,0,0,11,2012 Early Summer Tour,2012 Summer,Heavy Things,Heavy Things,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2012-07-01,2012,0,21,1,2,0,0,16,2012 Early Summer Tour,2012 Summer,Joy,Joy,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2012-07-01,2012,0,22,5,2,0,0,5,2012 Early Summer Tour,2012 Summer,Julius,Julius,1,Alpine Valley Music Theatre,East Troy,WI,USA,
-2012-07-01,2012,0,23,6,e,0,0,4,2012 Early Summer Tour,2012 Summer,Meatstick,Meatstick,1,Alpine Valley Music Theatre,East Troy,WI,USA,
-2012-07-03,2012,0,1,2,1,0,0,1424,2012 Early Summer Tour,2012 Summer,Skin It Back,Skin It Back,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
-2012-07-03,2012,0,2,1,1,0,0,3,2012 Early Summer Tour,2012 Summer,Possum,Possum,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
-2012-07-03,2012,0,3,1,1,0,0,5,2012 Early Summer Tour,2012 Summer,Tube,Tube,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
-2012-07-03,2012,0,4,1,1,0,0,661,2012 Early Summer Tour,2012 Summer,Happiness Is a Warm Gun,Happiness Is a Warm Gun,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2012-07-01,2012,0,18,1,2,0,0,15,2012 Early Summer Tour,2012 Summer,Farmhouse,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2012-07-01,2012,0,19,1,2,0,0,5,2012 Early Summer Tour,2012 Summer,46 Days,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2012-07-01,2012,0,20,2,2,0,0,11,2012 Early Summer Tour,2012 Summer,Heavy Things,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2012-07-01,2012,0,21,1,2,0,0,16,2012 Early Summer Tour,2012 Summer,Joy,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2012-07-01,2012,0,22,5,2,0,0,5,2012 Early Summer Tour,2012 Summer,Julius,,1,Alpine Valley Music Theatre,East Troy,WI,USA,
+2012-07-01,2012,0,23,6,e,0,0,4,2012 Early Summer Tour,2012 Summer,Meatstick,,1,Alpine Valley Music Theatre,East Troy,WI,USA,
+2012-07-03,2012,0,1,2,1,0,0,1424,2012 Early Summer Tour,2012 Summer,Skin It Back,,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2012-07-03,2012,0,2,1,1,0,0,3,2012 Early Summer Tour,2012 Summer,Possum,,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2012-07-03,2012,0,3,1,1,0,0,5,2012 Early Summer Tour,2012 Summer,Tube,,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2012-07-03,2012,0,4,1,1,0,0,661,2012 Early Summer Tour,2012 Summer,Happiness Is a Warm Gun,,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
 2012-07-03,2012,0,5,2,1,0,0,4,2012 Early Summer Tour,2012 Summer,Mike's Song,Mike's,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
 2012-07-03,2012,0,6,2,1,0,0,8,2012 Early Summer Tour,2012 Summer,I Am Hydrogen,Hydrogen,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
 2012-07-03,2012,0,7,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,Weekapaug Groove,Weekapaug,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
 2012-07-03,2012,0,8,2,1,0,0,3,2012 Early Summer Tour,2012 Summer,Halley's Comet,Halley's,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
-2012-07-03,2012,0,9,2,1,0,0,5,2012 Early Summer Tour,2012 Summer,Axilla,Axilla,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
-2012-07-03,2012,0,10,1,1,0,0,8,2012 Early Summer Tour,2012 Summer,Ya Mar,Ya Mar,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
-2012-07-03,2012,0,11,1,1,0,0,1,2012 Early Summer Tour,2012 Summer,Joy,Joy,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2012-07-03,2012,0,9,2,1,0,0,5,2012 Early Summer Tour,2012 Summer,Axilla,,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2012-07-03,2012,0,10,1,1,0,0,8,2012 Early Summer Tour,2012 Summer,Ya Mar,,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2012-07-03,2012,0,11,1,1,0,0,1,2012 Early Summer Tour,2012 Summer,Joy,,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
 2012-07-03,2012,0,12,2,1,0,0,26,2012 Early Summer Tour,2012 Summer,Jesus Just Left Chicago,JJLC,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
 2012-07-03,2012,0,13,2,1,0,0,2,2012 Early Summer Tour,2012 Summer,Backwards Down the Number Line,BDTNL,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
 2012-07-03,2012,0,14,4,1,0,0,7,2012 Early Summer Tour,2012 Summer,Golgi Apparatus,Golgi,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,
 2012-07-03,2012,0,15,1,2,0,0,4,2012 Early Summer Tour,2012 Summer,Chalk Dust Torture,CDT,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
-2012-07-03,2012,0,16,3,2,0,0,3,2012 Early Summer Tour,2012 Summer,Sand,Sand,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,->
-2012-07-03,2012,0,17,1,2,0,0,2,2012 Early Summer Tour,2012 Summer,Golden Age,Golden Age,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2012-07-03,2012,0,16,3,2,0,0,3,2012 Early Summer Tour,2012 Summer,Sand,,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,->
+2012-07-03,2012,0,17,1,2,0,0,2,2012 Early Summer Tour,2012 Summer,Golden Age,,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
 2012-07-03,2012,0,18,3,2,0,0,4,2012 Early Summer Tour,2012 Summer,Wolfman's Brother,Wolfman's,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,->
-2012-07-03,2012,0,19,1,2,0,0,5,2012 Early Summer Tour,2012 Summer,Walk Away,Walk Away,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
-2012-07-03,2012,0,20,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Bug,Bug,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
-2012-07-03,2012,0,21,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Fluffhead,Fluffhead,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2012-07-03,2012,0,19,1,2,0,0,5,2012 Early Summer Tour,2012 Summer,Walk Away,,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2012-07-03,2012,0,20,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Bug,,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2012-07-03,2012,0,21,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Fluffhead,,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
 2012-07-03,2012,0,22,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,The Wedge,Wedge,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
 2012-07-03,2012,0,23,5,2,0,0,3,2012 Early Summer Tour,2012 Summer,Run Like an Antelope,Antelope,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,
-2012-07-03,2012,0,24,6,e,0,0,2,2012 Early Summer Tour,2012 Summer,Character Zero,Character Zero,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,
+2012-07-03,2012,0,24,6,e,0,0,2,2012 Early Summer Tour,2012 Summer,Character Zero,,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,
 2012-07-04,2012,0,1,2,1,0,0,27,2012 Early Summer Tour,2012 Summer,Alumni Blues,Alumni,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
 2012-07-04,2012,0,2,2,1,0,0,27,2012 Early Summer Tour,2012 Summer,Letter to Jimmy Page,LTJP,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
 2012-07-04,2012,0,3,1,1,0,0,0,2012 Early Summer Tour,2012 Summer,Alumni Blues,Alumni,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
-2012-07-04,2012,0,4,1,1,0,0,358,2012 Early Summer Tour,2012 Summer,Head Held High,Head Held High,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2012-07-04,2012,0,4,1,1,0,0,358,2012 Early Summer Tour,2012 Summer,Head Held High,,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
 2012-07-04,2012,0,5,2,1,0,0,136,2012 Early Summer Tour,2012 Summer,The Man Who Stepped Into Yesterday,TMWSIY,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
-2012-07-04,2012,0,6,2,1,0,0,136,2012 Early Summer Tour,2012 Summer,Avenu Malkenu,Avenu Malkenu,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2012-07-04,2012,0,6,2,1,0,0,136,2012 Early Summer Tour,2012 Summer,Avenu Malkenu,,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
 2012-07-04,2012,0,7,1,1,0,0,0,2012 Early Summer Tour,2012 Summer,The Man Who Stepped Into Yesterday,TMWSIY,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
 2012-07-04,2012,0,8,1,1,0,0,3,2012 Early Summer Tour,2012 Summer,Kill Devil Falls,KDF,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
-2012-07-04,2012,0,9,1,1,0,0,132,2012 Early Summer Tour,2012 Summer,Bittersweet Motel,Bittersweet Motel,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2012-07-04,2012,0,9,1,1,0,0,132,2012 Early Summer Tour,2012 Summer,Bittersweet Motel,,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
 2012-07-04,2012,0,10,2,1,0,0,3,2012 Early Summer Tour,2012 Summer,The Moma Dance,Moma,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
-2012-07-04,2012,0,11,2,1,0,0,7,2012 Early Summer Tour,2012 Summer,Gumbo,Gumbo,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2012-07-04,2012,0,11,2,1,0,0,7,2012 Early Summer Tour,2012 Summer,Gumbo,,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
 2012-07-04,2012,0,12,1,1,0,0,5,2012 Early Summer Tour,2012 Summer,David Bowie,Bowie,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
-2012-07-04,2012,0,13,2,1,0,0,8,2012 Early Summer Tour,2012 Summer,Alaska,Alaska,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
-2012-07-04,2012,0,14,1,1,0,0,24,2012 Early Summer Tour,2012 Summer,Susskind Hotel,Susskind Hotel,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2012-07-04,2012,0,13,2,1,0,0,8,2012 Early Summer Tour,2012 Summer,Alaska,,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2012-07-04,2012,0,14,1,1,0,0,24,2012 Early Summer Tour,2012 Summer,Susskind Hotel,,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
 2012-07-04,2012,0,15,2,1,0,0,5,2012 Early Summer Tour,2012 Summer,Hold Your Head Up,HYHU,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
-2012-07-04,2012,0,16,2,1,0,0,316,2012 Early Summer Tour,2012 Summer,Purple Rain,Purple Rain,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2012-07-04,2012,0,16,2,1,0,0,316,2012 Early Summer Tour,2012 Summer,Purple Rain,,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
 2012-07-04,2012,0,17,1,1,0,0,0,2012 Early Summer Tour,2012 Summer,Hold Your Head Up,HYHU,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
 2012-07-04,2012,0,18,4,1,0,0,34,2012 Early Summer Tour,2012 Summer,The Star-Spangled Banner,Star Spangled Banner,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,
 2012-07-04,2012,0,19,2,2,0,0,11,2012 Early Summer Tour,2012 Summer,Boogie On Reggae Woman,Boogie On,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
-2012-07-04,2012,0,20,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Tweezer,Tweezer,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
-2012-07-04,2012,0,21,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Twist,Twist,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
-2012-07-04,2012,0,22,2,2,0,0,16,2012 Early Summer Tour,2012 Summer,Taste,Taste,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2012-07-04,2012,0,20,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Tweezer,,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2012-07-04,2012,0,21,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Twist,,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2012-07-04,2012,0,22,2,2,0,0,16,2012 Early Summer Tour,2012 Summer,Taste,,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
 2012-07-04,2012,0,23,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Quinn the Eskimo (The Mighty Quinn),Quinn,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
-2012-07-04,2012,0,24,2,2,0,0,2,2012 Early Summer Tour,2012 Summer,Julius,Julius,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2012-07-04,2012,0,24,2,2,0,0,2,2012 Early Summer Tour,2012 Summer,Julius,,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
 2012-07-04,2012,0,25,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Rock and Roll,R&amp;R,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
 2012-07-04,2012,0,26,2,2,0,0,6,2012 Early Summer Tour,2012 Summer,The Horse,Horse,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
 2012-07-04,2012,0,27,2,2,0,0,6,2012 Early Summer Tour,2012 Summer,Silent in the Morning,Silent,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
 2012-07-04,2012,0,28,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Harry Hood,Hood,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
-2012-07-04,2012,0,29,2,2,0,0,10,2012 Early Summer Tour,2012 Summer,Shine a Light,Shine a Light,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
-2012-07-04,2012,0,30,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Show of Life,Show of Life,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2012-07-04,2012,0,29,2,2,0,0,10,2012 Early Summer Tour,2012 Summer,Shine a Light,,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2012-07-04,2012,0,30,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Show of Life,,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
 2012-07-04,2012,0,31,5,2,0,0,7,2012 Early Summer Tour,2012 Summer,Slave to the Traffic Light,Slave,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,
-2012-07-04,2012,0,32,2,e,0,0,9,2012 Early Summer Tour,2012 Summer,Sleeping Monkey,Sleeping Monkey,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
+2012-07-04,2012,0,32,2,e,0,0,9,2012 Early Summer Tour,2012 Summer,Sleeping Monkey,,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,>
 2012-07-04,2012,0,33,6,e,0,0,5,2012 Early Summer Tour,2012 Summer,Tweezer Reprise,Tweeprise,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,
-2012-07-06,2012,0,1,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,Runaway Jim,Runaway Jim,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2012-07-06,2012,0,2,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,Ocelot,Ocelot,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2012-07-06,2012,0,3,1,1,0,0,3,2012 Early Summer Tour,2012 Summer,Heavy Things,Heavy Things,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2012-07-06,2012,0,1,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,Runaway Jim,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2012-07-06,2012,0,2,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,Ocelot,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2012-07-06,2012,0,3,1,1,0,0,3,2012 Early Summer Tour,2012 Summer,Heavy Things,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2012-07-06,2012,0,4,1,1,0,0,3,2012 Early Summer Tour,2012 Summer,Back on the Train,BOTT,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2012-07-06,2012,0,5,1,1,0,0,8,2012 Early Summer Tour,2012 Summer,Funky Bitch,Funky Bitch,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2012-07-06,2012,0,6,3,1,0,0,2,2012 Early Summer Tour,2012 Summer,Tube,Tube,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
-2012-07-06,2012,0,7,3,1,0,0,127,2012 Early Summer Tour,2012 Summer,Psycho Killer,Psycho Killer,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
-2012-07-06,2012,0,8,1,1,0,0,0,2012 Early Summer Tour,2012 Summer,Tube,Tube,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2012-07-06,2012,0,5,1,1,0,0,8,2012 Early Summer Tour,2012 Summer,Funky Bitch,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2012-07-06,2012,0,6,3,1,0,0,2,2012 Early Summer Tour,2012 Summer,Tube,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
+2012-07-06,2012,0,7,3,1,0,0,127,2012 Early Summer Tour,2012 Summer,Psycho Killer,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
+2012-07-06,2012,0,8,1,1,0,0,0,2012 Early Summer Tour,2012 Summer,Tube,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2012-07-06,2012,0,9,2,1,0,0,1,2012 Early Summer Tour,2012 Summer,Hold Your Head Up,HYHU,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2012-07-06,2012,0,10,2,1,0,0,281,2012 Early Summer Tour,2012 Summer,Cracklin' Rosie,Cracklin' Rosie,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2012-07-06,2012,0,10,2,1,0,0,281,2012 Early Summer Tour,2012 Summer,Cracklin' Rosie,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2012-07-06,2012,0,11,1,1,0,0,0,2012 Early Summer Tour,2012 Summer,Hold Your Head Up,HYHU,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2012-07-06,2012,0,12,1,1,0,0,9,2012 Early Summer Tour,2012 Summer,Stash,Stash,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2012-07-06,2012,0,12,1,1,0,0,9,2012 Early Summer Tour,2012 Summer,Stash,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2012-07-06,2012,0,13,1,1,0,0,8,2012 Early Summer Tour,2012 Summer,Bouncing Around the Room,Bouncin',1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2012-07-06,2012,0,14,1,1,0,0,41,2012 Early Summer Tour,2012 Summer,Paul and Silas,Paul and Silas,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2012-07-06,2012,0,15,1,1,0,0,11,2012 Early Summer Tour,2012 Summer,Horn,Horn,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2012-07-06,2012,0,16,1,1,0,0,7,2012 Early Summer Tour,2012 Summer,Corinna,Corinna,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2012-07-06,2012,0,14,1,1,0,0,41,2012 Early Summer Tour,2012 Summer,Paul and Silas,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2012-07-06,2012,0,15,1,1,0,0,11,2012 Early Summer Tour,2012 Summer,Horn,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2012-07-06,2012,0,16,1,1,0,0,7,2012 Early Summer Tour,2012 Summer,Corinna,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2012-07-06,2012,0,17,4,1,0,0,9,2012 Early Summer Tour,2012 Summer,Light Up Or Leave Me Alone,Light Up,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
 2012-07-06,2012,0,18,2,2,0,0,2,2012 Early Summer Tour,2012 Summer,Chalk Dust Torture,CDT,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2012-07-06,2012,0,19,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Carini,Carini,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2012-07-06,2012,0,20,1,2,0,0,2,2012 Early Summer Tour,2012 Summer,Sand,Sand,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2012-07-06,2012,0,19,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Carini,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2012-07-06,2012,0,20,1,2,0,0,2,2012 Early Summer Tour,2012 Summer,Sand,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2012-07-06,2012,0,21,2,2,0,0,7,2012 Early Summer Tour,2012 Summer,Roses Are Free,Roses,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2012-07-06,2012,0,22,2,2,0,0,13,2012 Early Summer Tour,2012 Summer,Punch You in the Eye,PYITE,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2012-07-06,2012,0,23,2,2,0,0,14,2012 Early Summer Tour,2012 Summer,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2012-07-06,2012,0,24,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Ghost,Ghost,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2012-07-06,2012,0,24,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Ghost,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2012-07-06,2012,0,25,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Suzy Greenberg,Suzy,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2012-07-06,2012,0,26,5,2,0,0,2,2012 Early Summer Tour,2012 Summer,Run Like an Antelope,Antelope,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
-2012-07-06,2012,0,27,6,e,0,0,7,2012 Early Summer Tour,2012 Summer,Loving Cup,Loving Cup,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
-2012-07-07,2012,0,1,1,1,0,0,58,2012 Early Summer Tour,2012 Summer,Grind,Grind,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2012-07-07,2012,0,2,2,1,0,0,3,2012 Early Summer Tour,2012 Summer,Possum,Possum,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2012-07-06,2012,0,27,6,e,0,0,7,2012 Early Summer Tour,2012 Summer,Loving Cup,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
+2012-07-07,2012,0,1,1,1,0,0,58,2012 Early Summer Tour,2012 Summer,Grind,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2012-07-07,2012,0,2,2,1,0,0,3,2012 Early Summer Tour,2012 Summer,Possum,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2012-07-07,2012,0,3,1,1,0,0,3,2012 Early Summer Tour,2012 Summer,Golgi Apparatus,Golgi,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2012-07-07,2012,0,4,1,1,0,0,2,2012 Early Summer Tour,2012 Summer,The Moma Dance,Moma,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2012-07-07,2012,0,5,1,1,0,0,9,2012 Early Summer Tour,2012 Summer,Torn and Frayed,Torn and Frayed,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2012-07-07,2012,0,6,1,1,0,0,6,2012 Early Summer Tour,2012 Summer,Rift,Rift,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2012-07-07,2012,0,7,3,1,0,0,11,2012 Early Summer Tour,2012 Summer,Cities,Cities,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
-2012-07-07,2012,0,8,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,Maze,Maze,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2012-07-07,2012,0,9,1,1,0,0,14,2012 Early Summer Tour,2012 Summer,Lawn Boy,Lawn Boy,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2012-07-07,2012,0,5,1,1,0,0,9,2012 Early Summer Tour,2012 Summer,Torn and Frayed,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2012-07-07,2012,0,6,1,1,0,0,6,2012 Early Summer Tour,2012 Summer,Rift,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2012-07-07,2012,0,7,3,1,0,0,11,2012 Early Summer Tour,2012 Summer,Cities,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
+2012-07-07,2012,0,8,1,1,0,0,4,2012 Early Summer Tour,2012 Summer,Maze,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2012-07-07,2012,0,9,1,1,0,0,14,2012 Early Summer Tour,2012 Summer,Lawn Boy,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2012-07-07,2012,0,10,2,1,0,0,10,2012 Early Summer Tour,2012 Summer,Peaches en Regalia,Peaches,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2012-07-07,2012,0,11,1,1,0,0,6,2012 Early Summer Tour,2012 Summer,Bathtub Gin,Gin,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2012-07-07,2012,0,12,4,1,0,0,5,2012 Early Summer Tour,2012 Summer,Good Times Bad Times,GTBT,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
 2012-07-07,2012,0,13,3,2,0,0,6,2012 Early Summer Tour,2012 Summer,Down with Disease,DwD,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
-2012-07-07,2012,0,14,2,2,0,0,392,2012 Early Summer Tour,2012 Summer,Blister in the Sun,Blister in the Sun,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2012-07-07,2012,0,14,2,2,0,0,392,2012 Early Summer Tour,2012 Summer,Blister in the Sun,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2012-07-07,2012,0,15,2,2,0,0,0,2012 Early Summer Tour,2012 Summer,Down with Disease,DwD,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2012-07-07,2012,0,16,2,2,0,0,2,2012 Early Summer Tour,2012 Summer,Boogie On Reggae Woman,Boogie On,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2012-07-07,2012,0,17,3,2,0,0,3,2012 Early Summer Tour,2012 Summer,Golden Age,Golden Age,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
+2012-07-07,2012,0,17,3,2,0,0,3,2012 Early Summer Tour,2012 Summer,Golden Age,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
 2012-07-07,2012,0,18,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Also Sprach Zarathustra,2001,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2012-07-07,2012,0,19,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Backwards Down the Number Line,BDTNL,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2012-07-07,2012,0,20,3,2,0,0,7,2012 Early Summer Tour,2012 Summer,Prince Caspian,Caspian,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
 2012-07-07,2012,0,21,3,2,0,0,9,2012 Early Summer Tour,2012 Summer,Scent of a Mule,SOAMule,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
-2012-07-07,2012,0,22,3,2,0,0,0,2012 Early Summer Tour,2012 Summer,Blister in the Sun,Blister in the Sun,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
+2012-07-07,2012,0,22,3,2,0,0,0,2012 Early Summer Tour,2012 Summer,Blister in the Sun,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
 2012-07-07,2012,0,23,2,2,0,0,0,2012 Early Summer Tour,2012 Summer,Scent of a Mule,SOAMule,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2012-07-07,2012,0,24,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Mike's Song,Mike's,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2012-07-07,2012,0,25,2,2,0,0,22,2012 Early Summer Tour,2012 Summer,Contact,Contact,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2012-07-07,2012,0,25,2,2,0,0,22,2012 Early Summer Tour,2012 Summer,Contact,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2012-07-07,2012,0,26,5,2,0,0,3,2012 Early Summer Tour,2012 Summer,Weekapaug Groove,Weekapaug,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
-2012-07-07,2012,0,27,6,e,0,0,26,2012 Early Summer Tour,2012 Summer,Sabotage,Sabotage,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
+2012-07-07,2012,0,27,6,e,0,0,26,2012 Early Summer Tour,2012 Summer,Sabotage,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
 2012-07-08,2012,0,1,2,1,0,0,6,2012 Early Summer Tour,2012 Summer,AC/DC Bag,Bag,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2012-07-08,2012,0,2,1,1,0,0,6,2012 Early Summer Tour,2012 Summer,My Soul,My Soul,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2012-07-08,2012,0,3,1,1,0,0,16,2012 Early Summer Tour,2012 Summer,Camel Walk,Camel Walk,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2012-07-08,2012,0,2,1,1,0,0,6,2012 Early Summer Tour,2012 Summer,My Soul,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2012-07-08,2012,0,3,1,1,0,0,16,2012 Early Summer Tour,2012 Summer,Camel Walk,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2012-07-08,2012,0,4,1,1,0,0,9,2012 Early Summer Tour,2012 Summer,Sample in a Jar,Sample,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2012-07-08,2012,0,5,2,1,0,0,6,2012 Early Summer Tour,2012 Summer,Wilson,Wilson,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2012-07-08,2012,0,6,1,1,0,0,13,2012 Early Summer Tour,2012 Summer,Party Time,Party Time,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2012-07-08,2012,0,7,1,1,0,0,3,2012 Early Summer Tour,2012 Summer,Gumbo,Gumbo,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2012-07-08,2012,0,8,1,1,0,0,18,2012 Early Summer Tour,2012 Summer,Nellie Kane,Nellie Kane,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2012-07-08,2012,0,9,1,1,0,0,60,2012 Early Summer Tour,2012 Summer,Driver,Driver,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2012-07-08,2012,0,10,1,1,0,0,14,2012 Early Summer Tour,2012 Summer,Foam,Foam,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2012-07-08,2012,0,11,1,1,0,0,19,2012 Early Summer Tour,2012 Summer,If I Could,If I Could,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2012-07-08,2012,0,5,2,1,0,0,6,2012 Early Summer Tour,2012 Summer,Wilson,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2012-07-08,2012,0,6,1,1,0,0,13,2012 Early Summer Tour,2012 Summer,Party Time,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2012-07-08,2012,0,7,1,1,0,0,3,2012 Early Summer Tour,2012 Summer,Gumbo,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2012-07-08,2012,0,8,1,1,0,0,18,2012 Early Summer Tour,2012 Summer,Nellie Kane,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2012-07-08,2012,0,9,1,1,0,0,60,2012 Early Summer Tour,2012 Summer,Driver,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2012-07-08,2012,0,10,1,1,0,0,14,2012 Early Summer Tour,2012 Summer,Foam,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2012-07-08,2012,0,11,1,1,0,0,19,2012 Early Summer Tour,2012 Summer,If I Could,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2012-07-08,2012,0,12,2,1,0,0,13,2012 Early Summer Tour,2012 Summer,Split Open and Melt,SOAMelt,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2012-07-08,2012,0,13,4,1,0,0,303,2012 Early Summer Tour,2012 Summer,La Grange,La Grange,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
-2012-07-08,2012,0,14,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Axilla,Axilla,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2012-07-08,2012,0,15,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Light,Light,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2012-07-08,2012,0,16,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Twist,Twist,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2012-07-08,2012,0,13,4,1,0,0,303,2012 Early Summer Tour,2012 Summer,La Grange,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
+2012-07-08,2012,0,14,2,2,0,0,4,2012 Early Summer Tour,2012 Summer,Axilla,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2012-07-08,2012,0,15,2,2,0,0,5,2012 Early Summer Tour,2012 Summer,Light,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2012-07-08,2012,0,16,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Twist,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2012-07-08,2012,0,17,3,2,0,0,3,2012 Early Summer Tour,2012 Summer,Kill Devil Falls,KDF,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
 2012-07-08,2012,0,18,2,2,0,0,15,2012 Early Summer Tour,2012 Summer,"My Friend, My Friend",My Friend,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2012-07-08,2012,0,19,2,2,0,0,47,2012 Early Summer Tour,2012 Summer,Swept Away,Swept Away,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2012-07-08,2012,0,20,2,2,0,0,47,2012 Early Summer Tour,2012 Summer,Steep,Steep,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2012-07-08,2012,0,21,2,2,0,0,6,2012 Early Summer Tour,2012 Summer,Piper,Piper,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2012-07-08,2012,0,22,2,2,0,0,9,2012 Early Summer Tour,2012 Summer,Free,Free,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2012-07-08,2012,0,23,2,2,0,0,43,2012 Early Summer Tour,2012 Summer,Kung,Kung,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2012-07-08,2012,0,19,2,2,0,0,47,2012 Early Summer Tour,2012 Summer,Swept Away,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2012-07-08,2012,0,20,2,2,0,0,47,2012 Early Summer Tour,2012 Summer,Steep,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2012-07-08,2012,0,21,2,2,0,0,6,2012 Early Summer Tour,2012 Summer,Piper,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2012-07-08,2012,0,22,2,2,0,0,9,2012 Early Summer Tour,2012 Summer,Free,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2012-07-08,2012,0,23,2,2,0,0,43,2012 Early Summer Tour,2012 Summer,Kung,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2012-07-08,2012,0,24,2,2,0,0,3,2012 Early Summer Tour,2012 Summer,Harry Hood,Hood,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2012-07-08,2012,0,25,2,2,0,0,7,2012 Early Summer Tour,2012 Summer,Cavern,Cavern,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2012-07-08,2012,0,25,2,2,0,0,7,2012 Early Summer Tour,2012 Summer,Cavern,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2012-07-08,2012,0,26,5,2,0,0,3,2012 Early Summer Tour,2012 Summer,David Bowie,Bowie,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
 2012-07-08,2012,0,27,6,e,0,0,10,2012 Early Summer Tour,2012 Summer,You Enjoy Myself,YEM,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
 2012-08-15,2012,0,1,1,1,0,0,3,2012 Late Summer Tour,2012 Summer,Suzy Greenberg,Suzy,1,Long Beach Arena,Long Beach,CA,USA,","
-2012-08-15,2012,0,2,2,1,0,0,2,2012 Late Summer Tour,2012 Summer,Cities,Cities,0,Long Beach Arena,Long Beach,CA,USA,>
+2012-08-15,2012,0,2,2,1,0,0,2,2012 Late Summer Tour,2012 Summer,Cities,,0,Long Beach Arena,Long Beach,CA,USA,>
 2012-08-15,2012,0,3,1,1,0,0,1,2012 Late Summer Tour,2012 Summer,Kill Devil Falls,KDF,1,Long Beach Arena,Long Beach,CA,USA,","
 2012-08-15,2012,0,4,1,1,0,0,12,2012 Late Summer Tour,2012 Summer,Guelah Papyrus,Guelah,1,Long Beach Arena,Long Beach,CA,USA,","
-2012-08-15,2012,0,5,1,1,0,0,9,2012 Late Summer Tour,2012 Summer,Cool It Down,Cool It Down,0,Long Beach Arena,Long Beach,CA,USA,","
-2012-08-15,2012,0,6,1,1,0,0,2,2012 Late Summer Tour,2012 Summer,Rift,Rift,1,Long Beach Arena,Long Beach,CA,USA,","
-2012-08-15,2012,0,7,1,1,0,0,3,2012 Late Summer Tour,2012 Summer,Stash,Stash,1,Long Beach Arena,Long Beach,CA,USA,","
+2012-08-15,2012,0,5,1,1,0,0,9,2012 Late Summer Tour,2012 Summer,Cool It Down,,0,Long Beach Arena,Long Beach,CA,USA,","
+2012-08-15,2012,0,6,1,1,0,0,2,2012 Late Summer Tour,2012 Summer,Rift,,1,Long Beach Arena,Long Beach,CA,USA,","
+2012-08-15,2012,0,7,1,1,0,0,3,2012 Late Summer Tour,2012 Summer,Stash,,1,Long Beach Arena,Long Beach,CA,USA,","
 2012-08-15,2012,0,8,2,1,0,0,3,2012 Late Summer Tour,2012 Summer,Bouncing Around the Room,Bouncin',1,Long Beach Arena,Long Beach,CA,USA,>
 2012-08-15,2012,0,9,1,1,0,0,2,2012 Late Summer Tour,2012 Summer,Bathtub Gin,Gin,1,Long Beach Arena,Long Beach,CA,USA,","
 2012-08-15,2012,0,10,4,1,0,0,4,2012 Late Summer Tour,2012 Summer,Quinn the Eskimo (The Mighty Quinn),Quinn,0,Long Beach Arena,Long Beach,CA,USA,
 2012-08-15,2012,0,11,2,2,0,0,4,2012 Late Summer Tour,2012 Summer,Rock and Roll,R&amp;R,0,Long Beach Arena,Long Beach,CA,USA,>
-2012-08-15,2012,0,12,2,2,0,0,3,2012 Late Summer Tour,2012 Summer,Ghost,Ghost,1,Long Beach Arena,Long Beach,CA,USA,>
+2012-08-15,2012,0,12,2,2,0,0,3,2012 Late Summer Tour,2012 Summer,Ghost,,1,Long Beach Arena,Long Beach,CA,USA,>
 2012-08-15,2012,0,13,1,2,0,0,8,2012 Late Summer Tour,2012 Summer,Limb By Limb,LxL,1,Long Beach Arena,Long Beach,CA,USA,","
-2012-08-15,2012,0,14,1,2,0,0,13,2012 Late Summer Tour,2012 Summer,Guyute,Guyute,1,Long Beach Arena,Long Beach,CA,USA,","
-2012-08-15,2012,0,15,1,2,0,0,6,2012 Late Summer Tour,2012 Summer,Dirt,Dirt,0,Long Beach Arena,Long Beach,CA,USA,","
+2012-08-15,2012,0,14,1,2,0,0,13,2012 Late Summer Tour,2012 Summer,Guyute,,1,Long Beach Arena,Long Beach,CA,USA,","
+2012-08-15,2012,0,15,1,2,0,0,6,2012 Late Summer Tour,2012 Summer,Dirt,,0,Long Beach Arena,Long Beach,CA,USA,","
 2012-08-15,2012,0,16,2,2,0,0,1,2012 Late Summer Tour,2012 Summer,Harry Hood,Hood,1,Long Beach Arena,Long Beach,CA,USA,>
 2012-08-15,2012,0,17,5,2,0,0,2,2012 Late Summer Tour,2012 Summer,Good Times Bad Times,GTBT,0,Long Beach Arena,Long Beach,CA,USA,
-2012-08-15,2012,0,18,6,e,0,0,4,2012 Late Summer Tour,2012 Summer,Julius,Julius,1,Long Beach Arena,Long Beach,CA,USA,
+2012-08-15,2012,0,18,6,e,0,0,4,2012 Late Summer Tour,2012 Summer,Julius,,1,Long Beach Arena,Long Beach,CA,USA,
 2012-08-17,2012,0,1,2,1,0,0,2,2012 Late Summer Tour,2012 Summer,AC/DC Bag,Bag,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2012-08-17,2012,0,2,2,1,0,0,3,2012 Late Summer Tour,2012 Summer,The Moma Dance,Moma,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2012-08-17,2012,0,3,1,1,0,0,3,2012 Late Summer Tour,2012 Summer,Possum,Possum,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2012-08-17,2012,0,4,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Corinna,Corinna,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2012-08-17,2012,0,5,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Sand,Sand,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2012-08-17,2012,0,3,1,1,0,0,3,2012 Late Summer Tour,2012 Summer,Possum,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2012-08-17,2012,0,4,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Corinna,,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2012-08-17,2012,0,5,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Sand,,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
 2012-08-17,2012,0,6,2,1,0,0,6,2012 Late Summer Tour,2012 Summer,Halley's Comet,Halley's,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2012-08-17,2012,0,7,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Funky Bitch,Funky Bitch,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2012-08-17,2012,0,7,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Funky Bitch,,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
 2012-08-17,2012,0,8,1,1,0,0,2,2012 Late Summer Tour,2012 Summer,Sample in a Jar,Sample,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
 2012-08-17,2012,0,9,3,1,0,0,4,2012 Late Summer Tour,2012 Summer,Roses Are Free,Roses,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,->
 2012-08-17,2012,0,10,1,1,0,0,2,2012 Late Summer Tour,2012 Summer,"My Friend, My Friend",My Friend,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
 2012-08-17,2012,0,11,4,1,0,0,5,2012 Late Summer Tour,2012 Summer,Slave to the Traffic Light,Slave,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,
 2012-08-17,2012,0,12,2,2,0,0,3,2012 Late Summer Tour,2012 Summer,Down with Disease,DwD,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2012-08-17,2012,0,13,1,2,0,0,9,2012 Late Summer Tour,2012 Summer,Birds of a Feather,BOAF,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2012-08-17,2012,0,14,2,2,0,0,5,2012 Late Summer Tour,2012 Summer,Tweezer,Tweezer,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2012-08-17,2012,0,15,2,2,0,0,2,2012 Late Summer Tour,2012 Summer,Twist,Twist,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2012-08-17,2012,0,14,2,2,0,0,5,2012 Late Summer Tour,2012 Summer,Tweezer,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2012-08-17,2012,0,15,2,2,0,0,2,2012 Late Summer Tour,2012 Summer,Twist,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2012-08-17,2012,0,16,2,2,0,0,14,2012 Late Summer Tour,2012 Summer,Wading in the Velvet Sea,Velvet Sea,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2012-08-17,2012,0,17,1,2,0,0,4,2012 Late Summer Tour,2012 Summer,Chalk Dust Torture,CDT,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2012-08-17,2012,0,18,2,2,0,0,6,2012 Late Summer Tour,2012 Summer,Joy,Joy,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2012-08-17,2012,0,18,2,2,0,0,6,2012 Late Summer Tour,2012 Summer,Joy,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2012-08-17,2012,0,19,1,2,0,0,4,2012 Late Summer Tour,2012 Summer,Run Like an Antelope,Antelope,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2012-08-17,2012,0,20,5,2,0,0,5,2012 Late Summer Tour,2012 Summer,Shine a Light,Shine a Light,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,
-2012-08-17,2012,0,21,6,e,0,0,9,2012 Late Summer Tour,2012 Summer,First Tube,First Tube,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,
-2012-08-18,2012,0,1,1,1,0,0,5,2012 Late Summer Tour,2012 Summer,Runaway Jim,Runaway Jim,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2012-08-17,2012,0,20,5,2,0,0,5,2012 Late Summer Tour,2012 Summer,Shine a Light,,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,
+2012-08-17,2012,0,21,6,e,0,0,9,2012 Late Summer Tour,2012 Summer,First Tube,,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,
+2012-08-18,2012,0,1,1,1,0,0,5,2012 Late Summer Tour,2012 Summer,Runaway Jim,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
 2012-08-18,2012,0,2,1,1,0,0,7,2012 Late Summer Tour,2012 Summer,Wolfman's Brother,Wolfman's,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2012-08-18,2012,0,3,1,1,0,0,3,2012 Late Summer Tour,2012 Summer,Nellie Kane,Nellie Kane,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2012-08-18,2012,0,4,1,1,0,0,22,2012 Late Summer Tour,2012 Summer,Beauty of a Broken Heart,Beauty of a Broken Heart,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2012-08-18,2012,0,5,1,1,0,0,5,2012 Late Summer Tour,2012 Summer,Ocelot,Ocelot,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2012-08-18,2012,0,6,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Maze,Maze,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2012-08-18,2012,0,3,1,1,0,0,3,2012 Late Summer Tour,2012 Summer,Nellie Kane,,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2012-08-18,2012,0,4,1,1,0,0,22,2012 Late Summer Tour,2012 Summer,Beauty of a Broken Heart,,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2012-08-18,2012,0,5,1,1,0,0,5,2012 Late Summer Tour,2012 Summer,Ocelot,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2012-08-18,2012,0,6,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Maze,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
 2012-08-18,2012,0,7,2,1,0,0,16,2012 Late Summer Tour,2012 Summer,I Didn't Know,IDK,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2012-08-18,2012,0,8,1,1,0,0,8,2012 Late Summer Tour,2012 Summer,46 Days,46 Days,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2012-08-18,2012,0,9,2,1,0,0,5,2012 Late Summer Tour,2012 Summer,Tube,Tube,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2012-08-18,2012,0,8,1,1,0,0,8,2012 Late Summer Tour,2012 Summer,46 Days,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2012-08-18,2012,0,9,2,1,0,0,5,2012 Late Summer Tour,2012 Summer,Tube,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2012-08-18,2012,0,10,1,1,0,0,9,2012 Late Summer Tour,2012 Summer,When the Circus Comes,Circus,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2012-08-18,2012,0,11,1,1,0,0,68,2012 Late Summer Tour,2012 Summer,Sugar Shack,Sugar Shack,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2012-08-18,2012,0,11,1,1,0,0,68,2012 Late Summer Tour,2012 Summer,Sugar Shack,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
 2012-08-18,2012,0,12,1,1,0,0,3,2012 Late Summer Tour,2012 Summer,Split Open and Melt,SOAMelt,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2012-08-18,2012,0,13,4,1,0,0,3,2012 Late Summer Tour,2012 Summer,Cavern,Cavern,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,
-2012-08-18,2012,0,14,2,2,0,0,4,2012 Late Summer Tour,2012 Summer,Golden Age,Golden Age,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2012-08-18,2012,0,15,2,2,0,0,3,2012 Late Summer Tour,2012 Summer,Piper,Piper,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2012-08-18,2012,0,13,4,1,0,0,3,2012 Late Summer Tour,2012 Summer,Cavern,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,
+2012-08-18,2012,0,14,2,2,0,0,4,2012 Late Summer Tour,2012 Summer,Golden Age,,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2012-08-18,2012,0,15,2,2,0,0,3,2012 Late Summer Tour,2012 Summer,Piper,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2012-08-18,2012,0,16,2,2,0,0,4,2012 Late Summer Tour,2012 Summer,Mike's Song,Mike's,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2012-08-18,2012,0,17,2,2,0,0,13,2012 Late Summer Tour,2012 Summer,Simple,Simple,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2012-08-18,2012,0,17,2,2,0,0,13,2012 Late Summer Tour,2012 Summer,Simple,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2012-08-18,2012,0,18,2,2,0,0,4,2012 Late Summer Tour,2012 Summer,Backwards Down the Number Line,BDTNL,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2012-08-18,2012,0,19,2,2,0,0,5,2012 Late Summer Tour,2012 Summer,Carini,Carini,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2012-08-18,2012,0,20,2,2,0,0,3,2012 Late Summer Tour,2012 Summer,Wilson,Wilson,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2012-08-18,2012,0,19,2,2,0,0,5,2012 Late Summer Tour,2012 Summer,Carini,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2012-08-18,2012,0,20,2,2,0,0,3,2012 Late Summer Tour,2012 Summer,Wilson,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2012-08-18,2012,0,21,1,2,0,0,4,2012 Late Summer Tour,2012 Summer,Weekapaug Groove,Weekapaug,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
 2012-08-18,2012,0,22,2,2,0,0,6,2012 Late Summer Tour,2012 Summer,The Horse,Horse,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2012-08-18,2012,0,23,2,2,0,0,6,2012 Late Summer Tour,2012 Summer,Silent in the Morning,Silent,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2012-08-18,2012,0,24,2,2,0,0,4,2012 Late Summer Tour,2012 Summer,Also Sprach Zarathustra,2001,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2012-08-18,2012,0,25,2,2,0,0,7,2012 Late Summer Tour,2012 Summer,Fluffhead,Fluffhead,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2012-08-18,2012,0,26,5,2,0,0,5,2012 Late Summer Tour,2012 Summer,Loving Cup,Loving Cup,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,
-2012-08-18,2012,0,27,2,e,0,0,6,2012 Late Summer Tour,2012 Summer,Show of Life,Show of Life,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2012-08-18,2012,0,28,6,e,0,0,7,2012 Late Summer Tour,2012 Summer,Character Zero,Character Zero,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,
-2012-08-19,2012,0,1,1,1,0,0,11,2012 Late Summer Tour,2012 Summer,Crowd Control,Crowd Control,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2012-08-19,2012,0,2,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Party Time,Party Time,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2012-08-19,2012,0,3,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Axilla,Axilla,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2012-08-19,2012,0,4,1,1,0,0,10,2012 Late Summer Tour,2012 Summer,Reba,Reba,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2012-08-19,2012,0,5,2,1,0,0,4,2012 Late Summer Tour,2012 Summer,Free,Free,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2012-08-19,2012,0,6,2,1,0,0,11,2012 Late Summer Tour,2012 Summer,Mound,Mound,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2012-08-19,2012,0,7,1,1,0,0,8,2012 Late Summer Tour,2012 Summer,Walk Away,Walk Away,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2012-08-19,2012,0,8,2,1,0,0,13,2012 Late Summer Tour,2012 Summer,NICU,NICU,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2012-08-18,2012,0,25,2,2,0,0,7,2012 Late Summer Tour,2012 Summer,Fluffhead,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2012-08-18,2012,0,26,5,2,0,0,5,2012 Late Summer Tour,2012 Summer,Loving Cup,,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,
+2012-08-18,2012,0,27,2,e,0,0,6,2012 Late Summer Tour,2012 Summer,Show of Life,,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2012-08-18,2012,0,28,6,e,0,0,7,2012 Late Summer Tour,2012 Summer,Character Zero,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,
+2012-08-19,2012,0,1,1,1,0,0,11,2012 Late Summer Tour,2012 Summer,Crowd Control,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2012-08-19,2012,0,2,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Party Time,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2012-08-19,2012,0,3,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Axilla,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2012-08-19,2012,0,4,1,1,0,0,10,2012 Late Summer Tour,2012 Summer,Reba,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2012-08-19,2012,0,5,2,1,0,0,4,2012 Late Summer Tour,2012 Summer,Free,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2012-08-19,2012,0,6,2,1,0,0,11,2012 Late Summer Tour,2012 Summer,Mound,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2012-08-19,2012,0,7,1,1,0,0,8,2012 Late Summer Tour,2012 Summer,Walk Away,,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2012-08-19,2012,0,8,2,1,0,0,13,2012 Late Summer Tour,2012 Summer,NICU,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2012-08-19,2012,0,9,1,1,0,0,6,2012 Late Summer Tour,2012 Summer,Back on the Train,BOTT,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
 2012-08-19,2012,0,10,2,1,0,0,9,2012 Late Summer Tour,2012 Summer,Gotta Jibboo,Jibboo,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2012-08-19,2012,0,11,1,1,0,0,15,2012 Late Summer Tour,2012 Summer,Roggae,Roggae,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2012-08-19,2012,0,11,1,1,0,0,15,2012 Late Summer Tour,2012 Summer,Roggae,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
 2012-08-19,2012,0,12,4,1,0,0,4,2012 Late Summer Tour,2012 Summer,David Bowie,Bowie,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,
 2012-08-19,2012,0,13,2,2,0,0,0,2012 Late Summer Tour,2012 Summer,Crosseyed and Painless,C&amp;P,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2012-08-19,2012,0,14,3,2,0,0,4,2012 Late Summer Tour,2012 Summer,Light,Light,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,->
+2012-08-19,2012,0,14,3,2,0,0,4,2012 Late Summer Tour,2012 Summer,Light,,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,->
 2012-08-19,2012,0,15,3,2,0,0,6,2012 Late Summer Tour,2012 Summer,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,->
 2012-08-19,2012,0,16,2,2,0,0,9,2012 Late Summer Tour,2012 Summer,Crosseyed and Painless,C&amp;P,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2012-08-19,2012,0,17,2,2,0,0,19,2012 Late Summer Tour,2012 Summer,Theme From the Bottom,Theme,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2012-08-19,2012,0,18,1,2,0,0,21,2012 Late Summer Tour,2012 Summer,Rocky Top,Rocky Top,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2012-08-19,2012,0,18,1,2,0,0,21,2012 Late Summer Tour,2012 Summer,Rocky Top,,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
 2012-08-19,2012,0,19,2,2,0,0,5,2012 Late Summer Tour,2012 Summer,Boogie On Reggae Woman,Boogie On,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2012-08-19,2012,0,20,1,2,0,0,9,2012 Late Summer Tour,2012 Summer,Meatstick,Meatstick,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2012-08-19,2012,0,21,1,2,0,0,8,2012 Late Summer Tour,2012 Summer,Bug,Bug,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2012-08-19,2012,0,20,1,2,0,0,9,2012 Late Summer Tour,2012 Summer,Meatstick,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2012-08-19,2012,0,21,1,2,0,0,8,2012 Late Summer Tour,2012 Summer,Bug,,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
 2012-08-19,2012,0,22,5,2,0,0,4,2012 Late Summer Tour,2012 Summer,You Enjoy Myself,YEM,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,
-2012-08-19,2012,0,23,2,e,0,0,11,2012 Late Summer Tour,2012 Summer,Ride Captain Ride,Ride Captain Ride,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2012-08-19,2012,0,23,2,e,0,0,11,2012 Late Summer Tour,2012 Summer,Ride Captain Ride,,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2012-08-19,2012,0,24,6,e,0,0,7,2012 Late Summer Tour,2012 Summer,Tweezer Reprise,Tweeprise,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,
 2012-08-22,2012,0,1,1,1,0,0,3,2012 Late Summer Tour,2012 Summer,Chalk Dust Torture,CDT,1,Starlight Theatre,Kansas City,MO,USA,","
-2012-08-22,2012,0,2,1,1,0,0,9,2012 Late Summer Tour,2012 Summer,Skin It Back,Skin It Back,0,Starlight Theatre,Kansas City,MO,USA,","
+2012-08-22,2012,0,2,1,1,0,0,9,2012 Late Summer Tour,2012 Summer,Skin It Back,,0,Starlight Theatre,Kansas City,MO,USA,","
 2012-08-22,2012,0,3,2,1,0,0,3,2012 Late Summer Tour,2012 Summer,The Moma Dance,Moma,1,Starlight Theatre,Kansas City,MO,USA,>
-2012-08-22,2012,0,4,2,1,0,0,4,2012 Late Summer Tour,2012 Summer,Rift,Rift,1,Starlight Theatre,Kansas City,MO,USA,>
+2012-08-22,2012,0,4,2,1,0,0,4,2012 Late Summer Tour,2012 Summer,Rift,,1,Starlight Theatre,Kansas City,MO,USA,>
 2012-08-22,2012,0,5,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Bathtub Gin,Gin,1,Starlight Theatre,Kansas City,MO,USA,","
-2012-08-22,2012,0,6,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Stash,Stash,1,Starlight Theatre,Kansas City,MO,USA,","
+2012-08-22,2012,0,6,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Stash,,1,Starlight Theatre,Kansas City,MO,USA,","
 2012-08-22,2012,0,7,1,1,0,0,28,2012 Late Summer Tour,2012 Summer,The Ballad of Curtis Loew,Curtis Loew,0,Starlight Theatre,Kansas City,MO,USA,","
 2012-08-22,2012,0,8,2,1,0,0,4,2012 Late Summer Tour,2012 Summer,Kill Devil Falls,KDF,1,Starlight Theatre,Kansas City,MO,USA,>
-2012-08-22,2012,0,9,2,1,0,0,3,2012 Late Summer Tour,2012 Summer,Funky Bitch,Funky Bitch,0,Starlight Theatre,Kansas City,MO,USA,>
+2012-08-22,2012,0,9,2,1,0,0,3,2012 Late Summer Tour,2012 Summer,Funky Bitch,,0,Starlight Theatre,Kansas City,MO,USA,>
 2012-08-22,2012,0,10,4,1,0,0,3,2012 Late Summer Tour,2012 Summer,Run Like an Antelope,Antelope,1,Starlight Theatre,Kansas City,MO,USA,
-2012-08-22,2012,0,11,2,2,0,0,3,2012 Late Summer Tour,2012 Summer,Tweezer,Tweezer,1,Starlight Theatre,Kansas City,MO,USA,>
-2012-08-22,2012,0,12,2,2,0,0,2,2012 Late Summer Tour,2012 Summer,Piper,Piper,1,Starlight Theatre,Kansas City,MO,USA,>
+2012-08-22,2012,0,11,2,2,0,0,3,2012 Late Summer Tour,2012 Summer,Tweezer,,1,Starlight Theatre,Kansas City,MO,USA,>
+2012-08-22,2012,0,12,2,2,0,0,2,2012 Late Summer Tour,2012 Summer,Piper,,1,Starlight Theatre,Kansas City,MO,USA,>
 2012-08-22,2012,0,13,2,2,0,0,2,2012 Late Summer Tour,2012 Summer,Mike's Song,Mike's,1,Starlight Theatre,Kansas City,MO,USA,>
 2012-08-22,2012,0,14,2,2,0,0,4,2012 Late Summer Tour,2012 Summer,Bouncing Around the Room,Bouncin',1,Starlight Theatre,Kansas City,MO,USA,>
 2012-08-22,2012,0,15,2,2,0,0,2,2012 Late Summer Tour,2012 Summer,Backwards Down the Number Line,BDTNL,0,Starlight Theatre,Kansas City,MO,USA,>
-2012-08-22,2012,0,16,1,2,0,0,7,2012 Late Summer Tour,2012 Summer,Heavy Things,Heavy Things,1,Starlight Theatre,Kansas City,MO,USA,","
-2012-08-22,2012,0,17,2,2,0,0,5,2012 Late Summer Tour,2012 Summer,If I Could,If I Could,1,Starlight Theatre,Kansas City,MO,USA,>
+2012-08-22,2012,0,16,1,2,0,0,7,2012 Late Summer Tour,2012 Summer,Heavy Things,,1,Starlight Theatre,Kansas City,MO,USA,","
+2012-08-22,2012,0,17,2,2,0,0,5,2012 Late Summer Tour,2012 Summer,If I Could,,1,Starlight Theatre,Kansas City,MO,USA,>
 2012-08-22,2012,0,18,1,2,0,0,2,2012 Late Summer Tour,2012 Summer,Weekapaug Groove,Weekapaug,1,Starlight Theatre,Kansas City,MO,USA,","
 2012-08-22,2012,0,19,2,2,0,0,4,2012 Late Summer Tour,2012 Summer,Harry Hood,Hood,1,Starlight Theatre,Kansas City,MO,USA,>
 2012-08-22,2012,0,20,5,2,0,0,4,2012 Late Summer Tour,2012 Summer,Suzy Greenberg,Suzy,1,Starlight Theatre,Kansas City,MO,USA,
-2012-08-22,2012,0,21,2,e,0,0,2,2012 Late Summer Tour,2012 Summer,Loving Cup,Loving Cup,0,Starlight Theatre,Kansas City,MO,USA,>
+2012-08-22,2012,0,21,2,e,0,0,2,2012 Late Summer Tour,2012 Summer,Loving Cup,,0,Starlight Theatre,Kansas City,MO,USA,>
 2012-08-22,2012,0,22,6,e,0,0,1,2012 Late Summer Tour,2012 Summer,Tweezer Reprise,Tweeprise,1,Starlight Theatre,Kansas City,MO,USA,
-2012-08-24,2012,0,1,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Possum,Possum,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
-2012-08-24,2012,0,2,2,1,0,0,5,2012 Late Summer Tour,2012 Summer,Cities,Cities,0,Oak Mountain Amphitheatre,Pelham,AL,USA,>
+2012-08-24,2012,0,1,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Possum,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+2012-08-24,2012,0,2,2,1,0,0,5,2012 Late Summer Tour,2012 Summer,Cities,,0,Oak Mountain Amphitheatre,Pelham,AL,USA,>
 2012-08-24,2012,0,3,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Sample in a Jar,Sample,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
 2012-08-24,2012,0,4,2,1,0,0,12,2012 Late Summer Tour,2012 Summer,Timber (Jerry the Mule),Timber Ho,0,Oak Mountain Amphitheatre,Pelham,AL,USA,>
 2012-08-24,2012,0,5,1,1,0,0,2,2012 Late Summer Tour,2012 Summer,Back on the Train,BOTT,0,Oak Mountain Amphitheatre,Pelham,AL,USA,","
-2012-08-24,2012,0,6,1,1,0,0,7,2012 Late Summer Tour,2012 Summer,Lawn Boy,Lawn Boy,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+2012-08-24,2012,0,6,1,1,0,0,7,2012 Late Summer Tour,2012 Summer,Lawn Boy,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
 2012-08-24,2012,0,7,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Down with Disease,DwD,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
-2012-08-24,2012,0,8,1,1,0,0,6,2012 Late Summer Tour,2012 Summer,Gumbo,Gumbo,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+2012-08-24,2012,0,8,1,1,0,0,6,2012 Late Summer Tour,2012 Summer,Gumbo,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
 2012-08-24,2012,0,9,2,1,0,0,22,2012 Late Summer Tour,2012 Summer,Ginseng Sullivan,Ginseng,0,Oak Mountain Amphitheatre,Pelham,AL,USA,>
 2012-08-24,2012,0,10,1,1,0,0,10,2012 Late Summer Tour,2012 Summer,The Wedge,Wedge,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
-2012-08-24,2012,0,11,2,1,0,0,5,2012 Late Summer Tour,2012 Summer,Julius,Julius,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
-2012-08-24,2012,0,12,1,1,0,0,3,2012 Late Summer Tour,2012 Summer,Cavern,Cavern,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+2012-08-24,2012,0,11,2,1,0,0,5,2012 Late Summer Tour,2012 Summer,Julius,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
+2012-08-24,2012,0,12,1,1,0,0,3,2012 Late Summer Tour,2012 Summer,Cavern,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
 2012-08-24,2012,0,13,4,1,0,0,13,2012 Late Summer Tour,2012 Summer,While My Guitar Gently Weeps,WMGGW,0,Oak Mountain Amphitheatre,Pelham,AL,USA,
 2012-08-24,2012,0,14,3,2,0,0,5,2012 Late Summer Tour,2012 Summer,Rock and Roll,R&amp;R,0,Oak Mountain Amphitheatre,Pelham,AL,USA,->
 2012-08-24,2012,0,15,1,2,0,0,16,2012 Late Summer Tour,2012 Summer,The Lizards,Lizards,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
 2012-08-24,2012,0,16,2,2,0,0,4,2012 Late Summer Tour,2012 Summer,Halley's Comet,Halley's,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
-2012-08-24,2012,0,17,2,2,0,0,4,2012 Late Summer Tour,2012 Summer,Sand,Sand,0,Oak Mountain Amphitheatre,Pelham,AL,USA,>
-2012-08-24,2012,0,18,2,2,0,0,4,2012 Late Summer Tour,2012 Summer,Twist,Twist,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
+2012-08-24,2012,0,17,2,2,0,0,4,2012 Late Summer Tour,2012 Summer,Sand,,0,Oak Mountain Amphitheatre,Pelham,AL,USA,>
+2012-08-24,2012,0,18,2,2,0,0,4,2012 Late Summer Tour,2012 Summer,Twist,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
 2012-08-24,2012,0,19,1,2,0,0,4,2012 Late Summer Tour,2012 Summer,Birds of a Feather,BOAF,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
 2012-08-24,2012,0,20,2,2,0,0,2,2012 Late Summer Tour,2012 Summer,Boogie On Reggae Woman,Boogie On,0,Oak Mountain Amphitheatre,Pelham,AL,USA,>
 2012-08-24,2012,0,21,2,2,0,0,3,2012 Late Summer Tour,2012 Summer,Also Sprach Zarathustra,2001,0,Oak Mountain Amphitheatre,Pelham,AL,USA,>
-2012-08-24,2012,0,22,2,2,0,0,15,2012 Late Summer Tour,2012 Summer,Waste,Waste,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
+2012-08-24,2012,0,22,2,2,0,0,15,2012 Late Summer Tour,2012 Summer,Waste,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
 2012-08-24,2012,0,23,5,2,0,0,4,2012 Late Summer Tour,2012 Summer,Slave to the Traffic Light,Slave,1,Oak Mountain Amphitheatre,Pelham,AL,USA,
 2012-08-24,2012,0,24,6,e,0,0,5,2012 Late Summer Tour,2012 Summer,Good Times Bad Times,GTBT,0,Oak Mountain Amphitheatre,Pelham,AL,USA,
 2012-08-25,2012,0,1,1,1,0,0,48,2012 Late Summer Tour,2012 Summer,Cars Trucks Buses,CTB,1,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,","
 2012-08-25,2012,0,2,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Wolfman's Brother,Wolfman's,1,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,","
-2012-08-25,2012,0,3,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Runaway Jim,Runaway Jim,1,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,","
-2012-08-25,2012,0,4,1,1,0,0,11,2012 Late Summer Tour,2012 Summer,Ya Mar,Ya Mar,0,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,","
-2012-08-25,2012,0,5,1,1,0,0,10,2012 Late Summer Tour,2012 Summer,Alaska,Alaska,0,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,","
-2012-08-25,2012,0,6,2,1,0,0,7,2012 Late Summer Tour,2012 Summer,My Soul,My Soul,0,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,>
-2012-08-25,2012,0,7,2,1,0,0,4,2012 Late Summer Tour,2012 Summer,Wilson,Wilson,1,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,>
-2012-08-25,2012,0,8,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Maze,Maze,1,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,","
+2012-08-25,2012,0,3,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Runaway Jim,,1,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,","
+2012-08-25,2012,0,4,1,1,0,0,11,2012 Late Summer Tour,2012 Summer,Ya Mar,,0,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,","
+2012-08-25,2012,0,5,1,1,0,0,10,2012 Late Summer Tour,2012 Summer,Alaska,,0,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,","
+2012-08-25,2012,0,6,2,1,0,0,7,2012 Late Summer Tour,2012 Summer,My Soul,,0,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,>
+2012-08-25,2012,0,7,2,1,0,0,4,2012 Late Summer Tour,2012 Summer,Wilson,,1,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,>
+2012-08-25,2012,0,8,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Maze,,1,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,","
 2012-08-25,2012,0,9,2,1,0,0,5,2012 Late Summer Tour,2012 Summer,Roses Are Free,Roses,0,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,>
 2012-08-25,2012,0,10,2,1,0,0,2,2012 Late Summer Tour,2012 Summer,Backwards Down the Number Line,BDTNL,0,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,>
-2012-08-25,2012,0,11,4,1,0,0,4,2012 Late Summer Tour,2012 Summer,Character Zero,Character Zero,1,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,
+2012-08-25,2012,0,11,4,1,0,0,4,2012 Late Summer Tour,2012 Summer,Character Zero,,1,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,
 2012-08-25,2012,0,12,2,2,0,0,2,2012 Late Summer Tour,2012 Summer,Kill Devil Falls,KDF,1,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,>
-2012-08-25,2012,0,13,2,2,0,0,4,2012 Late Summer Tour,2012 Summer,Golden Age,Golden Age,0,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,>
-2012-08-25,2012,0,14,2,2,0,0,3,2012 Late Summer Tour,2012 Summer,Free,Free,1,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,>
-2012-08-25,2012,0,15,2,2,0,0,3,2012 Late Summer Tour,2012 Summer,Light,Light,0,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,>
+2012-08-25,2012,0,13,2,2,0,0,4,2012 Late Summer Tour,2012 Summer,Golden Age,,0,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,>
+2012-08-25,2012,0,14,2,2,0,0,3,2012 Late Summer Tour,2012 Summer,Free,,1,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,>
+2012-08-25,2012,0,15,2,2,0,0,3,2012 Late Summer Tour,2012 Summer,Light,,0,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,>
 2012-08-25,2012,0,16,2,2,0,0,5,2012 Late Summer Tour,2012 Summer,Wading in the Velvet Sea,Velvet Sea,1,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,>
 2012-08-25,2012,0,17,3,2,0,0,2,2012 Late Summer Tour,2012 Summer,Chalk Dust Torture,CDT,1,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,->
 2012-08-25,2012,0,18,2,2,0,0,19,2012 Late Summer Tour,2012 Summer,What's the Use?,WTU?,1,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,>
-2012-08-25,2012,0,19,2,2,0,0,5,2012 Late Summer Tour,2012 Summer,Joy,Joy,1,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,>
+2012-08-25,2012,0,19,2,2,0,0,5,2012 Late Summer Tour,2012 Summer,Joy,,1,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,>
 2012-08-25,2012,0,20,5,2,0,0,2,2012 Late Summer Tour,2012 Summer,Run Like an Antelope,Antelope,1,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,
 2012-08-25,2012,0,21,6,e,0,0,21,2012 Late Summer Tour,2012 Summer,A Day in the Life,ADITL,0,Aaron's Amphitheatre at Lakewood,Atlanta,GA,USA,
 2012-08-26,2012,0,1,2,1,0,0,6,2012 Late Summer Tour,2012 Summer,AC/DC Bag,Bag,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
 2012-08-26,2012,0,2,2,1,0,0,3,2012 Late Summer Tour,2012 Summer,The Moma Dance,Moma,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
-2012-08-26,2012,0,3,1,1,0,0,3,2012 Late Summer Tour,2012 Summer,Heavy Things,Heavy Things,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
-2012-08-26,2012,0,4,1,1,0,0,5,2012 Late Summer Tour,2012 Summer,Ocelot,Ocelot,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
-2012-08-26,2012,0,5,2,1,0,0,3,2012 Late Summer Tour,2012 Summer,Funky Bitch,Funky Bitch,0,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
+2012-08-26,2012,0,3,1,1,0,0,3,2012 Late Summer Tour,2012 Summer,Heavy Things,,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
+2012-08-26,2012,0,4,1,1,0,0,5,2012 Late Summer Tour,2012 Summer,Ocelot,,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
+2012-08-26,2012,0,5,2,1,0,0,3,2012 Late Summer Tour,2012 Summer,Funky Bitch,,0,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
 2012-08-26,2012,0,6,2,1,0,0,3,2012 Late Summer Tour,2012 Summer,Bathtub Gin,Gin,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
-2012-08-26,2012,0,7,2,1,0,0,5,2012 Late Summer Tour,2012 Summer,Fluffhead,Fluffhead,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
+2012-08-26,2012,0,7,2,1,0,0,5,2012 Late Summer Tour,2012 Summer,Fluffhead,,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
 2012-08-26,2012,0,8,2,1,0,0,11,2012 Late Summer Tour,2012 Summer,Alumni Blues,Alumni,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
 2012-08-26,2012,0,9,2,1,0,0,11,2012 Late Summer Tour,2012 Summer,Letter to Jimmy Page,LTJP,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
 2012-08-26,2012,0,10,1,1,0,0,0,2012 Late Summer Tour,2012 Summer,Alumni Blues,Alumni,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
-2012-08-26,2012,0,11,1,1,0,0,5,2012 Late Summer Tour,2012 Summer,Tube,Tube,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
+2012-08-26,2012,0,11,1,1,0,0,5,2012 Late Summer Tour,2012 Summer,Tube,,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
 2012-08-26,2012,0,12,1,1,0,0,24,2012 Late Summer Tour,2012 Summer,My Sweet One,MSO,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
 2012-08-26,2012,0,13,4,1,0,0,4,2012 Late Summer Tour,2012 Summer,David Bowie,Bowie,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,
 2012-08-26,2012,0,14,2,2,0,0,4,2012 Late Summer Tour,2012 Summer,Crosseyed and Painless,C&amp;P,0,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
 2012-08-26,2012,0,15,2,2,0,0,16,2012 Late Summer Tour,2012 Summer,McGrupp and the Watchful Hosemasters,McGrupp,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
 2012-08-26,2012,0,16,2,2,0,0,3,2012 Late Summer Tour,2012 Summer,Mike's Song,Mike's,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
 2012-08-26,2012,0,17,1,2,0,0,3,2012 Late Summer Tour,2012 Summer,Bouncing Around the Room,Bouncin',1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
-2012-08-26,2012,0,18,2,2,0,0,4,2012 Late Summer Tour,2012 Summer,Axilla,Axilla,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
-2012-08-26,2012,0,19,2,2,0,0,3,2012 Late Summer Tour,2012 Summer,Tweezer,Tweezer,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
+2012-08-26,2012,0,18,2,2,0,0,4,2012 Late Summer Tour,2012 Summer,Axilla,,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
+2012-08-26,2012,0,19,2,2,0,0,3,2012 Late Summer Tour,2012 Summer,Tweezer,,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
 2012-08-26,2012,0,20,2,2,0,0,3,2012 Late Summer Tour,2012 Summer,Harry Hood,Hood,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
 2012-08-26,2012,0,21,2,2,0,0,5,2012 Late Summer Tour,2012 Summer,The Horse,Horse,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
 2012-08-26,2012,0,22,2,2,0,0,5,2012 Late Summer Tour,2012 Summer,Silent in the Morning,Silent,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
@@ -675,195 +675,195 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2012-08-26,2012,0,25,2,e,0,0,15,2012 Late Summer Tour,2012 Summer,Big Black Furry Creature from Mars,BBFCFM,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
 2012-08-26,2012,0,26,6,e,0,0,3,2012 Late Summer Tour,2012 Summer,Tweezer Reprise,Tweeprise,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,
 2012-08-28,2012,0,1,2,1,0,0,11,2012 Late Summer Tour,2012 Summer,Punch You in the Eye,PYITE,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
-2012-08-28,2012,0,2,1,1,0,0,2,2012 Late Summer Tour,2012 Summer,Runaway Jim,Runaway Jim,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2012-08-28,2012,0,3,2,1,0,0,1,2012 Late Summer Tour,2012 Summer,Ocelot,Ocelot,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
-2012-08-28,2012,0,4,1,1,0,0,5,2012 Late Summer Tour,2012 Summer,Reba,Reba,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2012-08-28,2012,0,2,1,1,0,0,2,2012 Late Summer Tour,2012 Summer,Runaway Jim,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2012-08-28,2012,0,3,2,1,0,0,1,2012 Late Summer Tour,2012 Summer,Ocelot,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
+2012-08-28,2012,0,4,1,1,0,0,5,2012 Late Summer Tour,2012 Summer,Reba,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
 2012-08-28,2012,0,5,1,1,0,0,6,2012 Late Summer Tour,2012 Summer,I Didn't Know,IDK,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
 2012-08-28,2012,0,6,2,1,0,0,46,2012 Late Summer Tour,2012 Summer,The Curtain,Curtain,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
 2012-08-28,2012,0,7,2,1,0,0,10,2012 Late Summer Tour,2012 Summer,Peaches en Regalia,Peaches,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
-2012-08-28,2012,0,8,2,1,0,0,5,2012 Late Summer Tour,2012 Summer,Mound,Mound,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
+2012-08-28,2012,0,8,2,1,0,0,5,2012 Late Summer Tour,2012 Summer,Mound,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
 2012-08-28,2012,0,9,1,1,0,0,3,2012 Late Summer Tour,2012 Summer,Sample in a Jar,Sample,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
 2012-08-28,2012,0,10,1,1,0,0,15,2012 Late Summer Tour,2012 Summer,The Sloth,Sloth,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2012-08-28,2012,0,11,1,1,0,0,9,2012 Late Summer Tour,2012 Summer,Camel Walk,Camel Walk,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2012-08-28,2012,0,12,2,1,0,0,3,2012 Late Summer Tour,2012 Summer,Possum,Possum,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
+2012-08-28,2012,0,11,1,1,0,0,9,2012 Late Summer Tour,2012 Summer,Camel Walk,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2012-08-28,2012,0,12,2,1,0,0,3,2012 Late Summer Tour,2012 Summer,Possum,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
 2012-08-28,2012,0,13,4,1,0,0,8,2012 Late Summer Tour,2012 Summer,Quinn the Eskimo (The Mighty Quinn),Quinn,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,
 2012-08-28,2012,0,14,3,2,0,0,2,2012 Late Summer Tour,2012 Summer,Chalk Dust Torture,CDT,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,->
-2012-08-28,2012,0,15,3,2,0,0,70,2012 Late Summer Tour,2012 Summer,Frankie Says,Frankie Says,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,->
-2012-08-28,2012,0,16,3,2,0,0,21,2012 Late Summer Tour,2012 Summer,Undermind,Undermind,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,->
-2012-08-28,2012,0,17,3,2,0,0,3,2012 Late Summer Tour,2012 Summer,Sand,Sand,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,->
-2012-08-28,2012,0,18,1,2,0,0,5,2012 Late Summer Tour,2012 Summer,Walk Away,Walk Away,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2012-08-28,2012,0,15,3,2,0,0,70,2012 Late Summer Tour,2012 Summer,Frankie Says,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,->
+2012-08-28,2012,0,16,3,2,0,0,21,2012 Late Summer Tour,2012 Summer,Undermind,,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,->
+2012-08-28,2012,0,17,3,2,0,0,3,2012 Late Summer Tour,2012 Summer,Sand,,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,->
+2012-08-28,2012,0,18,1,2,0,0,5,2012 Late Summer Tour,2012 Summer,Walk Away,,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
 2012-08-28,2012,0,19,2,2,0,0,8,2012 Late Summer Tour,2012 Summer,Limb By Limb,LxL,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
-2012-08-28,2012,0,20,2,2,0,0,3,2012 Late Summer Tour,2012 Summer,Julius,Julius,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
+2012-08-28,2012,0,20,2,2,0,0,3,2012 Late Summer Tour,2012 Summer,Julius,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
 2012-08-28,2012,0,21,1,2,0,0,3,2012 Late Summer Tour,2012 Summer,Also Sprach Zarathustra,2001,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
 2012-08-28,2012,0,22,5,2,0,0,5,2012 Late Summer Tour,2012 Summer,You Enjoy Myself,YEM,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,
-2012-08-28,2012,0,23,6,e,0,0,7,2012 Late Summer Tour,2012 Summer,Shine a Light,Shine a Light,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,
+2012-08-28,2012,0,23,6,e,0,0,7,2012 Late Summer Tour,2012 Summer,Shine a Light,,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,
 2012-08-29,2012,0,1,2,1,0,0,3,2012 Late Summer Tour,2012 Summer,Kill Devil Falls,KDF,1,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,>
-2012-08-29,2012,0,2,1,1,0,0,5,2012 Late Summer Tour,2012 Summer,Rift,Rift,1,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,","
-2012-08-29,2012,0,3,2,1,0,0,3,2012 Late Summer Tour,2012 Summer,Wilson,Wilson,1,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,>
+2012-08-29,2012,0,2,1,1,0,0,5,2012 Late Summer Tour,2012 Summer,Rift,,1,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,","
+2012-08-29,2012,0,3,2,1,0,0,3,2012 Late Summer Tour,2012 Summer,Wilson,,1,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,>
 2012-08-29,2012,0,4,2,1,0,0,3,2012 Late Summer Tour,2012 Summer,Backwards Down the Number Line,BDTNL,0,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,>
 2012-08-29,2012,0,5,2,1,0,0,2,2012 Late Summer Tour,2012 Summer,The Moma Dance,Moma,1,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,>
 2012-08-29,2012,0,6,1,1,0,0,22,2012 Late Summer Tour,2012 Summer,Divided Sky,Divided,1,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,","
 2012-08-29,2012,0,7,2,1,0,0,3,2012 Late Summer Tour,2012 Summer,Wolfman's Brother,Wolfman's,1,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,>
-2012-08-29,2012,0,8,2,1,0,0,2,2012 Late Summer Tour,2012 Summer,Axilla,Axilla,1,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,>
-2012-08-29,2012,0,9,1,1,0,0,7,2012 Late Summer Tour,2012 Summer,46 Days,46 Days,1,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,","
-2012-08-29,2012,0,10,1,1,0,0,3,2012 Late Summer Tour,2012 Summer,Ya Mar,Ya Mar,0,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,","
+2012-08-29,2012,0,8,2,1,0,0,2,2012 Late Summer Tour,2012 Summer,Axilla,,1,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,>
+2012-08-29,2012,0,9,1,1,0,0,7,2012 Late Summer Tour,2012 Summer,46 Days,,1,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,","
+2012-08-29,2012,0,10,1,1,0,0,3,2012 Late Summer Tour,2012 Summer,Ya Mar,,0,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,","
 2012-08-29,2012,0,11,2,1,0,0,18,2012 Late Summer Tour,2012 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,>
 2012-08-29,2012,0,12,4,1,0,0,3,2012 Late Summer Tour,2012 Summer,Run Like an Antelope,Antelope,1,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,
 2012-08-29,2012,0,13,2,2,0,0,4,2012 Late Summer Tour,2012 Summer,Down with Disease,DwD,1,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,>
 2012-08-29,2012,0,14,2,2,0,0,4,2012 Late Summer Tour,2012 Summer,Birds of a Feather,BOAF,1,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,>
 2012-08-29,2012,0,15,2,2,0,0,8,2012 Late Summer Tour,2012 Summer,"My Friend, My Friend",My Friend,1,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,>
 2012-08-29,2012,0,16,2,2,0,0,4,2012 Late Summer Tour,2012 Summer,Rock and Roll,R&amp;R,0,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,>
-2012-08-29,2012,0,17,1,2,0,0,4,2012 Late Summer Tour,2012 Summer,Twist,Twist,1,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,","
-2012-08-29,2012,0,18,2,2,0,0,5,2012 Late Summer Tour,2012 Summer,If I Could,If I Could,1,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,>
-2012-08-29,2012,0,19,2,2,0,0,3,2012 Late Summer Tour,2012 Summer,Light,Light,0,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,>
+2012-08-29,2012,0,17,1,2,0,0,4,2012 Late Summer Tour,2012 Summer,Twist,,1,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,","
+2012-08-29,2012,0,18,2,2,0,0,5,2012 Late Summer Tour,2012 Summer,If I Could,,1,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,>
+2012-08-29,2012,0,19,2,2,0,0,3,2012 Late Summer Tour,2012 Summer,Light,,0,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,>
 2012-08-29,2012,0,20,2,2,0,0,2,2012 Late Summer Tour,2012 Summer,Harry Hood,Hood,1,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,>
-2012-08-29,2012,0,21,2,2,0,0,3,2012 Late Summer Tour,2012 Summer,Character Zero,Character Zero,1,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,>
+2012-08-29,2012,0,21,2,2,0,0,3,2012 Late Summer Tour,2012 Summer,Character Zero,,1,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,>
 2012-08-29,2012,0,22,5,2,0,0,2,2012 Late Summer Tour,2012 Summer,Suzy Greenberg,Suzy,1,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,
 2012-08-29,2012,0,23,2,e,0,0,4,2012 Late Summer Tour,2012 Summer,Slave to the Traffic Light,Slave,1,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,>
-2012-08-29,2012,0,24,6,e,0,0,5,2012 Late Summer Tour,2012 Summer,Loving Cup,Loving Cup,0,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,
-2012-08-31,2012,0,1,1,1,0,0,9,2012 Late Summer Tour,2012 Summer,First Tube,First Tube,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2012-08-31,2012,0,2,1,1,0,0,83,2012 Late Summer Tour,2012 Summer,Uncle Pen,Uncle Pen,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2012-08-31,2012,0,3,2,1,0,0,8,2012 Late Summer Tour,2012 Summer,Carini,Carini,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2012-08-29,2012,0,24,6,e,0,0,5,2012 Late Summer Tour,2012 Summer,Loving Cup,,0,Oklahoma City Zoo Amphitheatre,Oklahoma City,OK,USA,
+2012-08-31,2012,0,1,1,1,0,0,9,2012 Late Summer Tour,2012 Summer,First Tube,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2012-08-31,2012,0,2,1,1,0,0,83,2012 Late Summer Tour,2012 Summer,Uncle Pen,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2012-08-31,2012,0,3,2,1,0,0,8,2012 Late Summer Tour,2012 Summer,Carini,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2012-08-31,2012,0,4,1,1,0,0,1,2012 Late Summer Tour,2012 Summer,Kill Devil Falls,KDF,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2012-08-31,2012,0,5,1,1,0,0,2,2012 Late Summer Tour,2012 Summer,You Enjoy Myself,YEM,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2012-08-31,2012,0,6,1,1,0,0,2,2012 Late Summer Tour,2012 Summer,Ocelot,Ocelot,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2012-08-31,2012,0,7,4,1,0,0,2,2012 Late Summer Tour,2012 Summer,Undermind,Undermind,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2012-08-31,2012,0,8,2,2,0,0,2,2012 Late Summer Tour,2012 Summer,Runaway Jim,Runaway Jim,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2012-08-31,2012,0,9,2,2,0,0,16,2012 Late Summer Tour,2012 Summer,Farmhouse,Farmhouse,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2012-08-31,2012,0,10,1,2,0,0,4,2012 Late Summer Tour,2012 Summer,Alaska,Alaska,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2012-08-31,2012,0,6,1,1,0,0,2,2012 Late Summer Tour,2012 Summer,Ocelot,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2012-08-31,2012,0,7,4,1,0,0,2,2012 Late Summer Tour,2012 Summer,Undermind,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2012-08-31,2012,0,8,2,2,0,0,2,2012 Late Summer Tour,2012 Summer,Runaway Jim,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2012-08-31,2012,0,9,2,2,0,0,16,2012 Late Summer Tour,2012 Summer,Farmhouse,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2012-08-31,2012,0,10,1,2,0,0,4,2012 Late Summer Tour,2012 Summer,Alaska,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2012-08-31,2012,0,11,2,2,0,0,2,2012 Late Summer Tour,2012 Summer,Chalk Dust Torture,CDT,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2012-08-31,2012,0,12,2,2,0,0,236,2012 Late Summer Tour,2012 Summer,Emotional Rescue,Emotional Rescue,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2012-08-31,2012,0,12,2,2,0,0,236,2012 Late Summer Tour,2012 Summer,Emotional Rescue,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2012-08-31,2012,0,13,5,2,0,0,19,2012 Late Summer Tour,2012 Summer,Fuck Your Face,FYF,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2012-08-31,2012,0,14,1,e,0,0,12,2012 Late Summer Tour,2012 Summer,Grind,Grind,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2012-08-31,2012,0,15,6,e,0,0,7,2012 Late Summer Tour,2012 Summer,Meatstick,Meatstick,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2012-08-31,2012,0,14,1,e,0,0,12,2012 Late Summer Tour,2012 Summer,Grind,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2012-08-31,2012,0,15,6,e,0,0,7,2012 Late Summer Tour,2012 Summer,Meatstick,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2012-09-01,2012,0,1,1,1,0,0,2,2012 Late Summer Tour,2012 Summer,Run Like an Antelope,Antelope,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2012-09-01,2012,0,2,2,1,0,0,2,2012 Late Summer Tour,2012 Summer,Backwards Down the Number Line,BDTNL,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2012-09-01,2012,0,3,3,1,0,0,4,2012 Late Summer Tour,2012 Summer,Tweezer,Tweezer,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
-2012-09-01,2012,0,4,2,1,0,0,4,2012 Late Summer Tour,2012 Summer,Fluffhead,Fluffhead,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2012-09-01,2012,0,3,3,1,0,0,4,2012 Late Summer Tour,2012 Summer,Tweezer,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2012-09-01,2012,0,4,2,1,0,0,4,2012 Late Summer Tour,2012 Summer,Fluffhead,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2012-09-01,2012,0,5,2,1,0,0,5,2012 Late Summer Tour,2012 Summer,Roses Are Free,Roses,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2012-09-01,2012,0,6,2,1,0,0,4,2012 Late Summer Tour,2012 Summer,Funky Bitch,Funky Bitch,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2012-09-01,2012,0,6,2,1,0,0,4,2012 Late Summer Tour,2012 Summer,Funky Bitch,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2012-09-01,2012,0,7,2,1,0,0,2,2012 Late Summer Tour,2012 Summer,The Moma Dance,Moma,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2012-09-01,2012,0,8,1,1,0,0,9,2012 Late Summer Tour,2012 Summer,When the Circus Comes,Circus,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2012-09-01,2012,0,9,2,1,0,0,8,2012 Late Summer Tour,2012 Summer,Theme From the Bottom,Theme,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2012-09-01,2012,0,10,1,1,0,0,13,2012 Late Summer Tour,2012 Summer,Golgi Apparatus,Golgi,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2012-09-01,2012,0,11,4,1,0,0,2,2012 Late Summer Tour,2012 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2012-09-01,2012,0,12,2,2,0,0,5,2012 Late Summer Tour,2012 Summer,Golden Age,Golden Age,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2012-09-01,2012,0,12,2,2,0,0,5,2012 Late Summer Tour,2012 Summer,Golden Age,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2012-09-01,2012,0,13,2,2,0,0,13,2012 Late Summer Tour,2012 Summer,Prince Caspian,Caspian,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2012-09-01,2012,0,14,1,2,0,0,2,2012 Late Summer Tour,2012 Summer,Light,Light,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2012-09-01,2012,0,14,1,2,0,0,2,2012 Late Summer Tour,2012 Summer,Light,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2012-09-01,2012,0,15,2,2,0,0,6,2012 Late Summer Tour,2012 Summer,Boogie On Reggae Woman,Boogie On,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2012-09-01,2012,0,16,1,2,0,0,6,2012 Late Summer Tour,2012 Summer,The Wedge,Wedge,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2012-09-01,2012,0,17,2,2,0,0,4,2012 Late Summer Tour,2012 Summer,The Horse,Horse,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2012-09-01,2012,0,18,2,2,0,0,4,2012 Late Summer Tour,2012 Summer,Silent in the Morning,Silent,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2012-09-01,2012,0,19,2,2,0,0,4,2012 Late Summer Tour,2012 Summer,Mike's Song,Mike's,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2012-09-01,2012,0,20,2,2,0,0,17,2012 Late Summer Tour,2012 Summer,No Quarter,No Quarter,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2012-09-01,2012,0,20,2,2,0,0,17,2012 Late Summer Tour,2012 Summer,No Quarter,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2012-09-01,2012,0,21,5,2,0,0,4,2012 Late Summer Tour,2012 Summer,Weekapaug Groove,Weekapaug,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2012-09-01,2012,0,22,2,e,0,0,15,2012 Late Summer Tour,2012 Summer,Sleeping Monkey,Sleeping Monkey,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2012-09-01,2012,0,22,2,e,0,0,15,2012 Late Summer Tour,2012 Summer,Sleeping Monkey,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2012-09-01,2012,0,23,6,e,0,0,4,2012 Late Summer Tour,2012 Summer,Tweezer Reprise,Tweeprise,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2012-09-02,2012,0,1,1,1,0,0,6,2012 Late Summer Tour,2012 Summer,Cars Trucks Buses,CTB,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2012-09-02,2012,0,2,2,1,0,0,5,2012 Late Summer Tour,2012 Summer,AC/DC Bag,Bag,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2012-09-02,2012,0,3,1,1,0,0,3,2012 Late Summer Tour,2012 Summer,Down with Disease,DwD,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2012-09-02,2012,0,4,1,1,0,0,5,2012 Late Summer Tour,2012 Summer,Bathtub Gin,Gin,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2012-09-02,2012,0,5,2,1,0,0,10,2012 Late Summer Tour,2012 Summer,Nellie Kane,Nellie Kane,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2012-09-02,2012,0,5,2,1,0,0,10,2012 Late Summer Tour,2012 Summer,Nellie Kane,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2012-09-02,2012,0,6,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Sample in a Jar,Sample,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2012-09-02,2012,0,7,2,1,0,0,7,2012 Late Summer Tour,2012 Summer,Back on the Train,BOTT,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2012-09-02,2012,0,8,2,1,0,0,3,2012 Late Summer Tour,2012 Summer,Rift,Rift,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2012-09-02,2012,0,9,1,1,0,0,6,2012 Late Summer Tour,2012 Summer,Free,Free,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2012-09-02,2012,0,10,2,1,0,0,9,2012 Late Summer Tour,2012 Summer,Ride Captain Ride,Ride Captain Ride,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2012-09-02,2012,0,11,1,1,0,0,6,2012 Late Summer Tour,2012 Summer,Maze,Maze,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2012-09-02,2012,0,8,2,1,0,0,3,2012 Late Summer Tour,2012 Summer,Rift,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2012-09-02,2012,0,9,1,1,0,0,6,2012 Late Summer Tour,2012 Summer,Free,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2012-09-02,2012,0,10,2,1,0,0,9,2012 Late Summer Tour,2012 Summer,Ride Captain Ride,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2012-09-02,2012,0,11,1,1,0,0,6,2012 Late Summer Tour,2012 Summer,Maze,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2012-09-02,2012,0,12,2,1,0,0,7,2012 Late Summer Tour,2012 Summer,Halley's Comet,Halley's,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2012-09-02,2012,0,13,2,1,0,0,3,2012 Late Summer Tour,2012 Summer,46 Days,46 Days,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2012-09-02,2012,0,14,4,1,0,0,4,2012 Late Summer Tour,2012 Summer,Possum,Possum,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2012-09-02,2012,0,15,3,2,0,0,4,2012 Late Summer Tour,2012 Summer,Sand,Sand,0,Dick's Sporting Goods Park,Commerce City,CO,USA,->
-2012-09-02,2012,0,16,3,2,0,0,12,2012 Late Summer Tour,2012 Summer,Ghost,Ghost,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
-2012-09-02,2012,0,17,2,2,0,0,8,2012 Late Summer Tour,2012 Summer,Piper,Piper,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2012-09-02,2012,0,18,2,2,0,0,68,2012 Late Summer Tour,2012 Summer,Twenty Years Later,Twenty Years Later,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2012-09-02,2012,0,13,2,1,0,0,3,2012 Late Summer Tour,2012 Summer,46 Days,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2012-09-02,2012,0,14,4,1,0,0,4,2012 Late Summer Tour,2012 Summer,Possum,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2012-09-02,2012,0,15,3,2,0,0,4,2012 Late Summer Tour,2012 Summer,Sand,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2012-09-02,2012,0,16,3,2,0,0,12,2012 Late Summer Tour,2012 Summer,Ghost,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2012-09-02,2012,0,17,2,2,0,0,8,2012 Late Summer Tour,2012 Summer,Piper,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2012-09-02,2012,0,18,2,2,0,0,68,2012 Late Summer Tour,2012 Summer,Twenty Years Later,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2012-09-02,2012,0,19,1,2,0,0,7,2012 Late Summer Tour,2012 Summer,The Lizards,Lizards,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2012-09-02,2012,0,20,5,2,0,0,3,2012 Late Summer Tour,2012 Summer,Harry Hood,Hood,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2012-09-02,2012,0,21,6,e,0,0,3,2012 Late Summer Tour,2012 Summer,Character Zero,Character Zero,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2012-09-02,2012,0,21,6,e,0,0,3,2012 Late Summer Tour,2012 Summer,Character Zero,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2012-12-28,2012,0,1,1,1,0,0,2,2012 NYE Run,2012 NYE,Stealing Time From the Faulty Plan,STFTFP,1,Madison Square Garden,New York,NY,USA,","
 2012-12-28,2012,0,2,1,1,0,0,2,2012 NYE Run,2012 NYE,The Moma Dance,Moma,1,Madison Square Garden,New York,NY,USA,","
-2012-12-28,2012,0,3,1,1,0,0,2,2012 NYE Run,2012 NYE,Funky Bitch,Funky Bitch,0,Madison Square Garden,New York,NY,USA,","
-2012-12-28,2012,0,4,1,1,0,0,57,2012 NYE Run,2012 NYE,Army of One,Army of One,1,Madison Square Garden,New York,NY,USA,","
-2012-12-28,2012,0,5,2,1,0,0,6,2012 NYE Run,2012 NYE,Tube,Tube,1,Madison Square Garden,New York,NY,USA,>
-2012-12-28,2012,0,6,1,1,0,0,9,2012 NYE Run,2012 NYE,Stash,Stash,1,Madison Square Garden,New York,NY,USA,","
-2012-12-28,2012,0,7,1,1,0,0,1,2012 NYE Run,2012 NYE,Nellie Kane,Nellie Kane,0,Madison Square Garden,New York,NY,USA,","
+2012-12-28,2012,0,3,1,1,0,0,2,2012 NYE Run,2012 NYE,Funky Bitch,,0,Madison Square Garden,New York,NY,USA,","
+2012-12-28,2012,0,4,1,1,0,0,57,2012 NYE Run,2012 NYE,Army of One,,1,Madison Square Garden,New York,NY,USA,","
+2012-12-28,2012,0,5,2,1,0,0,6,2012 NYE Run,2012 NYE,Tube,,1,Madison Square Garden,New York,NY,USA,>
+2012-12-28,2012,0,6,1,1,0,0,9,2012 NYE Run,2012 NYE,Stash,,1,Madison Square Garden,New York,NY,USA,","
+2012-12-28,2012,0,7,1,1,0,0,1,2012 NYE Run,2012 NYE,Nellie Kane,,0,Madison Square Garden,New York,NY,USA,","
 2012-12-28,2012,0,8,1,1,0,0,3,2012 NYE Run,2012 NYE,Kill Devil Falls,KDF,1,Madison Square Garden,New York,NY,USA,","
-2012-12-28,2012,0,9,1,1,0,0,1,2012 NYE Run,2012 NYE,Free,Free,1,Madison Square Garden,New York,NY,USA,","
+2012-12-28,2012,0,9,1,1,0,0,1,2012 NYE Run,2012 NYE,Free,,1,Madison Square Garden,New York,NY,USA,","
 2012-12-28,2012,0,10,4,1,0,0,4,2012 NYE Run,2012 NYE,Wolfman's Brother,Wolfman's,1,Madison Square Garden,New York,NY,USA,
-2012-12-28,2012,0,11,2,2,0,0,2,2012 NYE Run,2012 NYE,Tweezer,Tweezer,1,Madison Square Garden,New York,NY,USA,>
-2012-12-28,2012,0,12,1,2,0,0,1,2012 NYE Run,2012 NYE,Maze,Maze,1,Madison Square Garden,New York,NY,USA,","
-2012-12-28,2012,0,13,2,2,0,0,4,2012 NYE Run,2012 NYE,Twist,Twist,1,Madison Square Garden,New York,NY,USA,>
+2012-12-28,2012,0,11,2,2,0,0,2,2012 NYE Run,2012 NYE,Tweezer,,1,Madison Square Garden,New York,NY,USA,>
+2012-12-28,2012,0,12,1,2,0,0,1,2012 NYE Run,2012 NYE,Maze,,1,Madison Square Garden,New York,NY,USA,","
+2012-12-28,2012,0,13,2,2,0,0,4,2012 NYE Run,2012 NYE,Twist,,1,Madison Square Garden,New York,NY,USA,>
 2012-12-28,2012,0,14,3,2,0,0,2,2012 NYE Run,2012 NYE,Theme From the Bottom,Theme,1,Madison Square Garden,New York,NY,USA,->
-2012-12-28,2012,0,15,2,2,0,0,2,2012 NYE Run,2012 NYE,Fluffhead,Fluffhead,1,Madison Square Garden,New York,NY,USA,>
+2012-12-28,2012,0,15,2,2,0,0,2,2012 NYE Run,2012 NYE,Fluffhead,,1,Madison Square Garden,New York,NY,USA,>
 2012-12-28,2012,0,16,5,2,0,0,6,2012 NYE Run,2012 NYE,David Bowie,Bowie,1,Madison Square Garden,New York,NY,USA,
 2012-12-28,2012,0,17,1,e,0,0,6,2012 NYE Run,2012 NYE,Bouncing Around the Room,Bouncin',1,Madison Square Garden,New York,NY,USA,","
 2012-12-28,2012,0,18,6,e,0,0,8,2012 NYE Run,2012 NYE,Good Times Bad Times,GTBT,0,Madison Square Garden,New York,NY,USA,
-2012-12-29,2012,0,1,1,1,0,0,11,2012 NYE Run,2012 NYE,Crowd Control,Crowd Control,1,Madison Square Garden,New York,NY,USA,","
-2012-12-29,2012,0,2,1,1,0,0,6,2012 NYE Run,2012 NYE,Mound,Mound,1,Madison Square Garden,New York,NY,USA,","
+2012-12-29,2012,0,1,1,1,0,0,11,2012 NYE Run,2012 NYE,Crowd Control,,1,Madison Square Garden,New York,NY,USA,","
+2012-12-29,2012,0,2,1,1,0,0,6,2012 NYE Run,2012 NYE,Mound,,1,Madison Square Garden,New York,NY,USA,","
 2012-12-29,2012,0,3,2,1,0,0,2,2012 NYE Run,2012 NYE,AC/DC Bag,Bag,1,Madison Square Garden,New York,NY,USA,>
 2012-12-29,2012,0,4,1,1,0,0,5,2012 NYE Run,2012 NYE,Rock and Roll,R&amp;R,0,Madison Square Garden,New York,NY,USA,","
-2012-12-29,2012,0,5,1,1,0,0,12,2012 NYE Run,2012 NYE,Sugar Shack,Sugar Shack,1,Madison Square Garden,New York,NY,USA,","
-2012-12-29,2012,0,6,1,1,0,0,6,2012 NYE Run,2012 NYE,Reba,Reba,1,Madison Square Garden,New York,NY,USA,","
+2012-12-29,2012,0,5,1,1,0,0,12,2012 NYE Run,2012 NYE,Sugar Shack,,1,Madison Square Garden,New York,NY,USA,","
+2012-12-29,2012,0,6,1,1,0,0,6,2012 NYE Run,2012 NYE,Reba,,1,Madison Square Garden,New York,NY,USA,","
 2012-12-29,2012,0,7,2,1,0,0,2,2012 NYE Run,2012 NYE,Halley's Comet,Halley's,1,Madison Square Garden,New York,NY,USA,>
 2012-12-29,2012,0,8,1,1,0,0,6,2012 NYE Run,2012 NYE,Limb By Limb,LxL,1,Madison Square Garden,New York,NY,USA,","
 2012-12-29,2012,0,9,1,1,0,0,8,2012 NYE Run,2012 NYE,Wading in the Velvet Sea,Velvet Sea,1,Madison Square Garden,New York,NY,USA,","
 2012-12-29,2012,0,10,4,1,0,0,2,2012 NYE Run,2012 NYE,Bathtub Gin,Gin,1,Madison Square Garden,New York,NY,USA,
-2012-12-29,2012,0,11,2,2,0,0,3,2012 NYE Run,2012 NYE,Golden Age,Golden Age,0,Madison Square Garden,New York,NY,USA,>
-2012-12-29,2012,0,12,3,2,0,0,23,2012 NYE Run,2012 NYE,Waves,Waves,1,Madison Square Garden,New York,NY,USA,->
+2012-12-29,2012,0,11,2,2,0,0,3,2012 NYE Run,2012 NYE,Golden Age,,0,Madison Square Garden,New York,NY,USA,>
+2012-12-29,2012,0,12,3,2,0,0,23,2012 NYE Run,2012 NYE,Waves,,1,Madison Square Garden,New York,NY,USA,->
 2012-12-29,2012,0,13,2,2,0,0,3,2012 NYE Run,2012 NYE,Prince Caspian,Caspian,1,Madison Square Garden,New York,NY,USA,>
 2012-12-29,2012,0,14,2,2,0,0,3,2012 NYE Run,2012 NYE,Boogie On Reggae Woman,Boogie On,0,Madison Square Garden,New York,NY,USA,>
 2012-12-29,2012,0,15,2,2,0,0,5,2012 NYE Run,2012 NYE,Suzy Greenberg,Suzy,1,Madison Square Garden,New York,NY,USA,>
-2012-12-29,2012,0,16,2,2,0,0,11,2012 NYE Run,2012 NYE,Bug,Bug,0,Madison Square Garden,New York,NY,USA,>
-2012-12-29,2012,0,17,2,2,0,0,9,2012 NYE Run,2012 NYE,Cavern,Cavern,1,Madison Square Garden,New York,NY,USA,>
-2012-12-29,2012,0,18,5,2,0,0,2,2012 NYE Run,2012 NYE,46 Days,46 Days,1,Madison Square Garden,New York,NY,USA,
+2012-12-29,2012,0,16,2,2,0,0,11,2012 NYE Run,2012 NYE,Bug,,0,Madison Square Garden,New York,NY,USA,>
+2012-12-29,2012,0,17,2,2,0,0,9,2012 NYE Run,2012 NYE,Cavern,,1,Madison Square Garden,New York,NY,USA,>
+2012-12-29,2012,0,18,5,2,0,0,2,2012 NYE Run,2012 NYE,46 Days,,1,Madison Square Garden,New York,NY,USA,
 2012-12-29,2012,0,19,1,e,0,0,20,2012 NYE Run,2012 NYE,The Squirming Coil,Coil,1,Madison Square Garden,New York,NY,USA,","
-2012-12-29,2012,0,20,1,e,0,0,4,2012 NYE Run,2012 NYE,Grind,Grind,1,Madison Square Garden,New York,NY,USA,","
-2012-12-29,2012,0,21,6,e,0,0,4,2012 NYE Run,2012 NYE,First Tube,First Tube,0,Madison Square Garden,New York,NY,USA,
-2012-12-30,2012,0,1,1,1,0,0,5,2012 NYE Run,2012 NYE,Runaway Jim,Runaway Jim,1,Madison Square Garden,New York,NY,USA,","
-2012-12-30,2012,0,2,2,1,0,0,10,2012 NYE Run,2012 NYE,Cities,Cities,0,Madison Square Garden,New York,NY,USA,>
+2012-12-29,2012,0,20,1,e,0,0,4,2012 NYE Run,2012 NYE,Grind,,1,Madison Square Garden,New York,NY,USA,","
+2012-12-29,2012,0,21,6,e,0,0,4,2012 NYE Run,2012 NYE,First Tube,,0,Madison Square Garden,New York,NY,USA,
+2012-12-30,2012,0,1,1,1,0,0,5,2012 NYE Run,2012 NYE,Runaway Jim,,1,Madison Square Garden,New York,NY,USA,","
+2012-12-30,2012,0,2,2,1,0,0,10,2012 NYE Run,2012 NYE,Cities,,0,Madison Square Garden,New York,NY,USA,>
 2012-12-30,2012,0,3,1,1,0,0,6,2012 NYE Run,2012 NYE,Divided Sky,Divided,1,Madison Square Garden,New York,NY,USA,","
 2012-12-30,2012,0,4,1,1,0,0,3,2012 NYE Run,2012 NYE,Back on the Train,BOTT,0,Madison Square Garden,New York,NY,USA,","
-2012-12-30,2012,0,5,1,1,0,0,3,2012 NYE Run,2012 NYE,Ride Captain Ride,Ride Captain Ride,0,Madison Square Garden,New York,NY,USA,","
-2012-12-30,2012,0,6,1,1,0,0,5,2012 NYE Run,2012 NYE,Ocelot,Ocelot,1,Madison Square Garden,New York,NY,USA,","
-2012-12-30,2012,0,7,1,1,0,0,6,2012 NYE Run,2012 NYE,Ya Mar,Ya Mar,0,Madison Square Garden,New York,NY,USA,","
-2012-12-30,2012,0,8,2,1,0,0,18,2012 NYE Run,2012 NYE,Horn,Horn,1,Madison Square Garden,New York,NY,USA,>
+2012-12-30,2012,0,5,1,1,0,0,3,2012 NYE Run,2012 NYE,Ride Captain Ride,,0,Madison Square Garden,New York,NY,USA,","
+2012-12-30,2012,0,6,1,1,0,0,5,2012 NYE Run,2012 NYE,Ocelot,,1,Madison Square Garden,New York,NY,USA,","
+2012-12-30,2012,0,7,1,1,0,0,6,2012 NYE Run,2012 NYE,Ya Mar,,0,Madison Square Garden,New York,NY,USA,","
+2012-12-30,2012,0,8,2,1,0,0,18,2012 NYE Run,2012 NYE,Horn,,1,Madison Square Garden,New York,NY,USA,>
 2012-12-30,2012,0,9,2,1,0,0,6,2012 NYE Run,2012 NYE,"My Friend, My Friend",My Friend,1,Madison Square Garden,New York,NY,USA,>
 2012-12-30,2012,0,10,4,1,0,0,4,2012 NYE Run,2012 NYE,Run Like an Antelope,Antelope,1,Madison Square Garden,New York,NY,USA,
 2012-12-30,2012,0,11,2,2,0,0,3,2012 NYE Run,2012 NYE,Down with Disease,DwD,1,Madison Square Garden,New York,NY,USA,>
-2012-12-30,2012,0,12,2,2,0,0,3,2012 NYE Run,2012 NYE,Twenty Years Later,Twenty Years Later,1,Madison Square Garden,New York,NY,USA,>
-2012-12-30,2012,0,13,2,2,0,0,5,2012 NYE Run,2012 NYE,Carini,Carini,1,Madison Square Garden,New York,NY,USA,>
+2012-12-30,2012,0,12,2,2,0,0,3,2012 NYE Run,2012 NYE,Twenty Years Later,,1,Madison Square Garden,New York,NY,USA,>
+2012-12-30,2012,0,13,2,2,0,0,5,2012 NYE Run,2012 NYE,Carini,,1,Madison Square Garden,New York,NY,USA,>
 2012-12-30,2012,0,14,2,2,0,0,4,2012 NYE Run,2012 NYE,Backwards Down the Number Line,BDTNL,0,Madison Square Garden,New York,NY,USA,>
-2012-12-30,2012,0,15,2,2,0,0,7,2012 NYE Run,2012 NYE,Julius,Julius,1,Madison Square Garden,New York,NY,USA,>
+2012-12-30,2012,0,15,2,2,0,0,7,2012 NYE Run,2012 NYE,Julius,,1,Madison Square Garden,New York,NY,USA,>
 2012-12-30,2012,0,16,5,2,0,0,6,2012 NYE Run,2012 NYE,Slave to the Traffic Light,Slave,1,Madison Square Garden,New York,NY,USA,
 2012-12-30,2012,0,17,2,e,0,0,3,2012 NYE Run,2012 NYE,Harry Hood,Hood,1,Madison Square Garden,New York,NY,USA,>
-2012-12-30,2012,0,18,6,e,0,0,13,2012 NYE Run,2012 NYE,Show of Life,Show of Life,0,Madison Square Garden,New York,NY,USA,
-2012-12-31,2012,0,1,1,1,0,0,1593,2012 NYE Run,2012 NYE,Garden Party,Garden Party,0,Madison Square Garden,New York,NY,USA,","
-2012-12-31,2012,0,2,1,1,0,0,4,2012 NYE Run,2012 NYE,Possum,Possum,1,Madison Square Garden,New York,NY,USA,","
+2012-12-30,2012,0,18,6,e,0,0,13,2012 NYE Run,2012 NYE,Show of Life,,0,Madison Square Garden,New York,NY,USA,
+2012-12-31,2012,0,1,1,1,0,0,1593,2012 NYE Run,2012 NYE,Garden Party,,0,Madison Square Garden,New York,NY,USA,","
+2012-12-31,2012,0,2,1,1,0,0,4,2012 NYE Run,2012 NYE,Possum,,1,Madison Square Garden,New York,NY,USA,","
 2012-12-31,2012,0,3,1,1,0,0,5,2012 NYE Run,2012 NYE,Roses Are Free,Roses,0,Madison Square Garden,New York,NY,USA,","
-2012-12-31,2012,0,4,2,1,0,0,4,2012 NYE Run,2012 NYE,Rift,Rift,1,Madison Square Garden,New York,NY,USA,>
+2012-12-31,2012,0,4,2,1,0,0,4,2012 NYE Run,2012 NYE,Rift,,1,Madison Square Garden,New York,NY,USA,>
 2012-12-31,2012,0,5,1,1,0,0,4,2012 NYE Run,2012 NYE,Sample in a Jar,Sample,1,Madison Square Garden,New York,NY,USA,","
-2012-12-31,2012,0,6,1,1,0,0,6,2012 NYE Run,2012 NYE,Alaska,Alaska,0,Madison Square Garden,New York,NY,USA,","
+2012-12-31,2012,0,6,1,1,0,0,6,2012 NYE Run,2012 NYE,Alaska,,0,Madison Square Garden,New York,NY,USA,","
 2012-12-31,2012,0,7,2,1,0,0,5,2012 NYE Run,2012 NYE,Mike's Song,Mike's,1,Madison Square Garden,New York,NY,USA,>
-2012-12-31,2012,0,8,1,1,0,0,8,2012 NYE Run,2012 NYE,Walk Away,Walk Away,0,Madison Square Garden,New York,NY,USA,","
+2012-12-31,2012,0,8,1,1,0,0,8,2012 NYE Run,2012 NYE,Walk Away,,0,Madison Square Garden,New York,NY,USA,","
 2012-12-31,2012,0,9,1,1,0,0,5,2012 NYE Run,2012 NYE,Weekapaug Groove,Weekapaug,1,Madison Square Garden,New York,NY,USA,","
-2012-12-31,2012,0,10,4,1,0,0,4,2012 NYE Run,2012 NYE,Character Zero,Character Zero,1,Madison Square Garden,New York,NY,USA,
+2012-12-31,2012,0,10,4,1,0,0,4,2012 NYE Run,2012 NYE,Character Zero,,1,Madison Square Garden,New York,NY,USA,
 2012-12-31,2012,0,11,1,2,0,0,7,2012 NYE Run,2012 NYE,Birds of a Feather,BOAF,1,Madison Square Garden,New York,NY,USA,","
-2012-12-31,2012,0,12,2,2,0,0,4,2012 NYE Run,2012 NYE,Ghost,Ghost,1,Madison Square Garden,New York,NY,USA,>
-2012-12-31,2012,0,13,2,2,0,0,4,2012 NYE Run,2012 NYE,Piper,Piper,1,Madison Square Garden,New York,NY,USA,>
-2012-12-31,2012,0,14,2,2,0,0,5,2012 NYE Run,2012 NYE,Light,Light,0,Madison Square Garden,New York,NY,USA,>
+2012-12-31,2012,0,12,2,2,0,0,4,2012 NYE Run,2012 NYE,Ghost,,1,Madison Square Garden,New York,NY,USA,>
+2012-12-31,2012,0,13,2,2,0,0,4,2012 NYE Run,2012 NYE,Piper,,1,Madison Square Garden,New York,NY,USA,>
+2012-12-31,2012,0,14,2,2,0,0,5,2012 NYE Run,2012 NYE,Light,,0,Madison Square Garden,New York,NY,USA,>
 2012-12-31,2012,0,15,2,2,0,0,8,2012 NYE Run,2012 NYE,Also Sprach Zarathustra,2001,0,Madison Square Garden,New York,NY,USA,>
 2012-12-31,2012,0,16,2,2,0,0,5,2012 NYE Run,2012 NYE,The Horse,Horse,1,Madison Square Garden,New York,NY,USA,>
 2012-12-31,2012,0,17,1,2,0,0,5,2012 NYE Run,2012 NYE,Silent in the Morning,Silent,1,Madison Square Garden,New York,NY,USA,","
 2012-12-31,2012,0,18,4,2,0,0,6,2012 NYE Run,2012 NYE,You Enjoy Myself,YEM,1,Madison Square Garden,New York,NY,USA,
-2012-12-31,2012,0,19,1,3,0,0,13,2012 NYE Run,2012 NYE,Party Time,Party Time,1,Madison Square Garden,New York,NY,USA,","
-2012-12-31,2012,0,20,2,3,0,0,17,2012 NYE Run,2012 NYE,Kung,Kung,1,Madison Square Garden,New York,NY,USA,>
+2012-12-31,2012,0,19,1,3,0,0,13,2012 NYE Run,2012 NYE,Party Time,,1,Madison Square Garden,New York,NY,USA,","
+2012-12-31,2012,0,20,2,3,0,0,17,2012 NYE Run,2012 NYE,Kung,,1,Madison Square Garden,New York,NY,USA,>
 2012-12-31,2012,0,21,2,3,0,0,6,2012 NYE Run,2012 NYE,Chalk Dust Torture,CDT,1,Madison Square Garden,New York,NY,USA,>
-2012-12-31,2012,0,22,2,3,0,0,37,2012 NYE Run,2012 NYE,Auld Lang Syne,Auld Lang Syne,0,Madison Square Garden,New York,NY,USA,>
+2012-12-31,2012,0,22,2,3,0,0,37,2012 NYE Run,2012 NYE,Auld Lang Syne,,0,Madison Square Garden,New York,NY,USA,>
 2012-12-31,2012,0,23,2,3,0,0,5,2012 NYE Run,2012 NYE,Tweezer Reprise,Tweeprise,1,Madison Square Garden,New York,NY,USA,>
-2012-12-31,2012,0,24,2,3,0,0,4,2012 NYE Run,2012 NYE,Sand,Sand,0,Madison Square Garden,New York,NY,USA,>
+2012-12-31,2012,0,24,2,3,0,0,4,2012 NYE Run,2012 NYE,Sand,,0,Madison Square Garden,New York,NY,USA,>
 2012-12-31,2012,0,25,2,3,0,0,5,2012 NYE Run,2012 NYE,The Wedge,Wedge,1,Madison Square Garden,New York,NY,USA,>
-2012-12-31,2012,0,26,2,3,0,0,1593,2012 NYE Run,2012 NYE,Fly Like an Eagle,Fly Like an Eagle,0,Madison Square Garden,New York,NY,USA,>
-2012-12-31,2012,0,27,1,3,0,0,7,2012 NYE Run,2012 NYE,Wilson,Wilson,1,Madison Square Garden,New York,NY,USA,","
-2012-12-31,2012,0,28,5,3,0,0,11,2012 NYE Run,2012 NYE,Lawn Boy,Lawn Boy,1,Madison Square Garden,New York,NY,USA,
-2012-12-31,2012,0,29,1,e,0,0,17,2012 NYE Run,2012 NYE,Driver,Driver,1,Madison Square Garden,New York,NY,USA,","
-2012-12-31,2012,0,30,6,e,0,0,192,2012 NYE Run,2012 NYE,Iron Man,Iron Man,0,Madison Square Garden,New York,NY,USA,
+2012-12-31,2012,0,26,2,3,0,0,1593,2012 NYE Run,2012 NYE,Fly Like an Eagle,,0,Madison Square Garden,New York,NY,USA,>
+2012-12-31,2012,0,27,1,3,0,0,7,2012 NYE Run,2012 NYE,Wilson,,1,Madison Square Garden,New York,NY,USA,","
+2012-12-31,2012,0,28,5,3,0,0,11,2012 NYE Run,2012 NYE,Lawn Boy,,1,Madison Square Garden,New York,NY,USA,
+2012-12-31,2012,0,29,1,e,0,0,17,2012 NYE Run,2012 NYE,Driver,,1,Madison Square Garden,New York,NY,USA,","
+2012-12-31,2012,0,30,6,e,0,0,192,2012 NYE Run,2012 NYE,Iron Man,,0,Madison Square Garden,New York,NY,USA,

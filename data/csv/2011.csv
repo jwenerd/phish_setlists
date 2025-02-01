@@ -1,216 +1,216 @@
 showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,tourwhen,song,nickname,is_original,venue,city,state,country,trans_mark
-2011-01-01,2011,0,1,1,1,0,0,7,2010/2011 NYE Run,2010-2011 NYE,My Soul,My Soul,0,Madison Square Garden,New York,NY,USA,","
-2011-01-01,2011,0,2,2,1,0,0,6,2010/2011 NYE Run,2010-2011 NYE,Tube,Tube,1,Madison Square Garden,New York,NY,USA,>
-2011-01-01,2011,0,3,2,1,0,0,17,2010/2011 NYE Run,2010-2011 NYE,Runaway Jim,Runaway Jim,1,Madison Square Garden,New York,NY,USA,>
-2011-01-01,2011,0,4,1,1,0,0,6,2010/2011 NYE Run,2010-2011 NYE,Foam,Foam,1,Madison Square Garden,New York,NY,USA,","
+2011-01-01,2011,0,1,1,1,0,0,7,2010/2011 NYE Run,2010-2011 NYE,My Soul,,0,Madison Square Garden,New York,NY,USA,","
+2011-01-01,2011,0,2,2,1,0,0,6,2010/2011 NYE Run,2010-2011 NYE,Tube,,1,Madison Square Garden,New York,NY,USA,>
+2011-01-01,2011,0,3,2,1,0,0,17,2010/2011 NYE Run,2010-2011 NYE,Runaway Jim,,1,Madison Square Garden,New York,NY,USA,>
+2011-01-01,2011,0,4,1,1,0,0,6,2010/2011 NYE Run,2010-2011 NYE,Foam,,1,Madison Square Garden,New York,NY,USA,","
 2011-01-01,2011,0,5,2,1,0,0,6,2010/2011 NYE Run,2010-2011 NYE,Guelah Papyrus,Guelah,1,Madison Square Garden,New York,NY,USA,>
 2011-01-01,2011,0,6,1,1,0,0,5,2010/2011 NYE Run,2010-2011 NYE,Divided Sky,Divided,1,Madison Square Garden,New York,NY,USA,","
-2011-01-01,2011,0,7,2,1,0,0,140,2010/2011 NYE Run,2010-2011 NYE,Round Room,Round Room,1,Madison Square Garden,New York,NY,USA,>
-2011-01-01,2011,0,8,2,1,0,0,6,2010/2011 NYE Run,2010-2011 NYE,Walk Away,Walk Away,0,Madison Square Garden,New York,NY,USA,>
+2011-01-01,2011,0,7,2,1,0,0,140,2010/2011 NYE Run,2010-2011 NYE,Round Room,,1,Madison Square Garden,New York,NY,USA,>
+2011-01-01,2011,0,8,2,1,0,0,6,2010/2011 NYE Run,2010-2011 NYE,Walk Away,,0,Madison Square Garden,New York,NY,USA,>
 2011-01-01,2011,0,9,2,1,0,0,5,2010/2011 NYE Run,2010-2011 NYE,Gotta Jibboo,Jibboo,0,Madison Square Garden,New York,NY,USA,>
-2011-01-01,2011,0,10,1,1,0,0,13,2010/2011 NYE Run,2010-2011 NYE,Reba,Reba,1,Madison Square Garden,New York,NY,USA,","
+2011-01-01,2011,0,10,1,1,0,0,13,2010/2011 NYE Run,2010-2011 NYE,Reba,,1,Madison Square Garden,New York,NY,USA,","
 2011-01-01,2011,0,11,4,1,0,0,8,2010/2011 NYE Run,2010-2011 NYE,Walls of the Cave,WotC,1,Madison Square Garden,New York,NY,USA,
 2011-01-01,2011,0,12,2,2,0,0,14,2010/2011 NYE Run,2010-2011 NYE,Crosseyed and Painless,C&amp;P,0,Madison Square Garden,New York,NY,USA,>
-2011-01-01,2011,0,13,2,2,0,0,15,2010/2011 NYE Run,2010-2011 NYE,Twist,Twist,1,Madison Square Garden,New York,NY,USA,>
-2011-01-01,2011,0,14,1,2,0,0,8,2010/2011 NYE Run,2010-2011 NYE,Simple,Simple,1,Madison Square Garden,New York,NY,USA,","
+2011-01-01,2011,0,13,2,2,0,0,15,2010/2011 NYE Run,2010-2011 NYE,Twist,,1,Madison Square Garden,New York,NY,USA,>
+2011-01-01,2011,0,14,1,2,0,0,8,2010/2011 NYE Run,2010-2011 NYE,Simple,,1,Madison Square Garden,New York,NY,USA,","
 2011-01-01,2011,0,15,2,2,0,0,14,2010/2011 NYE Run,2010-2011 NYE,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Madison Square Garden,New York,NY,USA,>
 2011-01-01,2011,0,16,3,2,0,0,8,2010/2011 NYE Run,2010-2011 NYE,Makisupa Policeman,Makisupa,1,Madison Square Garden,New York,NY,USA,->
 2011-01-01,2011,0,17,5,2,0,0,4,2010/2011 NYE Run,2010-2011 NYE,David Bowie,Bowie,1,Madison Square Garden,New York,NY,USA,
-2011-01-01,2011,0,18,1,e,0,0,9,2010/2011 NYE Run,2010-2011 NYE,Fee,Fee,1,Madison Square Garden,New York,NY,USA,","
-2011-01-01,2011,0,19,6,e,0,0,5,2010/2011 NYE Run,2010-2011 NYE,Frankenstein,Frankenstein,0,Madison Square Garden,New York,NY,USA,
-2011-05-26,2011,1,1,6,1,2,0,0,Not Part of a Tour,No Tour,Waves,Waves,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
-2011-05-27,2011,0,1,2,1,0,0,3,2011 Early Summer Tour,2011 Summer,Tweezer,Tweezer,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2011-01-01,2011,0,18,1,e,0,0,9,2010/2011 NYE Run,2010-2011 NYE,Fee,,1,Madison Square Garden,New York,NY,USA,","
+2011-01-01,2011,0,19,6,e,0,0,5,2010/2011 NYE Run,2010-2011 NYE,Frankenstein,,0,Madison Square Garden,New York,NY,USA,
+2011-05-26,2011,1,1,6,1,2,0,0,Not Part of a Tour,No Tour,Waves,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
+2011-05-27,2011,0,1,2,1,0,0,3,2011 Early Summer Tour,2011 Summer,Tweezer,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2011-05-27,2011,0,2,1,1,0,0,3,2011 Early Summer Tour,2011 Summer,"My Friend, My Friend",My Friend,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2011-05-27,2011,0,3,1,1,0,0,21,2011 Early Summer Tour,2011 Summer,Poor Heart,Poor Heart,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2011-05-27,2011,0,3,1,1,0,0,21,2011 Early Summer Tour,2011 Summer,Poor Heart,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
 2011-05-27,2011,0,4,2,1,0,0,5,2011 Early Summer Tour,2011 Summer,Roses Are Free,Roses,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2011-05-27,2011,0,5,1,1,0,0,5,2011 Early Summer Tour,2011 Summer,Funky Bitch,Funky Bitch,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2011-05-27,2011,0,5,1,1,0,0,5,2011 Early Summer Tour,2011 Summer,Funky Bitch,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
 2011-05-27,2011,0,6,3,1,0,0,4,2011 Early Summer Tour,2011 Summer,Wolfman's Brother,Wolfman's,1,Bethel Woods Center for the Arts,Bethel,NY,USA,->
-2011-05-27,2011,0,7,1,1,0,0,1,2011 Early Summer Tour,2011 Summer,Walk Away,Walk Away,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2011-05-27,2011,0,8,1,1,0,0,4,2011 Early Summer Tour,2011 Summer,Stash,Stash,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2011-05-27,2011,0,7,1,1,0,0,1,2011 Early Summer Tour,2011 Summer,Walk Away,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2011-05-27,2011,0,8,1,1,0,0,4,2011 Early Summer Tour,2011 Summer,Stash,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
 2011-05-27,2011,0,9,1,1,0,0,4,2011 Early Summer Tour,2011 Summer,Bouncing Around the Room,Bouncin',1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
 2011-05-27,2011,0,10,1,1,0,0,4,2011 Early Summer Tour,2011 Summer,Kill Devil Falls,KDF,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2011-05-27,2011,0,11,4,1,0,0,47,2011 Early Summer Tour,2011 Summer,Bold As Love,Bold As Love,0,Bethel Woods Center for the Arts,Bethel,NY,USA,
-2011-05-27,2011,0,12,2,2,0,0,4,2011 Early Summer Tour,2011 Summer,Carini,Carini,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2011-05-27,2011,0,11,4,1,0,0,47,2011 Early Summer Tour,2011 Summer,Bold As Love,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,
+2011-05-27,2011,0,12,2,2,0,0,4,2011 Early Summer Tour,2011 Summer,Carini,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2011-05-27,2011,0,13,2,2,0,0,4,2011 Early Summer Tour,2011 Summer,Back on the Train,BOTT,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2011-05-27,2011,0,14,2,2,0,0,3,2011 Early Summer Tour,2011 Summer,Boogie On Reggae Woman,Boogie On,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2011-05-27,2011,0,15,2,2,0,0,78,2011 Early Summer Tour,2011 Summer,Waves,Waves,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2011-05-27,2011,0,15,2,2,0,0,78,2011 Early Summer Tour,2011 Summer,Waves,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2011-05-27,2011,0,16,2,2,0,0,8,2011 Early Summer Tour,2011 Summer,Prince Caspian,Caspian,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2011-05-27,2011,0,17,2,2,0,0,1,2011 Early Summer Tour,2011 Summer,Crosseyed and Painless,C&amp;P,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2011-05-27,2011,0,18,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Wading in the Velvet Sea,Velvet Sea,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2011-05-27,2011,0,19,1,2,0,0,5,2011 Early Summer Tour,2011 Summer,Possum,Possum,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2011-05-27,2011,0,19,1,2,0,0,5,2011 Early Summer Tour,2011 Summer,Possum,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
 2011-05-27,2011,0,20,5,2,0,0,7,2011 Early Summer Tour,2011 Summer,The Squirming Coil,Coil,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
-2011-05-27,2011,0,21,6,e,0,0,5,2011 Early Summer Tour,2011 Summer,Julius,Julius,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
+2011-05-27,2011,0,21,6,e,0,0,5,2011 Early Summer Tour,2011 Summer,Julius,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
 2011-05-28,2011,0,1,1,1,0,0,4,2011 Early Summer Tour,2011 Summer,Theme From the Bottom,Theme,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2011-05-28,2011,0,2,1,1,0,0,3,2011 Early Summer Tour,2011 Summer,NICU,NICU,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2011-05-28,2011,0,3,1,1,0,0,4,2011 Early Summer Tour,2011 Summer,Cities,Cities,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2011-05-28,2011,0,2,1,1,0,0,3,2011 Early Summer Tour,2011 Summer,NICU,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2011-05-28,2011,0,3,1,1,0,0,4,2011 Early Summer Tour,2011 Summer,Cities,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
 2011-05-28,2011,0,4,2,1,0,0,4,2011 Early Summer Tour,2011 Summer,Halley's Comet,Halley's,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2011-05-28,2011,0,5,1,1,0,0,2,2011 Early Summer Tour,2011 Summer,Runaway Jim,Runaway Jim,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2011-05-28,2011,0,6,2,1,0,0,4,2011 Early Summer Tour,2011 Summer,Gumbo,Gumbo,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2011-05-28,2011,0,5,1,1,0,0,2,2011 Early Summer Tour,2011 Summer,Runaway Jim,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2011-05-28,2011,0,6,2,1,0,0,4,2011 Early Summer Tour,2011 Summer,Gumbo,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2011-05-28,2011,0,7,2,1,0,0,4,2011 Early Summer Tour,2011 Summer,Quinn the Eskimo (The Mighty Quinn),Quinn,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2011-05-28,2011,0,8,1,1,0,0,5,2011 Early Summer Tour,2011 Summer,Limb By Limb,LxL,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2011-05-28,2011,0,9,1,1,0,0,20,2011 Early Summer Tour,2011 Summer,Horn,Horn,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2011-05-28,2011,0,9,1,1,0,0,20,2011 Early Summer Tour,2011 Summer,Horn,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
 2011-05-28,2011,0,10,3,1,0,0,4,2011 Early Summer Tour,2011 Summer,Bathtub Gin,Gin,1,Bethel Woods Center for the Arts,Bethel,NY,USA,->
-2011-05-28,2011,0,11,2,1,0,0,3,2011 Early Summer Tour,2011 Summer,Manteca,Manteca,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2011-05-28,2011,0,11,2,1,0,0,3,2011 Early Summer Tour,2011 Summer,Manteca,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2011-05-28,2011,0,12,4,1,0,0,0,2011 Early Summer Tour,2011 Summer,Bathtub Gin,Gin,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
 2011-05-28,2011,0,13,2,2,0,0,3,2011 Early Summer Tour,2011 Summer,Down with Disease,DwD,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2011-05-28,2011,0,14,2,2,0,0,3,2011 Early Summer Tour,2011 Summer,Free,Free,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2011-05-28,2011,0,14,2,2,0,0,3,2011 Early Summer Tour,2011 Summer,Free,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2011-05-28,2011,0,15,2,2,0,0,3,2011 Early Summer Tour,2011 Summer,Backwards Down the Number Line,BDTNL,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2011-05-28,2011,0,16,2,2,0,0,2,2011 Early Summer Tour,2011 Summer,Makisupa Policeman,Makisupa,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2011-05-28,2011,0,17,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Harry Hood,Hood,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2011-05-28,2011,0,18,2,2,0,0,6,2011 Early Summer Tour,2011 Summer,Cavern,Cavern,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2011-05-28,2011,0,18,2,2,0,0,6,2011 Early Summer Tour,2011 Summer,Cavern,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2011-05-28,2011,0,19,5,2,0,0,2,2011 Early Summer Tour,2011 Summer,David Bowie,Bowie,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
 2011-05-28,2011,0,20,6,e,0,0,15,2011 Early Summer Tour,2011 Summer,A Day in the Life,ADITL,0,Bethel Woods Center for the Arts,Bethel,NY,USA,
 2011-05-29,2011,0,1,2,1,0,0,4,2011 Early Summer Tour,2011 Summer,AC/DC Bag,Bag,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2011-05-29,2011,0,2,1,1,0,0,7,2011 Early Summer Tour,2011 Summer,Sample in a Jar,Sample,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2011-05-29,2011,0,3,1,1,0,0,6,2011 Early Summer Tour,2011 Summer,Rift,Rift,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2011-05-29,2011,0,4,1,1,0,0,4,2011 Early Summer Tour,2011 Summer,Ocelot,Ocelot,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2011-05-29,2011,0,5,1,1,0,0,29,2011 Early Summer Tour,2011 Summer,Ya Mar,Ya Mar,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2011-05-29,2011,0,3,1,1,0,0,6,2011 Early Summer Tour,2011 Summer,Rift,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2011-05-29,2011,0,4,1,1,0,0,4,2011 Early Summer Tour,2011 Summer,Ocelot,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2011-05-29,2011,0,5,1,1,0,0,29,2011 Early Summer Tour,2011 Summer,Ya Mar,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
 2011-05-29,2011,0,6,2,1,0,0,5,2011 Early Summer Tour,2011 Summer,Timber (Jerry the Mule),Timber Ho,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2011-05-29,2011,0,7,2,1,0,0,26,2011 Early Summer Tour,2011 Summer,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2011-05-29,2011,0,8,2,1,0,0,5,2011 Early Summer Tour,2011 Summer,Suzy Greenberg,Suzy,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2011-05-29,2011,0,9,2,1,0,0,4,2011 Early Summer Tour,2011 Summer,46 Days,46 Days,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2011-05-29,2011,0,10,1,1,0,0,7,2011 Early Summer Tour,2011 Summer,Twenty Years Later,Twenty Years Later,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2011-05-29,2011,0,9,2,1,0,0,4,2011 Early Summer Tour,2011 Summer,46 Days,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2011-05-29,2011,0,10,1,1,0,0,7,2011 Early Summer Tour,2011 Summer,Twenty Years Later,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
 2011-05-29,2011,0,11,1,1,0,0,27,2011 Early Summer Tour,2011 Summer,The Ballad of Curtis Loew,Curtis Loew,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
 2011-05-29,2011,0,12,4,1,0,0,5,2011 Early Summer Tour,2011 Summer,Run Like an Antelope,Antelope,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
 2011-05-29,2011,0,13,2,2,0,0,7,2011 Early Summer Tour,2011 Summer,Mike's Song,Mike's,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2011-05-29,2011,0,14,3,2,0,0,3,2011 Early Summer Tour,2011 Summer,Simple,Simple,1,Bethel Woods Center for the Arts,Bethel,NY,USA,->
+2011-05-29,2011,0,14,3,2,0,0,3,2011 Early Summer Tour,2011 Summer,Simple,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,->
 2011-05-29,2011,0,15,1,2,0,0,7,2011 Early Summer Tour,2011 Summer,Weekapaug Groove,Weekapaug,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2011-05-29,2011,0,16,2,2,0,0,4,2011 Early Summer Tour,2011 Summer,Meatstick,Meatstick,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2011-05-29,2011,0,17,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Fluffhead,Fluffhead,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2011-05-29,2011,0,18,1,2,0,0,18,2011 Early Summer Tour,2011 Summer,Joy,Joy,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2011-05-29,2011,0,16,2,2,0,0,4,2011 Early Summer Tour,2011 Summer,Meatstick,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2011-05-29,2011,0,17,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Fluffhead,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2011-05-29,2011,0,18,1,2,0,0,18,2011 Early Summer Tour,2011 Summer,Joy,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
 2011-05-29,2011,0,19,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Also Sprach Zarathustra,2001,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2011-05-29,2011,0,20,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Light,Light,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2011-05-29,2011,0,20,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Light,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2011-05-29,2011,0,21,5,2,0,0,4,2011 Early Summer Tour,2011 Summer,Slave to the Traffic Light,Slave,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
-2011-05-29,2011,0,22,2,e,0,0,7,2011 Early Summer Tour,2011 Summer,Loving Cup,Loving Cup,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2011-05-29,2011,0,22,2,e,0,0,7,2011 Early Summer Tour,2011 Summer,Loving Cup,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2011-05-29,2011,0,23,6,e,0,0,5,2011 Early Summer Tour,2011 Summer,Tweezer Reprise,Tweeprise,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
 2011-05-31,2011,0,1,1,1,0,0,6,2011 Early Summer Tour,2011 Summer,Chalk Dust Torture,CDT,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
-2011-05-31,2011,0,2,2,1,0,0,8,2011 Early Summer Tour,2011 Summer,Roggae,Roggae,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
+2011-05-31,2011,0,2,2,1,0,0,8,2011 Early Summer Tour,2011 Summer,Roggae,,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
 2011-05-31,2011,0,3,1,1,0,0,5,2011 Early Summer Tour,2011 Summer,Punch You in the Eye,PYITE,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
 2011-05-31,2011,0,4,2,1,0,0,5,2011 Early Summer Tour,2011 Summer,The Moma Dance,Moma,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
 2011-05-31,2011,0,5,1,1,0,0,5,2011 Early Summer Tour,2011 Summer,Rock and Roll,R&amp;R,0,PNC Bank Arts Center,Holmdel,NJ,USA,","
-2011-05-31,2011,0,6,1,1,0,0,5,2011 Early Summer Tour,2011 Summer,Sand,Sand,0,PNC Bank Arts Center,Holmdel,NJ,USA,","
-2011-05-31,2011,0,7,2,1,0,0,4,2011 Early Summer Tour,2011 Summer,Tube,Tube,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
+2011-05-31,2011,0,6,1,1,0,0,5,2011 Early Summer Tour,2011 Summer,Sand,,0,PNC Bank Arts Center,Holmdel,NJ,USA,","
+2011-05-31,2011,0,7,2,1,0,0,4,2011 Early Summer Tour,2011 Summer,Tube,,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
 2011-05-31,2011,0,8,1,1,0,0,4,2011 Early Summer Tour,2011 Summer,Divided Sky,Divided,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
-2011-05-31,2011,0,9,4,1,0,0,6,2011 Early Summer Tour,2011 Summer,Character Zero,Character Zero,1,PNC Bank Arts Center,Holmdel,NJ,USA,
-2011-05-31,2011,0,10,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,After Midnight,After Midnight,0,PNC Bank Arts Center,Holmdel,NJ,USA,>
-2011-05-31,2011,0,11,1,2,0,0,3,2011 Early Summer Tour,2011 Summer,Possum,Possum,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
-2011-05-31,2011,0,12,2,2,0,0,16,2011 Early Summer Tour,2011 Summer,Drowned,Drowned,0,PNC Bank Arts Center,Holmdel,NJ,USA,>
-2011-05-31,2011,0,13,1,2,0,0,6,2011 Early Summer Tour,2011 Summer,Maze,Maze,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
-2011-05-31,2011,0,14,1,2,0,0,18,2011 Early Summer Tour,2011 Summer,Dirt,Dirt,0,PNC Bank Arts Center,Holmdel,NJ,USA,","
-2011-05-31,2011,0,15,1,2,0,0,7,2011 Early Summer Tour,2011 Summer,Alaska,Alaska,0,PNC Bank Arts Center,Holmdel,NJ,USA,","
+2011-05-31,2011,0,9,4,1,0,0,6,2011 Early Summer Tour,2011 Summer,Character Zero,,1,PNC Bank Arts Center,Holmdel,NJ,USA,
+2011-05-31,2011,0,10,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,After Midnight,,0,PNC Bank Arts Center,Holmdel,NJ,USA,>
+2011-05-31,2011,0,11,1,2,0,0,3,2011 Early Summer Tour,2011 Summer,Possum,,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
+2011-05-31,2011,0,12,2,2,0,0,16,2011 Early Summer Tour,2011 Summer,Drowned,,0,PNC Bank Arts Center,Holmdel,NJ,USA,>
+2011-05-31,2011,0,13,1,2,0,0,6,2011 Early Summer Tour,2011 Summer,Maze,,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
+2011-05-31,2011,0,14,1,2,0,0,18,2011 Early Summer Tour,2011 Summer,Dirt,,0,PNC Bank Arts Center,Holmdel,NJ,USA,","
+2011-05-31,2011,0,15,1,2,0,0,7,2011 Early Summer Tour,2011 Summer,Alaska,,0,PNC Bank Arts Center,Holmdel,NJ,USA,","
 2011-05-31,2011,0,16,5,2,0,0,5,2011 Early Summer Tour,2011 Summer,You Enjoy Myself,YEM,1,PNC Bank Arts Center,Holmdel,NJ,USA,
-2011-05-31,2011,0,17,6,e,0,0,29,2011 Early Summer Tour,2011 Summer,Fire,Fire,0,PNC Bank Arts Center,Holmdel,NJ,USA,
-2011-06-01,2011,0,1,1,1,0,0,6,2011 Early Summer Tour,2011 Summer,First Tube,First Tube,0,PNC Bank Arts Center,Holmdel,NJ,USA,","
+2011-05-31,2011,0,17,6,e,0,0,29,2011 Early Summer Tour,2011 Summer,Fire,,0,PNC Bank Arts Center,Holmdel,NJ,USA,
+2011-06-01,2011,0,1,1,1,0,0,6,2011 Early Summer Tour,2011 Summer,First Tube,,0,PNC Bank Arts Center,Holmdel,NJ,USA,","
 2011-06-01,2011,0,2,1,1,0,0,8,2011 Early Summer Tour,2011 Summer,Stealing Time From the Faulty Plan,STFTFP,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
-2011-06-01,2011,0,3,1,1,0,0,7,2011 Early Summer Tour,2011 Summer,Camel Walk,Camel Walk,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
-2011-06-01,2011,0,4,1,1,0,0,9,2011 Early Summer Tour,2011 Summer,Heavy Things,Heavy Things,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
+2011-06-01,2011,0,3,1,1,0,0,7,2011 Early Summer Tour,2011 Summer,Camel Walk,,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
+2011-06-01,2011,0,4,1,1,0,0,9,2011 Early Summer Tour,2011 Summer,Heavy Things,,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
 2011-06-01,2011,0,5,1,1,0,0,5,2011 Early Summer Tour,2011 Summer,Gotta Jibboo,Jibboo,0,PNC Bank Arts Center,Holmdel,NJ,USA,","
-2011-06-01,2011,0,6,2,1,0,0,6,2011 Early Summer Tour,2011 Summer,Wilson,Wilson,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
-2011-06-01,2011,0,7,2,1,0,0,9,2011 Early Summer Tour,2011 Summer,Seven Below,Seven Below,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
+2011-06-01,2011,0,6,2,1,0,0,6,2011 Early Summer Tour,2011 Summer,Wilson,,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
+2011-06-01,2011,0,7,2,1,0,0,9,2011 Early Summer Tour,2011 Summer,Seven Below,,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
 2011-06-01,2011,0,8,1,1,0,0,4,2011 Early Summer Tour,2011 Summer,Kill Devil Falls,KDF,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
-2011-06-01,2011,0,9,2,1,0,0,7,2011 Early Summer Tour,2011 Summer,Axilla,Axilla,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
+2011-06-01,2011,0,9,2,1,0,0,7,2011 Early Summer Tour,2011 Summer,Axilla,,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
 2011-06-01,2011,0,10,1,1,0,0,17,2011 Early Summer Tour,2011 Summer,Split Open and Melt,SOAMelt,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
 2011-06-01,2011,0,11,4,1,0,0,2,2011 Early Summer Tour,2011 Summer,Suzy Greenberg,Suzy,1,PNC Bank Arts Center,Holmdel,NJ,USA,
-2011-06-01,2011,0,12,2,2,0,0,4,2011 Early Summer Tour,2011 Summer,Tweezer,Tweezer,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
-2011-06-01,2011,0,13,1,2,0,0,1523,2011 Early Summer Tour,2011 Summer,No Quarter,No Quarter,0,PNC Bank Arts Center,Holmdel,NJ,USA,","
-2011-06-01,2011,0,14,2,2,0,0,4,2011 Early Summer Tour,2011 Summer,Carini,Carini,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
-2011-06-01,2011,0,15,2,2,0,0,6,2011 Early Summer Tour,2011 Summer,Piper,Piper,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
-2011-06-01,2011,0,16,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Twist,Twist,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
-2011-06-01,2011,0,17,2,2,0,0,6,2011 Early Summer Tour,2011 Summer,Ghost,Ghost,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
+2011-06-01,2011,0,12,2,2,0,0,4,2011 Early Summer Tour,2011 Summer,Tweezer,,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
+2011-06-01,2011,0,13,1,2,0,0,1523,2011 Early Summer Tour,2011 Summer,No Quarter,,0,PNC Bank Arts Center,Holmdel,NJ,USA,","
+2011-06-01,2011,0,14,2,2,0,0,4,2011 Early Summer Tour,2011 Summer,Carini,,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
+2011-06-01,2011,0,15,2,2,0,0,6,2011 Early Summer Tour,2011 Summer,Piper,,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
+2011-06-01,2011,0,16,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Twist,,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
+2011-06-01,2011,0,17,2,2,0,0,6,2011 Early Summer Tour,2011 Summer,Ghost,,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
 2011-06-01,2011,0,18,5,2,0,0,3,2011 Early Summer Tour,2011 Summer,Backwards Down the Number Line,BDTNL,0,PNC Bank Arts Center,Holmdel,NJ,USA,
-2011-06-01,2011,0,19,2,e,0,0,11,2011 Early Summer Tour,2011 Summer,Show of Life,Show of Life,0,PNC Bank Arts Center,Holmdel,NJ,USA,>
+2011-06-01,2011,0,19,2,e,0,0,11,2011 Early Summer Tour,2011 Summer,Show of Life,,0,PNC Bank Arts Center,Holmdel,NJ,USA,>
 2011-06-01,2011,0,20,6,e,0,0,2,2011 Early Summer Tour,2011 Summer,Tweezer Reprise,Tweeprise,1,PNC Bank Arts Center,Holmdel,NJ,USA,
 2011-06-03,2011,0,1,1,1,0,0,5,2011 Early Summer Tour,2011 Summer,Wolfman's Brother,Wolfman's,1,DTE Energy Music Theatre,Clarkston,MI,USA,","
-2011-06-03,2011,0,2,1,1,0,0,5,2011 Early Summer Tour,2011 Summer,Funky Bitch,Funky Bitch,0,DTE Energy Music Theatre,Clarkston,MI,USA,","
+2011-06-03,2011,0,2,1,1,0,0,5,2011 Early Summer Tour,2011 Summer,Funky Bitch,,0,DTE Energy Music Theatre,Clarkston,MI,USA,","
 2011-06-03,2011,0,3,1,1,0,0,3,2011 Early Summer Tour,2011 Summer,Sample in a Jar,Sample,1,DTE Energy Music Theatre,Clarkston,MI,USA,","
-2011-06-03,2011,0,4,1,1,0,0,4,2011 Early Summer Tour,2011 Summer,NICU,NICU,1,DTE Energy Music Theatre,Clarkston,MI,USA,","
+2011-06-03,2011,0,4,1,1,0,0,4,2011 Early Summer Tour,2011 Summer,NICU,,1,DTE Energy Music Theatre,Clarkston,MI,USA,","
 2011-06-03,2011,0,5,2,1,0,0,3,2011 Early Summer Tour,2011 Summer,Mike's Song,Mike's,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
 2011-06-03,2011,0,6,2,1,0,0,32,2011 Early Summer Tour,2011 Summer,I Am Hydrogen,Hydrogen,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
 2011-06-03,2011,0,7,1,1,0,0,3,2011 Early Summer Tour,2011 Summer,Weekapaug Groove,Weekapaug,1,DTE Energy Music Theatre,Clarkston,MI,USA,","
-2011-06-03,2011,0,8,2,1,0,0,18,2011 Early Summer Tour,2011 Summer,Tela,Tela,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
+2011-06-03,2011,0,8,2,1,0,0,18,2011 Early Summer Tour,2011 Summer,Tela,,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
 2011-06-03,2011,0,9,1,1,0,0,2,2011 Early Summer Tour,2011 Summer,Chalk Dust Torture,CDT,1,DTE Energy Music Theatre,Clarkston,MI,USA,","
 2011-06-03,2011,0,10,4,1,0,0,9,2011 Early Summer Tour,2011 Summer,The Wedge,Wedge,1,DTE Energy Music Theatre,Clarkston,MI,USA,
 2011-06-03,2011,0,11,3,2,0,0,4,2011 Early Summer Tour,2011 Summer,Down with Disease,DwD,1,DTE Energy Music Theatre,Clarkston,MI,USA,->
-2011-06-03,2011,0,12,2,2,0,0,3,2011 Early Summer Tour,2011 Summer,Fluffhead,Fluffhead,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
+2011-06-03,2011,0,12,2,2,0,0,3,2011 Early Summer Tour,2011 Summer,Fluffhead,,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
 2011-06-03,2011,0,13,1,2,0,0,4,2011 Early Summer Tour,2011 Summer,David Bowie,Bowie,1,DTE Energy Music Theatre,Clarkston,MI,USA,","
-2011-06-03,2011,0,14,2,2,0,0,7,2011 Early Summer Tour,2011 Summer,Waste,Waste,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
+2011-06-03,2011,0,14,2,2,0,0,7,2011 Early Summer Tour,2011 Summer,Waste,,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
 2011-06-03,2011,0,15,2,2,0,0,3,2011 Early Summer Tour,2011 Summer,Also Sprach Zarathustra,2001,0,DTE Energy Music Theatre,Clarkston,MI,USA,>
-2011-06-03,2011,0,16,5,2,0,0,4,2011 Early Summer Tour,2011 Summer,Cavern,Cavern,1,DTE Energy Music Theatre,Clarkston,MI,USA,
+2011-06-03,2011,0,16,5,2,0,0,4,2011 Early Summer Tour,2011 Summer,Cavern,,1,DTE Energy Music Theatre,Clarkston,MI,USA,
 2011-06-03,2011,0,17,6,e,0,0,12,2011 Early Summer Tour,2011 Summer,Good Times Bad Times,GTBT,0,DTE Energy Music Theatre,Clarkston,MI,USA,
 2011-06-04,2011,0,1,1,1,0,0,2,2011 Early Summer Tour,2011 Summer,Kill Devil Falls,KDF,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-2011-06-04,2011,0,2,1,1,0,0,19,2011 Early Summer Tour,2011 Summer,Guyute,Guyute,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2011-06-04,2011,0,2,1,1,0,0,19,2011 Early Summer Tour,2011 Summer,Guyute,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
 2011-06-04,2011,0,3,2,1,0,0,20,2011 Early Summer Tour,2011 Summer,Fuck Your Face,FYF,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
-2011-06-04,2011,0,4,1,1,0,0,7,2011 Early Summer Tour,2011 Summer,Foam,Foam,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-2011-06-04,2011,0,5,1,1,0,0,4,2011 Early Summer Tour,2011 Summer,Ocelot,Ocelot,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-2011-06-04,2011,0,6,1,1,0,0,12,2011 Early Summer Tour,2011 Summer,Rocket in My Pocket,Rocket in My Pocket,0,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2011-06-04,2011,0,4,1,1,0,0,7,2011 Early Summer Tour,2011 Summer,Foam,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2011-06-04,2011,0,5,1,1,0,0,4,2011 Early Summer Tour,2011 Summer,Ocelot,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2011-06-04,2011,0,6,1,1,0,0,12,2011 Early Summer Tour,2011 Summer,Rocket in My Pocket,,0,Blossom Music Center,Cuyahoga Falls,OH,USA,","
 2011-06-04,2011,0,7,2,1,0,0,6,2011 Early Summer Tour,2011 Summer,Back on the Train,BOTT,0,Blossom Music Center,Cuyahoga Falls,OH,USA,>
 2011-06-04,2011,0,8,1,1,0,0,7,2011 Early Summer Tour,2011 Summer,Guelah Papyrus,Guelah,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-2011-06-04,2011,0,9,2,1,0,0,3,2011 Early Summer Tour,2011 Summer,Tube,Tube,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2011-06-04,2011,0,9,2,1,0,0,3,2011 Early Summer Tour,2011 Summer,Tube,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
 2011-06-04,2011,0,10,4,1,0,0,4,2011 Early Summer Tour,2011 Summer,Run Like an Antelope,Antelope,1,Blossom Music Center,Cuyahoga Falls,OH,USA,
 2011-06-04,2011,0,11,1,2,0,0,19,2011 Early Summer Tour,2011 Summer,Birds of a Feather,BOAF,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-2011-06-04,2011,0,12,2,2,0,0,3,2011 Early Summer Tour,2011 Summer,Possum,Possum,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
-2011-06-04,2011,0,13,2,2,0,0,1529,2011 Early Summer Tour,2011 Summer,Steam,Steam,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
-2011-06-04,2011,0,14,3,2,0,0,2,2011 Early Summer Tour,2011 Summer,Piper,Piper,1,Blossom Music Center,Cuyahoga Falls,OH,USA,->
+2011-06-04,2011,0,12,2,2,0,0,3,2011 Early Summer Tour,2011 Summer,Possum,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2011-06-04,2011,0,13,2,2,0,0,1529,2011 Early Summer Tour,2011 Summer,Steam,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2011-06-04,2011,0,14,3,2,0,0,2,2011 Early Summer Tour,2011 Summer,Piper,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,->
 2011-06-04,2011,0,15,1,2,0,0,16,2011 Early Summer Tour,2011 Summer,The Lizards,Lizards,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
 2011-06-04,2011,0,16,2,2,0,0,7,2011 Early Summer Tour,2011 Summer,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Blossom Music Center,Cuyahoga Falls,OH,USA,>
 2011-06-04,2011,0,17,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Harry Hood,Hood,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
-2011-06-04,2011,0,18,3,2,0,0,19,2011 Early Summer Tour,2011 Summer,Have Mercy,Have Mercy,0,Blossom Music Center,Cuyahoga Falls,OH,USA,->
+2011-06-04,2011,0,18,3,2,0,0,19,2011 Early Summer Tour,2011 Summer,Have Mercy,,0,Blossom Music Center,Cuyahoga Falls,OH,USA,->
 2011-06-04,2011,0,19,2,2,0,0,0,2011 Early Summer Tour,2011 Summer,Harry Hood,Hood,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
-2011-06-04,2011,0,20,5,2,0,0,3,2011 Early Summer Tour,2011 Summer,Character Zero,Character Zero,1,Blossom Music Center,Cuyahoga Falls,OH,USA,
+2011-06-04,2011,0,20,5,2,0,0,3,2011 Early Summer Tour,2011 Summer,Character Zero,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,
 2011-06-04,2011,0,21,6,e,0,0,4,2011 Early Summer Tour,2011 Summer,Slave to the Traffic Light,Slave,1,Blossom Music Center,Cuyahoga Falls,OH,USA,
 2011-06-05,2011,0,1,2,1,0,0,5,2011 Early Summer Tour,2011 Summer,AC/DC Bag,Bag,1,Riverbend Music Center,Cincinnati,OH,USA,>
 2011-06-05,2011,0,2,2,1,0,0,4,2011 Early Summer Tour,2011 Summer,Punch You in the Eye,PYITE,1,Riverbend Music Center,Cincinnati,OH,USA,>
 2011-06-05,2011,0,3,2,1,0,0,6,2011 Early Summer Tour,2011 Summer,Bathtub Gin,Gin,1,Riverbend Music Center,Cincinnati,OH,USA,>
-2011-06-05,2011,0,4,1,1,0,0,17,2011 Early Summer Tour,2011 Summer,Taste,Taste,1,Riverbend Music Center,Cincinnati,OH,USA,","
-2011-06-05,2011,0,5,1,1,0,0,18,2011 Early Summer Tour,2011 Summer,Lawn Boy,Lawn Boy,1,Riverbend Music Center,Cincinnati,OH,USA,","
-2011-06-05,2011,0,6,1,1,0,0,12,2011 Early Summer Tour,2011 Summer,Mound,Mound,1,Riverbend Music Center,Cincinnati,OH,USA,","
+2011-06-05,2011,0,4,1,1,0,0,17,2011 Early Summer Tour,2011 Summer,Taste,,1,Riverbend Music Center,Cincinnati,OH,USA,","
+2011-06-05,2011,0,5,1,1,0,0,18,2011 Early Summer Tour,2011 Summer,Lawn Boy,,1,Riverbend Music Center,Cincinnati,OH,USA,","
+2011-06-05,2011,0,6,1,1,0,0,12,2011 Early Summer Tour,2011 Summer,Mound,,1,Riverbend Music Center,Cincinnati,OH,USA,","
 2011-06-05,2011,0,7,2,1,0,0,3,2011 Early Summer Tour,2011 Summer,Gotta Jibboo,Jibboo,0,Riverbend Music Center,Cincinnati,OH,USA,>
-2011-06-05,2011,0,8,1,1,0,0,8,2011 Early Summer Tour,2011 Summer,Reba,Reba,1,Riverbend Music Center,Cincinnati,OH,USA,","
-2011-06-05,2011,0,9,2,1,0,0,8,2011 Early Summer Tour,2011 Summer,Fee,Fee,1,Riverbend Music Center,Cincinnati,OH,USA,>
+2011-06-05,2011,0,8,1,1,0,0,8,2011 Early Summer Tour,2011 Summer,Reba,,1,Riverbend Music Center,Cincinnati,OH,USA,","
+2011-06-05,2011,0,9,2,1,0,0,8,2011 Early Summer Tour,2011 Summer,Fee,,1,Riverbend Music Center,Cincinnati,OH,USA,>
 2011-06-05,2011,0,10,4,1,0,0,3,2011 Early Summer Tour,2011 Summer,Backwards Down the Number Line,BDTNL,0,Riverbend Music Center,Cincinnati,OH,USA,
-2011-06-05,2011,0,11,3,2,0,0,3,2011 Early Summer Tour,2011 Summer,Carini,Carini,1,Riverbend Music Center,Cincinnati,OH,USA,->
-2011-06-05,2011,0,12,2,2,0,0,3,2011 Early Summer Tour,2011 Summer,Tweezer,Tweezer,1,Riverbend Music Center,Cincinnati,OH,USA,>
-2011-06-05,2011,0,13,1,2,0,0,6,2011 Early Summer Tour,2011 Summer,Free,Free,1,Riverbend Music Center,Cincinnati,OH,USA,","
+2011-06-05,2011,0,11,3,2,0,0,3,2011 Early Summer Tour,2011 Summer,Carini,,1,Riverbend Music Center,Cincinnati,OH,USA,->
+2011-06-05,2011,0,12,2,2,0,0,3,2011 Early Summer Tour,2011 Summer,Tweezer,,1,Riverbend Music Center,Cincinnati,OH,USA,>
+2011-06-05,2011,0,13,1,2,0,0,6,2011 Early Summer Tour,2011 Summer,Free,,1,Riverbend Music Center,Cincinnati,OH,USA,","
 2011-06-05,2011,0,14,3,2,0,0,7,2011 Early Summer Tour,2011 Summer,Crosseyed and Painless,C&amp;P,0,Riverbend Music Center,Cincinnati,OH,USA,->
-2011-06-05,2011,0,15,3,2,0,0,5,2011 Early Summer Tour,2011 Summer,Light,Light,0,Riverbend Music Center,Cincinnati,OH,USA,->
+2011-06-05,2011,0,15,3,2,0,0,5,2011 Early Summer Tour,2011 Summer,Light,,0,Riverbend Music Center,Cincinnati,OH,USA,->
 2011-06-05,2011,0,16,2,2,0,0,7,2011 Early Summer Tour,2011 Summer,Boogie On Reggae Woman,Boogie On,0,Riverbend Music Center,Cincinnati,OH,USA,>
-2011-06-05,2011,0,17,1,2,0,0,7,2011 Early Summer Tour,2011 Summer,Julius,Julius,1,Riverbend Music Center,Cincinnati,OH,USA,","
+2011-06-05,2011,0,17,1,2,0,0,7,2011 Early Summer Tour,2011 Summer,Julius,,1,Riverbend Music Center,Cincinnati,OH,USA,","
 2011-06-05,2011,0,18,5,2,0,0,4,2011 Early Summer Tour,2011 Summer,You Enjoy Myself,YEM,1,Riverbend Music Center,Cincinnati,OH,USA,
-2011-06-05,2011,0,19,2,e,0,0,5,2011 Early Summer Tour,2011 Summer,Loving Cup,Loving Cup,0,Riverbend Music Center,Cincinnati,OH,USA,>
+2011-06-05,2011,0,19,2,e,0,0,5,2011 Early Summer Tour,2011 Summer,Loving Cup,,0,Riverbend Music Center,Cincinnati,OH,USA,>
 2011-06-05,2011,0,20,6,e,0,0,3,2011 Early Summer Tour,2011 Summer,Tweezer Reprise,Tweeprise,1,Riverbend Music Center,Cincinnati,OH,USA,
-2011-06-07,2011,0,1,1,1,0,0,17,2011 Early Summer Tour,2011 Summer,Llama,Llama,1,Comcast Center,Mansfield,MA,USA,","
+2011-06-07,2011,0,1,1,1,0,0,17,2011 Early Summer Tour,2011 Summer,Llama,,1,Comcast Center,Mansfield,MA,USA,","
 2011-06-07,2011,0,2,2,1,0,0,5,2011 Early Summer Tour,2011 Summer,The Moma Dance,Moma,1,Comcast Center,Mansfield,MA,USA,>
-2011-06-07,2011,0,3,1,1,0,0,2,2011 Early Summer Tour,2011 Summer,Possum,Possum,1,Comcast Center,Mansfield,MA,USA,","
-2011-06-07,2011,0,4,1,1,0,0,7,2011 Early Summer Tour,2011 Summer,Cities,Cities,0,Comcast Center,Mansfield,MA,USA,","
-2011-06-07,2011,0,5,1,1,0,0,56,2011 Early Summer Tour,2011 Summer,Instant Karma!,Instant Karma!,0,Comcast Center,Mansfield,MA,USA,","
+2011-06-07,2011,0,3,1,1,0,0,2,2011 Early Summer Tour,2011 Summer,Possum,,1,Comcast Center,Mansfield,MA,USA,","
+2011-06-07,2011,0,4,1,1,0,0,7,2011 Early Summer Tour,2011 Summer,Cities,,0,Comcast Center,Mansfield,MA,USA,","
+2011-06-07,2011,0,5,1,1,0,0,56,2011 Early Summer Tour,2011 Summer,Instant Karma!,,0,Comcast Center,Mansfield,MA,USA,","
 2011-06-07,2011,0,6,1,1,0,0,3,2011 Early Summer Tour,2011 Summer,David Bowie,Bowie,1,Comcast Center,Mansfield,MA,USA,","
-2011-06-07,2011,0,7,1,1,0,0,1527,2011 Early Summer Tour,2011 Summer,Rhymes,Rhymes,0,Comcast Center,Mansfield,MA,USA,","
+2011-06-07,2011,0,7,1,1,0,0,1527,2011 Early Summer Tour,2011 Summer,Rhymes,,0,Comcast Center,Mansfield,MA,USA,","
 2011-06-07,2011,0,8,1,1,0,0,5,2011 Early Summer Tour,2011 Summer,Divided Sky,Divided,1,Comcast Center,Mansfield,MA,USA,","
 2011-06-07,2011,0,9,4,1,0,0,4,2011 Early Summer Tour,2011 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Comcast Center,Mansfield,MA,USA,
 2011-06-07,2011,0,10,2,2,0,0,2,2011 Early Summer Tour,2011 Summer,Back on the Train,BOTT,0,Comcast Center,Mansfield,MA,USA,>
 2011-06-07,2011,0,11,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Rock and Roll,R&amp;R,0,Comcast Center,Mansfield,MA,USA,>
 2011-06-07,2011,0,12,1,2,0,0,17,2011 Early Summer Tour,2011 Summer,The Mango Song,Mango,1,Comcast Center,Mansfield,MA,USA,","
-2011-06-07,2011,0,13,1,2,0,0,12,2011 Early Summer Tour,2011 Summer,Bug,Bug,0,Comcast Center,Mansfield,MA,USA,","
-2011-06-07,2011,0,14,1,2,0,0,23,2011 Early Summer Tour,2011 Summer,Pebbles and Marbles,Pebbles and Marbles,0,Comcast Center,Mansfield,MA,USA,","
+2011-06-07,2011,0,13,1,2,0,0,12,2011 Early Summer Tour,2011 Summer,Bug,,0,Comcast Center,Mansfield,MA,USA,","
+2011-06-07,2011,0,14,1,2,0,0,23,2011 Early Summer Tour,2011 Summer,Pebbles and Marbles,,0,Comcast Center,Mansfield,MA,USA,","
 2011-06-07,2011,0,15,2,2,0,0,7,2011 Early Summer Tour,2011 Summer,Halley's Comet,Halley's,1,Comcast Center,Mansfield,MA,USA,>
-2011-06-07,2011,0,16,2,2,0,0,6,2011 Early Summer Tour,2011 Summer,Meatstick,Meatstick,1,Comcast Center,Mansfield,MA,USA,>
+2011-06-07,2011,0,16,2,2,0,0,6,2011 Early Summer Tour,2011 Summer,Meatstick,,1,Comcast Center,Mansfield,MA,USA,>
 2011-06-07,2011,0,17,5,2,0,0,2,2011 Early Summer Tour,2011 Summer,Run Like an Antelope,Antelope,1,Comcast Center,Mansfield,MA,USA,
 2011-06-07,2011,0,18,6,e,0,0,4,2011 Early Summer Tour,2011 Summer,Suzy Greenberg,Suzy,1,Comcast Center,Mansfield,MA,USA,
-2011-06-08,2011,0,1,1,1,0,0,23,2011 Early Summer Tour,2011 Summer,Nellie Kane,Nellie Kane,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
-2011-06-08,2011,0,2,1,1,0,0,18,2011 Early Summer Tour,2011 Summer,Mellow Mood,Mellow Mood,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
-2011-06-08,2011,0,3,1,1,0,0,25,2011 Early Summer Tour,2011 Summer,Buffalo Bill,Buffalo Bill,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
+2011-06-08,2011,0,1,1,1,0,0,23,2011 Early Summer Tour,2011 Summer,Nellie Kane,,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
+2011-06-08,2011,0,2,1,1,0,0,18,2011 Early Summer Tour,2011 Summer,Mellow Mood,,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
+2011-06-08,2011,0,3,1,1,0,0,25,2011 Early Summer Tour,2011 Summer,Buffalo Bill,,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
 2011-06-08,2011,0,4,1,1,0,0,3,2011 Early Summer Tour,2011 Summer,Kill Devil Falls,KDF,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
 2011-06-08,2011,0,5,1,1,0,0,4,2011 Early Summer Tour,2011 Summer,Wolfman's Brother,Wolfman's,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
-2011-06-08,2011,0,6,1,1,0,0,7,2011 Early Summer Tour,2011 Summer,Rift,Rift,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
-2011-06-08,2011,0,7,1,1,0,0,16,2011 Early Summer Tour,2011 Summer,Undermind,Undermind,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
-2011-06-08,2011,0,8,1,1,0,0,19,2011 Early Summer Tour,2011 Summer,Ride Captain Ride,Ride Captain Ride,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
-2011-06-08,2011,0,9,2,1,0,0,14,2011 Early Summer Tour,2011 Summer,It's Ice,It's Ice,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,>
-2011-06-08,2011,0,10,1,1,0,0,25,2011 Early Summer Tour,2011 Summer,Dog Faced Boy,Dog Faced Boy,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
-2011-06-08,2011,0,11,2,1,0,0,46,2011 Early Summer Tour,2011 Summer,Brian and Robert,Brian and Robert,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,>
-2011-06-08,2011,0,12,1,1,0,0,7,2011 Early Summer Tour,2011 Summer,46 Days,46 Days,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
+2011-06-08,2011,0,6,1,1,0,0,7,2011 Early Summer Tour,2011 Summer,Rift,,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
+2011-06-08,2011,0,7,1,1,0,0,16,2011 Early Summer Tour,2011 Summer,Undermind,,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
+2011-06-08,2011,0,8,1,1,0,0,19,2011 Early Summer Tour,2011 Summer,Ride Captain Ride,,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
+2011-06-08,2011,0,9,2,1,0,0,14,2011 Early Summer Tour,2011 Summer,It's Ice,,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,>
+2011-06-08,2011,0,10,1,1,0,0,25,2011 Early Summer Tour,2011 Summer,Dog Faced Boy,,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
+2011-06-08,2011,0,11,2,1,0,0,46,2011 Early Summer Tour,2011 Summer,Brian and Robert,,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,>
+2011-06-08,2011,0,12,1,1,0,0,7,2011 Early Summer Tour,2011 Summer,46 Days,,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
 2011-06-08,2011,0,13,1,1,0,0,8,2011 Early Summer Tour,2011 Summer,Limb By Limb,LxL,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
-2011-06-08,2011,0,14,4,1,0,0,3,2011 Early Summer Tour,2011 Summer,Character Zero,Character Zero,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,
-2011-06-08,2011,0,15,2,2,0,0,27,2011 Early Summer Tour,2011 Summer,Golden Age,Golden Age,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,>
+2011-06-08,2011,0,14,4,1,0,0,3,2011 Early Summer Tour,2011 Summer,Character Zero,,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,
+2011-06-08,2011,0,15,2,2,0,0,27,2011 Early Summer Tour,2011 Summer,Golden Age,,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,>
 2011-06-08,2011,0,16,2,2,0,0,4,2011 Early Summer Tour,2011 Summer,Mike's Song,Mike's,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,>
 2011-06-08,2011,0,17,2,2,0,0,23,2011 Early Summer Tour,2011 Summer,Fast Enough for You,FEFY,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,>
 2011-06-08,2011,0,18,1,2,0,0,4,2011 Early Summer Tour,2011 Summer,Weekapaug Groove,Weekapaug,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
@@ -220,663 +220,663 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2011-06-08,2011,0,22,2,2,0,0,4,2011 Early Summer Tour,2011 Summer,Also Sprach Zarathustra,2001,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,>
 2011-06-08,2011,0,23,5,2,0,0,3,2011 Early Summer Tour,2011 Summer,Harry Hood,Hood,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,
 2011-06-08,2011,0,24,6,e,0,0,4,2011 Early Summer Tour,2011 Summer,Good Times Bad Times,GTBT,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,
-2011-06-10,2011,0,1,1,1,0,0,61,2011 Early Summer Tour,2011 Summer,Rocky Top,Rocky Top,0,Susquehanna Bank Center,Camden,NJ,USA,","
+2011-06-10,2011,0,1,1,1,0,0,61,2011 Early Summer Tour,2011 Summer,Rocky Top,,0,Susquehanna Bank Center,Camden,NJ,USA,","
 2011-06-10,2011,0,2,2,1,0,0,1,2011 Early Summer Tour,2011 Summer,Mike's Song,Mike's,1,Susquehanna Bank Center,Camden,NJ,USA,>
 2011-06-10,2011,0,3,2,1,0,0,5,2011 Early Summer Tour,2011 Summer,I Am Hydrogen,Hydrogen,1,Susquehanna Bank Center,Camden,NJ,USA,>
 2011-06-10,2011,0,4,1,1,0,0,1,2011 Early Summer Tour,2011 Summer,Weekapaug Groove,Weekapaug,1,Susquehanna Bank Center,Camden,NJ,USA,","
-2011-06-10,2011,0,5,1,1,0,0,10,2011 Early Summer Tour,2011 Summer,Stash,Stash,1,Susquehanna Bank Center,Camden,NJ,USA,","
-2011-06-10,2011,0,6,2,1,0,0,4,2011 Early Summer Tour,2011 Summer,Tube,Tube,1,Susquehanna Bank Center,Camden,NJ,USA,>
-2011-06-10,2011,0,7,1,1,0,0,4,2011 Early Summer Tour,2011 Summer,Guyute,Guyute,1,Susquehanna Bank Center,Camden,NJ,USA,","
+2011-06-10,2011,0,5,1,1,0,0,10,2011 Early Summer Tour,2011 Summer,Stash,,1,Susquehanna Bank Center,Camden,NJ,USA,","
+2011-06-10,2011,0,6,2,1,0,0,4,2011 Early Summer Tour,2011 Summer,Tube,,1,Susquehanna Bank Center,Camden,NJ,USA,>
+2011-06-10,2011,0,7,1,1,0,0,4,2011 Early Summer Tour,2011 Summer,Guyute,,1,Susquehanna Bank Center,Camden,NJ,USA,","
 2011-06-10,2011,0,8,1,1,0,0,4,2011 Early Summer Tour,2011 Summer,Guelah Papyrus,Guelah,1,Susquehanna Bank Center,Camden,NJ,USA,","
 2011-06-10,2011,0,9,1,1,0,0,12,2011 Early Summer Tour,2011 Summer,Scent of a Mule,SOAMule,1,Susquehanna Bank Center,Camden,NJ,USA,","
-2011-06-10,2011,0,10,1,1,0,0,5,2011 Early Summer Tour,2011 Summer,Cavern,Cavern,1,Susquehanna Bank Center,Camden,NJ,USA,","
+2011-06-10,2011,0,10,1,1,0,0,5,2011 Early Summer Tour,2011 Summer,Cavern,,1,Susquehanna Bank Center,Camden,NJ,USA,","
 2011-06-10,2011,0,11,1,1,0,0,19,2011 Early Summer Tour,2011 Summer,The Sloth,Sloth,1,Susquehanna Bank Center,Camden,NJ,USA,","
 2011-06-10,2011,0,12,4,1,0,0,19,2011 Early Summer Tour,2011 Summer,The Curtain With,Curtain With,1,Susquehanna Bank Center,Camden,NJ,USA,
 2011-06-10,2011,0,13,3,2,0,0,5,2011 Early Summer Tour,2011 Summer,Down with Disease,DwD,1,Susquehanna Bank Center,Camden,NJ,USA,->
-2011-06-10,2011,0,14,2,2,0,0,3,2011 Early Summer Tour,2011 Summer,Free,Free,1,Susquehanna Bank Center,Camden,NJ,USA,>
-2011-06-10,2011,0,15,1,2,0,0,2,2011 Early Summer Tour,2011 Summer,Possum,Possum,1,Susquehanna Bank Center,Camden,NJ,USA,","
+2011-06-10,2011,0,14,2,2,0,0,3,2011 Early Summer Tour,2011 Summer,Free,,1,Susquehanna Bank Center,Camden,NJ,USA,>
+2011-06-10,2011,0,15,1,2,0,0,2,2011 Early Summer Tour,2011 Summer,Possum,,1,Susquehanna Bank Center,Camden,NJ,USA,","
 2011-06-10,2011,0,16,1,2,0,0,16,2011 Early Summer Tour,2011 Summer,Big Black Furry Creature from Mars,BBFCFM,1,Susquehanna Bank Center,Camden,NJ,USA,","
-2011-06-10,2011,0,17,2,2,0,0,52,2011 Early Summer Tour,2011 Summer,Swept Away,Swept Away,1,Susquehanna Bank Center,Camden,NJ,USA,>
-2011-06-10,2011,0,18,2,2,0,0,52,2011 Early Summer Tour,2011 Summer,Steep,Steep,1,Susquehanna Bank Center,Camden,NJ,USA,>
+2011-06-10,2011,0,17,2,2,0,0,52,2011 Early Summer Tour,2011 Summer,Swept Away,,1,Susquehanna Bank Center,Camden,NJ,USA,>
+2011-06-10,2011,0,18,2,2,0,0,52,2011 Early Summer Tour,2011 Summer,Steep,,1,Susquehanna Bank Center,Camden,NJ,USA,>
 2011-06-10,2011,0,19,1,2,0,0,2,2011 Early Summer Tour,2011 Summer,David Bowie,Bowie,1,Susquehanna Bank Center,Camden,NJ,USA,","
-2011-06-10,2011,0,20,1,2,0,0,3,2011 Early Summer Tour,2011 Summer,Julius,Julius,1,Susquehanna Bank Center,Camden,NJ,USA,","
+2011-06-10,2011,0,20,1,2,0,0,3,2011 Early Summer Tour,2011 Summer,Julius,,1,Susquehanna Bank Center,Camden,NJ,USA,","
 2011-06-10,2011,0,21,2,2,0,0,13,2011 Early Summer Tour,2011 Summer,Golgi Apparatus,Golgi,1,Susquehanna Bank Center,Camden,NJ,USA,>
-2011-06-10,2011,0,22,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Fluffhead,Fluffhead,1,Susquehanna Bank Center,Camden,NJ,USA,>
-2011-06-10,2011,0,23,5,2,0,0,8,2011 Early Summer Tour,2011 Summer,Joy,Joy,1,Susquehanna Bank Center,Camden,NJ,USA,
-2011-06-10,2011,0,24,6,e,0,0,10,2011 Early Summer Tour,2011 Summer,Bold As Love,Bold As Love,0,Susquehanna Bank Center,Camden,NJ,USA,
-2011-06-11,2011,0,1,1,1,0,0,137,2011 Early Summer Tour,2011 Summer,Daniel Saw the Stone,Daniel Saw the Stone,0,Merriweather Post Pavilion,Columbia,MD,USA,","
+2011-06-10,2011,0,22,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Fluffhead,,1,Susquehanna Bank Center,Camden,NJ,USA,>
+2011-06-10,2011,0,23,5,2,0,0,8,2011 Early Summer Tour,2011 Summer,Joy,,1,Susquehanna Bank Center,Camden,NJ,USA,
+2011-06-10,2011,0,24,6,e,0,0,10,2011 Early Summer Tour,2011 Summer,Bold As Love,,0,Susquehanna Bank Center,Camden,NJ,USA,
+2011-06-11,2011,0,1,1,1,0,0,137,2011 Early Summer Tour,2011 Summer,Daniel Saw the Stone,,0,Merriweather Post Pavilion,Columbia,MD,USA,","
 2011-06-11,2011,0,2,2,1,0,0,4,2011 Early Summer Tour,2011 Summer,AC/DC Bag,Bag,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2011-06-11,2011,0,3,1,1,0,0,5,2011 Early Summer Tour,2011 Summer,Ocelot,Ocelot,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2011-06-11,2011,0,4,1,1,0,0,20,2011 Early Summer Tour,2011 Summer,Access Me,Access Me,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2011-06-11,2011,0,5,1,1,0,0,24,2011 Early Summer Tour,2011 Summer,Vultures,Vultures,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2011-06-11,2011,0,6,2,1,0,0,7,2011 Early Summer Tour,2011 Summer,Wilson,Wilson,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2011-06-11,2011,0,7,1,1,0,0,8,2011 Early Summer Tour,2011 Summer,Sand,Sand,0,Merriweather Post Pavilion,Columbia,MD,USA,","
+2011-06-11,2011,0,3,1,1,0,0,5,2011 Early Summer Tour,2011 Summer,Ocelot,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2011-06-11,2011,0,4,1,1,0,0,20,2011 Early Summer Tour,2011 Summer,Access Me,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2011-06-11,2011,0,5,1,1,0,0,24,2011 Early Summer Tour,2011 Summer,Vultures,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2011-06-11,2011,0,6,2,1,0,0,7,2011 Early Summer Tour,2011 Summer,Wilson,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2011-06-11,2011,0,7,1,1,0,0,8,2011 Early Summer Tour,2011 Summer,Sand,,0,Merriweather Post Pavilion,Columbia,MD,USA,","
 2011-06-11,2011,0,8,2,1,0,0,11,2011 Early Summer Tour,2011 Summer,Roses Are Free,Roses,0,Merriweather Post Pavilion,Columbia,MD,USA,>
-2011-06-11,2011,0,9,1,1,0,0,4,2011 Early Summer Tour,2011 Summer,Reba,Reba,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2011-06-11,2011,0,10,2,1,0,0,28,2011 Early Summer Tour,2011 Summer,On Your Way Down,On Your Way Down,0,Merriweather Post Pavilion,Columbia,MD,USA,>
+2011-06-11,2011,0,9,1,1,0,0,4,2011 Early Summer Tour,2011 Summer,Reba,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2011-06-11,2011,0,10,2,1,0,0,28,2011 Early Summer Tour,2011 Summer,On Your Way Down,,0,Merriweather Post Pavilion,Columbia,MD,USA,>
 2011-06-11,2011,0,11,4,1,0,0,3,2011 Early Summer Tour,2011 Summer,Run Like an Antelope,Antelope,1,Merriweather Post Pavilion,Columbia,MD,USA,
 2011-06-11,2011,0,12,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Birds of a Feather,BOAF,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2011-06-11,2011,0,13,2,2,0,0,4,2011 Early Summer Tour,2011 Summer,Tweezer,Tweezer,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2011-06-11,2011,0,13,2,2,0,0,4,2011 Early Summer Tour,2011 Summer,Tweezer,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2011-06-11,2011,0,14,2,2,0,0,17,2011 Early Summer Tour,2011 Summer,The Horse,Horse,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2011-06-11,2011,0,15,2,2,0,0,17,2011 Early Summer Tour,2011 Summer,Silent in the Morning,Silent,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2011-06-11,2011,0,16,2,2,0,0,11,2011 Early Summer Tour,2011 Summer,Waves,Waves,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2011-06-11,2011,0,16,2,2,0,0,11,2011 Early Summer Tour,2011 Summer,Waves,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2011-06-11,2011,0,17,1,2,0,0,6,2011 Early Summer Tour,2011 Summer,Chalk Dust Torture,CDT,1,Merriweather Post Pavilion,Columbia,MD,USA,","
 2011-06-11,2011,0,18,2,2,0,0,3,2011 Early Summer Tour,2011 Summer,Rock and Roll,R&amp;R,0,Merriweather Post Pavilion,Columbia,MD,USA,>
-2011-06-11,2011,0,19,2,2,0,0,15,2011 Early Summer Tour,2011 Summer,Albuquerque,Albuquerque,0,Merriweather Post Pavilion,Columbia,MD,USA,>
-2011-06-11,2011,0,20,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Piper,Piper,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2011-06-11,2011,0,19,2,2,0,0,15,2011 Early Summer Tour,2011 Summer,Albuquerque,,0,Merriweather Post Pavilion,Columbia,MD,USA,>
+2011-06-11,2011,0,20,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Piper,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2011-06-11,2011,0,21,2,2,0,0,11,2011 Early Summer Tour,2011 Summer,Wading in the Velvet Sea,Velvet Sea,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2011-06-11,2011,0,22,2,2,0,0,2,2011 Early Summer Tour,2011 Summer,Also Sprach Zarathustra,2001,0,Merriweather Post Pavilion,Columbia,MD,USA,>
 2011-06-11,2011,0,23,2,2,0,0,3,2011 Early Summer Tour,2011 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2011-06-11,2011,0,24,5,2,0,0,3,2011 Early Summer Tour,2011 Summer,Suzy Greenberg,Suzy,1,Merriweather Post Pavilion,Columbia,MD,USA,
-2011-06-11,2011,0,25,2,e,0,0,7,2011 Early Summer Tour,2011 Summer,Show of Life,Show of Life,0,Merriweather Post Pavilion,Columbia,MD,USA,>
+2011-06-11,2011,0,25,2,e,0,0,7,2011 Early Summer Tour,2011 Summer,Show of Life,,0,Merriweather Post Pavilion,Columbia,MD,USA,>
 2011-06-11,2011,0,26,6,e,0,0,4,2011 Early Summer Tour,2011 Summer,Tweezer Reprise,Tweeprise,1,Merriweather Post Pavilion,Columbia,MD,USA,
-2011-06-12,2011,0,1,2,1,0,0,46,2011 Early Summer Tour,2011 Summer,Buried Alive,Buried Alive,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2011-06-12,2011,0,2,1,1,0,0,141,2011 Early Summer Tour,2011 Summer,Lonesome Cowboy Bill,Lonesome Cowboy Bill,0,Merriweather Post Pavilion,Columbia,MD,USA,","
-2011-06-12,2011,0,3,1,1,0,0,19,2011 Early Summer Tour,2011 Summer,Ha Ha Ha,Ha Ha Ha,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2011-06-12,2011,0,1,2,1,0,0,46,2011 Early Summer Tour,2011 Summer,Buried Alive,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2011-06-12,2011,0,2,1,1,0,0,141,2011 Early Summer Tour,2011 Summer,Lonesome Cowboy Bill,,0,Merriweather Post Pavilion,Columbia,MD,USA,","
+2011-06-12,2011,0,3,1,1,0,0,19,2011 Early Summer Tour,2011 Summer,Ha Ha Ha,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
 2011-06-12,2011,0,4,2,1,0,0,7,2011 Early Summer Tour,2011 Summer,Sample in a Jar,Sample,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2011-06-12,2011,0,5,1,1,0,0,4,2011 Early Summer Tour,2011 Summer,Divided Sky,Divided,1,Merriweather Post Pavilion,Columbia,MD,USA,","
 2011-06-12,2011,0,6,3,1,0,0,3,2011 Early Summer Tour,2011 Summer,Wolfman's Brother,Wolfman's,1,Merriweather Post Pavilion,Columbia,MD,USA,->
 2011-06-12,2011,0,7,2,1,0,0,5,2011 Early Summer Tour,2011 Summer,Boogie On Reggae Woman,Boogie On,0,Merriweather Post Pavilion,Columbia,MD,USA,>
-2011-06-12,2011,0,8,1,1,0,0,11,2011 Early Summer Tour,2011 Summer,Gumbo,Gumbo,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2011-06-12,2011,0,8,1,1,0,0,11,2011 Early Summer Tour,2011 Summer,Gumbo,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
 2011-06-12,2011,0,9,2,1,0,0,4,2011 Early Summer Tour,2011 Summer,Halley's Comet,Halley's,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2011-06-12,2011,0,10,2,1,0,0,5,2011 Early Summer Tour,2011 Summer,Bathtub Gin,Gin,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2011-06-12,2011,0,11,1,1,0,0,26,2011 Early Summer Tour,2011 Summer,Jesus Just Left Chicago,JJLC,0,Merriweather Post Pavilion,Columbia,MD,USA,","
-2011-06-12,2011,0,12,4,1,0,0,3,2011 Early Summer Tour,2011 Summer,Character Zero,Character Zero,1,Merriweather Post Pavilion,Columbia,MD,USA,
-2011-06-12,2011,0,13,1,2,0,0,23,2011 Early Summer Tour,2011 Summer,Party Time,Party Time,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2011-06-12,2011,0,12,4,1,0,0,3,2011 Early Summer Tour,2011 Summer,Character Zero,,1,Merriweather Post Pavilion,Columbia,MD,USA,
+2011-06-12,2011,0,13,1,2,0,0,23,2011 Early Summer Tour,2011 Summer,Party Time,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
 2011-06-12,2011,0,14,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Crosseyed and Painless,C&amp;P,0,Merriweather Post Pavilion,Columbia,MD,USA,>
-2011-06-12,2011,0,15,2,2,0,0,6,2011 Early Summer Tour,2011 Summer,Steam,Steam,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2011-06-12,2011,0,16,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Light,Light,0,Merriweather Post Pavilion,Columbia,MD,USA,>
+2011-06-12,2011,0,15,2,2,0,0,6,2011 Early Summer Tour,2011 Summer,Steam,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2011-06-12,2011,0,16,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Light,,0,Merriweather Post Pavilion,Columbia,MD,USA,>
 2011-06-12,2011,0,17,1,2,0,0,7,2011 Early Summer Tour,2011 Summer,The Wedge,Wedge,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2011-06-12,2011,0,18,1,2,0,0,9,2011 Early Summer Tour,2011 Summer,Alaska,Alaska,0,Merriweather Post Pavilion,Columbia,MD,USA,","
-2011-06-12,2011,0,19,2,2,0,0,23,2011 Early Summer Tour,2011 Summer,Halfway to the Moon,Halfway to the Moon,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2011-06-12,2011,0,18,1,2,0,0,9,2011 Early Summer Tour,2011 Summer,Alaska,,0,Merriweather Post Pavilion,Columbia,MD,USA,","
+2011-06-12,2011,0,19,2,2,0,0,23,2011 Early Summer Tour,2011 Summer,Halfway to the Moon,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2011-06-12,2011,0,20,2,2,0,0,3,2011 Early Summer Tour,2011 Summer,Harry Hood,Hood,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2011-06-12,2011,0,21,1,2,0,0,3,2011 Early Summer Tour,2011 Summer,Backwards Down the Number Line,BDTNL,0,Merriweather Post Pavilion,Columbia,MD,USA,","
-2011-06-12,2011,0,22,5,2,0,0,5,2011 Early Summer Tour,2011 Summer,Loving Cup,Loving Cup,0,Merriweather Post Pavilion,Columbia,MD,USA,
-2011-06-12,2011,0,23,2,e,0,0,24,2011 Early Summer Tour,2011 Summer,Sanity,Sanity,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2011-06-12,2011,0,22,5,2,0,0,5,2011 Early Summer Tour,2011 Summer,Loving Cup,,0,Merriweather Post Pavilion,Columbia,MD,USA,
+2011-06-12,2011,0,23,2,e,0,0,24,2011 Early Summer Tour,2011 Summer,Sanity,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2011-06-12,2011,0,24,2,e,0,0,11,2011 Early Summer Tour,2011 Summer,Makisupa Policeman,Makisupa,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2011-06-12,2011,0,25,6,e,0,0,8,2011 Early Summer Tour,2011 Summer,First Tube,First Tube,0,Merriweather Post Pavilion,Columbia,MD,USA,
-2011-06-14,2011,0,1,1,1,0,0,58,2011 Early Summer Tour,2011 Summer,Dinner and a Movie,Dinner and a Movie,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2011-06-12,2011,0,25,6,e,0,0,8,2011 Early Summer Tour,2011 Summer,First Tube,,0,Merriweather Post Pavilion,Columbia,MD,USA,
+2011-06-14,2011,0,1,1,1,0,0,58,2011 Early Summer Tour,2011 Summer,Dinner and a Movie,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
 2011-06-14,2011,0,2,2,1,0,0,5,2011 Early Summer Tour,2011 Summer,The Moma Dance,Moma,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
-2011-06-14,2011,0,3,1,1,0,0,3,2011 Early Summer Tour,2011 Summer,Possum,Possum,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
-2011-06-14,2011,0,4,2,1,0,0,5,2011 Early Summer Tour,2011 Summer,Cities,Cities,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
-2011-06-14,2011,0,5,1,1,0,0,3,2011 Early Summer Tour,2011 Summer,Fluffhead,Fluffhead,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
-2011-06-14,2011,0,6,1,1,0,0,2,2011 Early Summer Tour,2011 Summer,Ocelot,Ocelot,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2011-06-14,2011,0,3,1,1,0,0,3,2011 Early Summer Tour,2011 Summer,Possum,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2011-06-14,2011,0,4,2,1,0,0,5,2011 Early Summer Tour,2011 Summer,Cities,,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2011-06-14,2011,0,5,1,1,0,0,3,2011 Early Summer Tour,2011 Summer,Fluffhead,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2011-06-14,2011,0,6,1,1,0,0,2,2011 Early Summer Tour,2011 Summer,Ocelot,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
 2011-06-14,2011,0,7,1,1,0,0,50,2011 Early Summer Tour,2011 Summer,Ginseng Sullivan,Ginseng,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
 2011-06-14,2011,0,8,2,1,0,0,4,2011 Early Summer Tour,2011 Summer,Kill Devil Falls,KDF,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
 2011-06-14,2011,0,9,1,1,0,0,1,2011 Early Summer Tour,2011 Summer,Bathtub Gin,Gin,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
 2011-06-14,2011,0,10,2,1,0,0,21,2011 Early Summer Tour,2011 Summer,Light Up Or Leave Me Alone,Light Up,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
-2011-06-14,2011,0,11,4,1,0,0,3,2011 Early Summer Tour,2011 Summer,Cavern,Cavern,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
-2011-06-14,2011,0,12,2,2,0,0,6,2011 Early Summer Tour,2011 Summer,Carini,Carini,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
-2011-06-14,2011,0,13,2,2,0,0,2,2011 Early Summer Tour,2011 Summer,Sand,Sand,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2011-06-14,2011,0,11,4,1,0,0,3,2011 Early Summer Tour,2011 Summer,Cavern,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
+2011-06-14,2011,0,12,2,2,0,0,6,2011 Early Summer Tour,2011 Summer,Carini,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2011-06-14,2011,0,13,2,2,0,0,2,2011 Early Summer Tour,2011 Summer,Sand,,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
 2011-06-14,2011,0,14,3,2,0,0,3,2011 Early Summer Tour,2011 Summer,Down with Disease,DwD,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,->
-2011-06-14,2011,0,15,1,2,0,0,10,2011 Early Summer Tour,2011 Summer,Maze,Maze,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
-2011-06-14,2011,0,16,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Meatstick,Meatstick,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2011-06-14,2011,0,15,1,2,0,0,10,2011 Early Summer Tour,2011 Summer,Maze,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2011-06-14,2011,0,16,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Meatstick,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
 2011-06-14,2011,0,17,2,2,0,0,2,2011 Early Summer Tour,2011 Summer,Also Sprach Zarathustra,2001,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
-2011-06-14,2011,0,18,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Bug,Bug,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2011-06-14,2011,0,18,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Bug,,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
 2011-06-14,2011,0,19,2,2,0,0,12,2011 Early Summer Tour,2011 Summer,A Day in the Life,ADITL,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
 2011-06-14,2011,0,20,5,2,0,0,2,2011 Early Summer Tour,2011 Summer,Run Like an Antelope,Antelope,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
 2011-06-14,2011,0,21,6,e,0,0,12,2011 Early Summer Tour,2011 Summer,Quinn the Eskimo (The Mighty Quinn),Quinn,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
-2011-06-15,2011,0,1,2,1,0,0,88,2011 Early Summer Tour,2011 Summer,Paul and Silas,Paul and Silas,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2011-06-15,2011,0,1,2,1,0,0,88,2011 Early Summer Tour,2011 Summer,Paul and Silas,,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
 2011-06-15,2011,0,2,1,1,0,0,6,2011 Early Summer Tour,2011 Summer,Back on the Train,BOTT,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
-2011-06-15,2011,0,3,1,1,0,0,8,2011 Early Summer Tour,2011 Summer,Foam,Foam,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
-2011-06-15,2011,0,4,1,1,0,0,37,2011 Early Summer Tour,2011 Summer,Water in the Sky,Water in the Sky,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
-2011-06-15,2011,0,5,1,1,0,0,13,2011 Early Summer Tour,2011 Summer,Runaway Jim,Runaway Jim,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
-2011-06-15,2011,0,6,1,1,0,0,43,2011 Early Summer Tour,2011 Summer,Army of One,Army of One,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2011-06-15,2011,0,3,1,1,0,0,8,2011 Early Summer Tour,2011 Summer,Foam,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2011-06-15,2011,0,4,1,1,0,0,37,2011 Early Summer Tour,2011 Summer,Water in the Sky,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2011-06-15,2011,0,5,1,1,0,0,13,2011 Early Summer Tour,2011 Summer,Runaway Jim,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2011-06-15,2011,0,6,1,1,0,0,43,2011 Early Summer Tour,2011 Summer,Army of One,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
 2011-06-15,2011,0,7,2,1,0,0,3,2011 Early Summer Tour,2011 Summer,Roses Are Free,Roses,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
 2011-06-15,2011,0,8,2,1,0,0,12,2011 Early Summer Tour,2011 Summer,Timber (Jerry the Mule),Timber Ho,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
-2011-06-15,2011,0,9,4,1,0,0,7,2011 Early Summer Tour,2011 Summer,Mound,Mound,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
-2011-06-15,2011,0,10,2,2,0,0,0,2011 Early Summer Tour,2011 Summer,Mound,Mound,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
-2011-06-15,2011,0,11,2,2,0,0,3,2011 Early Summer Tour,2011 Summer,Tweezer,Tweezer,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
-2011-06-15,2011,0,12,2,2,0,0,4,2011 Early Summer Tour,2011 Summer,Julius,Julius,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2011-06-15,2011,0,9,4,1,0,0,7,2011 Early Summer Tour,2011 Summer,Mound,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
+2011-06-15,2011,0,10,2,2,0,0,0,2011 Early Summer Tour,2011 Summer,Mound,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2011-06-15,2011,0,11,2,2,0,0,3,2011 Early Summer Tour,2011 Summer,Tweezer,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2011-06-15,2011,0,12,2,2,0,0,4,2011 Early Summer Tour,2011 Summer,Julius,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
 2011-06-15,2011,0,13,1,2,0,0,8,2011 Early Summer Tour,2011 Summer,Slave to the Traffic Light,Slave,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
 2011-06-15,2011,0,14,1,2,0,0,4,2011 Early Summer Tour,2011 Summer,David Bowie,Bowie,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
 2011-06-15,2011,0,15,2,2,0,0,3,2011 Early Summer Tour,2011 Summer,Suzy Greenberg,Suzy,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
 2011-06-15,2011,0,16,2,2,0,0,7,2011 Early Summer Tour,2011 Summer,Gotta Jibboo,Jibboo,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
 2011-06-15,2011,0,17,2,2,0,0,2,2011 Early Summer Tour,2011 Summer,Harry Hood,Hood,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
-2011-06-15,2011,0,18,1,2,0,0,2,2011 Early Summer Tour,2011 Summer,Character Zero,Character Zero,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2011-06-15,2011,0,18,1,2,0,0,2,2011 Early Summer Tour,2011 Summer,Character Zero,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
 2011-06-15,2011,0,19,3,2,0,0,18,2011 Early Summer Tour,2011 Summer,The Birdwatcher,Birdwatcher,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,->
-2011-06-15,2011,0,20,5,2,0,0,40,2011 Early Summer Tour,2011 Summer,Kung,Kung,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
-2011-06-15,2011,0,21,2,e,0,0,9,2011 Early Summer Tour,2011 Summer,Funky Bitch,Funky Bitch,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2011-06-15,2011,0,20,5,2,0,0,40,2011 Early Summer Tour,2011 Summer,Kung,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
+2011-06-15,2011,0,21,2,e,0,0,9,2011 Early Summer Tour,2011 Summer,Funky Bitch,,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
 2011-06-15,2011,0,22,6,e,0,0,3,2011 Early Summer Tour,2011 Summer,Tweezer Reprise,Tweeprise,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
 2011-06-17,2011,0,1,2,1,0,0,5,2011 Early Summer Tour,2011 Summer,Mike's Song,Mike's,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
 2011-06-17,2011,0,2,2,1,0,0,5,2011 Early Summer Tour,2011 Summer,I Am Hydrogen,Hydrogen,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
 2011-06-17,2011,0,3,1,1,0,0,5,2011 Early Summer Tour,2011 Summer,Weekapaug Groove,Weekapaug,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
 2011-06-17,2011,0,4,1,1,0,0,15,2011 Early Summer Tour,2011 Summer,Bouncing Around the Room,Bouncin',1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
-2011-06-17,2011,0,5,2,1,0,0,10,2011 Early Summer Tour,2011 Summer,NICU,NICU,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
+2011-06-17,2011,0,5,2,1,0,0,10,2011 Early Summer Tour,2011 Summer,NICU,,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
 2011-06-17,2011,0,6,1,1,0,0,3,2011 Early Summer Tour,2011 Summer,Sample in a Jar,Sample,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
 2011-06-17,2011,0,7,2,1,0,0,47,2011 Early Summer Tour,2011 Summer,Colonel Forbin's Ascent,Forbin's,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
 2011-06-17,2011,0,8,1,1,0,0,47,2011 Early Summer Tour,2011 Summer,Fly Famous Mockingbird,Mockingbird,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
-2011-06-17,2011,0,9,1,1,0,0,11,2011 Early Summer Tour,2011 Summer,Axilla,Axilla,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
+2011-06-17,2011,0,9,1,1,0,0,11,2011 Early Summer Tour,2011 Summer,Axilla,,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
 2011-06-17,2011,0,10,1,1,0,0,3,2011 Early Summer Tour,2011 Summer,Wolfman's Brother,Wolfman's,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
 2011-06-17,2011,0,11,1,1,0,0,5,2011 Early Summer Tour,2011 Summer,Scent of a Mule,SOAMule,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
 2011-06-17,2011,0,12,4,1,0,0,4,2011 Early Summer Tour,2011 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,
 2011-06-17,2011,0,13,2,2,0,0,3,2011 Early Summer Tour,2011 Summer,Backwards Down the Number Line,BDTNL,0,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
 2011-06-17,2011,0,14,2,2,0,0,4,2011 Early Summer Tour,2011 Summer,Rock and Roll,R&amp;R,0,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
-2011-06-17,2011,0,15,2,2,0,0,11,2011 Early Summer Tour,2011 Summer,Ghost,Ghost,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
-2011-06-17,2011,0,16,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Free,Free,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
-2011-06-17,2011,0,17,1,2,0,0,4,2011 Early Summer Tour,2011 Summer,Reba,Reba,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
-2011-06-17,2011,0,18,1,2,0,0,87,2011 Early Summer Tour,2011 Summer,Icculus,Icculus,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
+2011-06-17,2011,0,15,2,2,0,0,11,2011 Early Summer Tour,2011 Summer,Ghost,,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
+2011-06-17,2011,0,16,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Free,,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
+2011-06-17,2011,0,17,1,2,0,0,4,2011 Early Summer Tour,2011 Summer,Reba,,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
+2011-06-17,2011,0,18,1,2,0,0,87,2011 Early Summer Tour,2011 Summer,Icculus,,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
 2011-06-17,2011,0,19,2,2,0,0,26,2011 Early Summer Tour,2011 Summer,Hold Your Head Up,HYHU,0,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
-2011-06-17,2011,0,20,2,2,0,0,100,2011 Early Summer Tour,2011 Summer,Bike,Bike,0,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
+2011-06-17,2011,0,20,2,2,0,0,100,2011 Early Summer Tour,2011 Summer,Bike,,0,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
 2011-06-17,2011,0,21,1,2,0,0,0,2011 Early Summer Tour,2011 Summer,Hold Your Head Up,HYHU,0,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
 2011-06-17,2011,0,22,1,2,0,0,4,2011 Early Summer Tour,2011 Summer,Chalk Dust Torture,CDT,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
 2011-06-17,2011,0,23,5,2,0,0,8,2011 Early Summer Tour,2011 Summer,You Enjoy Myself,YEM,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,
-2011-06-17,2011,0,24,2,e,0,0,4,2011 Early Summer Tour,2011 Summer,Wilson,Wilson,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
-2011-06-17,2011,0,25,6,e,0,0,3,2011 Early Summer Tour,2011 Summer,Loving Cup,Loving Cup,0,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,
+2011-06-17,2011,0,24,2,e,0,0,4,2011 Early Summer Tour,2011 Summer,Wilson,,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
+2011-06-17,2011,0,25,6,e,0,0,3,2011 Early Summer Tour,2011 Summer,Loving Cup,,0,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,
 2011-06-18,2011,0,1,1,1,0,0,42,2011 Early Summer Tour,2011 Summer,Cars Trucks Buses,CTB,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
 2011-06-18,2011,0,2,1,1,0,0,73,2011 Early Summer Tour,2011 Summer,Peaches en Regalia,Peaches,0,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
 2011-06-18,2011,0,3,1,1,0,0,5,2011 Early Summer Tour,2011 Summer,AC/DC Bag,Bag,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
-2011-06-18,2011,0,4,1,1,0,0,6,2011 Early Summer Tour,2011 Summer,Guyute,Guyute,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
-2011-06-18,2011,0,5,1,1,0,0,3,2011 Early Summer Tour,2011 Summer,Possum,Possum,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
+2011-06-18,2011,0,4,1,1,0,0,6,2011 Early Summer Tour,2011 Summer,Guyute,,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
+2011-06-18,2011,0,5,1,1,0,0,3,2011 Early Summer Tour,2011 Summer,Possum,,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
 2011-06-18,2011,0,6,2,1,0,0,4,2011 Early Summer Tour,2011 Summer,Halley's Comet,Halley's,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,>
-2011-06-18,2011,0,7,1,1,0,0,7,2011 Early Summer Tour,2011 Summer,46 Days,46 Days,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
+2011-06-18,2011,0,7,1,1,0,0,7,2011 Early Summer Tour,2011 Summer,46 Days,,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
 2011-06-18,2011,0,8,1,1,0,0,4,2011 Early Summer Tour,2011 Summer,Divided Sky,Divided,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
 2011-06-18,2011,0,9,1,1,0,0,14,2011 Early Summer Tour,2011 Summer,The Ballad of Curtis Loew,Curtis Loew,0,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
 2011-06-18,2011,0,10,4,1,0,0,3,2011 Early Summer Tour,2011 Summer,Run Like an Antelope,Antelope,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,
-2011-06-18,2011,0,11,2,2,0,0,12,2011 Early Summer Tour,2011 Summer,Twist,Twist,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,>
-2011-06-18,2011,0,12,2,2,0,0,7,2011 Early Summer Tour,2011 Summer,Rift,Rift,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,>
+2011-06-18,2011,0,11,2,2,0,0,12,2011 Early Summer Tour,2011 Summer,Twist,,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,>
+2011-06-18,2011,0,12,2,2,0,0,7,2011 Early Summer Tour,2011 Summer,Rift,,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,>
 2011-06-18,2011,0,13,2,2,0,0,16,2011 Early Summer Tour,2011 Summer,Prince Caspian,Caspian,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,>
-2011-06-18,2011,0,14,1,2,0,0,61,2011 Early Summer Tour,2011 Summer,Esther,Esther,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
-2011-06-18,2011,0,15,1,2,0,0,300,2011 Early Summer Tour,2011 Summer,Been Caught Stealing,Been Caught Stealing,0,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
-2011-06-18,2011,0,16,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Piper,Piper,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,>
+2011-06-18,2011,0,14,1,2,0,0,61,2011 Early Summer Tour,2011 Summer,Esther,,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
+2011-06-18,2011,0,15,1,2,0,0,300,2011 Early Summer Tour,2011 Summer,Been Caught Stealing,,0,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
+2011-06-18,2011,0,16,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Piper,,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,>
 2011-06-18,2011,0,17,2,2,0,0,16,2011 Early Summer Tour,2011 Summer,"My Friend, My Friend",My Friend,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,>
 2011-06-18,2011,0,18,1,2,0,0,3,2011 Early Summer Tour,2011 Summer,Kill Devil Falls,KDF,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
 2011-06-18,2011,0,19,1,2,0,0,12,2011 Early Summer Tour,2011 Summer,Split Open and Melt,SOAMelt,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
 2011-06-18,2011,0,20,1,2,0,0,6,2011 Early Summer Tour,2011 Summer,Golgi Apparatus,Golgi,1,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,","
-2011-06-18,2011,0,21,5,2,0,0,4,2011 Early Summer Tour,2011 Summer,First Tube,First Tube,0,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,
+2011-06-18,2011,0,21,5,2,0,0,4,2011 Early Summer Tour,2011 Summer,First Tube,,0,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,
 2011-06-18,2011,0,22,6,e,0,0,7,2011 Early Summer Tour,2011 Summer,Good Times Bad Times,GTBT,0,Time Warner Cable Music Pavilion at Walnut Creek,Raleigh,NC,USA,
-2011-06-19,2011,0,1,2,1,0,0,49,2011 Early Summer Tour,2011 Summer,Harpua,Harpua,1,nTelos Pavilion,Portsmouth,VA,USA,>
-2011-06-19,2011,0,2,1,1,0,0,27,2011 Early Summer Tour,2011 Summer,Brother,Brother,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2011-06-19,2011,0,1,2,1,0,0,49,2011 Early Summer Tour,2011 Summer,Harpua,,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2011-06-19,2011,0,2,1,1,0,0,27,2011 Early Summer Tour,2011 Summer,Brother,,1,nTelos Pavilion,Portsmouth,VA,USA,","
 2011-06-19,2011,0,3,2,1,0,0,4,2011 Early Summer Tour,2011 Summer,Down with Disease,DwD,1,nTelos Pavilion,Portsmouth,VA,USA,>
 2011-06-19,2011,0,4,1,1,0,0,3,2011 Early Summer Tour,2011 Summer,Back on the Train,BOTT,0,nTelos Pavilion,Portsmouth,VA,USA,","
-2011-06-19,2011,0,5,1,1,0,0,3,2011 Early Summer Tour,2011 Summer,Funky Bitch,Funky Bitch,0,nTelos Pavilion,Portsmouth,VA,USA,","
+2011-06-19,2011,0,5,1,1,0,0,3,2011 Early Summer Tour,2011 Summer,Funky Bitch,,0,nTelos Pavilion,Portsmouth,VA,USA,","
 2011-06-19,2011,0,6,1,1,0,0,3,2011 Early Summer Tour,2011 Summer,Timber (Jerry the Mule),Timber Ho,0,nTelos Pavilion,Portsmouth,VA,USA,","
 2011-06-19,2011,0,7,1,1,0,0,5,2011 Early Summer Tour,2011 Summer,The Wedge,Wedge,1,nTelos Pavilion,Portsmouth,VA,USA,","
 2011-06-19,2011,0,8,1,1,0,0,4,2011 Early Summer Tour,2011 Summer,The Moma Dance,Moma,1,nTelos Pavilion,Portsmouth,VA,USA,","
-2011-06-19,2011,0,9,1,1,0,0,1536,2011 Early Summer Tour,2011 Summer,Thunder Road,Thunder Road,0,nTelos Pavilion,Portsmouth,VA,USA,","
-2011-06-19,2011,0,10,1,1,0,0,7,2011 Early Summer Tour,2011 Summer,Tube,Tube,1,nTelos Pavilion,Portsmouth,VA,USA,","
-2011-06-19,2011,0,11,2,1,0,0,5,2011 Early Summer Tour,2011 Summer,Alaska,Alaska,0,nTelos Pavilion,Portsmouth,VA,USA,>
+2011-06-19,2011,0,9,1,1,0,0,1536,2011 Early Summer Tour,2011 Summer,Thunder Road,,0,nTelos Pavilion,Portsmouth,VA,USA,","
+2011-06-19,2011,0,10,1,1,0,0,7,2011 Early Summer Tour,2011 Summer,Tube,,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2011-06-19,2011,0,11,2,1,0,0,5,2011 Early Summer Tour,2011 Summer,Alaska,,0,nTelos Pavilion,Portsmouth,VA,USA,>
 2011-06-19,2011,0,12,4,1,0,0,3,2011 Early Summer Tour,2011 Summer,David Bowie,Bowie,1,nTelos Pavilion,Portsmouth,VA,USA,
 2011-06-19,2011,0,13,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Crosseyed and Painless,C&amp;P,0,nTelos Pavilion,Portsmouth,VA,USA,>
 2011-06-19,2011,0,14,2,2,0,0,18,2011 Early Summer Tour,2011 Summer,Walls of the Cave,WotC,1,nTelos Pavilion,Portsmouth,VA,USA,>
 2011-06-19,2011,0,15,2,2,0,0,3,2011 Early Summer Tour,2011 Summer,Slave to the Traffic Light,Slave,1,nTelos Pavilion,Portsmouth,VA,USA,>
-2011-06-19,2011,0,16,2,2,0,0,4,2011 Early Summer Tour,2011 Summer,Fluffhead,Fluffhead,1,nTelos Pavilion,Portsmouth,VA,USA,>
-2011-06-19,2011,0,17,2,2,0,0,4,2011 Early Summer Tour,2011 Summer,Sand,Sand,0,nTelos Pavilion,Portsmouth,VA,USA,>
+2011-06-19,2011,0,16,2,2,0,0,4,2011 Early Summer Tour,2011 Summer,Fluffhead,,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2011-06-19,2011,0,17,2,2,0,0,4,2011 Early Summer Tour,2011 Summer,Sand,,0,nTelos Pavilion,Portsmouth,VA,USA,>
 2011-06-19,2011,0,18,2,2,0,0,11,2011 Early Summer Tour,2011 Summer,Sneakin' Sally Through the Alley,Sneakin' Sally,0,nTelos Pavilion,Portsmouth,VA,USA,>
-2011-06-19,2011,0,19,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Light,Light,0,nTelos Pavilion,Portsmouth,VA,USA,>
+2011-06-19,2011,0,19,2,2,0,0,5,2011 Early Summer Tour,2011 Summer,Light,,0,nTelos Pavilion,Portsmouth,VA,USA,>
 2011-06-19,2011,0,20,1,2,0,0,2,2011 Early Summer Tour,2011 Summer,Backwards Down the Number Line,BDTNL,0,nTelos Pavilion,Portsmouth,VA,USA,","
 2011-06-19,2011,0,21,5,2,0,0,3,2011 Early Summer Tour,2011 Summer,Suzy Greenberg,Suzy,1,nTelos Pavilion,Portsmouth,VA,USA,
-2011-06-19,2011,0,22,6,e,0,0,3,2011 Early Summer Tour,2011 Summer,Julius,Julius,1,nTelos Pavilion,Portsmouth,VA,USA,
-2011-06-30,2011,1,1,2,1,0,0,0,2011 Early Summer Tour,2011 Summer,Jam,Jam,0,Watkins Glen International,Watkins Glen,NY,USA,>
-2011-06-30,2011,1,2,1,1,0,0,0,2011 Early Summer Tour,2011 Summer,Undermind,Undermind,0,Watkins Glen International,Watkins Glen,NY,USA,","
-2011-06-30,2011,1,3,1,1,0,0,0,2011 Early Summer Tour,2011 Summer,Sleep Again,Sleep Again,0,Watkins Glen International,Watkins Glen,NY,USA,","
-2011-06-30,2011,1,4,1,1,0,0,0,2011 Early Summer Tour,2011 Summer,My Soul,My Soul,0,Watkins Glen International,Watkins Glen,NY,USA,","
+2011-06-19,2011,0,22,6,e,0,0,3,2011 Early Summer Tour,2011 Summer,Julius,,1,nTelos Pavilion,Portsmouth,VA,USA,
+2011-06-30,2011,1,1,2,1,0,0,0,2011 Early Summer Tour,2011 Summer,Jam,,0,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-06-30,2011,1,2,1,1,0,0,0,2011 Early Summer Tour,2011 Summer,Undermind,,0,Watkins Glen International,Watkins Glen,NY,USA,","
+2011-06-30,2011,1,3,1,1,0,0,0,2011 Early Summer Tour,2011 Summer,Sleep Again,,0,Watkins Glen International,Watkins Glen,NY,USA,","
+2011-06-30,2011,1,4,1,1,0,0,0,2011 Early Summer Tour,2011 Summer,My Soul,,0,Watkins Glen International,Watkins Glen,NY,USA,","
 2011-06-30,2011,1,5,1,1,0,0,0,2011 Early Summer Tour,2011 Summer,Ginseng Sullivan,Ginseng,0,Watkins Glen International,Watkins Glen,NY,USA,","
-2011-06-30,2011,1,6,6,1,0,0,0,2011 Early Summer Tour,2011 Summer,Jam,Jam,0,Watkins Glen International,Watkins Glen,NY,USA,
-2011-07-01,2011,0,1,1,1,0,0,2,Not Part of a Tour,No Tour,Possum,Possum,1,Watkins Glen International,Watkins Glen,NY,USA,","
+2011-06-30,2011,1,6,6,1,0,0,0,2011 Early Summer Tour,2011 Summer,Jam,,0,Watkins Glen International,Watkins Glen,NY,USA,
+2011-07-01,2011,0,1,1,1,0,0,2,Not Part of a Tour,No Tour,Possum,,1,Watkins Glen International,Watkins Glen,NY,USA,","
 2011-07-01,2011,0,2,2,1,0,0,2,Not Part of a Tour,No Tour,Peaches en Regalia,Peaches,0,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-01,2011,0,3,1,1,0,0,1,Not Part of a Tour,No Tour,The Moma Dance,Moma,1,Watkins Glen International,Watkins Glen,NY,USA,","
-2011-07-01,2011,0,4,2,1,0,0,32,Not Part of a Tour,No Tour,Torn and Frayed,Torn and Frayed,0,Watkins Glen International,Watkins Glen,NY,USA,>
-2011-07-01,2011,0,5,2,1,0,0,3,Not Part of a Tour,No Tour,NICU,NICU,1,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-01,2011,0,4,2,1,0,0,32,Not Part of a Tour,No Tour,Torn and Frayed,,0,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-01,2011,0,5,2,1,0,0,3,Not Part of a Tour,No Tour,NICU,,1,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-01,2011,0,6,1,1,0,0,5,Not Part of a Tour,No Tour,Bathtub Gin,Gin,1,Watkins Glen International,Watkins Glen,NY,USA,","
-2011-07-01,2011,0,7,1,1,0,0,175,Not Part of a Tour,No Tour,Life on Mars?,Life on Mars?,0,Watkins Glen International,Watkins Glen,NY,USA,","
+2011-07-01,2011,0,7,1,1,0,0,175,Not Part of a Tour,No Tour,Life on Mars?,,0,Watkins Glen International,Watkins Glen,NY,USA,","
 2011-07-01,2011,0,8,1,1,0,0,2,Not Part of a Tour,No Tour,"My Friend, My Friend",My Friend,1,Watkins Glen International,Watkins Glen,NY,USA,","
 2011-07-01,2011,0,9,1,1,0,0,3,Not Part of a Tour,No Tour,Wolfman's Brother,Wolfman's,1,Watkins Glen International,Watkins Glen,NY,USA,","
 2011-07-01,2011,0,10,2,1,0,0,4,Not Part of a Tour,No Tour,Roses Are Free,Roses,0,Watkins Glen International,Watkins Glen,NY,USA,>
-2011-07-01,2011,0,11,1,1,0,0,1,Not Part of a Tour,No Tour,Funky Bitch,Funky Bitch,0,Watkins Glen International,Watkins Glen,NY,USA,","
+2011-07-01,2011,0,11,1,1,0,0,1,Not Part of a Tour,No Tour,Funky Bitch,,0,Watkins Glen International,Watkins Glen,NY,USA,","
 2011-07-01,2011,0,12,4,1,0,0,5,Not Part of a Tour,No Tour,Quinn the Eskimo (The Mighty Quinn),Quinn,0,Watkins Glen International,Watkins Glen,NY,USA,
-2011-07-01,2011,0,13,2,2,0,0,139,Not Part of a Tour,No Tour,Jam,Jam,0,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-01,2011,0,13,2,2,0,0,139,Not Part of a Tour,No Tour,Jam,,0,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-01,2011,0,14,3,2,0,0,1,Not Part of a Tour,No Tour,Crosseyed and Painless,C&amp;P,0,Watkins Glen International,Watkins Glen,NY,USA,->
 2011-07-01,2011,0,15,1,2,0,0,3,Not Part of a Tour,No Tour,Chalk Dust Torture,CDT,1,Watkins Glen International,Watkins Glen,NY,USA,","
-2011-07-01,2011,0,16,2,2,0,0,1,Not Part of a Tour,No Tour,Sand,Sand,0,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-01,2011,0,16,2,2,0,0,1,Not Part of a Tour,No Tour,Sand,,0,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-01,2011,0,17,1,2,0,0,1,Not Part of a Tour,No Tour,The Wedge,Wedge,1,Watkins Glen International,Watkins Glen,NY,USA,","
 2011-07-01,2011,0,18,2,2,0,0,3,Not Part of a Tour,No Tour,Mike's Song,Mike's,1,Watkins Glen International,Watkins Glen,NY,USA,>
-2011-07-01,2011,0,19,2,2,0,0,16,Not Part of a Tour,No Tour,Simple,Simple,1,Watkins Glen International,Watkins Glen,NY,USA,>
-2011-07-01,2011,0,20,2,2,0,0,5,Not Part of a Tour,No Tour,Bug,Bug,0,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-01,2011,0,19,2,2,0,0,16,Not Part of a Tour,No Tour,Simple,,1,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-01,2011,0,20,2,2,0,0,5,Not Part of a Tour,No Tour,Bug,,0,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-01,2011,0,21,2,2,0,0,7,Not Part of a Tour,No Tour,The Horse,Horse,1,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-01,2011,0,22,2,2,0,0,7,Not Part of a Tour,No Tour,Silent in the Morning,Silent,1,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-01,2011,0,23,1,2,0,0,3,Not Part of a Tour,No Tour,Weekapaug Groove,Weekapaug,1,Watkins Glen International,Watkins Glen,NY,USA,","
-2011-07-01,2011,0,24,2,2,0,0,8,Not Part of a Tour,No Tour,Joy,Joy,1,Watkins Glen International,Watkins Glen,NY,USA,>
-2011-07-01,2011,0,25,5,2,0,0,4,Not Part of a Tour,No Tour,Character Zero,Character Zero,1,Watkins Glen International,Watkins Glen,NY,USA,
-2011-07-01,2011,0,26,6,e,0,0,7,Not Part of a Tour,No Tour,Show of Life,Show of Life,0,Watkins Glen International,Watkins Glen,NY,USA,
-2011-07-02,2011,0,1,1,1,0,0,2,Not Part of a Tour,No Tour,Tube,Tube,1,Watkins Glen International,Watkins Glen,NY,USA,","
+2011-07-01,2011,0,24,2,2,0,0,8,Not Part of a Tour,No Tour,Joy,,1,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-01,2011,0,25,5,2,0,0,4,Not Part of a Tour,No Tour,Character Zero,,1,Watkins Glen International,Watkins Glen,NY,USA,
+2011-07-01,2011,0,26,6,e,0,0,7,Not Part of a Tour,No Tour,Show of Life,,0,Watkins Glen International,Watkins Glen,NY,USA,
+2011-07-02,2011,0,1,1,1,0,0,2,Not Part of a Tour,No Tour,Tube,,1,Watkins Glen International,Watkins Glen,NY,USA,","
 2011-07-02,2011,0,2,2,1,0,0,3,Not Part of a Tour,No Tour,Kill Devil Falls,KDF,1,Watkins Glen International,Watkins Glen,NY,USA,>
-2011-07-02,2011,0,3,1,1,0,0,6,Not Part of a Tour,No Tour,Ocelot,Ocelot,1,Watkins Glen International,Watkins Glen,NY,USA,","
-2011-07-02,2011,0,4,1,1,0,0,12,Not Part of a Tour,No Tour,Lawn Boy,Lawn Boy,1,Watkins Glen International,Watkins Glen,NY,USA,","
+2011-07-02,2011,0,3,1,1,0,0,6,Not Part of a Tour,No Tour,Ocelot,,1,Watkins Glen International,Watkins Glen,NY,USA,","
+2011-07-02,2011,0,4,1,1,0,0,12,Not Part of a Tour,No Tour,Lawn Boy,,1,Watkins Glen International,Watkins Glen,NY,USA,","
 2011-07-02,2011,0,5,1,1,0,0,3,Not Part of a Tour,No Tour,Divided Sky,Divided,1,Watkins Glen International,Watkins Glen,NY,USA,","
 2011-07-02,2011,0,6,2,1,0,0,7,Not Part of a Tour,No Tour,Boogie On Reggae Woman,Boogie On,0,Watkins Glen International,Watkins Glen,NY,USA,>
-2011-07-02,2011,0,7,1,1,0,0,15,Not Part of a Tour,No Tour,Camel Walk,Camel Walk,1,Watkins Glen International,Watkins Glen,NY,USA,","
-2011-07-02,2011,0,8,2,1,0,0,6,Not Part of a Tour,No Tour,Cities,Cities,0,Watkins Glen International,Watkins Glen,NY,USA,>
-2011-07-02,2011,0,9,2,1,0,0,19,Not Part of a Tour,No Tour,Poor Heart,Poor Heart,1,Watkins Glen International,Watkins Glen,NY,USA,>
-2011-07-02,2011,0,10,2,1,0,0,3,Not Part of a Tour,No Tour,46 Days,46 Days,1,Watkins Glen International,Watkins Glen,NY,USA,>
-2011-07-02,2011,0,11,1,1,0,0,1538,Not Part of a Tour,No Tour,Susskind Hotel,Susskind Hotel,0,Watkins Glen International,Watkins Glen,NY,USA,","
+2011-07-02,2011,0,7,1,1,0,0,15,Not Part of a Tour,No Tour,Camel Walk,,1,Watkins Glen International,Watkins Glen,NY,USA,","
+2011-07-02,2011,0,8,2,1,0,0,6,Not Part of a Tour,No Tour,Cities,,0,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-02,2011,0,9,2,1,0,0,19,Not Part of a Tour,No Tour,Poor Heart,,1,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-02,2011,0,10,2,1,0,0,3,Not Part of a Tour,No Tour,46 Days,,1,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-02,2011,0,11,1,1,0,0,1538,Not Part of a Tour,No Tour,Susskind Hotel,,0,Watkins Glen International,Watkins Glen,NY,USA,","
 2011-07-02,2011,0,12,1,1,0,0,43,Not Part of a Tour,No Tour,When the Circus Comes,Circus,0,Watkins Glen International,Watkins Glen,NY,USA,","
 2011-07-02,2011,0,13,2,1,0,0,2,Not Part of a Tour,No Tour,Timber (Jerry the Mule),Timber Ho,0,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-02,2011,0,14,2,1,0,0,2,Not Part of a Tour,No Tour,Back on the Train,BOTT,0,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-02,2011,0,15,1,1,0,0,2,Not Part of a Tour,No Tour,Suzy Greenberg,Suzy,1,Watkins Glen International,Watkins Glen,NY,USA,","
-2011-07-02,2011,0,16,4,1,0,0,1538,Not Part of a Tour,No Tour,Monkey Man,Monkey Man,0,Watkins Glen International,Watkins Glen,NY,USA,
-2011-07-02,2011,0,17,2,2,0,0,5,Not Part of a Tour,No Tour,Runaway Jim,Runaway Jim,1,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-02,2011,0,16,4,1,0,0,1538,Not Part of a Tour,No Tour,Monkey Man,,0,Watkins Glen International,Watkins Glen,NY,USA,
+2011-07-02,2011,0,17,2,2,0,0,5,Not Part of a Tour,No Tour,Runaway Jim,,1,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-02,2011,0,18,1,2,0,0,32,Not Part of a Tour,No Tour,McGrupp and the Watchful Hosemasters,McGrupp,1,Watkins Glen International,Watkins Glen,NY,USA,","
-2011-07-02,2011,0,19,2,2,0,0,4,Not Part of a Tour,No Tour,Axilla,Axilla,1,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-02,2011,0,19,2,2,0,0,4,Not Part of a Tour,No Tour,Axilla,,1,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-02,2011,0,20,1,2,0,0,8,Not Part of a Tour,No Tour,Birds of a Feather,BOAF,1,Watkins Glen International,Watkins Glen,NY,USA,","
-2011-07-02,2011,0,21,1,2,0,0,9,Not Part of a Tour,No Tour,Stash,Stash,1,Watkins Glen International,Watkins Glen,NY,USA,","
+2011-07-02,2011,0,21,1,2,0,0,9,Not Part of a Tour,No Tour,Stash,,1,Watkins Glen International,Watkins Glen,NY,USA,","
 2011-07-02,2011,0,22,1,2,0,0,4,Not Part of a Tour,No Tour,Sample in a Jar,Sample,1,Watkins Glen International,Watkins Glen,NY,USA,","
-2011-07-02,2011,0,23,2,2,0,0,15,Not Part of a Tour,No Tour,Heavy Things,Heavy Things,1,Watkins Glen International,Watkins Glen,NY,USA,>
-2011-07-02,2011,0,24,2,2,0,0,18,Not Part of a Tour,No Tour,Horn,Horn,1,Watkins Glen International,Watkins Glen,NY,USA,>
-2011-07-02,2011,0,25,2,2,0,0,10,Not Part of a Tour,No Tour,It's Ice,It's Ice,1,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-02,2011,0,23,2,2,0,0,15,Not Part of a Tour,No Tour,Heavy Things,,1,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-02,2011,0,24,2,2,0,0,18,Not Part of a Tour,No Tour,Horn,,1,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-02,2011,0,25,2,2,0,0,10,Not Part of a Tour,No Tour,It's Ice,,1,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-02,2011,0,26,2,2,0,0,11,Not Part of a Tour,No Tour,The Mango Song,Mango,1,Watkins Glen International,Watkins Glen,NY,USA,>
-2011-07-02,2011,0,27,2,2,0,0,3,Not Part of a Tour,No Tour,Rift,Rift,1,Watkins Glen International,Watkins Glen,NY,USA,>
-2011-07-02,2011,0,28,1,2,0,0,74,Not Part of a Tour,No Tour,Scents and Subtle Sounds,Scents and Subtle Sounds,1,Watkins Glen International,Watkins Glen,NY,USA,","
+2011-07-02,2011,0,27,2,2,0,0,3,Not Part of a Tour,No Tour,Rift,,1,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-02,2011,0,28,1,2,0,0,74,Not Part of a Tour,No Tour,Scents and Subtle Sounds,,1,Watkins Glen International,Watkins Glen,NY,USA,","
 2011-07-02,2011,0,29,4,2,0,0,3,Not Part of a Tour,No Tour,Run Like an Antelope,Antelope,1,Watkins Glen International,Watkins Glen,NY,USA,
-2011-07-02,2011,0,30,2,3,0,0,10,Not Part of a Tour,No Tour,Golden Age,Golden Age,0,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-02,2011,0,30,2,3,0,0,10,Not Part of a Tour,No Tour,Golden Age,,0,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-02,2011,0,31,2,3,0,0,3,Not Part of a Tour,No Tour,Prince Caspian,Caspian,1,Watkins Glen International,Watkins Glen,NY,USA,>
-2011-07-02,2011,0,32,2,3,0,0,3,Not Part of a Tour,No Tour,Piper,Piper,1,Watkins Glen International,Watkins Glen,NY,USA,>
-2011-07-02,2011,0,33,2,3,0,0,5,Not Part of a Tour,No Tour,Tweezer,Tweezer,1,Watkins Glen International,Watkins Glen,NY,USA,>
-2011-07-02,2011,0,34,2,3,0,0,2,Not Part of a Tour,No Tour,Julius,Julius,1,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-02,2011,0,32,2,3,0,0,3,Not Part of a Tour,No Tour,Piper,,1,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-02,2011,0,33,2,3,0,0,5,Not Part of a Tour,No Tour,Tweezer,,1,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-02,2011,0,34,2,3,0,0,2,Not Part of a Tour,No Tour,Julius,,1,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-02,2011,0,35,2,3,0,0,2,Not Part of a Tour,No Tour,Backwards Down the Number Line,BDTNL,0,Watkins Glen International,Watkins Glen,NY,USA,>
-2011-07-02,2011,0,36,2,3,0,0,3,Not Part of a Tour,No Tour,Twist,Twist,1,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-02,2011,0,36,2,3,0,0,3,Not Part of a Tour,No Tour,Twist,,1,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-02,2011,0,37,2,3,0,0,6,Not Part of a Tour,No Tour,Also Sprach Zarathustra,2001,0,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-02,2011,0,38,2,3,0,0,5,Not Part of a Tour,No Tour,Harry Hood,Hood,1,Watkins Glen International,Watkins Glen,NY,USA,>
-2011-07-02,2011,0,39,2,3,0,0,6,Not Part of a Tour,No Tour,Cavern,Cavern,1,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-02,2011,0,39,2,3,0,0,6,Not Part of a Tour,No Tour,Cavern,,1,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-02,2011,0,40,2,3,0,0,3,Not Part of a Tour,No Tour,Golgi Apparatus,Golgi,1,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-02,2011,0,41,5,3,0,0,6,Not Part of a Tour,No Tour,A Day in the Life,ADITL,0,Watkins Glen International,Watkins Glen,NY,USA,
-2011-07-02,2011,0,42,2,e,0,0,4,Not Part of a Tour,No Tour,Loving Cup,Loving Cup,0,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-02,2011,0,42,2,e,0,0,4,Not Part of a Tour,No Tour,Loving Cup,,0,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-02,2011,0,43,7,e,0,0,5,Not Part of a Tour,No Tour,Tweezer Reprise,Tweeprise,1,Watkins Glen International,Watkins Glen,NY,USA,
-2011-07-02,2011,0,44,2,4,0,0,1538,Not Part of a Tour,No Tour,Storage Jam,Storage Jam,1,Watkins Glen International,Watkins Glen,NY,USA,>
-2011-07-02,2011,0,45,6,4,0,0,26,Not Part of a Tour,No Tour,Sleeping Monkey,Sleeping Monkey,1,Watkins Glen International,Watkins Glen,NY,USA,
-2011-07-03,2011,0,1,2,1,0,0,71,Not Part of a Tour,No Tour,Soul Shakedown Party,Soul Shakedown Party,0,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-02,2011,0,44,2,4,0,0,1538,Not Part of a Tour,No Tour,Storage Jam,,1,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-02,2011,0,45,6,4,0,0,26,Not Part of a Tour,No Tour,Sleeping Monkey,,1,Watkins Glen International,Watkins Glen,NY,USA,
+2011-07-03,2011,0,1,2,1,0,0,71,Not Part of a Tour,No Tour,Soul Shakedown Party,,0,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-03,2011,0,2,2,1,0,0,4,Not Part of a Tour,No Tour,AC/DC Bag,Bag,1,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-03,2011,0,3,2,1,0,0,202,Not Part of a Tour,No Tour,The Curtain,Curtain,1,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-03,2011,0,4,2,1,0,0,5,Not Part of a Tour,No Tour,Colonel Forbin's Ascent,Forbin's,1,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-03,2011,0,5,2,1,0,0,5,Not Part of a Tour,No Tour,Fly Famous Mockingbird,Mockingbird,1,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-03,2011,0,6,2,1,0,0,36,Not Part of a Tour,No Tour,Destiny Unbound,Destiny,1,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-03,2011,0,7,1,1,0,0,10,Not Part of a Tour,No Tour,Big Black Furry Creature from Mars,BBFCFM,1,Watkins Glen International,Watkins Glen,NY,USA,","
-2011-07-03,2011,0,8,2,1,0,0,5,Not Part of a Tour,No Tour,Wilson,Wilson,1,Watkins Glen International,Watkins Glen,NY,USA,>
-2011-07-03,2011,0,9,1,1,0,0,6,Not Part of a Tour,No Tour,Mound,Mound,1,Watkins Glen International,Watkins Glen,NY,USA,","
+2011-07-03,2011,0,8,2,1,0,0,5,Not Part of a Tour,No Tour,Wilson,,1,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-03,2011,0,9,1,1,0,0,6,Not Part of a Tour,No Tour,Mound,,1,Watkins Glen International,Watkins Glen,NY,USA,","
 2011-07-03,2011,0,10,1,1,0,0,29,Not Part of a Tour,No Tour,A Song I Heard the Ocean Sing,ASIHTOS,1,Watkins Glen International,Watkins Glen,NY,USA,","
-2011-07-03,2011,0,11,1,1,0,0,26,Not Part of a Tour,No Tour,Time Loves a Hero,Time Loves a Hero,0,Watkins Glen International,Watkins Glen,NY,USA,","
-2011-07-03,2011,0,12,3,1,0,0,5,Not Part of a Tour,No Tour,Reba,Reba,1,Watkins Glen International,Watkins Glen,NY,USA,->
+2011-07-03,2011,0,11,1,1,0,0,26,Not Part of a Tour,No Tour,Time Loves a Hero,,0,Watkins Glen International,Watkins Glen,NY,USA,","
+2011-07-03,2011,0,12,3,1,0,0,5,Not Part of a Tour,No Tour,Reba,,1,Watkins Glen International,Watkins Glen,NY,USA,->
 2011-07-03,2011,0,13,4,1,0,0,3,Not Part of a Tour,No Tour,David Bowie,Bowie,1,Watkins Glen International,Watkins Glen,NY,USA,
-2011-07-03,2011,0,14,2,2,0,0,1539,Not Part of a Tour,No Tour,Big Balls,Big Balls,0,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-03,2011,0,14,2,2,0,0,1539,Not Part of a Tour,No Tour,Big Balls,,0,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-03,2011,0,15,3,2,0,0,3,Not Part of a Tour,No Tour,Down with Disease,DwD,1,Watkins Glen International,Watkins Glen,NY,USA,->
-2011-07-03,2011,0,16,2,2,0,0,16,Not Part of a Tour,No Tour,No Quarter,No Quarter,0,Watkins Glen International,Watkins Glen,NY,USA,>
-2011-07-03,2011,0,17,1,2,0,0,8,Not Part of a Tour,No Tour,Party Time,Party Time,1,Watkins Glen International,Watkins Glen,NY,USA,","
-2011-07-03,2011,0,18,2,2,0,0,5,Not Part of a Tour,No Tour,Ghost,Ghost,1,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-03,2011,0,16,2,2,0,0,16,Not Part of a Tour,No Tour,No Quarter,,0,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-03,2011,0,17,1,2,0,0,8,Not Part of a Tour,No Tour,Party Time,,1,Watkins Glen International,Watkins Glen,NY,USA,","
+2011-07-03,2011,0,18,2,2,0,0,5,Not Part of a Tour,No Tour,Ghost,,1,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-03,2011,0,19,2,2,0,0,6,Not Part of a Tour,No Tour,Gotta Jibboo,Jibboo,0,Watkins Glen International,Watkins Glen,NY,USA,>
-2011-07-03,2011,0,20,1,2,0,0,3,Not Part of a Tour,No Tour,Light,Light,0,Watkins Glen International,Watkins Glen,NY,USA,","
-2011-07-03,2011,0,21,2,2,0,0,9,Not Part of a Tour,No Tour,Waves,Waves,1,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-03,2011,0,20,1,2,0,0,3,Not Part of a Tour,No Tour,Light,,0,Watkins Glen International,Watkins Glen,NY,USA,","
+2011-07-03,2011,0,21,2,2,0,0,9,Not Part of a Tour,No Tour,Waves,,1,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-03,2011,0,22,2,2,0,0,11,Not Part of a Tour,No Tour,What's the Use?,WTU?,1,Watkins Glen International,Watkins Glen,NY,USA,>
-2011-07-03,2011,0,23,2,2,0,0,7,Not Part of a Tour,No Tour,Meatstick,Meatstick,1,Watkins Glen International,Watkins Glen,NY,USA,>
+2011-07-03,2011,0,23,2,2,0,0,7,Not Part of a Tour,No Tour,Meatstick,,1,Watkins Glen International,Watkins Glen,NY,USA,>
 2011-07-03,2011,0,24,1,2,0,0,5,Not Part of a Tour,No Tour,Stealing Time From the Faulty Plan,STFTFP,1,Watkins Glen International,Watkins Glen,NY,USA,","
 2011-07-03,2011,0,25,5,2,0,0,28,Not Part of a Tour,No Tour,The Star-Spangled Banner,Star Spangled Banner,0,Watkins Glen International,Watkins Glen,NY,USA,
-2011-07-03,2011,0,26,6,e,0,0,4,Not Part of a Tour,No Tour,First Tube,First Tube,0,Watkins Glen International,Watkins Glen,NY,USA,
+2011-07-03,2011,0,26,6,e,0,0,4,Not Part of a Tour,No Tour,First Tube,,0,Watkins Glen International,Watkins Glen,NY,USA,
 2011-08-05,2011,0,1,1,1,0,0,2,2011 Late Summer Tour,2011 Summer,Kill Devil Falls,KDF,1,Gorge Amphitheatre,George,WA,USA,","
 2011-08-05,2011,0,2,1,1,0,0,3,2011 Late Summer Tour,2011 Summer,The Wedge,Wedge,1,Gorge Amphitheatre,George,WA,USA,","
 2011-08-05,2011,0,3,1,1,0,0,3,2011 Late Summer Tour,2011 Summer,Bathtub Gin,Gin,1,Gorge Amphitheatre,George,WA,USA,","
-2011-08-05,2011,0,4,2,1,0,0,12,2011 Late Summer Tour,2011 Summer,Nellie Kane,Nellie Kane,0,Gorge Amphitheatre,George,WA,USA,>
+2011-08-05,2011,0,4,2,1,0,0,12,2011 Late Summer Tour,2011 Summer,Nellie Kane,,0,Gorge Amphitheatre,George,WA,USA,>
 2011-08-05,2011,0,5,1,1,0,0,3,2011 Late Summer Tour,2011 Summer,"My Friend, My Friend",My Friend,1,Gorge Amphitheatre,George,WA,USA,","
-2011-08-05,2011,0,6,2,1,0,0,2,2011 Late Summer Tour,2011 Summer,Cavern,Cavern,1,Gorge Amphitheatre,George,WA,USA,>
-2011-08-05,2011,0,7,2,1,0,0,14,2011 Late Summer Tour,2011 Summer,Taste,Taste,1,Gorge Amphitheatre,George,WA,USA,>
-2011-08-05,2011,0,8,2,1,0,0,18,2011 Late Summer Tour,2011 Summer,Roggae,Roggae,1,Gorge Amphitheatre,George,WA,USA,>
-2011-08-05,2011,0,9,1,1,0,0,21,2011 Late Summer Tour,2011 Summer,Walk Away,Walk Away,0,Gorge Amphitheatre,George,WA,USA,","
-2011-08-05,2011,0,10,1,1,0,0,3,2011 Late Summer Tour,2011 Summer,Funky Bitch,Funky Bitch,0,Gorge Amphitheatre,George,WA,USA,","
+2011-08-05,2011,0,6,2,1,0,0,2,2011 Late Summer Tour,2011 Summer,Cavern,,1,Gorge Amphitheatre,George,WA,USA,>
+2011-08-05,2011,0,7,2,1,0,0,14,2011 Late Summer Tour,2011 Summer,Taste,,1,Gorge Amphitheatre,George,WA,USA,>
+2011-08-05,2011,0,8,2,1,0,0,18,2011 Late Summer Tour,2011 Summer,Roggae,,1,Gorge Amphitheatre,George,WA,USA,>
+2011-08-05,2011,0,9,1,1,0,0,21,2011 Late Summer Tour,2011 Summer,Walk Away,,0,Gorge Amphitheatre,George,WA,USA,","
+2011-08-05,2011,0,10,1,1,0,0,3,2011 Late Summer Tour,2011 Summer,Funky Bitch,,0,Gorge Amphitheatre,George,WA,USA,","
 2011-08-05,2011,0,11,2,1,0,0,3,2011 Late Summer Tour,2011 Summer,Roses Are Free,Roses,0,Gorge Amphitheatre,George,WA,USA,>
 2011-08-05,2011,0,12,4,1,0,0,1,2011 Late Summer Tour,2011 Summer,David Bowie,Bowie,1,Gorge Amphitheatre,George,WA,USA,
 2011-08-05,2011,0,13,2,2,0,0,2,2011 Late Summer Tour,2011 Summer,Backwards Down the Number Line,BDTNL,0,Gorge Amphitheatre,George,WA,USA,>
 2011-08-05,2011,0,14,3,2,0,0,6,2011 Late Summer Tour,2011 Summer,Rock and Roll,R&amp;R,0,Gorge Amphitheatre,George,WA,USA,->
-2011-08-05,2011,0,15,3,2,0,0,1,2011 Late Summer Tour,2011 Summer,Meatstick,Meatstick,1,Gorge Amphitheatre,George,WA,USA,->
+2011-08-05,2011,0,15,3,2,0,0,1,2011 Late Summer Tour,2011 Summer,Meatstick,,1,Gorge Amphitheatre,George,WA,USA,->
 2011-08-05,2011,0,16,2,2,0,0,2,2011 Late Summer Tour,2011 Summer,Boogie On Reggae Woman,Boogie On,0,Gorge Amphitheatre,George,WA,USA,>
-2011-08-05,2011,0,17,2,2,0,0,26,2011 Late Summer Tour,2011 Summer,Farmhouse,Farmhouse,1,Gorge Amphitheatre,George,WA,USA,>
-2011-08-05,2011,0,18,2,2,0,0,3,2011 Late Summer Tour,2011 Summer,Show of Life,Show of Life,0,Gorge Amphitheatre,George,WA,USA,>
-2011-08-05,2011,0,19,2,2,0,0,2,2011 Late Summer Tour,2011 Summer,Julius,Julius,1,Gorge Amphitheatre,George,WA,USA,>
-2011-08-05,2011,0,20,5,2,0,0,3,2011 Late Summer Tour,2011 Summer,Character Zero,Character Zero,1,Gorge Amphitheatre,George,WA,USA,
-2011-08-05,2011,0,21,6,e,0,0,2,2011 Late Summer Tour,2011 Summer,Loving Cup,Loving Cup,0,Gorge Amphitheatre,George,WA,USA,
-2011-08-06,2011,0,1,1,1,0,0,4,2011 Late Summer Tour,2011 Summer,Possum,Possum,1,Gorge Amphitheatre,George,WA,USA,","
+2011-08-05,2011,0,17,2,2,0,0,26,2011 Late Summer Tour,2011 Summer,Farmhouse,,1,Gorge Amphitheatre,George,WA,USA,>
+2011-08-05,2011,0,18,2,2,0,0,3,2011 Late Summer Tour,2011 Summer,Show of Life,,0,Gorge Amphitheatre,George,WA,USA,>
+2011-08-05,2011,0,19,2,2,0,0,2,2011 Late Summer Tour,2011 Summer,Julius,,1,Gorge Amphitheatre,George,WA,USA,>
+2011-08-05,2011,0,20,5,2,0,0,3,2011 Late Summer Tour,2011 Summer,Character Zero,,1,Gorge Amphitheatre,George,WA,USA,
+2011-08-05,2011,0,21,6,e,0,0,2,2011 Late Summer Tour,2011 Summer,Loving Cup,,0,Gorge Amphitheatre,George,WA,USA,
+2011-08-06,2011,0,1,1,1,0,0,4,2011 Late Summer Tour,2011 Summer,Possum,,1,Gorge Amphitheatre,George,WA,USA,","
 2011-08-06,2011,0,2,2,1,0,0,4,2011 Late Summer Tour,2011 Summer,The Moma Dance,Moma,1,Gorge Amphitheatre,George,WA,USA,>
 2011-08-06,2011,0,3,1,1,0,0,3,2011 Late Summer Tour,2011 Summer,Sample in a Jar,Sample,1,Gorge Amphitheatre,George,WA,USA,","
 2011-08-06,2011,0,4,1,1,0,0,13,2011 Late Summer Tour,2011 Summer,Limb By Limb,LxL,1,Gorge Amphitheatre,George,WA,USA,","
-2011-08-06,2011,0,5,1,1,0,0,3,2011 Late Summer Tour,2011 Summer,Ocelot,Ocelot,1,Gorge Amphitheatre,George,WA,USA,","
-2011-08-06,2011,0,6,1,1,0,0,3,2011 Late Summer Tour,2011 Summer,Poor Heart,Poor Heart,1,Gorge Amphitheatre,George,WA,USA,","
-2011-08-06,2011,0,7,1,1,0,0,11,2011 Late Summer Tour,2011 Summer,On Your Way Down,On Your Way Down,0,Gorge Amphitheatre,George,WA,USA,","
+2011-08-06,2011,0,5,1,1,0,0,3,2011 Late Summer Tour,2011 Summer,Ocelot,,1,Gorge Amphitheatre,George,WA,USA,","
+2011-08-06,2011,0,6,1,1,0,0,3,2011 Late Summer Tour,2011 Summer,Poor Heart,,1,Gorge Amphitheatre,George,WA,USA,","
+2011-08-06,2011,0,7,1,1,0,0,11,2011 Late Summer Tour,2011 Summer,On Your Way Down,,0,Gorge Amphitheatre,George,WA,USA,","
 2011-08-06,2011,0,8,2,1,0,0,4,2011 Late Summer Tour,2011 Summer,Wolfman's Brother,Wolfman's,1,Gorge Amphitheatre,George,WA,USA,>
-2011-08-06,2011,0,9,2,1,0,0,9,2011 Late Summer Tour,2011 Summer,Maze,Maze,1,Gorge Amphitheatre,George,WA,USA,>
-2011-08-06,2011,0,10,2,1,0,0,2,2011 Late Summer Tour,2011 Summer,Wilson,Wilson,1,Gorge Amphitheatre,George,WA,USA,>
-2011-08-06,2011,0,11,4,1,0,0,5,2011 Late Summer Tour,2011 Summer,Fluffhead,Fluffhead,1,Gorge Amphitheatre,George,WA,USA,
+2011-08-06,2011,0,9,2,1,0,0,9,2011 Late Summer Tour,2011 Summer,Maze,,1,Gorge Amphitheatre,George,WA,USA,>
+2011-08-06,2011,0,10,2,1,0,0,2,2011 Late Summer Tour,2011 Summer,Wilson,,1,Gorge Amphitheatre,George,WA,USA,>
+2011-08-06,2011,0,11,4,1,0,0,5,2011 Late Summer Tour,2011 Summer,Fluffhead,,1,Gorge Amphitheatre,George,WA,USA,
 2011-08-06,2011,0,12,2,2,0,0,4,2011 Late Summer Tour,2011 Summer,Chalk Dust Torture,CDT,1,Gorge Amphitheatre,George,WA,USA,>
-2011-08-06,2011,0,13,2,2,0,0,3,2011 Late Summer Tour,2011 Summer,Tweezer,Tweezer,1,Gorge Amphitheatre,George,WA,USA,>
+2011-08-06,2011,0,13,2,2,0,0,3,2011 Late Summer Tour,2011 Summer,Tweezer,,1,Gorge Amphitheatre,George,WA,USA,>
 2011-08-06,2011,0,14,2,2,0,0,3,2011 Late Summer Tour,2011 Summer,Prince Caspian,Caspian,1,Gorge Amphitheatre,George,WA,USA,>
-2011-08-06,2011,0,15,3,2,0,0,4,2011 Late Summer Tour,2011 Summer,Sand,Sand,0,Gorge Amphitheatre,George,WA,USA,->
-2011-08-06,2011,0,16,2,2,0,0,0,2011 Late Summer Tour,2011 Summer,Tweezer,Tweezer,1,Gorge Amphitheatre,George,WA,USA,>
+2011-08-06,2011,0,15,3,2,0,0,4,2011 Late Summer Tour,2011 Summer,Sand,,0,Gorge Amphitheatre,George,WA,USA,->
+2011-08-06,2011,0,16,2,2,0,0,0,2011 Late Summer Tour,2011 Summer,Tweezer,,1,Gorge Amphitheatre,George,WA,USA,>
 2011-08-06,2011,0,17,1,2,0,0,3,2011 Late Summer Tour,2011 Summer,Birds of a Feather,BOAF,1,Gorge Amphitheatre,George,WA,USA,","
-2011-08-06,2011,0,18,2,2,0,0,17,2011 Late Summer Tour,2011 Summer,Waste,Waste,1,Gorge Amphitheatre,George,WA,USA,>
-2011-08-06,2011,0,19,2,2,0,0,3,2011 Late Summer Tour,2011 Summer,Golden Age,Golden Age,0,Gorge Amphitheatre,George,WA,USA,>
-2011-08-06,2011,0,20,1,2,0,0,2,2011 Late Summer Tour,2011 Summer,Reba,Reba,1,Gorge Amphitheatre,George,WA,USA,","
+2011-08-06,2011,0,18,2,2,0,0,17,2011 Late Summer Tour,2011 Summer,Waste,,1,Gorge Amphitheatre,George,WA,USA,>
+2011-08-06,2011,0,19,2,2,0,0,3,2011 Late Summer Tour,2011 Summer,Golden Age,,0,Gorge Amphitheatre,George,WA,USA,>
+2011-08-06,2011,0,20,1,2,0,0,2,2011 Late Summer Tour,2011 Summer,Reba,,1,Gorge Amphitheatre,George,WA,USA,","
 2011-08-06,2011,0,21,5,2,0,0,3,2011 Late Summer Tour,2011 Summer,Run Like an Antelope,Antelope,1,Gorge Amphitheatre,George,WA,USA,
 2011-08-06,2011,0,22,2,e,0,0,3,2011 Late Summer Tour,2011 Summer,Suzy Greenberg,Suzy,1,Gorge Amphitheatre,George,WA,USA,>
-2011-08-06,2011,0,23,2,e,0,0,10,2011 Late Summer Tour,2011 Summer,Sanity,Sanity,1,Gorge Amphitheatre,George,WA,USA,>
+2011-08-06,2011,0,23,2,e,0,0,10,2011 Late Summer Tour,2011 Summer,Sanity,,1,Gorge Amphitheatre,George,WA,USA,>
 2011-08-06,2011,0,24,6,e,0,0,3,2011 Late Summer Tour,2011 Summer,Tweezer Reprise,Tweeprise,1,Gorge Amphitheatre,George,WA,USA,
 2011-08-08,2011,0,1,2,1,0,0,3,2011 Late Summer Tour,2011 Summer,Down with Disease,DwD,1,Hollywood Bowl,Hollywood,CA,USA,>
-2011-08-08,2011,0,2,2,1,0,0,2,2011 Late Summer Tour,2011 Summer,Cavern,Cavern,1,Hollywood Bowl,Hollywood,CA,USA,>
-2011-08-08,2011,0,3,1,1,0,0,1,2011 Late Summer Tour,2011 Summer,Possum,Possum,1,Hollywood Bowl,Hollywood,CA,USA,","
-2011-08-08,2011,0,4,1,1,0,0,4,2011 Late Summer Tour,2011 Summer,Cities,Cities,0,Hollywood Bowl,Hollywood,CA,USA,","
+2011-08-08,2011,0,2,2,1,0,0,2,2011 Late Summer Tour,2011 Summer,Cavern,,1,Hollywood Bowl,Hollywood,CA,USA,>
+2011-08-08,2011,0,3,1,1,0,0,1,2011 Late Summer Tour,2011 Summer,Possum,,1,Hollywood Bowl,Hollywood,CA,USA,","
+2011-08-08,2011,0,4,1,1,0,0,4,2011 Late Summer Tour,2011 Summer,Cities,,0,Hollywood Bowl,Hollywood,CA,USA,","
 2011-08-08,2011,0,5,1,1,0,0,5,2011 Late Summer Tour,2011 Summer,Peaches en Regalia,Peaches,0,Hollywood Bowl,Hollywood,CA,USA,","
 2011-08-08,2011,0,6,1,1,0,0,2,2011 Late Summer Tour,2011 Summer,Kill Devil Falls,KDF,1,Hollywood Bowl,Hollywood,CA,USA,","
-2011-08-08,2011,0,7,1,1,0,0,4,2011 Late Summer Tour,2011 Summer,Lawn Boy,Lawn Boy,1,Hollywood Bowl,Hollywood,CA,USA,","
-2011-08-08,2011,0,8,2,1,0,0,4,2011 Late Summer Tour,2011 Summer,Tube,Tube,1,Hollywood Bowl,Hollywood,CA,USA,>
+2011-08-08,2011,0,7,1,1,0,0,4,2011 Late Summer Tour,2011 Summer,Lawn Boy,,1,Hollywood Bowl,Hollywood,CA,USA,","
+2011-08-08,2011,0,8,2,1,0,0,4,2011 Late Summer Tour,2011 Summer,Tube,,1,Hollywood Bowl,Hollywood,CA,USA,>
 2011-08-08,2011,0,9,1,1,0,0,4,2011 Late Summer Tour,2011 Summer,Back on the Train,BOTT,0,Hollywood Bowl,Hollywood,CA,USA,","
-2011-08-08,2011,0,10,2,1,0,0,1,2011 Late Summer Tour,2011 Summer,Wilson,Wilson,1,Hollywood Bowl,Hollywood,CA,USA,>
-2011-08-08,2011,0,11,2,1,0,0,4,2011 Late Summer Tour,2011 Summer,Axilla,Axilla,1,Hollywood Bowl,Hollywood,CA,USA,>
+2011-08-08,2011,0,10,2,1,0,0,1,2011 Late Summer Tour,2011 Summer,Wilson,,1,Hollywood Bowl,Hollywood,CA,USA,>
+2011-08-08,2011,0,11,2,1,0,0,4,2011 Late Summer Tour,2011 Summer,Axilla,,1,Hollywood Bowl,Hollywood,CA,USA,>
 2011-08-08,2011,0,12,1,1,0,0,7,2011 Late Summer Tour,2011 Summer,Split Open and Melt,SOAMelt,1,Hollywood Bowl,Hollywood,CA,USA,","
 2011-08-08,2011,0,13,4,1,0,0,2,2011 Late Summer Tour,2011 Summer,Backwards Down the Number Line,BDTNL,0,Hollywood Bowl,Hollywood,CA,USA,
-2011-08-08,2011,0,14,2,2,0,0,10,2011 Late Summer Tour,2011 Summer,Carini,Carini,1,Hollywood Bowl,Hollywood,CA,USA,>
+2011-08-08,2011,0,14,2,2,0,0,10,2011 Late Summer Tour,2011 Summer,Carini,,1,Hollywood Bowl,Hollywood,CA,USA,>
 2011-08-08,2011,0,15,2,2,0,0,5,2011 Late Summer Tour,2011 Summer,Crosseyed and Painless,C&amp;P,0,Hollywood Bowl,Hollywood,CA,USA,>
-2011-08-08,2011,0,16,2,2,0,0,4,2011 Late Summer Tour,2011 Summer,Twist,Twist,1,Hollywood Bowl,Hollywood,CA,USA,>
-2011-08-08,2011,0,17,2,2,0,0,4,2011 Late Summer Tour,2011 Summer,Piper,Piper,1,Hollywood Bowl,Hollywood,CA,USA,>
+2011-08-08,2011,0,16,2,2,0,0,4,2011 Late Summer Tour,2011 Summer,Twist,,1,Hollywood Bowl,Hollywood,CA,USA,>
+2011-08-08,2011,0,17,2,2,0,0,4,2011 Late Summer Tour,2011 Summer,Piper,,1,Hollywood Bowl,Hollywood,CA,USA,>
 2011-08-08,2011,0,18,2,2,0,0,5,2011 Late Summer Tour,2011 Summer,Mike's Song,Mike's,1,Hollywood Bowl,Hollywood,CA,USA,>
-2011-08-08,2011,0,19,2,2,0,0,5,2011 Late Summer Tour,2011 Summer,Joy,Joy,1,Hollywood Bowl,Hollywood,CA,USA,>
+2011-08-08,2011,0,19,2,2,0,0,5,2011 Late Summer Tour,2011 Summer,Joy,,1,Hollywood Bowl,Hollywood,CA,USA,>
 2011-08-08,2011,0,20,1,2,0,0,5,2011 Late Summer Tour,2011 Summer,Weekapaug Groove,Weekapaug,1,Hollywood Bowl,Hollywood,CA,USA,","
-2011-08-08,2011,0,21,3,2,0,0,1542,2011 Late Summer Tour,2011 Summer,50 Ways to Leave Your Lover,50 Ways to Leave Your Lover,0,Hollywood Bowl,Hollywood,CA,USA,->
+2011-08-08,2011,0,21,3,2,0,0,1542,2011 Late Summer Tour,2011 Summer,50 Ways to Leave Your Lover,,0,Hollywood Bowl,Hollywood,CA,USA,->
 2011-08-08,2011,0,22,2,2,0,0,8,2011 Late Summer Tour,2011 Summer,Hold Your Head Up,HYHU,0,Hollywood Bowl,Hollywood,CA,USA,>
 2011-08-08,2011,0,23,1,2,0,0,0,2011 Late Summer Tour,2011 Summer,Weekapaug Groove,Weekapaug,1,Hollywood Bowl,Hollywood,CA,USA,","
-2011-08-08,2011,0,24,1,2,0,0,2,2011 Late Summer Tour,2011 Summer,Character Zero,Character Zero,1,Hollywood Bowl,Hollywood,CA,USA,","
+2011-08-08,2011,0,24,1,2,0,0,2,2011 Late Summer Tour,2011 Summer,Character Zero,,1,Hollywood Bowl,Hollywood,CA,USA,","
 2011-08-08,2011,0,25,5,2,0,0,5,2011 Late Summer Tour,2011 Summer,Quinn the Eskimo (The Mighty Quinn),Quinn,0,Hollywood Bowl,Hollywood,CA,USA,
 2011-08-08,2011,0,26,2,e,0,0,3,2011 Late Summer Tour,2011 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Hollywood Bowl,Hollywood,CA,USA,>
-2011-08-08,2011,0,27,6,e,0,0,2,2011 Late Summer Tour,2011 Summer,Julius,Julius,1,Hollywood Bowl,Hollywood,CA,USA,
-2011-08-09,2011,0,1,1,1,0,0,4,2011 Late Summer Tour,2011 Summer,Party Time,Party Time,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
+2011-08-08,2011,0,27,6,e,0,0,2,2011 Late Summer Tour,2011 Summer,Julius,,1,Hollywood Bowl,Hollywood,CA,USA,
+2011-08-09,2011,0,1,1,1,0,0,4,2011 Late Summer Tour,2011 Summer,Party Time,,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
 2011-08-09,2011,0,2,2,1,0,0,22,2011 Late Summer Tour,2011 Summer,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
 2011-08-09,2011,0,3,2,1,0,0,4,2011 Late Summer Tour,2011 Summer,AC/DC Bag,Bag,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
-2011-08-09,2011,0,4,1,1,0,0,15,2011 Late Summer Tour,2011 Summer,Mellow Mood,Mellow Mood,0,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
-2011-08-09,2011,0,5,1,1,0,0,5,2011 Late Summer Tour,2011 Summer,Rift,Rift,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
+2011-08-09,2011,0,4,1,1,0,0,15,2011 Late Summer Tour,2011 Summer,Mellow Mood,,0,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
+2011-08-09,2011,0,5,1,1,0,0,5,2011 Late Summer Tour,2011 Summer,Rift,,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
 2011-08-09,2011,0,6,2,1,0,0,17,2011 Late Summer Tour,2011 Summer,Punch You in the Eye,PYITE,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
-2011-08-09,2011,0,7,1,1,0,0,41,2011 Late Summer Tour,2011 Summer,Meat,Meat,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
+2011-08-09,2011,0,7,1,1,0,0,41,2011 Late Summer Tour,2011 Summer,Meat,,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
 2011-08-09,2011,0,8,1,1,0,0,3,2011 Late Summer Tour,2011 Summer,David Bowie,Bowie,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
 2011-08-09,2011,0,9,1,1,0,0,9,2011 Late Summer Tour,2011 Summer,Bouncing Around the Room,Bouncin',1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
-2011-08-09,2011,0,10,1,1,0,0,5,2011 Late Summer Tour,2011 Summer,Horn,Horn,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
-2011-08-09,2011,0,11,2,1,0,0,10,2011 Late Summer Tour,2011 Summer,Water in the Sky,Water in the Sky,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
-2011-08-09,2011,0,12,4,1,0,0,5,2011 Late Summer Tour,2011 Summer,46 Days,46 Days,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,
+2011-08-09,2011,0,10,1,1,0,0,5,2011 Late Summer Tour,2011 Summer,Horn,,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
+2011-08-09,2011,0,11,2,1,0,0,10,2011 Late Summer Tour,2011 Summer,Water in the Sky,,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
+2011-08-09,2011,0,12,4,1,0,0,5,2011 Late Summer Tour,2011 Summer,46 Days,,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,
 2011-08-09,2011,0,13,2,2,0,0,4,2011 Late Summer Tour,2011 Summer,Gotta Jibboo,Jibboo,0,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
-2011-08-09,2011,0,14,2,2,0,0,4,2011 Late Summer Tour,2011 Summer,Light,Light,0,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
+2011-08-09,2011,0,14,2,2,0,0,4,2011 Late Summer Tour,2011 Summer,Light,,0,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
 2011-08-09,2011,0,15,3,2,0,0,2,2011 Late Summer Tour,2011 Summer,Chalk Dust Torture,CDT,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,->
 2011-08-09,2011,0,16,2,2,0,0,7,2011 Late Summer Tour,2011 Summer,Slave to the Traffic Light,Slave,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
-2011-08-09,2011,0,17,1,2,0,0,9,2011 Late Summer Tour,2011 Summer,Free,Free,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
-2011-08-09,2011,0,18,2,2,0,0,1543,2011 Late Summer Tour,2011 Summer,Rocket Man,Rocket Man,0,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
+2011-08-09,2011,0,17,1,2,0,0,9,2011 Late Summer Tour,2011 Summer,Free,,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
+2011-08-09,2011,0,18,2,2,0,0,1543,2011 Late Summer Tour,2011 Summer,Rocket Man,,0,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
 2011-08-09,2011,0,19,2,2,0,0,5,2011 Late Summer Tour,2011 Summer,Harry Hood,Hood,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
 2011-08-09,2011,0,20,5,2,0,0,7,2011 Late Summer Tour,2011 Summer,Walls of the Cave,WotC,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,
-2011-08-09,2011,0,21,2,e,0,0,6,2011 Late Summer Tour,2011 Summer,Bug,Bug,0,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
+2011-08-09,2011,0,21,2,e,0,0,6,2011 Late Summer Tour,2011 Summer,Bug,,0,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
 2011-08-09,2011,0,22,6,e,0,0,24,2011 Late Summer Tour,2011 Summer,The Squirming Coil,Coil,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,
-2011-08-10,2011,0,1,1,1,0,0,167,2011 Late Summer Tour,2011 Summer,Dogs Stole Things,Dogs Stole Things,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
+2011-08-10,2011,0,1,1,1,0,0,167,2011 Late Summer Tour,2011 Summer,Dogs Stole Things,,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
 2011-08-10,2011,0,2,1,1,0,0,2,2011 Late Summer Tour,2011 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
-2011-08-10,2011,0,3,1,1,0,0,3,2011 Late Summer Tour,2011 Summer,Poor Heart,Poor Heart,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
-2011-08-10,2011,0,4,1,1,0,0,8,2011 Late Summer Tour,2011 Summer,Alaska,Alaska,0,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
+2011-08-10,2011,0,3,1,1,0,0,3,2011 Late Summer Tour,2011 Summer,Poor Heart,,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
+2011-08-10,2011,0,4,1,1,0,0,8,2011 Late Summer Tour,2011 Summer,Alaska,,0,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
 2011-08-10,2011,0,5,2,1,0,0,9,2011 Late Summer Tour,2011 Summer,Halley's Comet,Halley's,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
-2011-08-10,2011,0,6,2,1,0,0,6,2011 Late Summer Tour,2011 Summer,It's Ice,It's Ice,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
+2011-08-10,2011,0,6,2,1,0,0,6,2011 Late Summer Tour,2011 Summer,It's Ice,,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
 2011-08-10,2011,0,7,1,1,0,0,6,2011 Late Summer Tour,2011 Summer,When the Circus Comes,Circus,0,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
-2011-08-10,2011,0,8,1,1,0,0,23,2011 Late Summer Tour,2011 Summer,Ya Mar,Ya Mar,0,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
-2011-08-10,2011,0,9,1,1,0,0,6,2011 Late Summer Tour,2011 Summer,Stash,Stash,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
-2011-08-10,2011,0,10,1,1,0,0,4,2011 Late Summer Tour,2011 Summer,Funky Bitch,Funky Bitch,0,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
-2011-08-10,2011,0,11,2,1,0,0,17,2011 Late Summer Tour,2011 Summer,Instant Karma!,Instant Karma!,0,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
+2011-08-10,2011,0,8,1,1,0,0,23,2011 Late Summer Tour,2011 Summer,Ya Mar,,0,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
+2011-08-10,2011,0,9,1,1,0,0,6,2011 Late Summer Tour,2011 Summer,Stash,,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
+2011-08-10,2011,0,10,1,1,0,0,4,2011 Late Summer Tour,2011 Summer,Funky Bitch,,0,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
+2011-08-10,2011,0,11,2,1,0,0,17,2011 Late Summer Tour,2011 Summer,Instant Karma!,,0,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
 2011-08-10,2011,0,12,4,1,0,0,3,2011 Late Summer Tour,2011 Summer,Run Like an Antelope,Antelope,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,
 2011-08-10,2011,0,13,2,2,0,0,2,2011 Late Summer Tour,2011 Summer,Down with Disease,DwD,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
-2011-08-10,2011,0,14,2,2,0,0,6,2011 Late Summer Tour,2011 Summer,Runaway Jim,Runaway Jim,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
-2011-08-10,2011,0,15,2,2,0,0,5,2011 Late Summer Tour,2011 Summer,Ghost,Ghost,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
-2011-08-10,2011,0,16,2,2,0,0,3,2011 Late Summer Tour,2011 Summer,Golden Age,Golden Age,0,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
+2011-08-10,2011,0,14,2,2,0,0,6,2011 Late Summer Tour,2011 Summer,Runaway Jim,,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
+2011-08-10,2011,0,15,2,2,0,0,5,2011 Late Summer Tour,2011 Summer,Ghost,,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
+2011-08-10,2011,0,16,2,2,0,0,3,2011 Late Summer Tour,2011 Summer,Golden Age,,0,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
 2011-08-10,2011,0,17,2,2,0,0,6,2011 Late Summer Tour,2011 Summer,Also Sprach Zarathustra,2001,0,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
 2011-08-10,2011,0,18,1,2,0,0,8,2011 Late Summer Tour,2011 Summer,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
-2011-08-10,2011,0,19,1,2,0,0,9,2011 Late Summer Tour,2011 Summer,Guyute,Guyute,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
+2011-08-10,2011,0,19,1,2,0,0,9,2011 Late Summer Tour,2011 Summer,Guyute,,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
 2011-08-10,2011,0,20,1,2,0,0,14,2011 Late Summer Tour,2011 Summer,Wading in the Velvet Sea,Velvet Sea,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,","
 2011-08-10,2011,0,21,5,2,0,0,10,2011 Late Summer Tour,2011 Summer,You Enjoy Myself,YEM,1,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,
-2011-08-10,2011,0,22,2,e,0,0,4,2011 Late Summer Tour,2011 Summer,Show of Life,Show of Life,0,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
+2011-08-10,2011,0,22,2,e,0,0,4,2011 Late Summer Tour,2011 Summer,Show of Life,,0,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,>
 2011-08-10,2011,0,23,6,e,0,0,9,2011 Late Summer Tour,2011 Summer,Good Times Bad Times,GTBT,0,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,
 2011-08-12,2011,0,1,2,1,0,0,3,2011 Late Summer Tour,2011 Summer,Kill Devil Falls,KDF,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,>
-2011-08-12,2011,0,2,1,1,0,0,3,2011 Late Summer Tour,2011 Summer,Wilson,Wilson,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,","
-2011-08-12,2011,0,3,2,1,0,0,1,2011 Late Summer Tour,2011 Summer,Funky Bitch,Funky Bitch,0,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,>
+2011-08-12,2011,0,2,1,1,0,0,3,2011 Late Summer Tour,2011 Summer,Wilson,,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,","
+2011-08-12,2011,0,3,2,1,0,0,1,2011 Late Summer Tour,2011 Summer,Funky Bitch,,0,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,>
 2011-08-12,2011,0,4,2,1,0,0,4,2011 Late Summer Tour,2011 Summer,The Moma Dance,Moma,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,>
 2011-08-12,2011,0,5,2,1,0,0,3,2011 Late Summer Tour,2011 Summer,Peaches en Regalia,Peaches,0,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,>
 2011-08-12,2011,0,6,2,1,0,0,4,2011 Late Summer Tour,2011 Summer,Sample in a Jar,Sample,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,>
-2011-08-12,2011,0,7,1,1,0,0,3,2011 Late Summer Tour,2011 Summer,Possum,Possum,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,","
-2011-08-12,2011,0,8,2,1,0,0,4,2011 Late Summer Tour,2011 Summer,Tweezer,Tweezer,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,>
-2011-08-12,2011,0,9,1,1,0,0,6,2011 Late Summer Tour,2011 Summer,Mound,Mound,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,","
+2011-08-12,2011,0,7,1,1,0,0,3,2011 Late Summer Tour,2011 Summer,Possum,,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,","
+2011-08-12,2011,0,8,2,1,0,0,4,2011 Late Summer Tour,2011 Summer,Tweezer,,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,>
+2011-08-12,2011,0,9,1,1,0,0,6,2011 Late Summer Tour,2011 Summer,Mound,,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,","
 2011-08-12,2011,0,10,2,1,0,0,4,2011 Late Summer Tour,2011 Summer,Suzy Greenberg,Suzy,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,>
-2011-08-12,2011,0,11,2,1,0,0,3,2011 Late Summer Tour,2011 Summer,Axilla,Axilla,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,>
+2011-08-12,2011,0,11,2,1,0,0,3,2011 Late Summer Tour,2011 Summer,Axilla,,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,>
 2011-08-12,2011,0,12,2,1,0,0,3,2011 Late Summer Tour,2011 Summer,Mike's Song,Mike's,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,>
 2011-08-12,2011,0,13,2,1,0,0,11,2011 Late Summer Tour,2011 Summer,I Am Hydrogen,Hydrogen,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,>
 2011-08-12,2011,0,14,4,1,0,0,3,2011 Late Summer Tour,2011 Summer,Weekapaug Groove,Weekapaug,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,
 2011-08-12,2011,0,15,3,2,0,0,5,2011 Late Summer Tour,2011 Summer,Rock and Roll,R&amp;R,0,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,->
-2011-08-12,2011,0,16,3,2,0,0,14,2011 Late Summer Tour,2011 Summer,Steam,Steam,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,->
-2011-08-12,2011,0,17,3,2,0,0,3,2011 Late Summer Tour,2011 Summer,Piper,Piper,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,->
+2011-08-12,2011,0,16,3,2,0,0,14,2011 Late Summer Tour,2011 Summer,Steam,,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,->
+2011-08-12,2011,0,17,3,2,0,0,3,2011 Late Summer Tour,2011 Summer,Piper,,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,->
 2011-08-12,2011,0,18,1,2,0,0,5,2011 Late Summer Tour,2011 Summer,Roses Are Free,Roses,0,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,","
-2011-08-12,2011,0,19,1,2,0,0,3,2011 Late Summer Tour,2011 Summer,Julius,Julius,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,","
-2011-08-12,2011,0,20,1,2,0,0,8,2011 Late Summer Tour,2011 Summer,Life on Mars?,Life on Mars?,0,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,","
+2011-08-12,2011,0,19,1,2,0,0,3,2011 Late Summer Tour,2011 Summer,Julius,,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,","
+2011-08-12,2011,0,20,1,2,0,0,8,2011 Late Summer Tour,2011 Summer,Life on Mars?,,0,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,","
 2011-08-12,2011,0,21,2,2,0,0,4,2011 Late Summer Tour,2011 Summer,Birds of a Feather,BOAF,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,>
-2011-08-12,2011,0,22,2,2,0,0,4,2011 Late Summer Tour,2011 Summer,Fluffhead,Fluffhead,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,>
+2011-08-12,2011,0,22,2,2,0,0,4,2011 Late Summer Tour,2011 Summer,Fluffhead,,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,>
 2011-08-12,2011,0,23,2,2,0,0,3,2011 Late Summer Tour,2011 Summer,Backwards Down the Number Line,BDTNL,0,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,>
 2011-08-12,2011,0,24,2,2,0,0,1,2011 Late Summer Tour,2011 Summer,Also Sprach Zarathustra,2001,0,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,>
 2011-08-12,2011,0,25,5,2,0,0,2,2011 Late Summer Tour,2011 Summer,Chalk Dust Torture,CDT,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,
-2011-08-12,2011,0,26,2,e,0,0,3,2011 Late Summer Tour,2011 Summer,Cavern,Cavern,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,>
+2011-08-12,2011,0,26,2,e,0,0,3,2011 Late Summer Tour,2011 Summer,Cavern,,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,>
 2011-08-12,2011,0,27,6,e,0,0,4,2011 Late Summer Tour,2011 Summer,Tweezer Reprise,Tweeprise,1,"Polo Fields, Golden Gate Park",San Francisco,CA,USA,
 2011-08-15,2011,0,1,2,1,0,0,4,2011 Late Summer Tour,2011 Summer,Back on the Train,BOTT,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
-2011-08-15,2011,0,2,2,1,0,0,3,2011 Late Summer Tour,2011 Summer,Rift,Rift,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
+2011-08-15,2011,0,2,2,1,0,0,3,2011 Late Summer Tour,2011 Summer,Rift,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 2011-08-15,2011,0,3,1,1,0,0,17,2011 Late Summer Tour,2011 Summer,Guelah Papyrus,Guelah,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
 2011-08-15,2011,0,4,1,1,0,0,12,2011 Late Summer Tour,2011 Summer,Scent of a Mule,SOAMule,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
 2011-08-15,2011,0,5,1,1,0,0,15,2011 Late Summer Tour,2011 Summer,Jesus Just Left Chicago,JJLC,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
 2011-08-15,2011,0,6,1,1,0,0,5,2011 Late Summer Tour,2011 Summer,Wolfman's Brother,Wolfman's,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
-2011-08-15,2011,0,7,1,1,0,0,97,2011 Late Summer Tour,2011 Summer,Anything But Me,Anything But Me,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
-2011-08-15,2011,0,8,1,1,0,0,1546,2011 Late Summer Tour,2011 Summer,Babylon Baby,Babylon Baby,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
-2011-08-15,2011,0,9,1,1,0,0,5,2011 Late Summer Tour,2011 Summer,Reba,Reba,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
+2011-08-15,2011,0,7,1,1,0,0,97,2011 Late Summer Tour,2011 Summer,Anything But Me,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
+2011-08-15,2011,0,8,1,1,0,0,1546,2011 Late Summer Tour,2011 Summer,Babylon Baby,,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
+2011-08-15,2011,0,9,1,1,0,0,5,2011 Late Summer Tour,2011 Summer,Reba,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
 2011-08-15,2011,0,10,2,1,0,0,36,2011 Late Summer Tour,2011 Summer,Alumni Blues,Alumni,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 2011-08-15,2011,0,11,2,1,0,0,36,2011 Late Summer Tour,2011 Summer,Letter to Jimmy Page,LTJP,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 2011-08-15,2011,0,12,4,1,0,0,0,2011 Late Summer Tour,2011 Summer,Alumni Blues,Alumni,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,
-2011-08-15,2011,0,13,2,2,0,0,5,2011 Late Summer Tour,2011 Summer,Sand,Sand,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
-2011-08-15,2011,0,14,2,2,0,0,3,2011 Late Summer Tour,2011 Summer,Light,Light,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
-2011-08-15,2011,0,15,2,2,0,0,24,2011 Late Summer Tour,2011 Summer,Dirt,Dirt,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
-2011-08-15,2011,0,16,3,2,0,0,7,2011 Late Summer Tour,2011 Summer,Waves,Waves,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,->
-2011-08-15,2011,0,17,3,2,0,0,18,2011 Late Summer Tour,2011 Summer,Undermind,Undermind,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,->
-2011-08-15,2011,0,18,2,2,0,0,1,2011 Late Summer Tour,2011 Summer,Steam,Steam,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
-2011-08-15,2011,0,19,5,2,0,0,24,2011 Late Summer Tour,2011 Summer,Fire,Fire,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,
-2011-08-15,2011,0,20,1,e,0,0,8,2011 Late Summer Tour,2011 Summer,Camel Walk,Camel Walk,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
-2011-08-15,2011,0,21,1,e,0,0,2,2011 Late Summer Tour,2011 Summer,Guyute,Guyute,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
+2011-08-15,2011,0,13,2,2,0,0,5,2011 Late Summer Tour,2011 Summer,Sand,,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
+2011-08-15,2011,0,14,2,2,0,0,3,2011 Late Summer Tour,2011 Summer,Light,,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
+2011-08-15,2011,0,15,2,2,0,0,24,2011 Late Summer Tour,2011 Summer,Dirt,,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
+2011-08-15,2011,0,16,3,2,0,0,7,2011 Late Summer Tour,2011 Summer,Waves,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,->
+2011-08-15,2011,0,17,3,2,0,0,18,2011 Late Summer Tour,2011 Summer,Undermind,,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,->
+2011-08-15,2011,0,18,2,2,0,0,1,2011 Late Summer Tour,2011 Summer,Steam,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
+2011-08-15,2011,0,19,5,2,0,0,24,2011 Late Summer Tour,2011 Summer,Fire,,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,
+2011-08-15,2011,0,20,1,e,0,0,8,2011 Late Summer Tour,2011 Summer,Camel Walk,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
+2011-08-15,2011,0,21,1,e,0,0,2,2011 Late Summer Tour,2011 Summer,Guyute,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
 2011-08-15,2011,0,22,2,e,0,0,9,2011 Late Summer Tour,2011 Summer,The Horse,Horse,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 2011-08-15,2011,0,23,1,e,0,0,9,2011 Late Summer Tour,2011 Summer,Silent in the Morning,Silent,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
 2011-08-15,2011,0,24,6,e,0,0,3,2011 Late Summer Tour,2011 Summer,Harry Hood,Hood,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,
-2011-08-16,2011,0,1,1,1,0,0,15,2011 Late Summer Tour,2011 Summer,Dinner and a Movie,Dinner and a Movie,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
-2011-08-16,2011,0,2,2,1,0,0,16,2011 Late Summer Tour,2011 Summer,Ha Ha Ha,Ha Ha Ha,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
+2011-08-16,2011,0,1,1,1,0,0,15,2011 Late Summer Tour,2011 Summer,Dinner and a Movie,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
+2011-08-16,2011,0,2,2,1,0,0,16,2011 Late Summer Tour,2011 Summer,Ha Ha Ha,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 2011-08-16,2011,0,3,1,1,0,0,2,2011 Late Summer Tour,2011 Summer,Chalk Dust Torture,CDT,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
-2011-08-16,2011,0,4,1,1,0,0,44,2011 Late Summer Tour,2011 Summer,Mexican Cousin,Mexican Cousin,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
+2011-08-16,2011,0,4,1,1,0,0,44,2011 Late Summer Tour,2011 Summer,Mexican Cousin,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
 2011-08-16,2011,0,5,2,1,0,0,4,2011 Late Summer Tour,2011 Summer,Walls of the Cave,WotC,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
-2011-08-16,2011,0,6,2,1,0,0,3,2011 Late Summer Tour,2011 Summer,Runaway Jim,Runaway Jim,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
-2011-08-16,2011,0,7,1,1,0,0,14,2011 Late Summer Tour,2011 Summer,Foam,Foam,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
+2011-08-16,2011,0,6,2,1,0,0,3,2011 Late Summer Tour,2011 Summer,Runaway Jim,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
+2011-08-16,2011,0,7,1,1,0,0,14,2011 Late Summer Tour,2011 Summer,Foam,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
 2011-08-16,2011,0,8,1,1,0,0,53,2011 Late Summer Tour,2011 Summer,I Didn't Know,IDK,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
-2011-08-16,2011,0,9,1,1,0,0,6,2011 Late Summer Tour,2011 Summer,Ocelot,Ocelot,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
+2011-08-16,2011,0,9,1,1,0,0,6,2011 Late Summer Tour,2011 Summer,Ocelot,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
 2011-08-16,2011,0,10,2,1,0,0,15,2011 Late Summer Tour,2011 Summer,Ginseng Sullivan,Ginseng,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 2011-08-16,2011,0,11,1,1,0,0,7,2011 Late Summer Tour,2011 Summer,The Wedge,Wedge,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
 2011-08-16,2011,0,12,1,1,0,0,6,2011 Late Summer Tour,2011 Summer,Limb By Limb,LxL,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
-2011-08-16,2011,0,13,4,1,0,0,96,2011 Late Summer Tour,2011 Summer,Let It Loose,Let It Loose,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,
+2011-08-16,2011,0,13,4,1,0,0,96,2011 Late Summer Tour,2011 Summer,Let It Loose,,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,
 2011-08-16,2011,0,14,3,2,0,0,3,2011 Late Summer Tour,2011 Summer,Down with Disease,DwD,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,->
-2011-08-16,2011,0,15,2,2,0,0,5,2011 Late Summer Tour,2011 Summer,Twist,Twist,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
+2011-08-16,2011,0,15,2,2,0,0,5,2011 Late Summer Tour,2011 Summer,Twist,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 2011-08-16,2011,0,16,2,2,0,0,2,2011 Late Summer Tour,2011 Summer,Backwards Down the Number Line,BDTNL,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 2011-08-16,2011,0,17,2,2,0,0,19,2011 Late Summer Tour,2011 Summer,Theme From the Bottom,Theme,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
-2011-08-16,2011,0,18,2,2,0,0,3,2011 Late Summer Tour,2011 Summer,Golden Age,Golden Age,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
+2011-08-16,2011,0,18,2,2,0,0,3,2011 Late Summer Tour,2011 Summer,Golden Age,,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 2011-08-16,2011,0,19,2,2,0,0,9,2011 Late Summer Tour,2011 Summer,A Day in the Life,ADITL,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 2011-08-16,2011,0,20,5,2,0,0,3,2011 Late Summer Tour,2011 Summer,You Enjoy Myself,YEM,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,
-2011-08-16,2011,0,21,2,e,0,0,9,2011 Late Summer Tour,2011 Summer,Heavy Things,Heavy Things,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
+2011-08-16,2011,0,21,2,e,0,0,9,2011 Late Summer Tour,2011 Summer,Heavy Things,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 2011-08-16,2011,0,22,2,e,0,0,4,2011 Late Summer Tour,2011 Summer,Slave to the Traffic Light,Slave,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
-2011-08-16,2011,0,23,6,e,0,0,18,2011 Late Summer Tour,2011 Summer,Rocky Top,Rocky Top,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,
+2011-08-16,2011,0,23,6,e,0,0,18,2011 Late Summer Tour,2011 Summer,Rocky Top,,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,
 2011-08-17,2011,0,1,2,1,0,0,9,2011 Late Summer Tour,2011 Summer,Colonel Forbin's Ascent,Forbin's,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 2011-08-17,2011,0,2,1,1,0,0,9,2011 Late Summer Tour,2011 Summer,Fly Famous Mockingbird,Mockingbird,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
-2011-08-17,2011,0,3,2,1,0,0,17,2011 Late Summer Tour,2011 Summer,Gumbo,Gumbo,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
-2011-08-17,2011,0,4,1,1,0,0,3,2011 Late Summer Tour,2011 Summer,Possum,Possum,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
-2011-08-17,2011,0,5,2,1,0,0,31,2011 Late Summer Tour,2011 Summer,Weigh,Weigh,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
+2011-08-17,2011,0,3,2,1,0,0,17,2011 Late Summer Tour,2011 Summer,Gumbo,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
+2011-08-17,2011,0,4,1,1,0,0,3,2011 Late Summer Tour,2011 Summer,Possum,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
+2011-08-17,2011,0,5,2,1,0,0,31,2011 Late Summer Tour,2011 Summer,Weigh,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 2011-08-17,2011,0,6,1,1,0,0,10,2011 Late Summer Tour,2011 Summer,Divided Sky,Divided,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
-2011-08-17,2011,0,7,1,1,0,0,4,2011 Late Summer Tour,2011 Summer,Alaska,Alaska,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
+2011-08-17,2011,0,7,1,1,0,0,4,2011 Late Summer Tour,2011 Summer,Alaska,,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
 2011-08-17,2011,0,8,1,1,0,0,8,2011 Late Summer Tour,2011 Summer,Bathtub Gin,Gin,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
-2011-08-17,2011,0,9,1,1,0,0,7,2011 Late Summer Tour,2011 Summer,Maze,Maze,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
-2011-08-17,2011,0,10,2,1,0,0,3,2011 Late Summer Tour,2011 Summer,Cavern,Cavern,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
-2011-08-17,2011,0,11,4,1,0,0,9,2011 Late Summer Tour,2011 Summer,First Tube,First Tube,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,
+2011-08-17,2011,0,9,1,1,0,0,7,2011 Late Summer Tour,2011 Summer,Maze,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
+2011-08-17,2011,0,10,2,1,0,0,3,2011 Late Summer Tour,2011 Summer,Cavern,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
+2011-08-17,2011,0,11,4,1,0,0,9,2011 Late Summer Tour,2011 Summer,First Tube,,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,
 2011-08-17,2011,0,12,3,2,0,0,6,2011 Late Summer Tour,2011 Summer,Crosseyed and Painless,C&amp;P,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,->
-2011-08-17,2011,0,13,2,2,0,0,9,2011 Late Summer Tour,2011 Summer,No Quarter,No Quarter,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
+2011-08-17,2011,0,13,2,2,0,0,9,2011 Late Summer Tour,2011 Summer,No Quarter,,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 2011-08-17,2011,0,14,2,2,0,0,10,2011 Late Summer Tour,2011 Summer,Timber (Jerry the Mule),Timber Ho,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
-2011-08-17,2011,0,15,2,2,0,0,3,2011 Late Summer Tour,2011 Summer,Tweezer,Tweezer,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
+2011-08-17,2011,0,15,2,2,0,0,3,2011 Late Summer Tour,2011 Summer,Tweezer,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 2011-08-17,2011,0,16,2,2,0,0,7,2011 Late Summer Tour,2011 Summer,Prince Caspian,Caspian,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
-2011-08-17,2011,0,17,2,2,0,0,3,2011 Late Summer Tour,2011 Summer,Piper,Piper,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
-2011-08-17,2011,0,18,3,2,0,0,4,2011 Late Summer Tour,2011 Summer,Ghost,Ghost,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,->
+2011-08-17,2011,0,17,2,2,0,0,3,2011 Late Summer Tour,2011 Summer,Piper,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
+2011-08-17,2011,0,18,3,2,0,0,4,2011 Late Summer Tour,2011 Summer,Ghost,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,->
 2011-08-17,2011,0,19,2,2,0,0,17,2011 Late Summer Tour,2011 Summer,Makisupa Policeman,Makisupa,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
-2011-08-17,2011,0,20,2,2,0,0,105,2011 Late Summer Tour,2011 Summer,Sleep,Sleep,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
-2011-08-17,2011,0,21,1,2,0,0,20,2011 Late Summer Tour,2011 Summer,Buffalo Bill,Buffalo Bill,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
+2011-08-17,2011,0,20,2,2,0,0,105,2011 Late Summer Tour,2011 Summer,Sleep,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
+2011-08-17,2011,0,21,1,2,0,0,20,2011 Late Summer Tour,2011 Summer,Buffalo Bill,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
 2011-08-17,2011,0,22,2,2,0,0,10,2011 Late Summer Tour,2011 Summer,Golgi Apparatus,Golgi,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
-2011-08-17,2011,0,23,2,2,0,0,6,2011 Late Summer Tour,2011 Summer,Character Zero,Character Zero,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
+2011-08-17,2011,0,23,2,2,0,0,6,2011 Late Summer Tour,2011 Summer,Character Zero,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 2011-08-17,2011,0,24,5,2,0,0,4,2011 Late Summer Tour,2011 Summer,Run Like an Antelope,Antelope,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,
-2011-08-17,2011,0,25,1,e,0,0,3,2011 Late Summer Tour,2011 Summer,Funky Bitch,Funky Bitch,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
-2011-08-17,2011,0,26,2,e,0,0,4,2011 Late Summer Tour,2011 Summer,Show of Life,Show of Life,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
+2011-08-17,2011,0,25,1,e,0,0,3,2011 Late Summer Tour,2011 Summer,Funky Bitch,,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
+2011-08-17,2011,0,26,2,e,0,0,4,2011 Late Summer Tour,2011 Summer,Show of Life,,0,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 2011-08-17,2011,0,27,6,e,0,0,3,2011 Late Summer Tour,2011 Summer,Tweezer Reprise,Tweeprise,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,
 2011-09-02,2011,0,1,1,1,0,0,4,Not Part of a Tour,No Tour,Sample in a Jar,Sample,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2011-09-02,2011,0,2,1,1,0,0,41,Not Part of a Tour,No Tour,Sparkle,Sparkle,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2011-09-02,2011,0,2,1,1,0,0,41,Not Part of a Tour,No Tour,Sparkle,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2011-09-02,2011,0,3,1,1,0,0,20,Not Part of a Tour,No Tour,The Sloth,Sloth,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2011-09-02,2011,0,4,1,1,0,0,84,Not Part of a Tour,No Tour,Sweet Virginia,Sweet Virginia,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2011-09-02,2011,0,5,1,1,0,0,11,Not Part of a Tour,No Tour,Susskind Hotel,Susskind Hotel,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2011-09-02,2011,0,6,1,1,0,0,49,Not Part of a Tour,No Tour,Strange Design,Strange Design,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2011-09-02,2011,0,7,1,1,0,0,5,Not Part of a Tour,No Tour,Stash,Stash,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2011-09-02,2011,0,4,1,1,0,0,84,Not Part of a Tour,No Tour,Sweet Virginia,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2011-09-02,2011,0,5,1,1,0,0,11,Not Part of a Tour,No Tour,Susskind Hotel,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2011-09-02,2011,0,6,1,1,0,0,49,Not Part of a Tour,No Tour,Strange Design,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2011-09-02,2011,0,7,1,1,0,0,5,Not Part of a Tour,No Tour,Stash,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2011-09-02,2011,0,8,3,1,0,0,5,Not Part of a Tour,No Tour,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Dick's Sporting Goods Park,Commerce City,CO,USA,->
-2011-09-02,2011,0,9,2,1,0,0,465,Not Part of a Tour,No Tour,Sparks,Sparks,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2011-09-02,2011,0,9,2,1,0,0,465,Not Part of a Tour,No Tour,Sparks,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2011-09-02,2011,0,10,1,1,0,0,3,Not Part of a Tour,No Tour,Scent of a Mule,SOAMule,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2011-09-02,2011,0,11,1,1,0,0,5,Not Part of a Tour,No Tour,Stealing Time From the Faulty Plan,STFTFP,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2011-09-02,2011,0,12,1,1,0,0,34,Not Part of a Tour,No Tour,Shine a Light,Shine a Light,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2011-09-02,2011,0,12,1,1,0,0,34,Not Part of a Tour,No Tour,Shine a Light,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2011-09-02,2011,0,13,1,1,0,0,7,Not Part of a Tour,No Tour,Split Open and Melt,SOAMelt,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2011-09-02,2011,0,14,4,1,0,0,6,Not Part of a Tour,No Tour,The Squirming Coil,Coil,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2011-09-02,2011,0,15,2,2,0,0,3,Not Part of a Tour,No Tour,Sand,Sand,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2011-09-02,2011,0,16,3,2,0,0,12,Not Part of a Tour,No Tour,Simple,Simple,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
-2011-09-02,2011,0,17,2,2,0,0,3,Not Part of a Tour,No Tour,Steam,Steam,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2011-09-02,2011,0,18,3,2,0,0,10,Not Part of a Tour,No Tour,Soul Shakedown Party,Soul Shakedown Party,0,Dick's Sporting Goods Park,Commerce City,CO,USA,->
-2011-09-02,2011,0,19,2,2,0,0,26,Not Part of a Tour,No Tour,Seven Below,Seven Below,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2011-09-02,2011,0,15,2,2,0,0,3,Not Part of a Tour,No Tour,Sand,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2011-09-02,2011,0,16,3,2,0,0,12,Not Part of a Tour,No Tour,Simple,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2011-09-02,2011,0,17,2,2,0,0,3,Not Part of a Tour,No Tour,Steam,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2011-09-02,2011,0,18,3,2,0,0,10,Not Part of a Tour,No Tour,Soul Shakedown Party,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2011-09-02,2011,0,19,2,2,0,0,26,Not Part of a Tour,No Tour,Seven Below,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2011-09-02,2011,0,20,2,2,0,0,4,Not Part of a Tour,No Tour,Suzy Greenberg,Suzy,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2011-09-02,2011,0,21,2,2,0,0,11,Not Part of a Tour,No Tour,Scents and Subtle Sounds,Scents and Subtle Sounds,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2011-09-02,2011,0,21,2,2,0,0,11,Not Part of a Tour,No Tour,Scents and Subtle Sounds,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2011-09-02,2011,0,22,2,2,0,0,2,Not Part of a Tour,No Tour,Slave to the Traffic Light,Slave,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2011-09-02,2011,0,23,2,2,0,0,3,Not Part of a Tour,No Tour,Silent in the Morning,Silent,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2011-09-02,2011,0,24,1,2,0,0,8,Not Part of a Tour,No Tour,Sanity,Sanity,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2011-09-02,2011,0,25,5,2,0,0,287,Not Part of a Tour,No Tour,Sweet Adeline,Sweet Adeline,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2011-09-02,2011,0,26,6,e,0,0,320,Not Part of a Tour,No Tour,Sabotage,Sabotage,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2011-09-03,2011,0,1,1,1,0,0,2,Not Part of a Tour,No Tour,Possum,Possum,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2011-09-02,2011,0,24,1,2,0,0,8,Not Part of a Tour,No Tour,Sanity,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2011-09-02,2011,0,25,5,2,0,0,287,Not Part of a Tour,No Tour,Sweet Adeline,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2011-09-02,2011,0,26,6,e,0,0,320,Not Part of a Tour,No Tour,Sabotage,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2011-09-03,2011,0,1,1,1,0,0,2,Not Part of a Tour,No Tour,Possum,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2011-09-03,2011,0,2,2,1,0,0,5,Not Part of a Tour,No Tour,The Moma Dance,Moma,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2011-09-03,2011,0,3,1,1,0,0,3,Not Part of a Tour,No Tour,The Wedge,Wedge,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2011-09-03,2011,0,4,2,1,0,0,3,Not Part of a Tour,No Tour,Ocelot,Ocelot,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2011-09-03,2011,0,4,2,1,0,0,3,Not Part of a Tour,No Tour,Ocelot,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2011-09-03,2011,0,5,1,1,0,0,2,Not Part of a Tour,No Tour,Divided Sky,Divided,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2011-09-03,2011,0,6,1,1,0,0,2,Not Part of a Tour,No Tour,Funky Bitch,Funky Bitch,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2011-09-03,2011,0,7,2,1,0,0,5,Not Part of a Tour,No Tour,Axilla,Axilla,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2011-09-03,2011,0,8,1,1,0,0,23,Not Part of a Tour,No Tour,Llama,Llama,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2011-09-03,2011,0,6,1,1,0,0,2,Not Part of a Tour,No Tour,Funky Bitch,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2011-09-03,2011,0,7,2,1,0,0,5,Not Part of a Tour,No Tour,Axilla,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2011-09-03,2011,0,8,1,1,0,0,23,Not Part of a Tour,No Tour,Llama,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2011-09-03,2011,0,9,1,1,0,0,22,Not Part of a Tour,No Tour,Fast Enough for You,FEFY,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2011-09-03,2011,0,10,4,1,0,0,4,Not Part of a Tour,No Tour,Wolfman's Brother,Wolfman's,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2011-09-03,2011,0,11,3,2,0,0,3,Not Part of a Tour,No Tour,Down with Disease,DwD,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
-2011-09-03,2011,0,12,2,2,0,0,2,Not Part of a Tour,No Tour,Tweezer,Tweezer,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2011-09-03,2011,0,13,2,2,0,0,3,Not Part of a Tour,No Tour,Golden Age,Golden Age,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2011-09-03,2011,0,12,2,2,0,0,2,Not Part of a Tour,No Tour,Tweezer,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2011-09-03,2011,0,13,2,2,0,0,3,Not Part of a Tour,No Tour,Golden Age,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2011-09-03,2011,0,14,1,2,0,0,3,Not Part of a Tour,No Tour,Limb By Limb,LxL,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2011-09-03,2011,0,15,2,2,0,0,5,Not Part of a Tour,No Tour,Kill Devil Falls,KDF,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2011-09-03,2011,0,16,2,2,0,0,5,Not Part of a Tour,No Tour,Also Sprach Zarathustra,2001,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2011-09-03,2011,0,17,2,2,0,0,4,Not Part of a Tour,No Tour,Light,Light,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2011-09-03,2011,0,18,2,2,0,0,5,Not Part of a Tour,No Tour,Julius,Julius,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2011-09-03,2011,0,19,2,2,0,0,2,Not Part of a Tour,No Tour,Cavern,Cavern,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2011-09-03,2011,0,17,2,2,0,0,4,Not Part of a Tour,No Tour,Light,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2011-09-03,2011,0,18,2,2,0,0,5,Not Part of a Tour,No Tour,Julius,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2011-09-03,2011,0,19,2,2,0,0,2,Not Part of a Tour,No Tour,Cavern,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2011-09-03,2011,0,20,5,2,0,0,2,Not Part of a Tour,No Tour,Run Like an Antelope,Antelope,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2011-09-03,2011,0,21,2,e,0,0,12,Not Part of a Tour,No Tour,Sleeping Monkey,Sleeping Monkey,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2011-09-03,2011,0,21,2,e,0,0,12,Not Part of a Tour,No Tour,Sleeping Monkey,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2011-09-03,2011,0,22,6,e,0,0,2,Not Part of a Tour,No Tour,Tweezer Reprise,Tweeprise,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2011-09-04,2011,0,1,1,1,0,0,3,Not Part of a Tour,No Tour,Maze,Maze,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2011-09-04,2011,0,1,1,1,0,0,3,Not Part of a Tour,No Tour,Maze,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2011-09-04,2011,0,2,2,1,0,0,5,Not Part of a Tour,No Tour,Back on the Train,BOTT,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2011-09-04,2011,0,3,2,1,0,0,5,Not Part of a Tour,No Tour,Rift,Rift,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2011-09-04,2011,0,3,2,1,0,0,5,Not Part of a Tour,No Tour,Rift,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2011-09-04,2011,0,4,1,1,0,0,3,Not Part of a Tour,No Tour,Bathtub Gin,Gin,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2011-09-04,2011,0,5,1,1,0,0,1551,Not Part of a Tour,No Tour,The Way It Goes,The Way It Goes,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2011-09-04,2011,0,6,1,1,0,0,20,Not Part of a Tour,No Tour,Halfway to the Moon,Halfway to the Moon,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2011-09-04,2011,0,7,1,1,0,0,3,Not Part of a Tour,No Tour,Gumbo,Gumbo,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2011-09-04,2011,0,5,1,1,0,0,1551,Not Part of a Tour,No Tour,The Way It Goes,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2011-09-04,2011,0,6,1,1,0,0,20,Not Part of a Tour,No Tour,Halfway to the Moon,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2011-09-04,2011,0,7,1,1,0,0,3,Not Part of a Tour,No Tour,Gumbo,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2011-09-04,2011,0,8,2,1,0,0,7,Not Part of a Tour,No Tour,Halley's Comet,Halley's,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2011-09-04,2011,0,9,2,1,0,0,9,Not Part of a Tour,No Tour,Tube,Tube,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2011-09-04,2011,0,9,2,1,0,0,9,Not Part of a Tour,No Tour,Tube,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2011-09-04,2011,0,10,2,1,0,0,3,Not Part of a Tour,No Tour,Timber (Jerry the Mule),Timber Ho,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2011-09-04,2011,0,11,2,1,0,0,6,Not Part of a Tour,No Tour,Roses Are Free,Roses,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2011-09-04,2011,0,12,4,1,0,0,4,Not Part of a Tour,No Tour,Chalk Dust Torture,CDT,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2011-09-04,2011,0,13,3,2,0,0,6,Not Part of a Tour,No Tour,Rock and Roll,R&amp;R,0,Dick's Sporting Goods Park,Commerce City,CO,USA,->
-2011-09-04,2011,0,14,3,2,0,0,539,Not Part of a Tour,No Tour,Come Together,Come Together,0,Dick's Sporting Goods Park,Commerce City,CO,USA,->
-2011-09-04,2011,0,15,3,2,0,0,4,Not Part of a Tour,No Tour,Twist,Twist,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
-2011-09-04,2011,0,16,2,2,0,0,3,Not Part of a Tour,No Tour,Piper,Piper,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2011-09-04,2011,0,14,3,2,0,0,539,Not Part of a Tour,No Tour,Come Together,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2011-09-04,2011,0,15,3,2,0,0,4,Not Part of a Tour,No Tour,Twist,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2011-09-04,2011,0,16,2,2,0,0,3,Not Part of a Tour,No Tour,Piper,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2011-09-04,2011,0,17,2,2,0,0,5,Not Part of a Tour,No Tour,Harry Hood,Hood,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2011-09-04,2011,0,18,2,2,0,0,11,Not Part of a Tour,No Tour,Roggae,Roggae,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2011-09-04,2011,0,19,3,2,0,0,3,Not Part of a Tour,No Tour,Ghost,Ghost,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
-2011-09-04,2011,0,20,3,2,0,0,199,Not Part of a Tour,No Tour,Guy Forget,Guy Forget,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
-2011-09-04,2011,0,21,1,2,0,0,0,Not Part of a Tour,No Tour,Ghost,Ghost,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2011-09-04,2011,0,18,2,2,0,0,11,Not Part of a Tour,No Tour,Roggae,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2011-09-04,2011,0,19,3,2,0,0,3,Not Part of a Tour,No Tour,Ghost,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2011-09-04,2011,0,20,3,2,0,0,199,Not Part of a Tour,No Tour,Guy Forget,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2011-09-04,2011,0,21,1,2,0,0,0,Not Part of a Tour,No Tour,Ghost,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2011-09-04,2011,0,22,5,2,0,0,4,Not Part of a Tour,No Tour,Walls of the Cave,WotC,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2011-09-04,2011,0,23,6,e,0,0,4,Not Part of a Tour,No Tour,Backwards Down the Number Line,BDTNL,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2011-09-14,2011,0,1,1,1,0,0,1,Not Part of a Tour,No Tour,Chalk Dust Torture,CDT,1,Champlain Valley Exposition,Essex Junction,VT,USA,","
 2011-09-14,2011,0,2,2,1,0,0,2,Not Part of a Tour,No Tour,The Moma Dance,Moma,1,Champlain Valley Exposition,Essex Junction,VT,USA,>
-2011-09-14,2011,0,3,1,1,0,0,15,Not Part of a Tour,No Tour,NICU,NICU,1,Champlain Valley Exposition,Essex Junction,VT,USA,","
-2011-09-14,2011,0,4,1,1,0,0,2,Not Part of a Tour,No Tour,Funky Bitch,Funky Bitch,0,Champlain Valley Exposition,Essex Junction,VT,USA,","
+2011-09-14,2011,0,3,1,1,0,0,15,Not Part of a Tour,No Tour,NICU,,1,Champlain Valley Exposition,Essex Junction,VT,USA,","
+2011-09-14,2011,0,4,1,1,0,0,2,Not Part of a Tour,No Tour,Funky Bitch,,0,Champlain Valley Exposition,Essex Junction,VT,USA,","
 2011-09-14,2011,0,5,1,1,0,0,3,Not Part of a Tour,No Tour,Sample in a Jar,Sample,1,Champlain Valley Exposition,Essex Junction,VT,USA,","
-2011-09-14,2011,0,6,2,1,0,0,2,Not Part of a Tour,No Tour,Cavern,Cavern,1,Champlain Valley Exposition,Essex Junction,VT,USA,>
+2011-09-14,2011,0,6,2,1,0,0,2,Not Part of a Tour,No Tour,Cavern,,1,Champlain Valley Exposition,Essex Junction,VT,USA,>
 2011-09-14,2011,0,7,1,1,0,0,1,Not Part of a Tour,No Tour,Bathtub Gin,Gin,1,Champlain Valley Exposition,Essex Junction,VT,USA,","
-2011-09-14,2011,0,8,2,1,0,0,4,Not Part of a Tour,No Tour,Alaska,Alaska,0,Champlain Valley Exposition,Essex Junction,VT,USA,>
-2011-09-14,2011,0,9,1,1,0,0,2,Not Part of a Tour,No Tour,Possum,Possum,1,Champlain Valley Exposition,Essex Junction,VT,USA,","
+2011-09-14,2011,0,8,2,1,0,0,4,Not Part of a Tour,No Tour,Alaska,,0,Champlain Valley Exposition,Essex Junction,VT,USA,>
+2011-09-14,2011,0,9,1,1,0,0,2,Not Part of a Tour,No Tour,Possum,,1,Champlain Valley Exposition,Essex Junction,VT,USA,","
 2011-09-14,2011,0,10,2,1,0,0,2,Not Part of a Tour,No Tour,Wolfman's Brother,Wolfman's,1,Champlain Valley Exposition,Essex Junction,VT,USA,>
-2011-09-14,2011,0,11,4,1,0,0,2,Not Part of a Tour,No Tour,Julius,Julius,1,Champlain Valley Exposition,Essex Junction,VT,USA,
-2011-09-14,2011,0,12,2,2,0,0,10,Not Part of a Tour,No Tour,Carini,Carini,1,Champlain Valley Exposition,Essex Junction,VT,USA,>
+2011-09-14,2011,0,11,4,1,0,0,2,Not Part of a Tour,No Tour,Julius,,1,Champlain Valley Exposition,Essex Junction,VT,USA,
+2011-09-14,2011,0,12,2,2,0,0,10,Not Part of a Tour,No Tour,Carini,,1,Champlain Valley Exposition,Essex Junction,VT,USA,>
 2011-09-14,2011,0,13,2,2,0,0,2,Not Part of a Tour,No Tour,Down with Disease,DwD,1,Champlain Valley Exposition,Essex Junction,VT,USA,>
 2011-09-14,2011,0,14,2,2,0,0,3,Not Part of a Tour,No Tour,Slave to the Traffic Light,Slave,1,Champlain Valley Exposition,Essex Junction,VT,USA,>
 2011-09-14,2011,0,15,2,2,0,0,1,Not Part of a Tour,No Tour,Rock and Roll,R&amp;R,0,Champlain Valley Exposition,Essex Junction,VT,USA,>
-2011-09-14,2011,0,16,2,2,0,0,1,Not Part of a Tour,No Tour,Twist,Twist,1,Champlain Valley Exposition,Essex Junction,VT,USA,>
+2011-09-14,2011,0,16,2,2,0,0,1,Not Part of a Tour,No Tour,Twist,,1,Champlain Valley Exposition,Essex Junction,VT,USA,>
 2011-09-14,2011,0,17,1,2,0,0,1,Not Part of a Tour,No Tour,Backwards Down the Number Line,BDTNL,0,Champlain Valley Exposition,Essex Junction,VT,USA,","
 2011-09-14,2011,0,18,2,2,0,0,5,Not Part of a Tour,No Tour,Theme From the Bottom,Theme,1,Champlain Valley Exposition,Essex Junction,VT,USA,>
 2011-09-14,2011,0,19,2,2,0,0,3,Not Part of a Tour,No Tour,Suzy Greenberg,Suzy,1,Champlain Valley Exposition,Essex Junction,VT,USA,>
-2011-09-14,2011,0,20,5,2,0,0,4,Not Part of a Tour,No Tour,Character Zero,Character Zero,1,Champlain Valley Exposition,Essex Junction,VT,USA,
-2011-09-14,2011,0,21,6,e,0,0,12,Not Part of a Tour,No Tour,Loving Cup,Loving Cup,0,Champlain Valley Exposition,Essex Junction,VT,USA,
-2011-12-28,2011,0,1,1,1,0,0,10,2011 NYE,2011 NYE,Free,Free,1,Madison Square Garden,New York,NY,USA,","
-2011-12-28,2011,0,2,2,1,0,0,89,2011 NYE,2011 NYE,Glide,Glide,1,Madison Square Garden,New York,NY,USA,>
-2011-12-28,2011,0,3,1,1,0,0,1,2011 NYE,2011 NYE,Possum,Possum,1,Madison Square Garden,New York,NY,USA,","
-2011-12-28,2011,0,4,1,1,0,0,11,2011 NYE,2011 NYE,Cities,Cities,0,Madison Square Garden,New York,NY,USA,","
+2011-09-14,2011,0,20,5,2,0,0,4,Not Part of a Tour,No Tour,Character Zero,,1,Champlain Valley Exposition,Essex Junction,VT,USA,
+2011-09-14,2011,0,21,6,e,0,0,12,Not Part of a Tour,No Tour,Loving Cup,,0,Champlain Valley Exposition,Essex Junction,VT,USA,
+2011-12-28,2011,0,1,1,1,0,0,10,2011 NYE,2011 NYE,Free,,1,Madison Square Garden,New York,NY,USA,","
+2011-12-28,2011,0,2,2,1,0,0,89,2011 NYE,2011 NYE,Glide,,1,Madison Square Garden,New York,NY,USA,>
+2011-12-28,2011,0,3,1,1,0,0,1,2011 NYE,2011 NYE,Possum,,1,Madison Square Garden,New York,NY,USA,","
+2011-12-28,2011,0,4,1,1,0,0,11,2011 NYE,2011 NYE,Cities,,0,Madison Square Garden,New York,NY,USA,","
 2011-12-28,2011,0,5,1,1,0,0,18,2011 NYE,2011 NYE,The Ballad of Curtis Loew,Curtis Loew,0,Madison Square Garden,New York,NY,USA,","
-2011-12-28,2011,0,6,1,1,0,0,4,2011 NYE,2011 NYE,Stash,Stash,1,Madison Square Garden,New York,NY,USA,","
-2011-12-28,2011,0,7,2,1,0,0,59,2011 NYE,2011 NYE,Contact,Contact,1,Madison Square Garden,New York,NY,USA,>
+2011-12-28,2011,0,6,1,1,0,0,4,2011 NYE,2011 NYE,Stash,,1,Madison Square Garden,New York,NY,USA,","
+2011-12-28,2011,0,7,2,1,0,0,59,2011 NYE,2011 NYE,Contact,,1,Madison Square Garden,New York,NY,USA,>
 2011-12-28,2011,0,8,1,1,0,0,1,2011 NYE,2011 NYE,Sample in a Jar,Sample,1,Madison Square Garden,New York,NY,USA,","
 2011-12-28,2011,0,9,2,1,0,0,3,2011 NYE,2011 NYE,Kill Devil Falls,KDF,1,Madison Square Garden,New York,NY,USA,>
 2011-12-28,2011,0,10,4,1,0,0,1,2011 NYE,2011 NYE,Bathtub Gin,Gin,1,Madison Square Garden,New York,NY,USA,
 2011-12-28,2011,0,11,1,2,0,0,8,2011 NYE,2011 NYE,Birds of a Feather,BOAF,1,Madison Square Garden,New York,NY,USA,","
-2011-12-28,2011,0,12,3,2,0,0,1,2011 NYE,2011 NYE,Carini,Carini,1,Madison Square Garden,New York,NY,USA,->
-2011-12-28,2011,0,13,2,2,0,0,3,2011 NYE,2011 NYE,Tweezer,Tweezer,1,Madison Square Garden,New York,NY,USA,>
+2011-12-28,2011,0,12,3,2,0,0,1,2011 NYE,2011 NYE,Carini,,1,Madison Square Garden,New York,NY,USA,->
+2011-12-28,2011,0,13,2,2,0,0,3,2011 NYE,2011 NYE,Tweezer,,1,Madison Square Garden,New York,NY,USA,>
 2011-12-28,2011,0,14,3,2,0,0,13,2011 NYE,2011 NYE,"My Friend, My Friend",My Friend,1,Madison Square Garden,New York,NY,USA,->
 2011-12-28,2011,0,15,3,2,0,0,1,2011 NYE,2011 NYE,Rock and Roll,R&amp;R,0,Madison Square Garden,New York,NY,USA,->
-2011-12-28,2011,0,16,1,2,0,0,1,2011 NYE,2011 NYE,NICU,NICU,1,Madison Square Garden,New York,NY,USA,","
+2011-12-28,2011,0,16,1,2,0,0,1,2011 NYE,2011 NYE,NICU,,1,Madison Square Garden,New York,NY,USA,","
 2011-12-28,2011,0,17,1,2,0,0,10,2011 NYE,2011 NYE,Bouncing Around the Room,Bouncin',1,Madison Square Garden,New York,NY,USA,","
 2011-12-28,2011,0,18,2,2,0,0,2,2011 NYE,2011 NYE,Harry Hood,Hood,1,Madison Square Garden,New York,NY,USA,>
-2011-12-28,2011,0,19,5,2,0,0,10,2011 NYE,2011 NYE,Bug,Bug,0,Madison Square Garden,New York,NY,USA,
-2011-12-28,2011,0,20,2,e,0,0,2,2011 NYE,2011 NYE,Tube,Tube,1,Madison Square Garden,New York,NY,USA,>
-2011-12-28,2011,0,21,2,e,0,0,6,2011 NYE,2011 NYE,Rocky Top,Rocky Top,0,Madison Square Garden,New York,NY,USA,>
+2011-12-28,2011,0,19,5,2,0,0,10,2011 NYE,2011 NYE,Bug,,0,Madison Square Garden,New York,NY,USA,
+2011-12-28,2011,0,20,2,e,0,0,2,2011 NYE,2011 NYE,Tube,,1,Madison Square Garden,New York,NY,USA,>
+2011-12-28,2011,0,21,2,e,0,0,6,2011 NYE,2011 NYE,Rocky Top,,0,Madison Square Garden,New York,NY,USA,>
 2011-12-28,2011,0,22,6,e,0,0,3,2011 NYE,2011 NYE,Tweezer Reprise,Tweeprise,1,Madison Square Garden,New York,NY,USA,
 2011-12-29,2011,0,1,1,1,0,0,5,2011 NYE,2011 NYE,The Sloth,Sloth,1,Madison Square Garden,New York,NY,USA,","
 2011-12-29,2011,0,2,1,1,0,0,7,2011 NYE,2011 NYE,You Enjoy Myself,YEM,1,Madison Square Garden,New York,NY,USA,","
 2011-12-29,2011,0,3,1,1,0,0,3,2011 NYE,2011 NYE,Back on the Train,BOTT,0,Madison Square Garden,New York,NY,USA,","
 2011-12-29,2011,0,4,1,1,0,0,2,2011 NYE,2011 NYE,The Moma Dance,Moma,1,Madison Square Garden,New York,NY,USA,","
-2011-12-29,2011,0,5,1,1,0,0,2,2011 NYE,2011 NYE,Funky Bitch,Funky Bitch,0,Madison Square Garden,New York,NY,USA,","
-2011-12-29,2011,0,6,1,1,0,0,3,2011 NYE,2011 NYE,Maze,Maze,1,Madison Square Garden,New York,NY,USA,","
+2011-12-29,2011,0,5,1,1,0,0,2,2011 NYE,2011 NYE,Funky Bitch,,0,Madison Square Garden,New York,NY,USA,","
+2011-12-29,2011,0,6,1,1,0,0,3,2011 NYE,2011 NYE,Maze,,1,Madison Square Garden,New York,NY,USA,","
 2011-12-29,2011,0,7,1,1,0,0,3,2011 NYE,2011 NYE,Roses Are Free,Roses,0,Madison Square Garden,New York,NY,USA,","
 2011-12-29,2011,0,8,2,1,0,0,3,2011 NYE,2011 NYE,Halley's Comet,Halley's,1,Madison Square Garden,New York,NY,USA,>
 2011-12-29,2011,0,9,4,1,0,0,4,2011 NYE,2011 NYE,Run Like an Antelope,Antelope,1,Madison Square Garden,New York,NY,USA,
 2011-12-29,2011,0,10,2,2,0,0,6,2011 NYE,2011 NYE,Crosseyed and Painless,C&amp;P,0,Madison Square Garden,New York,NY,USA,>
-2011-12-29,2011,0,11,3,2,0,0,5,2011 NYE,2011 NYE,Simple,Simple,1,Madison Square Garden,New York,NY,USA,->
-2011-12-29,2011,0,12,2,2,0,0,86,2011 NYE,2011 NYE,Lifeboy,Lifeboy,1,Madison Square Garden,New York,NY,USA,>
-2011-12-29,2011,0,13,1,2,0,0,8,2011 NYE,2011 NYE,Guyute,Guyute,1,Madison Square Garden,New York,NY,USA,","
+2011-12-29,2011,0,11,3,2,0,0,5,2011 NYE,2011 NYE,Simple,,1,Madison Square Garden,New York,NY,USA,->
+2011-12-29,2011,0,12,2,2,0,0,86,2011 NYE,2011 NYE,Lifeboy,,1,Madison Square Garden,New York,NY,USA,>
+2011-12-29,2011,0,13,1,2,0,0,8,2011 NYE,2011 NYE,Guyute,,1,Madison Square Garden,New York,NY,USA,","
 2011-12-29,2011,0,14,2,2,0,0,9,2011 NYE,2011 NYE,Mike's Song,Mike's,1,Madison Square Garden,New York,NY,USA,>
 2011-12-29,2011,0,15,3,2,0,0,2,2011 NYE,2011 NYE,Chalk Dust Torture,CDT,1,Madison Square Garden,New York,NY,USA,->
 2011-12-29,2011,0,16,2,2,0,0,9,2011 NYE,2011 NYE,I Am Hydrogen,Hydrogen,1,Madison Square Garden,New York,NY,USA,>
 2011-12-29,2011,0,17,1,2,0,0,9,2011 NYE,2011 NYE,Weekapaug Groove,Weekapaug,1,Madison Square Garden,New York,NY,USA,","
-2011-12-29,2011,0,18,2,2,0,0,6,2011 NYE,2011 NYE,Show of Life,Show of Life,0,Madison Square Garden,New York,NY,USA,>
-2011-12-29,2011,0,19,5,2,0,0,2,2011 NYE,2011 NYE,Character Zero,Character Zero,1,Madison Square Garden,New York,NY,USA,
-2011-12-29,2011,0,20,6,e,0,0,2,2011 NYE,2011 NYE,Loving Cup,Loving Cup,0,Madison Square Garden,New York,NY,USA,
+2011-12-29,2011,0,18,2,2,0,0,6,2011 NYE,2011 NYE,Show of Life,,0,Madison Square Garden,New York,NY,USA,>
+2011-12-29,2011,0,19,5,2,0,0,2,2011 NYE,2011 NYE,Character Zero,,1,Madison Square Garden,New York,NY,USA,
+2011-12-29,2011,0,20,6,e,0,0,2,2011 NYE,2011 NYE,Loving Cup,,0,Madison Square Garden,New York,NY,USA,
 2011-12-30,2011,0,1,2,1,0,0,12,2011 NYE,2011 NYE,Punch You in the Eye,PYITE,1,Madison Square Garden,New York,NY,USA,>
 2011-12-30,2011,0,2,2,1,0,0,7,2011 NYE,2011 NYE,Prince Caspian,Caspian,1,Madison Square Garden,New York,NY,USA,>
 2011-12-30,2011,0,3,1,1,0,0,3,2011 NYE,2011 NYE,Backwards Down the Number Line,BDTNL,0,Madison Square Garden,New York,NY,USA,","
-2011-12-30,2011,0,4,1,1,0,0,15,2011 NYE,2011 NYE,Nellie Kane,Nellie Kane,0,Madison Square Garden,New York,NY,USA,","
+2011-12-30,2011,0,4,1,1,0,0,15,2011 NYE,2011 NYE,Nellie Kane,,0,Madison Square Garden,New York,NY,USA,","
 2011-12-30,2011,0,5,1,1,0,0,5,2011 NYE,2011 NYE,Divided Sky,Divided,1,Madison Square Garden,New York,NY,USA,","
-2011-12-30,2011,0,6,1,1,0,0,6,2011 NYE,2011 NYE,Sand,Sand,0,Madison Square Garden,New York,NY,USA,","
-2011-12-30,2011,0,7,1,1,0,0,25,2011 NYE,2011 NYE,Vultures,Vultures,1,Madison Square Garden,New York,NY,USA,","
-2011-12-30,2011,0,8,1,1,0,0,4,2011 NYE,2011 NYE,Rift,Rift,1,Madison Square Garden,New York,NY,USA,","
-2011-12-30,2011,0,9,1,1,0,0,13,2011 NYE,2011 NYE,Joy,Joy,1,Madison Square Garden,New York,NY,USA,","
+2011-12-30,2011,0,6,1,1,0,0,6,2011 NYE,2011 NYE,Sand,,0,Madison Square Garden,New York,NY,USA,","
+2011-12-30,2011,0,7,1,1,0,0,25,2011 NYE,2011 NYE,Vultures,,1,Madison Square Garden,New York,NY,USA,","
+2011-12-30,2011,0,8,1,1,0,0,4,2011 NYE,2011 NYE,Rift,,1,Madison Square Garden,New York,NY,USA,","
+2011-12-30,2011,0,9,1,1,0,0,13,2011 NYE,2011 NYE,Joy,,1,Madison Square Garden,New York,NY,USA,","
 2011-12-30,2011,0,10,4,1,0,0,13,2011 NYE,2011 NYE,Quinn the Eskimo (The Mighty Quinn),Quinn,0,Madison Square Garden,New York,NY,USA,
-2011-12-30,2011,0,11,2,2,0,0,10,2011 NYE,2011 NYE,Wilson,Wilson,1,Madison Square Garden,New York,NY,USA,>
-2011-12-30,2011,0,12,2,2,0,0,5,2011 NYE,2011 NYE,Axilla,Axilla,1,Madison Square Garden,New York,NY,USA,>
-2011-12-30,2011,0,13,2,2,0,0,4,2011 NYE,2011 NYE,Piper,Piper,1,Madison Square Garden,New York,NY,USA,>
-2011-12-30,2011,0,14,2,2,0,0,3,2011 NYE,2011 NYE,Twist,Twist,1,Madison Square Garden,New York,NY,USA,>
-2011-12-30,2011,0,15,2,2,0,0,3,2011 NYE,2011 NYE,Julius,Julius,1,Madison Square Garden,New York,NY,USA,>
+2011-12-30,2011,0,11,2,2,0,0,10,2011 NYE,2011 NYE,Wilson,,1,Madison Square Garden,New York,NY,USA,>
+2011-12-30,2011,0,12,2,2,0,0,5,2011 NYE,2011 NYE,Axilla,,1,Madison Square Garden,New York,NY,USA,>
+2011-12-30,2011,0,13,2,2,0,0,4,2011 NYE,2011 NYE,Piper,,1,Madison Square Garden,New York,NY,USA,>
+2011-12-30,2011,0,14,2,2,0,0,3,2011 NYE,2011 NYE,Twist,,1,Madison Square Garden,New York,NY,USA,>
+2011-12-30,2011,0,15,2,2,0,0,3,2011 NYE,2011 NYE,Julius,,1,Madison Square Garden,New York,NY,USA,>
 2011-12-30,2011,0,16,2,2,0,0,7,2011 NYE,2011 NYE,Golgi Apparatus,Golgi,1,Madison Square Garden,New York,NY,USA,>
 2011-12-30,2011,0,17,2,2,0,0,5,2011 NYE,2011 NYE,Also Sprach Zarathustra,2001,0,Madison Square Garden,New York,NY,USA,>
 2011-12-30,2011,0,18,2,2,0,0,9,2011 NYE,2011 NYE,The Horse,Horse,1,Madison Square Garden,New York,NY,USA,>
@@ -889,27 +889,27 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2011-12-31,2011,0,2,1,1,0,0,4,2011 NYE,2011 NYE,Wolfman's Brother,Wolfman's,1,Madison Square Garden,New York,NY,USA,","
 2011-12-31,2011,0,3,1,1,0,0,7,2011 NYE,2011 NYE,Scent of a Mule,SOAMule,1,Madison Square Garden,New York,NY,USA,","
 2011-12-31,2011,0,4,1,1,0,0,7,2011 NYE,2011 NYE,Stealing Time From the Faulty Plan,STFTFP,1,Madison Square Garden,New York,NY,USA,","
-2011-12-31,2011,0,5,1,1,0,0,14,2011 NYE,2011 NYE,Lawn Boy,Lawn Boy,1,Madison Square Garden,New York,NY,USA,","
+2011-12-31,2011,0,5,1,1,0,0,14,2011 NYE,2011 NYE,Lawn Boy,,1,Madison Square Garden,New York,NY,USA,","
 2011-12-31,2011,0,6,1,1,0,0,13,2011 NYE,2011 NYE,Gotta Jibboo,Jibboo,0,Madison Square Garden,New York,NY,USA,","
-2011-12-31,2011,0,7,1,1,0,0,16,2011 NYE,2011 NYE,Farmhouse,Farmhouse,1,Madison Square Garden,New York,NY,USA,","
-2011-12-31,2011,0,8,1,1,0,0,29,2011 NYE,2011 NYE,Pebbles and Marbles,Pebbles and Marbles,0,Madison Square Garden,New York,NY,USA,","
-2011-12-31,2011,0,9,2,1,0,0,6,2011 NYE,2011 NYE,Ocelot,Ocelot,1,Madison Square Garden,New York,NY,USA,>
-2011-12-31,2011,0,10,4,1,0,0,11,2011 NYE,2011 NYE,Fluffhead,Fluffhead,1,Madison Square Garden,New York,NY,USA,
-2011-12-31,2011,0,11,1,2,0,0,13,2011 NYE,2011 NYE,Party Time,Party Time,1,Madison Square Garden,New York,NY,USA,","
-2011-12-31,2011,0,12,3,2,0,0,6,2011 NYE,2011 NYE,Light,Light,0,Madison Square Garden,New York,NY,USA,->
-2011-12-31,2011,0,13,2,2,0,0,6,2011 NYE,2011 NYE,Golden Age,Golden Age,0,Madison Square Garden,New York,NY,USA,>
+2011-12-31,2011,0,7,1,1,0,0,16,2011 NYE,2011 NYE,Farmhouse,,1,Madison Square Garden,New York,NY,USA,","
+2011-12-31,2011,0,8,1,1,0,0,29,2011 NYE,2011 NYE,Pebbles and Marbles,,0,Madison Square Garden,New York,NY,USA,","
+2011-12-31,2011,0,9,2,1,0,0,6,2011 NYE,2011 NYE,Ocelot,,1,Madison Square Garden,New York,NY,USA,>
+2011-12-31,2011,0,10,4,1,0,0,11,2011 NYE,2011 NYE,Fluffhead,,1,Madison Square Garden,New York,NY,USA,
+2011-12-31,2011,0,11,1,2,0,0,13,2011 NYE,2011 NYE,Party Time,,1,Madison Square Garden,New York,NY,USA,","
+2011-12-31,2011,0,12,3,2,0,0,6,2011 NYE,2011 NYE,Light,,0,Madison Square Garden,New York,NY,USA,->
+2011-12-31,2011,0,13,2,2,0,0,6,2011 NYE,2011 NYE,Golden Age,,0,Madison Square Garden,New York,NY,USA,>
 2011-12-31,2011,0,14,1,2,0,0,4,2011 NYE,2011 NYE,Theme From the Bottom,Theme,1,Madison Square Garden,New York,NY,USA,","
-2011-12-31,2011,0,15,2,2,0,0,9,2011 NYE,2011 NYE,Heavy Things,Heavy Things,1,Madison Square Garden,New York,NY,USA,>
-2011-12-31,2011,0,16,2,2,0,0,5,2011 NYE,2011 NYE,Ghost,Ghost,1,Madison Square Garden,New York,NY,USA,>
+2011-12-31,2011,0,15,2,2,0,0,9,2011 NYE,2011 NYE,Heavy Things,,1,Madison Square Garden,New York,NY,USA,>
+2011-12-31,2011,0,16,2,2,0,0,5,2011 NYE,2011 NYE,Ghost,,1,Madison Square Garden,New York,NY,USA,>
 2011-12-31,2011,0,17,2,2,0,0,7,2011 NYE,2011 NYE,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Madison Square Garden,New York,NY,USA,>
-2011-12-31,2011,0,18,2,2,0,0,13,2011 NYE,2011 NYE,46 Days,46 Days,1,Madison Square Garden,New York,NY,USA,>
+2011-12-31,2011,0,18,2,2,0,0,13,2011 NYE,2011 NYE,46 Days,,1,Madison Square Garden,New York,NY,USA,>
 2011-12-31,2011,0,19,4,2,0,0,4,2011 NYE,2011 NYE,Suzy Greenberg,Suzy,1,Madison Square Garden,New York,NY,USA,
-2011-12-31,2011,0,20,1,3,0,0,4,2011 NYE,2011 NYE,Cavern,Cavern,1,Madison Square Garden,New York,NY,USA,","
-2011-12-31,2011,0,21,2,3,0,0,7,2011 NYE,2011 NYE,Steam,Steam,1,Madison Square Garden,New York,NY,USA,>
-2011-12-31,2011,0,22,2,3,0,0,39,2011 NYE,2011 NYE,Auld Lang Syne,Auld Lang Syne,0,Madison Square Garden,New York,NY,USA,>
+2011-12-31,2011,0,20,1,3,0,0,4,2011 NYE,2011 NYE,Cavern,,1,Madison Square Garden,New York,NY,USA,","
+2011-12-31,2011,0,21,2,3,0,0,7,2011 NYE,2011 NYE,Steam,,1,Madison Square Garden,New York,NY,USA,>
+2011-12-31,2011,0,22,2,3,0,0,39,2011 NYE,2011 NYE,Auld Lang Syne,,0,Madison Square Garden,New York,NY,USA,>
 2011-12-31,2011,0,23,1,3,0,0,4,2011 NYE,2011 NYE,Down with Disease,DwD,1,Madison Square Garden,New York,NY,USA,","
 2011-12-31,2011,0,24,1,3,0,0,6,2011 NYE,2011 NYE,The Wedge,Wedge,1,Madison Square Garden,New York,NY,USA,","
-2011-12-31,2011,0,25,1,3,0,0,4,2011 NYE,2011 NYE,Alaska,Alaska,0,Madison Square Garden,New York,NY,USA,","
+2011-12-31,2011,0,25,1,3,0,0,4,2011 NYE,2011 NYE,Alaska,,0,Madison Square Garden,New York,NY,USA,","
 2011-12-31,2011,0,26,1,3,0,0,12,2011 NYE,2011 NYE,Wading in the Velvet Sea,Velvet Sea,1,Madison Square Garden,New York,NY,USA,","
-2011-12-31,2011,0,27,5,3,0,0,8,2011 NYE,2011 NYE,First Tube,First Tube,0,Madison Square Garden,New York,NY,USA,
+2011-12-31,2011,0,27,5,3,0,0,8,2011 NYE,2011 NYE,First Tube,,0,Madison Square Garden,New York,NY,USA,
 2011-12-31,2011,0,28,6,e,0,0,4,2011 NYE,2011 NYE,Slave to the Traffic Light,Slave,1,Madison Square Garden,New York,NY,USA,

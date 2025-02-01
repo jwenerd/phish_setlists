@@ -1,689 +1,689 @@
 showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,tourwhen,song,nickname,is_original,venue,city,state,country,trans_mark
-2000-05-15,2000,0,1,1,1,0,0,3,Not Part of a Tour,No Tour,First Tube,First Tube,0,Sonic Studios,Philadelphia,PA,USA,","
-2000-05-15,2000,1,1,1,1,0,0,0,Not Part of a Tour,No Tour,First Tube,First Tube,0,Sonic Studios,Philadelphia,PA,USA,","
-2000-05-15,2000,0,1,1,1,0,0,3,Not Part of a Tour,No Tour,First Tube,First Tube,0,Sonic Studios,Philadelphia,PA,USA,","
-2000-05-15,2000,1,1,1,1,0,0,0,Not Part of a Tour,No Tour,First Tube,First Tube,0,Sonic Studios,Philadelphia,PA,USA,","
-2000-05-15,2000,0,2,1,1,0,0,2,Not Part of a Tour,No Tour,Farmhouse,Farmhouse,1,Sonic Studios,Philadelphia,PA,USA,","
-2000-05-15,2000,1,2,1,1,0,0,0,Not Part of a Tour,No Tour,Dirt,Dirt,0,Sonic Studios,Philadelphia,PA,USA,","
-2000-05-15,2000,0,2,1,1,0,0,2,Not Part of a Tour,No Tour,Farmhouse,Farmhouse,1,Sonic Studios,Philadelphia,PA,USA,","
-2000-05-15,2000,1,2,1,1,0,0,0,Not Part of a Tour,No Tour,Dirt,Dirt,0,Sonic Studios,Philadelphia,PA,USA,","
-2000-05-15,2000,0,3,1,1,0,0,1,Not Part of a Tour,No Tour,Twist,Twist,1,Sonic Studios,Philadelphia,PA,USA,","
+2000-05-15,2000,0,1,1,1,0,0,3,Not Part of a Tour,No Tour,First Tube,,0,Sonic Studios,Philadelphia,PA,USA,","
+2000-05-15,2000,1,1,1,1,0,0,0,Not Part of a Tour,No Tour,First Tube,,0,Sonic Studios,Philadelphia,PA,USA,","
+2000-05-15,2000,0,1,1,1,0,0,3,Not Part of a Tour,No Tour,First Tube,,0,Sonic Studios,Philadelphia,PA,USA,","
+2000-05-15,2000,1,1,1,1,0,0,0,Not Part of a Tour,No Tour,First Tube,,0,Sonic Studios,Philadelphia,PA,USA,","
+2000-05-15,2000,0,2,1,1,0,0,2,Not Part of a Tour,No Tour,Farmhouse,,1,Sonic Studios,Philadelphia,PA,USA,","
+2000-05-15,2000,1,2,1,1,0,0,0,Not Part of a Tour,No Tour,Dirt,,0,Sonic Studios,Philadelphia,PA,USA,","
+2000-05-15,2000,0,2,1,1,0,0,2,Not Part of a Tour,No Tour,Farmhouse,,1,Sonic Studios,Philadelphia,PA,USA,","
+2000-05-15,2000,1,2,1,1,0,0,0,Not Part of a Tour,No Tour,Dirt,,0,Sonic Studios,Philadelphia,PA,USA,","
+2000-05-15,2000,0,3,1,1,0,0,1,Not Part of a Tour,No Tour,Twist,,1,Sonic Studios,Philadelphia,PA,USA,","
 2000-05-15,2000,1,3,1,1,0,0,0,Not Part of a Tour,No Tour,Back on the Train,BOTT,0,Sonic Studios,Philadelphia,PA,USA,","
-2000-05-15,2000,0,3,1,1,0,0,1,Not Part of a Tour,No Tour,Twist,Twist,1,Sonic Studios,Philadelphia,PA,USA,","
+2000-05-15,2000,0,3,1,1,0,0,1,Not Part of a Tour,No Tour,Twist,,1,Sonic Studios,Philadelphia,PA,USA,","
 2000-05-15,2000,1,3,1,1,0,0,0,Not Part of a Tour,No Tour,Back on the Train,BOTT,0,Sonic Studios,Philadelphia,PA,USA,","
-2000-05-15,2000,0,4,1,1,0,0,1,Not Part of a Tour,No Tour,Heavy Things,Heavy Things,1,Sonic Studios,Philadelphia,PA,USA,","
-2000-05-15,2000,1,4,1,1,0,0,0,Not Part of a Tour,No Tour,Piper,Piper,1,Sonic Studios,Philadelphia,PA,USA,","
-2000-05-15,2000,0,4,1,1,0,0,1,Not Part of a Tour,No Tour,Heavy Things,Heavy Things,1,Sonic Studios,Philadelphia,PA,USA,","
-2000-05-15,2000,1,4,1,1,0,0,0,Not Part of a Tour,No Tour,Piper,Piper,1,Sonic Studios,Philadelphia,PA,USA,","
+2000-05-15,2000,0,4,1,1,0,0,1,Not Part of a Tour,No Tour,Heavy Things,,1,Sonic Studios,Philadelphia,PA,USA,","
+2000-05-15,2000,1,4,1,1,0,0,0,Not Part of a Tour,No Tour,Piper,,1,Sonic Studios,Philadelphia,PA,USA,","
+2000-05-15,2000,0,4,1,1,0,0,1,Not Part of a Tour,No Tour,Heavy Things,,1,Sonic Studios,Philadelphia,PA,USA,","
+2000-05-15,2000,1,4,1,1,0,0,0,Not Part of a Tour,No Tour,Piper,,1,Sonic Studios,Philadelphia,PA,USA,","
 2000-05-15,2000,0,5,1,1,0,0,1,Not Part of a Tour,No Tour,Back on the Train,BOTT,0,Sonic Studios,Philadelphia,PA,USA,","
-2000-05-15,2000,1,5,1,1,0,0,0,Not Part of a Tour,No Tour,The Inlaw Josie Wales,The Inlaw Josie Wales,0,Sonic Studios,Philadelphia,PA,USA,","
+2000-05-15,2000,1,5,1,1,0,0,0,Not Part of a Tour,No Tour,The Inlaw Josie Wales,,0,Sonic Studios,Philadelphia,PA,USA,","
 2000-05-15,2000,0,5,1,1,0,0,1,Not Part of a Tour,No Tour,Back on the Train,BOTT,0,Sonic Studios,Philadelphia,PA,USA,","
-2000-05-15,2000,1,5,1,1,0,0,0,Not Part of a Tour,No Tour,The Inlaw Josie Wales,The Inlaw Josie Wales,0,Sonic Studios,Philadelphia,PA,USA,","
-2000-05-15,2000,0,6,1,1,0,0,1,Not Part of a Tour,No Tour,Piper,Piper,1,Sonic Studios,Philadelphia,PA,USA,","
+2000-05-15,2000,1,5,1,1,0,0,0,Not Part of a Tour,No Tour,The Inlaw Josie Wales,,0,Sonic Studios,Philadelphia,PA,USA,","
+2000-05-15,2000,0,6,1,1,0,0,1,Not Part of a Tour,No Tour,Piper,,1,Sonic Studios,Philadelphia,PA,USA,","
 2000-05-15,2000,1,6,6,1,0,0,0,Not Part of a Tour,No Tour,Gotta Jibboo,Jibboo,0,Sonic Studios,Philadelphia,PA,USA,
-2000-05-15,2000,0,6,1,1,0,0,1,Not Part of a Tour,No Tour,Piper,Piper,1,Sonic Studios,Philadelphia,PA,USA,","
+2000-05-15,2000,0,6,1,1,0,0,1,Not Part of a Tour,No Tour,Piper,,1,Sonic Studios,Philadelphia,PA,USA,","
 2000-05-15,2000,1,6,6,1,0,0,0,Not Part of a Tour,No Tour,Gotta Jibboo,Jibboo,0,Sonic Studios,Philadelphia,PA,USA,
-2000-05-15,2000,0,7,1,1,0,0,0,Not Part of a Tour,No Tour,The Inlaw Josie Wales,The Inlaw Josie Wales,0,Sonic Studios,Philadelphia,PA,USA,","
-2000-05-15,2000,0,7,1,1,0,0,0,Not Part of a Tour,No Tour,The Inlaw Josie Wales,The Inlaw Josie Wales,0,Sonic Studios,Philadelphia,PA,USA,","
-2000-05-15,2000,0,8,1,1,0,0,1,Not Part of a Tour,No Tour,Bug,Bug,0,Sonic Studios,Philadelphia,PA,USA,","
-2000-05-15,2000,0,8,1,1,0,0,1,Not Part of a Tour,No Tour,Bug,Bug,0,Sonic Studios,Philadelphia,PA,USA,","
+2000-05-15,2000,0,7,1,1,0,0,0,Not Part of a Tour,No Tour,The Inlaw Josie Wales,,0,Sonic Studios,Philadelphia,PA,USA,","
+2000-05-15,2000,0,7,1,1,0,0,0,Not Part of a Tour,No Tour,The Inlaw Josie Wales,,0,Sonic Studios,Philadelphia,PA,USA,","
+2000-05-15,2000,0,8,1,1,0,0,1,Not Part of a Tour,No Tour,Bug,,0,Sonic Studios,Philadelphia,PA,USA,","
+2000-05-15,2000,0,8,1,1,0,0,1,Not Part of a Tour,No Tour,Bug,,0,Sonic Studios,Philadelphia,PA,USA,","
 2000-05-15,2000,0,9,6,1,0,0,2,Not Part of a Tour,No Tour,Gotta Jibboo,Jibboo,0,Sonic Studios,Philadelphia,PA,USA,
 2000-05-15,2000,0,9,6,1,0,0,2,Not Part of a Tour,No Tour,Gotta Jibboo,Jibboo,0,Sonic Studios,Philadelphia,PA,USA,
-2000-05-16,2000,1,1,6,1,0,0,0,Not Part of a Tour,No Tour,Heavy Things,Heavy Things,1,Ed Sullivan Theater,New York,NY,USA,
-2000-05-18,2000,0,1,1,1,0,0,1,Not Part of a Tour,No Tour,First Tube,First Tube,0,Fantasy Studios,Berkeley,CA,USA,","
-2000-05-18,2000,0,2,1,1,0,0,1,Not Part of a Tour,No Tour,Bug,Bug,0,Fantasy Studios,Berkeley,CA,USA,","
+2000-05-16,2000,1,1,6,1,0,0,0,Not Part of a Tour,No Tour,Heavy Things,,1,Ed Sullivan Theater,New York,NY,USA,
+2000-05-18,2000,0,1,1,1,0,0,1,Not Part of a Tour,No Tour,First Tube,,0,Fantasy Studios,Berkeley,CA,USA,","
+2000-05-18,2000,0,2,1,1,0,0,1,Not Part of a Tour,No Tour,Bug,,0,Fantasy Studios,Berkeley,CA,USA,","
 2000-05-18,2000,0,3,1,1,0,0,1,Not Part of a Tour,No Tour,Back on the Train,BOTT,0,Fantasy Studios,Berkeley,CA,USA,","
-2000-05-18,2000,0,4,1,1,0,0,2,Not Part of a Tour,No Tour,Sand,Sand,0,Fantasy Studios,Berkeley,CA,USA,","
-2000-05-18,2000,0,5,2,1,0,0,1,Not Part of a Tour,No Tour,Heavy Things,Heavy Things,1,Fantasy Studios,Berkeley,CA,USA,>
-2000-05-18,2000,0,6,1,1,0,0,1,Not Part of a Tour,No Tour,Piper,Piper,1,Fantasy Studios,Berkeley,CA,USA,","
-2000-05-18,2000,0,7,1,1,0,0,1,Not Part of a Tour,No Tour,The Inlaw Josie Wales,The Inlaw Josie Wales,0,Fantasy Studios,Berkeley,CA,USA,","
-2000-05-18,2000,0,8,1,1,0,0,7,Not Part of a Tour,No Tour,Dirt,Dirt,0,Fantasy Studios,Berkeley,CA,USA,","
-2000-05-18,2000,0,9,6,1,0,0,1,Not Part of a Tour,No Tour,Farmhouse,Farmhouse,1,Fantasy Studios,Berkeley,CA,USA,
-2000-05-19,2000,0,1,1,1,0,0,4,Not Part of a Tour,No Tour,Funky Bitch,Funky Bitch,0,Key Club,Los Angeles,CA,USA,","
+2000-05-18,2000,0,4,1,1,0,0,2,Not Part of a Tour,No Tour,Sand,,0,Fantasy Studios,Berkeley,CA,USA,","
+2000-05-18,2000,0,5,2,1,0,0,1,Not Part of a Tour,No Tour,Heavy Things,,1,Fantasy Studios,Berkeley,CA,USA,>
+2000-05-18,2000,0,6,1,1,0,0,1,Not Part of a Tour,No Tour,Piper,,1,Fantasy Studios,Berkeley,CA,USA,","
+2000-05-18,2000,0,7,1,1,0,0,1,Not Part of a Tour,No Tour,The Inlaw Josie Wales,,0,Fantasy Studios,Berkeley,CA,USA,","
+2000-05-18,2000,0,8,1,1,0,0,7,Not Part of a Tour,No Tour,Dirt,,0,Fantasy Studios,Berkeley,CA,USA,","
+2000-05-18,2000,0,9,6,1,0,0,1,Not Part of a Tour,No Tour,Farmhouse,,1,Fantasy Studios,Berkeley,CA,USA,
+2000-05-19,2000,0,1,1,1,0,0,4,Not Part of a Tour,No Tour,Funky Bitch,,0,Key Club,Los Angeles,CA,USA,","
 2000-05-19,2000,0,1,1,1,0,0,2,Not Part of a Tour,No Tour,Back on the Train,BOTT,0,Key Club,Los Angeles,CA,USA,","
-2000-05-19,2000,0,1,1,1,0,0,4,Not Part of a Tour,No Tour,Funky Bitch,Funky Bitch,0,Key Club,Los Angeles,CA,USA,","
+2000-05-19,2000,0,1,1,1,0,0,4,Not Part of a Tour,No Tour,Funky Bitch,,0,Key Club,Los Angeles,CA,USA,","
 2000-05-19,2000,0,1,1,1,0,0,2,Not Part of a Tour,No Tour,Back on the Train,BOTT,0,Key Club,Los Angeles,CA,USA,","
-2000-05-19,2000,0,2,1,1,0,0,4,Not Part of a Tour,No Tour,My Soul,My Soul,0,Key Club,Los Angeles,CA,USA,","
-2000-05-19,2000,0,2,1,1,0,0,2,Not Part of a Tour,No Tour,Heavy Things,Heavy Things,1,Key Club,Los Angeles,CA,USA,","
-2000-05-19,2000,0,2,1,1,0,0,4,Not Part of a Tour,No Tour,My Soul,My Soul,0,Key Club,Los Angeles,CA,USA,","
-2000-05-19,2000,0,2,1,1,0,0,2,Not Part of a Tour,No Tour,Heavy Things,Heavy Things,1,Key Club,Los Angeles,CA,USA,","
+2000-05-19,2000,0,2,1,1,0,0,4,Not Part of a Tour,No Tour,My Soul,,0,Key Club,Los Angeles,CA,USA,","
+2000-05-19,2000,0,2,1,1,0,0,2,Not Part of a Tour,No Tour,Heavy Things,,1,Key Club,Los Angeles,CA,USA,","
+2000-05-19,2000,0,2,1,1,0,0,4,Not Part of a Tour,No Tour,My Soul,,0,Key Club,Los Angeles,CA,USA,","
+2000-05-19,2000,0,2,1,1,0,0,2,Not Part of a Tour,No Tour,Heavy Things,,1,Key Club,Los Angeles,CA,USA,","
 2000-05-19,2000,0,3,1,1,0,0,3,Not Part of a Tour,No Tour,Gotta Jibboo,Jibboo,0,Key Club,Los Angeles,CA,USA,","
-2000-05-19,2000,0,3,6,1,0,0,2,Not Part of a Tour,No Tour,First Tube,First Tube,0,Key Club,Los Angeles,CA,USA,
+2000-05-19,2000,0,3,6,1,0,0,2,Not Part of a Tour,No Tour,First Tube,,0,Key Club,Los Angeles,CA,USA,
 2000-05-19,2000,0,3,1,1,0,0,3,Not Part of a Tour,No Tour,Gotta Jibboo,Jibboo,0,Key Club,Los Angeles,CA,USA,","
-2000-05-19,2000,0,3,6,1,0,0,2,Not Part of a Tour,No Tour,First Tube,First Tube,0,Key Club,Los Angeles,CA,USA,
-2000-05-19,2000,0,4,1,1,0,0,0,Not Part of a Tour,No Tour,First Tube,First Tube,0,Key Club,Los Angeles,CA,USA,","
-2000-05-19,2000,0,4,1,1,0,0,0,Not Part of a Tour,No Tour,First Tube,First Tube,0,Key Club,Los Angeles,CA,USA,","
-2000-05-19,2000,0,5,1,1,0,0,2,Not Part of a Tour,No Tour,Bug,Bug,0,Key Club,Los Angeles,CA,USA,","
-2000-05-19,2000,0,5,1,1,0,0,2,Not Part of a Tour,No Tour,Bug,Bug,0,Key Club,Los Angeles,CA,USA,","
-2000-05-19,2000,0,6,1,1,0,0,0,Not Part of a Tour,No Tour,Heavy Things,Heavy Things,1,Key Club,Los Angeles,CA,USA,","
-2000-05-19,2000,0,6,1,1,0,0,0,Not Part of a Tour,No Tour,Heavy Things,Heavy Things,1,Key Club,Los Angeles,CA,USA,","
-2000-05-19,2000,0,7,2,1,0,0,3,Not Part of a Tour,No Tour,Twist,Twist,1,Key Club,Los Angeles,CA,USA,>
-2000-05-19,2000,0,7,2,1,0,0,3,Not Part of a Tour,No Tour,Twist,Twist,1,Key Club,Los Angeles,CA,USA,>
-2000-05-19,2000,0,8,2,1,0,0,4,Not Part of a Tour,No Tour,Tube,Tube,1,Key Club,Los Angeles,CA,USA,>
-2000-05-19,2000,0,8,2,1,0,0,4,Not Part of a Tour,No Tour,Tube,Tube,1,Key Club,Los Angeles,CA,USA,>
-2000-05-19,2000,0,9,3,1,0,0,2,Not Part of a Tour,No Tour,Piper,Piper,1,Key Club,Los Angeles,CA,USA,->
-2000-05-19,2000,0,9,3,1,0,0,2,Not Part of a Tour,No Tour,Piper,Piper,1,Key Club,Los Angeles,CA,USA,->
-2000-05-19,2000,0,10,1,1,0,0,4,Not Part of a Tour,No Tour,Llama,Llama,1,Key Club,Los Angeles,CA,USA,","
-2000-05-19,2000,0,10,1,1,0,0,4,Not Part of a Tour,No Tour,Llama,Llama,1,Key Club,Los Angeles,CA,USA,","
-2000-05-19,2000,0,11,1,1,0,0,16,Not Part of a Tour,No Tour,Brian and Robert,Brian and Robert,1,Key Club,Los Angeles,CA,USA,","
-2000-05-19,2000,0,11,1,1,0,0,16,Not Part of a Tour,No Tour,Brian and Robert,Brian and Robert,1,Key Club,Los Angeles,CA,USA,","
-2000-05-19,2000,0,12,6,1,0,0,109,Not Part of a Tour,No Tour,Magilla,Magilla,1,Key Club,Los Angeles,CA,USA,
-2000-05-19,2000,0,12,6,1,0,0,109,Not Part of a Tour,No Tour,Magilla,Magilla,1,Key Club,Los Angeles,CA,USA,
-2000-05-21,2000,0,1,1,1,0,0,1,2000 NYC Tour,2000 NYC,First Tube,First Tube,0,Radio City Music Hall,New York,NY,USA,","
+2000-05-19,2000,0,3,6,1,0,0,2,Not Part of a Tour,No Tour,First Tube,,0,Key Club,Los Angeles,CA,USA,
+2000-05-19,2000,0,4,1,1,0,0,0,Not Part of a Tour,No Tour,First Tube,,0,Key Club,Los Angeles,CA,USA,","
+2000-05-19,2000,0,4,1,1,0,0,0,Not Part of a Tour,No Tour,First Tube,,0,Key Club,Los Angeles,CA,USA,","
+2000-05-19,2000,0,5,1,1,0,0,2,Not Part of a Tour,No Tour,Bug,,0,Key Club,Los Angeles,CA,USA,","
+2000-05-19,2000,0,5,1,1,0,0,2,Not Part of a Tour,No Tour,Bug,,0,Key Club,Los Angeles,CA,USA,","
+2000-05-19,2000,0,6,1,1,0,0,0,Not Part of a Tour,No Tour,Heavy Things,,1,Key Club,Los Angeles,CA,USA,","
+2000-05-19,2000,0,6,1,1,0,0,0,Not Part of a Tour,No Tour,Heavy Things,,1,Key Club,Los Angeles,CA,USA,","
+2000-05-19,2000,0,7,2,1,0,0,3,Not Part of a Tour,No Tour,Twist,,1,Key Club,Los Angeles,CA,USA,>
+2000-05-19,2000,0,7,2,1,0,0,3,Not Part of a Tour,No Tour,Twist,,1,Key Club,Los Angeles,CA,USA,>
+2000-05-19,2000,0,8,2,1,0,0,4,Not Part of a Tour,No Tour,Tube,,1,Key Club,Los Angeles,CA,USA,>
+2000-05-19,2000,0,8,2,1,0,0,4,Not Part of a Tour,No Tour,Tube,,1,Key Club,Los Angeles,CA,USA,>
+2000-05-19,2000,0,9,3,1,0,0,2,Not Part of a Tour,No Tour,Piper,,1,Key Club,Los Angeles,CA,USA,->
+2000-05-19,2000,0,9,3,1,0,0,2,Not Part of a Tour,No Tour,Piper,,1,Key Club,Los Angeles,CA,USA,->
+2000-05-19,2000,0,10,1,1,0,0,4,Not Part of a Tour,No Tour,Llama,,1,Key Club,Los Angeles,CA,USA,","
+2000-05-19,2000,0,10,1,1,0,0,4,Not Part of a Tour,No Tour,Llama,,1,Key Club,Los Angeles,CA,USA,","
+2000-05-19,2000,0,11,1,1,0,0,16,Not Part of a Tour,No Tour,Brian and Robert,,1,Key Club,Los Angeles,CA,USA,","
+2000-05-19,2000,0,11,1,1,0,0,16,Not Part of a Tour,No Tour,Brian and Robert,,1,Key Club,Los Angeles,CA,USA,","
+2000-05-19,2000,0,12,6,1,0,0,109,Not Part of a Tour,No Tour,Magilla,,1,Key Club,Los Angeles,CA,USA,
+2000-05-19,2000,0,12,6,1,0,0,109,Not Part of a Tour,No Tour,Magilla,,1,Key Club,Los Angeles,CA,USA,
+2000-05-21,2000,0,1,1,1,0,0,1,2000 NYC Tour,2000 NYC,First Tube,,0,Radio City Music Hall,New York,NY,USA,","
 2000-05-21,2000,0,2,1,1,0,0,6,2000 NYC Tour,2000 NYC,Wolfman's Brother,Wolfman's,1,Radio City Music Hall,New York,NY,USA,","
 2000-05-21,2000,0,3,1,1,0,0,8,2000 NYC Tour,2000 NYC,The Squirming Coil,Coil,1,Radio City Music Hall,New York,NY,USA,","
-2000-05-21,2000,0,4,1,1,0,0,6,2000 NYC Tour,2000 NYC,Possum,Possum,1,Radio City Music Hall,New York,NY,USA,","
+2000-05-21,2000,0,4,1,1,0,0,6,2000 NYC Tour,2000 NYC,Possum,,1,Radio City Music Hall,New York,NY,USA,","
 2000-05-21,2000,0,5,2,1,0,0,6,2000 NYC Tour,2000 NYC,The Moma Dance,Moma,1,Radio City Music Hall,New York,NY,USA,>
 2000-05-21,2000,0,6,2,1,0,0,6,2000 NYC Tour,2000 NYC,Limb By Limb,LxL,1,Radio City Music Hall,New York,NY,USA,>
-2000-05-21,2000,0,7,4,1,0,0,6,2000 NYC Tour,2000 NYC,Character Zero,Character Zero,1,Radio City Music Hall,New York,NY,USA,
+2000-05-21,2000,0,7,4,1,0,0,6,2000 NYC Tour,2000 NYC,Character Zero,,1,Radio City Music Hall,New York,NY,USA,
 2000-05-21,2000,0,8,1,2,0,0,1,2000 NYC Tour,2000 NYC,Gotta Jibboo,Jibboo,0,Radio City Music Hall,New York,NY,USA,","
 2000-05-21,2000,0,9,2,2,0,0,5,2000 NYC Tour,2000 NYC,Down with Disease,DwD,1,Radio City Music Hall,New York,NY,USA,>
-2000-05-21,2000,0,10,1,2,0,0,3,2000 NYC Tour,2000 NYC,Dirt,Dirt,0,Radio City Music Hall,New York,NY,USA,","
-2000-05-21,2000,0,11,2,2,0,0,1,2000 NYC Tour,2000 NYC,Twist,Twist,1,Radio City Music Hall,New York,NY,USA,>
-2000-05-21,2000,0,12,1,2,0,0,1,2000 NYC Tour,2000 NYC,Piper,Piper,1,Radio City Music Hall,New York,NY,USA,","
+2000-05-21,2000,0,10,1,2,0,0,3,2000 NYC Tour,2000 NYC,Dirt,,0,Radio City Music Hall,New York,NY,USA,","
+2000-05-21,2000,0,11,2,2,0,0,1,2000 NYC Tour,2000 NYC,Twist,,1,Radio City Music Hall,New York,NY,USA,>
+2000-05-21,2000,0,12,1,2,0,0,1,2000 NYC Tour,2000 NYC,Piper,,1,Radio City Music Hall,New York,NY,USA,","
 2000-05-21,2000,0,13,2,2,0,0,6,2000 NYC Tour,2000 NYC,Harry Hood,Hood,1,Radio City Music Hall,New York,NY,USA,>
 2000-05-21,2000,0,14,1,2,0,0,5,2000 NYC Tour,2000 NYC,Wading in the Velvet Sea,Velvet Sea,1,Radio City Music Hall,New York,NY,USA,","
-2000-05-21,2000,0,15,5,2,0,0,5,2000 NYC Tour,2000 NYC,Guyute,Guyute,1,Radio City Music Hall,New York,NY,USA,
-2000-05-21,2000,0,16,1,e,0,0,2,2000 NYC Tour,2000 NYC,The Inlaw Josie Wales,The Inlaw Josie Wales,0,Radio City Music Hall,New York,NY,USA,","
-2000-05-21,2000,0,17,6,e,0,0,8,2000 NYC Tour,2000 NYC,Loving Cup,Loving Cup,0,Radio City Music Hall,New York,NY,USA,
-2000-05-22,2000,0,1,1,1,0,0,2,2000 NYC Tour,2000 NYC,My Soul,My Soul,0,Radio City Music Hall,New York,NY,USA,","
+2000-05-21,2000,0,15,5,2,0,0,5,2000 NYC Tour,2000 NYC,Guyute,,1,Radio City Music Hall,New York,NY,USA,
+2000-05-21,2000,0,16,1,e,0,0,2,2000 NYC Tour,2000 NYC,The Inlaw Josie Wales,,0,Radio City Music Hall,New York,NY,USA,","
+2000-05-21,2000,0,17,6,e,0,0,8,2000 NYC Tour,2000 NYC,Loving Cup,,0,Radio City Music Hall,New York,NY,USA,
+2000-05-22,2000,0,1,1,1,0,0,2,2000 NYC Tour,2000 NYC,My Soul,,0,Radio City Music Hall,New York,NY,USA,","
 2000-05-22,2000,0,2,1,1,0,0,7,2000 NYC Tour,2000 NYC,Chalk Dust Torture,CDT,1,Radio City Music Hall,New York,NY,USA,","
-2000-05-22,2000,0,3,1,1,0,0,20,2000 NYC Tour,2000 NYC,Billy Breathes,Billy Breathes,1,Radio City Music Hall,New York,NY,USA,","
-2000-05-22,2000,0,4,1,1,0,0,2,2000 NYC Tour,2000 NYC,Heavy Things,Heavy Things,1,Radio City Music Hall,New York,NY,USA,","
+2000-05-22,2000,0,3,1,1,0,0,20,2000 NYC Tour,2000 NYC,Billy Breathes,,1,Radio City Music Hall,New York,NY,USA,","
+2000-05-22,2000,0,4,1,1,0,0,2,2000 NYC Tour,2000 NYC,Heavy Things,,1,Radio City Music Hall,New York,NY,USA,","
 2000-05-22,2000,0,5,1,1,0,0,2,2000 NYC Tour,2000 NYC,Back on the Train,BOTT,0,Radio City Music Hall,New York,NY,USA,","
 2000-05-22,2000,0,6,1,1,0,0,6,2000 NYC Tour,2000 NYC,Split Open and Melt,SOAMelt,1,Radio City Music Hall,New York,NY,USA,","
-2000-05-22,2000,0,7,2,1,0,0,7,2000 NYC Tour,2000 NYC,Sparkle,Sparkle,1,Radio City Music Hall,New York,NY,USA,>
-2000-05-22,2000,0,8,1,1,0,0,6,2000 NYC Tour,2000 NYC,Horn,Horn,1,Radio City Music Hall,New York,NY,USA,","
+2000-05-22,2000,0,7,2,1,0,0,7,2000 NYC Tour,2000 NYC,Sparkle,,1,Radio City Music Hall,New York,NY,USA,>
+2000-05-22,2000,0,8,1,1,0,0,6,2000 NYC Tour,2000 NYC,Horn,,1,Radio City Music Hall,New York,NY,USA,","
 2000-05-22,2000,0,9,4,1,0,0,6,2000 NYC Tour,2000 NYC,Bathtub Gin,Gin,1,Radio City Music Hall,New York,NY,USA,
 2000-05-22,2000,0,10,2,2,0,0,6,2000 NYC Tour,2000 NYC,Bouncing Around the Room,Bouncin',1,Radio City Music Hall,New York,NY,USA,>
 2000-05-22,2000,0,11,1,2,0,0,6,2000 NYC Tour,2000 NYC,David Bowie,Bowie,1,Radio City Music Hall,New York,NY,USA,","
-2000-05-22,2000,0,12,1,2,0,0,4,2000 NYC Tour,2000 NYC,Sand,Sand,0,Radio City Music Hall,New York,NY,USA,","
+2000-05-22,2000,0,12,1,2,0,0,4,2000 NYC Tour,2000 NYC,Sand,,0,Radio City Music Hall,New York,NY,USA,","
 2000-05-22,2000,0,13,1,2,0,0,10,2000 NYC Tour,2000 NYC,The Mango Song,Mango,1,Radio City Music Hall,New York,NY,USA,","
-2000-05-22,2000,0,14,2,2,0,0,7,2000 NYC Tour,2000 NYC,Ghost,Ghost,1,Radio City Music Hall,New York,NY,USA,>
+2000-05-22,2000,0,14,2,2,0,0,7,2000 NYC Tour,2000 NYC,Ghost,,1,Radio City Music Hall,New York,NY,USA,>
 2000-05-22,2000,0,15,5,2,0,0,6,2000 NYC Tour,2000 NYC,Rock and Roll,R&amp;R,0,Radio City Music Hall,New York,NY,USA,
-2000-05-22,2000,0,16,2,e,0,0,2,2000 NYC Tour,2000 NYC,Bug,Bug,0,Radio City Music Hall,New York,NY,USA,>
+2000-05-22,2000,0,16,2,e,0,0,2,2000 NYC Tour,2000 NYC,Bug,,0,Radio City Music Hall,New York,NY,USA,>
 2000-05-22,2000,0,17,6,e,0,0,7,2000 NYC Tour,2000 NYC,Golgi Apparatus,Golgi,1,Radio City Music Hall,New York,NY,USA,
 2000-05-23,2000,0,1,1,1,0,0,14,2000 NYC Tour,2000 NYC,AC/DC Bag,Bag,1,Roseland Ballroom,New York,NY,USA,","
-2000-05-23,2000,0,2,1,1,0,0,8,2000 NYC Tour,2000 NYC,Wilson,Wilson,1,Roseland Ballroom,New York,NY,USA,","
-2000-05-23,2000,0,3,1,1,0,0,2,2000 NYC Tour,2000 NYC,First Tube,First Tube,0,Roseland Ballroom,New York,NY,USA,","
-2000-05-23,2000,0,4,2,1,0,0,8,2000 NYC Tour,2000 NYC,Ya Mar,Ya Mar,0,Roseland Ballroom,New York,NY,USA,>
+2000-05-23,2000,0,2,1,1,0,0,8,2000 NYC Tour,2000 NYC,Wilson,,1,Roseland Ballroom,New York,NY,USA,","
+2000-05-23,2000,0,3,1,1,0,0,2,2000 NYC Tour,2000 NYC,First Tube,,0,Roseland Ballroom,New York,NY,USA,","
+2000-05-23,2000,0,4,2,1,0,0,8,2000 NYC Tour,2000 NYC,Ya Mar,,0,Roseland Ballroom,New York,NY,USA,>
 2000-05-23,2000,0,5,2,1,0,0,8,2000 NYC Tour,2000 NYC,Mike's Song,Mike's,1,Roseland Ballroom,New York,NY,USA,>
-2000-05-23,2000,0,6,2,1,0,0,8,2000 NYC Tour,2000 NYC,Simple,Simple,1,Roseland Ballroom,New York,NY,USA,>
-2000-05-23,2000,0,7,1,1,0,0,86,2000 NYC Tour,2000 NYC,It's Ice,It's Ice,1,Roseland Ballroom,New York,NY,USA,","
+2000-05-23,2000,0,6,2,1,0,0,8,2000 NYC Tour,2000 NYC,Simple,,1,Roseland Ballroom,New York,NY,USA,>
+2000-05-23,2000,0,7,1,1,0,0,86,2000 NYC Tour,2000 NYC,It's Ice,,1,Roseland Ballroom,New York,NY,USA,","
 2000-05-23,2000,0,8,1,1,0,0,8,2000 NYC Tour,2000 NYC,When the Circus Comes,Circus,0,Roseland Ballroom,New York,NY,USA,","
 2000-05-23,2000,0,9,1,1,0,0,1,2000 NYC Tour,2000 NYC,Back on the Train,BOTT,0,Roseland Ballroom,New York,NY,USA,","
 2000-05-23,2000,0,10,1,1,0,0,2,2000 NYC Tour,2000 NYC,Gotta Jibboo,Jibboo,0,Roseland Ballroom,New York,NY,USA,","
-2000-05-23,2000,0,11,1,1,0,0,8,2000 NYC Tour,2000 NYC,Taste,Taste,1,Roseland Ballroom,New York,NY,USA,","
-2000-05-23,2000,0,12,4,1,0,0,9,2000 NYC Tour,2000 NYC,Sleeping Monkey,Sleeping Monkey,1,Roseland Ballroom,New York,NY,USA,
+2000-05-23,2000,0,11,1,1,0,0,8,2000 NYC Tour,2000 NYC,Taste,,1,Roseland Ballroom,New York,NY,USA,","
+2000-05-23,2000,0,12,4,1,0,0,9,2000 NYC Tour,2000 NYC,Sleeping Monkey,,1,Roseland Ballroom,New York,NY,USA,
 2000-05-23,2000,0,13,1,2,0,0,7,2000 NYC Tour,2000 NYC,Punch You in the Eye,PYITE,1,Roseland Ballroom,New York,NY,USA,","
-2000-05-23,2000,0,14,1,2,0,0,2,2000 NYC Tour,2000 NYC,Twist,Twist,1,Roseland Ballroom,New York,NY,USA,","
-2000-05-23,2000,0,15,1,2,0,0,16,2000 NYC Tour,2000 NYC,Waste,Waste,1,Roseland Ballroom,New York,NY,USA,","
-2000-05-23,2000,0,16,1,2,0,0,2,2000 NYC Tour,2000 NYC,Piper,Piper,1,Roseland Ballroom,New York,NY,USA,","
+2000-05-23,2000,0,14,1,2,0,0,2,2000 NYC Tour,2000 NYC,Twist,,1,Roseland Ballroom,New York,NY,USA,","
+2000-05-23,2000,0,15,1,2,0,0,16,2000 NYC Tour,2000 NYC,Waste,,1,Roseland Ballroom,New York,NY,USA,","
+2000-05-23,2000,0,16,1,2,0,0,2,2000 NYC Tour,2000 NYC,Piper,,1,Roseland Ballroom,New York,NY,USA,","
 2000-05-23,2000,0,17,1,2,0,0,7,2000 NYC Tour,2000 NYC,You Enjoy Myself,YEM,1,Roseland Ballroom,New York,NY,USA,","
 2000-05-23,2000,0,18,1,2,0,0,8,2000 NYC Tour,2000 NYC,Run Like an Antelope,Antelope,1,Roseland Ballroom,New York,NY,USA,","
-2000-05-23,2000,0,19,1,2,0,0,12,2000 NYC Tour,2000 NYC,Train Song,Train Song,1,Roseland Ballroom,New York,NY,USA,","
-2000-05-23,2000,0,20,5,2,0,0,1,2000 NYC Tour,2000 NYC,Bug,Bug,0,Roseland Ballroom,New York,NY,USA,
+2000-05-23,2000,0,19,1,2,0,0,12,2000 NYC Tour,2000 NYC,Train Song,,1,Roseland Ballroom,New York,NY,USA,","
+2000-05-23,2000,0,20,5,2,0,0,1,2000 NYC Tour,2000 NYC,Bug,,0,Roseland Ballroom,New York,NY,USA,
 2000-05-23,2000,0,21,2,e,0,0,8,2000 NYC Tour,2000 NYC,Boogie On Reggae Woman,Boogie On,0,Roseland Ballroom,New York,NY,USA,>
-2000-05-23,2000,0,22,6,e,0,0,15,2000 NYC Tour,2000 NYC,Cavern,Cavern,1,Roseland Ballroom,New York,NY,USA,
-2000-06-09,2000,0,1,2,1,0,0,8,2000 Summer Japan Tour,2000 Summer,Axilla,Axilla,1,On Air East,"Shibuya-ku, Tokyo",,Japan,>
-2000-06-09,2000,0,2,1,1,0,0,1,2000 Summer Japan Tour,2000 Summer,Taste,Taste,1,On Air East,"Shibuya-ku, Tokyo",,Japan,","
-2000-06-09,2000,0,3,1,1,0,0,2,2000 Summer Japan Tour,2000 Summer,Billy Breathes,Billy Breathes,1,On Air East,"Shibuya-ku, Tokyo",,Japan,","
-2000-06-09,2000,0,4,2,1,0,0,8,2000 Summer Japan Tour,2000 Summer,Poor Heart,Poor Heart,1,On Air East,"Shibuya-ku, Tokyo",,Japan,>
+2000-05-23,2000,0,22,6,e,0,0,15,2000 NYC Tour,2000 NYC,Cavern,,1,Roseland Ballroom,New York,NY,USA,
+2000-06-09,2000,0,1,2,1,0,0,8,2000 Summer Japan Tour,2000 Summer,Axilla,,1,On Air East,"Shibuya-ku, Tokyo",,Japan,>
+2000-06-09,2000,0,2,1,1,0,0,1,2000 Summer Japan Tour,2000 Summer,Taste,,1,On Air East,"Shibuya-ku, Tokyo",,Japan,","
+2000-06-09,2000,0,3,1,1,0,0,2,2000 Summer Japan Tour,2000 Summer,Billy Breathes,,1,On Air East,"Shibuya-ku, Tokyo",,Japan,","
+2000-06-09,2000,0,4,2,1,0,0,8,2000 Summer Japan Tour,2000 Summer,Poor Heart,,1,On Air East,"Shibuya-ku, Tokyo",,Japan,>
 2000-06-09,2000,0,5,2,1,0,0,2,2000 Summer Japan Tour,2000 Summer,Golgi Apparatus,Golgi,1,On Air East,"Shibuya-ku, Tokyo",,Japan,>
-2000-06-09,2000,0,6,1,1,0,0,4,2000 Summer Japan Tour,2000 Summer,Funky Bitch,Funky Bitch,0,On Air East,"Shibuya-ku, Tokyo",,Japan,","
+2000-06-09,2000,0,6,1,1,0,0,4,2000 Summer Japan Tour,2000 Summer,Funky Bitch,,0,On Air East,"Shibuya-ku, Tokyo",,Japan,","
 2000-06-09,2000,0,7,2,1,0,0,3,2000 Summer Japan Tour,2000 Summer,The Moma Dance,Moma,1,On Air East,"Shibuya-ku, Tokyo",,Japan,>
-2000-06-09,2000,0,8,2,1,0,0,1,2000 Summer Japan Tour,2000 Summer,First Tube,First Tube,0,On Air East,"Shibuya-ku, Tokyo",,Japan,>
+2000-06-09,2000,0,8,2,1,0,0,1,2000 Summer Japan Tour,2000 Summer,First Tube,,0,On Air East,"Shibuya-ku, Tokyo",,Japan,>
 2000-06-09,2000,0,9,4,1,0,0,2,2000 Summer Japan Tour,2000 Summer,Chalk Dust Torture,CDT,1,On Air East,"Shibuya-ku, Tokyo",,Japan,
-2000-06-09,2000,0,10,1,2,0,0,9,2000 Summer Japan Tour,2000 Summer,Tweezer,Tweezer,1,On Air East,"Shibuya-ku, Tokyo",,Japan,","
+2000-06-09,2000,0,10,1,2,0,0,9,2000 Summer Japan Tour,2000 Summer,Tweezer,,1,On Air East,"Shibuya-ku, Tokyo",,Japan,","
 2000-06-09,2000,0,11,1,2,0,0,2,2000 Summer Japan Tour,2000 Summer,Bouncing Around the Room,Bouncin',1,On Air East,"Shibuya-ku, Tokyo",,Japan,","
 2000-06-09,2000,0,12,1,2,0,0,2,2000 Summer Japan Tour,2000 Summer,The Mango Song,Mango,1,On Air East,"Shibuya-ku, Tokyo",,Japan,","
 2000-06-09,2000,0,13,2,2,0,0,3,2000 Summer Japan Tour,2000 Summer,The Squirming Coil,Coil,1,On Air East,"Shibuya-ku, Tokyo",,Japan,>
 2000-06-09,2000,0,14,2,2,0,0,1,2000 Summer Japan Tour,2000 Summer,Gotta Jibboo,Jibboo,0,On Air East,"Shibuya-ku, Tokyo",,Japan,>
-2000-06-09,2000,0,15,2,2,0,0,8,2000 Summer Japan Tour,2000 Summer,Meatstick,Meatstick,1,On Air East,"Shibuya-ku, Tokyo",,Japan,>
+2000-06-09,2000,0,15,2,2,0,0,8,2000 Summer Japan Tour,2000 Summer,Meatstick,,1,On Air East,"Shibuya-ku, Tokyo",,Japan,>
 2000-06-09,2000,0,16,5,2,0,0,9,2000 Summer Japan Tour,2000 Summer,Tweezer Reprise,Tweeprise,1,On Air East,"Shibuya-ku, Tokyo",,Japan,
 2000-06-09,2000,0,17,6,e,0,0,1,2000 Summer Japan Tour,2000 Summer,You Enjoy Myself,YEM,1,On Air East,"Shibuya-ku, Tokyo",,Japan,
 2000-06-10,2000,0,1,1,1,0,0,4,2000 Summer Japan Tour,2000 Summer,Down with Disease,DwD,1,Zepp,"Koto-ku, Tokyo",,Japan,","
 2000-06-10,2000,0,2,1,1,0,0,14,2000 Summer Japan Tour,2000 Summer,Sample in a Jar,Sample,1,Zepp,"Koto-ku, Tokyo",,Japan,","
-2000-06-10,2000,0,3,1,1,0,0,2,2000 Summer Japan Tour,2000 Summer,Piper,Piper,1,Zepp,"Koto-ku, Tokyo",,Japan,","
-2000-06-10,2000,0,4,1,1,0,0,9,2000 Summer Japan Tour,2000 Summer,Lawn Boy,Lawn Boy,1,Zepp,"Koto-ku, Tokyo",,Japan,","
-2000-06-10,2000,0,5,4,1,0,0,4,2000 Summer Japan Tour,2000 Summer,Guyute,Guyute,1,Zepp,"Koto-ku, Tokyo",,Japan,
-2000-06-10,2000,0,6,1,2,0,0,3,2000 Summer Japan Tour,2000 Summer,Heavy Things,Heavy Things,1,Zepp,"Koto-ku, Tokyo",,Japan,","
-2000-06-10,2000,0,7,1,2,0,0,3,2000 Summer Japan Tour,2000 Summer,Sand,Sand,0,Zepp,"Koto-ku, Tokyo",,Japan,","
-2000-06-10,2000,0,8,2,2,0,0,3,2000 Summer Japan Tour,2000 Summer,Sparkle,Sparkle,1,Zepp,"Koto-ku, Tokyo",,Japan,>
-2000-06-10,2000,0,9,1,2,0,0,3,2000 Summer Japan Tour,2000 Summer,My Soul,My Soul,0,Zepp,"Koto-ku, Tokyo",,Japan,","
+2000-06-10,2000,0,3,1,1,0,0,2,2000 Summer Japan Tour,2000 Summer,Piper,,1,Zepp,"Koto-ku, Tokyo",,Japan,","
+2000-06-10,2000,0,4,1,1,0,0,9,2000 Summer Japan Tour,2000 Summer,Lawn Boy,,1,Zepp,"Koto-ku, Tokyo",,Japan,","
+2000-06-10,2000,0,5,4,1,0,0,4,2000 Summer Japan Tour,2000 Summer,Guyute,,1,Zepp,"Koto-ku, Tokyo",,Japan,
+2000-06-10,2000,0,6,1,2,0,0,3,2000 Summer Japan Tour,2000 Summer,Heavy Things,,1,Zepp,"Koto-ku, Tokyo",,Japan,","
+2000-06-10,2000,0,7,1,2,0,0,3,2000 Summer Japan Tour,2000 Summer,Sand,,0,Zepp,"Koto-ku, Tokyo",,Japan,","
+2000-06-10,2000,0,8,2,2,0,0,3,2000 Summer Japan Tour,2000 Summer,Sparkle,,1,Zepp,"Koto-ku, Tokyo",,Japan,>
+2000-06-10,2000,0,9,1,2,0,0,3,2000 Summer Japan Tour,2000 Summer,My Soul,,0,Zepp,"Koto-ku, Tokyo",,Japan,","
 2000-06-10,2000,0,10,2,2,0,0,3,2000 Summer Japan Tour,2000 Summer,Bathtub Gin,Gin,1,Zepp,"Koto-ku, Tokyo",,Japan,>
-2000-06-10,2000,0,11,2,2,0,0,12,2000 Summer Japan Tour,2000 Summer,Jam,Jam,0,Zepp,"Koto-ku, Tokyo",,Japan,>
-2000-06-10,2000,0,12,1,2,0,0,2,2000 Summer Japan Tour,2000 Summer,Twist,Twist,1,Zepp,"Koto-ku, Tokyo",,Japan,","
-2000-06-10,2000,0,13,1,2,0,0,9,2000 Summer Japan Tour,2000 Summer,Albuquerque,Albuquerque,0,Zepp,"Koto-ku, Tokyo",,Japan,","
+2000-06-10,2000,0,11,2,2,0,0,12,2000 Summer Japan Tour,2000 Summer,Jam,,0,Zepp,"Koto-ku, Tokyo",,Japan,>
+2000-06-10,2000,0,12,1,2,0,0,2,2000 Summer Japan Tour,2000 Summer,Twist,,1,Zepp,"Koto-ku, Tokyo",,Japan,","
+2000-06-10,2000,0,13,1,2,0,0,9,2000 Summer Japan Tour,2000 Summer,Albuquerque,,0,Zepp,"Koto-ku, Tokyo",,Japan,","
 2000-06-10,2000,0,14,2,2,0,0,4,2000 Summer Japan Tour,2000 Summer,Wading in the Velvet Sea,Velvet Sea,1,Zepp,"Koto-ku, Tokyo",,Japan,>
-2000-06-10,2000,0,15,5,2,0,0,4,2000 Summer Japan Tour,2000 Summer,Loving Cup,Loving Cup,0,Zepp,"Koto-ku, Tokyo",,Japan,
-2000-06-10,2000,0,16,1,e,0,0,4,2000 Summer Japan Tour,2000 Summer,The Inlaw Josie Wales,The Inlaw Josie Wales,0,Zepp,"Koto-ku, Tokyo",,Japan,","
+2000-06-10,2000,0,15,5,2,0,0,4,2000 Summer Japan Tour,2000 Summer,Loving Cup,,0,Zepp,"Koto-ku, Tokyo",,Japan,
+2000-06-10,2000,0,16,1,e,0,0,4,2000 Summer Japan Tour,2000 Summer,The Inlaw Josie Wales,,0,Zepp,"Koto-ku, Tokyo",,Japan,","
 2000-06-10,2000,0,17,6,e,0,0,4,2000 Summer Japan Tour,2000 Summer,Limb By Limb,LxL,1,Zepp,"Koto-ku, Tokyo",,Japan,
-2000-06-11,2000,0,1,2,1,0,0,2,2000 Summer Japan Tour,2000 Summer,First Tube,First Tube,0,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,>
+2000-06-11,2000,0,1,2,1,0,0,2,2000 Summer Japan Tour,2000 Summer,First Tube,,0,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,>
 2000-06-11,2000,0,2,1,1,0,0,3,2000 Summer Japan Tour,2000 Summer,Punch You in the Eye,PYITE,1,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,","
-2000-06-11,2000,0,3,2,1,0,0,4,2000 Summer Japan Tour,2000 Summer,Horn,Horn,1,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,>
+2000-06-11,2000,0,3,2,1,0,0,4,2000 Summer Japan Tour,2000 Summer,Horn,,1,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,>
 2000-06-11,2000,0,4,1,1,0,0,22,2000 Summer Japan Tour,2000 Summer,Ginseng Sullivan,Ginseng,0,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,","
-2000-06-11,2000,0,5,1,1,0,0,17,2000 Summer Japan Tour,2000 Summer,Stash,Stash,1,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,","
-2000-06-11,2000,0,6,1,1,0,0,5,2000 Summer Japan Tour,2000 Summer,Dirt,Dirt,0,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,","
-2000-06-11,2000,0,7,2,1,0,0,5,2000 Summer Japan Tour,2000 Summer,Possum,Possum,1,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,>
-2000-06-11,2000,0,8,1,1,0,0,3,2000 Summer Japan Tour,2000 Summer,It's Ice,It's Ice,1,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,","
-2000-06-11,2000,0,9,4,1,0,0,8,2000 Summer Japan Tour,2000 Summer,Farmhouse,Farmhouse,1,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,
+2000-06-11,2000,0,5,1,1,0,0,17,2000 Summer Japan Tour,2000 Summer,Stash,,1,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,","
+2000-06-11,2000,0,6,1,1,0,0,5,2000 Summer Japan Tour,2000 Summer,Dirt,,0,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,","
+2000-06-11,2000,0,7,2,1,0,0,5,2000 Summer Japan Tour,2000 Summer,Possum,,1,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,>
+2000-06-11,2000,0,8,1,1,0,0,3,2000 Summer Japan Tour,2000 Summer,It's Ice,,1,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,","
+2000-06-11,2000,0,9,4,1,0,0,8,2000 Summer Japan Tour,2000 Summer,Farmhouse,,1,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,
 2000-06-11,2000,0,10,1,2,0,0,13,2000 Summer Japan Tour,2000 Summer,Birds of a Feather,BOAF,1,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,","
-2000-06-11,2000,0,11,2,2,0,0,10,2000 Summer Japan Tour,2000 Summer,Free,Free,1,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,>
-2000-06-11,2000,0,12,1,2,0,0,17,2000 Summer Japan Tour,2000 Summer,Beauty of My Dreams,Beauty of My Dreams,0,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,","
-2000-06-11,2000,0,13,2,2,0,0,3,2000 Summer Japan Tour,2000 Summer,Bug,Bug,0,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,>
+2000-06-11,2000,0,11,2,2,0,0,10,2000 Summer Japan Tour,2000 Summer,Free,,1,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,>
+2000-06-11,2000,0,12,1,2,0,0,17,2000 Summer Japan Tour,2000 Summer,Beauty of My Dreams,,0,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,","
+2000-06-11,2000,0,13,2,2,0,0,3,2000 Summer Japan Tour,2000 Summer,Bug,,0,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,>
 2000-06-11,2000,0,14,1,2,0,0,4,2000 Summer Japan Tour,2000 Summer,David Bowie,Bowie,1,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,","
 2000-06-11,2000,0,15,1,2,0,0,3,2000 Summer Japan Tour,2000 Summer,When the Circus Comes,Circus,0,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,","
 2000-06-11,2000,0,16,2,2,0,0,3,2000 Summer Japan Tour,2000 Summer,Back on the Train,BOTT,0,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,>
 2000-06-11,2000,0,17,5,2,0,0,5,2000 Summer Japan Tour,2000 Summer,Harry Hood,Hood,1,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,
-2000-06-11,2000,0,18,6,e,0,0,5,2000 Summer Japan Tour,2000 Summer,Character Zero,Character Zero,1,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,
-2000-06-13,2000,0,1,1,1,0,0,12,2000 Summer Japan Tour,2000 Summer,Meat,Meat,1,Club Quattro,"Naka-ku, Nagoya",,Japan,","
-2000-06-13,2000,0,2,1,1,0,0,16,2000 Summer Japan Tour,2000 Summer,Maze,Maze,1,Club Quattro,"Naka-ku, Nagoya",,Japan,","
-2000-06-13,2000,0,3,1,1,0,1,0,2000 Summer Japan Tour,2000 Summer,Meat,Meat,1,Club Quattro,"Naka-ku, Nagoya",,Japan,","
-2000-06-13,2000,0,4,1,1,0,0,4,2000 Summer Japan Tour,2000 Summer,Ya Mar,Ya Mar,0,Club Quattro,"Naka-ku, Nagoya",,Japan,","
+2000-06-11,2000,0,18,6,e,0,0,5,2000 Summer Japan Tour,2000 Summer,Character Zero,,1,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,
+2000-06-13,2000,0,1,1,1,0,0,12,2000 Summer Japan Tour,2000 Summer,Meat,,1,Club Quattro,"Naka-ku, Nagoya",,Japan,","
+2000-06-13,2000,0,2,1,1,0,0,16,2000 Summer Japan Tour,2000 Summer,Maze,,1,Club Quattro,"Naka-ku, Nagoya",,Japan,","
+2000-06-13,2000,0,3,1,1,0,1,0,2000 Summer Japan Tour,2000 Summer,Meat,,1,Club Quattro,"Naka-ku, Nagoya",,Japan,","
+2000-06-13,2000,0,4,1,1,0,0,4,2000 Summer Japan Tour,2000 Summer,Ya Mar,,0,Club Quattro,"Naka-ku, Nagoya",,Japan,","
 2000-06-13,2000,0,5,1,1,0,0,19,2000 Summer Japan Tour,2000 Summer,Fast Enough for You,FEFY,1,Club Quattro,"Naka-ku, Nagoya",,Japan,","
-2000-06-13,2000,0,6,2,1,0,0,14,2000 Summer Japan Tour,2000 Summer,The Old Home Place,The Old Home Place,0,Club Quattro,"Naka-ku, Nagoya",,Japan,>
-2000-06-13,2000,0,7,2,1,0,0,4,2000 Summer Japan Tour,2000 Summer,Wilson,Wilson,1,Club Quattro,"Naka-ku, Nagoya",,Japan,>
+2000-06-13,2000,0,6,2,1,0,0,14,2000 Summer Japan Tour,2000 Summer,The Old Home Place,,0,Club Quattro,"Naka-ku, Nagoya",,Japan,>
+2000-06-13,2000,0,7,2,1,0,0,4,2000 Summer Japan Tour,2000 Summer,Wilson,,1,Club Quattro,"Naka-ku, Nagoya",,Japan,>
 2000-06-13,2000,0,8,2,1,0,0,4,2000 Summer Japan Tour,2000 Summer,Mike's Song,Mike's,1,Club Quattro,"Naka-ku, Nagoya",,Japan,>
-2000-06-13,2000,0,9,2,1,0,0,4,2000 Summer Japan Tour,2000 Summer,Simple,Simple,1,Club Quattro,"Naka-ku, Nagoya",,Japan,>
+2000-06-13,2000,0,9,2,1,0,0,4,2000 Summer Japan Tour,2000 Summer,Simple,,1,Club Quattro,"Naka-ku, Nagoya",,Japan,>
 2000-06-13,2000,0,10,4,1,0,0,12,2000 Summer Japan Tour,2000 Summer,Weekapaug Groove,Weekapaug,1,Club Quattro,"Naka-ku, Nagoya",,Japan,
 2000-06-13,2000,0,11,1,2,0,0,3,2000 Summer Japan Tour,2000 Summer,Gotta Jibboo,Jibboo,0,Club Quattro,"Naka-ku, Nagoya",,Japan,","
 2000-06-13,2000,0,12,1,2,0,0,6,2000 Summer Japan Tour,2000 Summer,Wolfman's Brother,Wolfman's,1,Club Quattro,"Naka-ku, Nagoya",,Japan,","
 2000-06-13,2000,0,13,3,2,0,0,4,2000 Summer Japan Tour,2000 Summer,Run Like an Antelope,Antelope,1,Club Quattro,"Naka-ku, Nagoya",,Japan,->
-2000-06-13,2000,0,14,2,2,0,0,27,2000 Summer Japan Tour,2000 Summer,Contact,Contact,1,Club Quattro,"Naka-ku, Nagoya",,Japan,>
-2000-06-13,2000,0,15,1,2,0,0,2,2000 Summer Japan Tour,2000 Summer,Sand,Sand,0,Club Quattro,"Naka-ku, Nagoya",,Japan,","
-2000-06-13,2000,0,16,2,2,0,0,11,2000 Summer Japan Tour,2000 Summer,Roggae,Roggae,1,Club Quattro,"Naka-ku, Nagoya",,Japan,>
+2000-06-13,2000,0,14,2,2,0,0,27,2000 Summer Japan Tour,2000 Summer,Contact,,1,Club Quattro,"Naka-ku, Nagoya",,Japan,>
+2000-06-13,2000,0,15,1,2,0,0,2,2000 Summer Japan Tour,2000 Summer,Sand,,0,Club Quattro,"Naka-ku, Nagoya",,Japan,","
+2000-06-13,2000,0,16,2,2,0,0,11,2000 Summer Japan Tour,2000 Summer,Roggae,,1,Club Quattro,"Naka-ku, Nagoya",,Japan,>
 2000-06-13,2000,0,17,2,2,0,0,11,2000 Summer Japan Tour,2000 Summer,Prince Caspian,Caspian,1,Club Quattro,"Naka-ku, Nagoya",,Japan,>
-2000-06-13,2000,0,18,2,2,0,0,14,2000 Summer Japan Tour,2000 Summer,Rocky Top,Rocky Top,0,Club Quattro,"Naka-ku, Nagoya",,Japan,>
-2000-06-13,2000,0,19,5,2,0,0,4,2000 Summer Japan Tour,2000 Summer,Cavern,Cavern,1,Club Quattro,"Naka-ku, Nagoya",,Japan,
-2000-06-13,2000,0,20,1,e,0,0,7,2000 Summer Japan Tour,2000 Summer,Brian and Robert,Brian and Robert,1,Club Quattro,"Naka-ku, Nagoya",,Japan,","
+2000-06-13,2000,0,18,2,2,0,0,14,2000 Summer Japan Tour,2000 Summer,Rocky Top,,0,Club Quattro,"Naka-ku, Nagoya",,Japan,>
+2000-06-13,2000,0,19,5,2,0,0,4,2000 Summer Japan Tour,2000 Summer,Cavern,,1,Club Quattro,"Naka-ku, Nagoya",,Japan,
+2000-06-13,2000,0,20,1,e,0,0,7,2000 Summer Japan Tour,2000 Summer,Brian and Robert,,1,Club Quattro,"Naka-ku, Nagoya",,Japan,","
 2000-06-13,2000,0,21,6,e,0,0,12,2000 Summer Japan Tour,2000 Summer,Good Times Bad Times,GTBT,0,Club Quattro,"Naka-ku, Nagoya",,Japan,
-2000-06-14,2000,0,1,1,1,0,0,24,2000 Summer Japan Tour,2000 Summer,Carini,Carini,1,Drum Logos,"Chuo-ku, Fukuoka",,Japan,","
+2000-06-14,2000,0,1,1,1,0,0,24,2000 Summer Japan Tour,2000 Summer,Carini,,1,Drum Logos,"Chuo-ku, Fukuoka",,Japan,","
 2000-06-14,2000,0,2,2,1,0,0,13,2000 Summer Japan Tour,2000 Summer,The Curtain,Curtain,1,Drum Logos,"Chuo-ku, Fukuoka",,Japan,>
-2000-06-14,2000,0,3,1,1,0,0,36,2000 Summer Japan Tour,2000 Summer,Cities,Cities,0,Drum Logos,"Chuo-ku, Fukuoka",,Japan,","
-2000-06-14,2000,0,4,3,1,0,0,18,2000 Summer Japan Tour,2000 Summer,Gumbo,Gumbo,1,Drum Logos,"Chuo-ku, Fukuoka",,Japan,->
-2000-06-14,2000,0,5,1,1,0,0,8,2000 Summer Japan Tour,2000 Summer,Llama,Llama,1,Drum Logos,"Chuo-ku, Fukuoka",,Japan,","
-2000-06-14,2000,0,6,1,1,0,0,30,2000 Summer Japan Tour,2000 Summer,Fee,Fee,1,Drum Logos,"Chuo-ku, Fukuoka",,Japan,","
-2000-06-14,2000,0,7,1,1,0,0,3,2000 Summer Japan Tour,2000 Summer,Heavy Things,Heavy Things,1,Drum Logos,"Chuo-ku, Fukuoka",,Japan,","
+2000-06-14,2000,0,3,1,1,0,0,36,2000 Summer Japan Tour,2000 Summer,Cities,,0,Drum Logos,"Chuo-ku, Fukuoka",,Japan,","
+2000-06-14,2000,0,4,3,1,0,0,18,2000 Summer Japan Tour,2000 Summer,Gumbo,,1,Drum Logos,"Chuo-ku, Fukuoka",,Japan,->
+2000-06-14,2000,0,5,1,1,0,0,8,2000 Summer Japan Tour,2000 Summer,Llama,,1,Drum Logos,"Chuo-ku, Fukuoka",,Japan,","
+2000-06-14,2000,0,6,1,1,0,0,30,2000 Summer Japan Tour,2000 Summer,Fee,,1,Drum Logos,"Chuo-ku, Fukuoka",,Japan,","
+2000-06-14,2000,0,7,1,1,0,0,3,2000 Summer Japan Tour,2000 Summer,Heavy Things,,1,Drum Logos,"Chuo-ku, Fukuoka",,Japan,","
 2000-06-14,2000,0,8,4,1,0,0,6,2000 Summer Japan Tour,2000 Summer,Split Open and Melt,SOAMelt,1,Drum Logos,"Chuo-ku, Fukuoka",,Japan,
 2000-06-14,2000,0,9,1,2,0,0,2,2000 Summer Japan Tour,2000 Summer,Back on the Train,BOTT,0,Drum Logos,"Chuo-ku, Fukuoka",,Japan,","
-2000-06-14,2000,0,10,2,2,0,0,3,2000 Summer Japan Tour,2000 Summer,Twist,Twist,1,Drum Logos,"Chuo-ku, Fukuoka",,Japan,>
-2000-06-14,2000,0,11,3,2,0,0,3,2000 Summer Japan Tour,2000 Summer,Jam,Jam,0,Drum Logos,"Chuo-ku, Fukuoka",,Japan,->
-2000-06-14,2000,0,12,3,2,0,0,23,2000 Summer Japan Tour,2000 Summer,Walk Away,Walk Away,0,Drum Logos,"Chuo-ku, Fukuoka",,Japan,->
+2000-06-14,2000,0,10,2,2,0,0,3,2000 Summer Japan Tour,2000 Summer,Twist,,1,Drum Logos,"Chuo-ku, Fukuoka",,Japan,>
+2000-06-14,2000,0,11,3,2,0,0,3,2000 Summer Japan Tour,2000 Summer,Jam,,0,Drum Logos,"Chuo-ku, Fukuoka",,Japan,->
+2000-06-14,2000,0,12,3,2,0,0,23,2000 Summer Japan Tour,2000 Summer,Walk Away,,0,Drum Logos,"Chuo-ku, Fukuoka",,Japan,->
 2000-06-14,2000,0,13,5,2,0,0,12,2000 Summer Japan Tour,2000 Summer,Also Sprach Zarathustra,2001,0,Drum Logos,"Chuo-ku, Fukuoka",,Japan,
-2000-06-14,2000,0,14,1,e,0,0,56,2000 Summer Japan Tour,2000 Summer,Sleep,Sleep,1,Drum Logos,"Chuo-ku, Fukuoka",,Japan,","
+2000-06-14,2000,0,14,1,e,0,0,56,2000 Summer Japan Tour,2000 Summer,Sleep,,1,Drum Logos,"Chuo-ku, Fukuoka",,Japan,","
 2000-06-14,2000,0,15,6,e,0,0,4,2000 Summer Japan Tour,2000 Summer,The Squirming Coil,Coil,1,Drum Logos,"Chuo-ku, Fukuoka",,Japan,
-2000-06-15,2000,0,1,2,1,0,0,19,2000 Summer Japan Tour,2000 Summer,NICU,NICU,1,Big Cat,"Chuo-ku, Osaka",,Japan,>
+2000-06-15,2000,0,1,2,1,0,0,19,2000 Summer Japan Tour,2000 Summer,NICU,,1,Big Cat,"Chuo-ku, Osaka",,Japan,>
 2000-06-15,2000,0,2,1,1,0,0,5,2000 Summer Japan Tour,2000 Summer,Chalk Dust Torture,CDT,1,Big Cat,"Chuo-ku, Osaka",,Japan,","
 2000-06-15,2000,0,3,2,1,0,0,6,2000 Summer Japan Tour,2000 Summer,AC/DC Bag,Bag,1,Big Cat,"Chuo-ku, Osaka",,Japan,>
-2000-06-15,2000,0,4,1,1,0,0,13,2000 Summer Japan Tour,2000 Summer,Uncle Pen,Uncle Pen,0,Big Cat,"Chuo-ku, Osaka",,Japan,","
-2000-06-15,2000,0,5,1,1,0,0,7,2000 Summer Japan Tour,2000 Summer,Ghost,Ghost,1,Big Cat,"Chuo-ku, Osaka",,Japan,","
-2000-06-15,2000,0,6,1,1,0,0,32,2000 Summer Japan Tour,2000 Summer,Frankie Says,Frankie Says,1,Big Cat,"Chuo-ku, Osaka",,Japan,","
+2000-06-15,2000,0,4,1,1,0,0,13,2000 Summer Japan Tour,2000 Summer,Uncle Pen,,0,Big Cat,"Chuo-ku, Osaka",,Japan,","
+2000-06-15,2000,0,5,1,1,0,0,7,2000 Summer Japan Tour,2000 Summer,Ghost,,1,Big Cat,"Chuo-ku, Osaka",,Japan,","
+2000-06-15,2000,0,6,1,1,0,0,32,2000 Summer Japan Tour,2000 Summer,Frankie Says,,1,Big Cat,"Chuo-ku, Osaka",,Japan,","
 2000-06-15,2000,0,7,1,1,0,0,20,2000 Summer Japan Tour,2000 Summer,Divided Sky,Divided,1,Big Cat,"Chuo-ku, Osaka",,Japan,","
-2000-06-15,2000,0,8,4,1,0,0,3,2000 Summer Japan Tour,2000 Summer,Farmhouse,Farmhouse,1,Big Cat,"Chuo-ku, Osaka",,Japan,
+2000-06-15,2000,0,8,4,1,0,0,3,2000 Summer Japan Tour,2000 Summer,Farmhouse,,1,Big Cat,"Chuo-ku, Osaka",,Japan,
 2000-06-15,2000,0,9,2,2,0,0,4,2000 Summer Japan Tour,2000 Summer,Down with Disease,DwD,1,Big Cat,"Chuo-ku, Osaka",,Japan,>
 2000-06-15,2000,0,10,1,2,0,0,23,2000 Summer Japan Tour,2000 Summer,The Lizards,Lizards,1,Big Cat,"Chuo-ku, Osaka",,Japan,","
-2000-06-15,2000,0,11,2,2,0,0,55,2000 Summer Japan Tour,2000 Summer,Bike,Bike,0,Big Cat,"Chuo-ku, Osaka",,Japan,>
+2000-06-15,2000,0,11,2,2,0,0,55,2000 Summer Japan Tour,2000 Summer,Bike,,0,Big Cat,"Chuo-ku, Osaka",,Japan,>
 2000-06-15,2000,0,12,1,2,0,0,13,2000 Summer Japan Tour,2000 Summer,Hold Your Head Up,HYHU,0,Big Cat,"Chuo-ku, Osaka",,Japan,","
 2000-06-15,2000,0,13,5,2,0,0,5,2000 Summer Japan Tour,2000 Summer,You Enjoy Myself,YEM,1,Big Cat,"Chuo-ku, Osaka",,Japan,
 2000-06-15,2000,0,14,6,e,0,0,2,2000 Summer Japan Tour,2000 Summer,Gotta Jibboo,Jibboo,0,Big Cat,"Chuo-ku, Osaka",,Japan,
 2000-06-16,2000,0,1,1,1,0,0,5,2000 Summer Japan Tour,2000 Summer,Limb By Limb,LxL,1,Zepp,"Suminoe-ku, Osaka",,Japan,","
 2000-06-16,2000,0,2,2,1,0,0,2,2000 Summer Japan Tour,2000 Summer,Back on the Train,BOTT,0,Zepp,"Suminoe-ku, Osaka",,Japan,>
 2000-06-16,2000,0,3,1,1,0,0,5,2000 Summer Japan Tour,2000 Summer,Sample in a Jar,Sample,1,Zepp,"Suminoe-ku, Osaka",,Japan,","
-2000-06-16,2000,0,4,2,1,0,0,4,2000 Summer Japan Tour,2000 Summer,First Tube,First Tube,0,Zepp,"Suminoe-ku, Osaka",,Japan,>
+2000-06-16,2000,0,4,2,1,0,0,4,2000 Summer Japan Tour,2000 Summer,First Tube,,0,Zepp,"Suminoe-ku, Osaka",,Japan,>
 2000-06-16,2000,0,5,1,1,0,0,6,2000 Summer Japan Tour,2000 Summer,Golgi Apparatus,Golgi,1,Zepp,"Suminoe-ku, Osaka",,Japan,","
-2000-06-16,2000,0,6,1,1,0,0,2,2000 Summer Japan Tour,2000 Summer,Heavy Things,Heavy Things,1,Zepp,"Suminoe-ku, Osaka",,Japan,","
-2000-06-16,2000,0,7,2,1,0,0,4,2000 Summer Japan Tour,2000 Summer,Dirt,Dirt,0,Zepp,"Suminoe-ku, Osaka",,Japan,>
+2000-06-16,2000,0,6,1,1,0,0,2,2000 Summer Japan Tour,2000 Summer,Heavy Things,,1,Zepp,"Suminoe-ku, Osaka",,Japan,","
+2000-06-16,2000,0,7,2,1,0,0,4,2000 Summer Japan Tour,2000 Summer,Dirt,,0,Zepp,"Suminoe-ku, Osaka",,Japan,>
 2000-06-16,2000,0,8,1,1,0,0,65,2000 Summer Japan Tour,2000 Summer,My Sweet One,MSO,1,Zepp,"Suminoe-ku, Osaka",,Japan,","
-2000-06-16,2000,0,9,1,1,0,0,14,2000 Summer Japan Tour,2000 Summer,Reba,Reba,1,Zepp,"Suminoe-ku, Osaka",,Japan,","
-2000-06-16,2000,0,10,4,1,0,0,4,2000 Summer Japan Tour,2000 Summer,Character Zero,Character Zero,1,Zepp,"Suminoe-ku, Osaka",,Japan,
-2000-06-16,2000,0,11,3,2,0,0,14,2000 Summer Japan Tour,2000 Summer,Runaway Jim,Runaway Jim,1,Zepp,"Suminoe-ku, Osaka",,Japan,->
+2000-06-16,2000,0,9,1,1,0,0,14,2000 Summer Japan Tour,2000 Summer,Reba,,1,Zepp,"Suminoe-ku, Osaka",,Japan,","
+2000-06-16,2000,0,10,4,1,0,0,4,2000 Summer Japan Tour,2000 Summer,Character Zero,,1,Zepp,"Suminoe-ku, Osaka",,Japan,
+2000-06-16,2000,0,11,3,2,0,0,14,2000 Summer Japan Tour,2000 Summer,Runaway Jim,,1,Zepp,"Suminoe-ku, Osaka",,Japan,->
 2000-06-16,2000,0,12,3,2,0,0,20,2000 Summer Japan Tour,2000 Summer,Theme From the Bottom,Theme,1,Zepp,"Suminoe-ku, Osaka",,Japan,->
-2000-06-16,2000,0,13,1,2,0,0,24,2000 Summer Japan Tour,2000 Summer,Dog Faced Boy,Dog Faced Boy,1,Zepp,"Suminoe-ku, Osaka",,Japan,","
-2000-06-16,2000,0,14,2,2,0,0,38,2000 Summer Japan Tour,2000 Summer,Driver,Driver,1,Zepp,"Suminoe-ku, Osaka",,Japan,>
+2000-06-16,2000,0,13,1,2,0,0,24,2000 Summer Japan Tour,2000 Summer,Dog Faced Boy,,1,Zepp,"Suminoe-ku, Osaka",,Japan,","
+2000-06-16,2000,0,14,2,2,0,0,38,2000 Summer Japan Tour,2000 Summer,Driver,,1,Zepp,"Suminoe-ku, Osaka",,Japan,>
 2000-06-16,2000,0,15,2,2,0,0,14,2000 Summer Japan Tour,2000 Summer,Slave to the Traffic Light,Slave,1,Zepp,"Suminoe-ku, Osaka",,Japan,>
-2000-06-16,2000,0,16,1,2,0,0,27,2000 Summer Japan Tour,2000 Summer,Julius,Julius,1,Zepp,"Suminoe-ku, Osaka",,Japan,","
-2000-06-16,2000,0,17,5,2,0,0,4,2000 Summer Japan Tour,2000 Summer,Bug,Bug,0,Zepp,"Suminoe-ku, Osaka",,Japan,
+2000-06-16,2000,0,16,1,2,0,0,27,2000 Summer Japan Tour,2000 Summer,Julius,,1,Zepp,"Suminoe-ku, Osaka",,Japan,","
+2000-06-16,2000,0,17,5,2,0,0,4,2000 Summer Japan Tour,2000 Summer,Bug,,0,Zepp,"Suminoe-ku, Osaka",,Japan,
 2000-06-16,2000,0,18,2,e,0,0,6,2000 Summer Japan Tour,2000 Summer,Bouncing Around the Room,Bouncin',1,Zepp,"Suminoe-ku, Osaka",,Japan,>
 2000-06-16,2000,0,19,6,e,0,0,4,2000 Summer Japan Tour,2000 Summer,Harry Hood,Hood,1,Zepp,"Suminoe-ku, Osaka",,Japan,
-2000-06-22,2000,0,1,1,1,0,0,1,2000 Summer U.S. Tour,2000 Summer,First Tube,First Tube,0,AmSouth Amphitheatre,Antioch,TN,USA,","
+2000-06-22,2000,0,1,1,1,0,0,1,2000 Summer U.S. Tour,2000 Summer,First Tube,,0,AmSouth Amphitheatre,Antioch,TN,USA,","
 2000-06-22,2000,0,2,2,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,Wolfman's Brother,Wolfman's,1,AmSouth Amphitheatre,Antioch,TN,USA,>
-2000-06-22,2000,0,3,2,1,0,0,5,2000 Summer U.S. Tour,2000 Summer,Beauty of My Dreams,Beauty of My Dreams,0,AmSouth Amphitheatre,Antioch,TN,USA,>
+2000-06-22,2000,0,3,2,1,0,0,5,2000 Summer U.S. Tour,2000 Summer,Beauty of My Dreams,,0,AmSouth Amphitheatre,Antioch,TN,USA,>
 2000-06-22,2000,0,4,2,1,0,0,1,2000 Summer U.S. Tour,2000 Summer,Golgi Apparatus,Golgi,1,AmSouth Amphitheatre,Antioch,TN,USA,>
 2000-06-22,2000,0,5,1,1,0,0,1,2000 Summer U.S. Tour,2000 Summer,Limb By Limb,LxL,1,AmSouth Amphitheatre,Antioch,TN,USA,","
-2000-06-22,2000,0,6,1,1,0,0,1,2000 Summer U.S. Tour,2000 Summer,Bug,Bug,0,AmSouth Amphitheatre,Antioch,TN,USA,","
-2000-06-22,2000,0,7,2,1,0,0,7,2000 Summer U.S. Tour,2000 Summer,Poor Heart,Poor Heart,1,AmSouth Amphitheatre,Antioch,TN,USA,>
-2000-06-22,2000,0,8,1,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,Roggae,Roggae,1,AmSouth Amphitheatre,Antioch,TN,USA,","
+2000-06-22,2000,0,6,1,1,0,0,1,2000 Summer U.S. Tour,2000 Summer,Bug,,0,AmSouth Amphitheatre,Antioch,TN,USA,","
+2000-06-22,2000,0,7,2,1,0,0,7,2000 Summer U.S. Tour,2000 Summer,Poor Heart,,1,AmSouth Amphitheatre,Antioch,TN,USA,>
+2000-06-22,2000,0,8,1,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,Roggae,,1,AmSouth Amphitheatre,Antioch,TN,USA,","
 2000-06-22,2000,0,9,4,1,0,0,2,2000 Summer U.S. Tour,2000 Summer,Chalk Dust Torture,CDT,1,AmSouth Amphitheatre,Antioch,TN,USA,
 2000-06-22,2000,0,10,2,2,0,0,2,2000 Summer U.S. Tour,2000 Summer,Gotta Jibboo,Jibboo,0,AmSouth Amphitheatre,Antioch,TN,USA,>
 2000-06-22,2000,0,11,2,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Also Sprach Zarathustra,2001,0,AmSouth Amphitheatre,Antioch,TN,USA,>
-2000-06-22,2000,0,12,2,2,0,0,4,2000 Summer U.S. Tour,2000 Summer,Sand,Sand,0,AmSouth Amphitheatre,Antioch,TN,USA,>
+2000-06-22,2000,0,12,2,2,0,0,4,2000 Summer U.S. Tour,2000 Summer,Sand,,0,AmSouth Amphitheatre,Antioch,TN,USA,>
 2000-06-22,2000,0,13,3,2,0,0,1,2000 Summer U.S. Tour,2000 Summer,Harry Hood,Hood,1,AmSouth Amphitheatre,Antioch,TN,USA,->
-2000-06-22,2000,0,14,2,2,0,0,1,2000 Summer U.S. Tour,2000 Summer,Dog Faced Boy,Dog Faced Boy,1,AmSouth Amphitheatre,Antioch,TN,USA,>
+2000-06-22,2000,0,14,2,2,0,0,1,2000 Summer U.S. Tour,2000 Summer,Dog Faced Boy,,1,AmSouth Amphitheatre,Antioch,TN,USA,>
 2000-06-22,2000,0,15,1,2,0,0,0,2000 Summer U.S. Tour,2000 Summer,Harry Hood,Hood,1,AmSouth Amphitheatre,Antioch,TN,USA,","
-2000-06-22,2000,0,16,1,2,0,0,65,2000 Summer U.S. Tour,2000 Summer,"I'm Blue, I'm Lonesome","I'm Blue, I'm Lonesome",0,AmSouth Amphitheatre,Antioch,TN,USA,","
-2000-06-22,2000,0,17,1,2,0,0,0,2000 Summer U.S. Tour,2000 Summer,Hold Whatcha Got,Hold Whatcha Got,0,AmSouth Amphitheatre,Antioch,TN,USA,","
-2000-06-22,2000,0,18,1,2,0,0,2,2000 Summer U.S. Tour,2000 Summer,Uncle Pen,Uncle Pen,0,AmSouth Amphitheatre,Antioch,TN,USA,","
-2000-06-22,2000,0,19,5,2,0,0,81,2000 Summer U.S. Tour,2000 Summer,Free Bird,Free Bird,0,AmSouth Amphitheatre,Antioch,TN,USA,
+2000-06-22,2000,0,16,1,2,0,0,65,2000 Summer U.S. Tour,2000 Summer,"I'm Blue, I'm Lonesome",,0,AmSouth Amphitheatre,Antioch,TN,USA,","
+2000-06-22,2000,0,17,1,2,0,0,0,2000 Summer U.S. Tour,2000 Summer,Hold Whatcha Got,,0,AmSouth Amphitheatre,Antioch,TN,USA,","
+2000-06-22,2000,0,18,1,2,0,0,2,2000 Summer U.S. Tour,2000 Summer,Uncle Pen,,0,AmSouth Amphitheatre,Antioch,TN,USA,","
+2000-06-22,2000,0,19,5,2,0,0,81,2000 Summer U.S. Tour,2000 Summer,Free Bird,,0,AmSouth Amphitheatre,Antioch,TN,USA,
 2000-06-22,2000,0,20,6,e,0,0,2,2000 Summer U.S. Tour,2000 Summer,You Enjoy Myself,YEM,1,AmSouth Amphitheatre,Antioch,TN,USA,
-2000-06-23,2000,0,1,1,1,0,0,5,2000 Summer U.S. Tour,2000 Summer,Ya Mar,Ya Mar,0,Lakewood Amphitheatre,Atlanta,GA,USA,","
-2000-06-23,2000,0,1,1,1,0,0,3,Not Part of a Tour,No Tour,Going Through the Motions,Going Through the Motions,1,Variety Playhouse,Atlanta,GA,USA,","
-2000-06-23,2000,0,2,1,1,0,0,7,2000 Summer U.S. Tour,2000 Summer,My Soul,My Soul,0,Lakewood Amphitheatre,Atlanta,GA,USA,","
-2000-06-23,2000,0,2,1,1,0,0,0,Not Part of a Tour,No Tour,Jellycup,Jellycup,1,Variety Playhouse,Atlanta,GA,USA,","
+2000-06-23,2000,0,1,1,1,0,0,5,2000 Summer U.S. Tour,2000 Summer,Ya Mar,,0,Lakewood Amphitheatre,Atlanta,GA,USA,","
+2000-06-23,2000,0,1,1,1,0,0,3,Not Part of a Tour,No Tour,Going Through the Motions,,1,Variety Playhouse,Atlanta,GA,USA,","
+2000-06-23,2000,0,2,1,1,0,0,7,2000 Summer U.S. Tour,2000 Summer,My Soul,,0,Lakewood Amphitheatre,Atlanta,GA,USA,","
+2000-06-23,2000,0,2,1,1,0,0,0,Not Part of a Tour,No Tour,Jellycup,,1,Variety Playhouse,Atlanta,GA,USA,","
 2000-06-23,2000,0,3,1,1,0,0,7,2000 Summer U.S. Tour,2000 Summer,Bathtub Gin,Gin,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
-2000-06-23,2000,0,3,1,1,0,0,0,Not Part of a Tour,No Tour,No Egos Underwater,No Egos Underwater,0,Variety Playhouse,Atlanta,GA,USA,","
-2000-06-23,2000,0,4,1,1,0,0,2,2000 Summer U.S. Tour,2000 Summer,Heavy Things,Heavy Things,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
-2000-06-23,2000,0,4,1,1,0,0,0,Not Part of a Tour,No Tour,Jack the Rabbit,Jack the Rabbit,0,Variety Playhouse,Atlanta,GA,USA,","
+2000-06-23,2000,0,3,1,1,0,0,0,Not Part of a Tour,No Tour,No Egos Underwater,,0,Variety Playhouse,Atlanta,GA,USA,","
+2000-06-23,2000,0,4,1,1,0,0,2,2000 Summer U.S. Tour,2000 Summer,Heavy Things,,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
+2000-06-23,2000,0,4,1,1,0,0,0,Not Part of a Tour,No Tour,Jack the Rabbit,,0,Variety Playhouse,Atlanta,GA,USA,","
 2000-06-23,2000,0,5,2,1,0,0,2,2000 Summer U.S. Tour,2000 Summer,Back on the Train,BOTT,0,Lakewood Amphitheatre,Atlanta,GA,USA,>
-2000-06-23,2000,0,5,1,1,0,0,0,Not Part of a Tour,No Tour,Nash,Nash,0,Variety Playhouse,Atlanta,GA,USA,","
+2000-06-23,2000,0,5,1,1,0,0,0,Not Part of a Tour,No Tour,Nash,,0,Variety Playhouse,Atlanta,GA,USA,","
 2000-06-23,2000,0,6,1,1,0,0,6,2000 Summer U.S. Tour,2000 Summer,David Bowie,Bowie,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
-2000-06-23,2000,0,6,1,1,0,0,0,Not Part of a Tour,No Tour,Elevator to the Moon,Elevator to the Moon,0,Variety Playhouse,Atlanta,GA,USA,","
+2000-06-23,2000,0,6,1,1,0,0,0,Not Part of a Tour,No Tour,Elevator to the Moon,,0,Variety Playhouse,Atlanta,GA,USA,","
 2000-06-23,2000,0,7,1,1,0,0,22,2000 Summer U.S. Tour,2000 Summer,Cars Trucks Buses,CTB,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
-2000-06-23,2000,0,7,5,1,0,0,0,Not Part of a Tour,No Tour,Diggin' Up Bones,Diggin' Up Bones,0,Variety Playhouse,Atlanta,GA,USA,
-2000-06-23,2000,0,8,4,1,0,0,3,2000 Summer U.S. Tour,2000 Summer,Farmhouse,Farmhouse,1,Lakewood Amphitheatre,Atlanta,GA,USA,
-2000-06-23,2000,0,8,2,e,0,0,0,Not Part of a Tour,No Tour,Basically Frightened,Basically Frightened,0,Variety Playhouse,Atlanta,GA,USA,>
+2000-06-23,2000,0,7,5,1,0,0,0,Not Part of a Tour,No Tour,Diggin' Up Bones,,0,Variety Playhouse,Atlanta,GA,USA,
+2000-06-23,2000,0,8,4,1,0,0,3,2000 Summer U.S. Tour,2000 Summer,Farmhouse,,1,Lakewood Amphitheatre,Atlanta,GA,USA,
+2000-06-23,2000,0,8,2,e,0,0,0,Not Part of a Tour,No Tour,Basically Frightened,,0,Variety Playhouse,Atlanta,GA,USA,>
 2000-06-23,2000,0,9,2,2,0,0,10,2000 Summer U.S. Tour,2000 Summer,Rock and Roll,R&amp;R,0,Lakewood Amphitheatre,Atlanta,GA,USA,>
-2000-06-23,2000,0,9,2,e,0,0,0,Not Part of a Tour,No Tour,Compared to What,Compared to What,0,Variety Playhouse,Atlanta,GA,USA,>
+2000-06-23,2000,0,9,2,e,0,0,0,Not Part of a Tour,No Tour,Compared to What,,0,Variety Playhouse,Atlanta,GA,USA,>
 2000-06-23,2000,0,10,2,2,0,0,36,2000 Summer U.S. Tour,2000 Summer,Jesus Just Left Chicago,JJLC,0,Lakewood Amphitheatre,Atlanta,GA,USA,>
-2000-06-23,2000,0,10,2,e,0,0,0,Not Part of a Tour,No Tour,Basically Frightened,Basically Frightened,0,Variety Playhouse,Atlanta,GA,USA,>
+2000-06-23,2000,0,10,2,e,0,0,0,Not Part of a Tour,No Tour,Basically Frightened,,0,Variety Playhouse,Atlanta,GA,USA,>
 2000-06-23,2000,0,11,2,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Down with Disease,DwD,1,Lakewood Amphitheatre,Atlanta,GA,USA,>
-2000-06-23,2000,0,11,6,e,0,0,0,Not Part of a Tour,No Tour,Get Rid of Sorrow,Get Rid of Sorrow,0,Variety Playhouse,Atlanta,GA,USA,
-2000-06-23,2000,0,12,1,2,0,0,4,2000 Summer U.S. Tour,2000 Summer,Twist,Twist,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
-2000-06-23,2000,0,13,2,2,0,0,5,2000 Summer U.S. Tour,2000 Summer,Contact,Contact,1,Lakewood Amphitheatre,Atlanta,GA,USA,>
+2000-06-23,2000,0,11,6,e,0,0,0,Not Part of a Tour,No Tour,Get Rid of Sorrow,,0,Variety Playhouse,Atlanta,GA,USA,
+2000-06-23,2000,0,12,1,2,0,0,4,2000 Summer U.S. Tour,2000 Summer,Twist,,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
+2000-06-23,2000,0,13,2,2,0,0,5,2000 Summer U.S. Tour,2000 Summer,Contact,,1,Lakewood Amphitheatre,Atlanta,GA,USA,>
 2000-06-23,2000,0,14,2,2,0,0,23,2000 Summer U.S. Tour,2000 Summer,Makisupa Policeman,Makisupa,1,Lakewood Amphitheatre,Atlanta,GA,USA,>
-2000-06-23,2000,0,15,5,2,0,0,2,2000 Summer U.S. Tour,2000 Summer,Character Zero,Character Zero,1,Lakewood Amphitheatre,Atlanta,GA,USA,
-2000-06-23,2000,0,16,1,e,0,0,5,2000 Summer U.S. Tour,2000 Summer,Brian and Robert,Brian and Robert,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
-2000-06-23,2000,0,17,6,e,0,0,6,2000 Summer U.S. Tour,2000 Summer,Possum,Possum,1,Lakewood Amphitheatre,Atlanta,GA,USA,
+2000-06-23,2000,0,15,5,2,0,0,2,2000 Summer U.S. Tour,2000 Summer,Character Zero,,1,Lakewood Amphitheatre,Atlanta,GA,USA,
+2000-06-23,2000,0,16,1,e,0,0,5,2000 Summer U.S. Tour,2000 Summer,Brian and Robert,,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
+2000-06-23,2000,0,17,6,e,0,0,6,2000 Summer U.S. Tour,2000 Summer,Possum,,1,Lakewood Amphitheatre,Atlanta,GA,USA,
 2000-06-24,2000,0,1,2,1,0,0,9,2000 Summer U.S. Tour,2000 Summer,The Moma Dance,Moma,1,Lakewood Amphitheatre,Atlanta,GA,USA,>
-2000-06-24,2000,0,2,1,1,0,0,3,2000 Summer U.S. Tour,2000 Summer,Runaway Jim,Runaway Jim,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
+2000-06-24,2000,0,2,1,1,0,0,3,2000 Summer U.S. Tour,2000 Summer,Runaway Jim,,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
 2000-06-24,2000,0,3,2,1,0,0,3,2000 Summer U.S. Tour,2000 Summer,Bouncing Around the Room,Bouncin',1,Lakewood Amphitheatre,Atlanta,GA,USA,>
-2000-06-24,2000,0,4,1,1,0,0,9,2000 Summer U.S. Tour,2000 Summer,Tweezer,Tweezer,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
-2000-06-24,2000,0,5,1,1,0,0,24,2000 Summer U.S. Tour,2000 Summer,Strange Design,Strange Design,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
-2000-06-24,2000,0,6,4,1,0,0,6,2000 Summer U.S. Tour,2000 Summer,Cavern,Cavern,1,Lakewood Amphitheatre,Atlanta,GA,USA,
+2000-06-24,2000,0,4,1,1,0,0,9,2000 Summer U.S. Tour,2000 Summer,Tweezer,,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
+2000-06-24,2000,0,5,1,1,0,0,24,2000 Summer U.S. Tour,2000 Summer,Strange Design,,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
+2000-06-24,2000,0,6,4,1,0,0,6,2000 Summer U.S. Tour,2000 Summer,Cavern,,1,Lakewood Amphitheatre,Atlanta,GA,USA,
 2000-06-24,2000,0,7,1,2,0,0,7,2000 Summer U.S. Tour,2000 Summer,Birds of a Feather,BOAF,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
-2000-06-24,2000,0,8,1,2,0,0,2,2000 Summer U.S. Tour,2000 Summer,Bug,Bug,0,Lakewood Amphitheatre,Atlanta,GA,USA,","
+2000-06-24,2000,0,8,1,2,0,0,2,2000 Summer U.S. Tour,2000 Summer,Bug,,0,Lakewood Amphitheatre,Atlanta,GA,USA,","
 2000-06-24,2000,0,9,1,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,My Sweet One,MSO,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
 2000-06-24,2000,0,10,1,2,0,0,6,2000 Summer U.S. Tour,2000 Summer,Run Like an Antelope,Antelope,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
-2000-06-24,2000,0,11,1,2,0,0,4,2000 Summer U.S. Tour,2000 Summer,Frankie Says,Frankie Says,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
-2000-06-24,2000,0,12,1,2,0,0,5,2000 Summer U.S. Tour,2000 Summer,Carini,Carini,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
+2000-06-24,2000,0,11,1,2,0,0,4,2000 Summer U.S. Tour,2000 Summer,Frankie Says,,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
+2000-06-24,2000,0,12,1,2,0,0,5,2000 Summer U.S. Tour,2000 Summer,Carini,,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
 2000-06-24,2000,0,13,1,2,0,0,5,2000 Summer U.S. Tour,2000 Summer,The Squirming Coil,Coil,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
 2000-06-24,2000,0,14,5,2,0,0,6,2000 Summer U.S. Tour,2000 Summer,Prince Caspian,Caspian,1,Lakewood Amphitheatre,Atlanta,GA,USA,
-2000-06-24,2000,0,15,1,e,0,0,8,2000 Summer U.S. Tour,2000 Summer,Guyute,Guyute,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
-2000-06-24,2000,0,16,1,e,0,0,8,2000 Summer U.S. Tour,2000 Summer,The Inlaw Josie Wales,The Inlaw Josie Wales,0,Lakewood Amphitheatre,Atlanta,GA,USA,","
-2000-06-24,2000,0,17,1,e,0,0,3,2000 Summer U.S. Tour,2000 Summer,Driver,Driver,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
+2000-06-24,2000,0,15,1,e,0,0,8,2000 Summer U.S. Tour,2000 Summer,Guyute,,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
+2000-06-24,2000,0,16,1,e,0,0,8,2000 Summer U.S. Tour,2000 Summer,The Inlaw Josie Wales,,0,Lakewood Amphitheatre,Atlanta,GA,USA,","
+2000-06-24,2000,0,17,1,e,0,0,3,2000 Summer U.S. Tour,2000 Summer,Driver,,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
 2000-06-24,2000,0,18,6,e,0,0,9,2000 Summer U.S. Tour,2000 Summer,Tweezer Reprise,Tweeprise,1,Lakewood Amphitheatre,Atlanta,GA,USA,
-2000-06-25,2000,0,1,2,1,0,0,5,2000 Summer U.S. Tour,2000 Summer,NICU,NICU,1,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,>
+2000-06-25,2000,0,1,2,1,0,0,5,2000 Summer U.S. Tour,2000 Summer,NICU,,1,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,>
 2000-06-25,2000,0,2,1,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,Sample in a Jar,Sample,1,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,","
-2000-06-25,2000,0,3,1,1,0,0,7,2000 Summer U.S. Tour,2000 Summer,The Old Home Place,The Old Home Place,0,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,","
+2000-06-25,2000,0,3,1,1,0,0,7,2000 Summer U.S. Tour,2000 Summer,The Old Home Place,,0,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,","
 2000-06-25,2000,0,4,1,1,0,0,8,2000 Summer U.S. Tour,2000 Summer,Punch You in the Eye,PYITE,1,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,","
-2000-06-25,2000,0,5,1,1,0,0,17,2000 Summer U.S. Tour,2000 Summer,Water in the Sky,Water in the Sky,1,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,","
-2000-06-25,2000,0,6,1,1,0,0,10,2000 Summer U.S. Tour,2000 Summer,Funky Bitch,Funky Bitch,0,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,","
-2000-06-25,2000,0,7,1,1,0,0,8,2000 Summer U.S. Tour,2000 Summer,Horn,Horn,1,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,","
-2000-06-25,2000,0,8,1,1,0,0,2,2000 Summer U.S. Tour,2000 Summer,Heavy Things,Heavy Things,1,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,","
-2000-06-25,2000,0,9,1,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,Dirt,Dirt,0,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,","
+2000-06-25,2000,0,5,1,1,0,0,17,2000 Summer U.S. Tour,2000 Summer,Water in the Sky,,1,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,","
+2000-06-25,2000,0,6,1,1,0,0,10,2000 Summer U.S. Tour,2000 Summer,Funky Bitch,,0,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,","
+2000-06-25,2000,0,7,1,1,0,0,8,2000 Summer U.S. Tour,2000 Summer,Horn,,1,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,","
+2000-06-25,2000,0,8,1,1,0,0,2,2000 Summer U.S. Tour,2000 Summer,Heavy Things,,1,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,","
+2000-06-25,2000,0,9,1,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,Dirt,,0,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,","
 2000-06-25,2000,0,10,4,1,0,0,6,2000 Summer U.S. Tour,2000 Summer,Split Open and Melt,SOAMelt,1,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,
 2000-06-25,2000,0,11,2,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Gotta Jibboo,Jibboo,0,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,>
 2000-06-25,2000,0,12,2,2,0,0,7,2000 Summer U.S. Tour,2000 Summer,Fast Enough for You,FEFY,1,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,>
 2000-06-25,2000,0,13,1,2,0,0,26,2000 Summer U.S. Tour,2000 Summer,Scent of a Mule,SOAMule,1,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,","
-2000-06-25,2000,0,14,1,2,0,0,7,2000 Summer U.S. Tour,2000 Summer,Meat,Meat,1,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,","
-2000-06-25,2000,0,15,1,2,0,0,7,2000 Summer U.S. Tour,2000 Summer,Maze,Maze,1,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,","
+2000-06-25,2000,0,14,1,2,0,0,7,2000 Summer U.S. Tour,2000 Summer,Meat,,1,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,","
+2000-06-25,2000,0,15,1,2,0,0,7,2000 Summer U.S. Tour,2000 Summer,Maze,,1,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,","
 2000-06-25,2000,0,16,2,2,0,0,53,2000 Summer U.S. Tour,2000 Summer,What's the Use?,WTU?,1,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,>
 2000-06-25,2000,0,17,5,2,0,0,4,2000 Summer U.S. Tour,2000 Summer,Slave to the Traffic Light,Slave,1,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,
-2000-06-25,2000,0,18,1,e,0,0,3,2000 Summer U.S. Tour,2000 Summer,Uncle Pen,Uncle Pen,0,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,","
-2000-06-25,2000,0,19,6,e,0,0,33,2000 Summer U.S. Tour,2000 Summer,Bold As Love,Bold As Love,0,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,
+2000-06-25,2000,0,18,1,e,0,0,3,2000 Summer U.S. Tour,2000 Summer,Uncle Pen,,0,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,","
+2000-06-25,2000,0,19,6,e,0,0,33,2000 Summer U.S. Tour,2000 Summer,Bold As Love,,0,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,
 2000-06-27,2000,1,1,6,1,0,0,0,Not Part of a Tour,No Tour,Back on the Train,BOTT,0,"NBC Television Studios, Studio 6A",New York,NY,USA,
 2000-06-28,2000,0,1,1,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,Chalk Dust Torture,CDT,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
 2000-06-28,2000,0,2,1,1,0,0,20,2000 Summer U.S. Tour,2000 Summer,The Sloth,Sloth,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
-2000-06-28,2000,0,3,1,1,0,0,11,2000 Summer U.S. Tour,2000 Summer,Taste,Taste,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
+2000-06-28,2000,0,3,1,1,0,0,11,2000 Summer U.S. Tour,2000 Summer,Taste,,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
 2000-06-28,2000,0,4,1,1,0,0,3,2000 Summer U.S. Tour,2000 Summer,Bathtub Gin,Gin,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
-2000-06-28,2000,0,5,1,1,0,0,10,2000 Summer U.S. Tour,2000 Summer,Piper,Piper,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
-2000-06-28,2000,0,6,4,1,0,0,125,2000 Summer U.S. Tour,2000 Summer,If I Could,If I Could,1,PNC Bank Arts Center,Holmdel,NJ,USA,
+2000-06-28,2000,0,5,1,1,0,0,10,2000 Summer U.S. Tour,2000 Summer,Piper,,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
+2000-06-28,2000,0,6,4,1,0,0,125,2000 Summer U.S. Tour,2000 Summer,If I Could,,1,PNC Bank Arts Center,Holmdel,NJ,USA,
 2000-06-28,2000,0,7,2,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Down with Disease,DwD,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
 2000-06-28,2000,0,8,2,2,0,0,4,2000 Summer U.S. Tour,2000 Summer,Harry Hood,Hood,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
 2000-06-28,2000,0,9,2,2,0,0,1,2000 Summer U.S. Tour,2000 Summer,Gotta Jibboo,Jibboo,0,PNC Bank Arts Center,Holmdel,NJ,USA,>
 2000-06-28,2000,0,10,2,2,0,0,9,2000 Summer U.S. Tour,2000 Summer,When the Circus Comes,Circus,0,PNC Bank Arts Center,Holmdel,NJ,USA,>
 2000-06-28,2000,0,11,1,2,0,0,8,2000 Summer U.S. Tour,2000 Summer,Mike's Song,Mike's,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
-2000-06-28,2000,0,12,2,2,0,0,10,2000 Summer U.S. Tour,2000 Summer,Albuquerque,Albuquerque,0,PNC Bank Arts Center,Holmdel,NJ,USA,>
+2000-06-28,2000,0,12,2,2,0,0,10,2000 Summer U.S. Tour,2000 Summer,Albuquerque,,0,PNC Bank Arts Center,Holmdel,NJ,USA,>
 2000-06-28,2000,0,13,5,2,0,0,8,2000 Summer U.S. Tour,2000 Summer,Weekapaug Groove,Weekapaug,1,PNC Bank Arts Center,Holmdel,NJ,USA,
-2000-06-28,2000,0,14,2,e,0,0,4,2000 Summer U.S. Tour,2000 Summer,First Tube,First Tube,0,PNC Bank Arts Center,Holmdel,NJ,USA,>
-2000-06-28,2000,0,15,6,e,0,0,10,2000 Summer U.S. Tour,2000 Summer,Loving Cup,Loving Cup,0,PNC Bank Arts Center,Holmdel,NJ,USA,
-2000-06-29,2000,0,1,2,1,0,0,2,2000 Summer U.S. Tour,2000 Summer,Funky Bitch,Funky Bitch,0,PNC Bank Arts Center,Holmdel,NJ,USA,>
-2000-06-29,2000,0,2,1,1,0,0,9,2000 Summer U.S. Tour,2000 Summer,Wilson,Wilson,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
+2000-06-28,2000,0,14,2,e,0,0,4,2000 Summer U.S. Tour,2000 Summer,First Tube,,0,PNC Bank Arts Center,Holmdel,NJ,USA,>
+2000-06-28,2000,0,15,6,e,0,0,10,2000 Summer U.S. Tour,2000 Summer,Loving Cup,,0,PNC Bank Arts Center,Holmdel,NJ,USA,
+2000-06-29,2000,0,1,2,1,0,0,2,2000 Summer U.S. Tour,2000 Summer,Funky Bitch,,0,PNC Bank Arts Center,Holmdel,NJ,USA,>
+2000-06-29,2000,0,2,1,1,0,0,9,2000 Summer U.S. Tour,2000 Summer,Wilson,,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
 2000-06-29,2000,0,3,1,1,0,0,5,2000 Summer U.S. Tour,2000 Summer,Limb By Limb,LxL,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
-2000-06-29,2000,0,4,3,1,0,0,18,2000 Summer U.S. Tour,2000 Summer,Drowned,Drowned,0,PNC Bank Arts Center,Holmdel,NJ,USA,->
+2000-06-29,2000,0,4,3,1,0,0,18,2000 Summer U.S. Tour,2000 Summer,Drowned,,0,PNC Bank Arts Center,Holmdel,NJ,USA,->
 2000-06-29,2000,0,5,4,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,Rock and Roll,R&amp;R,0,PNC Bank Arts Center,Holmdel,NJ,USA,
 2000-06-29,2000,0,6,3,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Birds of a Feather,BOAF,1,PNC Bank Arts Center,Holmdel,NJ,USA,->
-2000-06-29,2000,0,7,2,2,0,0,20,2000 Summer U.S. Tour,2000 Summer,Catapult,Catapult,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
-2000-06-29,2000,0,8,2,2,0,0,2,2000 Summer U.S. Tour,2000 Summer,Heavy Things,Heavy Things,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
-2000-06-29,2000,0,9,1,2,0,0,5,2000 Summer U.S. Tour,2000 Summer,Sand,Sand,0,PNC Bank Arts Center,Holmdel,NJ,USA,","
-2000-06-29,2000,0,10,2,2,0,0,12,2000 Summer U.S. Tour,2000 Summer,Meatstick,Meatstick,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
-2000-06-29,2000,0,11,3,2,0,0,8,2000 Summer U.S. Tour,2000 Summer,Cities,Cities,0,PNC Bank Arts Center,Holmdel,NJ,USA,->
-2000-06-29,2000,0,12,2,2,0,0,8,2000 Summer U.S. Tour,2000 Summer,Walk Away,Walk Away,0,PNC Bank Arts Center,Holmdel,NJ,USA,>
+2000-06-29,2000,0,7,2,2,0,0,20,2000 Summer U.S. Tour,2000 Summer,Catapult,,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
+2000-06-29,2000,0,8,2,2,0,0,2,2000 Summer U.S. Tour,2000 Summer,Heavy Things,,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
+2000-06-29,2000,0,9,1,2,0,0,5,2000 Summer U.S. Tour,2000 Summer,Sand,,0,PNC Bank Arts Center,Holmdel,NJ,USA,","
+2000-06-29,2000,0,10,2,2,0,0,12,2000 Summer U.S. Tour,2000 Summer,Meatstick,,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
+2000-06-29,2000,0,11,3,2,0,0,8,2000 Summer U.S. Tour,2000 Summer,Cities,,0,PNC Bank Arts Center,Holmdel,NJ,USA,->
+2000-06-29,2000,0,12,2,2,0,0,8,2000 Summer U.S. Tour,2000 Summer,Walk Away,,0,PNC Bank Arts Center,Holmdel,NJ,USA,>
 2000-06-29,2000,0,13,2,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Run Like an Antelope,Antelope,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
-2000-06-29,2000,0,14,1,2,0,0,25,2000 Summer U.S. Tour,2000 Summer,Frankenstein,Frankenstein,0,PNC Bank Arts Center,Holmdel,NJ,USA,","
+2000-06-29,2000,0,14,1,2,0,0,25,2000 Summer U.S. Tour,2000 Summer,Frankenstein,,0,PNC Bank Arts Center,Holmdel,NJ,USA,","
 2000-06-29,2000,0,15,5,2,0,0,11,2000 Summer U.S. Tour,2000 Summer,Wading in the Velvet Sea,Velvet Sea,1,PNC Bank Arts Center,Holmdel,NJ,USA,
-2000-06-29,2000,0,16,6,e,0,0,4,2000 Summer U.S. Tour,2000 Summer,Character Zero,Character Zero,1,PNC Bank Arts Center,Holmdel,NJ,USA,
-2000-06-30,2000,0,1,1,1,0,0,60,2000 Summer U.S. Tour,2000 Summer,Ha Ha Ha,Ha Ha Ha,1,Meadows Music Theatre,Hartford,CT,USA,","
+2000-06-29,2000,0,16,6,e,0,0,4,2000 Summer U.S. Tour,2000 Summer,Character Zero,,1,PNC Bank Arts Center,Holmdel,NJ,USA,
+2000-06-30,2000,0,1,1,1,0,0,60,2000 Summer U.S. Tour,2000 Summer,Ha Ha Ha,,1,Meadows Music Theatre,Hartford,CT,USA,","
 2000-06-30,2000,0,2,2,1,0,0,8,2000 Summer U.S. Tour,2000 Summer,AC/DC Bag,Bag,1,Meadows Music Theatre,Hartford,CT,USA,>
-2000-06-30,2000,0,3,2,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,Tweezer,Tweezer,1,Meadows Music Theatre,Hartford,CT,USA,>
-2000-06-30,2000,0,4,1,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,Runaway Jim,Runaway Jim,1,Meadows Music Theatre,Hartford,CT,USA,","
+2000-06-30,2000,0,3,2,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,Tweezer,,1,Meadows Music Theatre,Hartford,CT,USA,>
+2000-06-30,2000,0,4,1,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,Runaway Jim,,1,Meadows Music Theatre,Hartford,CT,USA,","
 2000-06-30,2000,0,5,2,1,0,0,29,2000 Summer U.S. Tour,2000 Summer,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Meadows Music Theatre,Hartford,CT,USA,>
 2000-06-30,2000,0,6,2,1,0,0,11,2000 Summer U.S. Tour,2000 Summer,Ginseng Sullivan,Ginseng,0,Meadows Music Theatre,Hartford,CT,USA,>
-2000-06-30,2000,0,7,1,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,Guyute,Guyute,1,Meadows Music Theatre,Hartford,CT,USA,","
+2000-06-30,2000,0,7,1,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,Guyute,,1,Meadows Music Theatre,Hartford,CT,USA,","
 2000-06-30,2000,0,8,2,1,0,0,6,2000 Summer U.S. Tour,2000 Summer,Golgi Apparatus,Golgi,1,Meadows Music Theatre,Hartford,CT,USA,>
 2000-06-30,2000,0,9,2,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,Tweezer Reprise,Tweeprise,1,Meadows Music Theatre,Hartford,CT,USA,>
-2000-06-30,2000,0,10,4,1,0,0,5,2000 Summer U.S. Tour,2000 Summer,Possum,Possum,1,Meadows Music Theatre,Hartford,CT,USA,
+2000-06-30,2000,0,10,4,1,0,0,5,2000 Summer U.S. Tour,2000 Summer,Possum,,1,Meadows Music Theatre,Hartford,CT,USA,
 2000-06-30,2000,0,11,2,2,0,0,26,2000 Summer U.S. Tour,2000 Summer,Halley's Comet,Halley's,1,Meadows Music Theatre,Hartford,CT,USA,>
 2000-06-30,2000,0,12,2,2,0,0,13,2000 Summer U.S. Tour,2000 Summer,The Mango Song,Mango,1,Meadows Music Theatre,Hartford,CT,USA,>
-2000-06-30,2000,0,13,1,2,0,0,5,2000 Summer U.S. Tour,2000 Summer,Twist,Twist,1,Meadows Music Theatre,Hartford,CT,USA,","
-2000-06-30,2000,0,14,1,2,0,0,4,2000 Summer U.S. Tour,2000 Summer,The Inlaw Josie Wales,The Inlaw Josie Wales,0,Meadows Music Theatre,Hartford,CT,USA,","
+2000-06-30,2000,0,13,1,2,0,0,5,2000 Summer U.S. Tour,2000 Summer,Twist,,1,Meadows Music Theatre,Hartford,CT,USA,","
+2000-06-30,2000,0,14,1,2,0,0,4,2000 Summer U.S. Tour,2000 Summer,The Inlaw Josie Wales,,0,Meadows Music Theatre,Hartford,CT,USA,","
 2000-06-30,2000,0,15,2,2,0,0,5,2000 Summer U.S. Tour,2000 Summer,Back on the Train,BOTT,0,Meadows Music Theatre,Hartford,CT,USA,>
 2000-06-30,2000,0,16,1,2,0,0,5,2000 Summer U.S. Tour,2000 Summer,Makisupa Policeman,Makisupa,1,Meadows Music Theatre,Hartford,CT,USA,","
-2000-06-30,2000,0,17,2,2,0,0,5,2000 Summer U.S. Tour,2000 Summer,Farmhouse,Farmhouse,1,Meadows Music Theatre,Hartford,CT,USA,>
-2000-06-30,2000,0,18,2,2,0,0,14,2000 Summer U.S. Tour,2000 Summer,Sleeping Monkey,Sleeping Monkey,1,Meadows Music Theatre,Hartford,CT,USA,>
+2000-06-30,2000,0,17,2,2,0,0,5,2000 Summer U.S. Tour,2000 Summer,Farmhouse,,1,Meadows Music Theatre,Hartford,CT,USA,>
+2000-06-30,2000,0,18,2,2,0,0,14,2000 Summer U.S. Tour,2000 Summer,Sleeping Monkey,,1,Meadows Music Theatre,Hartford,CT,USA,>
 2000-06-30,2000,0,19,5,2,0,0,5,2000 Summer U.S. Tour,2000 Summer,David Bowie,Bowie,1,Meadows Music Theatre,Hartford,CT,USA,
-2000-06-30,2000,0,20,6,e,0,0,4,2000 Summer U.S. Tour,2000 Summer,Cavern,Cavern,1,Meadows Music Theatre,Hartford,CT,USA,
-2000-07-01,2000,0,1,1,1,0,0,92,2000 Summer U.S. Tour,2000 Summer,Buried Alive,Buried Alive,1,Meadows Music Theatre,Hartford,CT,USA,","
+2000-06-30,2000,0,20,6,e,0,0,4,2000 Summer U.S. Tour,2000 Summer,Cavern,,1,Meadows Music Theatre,Hartford,CT,USA,
+2000-07-01,2000,0,1,1,1,0,0,92,2000 Summer U.S. Tour,2000 Summer,Buried Alive,,1,Meadows Music Theatre,Hartford,CT,USA,","
 2000-07-01,2000,0,2,2,1,0,0,7,2000 Summer U.S. Tour,2000 Summer,Wolfman's Brother,Wolfman's,1,Meadows Music Theatre,Hartford,CT,USA,>
-2000-07-01,2000,0,3,2,1,0,0,14,2000 Summer U.S. Tour,2000 Summer,Axilla,Axilla,1,Meadows Music Theatre,Hartford,CT,USA,>
-2000-07-01,2000,0,4,2,1,0,0,7,2000 Summer U.S. Tour,2000 Summer,Poor Heart,Poor Heart,1,Meadows Music Theatre,Hartford,CT,USA,>
+2000-07-01,2000,0,3,2,1,0,0,14,2000 Summer U.S. Tour,2000 Summer,Axilla,,1,Meadows Music Theatre,Hartford,CT,USA,>
+2000-07-01,2000,0,4,2,1,0,0,7,2000 Summer U.S. Tour,2000 Summer,Poor Heart,,1,Meadows Music Theatre,Hartford,CT,USA,>
 2000-07-01,2000,0,5,1,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,Sample in a Jar,Sample,1,Meadows Music Theatre,Hartford,CT,USA,","
-2000-07-01,2000,0,6,1,1,0,0,18,2000 Summer U.S. Tour,2000 Summer,Tube,Tube,1,Meadows Music Theatre,Hartford,CT,USA,","
-2000-07-01,2000,0,7,1,1,0,0,7,2000 Summer U.S. Tour,2000 Summer,Beauty of My Dreams,Beauty of My Dreams,0,Meadows Music Theatre,Hartford,CT,USA,","
-2000-07-01,2000,0,8,1,1,0,0,7,2000 Summer U.S. Tour,2000 Summer,Roggae,Roggae,1,Meadows Music Theatre,Hartford,CT,USA,","
-2000-07-01,2000,0,9,1,1,0,0,38,2000 Summer U.S. Tour,2000 Summer,Vultures,Vultures,1,Meadows Music Theatre,Hartford,CT,USA,","
-2000-07-01,2000,0,10,1,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,Dirt,Dirt,0,Meadows Music Theatre,Hartford,CT,USA,","
+2000-07-01,2000,0,6,1,1,0,0,18,2000 Summer U.S. Tour,2000 Summer,Tube,,1,Meadows Music Theatre,Hartford,CT,USA,","
+2000-07-01,2000,0,7,1,1,0,0,7,2000 Summer U.S. Tour,2000 Summer,Beauty of My Dreams,,0,Meadows Music Theatre,Hartford,CT,USA,","
+2000-07-01,2000,0,8,1,1,0,0,7,2000 Summer U.S. Tour,2000 Summer,Roggae,,1,Meadows Music Theatre,Hartford,CT,USA,","
+2000-07-01,2000,0,9,1,1,0,0,38,2000 Summer U.S. Tour,2000 Summer,Vultures,,1,Meadows Music Theatre,Hartford,CT,USA,","
+2000-07-01,2000,0,10,1,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,Dirt,,0,Meadows Music Theatre,Hartford,CT,USA,","
 2000-07-01,2000,0,11,4,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,Split Open and Melt,SOAMelt,1,Meadows Music Theatre,Hartford,CT,USA,
 2000-07-01,2000,0,12,1,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Gotta Jibboo,Jibboo,0,Meadows Music Theatre,Hartford,CT,USA,","
-2000-07-01,2000,0,13,2,2,0,0,5,2000 Summer U.S. Tour,2000 Summer,Bug,Bug,0,Meadows Music Theatre,Hartford,CT,USA,>
-2000-07-01,2000,0,14,2,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,First Tube,First Tube,0,Meadows Music Theatre,Hartford,CT,USA,>
+2000-07-01,2000,0,13,2,2,0,0,5,2000 Summer U.S. Tour,2000 Summer,Bug,,0,Meadows Music Theatre,Hartford,CT,USA,>
+2000-07-01,2000,0,14,2,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,First Tube,,0,Meadows Music Theatre,Hartford,CT,USA,>
 2000-07-01,2000,0,15,3,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Mike's Song,Mike's,1,Meadows Music Theatre,Hartford,CT,USA,->
-2000-07-01,2000,0,16,2,2,0,0,85,2000 Summer U.S. Tour,2000 Summer,Swept Away,Swept Away,1,Meadows Music Theatre,Hartford,CT,USA,>
-2000-07-01,2000,0,17,3,2,0,0,85,2000 Summer U.S. Tour,2000 Summer,Steep,Steep,1,Meadows Music Theatre,Hartford,CT,USA,->
+2000-07-01,2000,0,16,2,2,0,0,85,2000 Summer U.S. Tour,2000 Summer,Swept Away,,1,Meadows Music Theatre,Hartford,CT,USA,>
+2000-07-01,2000,0,17,3,2,0,0,85,2000 Summer U.S. Tour,2000 Summer,Steep,,1,Meadows Music Theatre,Hartford,CT,USA,->
 2000-07-01,2000,0,18,2,2,0,0,23,2000 Summer U.S. Tour,2000 Summer,I Am Hydrogen,Hydrogen,1,Meadows Music Theatre,Hartford,CT,USA,>
 2000-07-01,2000,0,19,3,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Weekapaug Groove,Weekapaug,1,Meadows Music Theatre,Hartford,CT,USA,->
-2000-07-01,2000,0,20,1,2,0,0,33,2000 Summer U.S. Tour,2000 Summer,Nellie Kane,Nellie Kane,0,Meadows Music Theatre,Hartford,CT,USA,","
-2000-07-01,2000,0,21,5,2,0,0,9,2000 Summer U.S. Tour,2000 Summer,Ghost,Ghost,1,Meadows Music Theatre,Hartford,CT,USA,
+2000-07-01,2000,0,20,1,2,0,0,33,2000 Summer U.S. Tour,2000 Summer,Nellie Kane,,0,Meadows Music Theatre,Hartford,CT,USA,","
+2000-07-01,2000,0,21,5,2,0,0,9,2000 Summer U.S. Tour,2000 Summer,Ghost,,1,Meadows Music Theatre,Hartford,CT,USA,
 2000-07-01,2000,0,22,6,e,0,0,44,2000 Summer U.S. Tour,2000 Summer,While My Guitar Gently Weeps,WMGGW,0,Meadows Music Theatre,Hartford,CT,USA,
 2000-07-03,2000,0,1,1,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,Down with Disease,DwD,1,E Centre,Camden,NJ,USA,","
 2000-07-03,2000,0,2,1,1,0,0,52,2000 Summer U.S. Tour,2000 Summer,Guelah Papyrus,Guelah,1,E Centre,Camden,NJ,USA,","
 2000-07-03,2000,0,3,1,1,0,0,32,2000 Summer U.S. Tour,2000 Summer,My Mind's Got a Mind of its Own,MMGAMOIO,0,E Centre,Camden,NJ,USA,","
-2000-07-03,2000,0,4,1,1,0,0,92,2000 Summer U.S. Tour,2000 Summer,Foam,Foam,1,E Centre,Camden,NJ,USA,","
+2000-07-03,2000,0,4,1,1,0,0,92,2000 Summer U.S. Tour,2000 Summer,Foam,,1,E Centre,Camden,NJ,USA,","
 2000-07-03,2000,0,5,1,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,Bathtub Gin,Gin,1,E Centre,Camden,NJ,USA,","
-2000-07-03,2000,0,6,1,1,0,0,7,2000 Summer U.S. Tour,2000 Summer,My Soul,My Soul,0,E Centre,Camden,NJ,USA,","
-2000-07-03,2000,0,7,1,1,0,0,3,2000 Summer U.S. Tour,2000 Summer,Heavy Things,Heavy Things,1,E Centre,Camden,NJ,USA,","
-2000-07-03,2000,0,8,1,1,0,0,35,2000 Summer U.S. Tour,2000 Summer,Fluffhead,Fluffhead,1,E Centre,Camden,NJ,USA,","
+2000-07-03,2000,0,6,1,1,0,0,7,2000 Summer U.S. Tour,2000 Summer,My Soul,,0,E Centre,Camden,NJ,USA,","
+2000-07-03,2000,0,7,1,1,0,0,3,2000 Summer U.S. Tour,2000 Summer,Heavy Things,,1,E Centre,Camden,NJ,USA,","
+2000-07-03,2000,0,8,1,1,0,0,35,2000 Summer U.S. Tour,2000 Summer,Fluffhead,,1,E Centre,Camden,NJ,USA,","
 2000-07-03,2000,0,9,1,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,When the Circus Comes,Circus,0,E Centre,Camden,NJ,USA,","
 2000-07-03,2000,0,10,4,1,0,0,3,2000 Summer U.S. Tour,2000 Summer,Run Like an Antelope,Antelope,1,E Centre,Camden,NJ,USA,
-2000-07-03,2000,0,11,1,2,0,0,2,2000 Summer U.S. Tour,2000 Summer,Runaway Jim,Runaway Jim,1,E Centre,Camden,NJ,USA,","
-2000-07-03,2000,0,12,1,2,0,0,67,2000 Summer U.S. Tour,2000 Summer,Glide,Glide,1,E Centre,Camden,NJ,USA,","
+2000-07-03,2000,0,11,1,2,0,0,2,2000 Summer U.S. Tour,2000 Summer,Runaway Jim,,1,E Centre,Camden,NJ,USA,","
+2000-07-03,2000,0,12,1,2,0,0,67,2000 Summer U.S. Tour,2000 Summer,Glide,,1,E Centre,Camden,NJ,USA,","
 2000-07-03,2000,0,13,2,2,0,0,9,2000 Summer U.S. Tour,2000 Summer,Theme From the Bottom,Theme,1,E Centre,Camden,NJ,USA,>
-2000-07-03,2000,0,14,1,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Sand,Sand,0,E Centre,Camden,NJ,USA,","
-2000-07-03,2000,0,15,2,2,0,0,5,2000 Summer U.S. Tour,2000 Summer,Meat,Meat,1,E Centre,Camden,NJ,USA,>
+2000-07-03,2000,0,14,1,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Sand,,0,E Centre,Camden,NJ,USA,","
+2000-07-03,2000,0,15,2,2,0,0,5,2000 Summer U.S. Tour,2000 Summer,Meat,,1,E Centre,Camden,NJ,USA,>
 2000-07-03,2000,0,16,1,2,0,0,4,2000 Summer U.S. Tour,2000 Summer,Chalk Dust Torture,CDT,1,E Centre,Camden,NJ,USA,","
-2000-07-03,2000,0,17,5,2,0,0,23,2000 Summer U.S. Tour,2000 Summer,Bittersweet Motel,Bittersweet Motel,1,E Centre,Camden,NJ,USA,
-2000-07-03,2000,0,18,6,e,0,0,16,2000 Summer U.S. Tour,2000 Summer,Waste,Waste,1,E Centre,Camden,NJ,USA,
+2000-07-03,2000,0,17,5,2,0,0,23,2000 Summer U.S. Tour,2000 Summer,Bittersweet Motel,,1,E Centre,Camden,NJ,USA,
+2000-07-03,2000,0,18,6,e,0,0,16,2000 Summer U.S. Tour,2000 Summer,Waste,,1,E Centre,Camden,NJ,USA,
 2000-07-04,2000,0,1,1,1,0,0,82,2000 Summer U.S. Tour,2000 Summer,The Star-Spangled Banner,Star Spangled Banner,0,E Centre,Camden,NJ,USA,","
-2000-07-04,2000,0,2,1,1,0,0,3,2000 Summer U.S. Tour,2000 Summer,Farmhouse,Farmhouse,1,E Centre,Camden,NJ,USA,","
-2000-07-04,2000,0,3,2,1,0,0,64,2000 Summer U.S. Tour,2000 Summer,Rift,Rift,1,E Centre,Camden,NJ,USA,>
-2000-07-04,2000,0,4,2,1,0,0,14,2000 Summer U.S. Tour,2000 Summer,It's Ice,It's Ice,1,E Centre,Camden,NJ,USA,>
+2000-07-04,2000,0,2,1,1,0,0,3,2000 Summer U.S. Tour,2000 Summer,Farmhouse,,1,E Centre,Camden,NJ,USA,","
+2000-07-04,2000,0,3,2,1,0,0,64,2000 Summer U.S. Tour,2000 Summer,Rift,,1,E Centre,Camden,NJ,USA,>
+2000-07-04,2000,0,4,2,1,0,0,14,2000 Summer U.S. Tour,2000 Summer,It's Ice,,1,E Centre,Camden,NJ,USA,>
 2000-07-04,2000,0,5,1,1,0,0,7,2000 Summer U.S. Tour,2000 Summer,Bouncing Around the Room,Bouncin',1,E Centre,Camden,NJ,USA,","
-2000-07-04,2000,0,6,1,1,0,0,14,2000 Summer U.S. Tour,2000 Summer,Stash,Stash,1,E Centre,Camden,NJ,USA,","
+2000-07-04,2000,0,6,1,1,0,0,14,2000 Summer U.S. Tour,2000 Summer,Stash,,1,E Centre,Camden,NJ,USA,","
 2000-07-04,2000,0,7,1,1,0,0,11,2000 Summer U.S. Tour,2000 Summer,The Lizards,Lizards,1,E Centre,Camden,NJ,USA,","
 2000-07-04,2000,0,8,2,1,0,0,37,2000 Summer U.S. Tour,2000 Summer,The Man Who Stepped Into Yesterday,TMWSIY,1,E Centre,Camden,NJ,USA,>
-2000-07-04,2000,0,9,2,1,0,0,37,2000 Summer U.S. Tour,2000 Summer,Avenu Malkenu,Avenu Malkenu,0,E Centre,Camden,NJ,USA,>
+2000-07-04,2000,0,9,2,1,0,0,37,2000 Summer U.S. Tour,2000 Summer,Avenu Malkenu,,0,E Centre,Camden,NJ,USA,>
 2000-07-04,2000,0,10,2,1,0,0,0,2000 Summer U.S. Tour,2000 Summer,The Man Who Stepped Into Yesterday,TMWSIY,1,E Centre,Camden,NJ,USA,>
-2000-07-04,2000,0,11,4,1,0,0,10,2000 Summer U.S. Tour,2000 Summer,Julius,Julius,1,E Centre,Camden,NJ,USA,
+2000-07-04,2000,0,11,4,1,0,0,10,2000 Summer U.S. Tour,2000 Summer,Julius,,1,E Centre,Camden,NJ,USA,
 2000-07-04,2000,0,12,3,2,0,0,2,2000 Summer U.S. Tour,2000 Summer,Gotta Jibboo,Jibboo,0,E Centre,Camden,NJ,USA,->
-2000-07-04,2000,0,13,3,2,0,0,62,2000 Summer U.S. Tour,2000 Summer,Saw It Again,Saw It Again,1,E Centre,Camden,NJ,USA,->
-2000-07-04,2000,0,14,2,2,0,0,20,2000 Summer U.S. Tour,2000 Summer,Magilla,Magilla,1,E Centre,Camden,NJ,USA,>
-2000-07-04,2000,0,15,2,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Twist,Twist,1,E Centre,Camden,NJ,USA,>
+2000-07-04,2000,0,13,3,2,0,0,62,2000 Summer U.S. Tour,2000 Summer,Saw It Again,,1,E Centre,Camden,NJ,USA,->
+2000-07-04,2000,0,14,2,2,0,0,20,2000 Summer U.S. Tour,2000 Summer,Magilla,,1,E Centre,Camden,NJ,USA,>
+2000-07-04,2000,0,15,2,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Twist,,1,E Centre,Camden,NJ,USA,>
 2000-07-04,2000,0,16,5,2,0,0,6,2000 Summer U.S. Tour,2000 Summer,Slave to the Traffic Light,Slave,1,E Centre,Camden,NJ,USA,
-2000-07-04,2000,0,17,1,e,0,0,15,2000 Summer U.S. Tour,2000 Summer,Lawn Boy,Lawn Boy,1,E Centre,Camden,NJ,USA,","
+2000-07-04,2000,0,17,1,e,0,0,15,2000 Summer U.S. Tour,2000 Summer,Lawn Boy,,1,E Centre,Camden,NJ,USA,","
 2000-07-04,2000,0,18,6,e,0,0,13,2000 Summer U.S. Tour,2000 Summer,Good Times Bad Times,GTBT,0,E Centre,Camden,NJ,USA,
-2000-07-06,2000,0,1,1,1,0,0,11,2000 Summer U.S. Tour,2000 Summer,Reba,Reba,1,Molson Amphitheatre,"Toronto, Ontario",,Canada,","
-2000-07-06,2000,0,2,2,1,0,0,34,2000 Summer U.S. Tour,2000 Summer,Dogs Stole Things,Dogs Stole Things,1,Molson Amphitheatre,"Toronto, Ontario",,Canada,>
-2000-07-06,2000,0,3,1,1,0,0,6,2000 Summer U.S. Tour,2000 Summer,Taste,Taste,1,Molson Amphitheatre,"Toronto, Ontario",,Canada,","
-2000-07-06,2000,0,4,1,1,0,0,10,2000 Summer U.S. Tour,2000 Summer,Dog Faced Boy,Dog Faced Boy,1,Molson Amphitheatre,"Toronto, Ontario",,Canada,","
-2000-07-06,2000,0,5,2,1,0,0,2,2000 Summer U.S. Tour,2000 Summer,Heavy Things,Heavy Things,1,Molson Amphitheatre,"Toronto, Ontario",,Canada,>
+2000-07-06,2000,0,1,1,1,0,0,11,2000 Summer U.S. Tour,2000 Summer,Reba,,1,Molson Amphitheatre,"Toronto, Ontario",,Canada,","
+2000-07-06,2000,0,2,2,1,0,0,34,2000 Summer U.S. Tour,2000 Summer,Dogs Stole Things,,1,Molson Amphitheatre,"Toronto, Ontario",,Canada,>
+2000-07-06,2000,0,3,1,1,0,0,6,2000 Summer U.S. Tour,2000 Summer,Taste,,1,Molson Amphitheatre,"Toronto, Ontario",,Canada,","
+2000-07-06,2000,0,4,1,1,0,0,10,2000 Summer U.S. Tour,2000 Summer,Dog Faced Boy,,1,Molson Amphitheatre,"Toronto, Ontario",,Canada,","
+2000-07-06,2000,0,5,2,1,0,0,2,2000 Summer U.S. Tour,2000 Summer,Heavy Things,,1,Molson Amphitheatre,"Toronto, Ontario",,Canada,>
 2000-07-06,2000,0,6,1,1,0,0,8,2000 Summer U.S. Tour,2000 Summer,The Moma Dance,Moma,1,Molson Amphitheatre,"Toronto, Ontario",,Canada,","
-2000-07-06,2000,0,7,1,1,0,0,3,2000 Summer U.S. Tour,2000 Summer,First Tube,First Tube,0,Molson Amphitheatre,"Toronto, Ontario",,Canada,","
+2000-07-06,2000,0,7,1,1,0,0,3,2000 Summer U.S. Tour,2000 Summer,First Tube,,0,Molson Amphitheatre,"Toronto, Ontario",,Canada,","
 2000-07-06,2000,0,8,1,1,0,0,25,2000 Summer U.S. Tour,2000 Summer,I Didn't Know,IDK,1,Molson Amphitheatre,"Toronto, Ontario",,Canada,","
-2000-07-06,2000,0,9,1,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,The Inlaw Josie Wales,The Inlaw Josie Wales,0,Molson Amphitheatre,"Toronto, Ontario",,Canada,","
+2000-07-06,2000,0,9,1,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,The Inlaw Josie Wales,,0,Molson Amphitheatre,"Toronto, Ontario",,Canada,","
 2000-07-06,2000,0,10,2,1,0,0,8,2000 Summer U.S. Tour,2000 Summer,Prince Caspian,Caspian,1,Molson Amphitheatre,"Toronto, Ontario",,Canada,>
 2000-07-06,2000,0,11,1,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,Golgi Apparatus,Golgi,1,Molson Amphitheatre,"Toronto, Ontario",,Canada,","
 2000-07-06,2000,0,12,4,1,0,0,10,2000 Summer U.S. Tour,2000 Summer,You Enjoy Myself,YEM,1,Molson Amphitheatre,"Toronto, Ontario",,Canada,
 2000-07-06,2000,0,13,2,2,0,0,5,2000 Summer U.S. Tour,2000 Summer,Limb By Limb,LxL,1,Molson Amphitheatre,"Toronto, Ontario",,Canada,>
 2000-07-06,2000,0,14,2,2,0,0,10,2000 Summer U.S. Tour,2000 Summer,Also Sprach Zarathustra,2001,0,Molson Amphitheatre,"Toronto, Ontario",,Canada,>
-2000-07-06,2000,0,15,2,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Bug,Bug,0,Molson Amphitheatre,"Toronto, Ontario",,Canada,>
-2000-07-06,2000,0,16,2,2,0,0,6,2000 Summer U.S. Tour,2000 Summer,Piper,Piper,1,Molson Amphitheatre,"Toronto, Ontario",,Canada,>
-2000-07-06,2000,0,17,1,2,0,0,8,2000 Summer U.S. Tour,2000 Summer,Driver,Driver,1,Molson Amphitheatre,"Toronto, Ontario",,Canada,","
+2000-07-06,2000,0,15,2,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Bug,,0,Molson Amphitheatre,"Toronto, Ontario",,Canada,>
+2000-07-06,2000,0,16,2,2,0,0,6,2000 Summer U.S. Tour,2000 Summer,Piper,,1,Molson Amphitheatre,"Toronto, Ontario",,Canada,>
+2000-07-06,2000,0,17,1,2,0,0,8,2000 Summer U.S. Tour,2000 Summer,Driver,,1,Molson Amphitheatre,"Toronto, Ontario",,Canada,","
 2000-07-06,2000,0,18,2,2,0,0,6,2000 Summer U.S. Tour,2000 Summer,Harry Hood,Hood,1,Molson Amphitheatre,"Toronto, Ontario",,Canada,>
-2000-07-06,2000,0,19,5,2,0,0,6,2000 Summer U.S. Tour,2000 Summer,Loving Cup,Loving Cup,0,Molson Amphitheatre,"Toronto, Ontario",,Canada,
+2000-07-06,2000,0,19,5,2,0,0,6,2000 Summer U.S. Tour,2000 Summer,Loving Cup,,0,Molson Amphitheatre,"Toronto, Ontario",,Canada,
 2000-07-06,2000,0,20,6,e,0,0,8,2000 Summer U.S. Tour,2000 Summer,The Squirming Coil,Coil,1,Molson Amphitheatre,"Toronto, Ontario",,Canada,
 2000-07-07,2000,0,1,1,1,0,0,3,2000 Summer U.S. Tour,2000 Summer,Chalk Dust Torture,CDT,1,Star Lake Amphitheatre,Burgettstown,PA,USA,","
-2000-07-07,2000,0,2,1,1,0,0,14,2000 Summer U.S. Tour,2000 Summer,Gumbo,Gumbo,1,Star Lake Amphitheatre,Burgettstown,PA,USA,","
+2000-07-07,2000,0,2,1,1,0,0,14,2000 Summer U.S. Tour,2000 Summer,Gumbo,,1,Star Lake Amphitheatre,Burgettstown,PA,USA,","
 2000-07-07,2000,0,3,1,1,0,0,13,2000 Summer U.S. Tour,2000 Summer,Divided Sky,Divided,1,Star Lake Amphitheatre,Burgettstown,PA,USA,","
 2000-07-07,2000,0,4,2,1,0,0,19,2000 Summer U.S. Tour,2000 Summer,Boogie On Reggae Woman,Boogie On,0,Star Lake Amphitheatre,Burgettstown,PA,USA,>
-2000-07-07,2000,0,5,1,1,0,0,6,2000 Summer U.S. Tour,2000 Summer,Funky Bitch,Funky Bitch,0,Star Lake Amphitheatre,Burgettstown,PA,USA,","
-2000-07-07,2000,0,6,3,1,0,0,8,2000 Summer U.S. Tour,2000 Summer,Maze,Maze,1,Star Lake Amphitheatre,Burgettstown,PA,USA,->
-2000-07-07,2000,0,7,3,1,0,0,150,2000 Summer U.S. Tour,2000 Summer,Shafty,Shafty,1,Star Lake Amphitheatre,Burgettstown,PA,USA,->
-2000-07-07,2000,0,8,1,1,0,0,0,2000 Summer U.S. Tour,2000 Summer,Maze,Maze,1,Star Lake Amphitheatre,Burgettstown,PA,USA,","
+2000-07-07,2000,0,5,1,1,0,0,6,2000 Summer U.S. Tour,2000 Summer,Funky Bitch,,0,Star Lake Amphitheatre,Burgettstown,PA,USA,","
+2000-07-07,2000,0,6,3,1,0,0,8,2000 Summer U.S. Tour,2000 Summer,Maze,,1,Star Lake Amphitheatre,Burgettstown,PA,USA,->
+2000-07-07,2000,0,7,3,1,0,0,150,2000 Summer U.S. Tour,2000 Summer,Shafty,,1,Star Lake Amphitheatre,Burgettstown,PA,USA,->
+2000-07-07,2000,0,8,1,1,0,0,0,2000 Summer U.S. Tour,2000 Summer,Maze,,1,Star Lake Amphitheatre,Burgettstown,PA,USA,","
 2000-07-07,2000,0,9,1,1,0,0,5,2000 Summer U.S. Tour,2000 Summer,Back on the Train,BOTT,0,Star Lake Amphitheatre,Burgettstown,PA,USA,","
 2000-07-07,2000,0,10,2,1,0,0,14,2000 Summer U.S. Tour,2000 Summer,The Curtain,Curtain,1,Star Lake Amphitheatre,Burgettstown,PA,USA,>
-2000-07-07,2000,0,11,4,1,0,0,6,2000 Summer U.S. Tour,2000 Summer,Character Zero,Character Zero,1,Star Lake Amphitheatre,Burgettstown,PA,USA,
-2000-07-07,2000,0,12,3,2,0,0,4,2000 Summer U.S. Tour,2000 Summer,Ghost,Ghost,1,Star Lake Amphitheatre,Burgettstown,PA,USA,->
+2000-07-07,2000,0,11,4,1,0,0,6,2000 Summer U.S. Tour,2000 Summer,Character Zero,,1,Star Lake Amphitheatre,Burgettstown,PA,USA,
+2000-07-07,2000,0,12,3,2,0,0,4,2000 Summer U.S. Tour,2000 Summer,Ghost,,1,Star Lake Amphitheatre,Burgettstown,PA,USA,->
 2000-07-07,2000,0,13,1,2,0,0,2,2000 Summer U.S. Tour,2000 Summer,Gotta Jibboo,Jibboo,0,Star Lake Amphitheatre,Burgettstown,PA,USA,","
 2000-07-07,2000,0,14,1,2,0,0,4,2000 Summer U.S. Tour,2000 Summer,Split Open and Melt,SOAMelt,1,Star Lake Amphitheatre,Burgettstown,PA,USA,","
-2000-07-07,2000,0,15,2,2,0,0,4,2000 Summer U.S. Tour,2000 Summer,Roggae,Roggae,1,Star Lake Amphitheatre,Burgettstown,PA,USA,>
+2000-07-07,2000,0,15,2,2,0,0,4,2000 Summer U.S. Tour,2000 Summer,Roggae,,1,Star Lake Amphitheatre,Burgettstown,PA,USA,>
 2000-07-07,2000,0,16,2,2,0,0,4,2000 Summer U.S. Tour,2000 Summer,Mike's Song,Mike's,1,Star Lake Amphitheatre,Burgettstown,PA,USA,>
-2000-07-07,2000,0,17,2,2,0,0,15,2000 Summer U.S. Tour,2000 Summer,Simple,Simple,1,Star Lake Amphitheatre,Burgettstown,PA,USA,>
+2000-07-07,2000,0,17,2,2,0,0,15,2000 Summer U.S. Tour,2000 Summer,Simple,,1,Star Lake Amphitheatre,Burgettstown,PA,USA,>
 2000-07-07,2000,0,18,5,2,0,0,4,2000 Summer U.S. Tour,2000 Summer,Weekapaug Groove,Weekapaug,1,Star Lake Amphitheatre,Burgettstown,PA,USA,
-2000-07-07,2000,0,19,6,e,0,0,6,2000 Summer U.S. Tour,2000 Summer,Frankenstein,Frankenstein,0,Star Lake Amphitheatre,Burgettstown,PA,USA,
+2000-07-07,2000,0,19,6,e,0,0,6,2000 Summer U.S. Tour,2000 Summer,Frankenstein,,0,Star Lake Amphitheatre,Burgettstown,PA,USA,
 2000-07-08,2000,0,1,2,1,0,0,9,2000 Summer U.S. Tour,2000 Summer,Punch You in the Eye,PYITE,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2000-07-08,2000,0,2,2,1,0,0,9,2000 Summer U.S. Tour,2000 Summer,NICU,NICU,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2000-07-08,2000,0,3,1,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,My Soul,My Soul,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2000-07-08,2000,0,4,1,1,0,0,5,2000 Summer U.S. Tour,2000 Summer,Poor Heart,Poor Heart,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2000-07-08,2000,0,2,2,1,0,0,9,2000 Summer U.S. Tour,2000 Summer,NICU,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2000-07-08,2000,0,3,1,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,My Soul,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2000-07-08,2000,0,4,1,1,0,0,5,2000 Summer U.S. Tour,2000 Summer,Poor Heart,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2000-07-08,2000,0,5,1,1,0,0,5,2000 Summer U.S. Tour,2000 Summer,Wolfman's Brother,Wolfman's,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2000-07-08,2000,0,6,1,1,0,0,2,2000 Summer U.S. Tour,2000 Summer,First Tube,First Tube,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2000-07-08,2000,0,7,1,1,0,0,15,2000 Summer U.S. Tour,2000 Summer,Llama,Llama,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2000-07-08,2000,0,8,1,1,0,0,6,2000 Summer U.S. Tour,2000 Summer,Guyute,Guyute,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2000-07-08,2000,0,6,1,1,0,0,2,2000 Summer U.S. Tour,2000 Summer,First Tube,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2000-07-08,2000,0,7,1,1,0,0,15,2000 Summer U.S. Tour,2000 Summer,Llama,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2000-07-08,2000,0,8,1,1,0,0,6,2000 Summer U.S. Tour,2000 Summer,Guyute,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2000-07-08,2000,0,9,4,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,Run Like an Antelope,Antelope,1,Alpine Valley Music Theatre,East Troy,WI,USA,
-2000-07-08,2000,0,10,2,2,0,0,2,2000 Summer U.S. Tour,2000 Summer,Heavy Things,Heavy Things,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2000-07-08,2000,0,11,3,2,0,0,2,2000 Summer U.S. Tour,2000 Summer,Piper,Piper,1,Alpine Valley Music Theatre,East Troy,WI,USA,->
+2000-07-08,2000,0,10,2,2,0,0,2,2000 Summer U.S. Tour,2000 Summer,Heavy Things,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2000-07-08,2000,0,11,3,2,0,0,2,2000 Summer U.S. Tour,2000 Summer,Piper,,1,Alpine Valley Music Theatre,East Troy,WI,USA,->
 2000-07-08,2000,0,12,1,2,0,0,7,2000 Summer U.S. Tour,2000 Summer,Rock and Roll,R&amp;R,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2000-07-08,2000,0,13,3,2,0,0,6,2000 Summer U.S. Tour,2000 Summer,Tweezer,Tweezer,1,Alpine Valley Music Theatre,East Troy,WI,USA,->
-2000-07-08,2000,0,14,1,2,0,0,7,2000 Summer U.S. Tour,2000 Summer,Walk Away,Walk Away,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2000-07-08,2000,0,15,1,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Twist,Twist,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2000-07-08,2000,0,13,3,2,0,0,6,2000 Summer U.S. Tour,2000 Summer,Tweezer,,1,Alpine Valley Music Theatre,East Troy,WI,USA,->
+2000-07-08,2000,0,14,1,2,0,0,7,2000 Summer U.S. Tour,2000 Summer,Walk Away,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2000-07-08,2000,0,15,1,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Twist,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2000-07-08,2000,0,16,2,2,0,0,27,2000 Summer U.S. Tour,2000 Summer,The Horse,Horse,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2000-07-08,2000,0,17,1,2,0,0,27,2000 Summer U.S. Tour,2000 Summer,Silent in the Morning,Silent,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2000-07-08,2000,0,18,5,2,0,0,6,2000 Summer U.S. Tour,2000 Summer,Possum,Possum,1,Alpine Valley Music Theatre,East Troy,WI,USA,
+2000-07-08,2000,0,18,5,2,0,0,6,2000 Summer U.S. Tour,2000 Summer,Possum,,1,Alpine Valley Music Theatre,East Troy,WI,USA,
 2000-07-08,2000,0,19,2,e,0,0,28,2000 Summer U.S. Tour,2000 Summer,Suzy Greenberg,Suzy,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2000-07-08,2000,0,20,6,e,0,0,6,2000 Summer U.S. Tour,2000 Summer,Tweezer Reprise,Tweeprise,1,Alpine Valley Music Theatre,East Troy,WI,USA,
 2000-07-10,2000,0,1,2,1,0,0,12,2000 Summer U.S. Tour,2000 Summer,Cars Trucks Buses,CTB,1,Deer Creek Music Center,Noblesville,IN,USA,>
-2000-07-10,2000,0,2,2,1,0,0,8,2000 Summer U.S. Tour,2000 Summer,Wilson,Wilson,1,Deer Creek Music Center,Noblesville,IN,USA,>
-2000-07-10,2000,0,3,2,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,It's Ice,It's Ice,1,Deer Creek Music Center,Noblesville,IN,USA,>
+2000-07-10,2000,0,2,2,1,0,0,8,2000 Summer U.S. Tour,2000 Summer,Wilson,,1,Deer Creek Music Center,Noblesville,IN,USA,>
+2000-07-10,2000,0,3,2,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,It's Ice,,1,Deer Creek Music Center,Noblesville,IN,USA,>
 2000-07-10,2000,0,4,1,1,0,0,5,2000 Summer U.S. Tour,2000 Summer,Bathtub Gin,Gin,1,Deer Creek Music Center,Noblesville,IN,USA,","
-2000-07-10,2000,0,5,1,1,0,0,30,2000 Summer U.S. Tour,2000 Summer,Buffalo Bill,Buffalo Bill,1,Deer Creek Music Center,Noblesville,IN,USA,","
+2000-07-10,2000,0,5,1,1,0,0,30,2000 Summer U.S. Tour,2000 Summer,Buffalo Bill,,1,Deer Creek Music Center,Noblesville,IN,USA,","
 2000-07-10,2000,0,6,1,1,0,0,5,2000 Summer U.S. Tour,2000 Summer,My Mind's Got a Mind of its Own,MMGAMOIO,0,Deer Creek Music Center,Noblesville,IN,USA,","
 2000-07-10,2000,0,7,1,1,0,0,2,2000 Summer U.S. Tour,2000 Summer,Split Open and Melt,SOAMelt,1,Deer Creek Music Center,Noblesville,IN,USA,","
-2000-07-10,2000,0,8,2,1,0,0,19,2000 Summer U.S. Tour,2000 Summer,Sparkle,Sparkle,1,Deer Creek Music Center,Noblesville,IN,USA,>
-2000-07-10,2000,0,9,1,1,0,0,2,2000 Summer U.S. Tour,2000 Summer,Funky Bitch,Funky Bitch,0,Deer Creek Music Center,Noblesville,IN,USA,","
+2000-07-10,2000,0,8,2,1,0,0,19,2000 Summer U.S. Tour,2000 Summer,Sparkle,,1,Deer Creek Music Center,Noblesville,IN,USA,>
+2000-07-10,2000,0,9,1,1,0,0,2,2000 Summer U.S. Tour,2000 Summer,Funky Bitch,,0,Deer Creek Music Center,Noblesville,IN,USA,","
 2000-07-10,2000,0,10,4,1,0,0,7,2000 Summer U.S. Tour,2000 Summer,David Bowie,Bowie,1,Deer Creek Music Center,Noblesville,IN,USA,
 2000-07-10,2000,0,11,2,2,0,0,2,2000 Summer U.S. Tour,2000 Summer,Gotta Jibboo,Jibboo,0,Deer Creek Music Center,Noblesville,IN,USA,>
-2000-07-10,2000,0,12,1,2,0,0,5,2000 Summer U.S. Tour,2000 Summer,Sand,Sand,0,Deer Creek Music Center,Noblesville,IN,USA,","
-2000-07-10,2000,0,13,1,2,0,0,1,2000 Summer U.S. Tour,2000 Summer,Twist,Twist,1,Deer Creek Music Center,Noblesville,IN,USA,","
-2000-07-10,2000,0,14,2,2,0,0,16,2000 Summer U.S. Tour,2000 Summer,Fee,Fee,1,Deer Creek Music Center,Noblesville,IN,USA,>
+2000-07-10,2000,0,12,1,2,0,0,5,2000 Summer U.S. Tour,2000 Summer,Sand,,0,Deer Creek Music Center,Noblesville,IN,USA,","
+2000-07-10,2000,0,13,1,2,0,0,1,2000 Summer U.S. Tour,2000 Summer,Twist,,1,Deer Creek Music Center,Noblesville,IN,USA,","
+2000-07-10,2000,0,14,2,2,0,0,16,2000 Summer U.S. Tour,2000 Summer,Fee,,1,Deer Creek Music Center,Noblesville,IN,USA,>
 2000-07-10,2000,0,15,2,2,0,0,10,2000 Summer U.S. Tour,2000 Summer,What's the Use?,WTU?,1,Deer Creek Music Center,Noblesville,IN,USA,>
 2000-07-10,2000,0,16,2,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Limb By Limb,LxL,1,Deer Creek Music Center,Noblesville,IN,USA,>
-2000-07-10,2000,0,17,5,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Loving Cup,Loving Cup,0,Deer Creek Music Center,Noblesville,IN,USA,
+2000-07-10,2000,0,17,5,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Loving Cup,,0,Deer Creek Music Center,Noblesville,IN,USA,
 2000-07-10,2000,0,18,6,e,0,0,1,2000 Summer U.S. Tour,2000 Summer,Run Like an Antelope,Antelope,1,Deer Creek Music Center,Noblesville,IN,USA,
-2000-07-11,2000,0,1,1,1,0,0,13,2000 Summer U.S. Tour,2000 Summer,Ya Mar,Ya Mar,0,Deer Creek Music Center,Noblesville,IN,USA,","
+2000-07-11,2000,0,1,1,1,0,0,13,2000 Summer U.S. Tour,2000 Summer,Ya Mar,,0,Deer Creek Music Center,Noblesville,IN,USA,","
 2000-07-11,2000,0,2,1,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,The Moma Dance,Moma,1,Deer Creek Music Center,Noblesville,IN,USA,","
-2000-07-11,2000,0,3,1,1,0,0,11,2000 Summer U.S. Tour,2000 Summer,Uncle Pen,Uncle Pen,0,Deer Creek Music Center,Noblesville,IN,USA,","
-2000-07-11,2000,0,4,1,1,0,0,9,2000 Summer U.S. Tour,2000 Summer,Drowned,Drowned,0,Deer Creek Music Center,Noblesville,IN,USA,","
-2000-07-11,2000,0,5,2,1,0,0,393,2000 Summer U.S. Tour,2000 Summer,Chalk Dust Torture Reprise,Chalk Dust Torture Reprise,1,Deer Creek Music Center,Noblesville,IN,USA,>
+2000-07-11,2000,0,3,1,1,0,0,11,2000 Summer U.S. Tour,2000 Summer,Uncle Pen,,0,Deer Creek Music Center,Noblesville,IN,USA,","
+2000-07-11,2000,0,4,1,1,0,0,9,2000 Summer U.S. Tour,2000 Summer,Drowned,,0,Deer Creek Music Center,Noblesville,IN,USA,","
+2000-07-11,2000,0,5,2,1,0,0,393,2000 Summer U.S. Tour,2000 Summer,Chalk Dust Torture Reprise,,1,Deer Creek Music Center,Noblesville,IN,USA,>
 2000-07-11,2000,0,6,1,1,0,0,3,2000 Summer U.S. Tour,2000 Summer,Chalk Dust Torture,CDT,1,Deer Creek Music Center,Noblesville,IN,USA,","
 2000-07-11,2000,0,7,2,1,0,0,6,2000 Summer U.S. Tour,2000 Summer,Theme From the Bottom,Theme,1,Deer Creek Music Center,Noblesville,IN,USA,>
-2000-07-11,2000,0,8,4,1,0,0,8,2000 Summer U.S. Tour,2000 Summer,Cavern,Cavern,1,Deer Creek Music Center,Noblesville,IN,USA,
+2000-07-11,2000,0,8,4,1,0,0,8,2000 Summer U.S. Tour,2000 Summer,Cavern,,1,Deer Creek Music Center,Noblesville,IN,USA,
 2000-07-11,2000,0,9,2,2,0,0,4,2000 Summer U.S. Tour,2000 Summer,Also Sprach Zarathustra,2001,0,Deer Creek Music Center,Noblesville,IN,USA,>
 2000-07-11,2000,0,10,3,2,0,0,6,2000 Summer U.S. Tour,2000 Summer,Down with Disease,DwD,1,Deer Creek Music Center,Noblesville,IN,USA,->
-2000-07-11,2000,0,11,2,2,0,0,174,2000 Summer U.S. Tour,2000 Summer,Moby Dick,Moby Dick,0,Deer Creek Music Center,Noblesville,IN,USA,>
+2000-07-11,2000,0,11,2,2,0,0,174,2000 Summer U.S. Tour,2000 Summer,Moby Dick,,0,Deer Creek Music Center,Noblesville,IN,USA,>
 2000-07-11,2000,0,12,2,2,0,0,0,2000 Summer U.S. Tour,2000 Summer,Down with Disease,DwD,1,Deer Creek Music Center,Noblesville,IN,USA,>
-2000-07-11,2000,0,13,3,2,0,0,6,2000 Summer U.S. Tour,2000 Summer,Runaway Jim,Runaway Jim,1,Deer Creek Music Center,Noblesville,IN,USA,->
-2000-07-11,2000,0,14,1,2,0,0,0,2000 Summer U.S. Tour,2000 Summer,Moby Dick,Moby Dick,0,Deer Creek Music Center,Noblesville,IN,USA,","
+2000-07-11,2000,0,13,3,2,0,0,6,2000 Summer U.S. Tour,2000 Summer,Runaway Jim,,1,Deer Creek Music Center,Noblesville,IN,USA,->
+2000-07-11,2000,0,14,1,2,0,0,0,2000 Summer U.S. Tour,2000 Summer,Moby Dick,,0,Deer Creek Music Center,Noblesville,IN,USA,","
 2000-07-11,2000,0,15,3,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Back on the Train,BOTT,0,Deer Creek Music Center,Noblesville,IN,USA,->
-2000-07-11,2000,0,16,2,2,0,0,0,2000 Summer U.S. Tour,2000 Summer,Moby Dick,Moby Dick,0,Deer Creek Music Center,Noblesville,IN,USA,>
+2000-07-11,2000,0,16,2,2,0,0,0,2000 Summer U.S. Tour,2000 Summer,Moby Dick,,0,Deer Creek Music Center,Noblesville,IN,USA,>
 2000-07-11,2000,0,17,1,2,0,0,0,2000 Summer U.S. Tour,2000 Summer,Back on the Train,BOTT,0,Deer Creek Music Center,Noblesville,IN,USA,","
 2000-07-11,2000,0,18,2,2,0,0,4,2000 Summer U.S. Tour,2000 Summer,Harry Hood,Hood,1,Deer Creek Music Center,Noblesville,IN,USA,>
-2000-07-11,2000,0,19,1,2,0,0,0,2000 Summer U.S. Tour,2000 Summer,Moby Dick,Moby Dick,0,Deer Creek Music Center,Noblesville,IN,USA,","
+2000-07-11,2000,0,19,1,2,0,0,0,2000 Summer U.S. Tour,2000 Summer,Moby Dick,,0,Deer Creek Music Center,Noblesville,IN,USA,","
 2000-07-11,2000,0,20,2,2,0,0,16,2000 Summer U.S. Tour,2000 Summer,Hold Your Head Up,HYHU,0,Deer Creek Music Center,Noblesville,IN,USA,>
-2000-07-11,2000,0,21,2,2,0,0,87,2000 Summer U.S. Tour,2000 Summer,Terrapin,Terrapin,0,Deer Creek Music Center,Noblesville,IN,USA,>
+2000-07-11,2000,0,21,2,2,0,0,87,2000 Summer U.S. Tour,2000 Summer,Terrapin,,0,Deer Creek Music Center,Noblesville,IN,USA,>
 2000-07-11,2000,0,22,2,2,0,0,0,2000 Summer U.S. Tour,2000 Summer,Hold Your Head Up,HYHU,0,Deer Creek Music Center,Noblesville,IN,USA,>
-2000-07-11,2000,0,23,2,2,0,0,0,2000 Summer U.S. Tour,2000 Summer,Moby Dick,Moby Dick,0,Deer Creek Music Center,Noblesville,IN,USA,>
+2000-07-11,2000,0,23,2,2,0,0,0,2000 Summer U.S. Tour,2000 Summer,Moby Dick,,0,Deer Creek Music Center,Noblesville,IN,USA,>
 2000-07-11,2000,0,24,1,2,0,0,0,2000 Summer U.S. Tour,2000 Summer,Hold Your Head Up,HYHU,0,Deer Creek Music Center,Noblesville,IN,USA,","
-2000-07-11,2000,0,25,5,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Character Zero,Character Zero,1,Deer Creek Music Center,Noblesville,IN,USA,
-2000-07-11,2000,0,26,2,e,0,0,2,2000 Summer U.S. Tour,2000 Summer,First Tube,First Tube,0,Deer Creek Music Center,Noblesville,IN,USA,>
-2000-07-11,2000,0,27,2,e,0,0,0,2000 Summer U.S. Tour,2000 Summer,Moby Dick,Moby Dick,0,Deer Creek Music Center,Noblesville,IN,USA,>
-2000-07-11,2000,0,28,6,e,0,0,0,2000 Summer U.S. Tour,2000 Summer,Chalk Dust Torture Reprise,Chalk Dust Torture Reprise,1,Deer Creek Music Center,Noblesville,IN,USA,
+2000-07-11,2000,0,25,5,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Character Zero,,1,Deer Creek Music Center,Noblesville,IN,USA,
+2000-07-11,2000,0,26,2,e,0,0,2,2000 Summer U.S. Tour,2000 Summer,First Tube,,0,Deer Creek Music Center,Noblesville,IN,USA,>
+2000-07-11,2000,0,27,2,e,0,0,0,2000 Summer U.S. Tour,2000 Summer,Moby Dick,,0,Deer Creek Music Center,Noblesville,IN,USA,>
+2000-07-11,2000,0,28,6,e,0,0,0,2000 Summer U.S. Tour,2000 Summer,Chalk Dust Torture Reprise,,1,Deer Creek Music Center,Noblesville,IN,USA,
 2000-07-12,2000,0,1,1,1,0,0,71,2000 Summer U.S. Tour,2000 Summer,"My Friend, My Friend",My Friend,1,Deer Creek Music Center,Noblesville,IN,USA,","
 2000-07-12,2000,0,2,1,1,0,0,1184,2000 Summer U.S. Tour,2000 Summer,The Curtain With,Curtain With,1,Deer Creek Music Center,Noblesville,IN,USA,","
-2000-07-12,2000,0,3,2,1,0,0,8,2000 Summer U.S. Tour,2000 Summer,Tube,Tube,1,Deer Creek Music Center,Noblesville,IN,USA,>
-2000-07-12,2000,0,4,1,1,0,0,3,2000 Summer U.S. Tour,2000 Summer,Heavy Things,Heavy Things,1,Deer Creek Music Center,Noblesville,IN,USA,","
-2000-07-12,2000,0,5,1,1,0,0,22,2000 Summer U.S. Tour,2000 Summer,Billy Breathes,Billy Breathes,1,Deer Creek Music Center,Noblesville,IN,USA,","
-2000-07-12,2000,0,6,2,1,0,0,8,2000 Summer U.S. Tour,2000 Summer,Beauty of My Dreams,Beauty of My Dreams,0,Deer Creek Music Center,Noblesville,IN,USA,>
-2000-07-12,2000,0,7,1,1,0,0,20,2000 Summer U.S. Tour,2000 Summer,Free,Free,1,Deer Creek Music Center,Noblesville,IN,USA,","
-2000-07-12,2000,0,8,1,1,0,0,8,2000 Summer U.S. Tour,2000 Summer,Axilla,Axilla,1,Deer Creek Music Center,Noblesville,IN,USA,","
+2000-07-12,2000,0,3,2,1,0,0,8,2000 Summer U.S. Tour,2000 Summer,Tube,,1,Deer Creek Music Center,Noblesville,IN,USA,>
+2000-07-12,2000,0,4,1,1,0,0,3,2000 Summer U.S. Tour,2000 Summer,Heavy Things,,1,Deer Creek Music Center,Noblesville,IN,USA,","
+2000-07-12,2000,0,5,1,1,0,0,22,2000 Summer U.S. Tour,2000 Summer,Billy Breathes,,1,Deer Creek Music Center,Noblesville,IN,USA,","
+2000-07-12,2000,0,6,2,1,0,0,8,2000 Summer U.S. Tour,2000 Summer,Beauty of My Dreams,,0,Deer Creek Music Center,Noblesville,IN,USA,>
+2000-07-12,2000,0,7,1,1,0,0,20,2000 Summer U.S. Tour,2000 Summer,Free,,1,Deer Creek Music Center,Noblesville,IN,USA,","
+2000-07-12,2000,0,8,1,1,0,0,8,2000 Summer U.S. Tour,2000 Summer,Axilla,,1,Deer Creek Music Center,Noblesville,IN,USA,","
 2000-07-12,2000,0,9,4,1,0,0,5,2000 Summer U.S. Tour,2000 Summer,The Squirming Coil,Coil,1,Deer Creek Music Center,Noblesville,IN,USA,
 2000-07-12,2000,0,10,1,2,0,0,10,2000 Summer U.S. Tour,2000 Summer,Birds of a Feather,BOAF,1,Deer Creek Music Center,Noblesville,IN,USA,","
-2000-07-12,2000,0,11,1,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Piper,Piper,1,Deer Creek Music Center,Noblesville,IN,USA,","
+2000-07-12,2000,0,11,1,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Piper,,1,Deer Creek Music Center,Noblesville,IN,USA,","
 2000-07-12,2000,0,12,2,2,0,0,30,2000 Summer U.S. Tour,2000 Summer,Crosseyed and Painless,C&amp;P,0,Deer Creek Music Center,Noblesville,IN,USA,>
 2000-07-12,2000,0,13,2,2,0,0,5,2000 Summer U.S. Tour,2000 Summer,Prince Caspian,Caspian,1,Deer Creek Music Center,Noblesville,IN,USA,>
-2000-07-12,2000,0,14,5,2,0,0,10,2000 Summer U.S. Tour,2000 Summer,Meatstick,Meatstick,1,Deer Creek Music Center,Noblesville,IN,USA,
+2000-07-12,2000,0,14,5,2,0,0,10,2000 Summer U.S. Tour,2000 Summer,Meatstick,,1,Deer Creek Music Center,Noblesville,IN,USA,
 2000-07-12,2000,0,15,6,e,0,0,10,2000 Summer U.S. Tour,2000 Summer,Wading in the Velvet Sea,Velvet Sea,1,Deer Creek Music Center,Noblesville,IN,USA,
 2000-07-14,2000,0,1,1,1,0,0,9,2000 Summer U.S. Tour,2000 Summer,Sample in a Jar,Sample,1,Polaris Amphitheater,Columbus,OH,USA,","
 2000-07-14,2000,0,2,2,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,Punch You in the Eye,PYITE,1,Polaris Amphitheater,Columbus,OH,USA,>
 2000-07-14,2000,0,3,1,1,0,0,82,2000 Summer U.S. Tour,2000 Summer,Timber (Jerry the Mule),Timber Ho,0,Polaris Amphitheater,Columbus,OH,USA,","
 2000-07-14,2000,0,4,2,1,0,0,3,2000 Summer U.S. Tour,2000 Summer,Gotta Jibboo,Jibboo,0,Polaris Amphitheater,Columbus,OH,USA,>
 2000-07-14,2000,0,5,1,1,0,0,5,2000 Summer U.S. Tour,2000 Summer,Boogie On Reggae Woman,Boogie On,0,Polaris Amphitheater,Columbus,OH,USA,","
-2000-07-14,2000,0,6,1,1,0,0,7,2000 Summer U.S. Tour,2000 Summer,Stash,Stash,1,Polaris Amphitheater,Columbus,OH,USA,","
+2000-07-14,2000,0,6,1,1,0,0,7,2000 Summer U.S. Tour,2000 Summer,Stash,,1,Polaris Amphitheater,Columbus,OH,USA,","
 2000-07-14,2000,0,7,1,1,0,0,7,2000 Summer U.S. Tour,2000 Summer,Bouncing Around the Room,Bouncin',1,Polaris Amphitheater,Columbus,OH,USA,","
-2000-07-14,2000,0,8,1,1,0,0,8,2000 Summer U.S. Tour,2000 Summer,Foam,Foam,1,Polaris Amphitheater,Columbus,OH,USA,","
-2000-07-14,2000,0,9,1,1,0,0,6,2000 Summer U.S. Tour,2000 Summer,Dog Faced Boy,Dog Faced Boy,1,Polaris Amphitheater,Columbus,OH,USA,","
-2000-07-14,2000,0,10,1,1,0,0,7,2000 Summer U.S. Tour,2000 Summer,Farmhouse,Farmhouse,1,Polaris Amphitheater,Columbus,OH,USA,","
-2000-07-14,2000,0,11,1,1,0,0,6,2000 Summer U.S. Tour,2000 Summer,Taste,Taste,1,Polaris Amphitheater,Columbus,OH,USA,","
+2000-07-14,2000,0,8,1,1,0,0,8,2000 Summer U.S. Tour,2000 Summer,Foam,,1,Polaris Amphitheater,Columbus,OH,USA,","
+2000-07-14,2000,0,9,1,1,0,0,6,2000 Summer U.S. Tour,2000 Summer,Dog Faced Boy,,1,Polaris Amphitheater,Columbus,OH,USA,","
+2000-07-14,2000,0,10,1,1,0,0,7,2000 Summer U.S. Tour,2000 Summer,Farmhouse,,1,Polaris Amphitheater,Columbus,OH,USA,","
+2000-07-14,2000,0,11,1,1,0,0,6,2000 Summer U.S. Tour,2000 Summer,Taste,,1,Polaris Amphitheater,Columbus,OH,USA,","
 2000-07-14,2000,0,12,4,1,0,0,6,2000 Summer U.S. Tour,2000 Summer,Golgi Apparatus,Golgi,1,Polaris Amphitheater,Columbus,OH,USA,
 2000-07-14,2000,0,13,2,2,0,0,5,2000 Summer U.S. Tour,2000 Summer,Mike's Song,Mike's,1,Polaris Amphitheater,Columbus,OH,USA,>
-2000-07-14,2000,0,14,2,2,0,0,14,2000 Summer U.S. Tour,2000 Summer,Frankie Says,Frankie Says,1,Polaris Amphitheater,Columbus,OH,USA,>
+2000-07-14,2000,0,14,2,2,0,0,14,2000 Summer U.S. Tour,2000 Summer,Frankie Says,,1,Polaris Amphitheater,Columbus,OH,USA,>
 2000-07-14,2000,0,15,1,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,David Bowie,Bowie,1,Polaris Amphitheater,Columbus,OH,USA,","
-2000-07-14,2000,0,16,1,2,0,0,8,2000 Summer U.S. Tour,2000 Summer,Waste,Waste,1,Polaris Amphitheater,Columbus,OH,USA,","
-2000-07-14,2000,0,17,2,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Sand,Sand,0,Polaris Amphitheater,Columbus,OH,USA,>
+2000-07-14,2000,0,16,1,2,0,0,8,2000 Summer U.S. Tour,2000 Summer,Waste,,1,Polaris Amphitheater,Columbus,OH,USA,","
+2000-07-14,2000,0,17,2,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Sand,,0,Polaris Amphitheater,Columbus,OH,USA,>
 2000-07-14,2000,0,18,1,2,0,0,7,2000 Summer U.S. Tour,2000 Summer,The Lizards,Lizards,1,Polaris Amphitheater,Columbus,OH,USA,","
 2000-07-14,2000,0,19,5,2,0,0,5,2000 Summer U.S. Tour,2000 Summer,Weekapaug Groove,Weekapaug,1,Polaris Amphitheater,Columbus,OH,USA,
-2000-07-14,2000,0,20,1,e,0,0,6,2000 Summer U.S. Tour,2000 Summer,The Inlaw Josie Wales,The Inlaw Josie Wales,0,Polaris Amphitheater,Columbus,OH,USA,","
-2000-07-14,2000,0,21,1,e,0,0,6,2000 Summer U.S. Tour,2000 Summer,Driver,Driver,1,Polaris Amphitheater,Columbus,OH,USA,","
-2000-07-14,2000,0,22,6,e,0,0,4,2000 Summer U.S. Tour,2000 Summer,Guyute,Guyute,1,Polaris Amphitheater,Columbus,OH,USA,
+2000-07-14,2000,0,20,1,e,0,0,6,2000 Summer U.S. Tour,2000 Summer,The Inlaw Josie Wales,,0,Polaris Amphitheater,Columbus,OH,USA,","
+2000-07-14,2000,0,21,1,e,0,0,6,2000 Summer U.S. Tour,2000 Summer,Driver,,1,Polaris Amphitheater,Columbus,OH,USA,","
+2000-07-14,2000,0,22,6,e,0,0,4,2000 Summer U.S. Tour,2000 Summer,Guyute,,1,Polaris Amphitheater,Columbus,OH,USA,
 2000-07-15,2000,0,1,1,1,0,0,11,2000 Summer U.S. Tour,2000 Summer,AC/DC Bag,Bag,1,Polaris Amphitheater,Columbus,OH,USA,","
-2000-07-15,2000,0,2,1,1,0,0,3,2000 Summer U.S. Tour,2000 Summer,First Tube,First Tube,0,Polaris Amphitheater,Columbus,OH,USA,","
+2000-07-15,2000,0,2,1,1,0,0,3,2000 Summer U.S. Tour,2000 Summer,First Tube,,0,Polaris Amphitheater,Columbus,OH,USA,","
 2000-07-15,2000,0,3,1,1,0,0,4,2000 Summer U.S. Tour,2000 Summer,Limb By Limb,LxL,1,Polaris Amphitheater,Columbus,OH,USA,","
-2000-07-15,2000,0,4,1,1,0,0,5,2000 Summer U.S. Tour,2000 Summer,NICU,NICU,1,Polaris Amphitheater,Columbus,OH,USA,","
-2000-07-15,2000,0,5,1,1,0,0,10,2000 Summer U.S. Tour,2000 Summer,Dirt,Dirt,0,Polaris Amphitheater,Columbus,OH,USA,","
+2000-07-15,2000,0,4,1,1,0,0,5,2000 Summer U.S. Tour,2000 Summer,NICU,,1,Polaris Amphitheater,Columbus,OH,USA,","
+2000-07-15,2000,0,5,1,1,0,0,10,2000 Summer U.S. Tour,2000 Summer,Dirt,,0,Polaris Amphitheater,Columbus,OH,USA,","
 2000-07-15,2000,0,6,1,1,0,0,30,2000 Summer U.S. Tour,2000 Summer,Roses Are Free,Roses,0,Polaris Amphitheater,Columbus,OH,USA,","
 2000-07-15,2000,0,7,2,1,0,0,5,2000 Summer U.S. Tour,2000 Summer,Wolfman's Brother,Wolfman's,1,Polaris Amphitheater,Columbus,OH,USA,>
-2000-07-15,2000,0,8,1,1,0,0,5,2000 Summer U.S. Tour,2000 Summer,My Soul,My Soul,0,Polaris Amphitheater,Columbus,OH,USA,","
-2000-07-15,2000,0,9,4,1,0,0,8,2000 Summer U.S. Tour,2000 Summer,Julius,Julius,1,Polaris Amphitheater,Columbus,OH,USA,
+2000-07-15,2000,0,8,1,1,0,0,5,2000 Summer U.S. Tour,2000 Summer,My Soul,,0,Polaris Amphitheater,Columbus,OH,USA,","
+2000-07-15,2000,0,9,4,1,0,0,8,2000 Summer U.S. Tour,2000 Summer,Julius,,1,Polaris Amphitheater,Columbus,OH,USA,
 2000-07-15,2000,0,10,3,2,0,0,3,2000 Summer U.S. Tour,2000 Summer,Down with Disease,DwD,1,Polaris Amphitheater,Columbus,OH,USA,->
 2000-07-15,2000,0,11,1,2,0,0,10,2000 Summer U.S. Tour,2000 Summer,While My Guitar Gently Weeps,WMGGW,0,Polaris Amphitheater,Columbus,OH,USA,","
 2000-07-15,2000,0,12,1,2,0,0,11,2000 Summer U.S. Tour,2000 Summer,Makisupa Policeman,Makisupa,1,Polaris Amphitheater,Columbus,OH,USA,","
-2000-07-15,2000,0,13,2,2,0,0,2,2000 Summer U.S. Tour,2000 Summer,Piper,Piper,1,Polaris Amphitheater,Columbus,OH,USA,>
+2000-07-15,2000,0,13,2,2,0,0,2,2000 Summer U.S. Tour,2000 Summer,Piper,,1,Polaris Amphitheater,Columbus,OH,USA,>
 2000-07-15,2000,0,14,1,2,0,0,11,2000 Summer U.S. Tour,2000 Summer,The Mango Song,Mango,1,Polaris Amphitheater,Columbus,OH,USA,","
-2000-07-15,2000,0,15,1,2,0,0,7,2000 Summer U.S. Tour,2000 Summer,Bug,Bug,0,Polaris Amphitheater,Columbus,OH,USA,","
+2000-07-15,2000,0,15,1,2,0,0,7,2000 Summer U.S. Tour,2000 Summer,Bug,,0,Polaris Amphitheater,Columbus,OH,USA,","
 2000-07-15,2000,0,16,5,2,0,0,7,2000 Summer U.S. Tour,2000 Summer,You Enjoy Myself,YEM,1,Polaris Amphitheater,Columbus,OH,USA,
-2000-07-15,2000,0,17,6,e,0,0,4,2000 Summer U.S. Tour,2000 Summer,Loving Cup,Loving Cup,0,Polaris Amphitheater,Columbus,OH,USA,
-2000-07-17,2000,0,1,1,1,0,0,1,Not Part of a Tour,No Tour,First Tube,First Tube,0,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,2,1,1,0,0,1,Not Part of a Tour,No Tour,My Soul,My Soul,0,"KLRU Studios, University of Texas",Austin,TX,USA,","
+2000-07-15,2000,0,17,6,e,0,0,4,2000 Summer U.S. Tour,2000 Summer,Loving Cup,,0,Polaris Amphitheater,Columbus,OH,USA,
+2000-07-17,2000,0,1,1,1,0,0,1,Not Part of a Tour,No Tour,First Tube,,0,"KLRU Studios, University of Texas",Austin,TX,USA,","
+2000-07-17,2000,0,2,1,1,0,0,1,Not Part of a Tour,No Tour,My Soul,,0,"KLRU Studios, University of Texas",Austin,TX,USA,","
 2000-07-17,2000,0,3,1,1,0,0,1,Not Part of a Tour,No Tour,Limb By Limb,LxL,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,4,1,1,0,0,15,Not Part of a Tour,No Tour,Horn,Horn,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,5,1,1,0,0,3,Not Part of a Tour,No Tour,Heavy Things,Heavy Things,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
+2000-07-17,2000,0,4,1,1,0,0,15,Not Part of a Tour,No Tour,Horn,,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
+2000-07-17,2000,0,5,1,1,0,0,3,Not Part of a Tour,No Tour,Heavy Things,,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
 2000-07-17,2000,0,6,1,1,0,0,4,Not Part of a Tour,No Tour,Back on the Train,BOTT,0,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,7,1,1,0,0,3,Not Part of a Tour,No Tour,Beauty of My Dreams,Beauty of My Dreams,0,"KLRU Studios, University of Texas",Austin,TX,USA,","
+2000-07-17,2000,0,7,1,1,0,0,3,Not Part of a Tour,No Tour,Beauty of My Dreams,,0,"KLRU Studios, University of Texas",Austin,TX,USA,","
 2000-07-17,2000,0,8,1,1,0,0,2,Not Part of a Tour,No Tour,Gotta Jibboo,Jibboo,0,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,9,1,1,0,0,1,Not Part of a Tour,No Tour,Piper,Piper,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
+2000-07-17,2000,0,9,1,1,0,0,1,Not Part of a Tour,No Tour,Piper,,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
 2000-07-17,2000,0,10,1,1,0,0,1,Not Part of a Tour,No Tour,Down with Disease,DwD,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,11,1,1,0,0,2,Not Part of a Tour,No Tour,The Inlaw Josie Wales,The Inlaw Josie Wales,0,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,12,1,1,0,0,2,Not Part of a Tour,No Tour,Driver,Driver,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
+2000-07-17,2000,0,11,1,1,0,0,2,Not Part of a Tour,No Tour,The Inlaw Josie Wales,,0,"KLRU Studios, University of Texas",Austin,TX,USA,","
+2000-07-17,2000,0,12,1,1,0,0,2,Not Part of a Tour,No Tour,Driver,,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
 2000-07-17,2000,0,13,1,1,0,0,10,Not Part of a Tour,No Tour,When the Circus Comes,Circus,0,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,14,1,1,0,0,5,Not Part of a Tour,No Tour,Twist,Twist,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,15,1,1,0,0,21,Not Part of a Tour,No Tour,Sleep,Sleep,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
+2000-07-17,2000,0,14,1,1,0,0,5,Not Part of a Tour,No Tour,Twist,,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
+2000-07-17,2000,0,15,1,1,0,0,21,Not Part of a Tour,No Tour,Sleep,,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
 2000-07-17,2000,0,16,1,1,0,0,4,Not Part of a Tour,No Tour,Chalk Dust Torture,CDT,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
 2000-07-17,2000,0,17,1,1,0,0,3,Not Part of a Tour,No Tour,Wading in the Velvet Sea,Velvet Sea,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,18,1,1,0,0,6,Not Part of a Tour,No Tour,Possum,Possum,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,19,1,1,0,0,4,Not Part of a Tour,No Tour,Character Zero,Character Zero,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,20,6,1,0,0,0,Not Part of a Tour,No Tour,First Tube,First Tube,0,"KLRU Studios, University of Texas",Austin,TX,USA,
-2000-09-08,2000,0,1,1,1,0,0,1344,2000 Fall Tour,2000 Fall,Mellow Mood,Mellow Mood,0,Pepsi Arena,Albany,NY,USA,","
+2000-07-17,2000,0,18,1,1,0,0,6,Not Part of a Tour,No Tour,Possum,,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
+2000-07-17,2000,0,19,1,1,0,0,4,Not Part of a Tour,No Tour,Character Zero,,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
+2000-07-17,2000,0,20,6,1,0,0,0,Not Part of a Tour,No Tour,First Tube,,0,"KLRU Studios, University of Texas",Austin,TX,USA,
+2000-09-08,2000,0,1,1,1,0,0,1344,2000 Fall Tour,2000 Fall,Mellow Mood,,0,Pepsi Arena,Albany,NY,USA,","
 2000-09-08,2000,0,2,1,1,0,0,1,2000 Fall Tour,2000 Fall,Limb By Limb,LxL,1,Pepsi Arena,Albany,NY,USA,","
-2000-09-08,2000,0,3,1,1,0,0,8,2000 Fall Tour,2000 Fall,Ghost,Ghost,1,Pepsi Arena,Albany,NY,USA,","
+2000-09-08,2000,0,3,1,1,0,0,8,2000 Fall Tour,2000 Fall,Ghost,,1,Pepsi Arena,Albany,NY,USA,","
 2000-09-08,2000,0,4,1,1,0,0,3,2000 Fall Tour,2000 Fall,Bouncing Around the Room,Bouncin',1,Pepsi Arena,Albany,NY,USA,","
 2000-09-08,2000,0,5,2,1,0,0,7,2000 Fall Tour,2000 Fall,The Horse,Horse,1,Pepsi Arena,Albany,NY,USA,>
 2000-09-08,2000,0,6,1,1,0,0,7,2000 Fall Tour,2000 Fall,Silent in the Morning,Silent,1,Pepsi Arena,Albany,NY,USA,","
-2000-09-08,2000,0,7,1,1,0,0,10,2000 Fall Tour,2000 Fall,Saw It Again,Saw It Again,1,Pepsi Arena,Albany,NY,USA,","
-2000-09-08,2000,0,8,1,1,0,0,2,2000 Fall Tour,2000 Fall,NICU,NICU,1,Pepsi Arena,Albany,NY,USA,","
-2000-09-08,2000,0,9,1,1,0,0,10,2000 Fall Tour,2000 Fall,Glide,Glide,1,Pepsi Arena,Albany,NY,USA,","
-2000-09-08,2000,0,10,1,1,0,0,4,2000 Fall Tour,2000 Fall,Axilla,Axilla,1,Pepsi Arena,Albany,NY,USA,","
-2000-09-08,2000,0,11,1,1,0,0,3,2000 Fall Tour,2000 Fall,Taste,Taste,1,Pepsi Arena,Albany,NY,USA,","
+2000-09-08,2000,0,7,1,1,0,0,10,2000 Fall Tour,2000 Fall,Saw It Again,,1,Pepsi Arena,Albany,NY,USA,","
+2000-09-08,2000,0,8,1,1,0,0,2,2000 Fall Tour,2000 Fall,NICU,,1,Pepsi Arena,Albany,NY,USA,","
+2000-09-08,2000,0,9,1,1,0,0,10,2000 Fall Tour,2000 Fall,Glide,,1,Pepsi Arena,Albany,NY,USA,","
+2000-09-08,2000,0,10,1,1,0,0,4,2000 Fall Tour,2000 Fall,Axilla,,1,Pepsi Arena,Albany,NY,USA,","
+2000-09-08,2000,0,11,1,1,0,0,3,2000 Fall Tour,2000 Fall,Taste,,1,Pepsi Arena,Albany,NY,USA,","
 2000-09-08,2000,0,12,4,1,0,0,3,2000 Fall Tour,2000 Fall,Golgi Apparatus,Golgi,1,Pepsi Arena,Albany,NY,USA,
 2000-09-08,2000,0,13,1,2,0,0,4,2000 Fall Tour,2000 Fall,Birds of a Feather,BOAF,1,Pepsi Arena,Albany,NY,USA,","
-2000-09-08,2000,0,14,1,2,0,0,0,2000 Fall Tour,2000 Fall,Windora Bug,Windora Bug,0,Pepsi Arena,Albany,NY,USA,","
+2000-09-08,2000,0,14,1,2,0,0,0,2000 Fall Tour,2000 Fall,Windora Bug,,0,Pepsi Arena,Albany,NY,USA,","
 2000-09-08,2000,0,15,1,2,0,0,3,2000 Fall Tour,2000 Fall,David Bowie,Bowie,1,Pepsi Arena,Albany,NY,USA,","
-2000-09-08,2000,0,16,1,2,0,0,35,2000 Fall Tour,2000 Fall,Back at the Chicken Shack,Back at the Chicken Shack,0,Pepsi Arena,Albany,NY,USA,","
+2000-09-08,2000,0,16,1,2,0,0,35,2000 Fall Tour,2000 Fall,Back at the Chicken Shack,,0,Pepsi Arena,Albany,NY,USA,","
 2000-09-08,2000,0,17,2,2,0,0,6,2000 Fall Tour,2000 Fall,Bathtub Gin,Gin,1,Pepsi Arena,Albany,NY,USA,>
-2000-09-08,2000,0,18,2,2,0,0,22,2000 Fall Tour,2000 Fall,Jam,Jam,0,Pepsi Arena,Albany,NY,USA,>
-2000-09-08,2000,0,19,5,2,0,0,1,2000 Fall Tour,2000 Fall,Character Zero,Character Zero,1,Pepsi Arena,Albany,NY,USA,
-2000-09-08,2000,0,20,6,e,0,0,81,2000 Fall Tour,2000 Fall,Fire,Fire,0,Pepsi Arena,Albany,NY,USA,
-2000-09-09,2000,0,1,1,1,0,0,2,2000 Fall Tour,2000 Fall,Possum,Possum,1,Pepsi Arena,Albany,NY,USA,","
+2000-09-08,2000,0,18,2,2,0,0,22,2000 Fall Tour,2000 Fall,Jam,,0,Pepsi Arena,Albany,NY,USA,>
+2000-09-08,2000,0,19,5,2,0,0,1,2000 Fall Tour,2000 Fall,Character Zero,,1,Pepsi Arena,Albany,NY,USA,
+2000-09-08,2000,0,20,6,e,0,0,81,2000 Fall Tour,2000 Fall,Fire,,0,Pepsi Arena,Albany,NY,USA,
+2000-09-09,2000,0,1,1,1,0,0,2,2000 Fall Tour,2000 Fall,Possum,,1,Pepsi Arena,Albany,NY,USA,","
 2000-09-09,2000,0,2,3,1,0,0,5,2000 Fall Tour,2000 Fall,"My Friend, My Friend",My Friend,1,Pepsi Arena,Albany,NY,USA,->
-2000-09-09,2000,0,3,2,1,0,0,1,2000 Fall Tour,2000 Fall,Jam,Jam,0,Pepsi Arena,Albany,NY,USA,>
-2000-09-09,2000,0,4,3,1,0,0,9,2000 Fall Tour,2000 Fall,Gumbo,Gumbo,1,Pepsi Arena,Albany,NY,USA,->
-2000-09-09,2000,0,5,1,1,0,0,9,2000 Fall Tour,2000 Fall,Maze,Maze,1,Pepsi Arena,Albany,NY,USA,","
+2000-09-09,2000,0,3,2,1,0,0,1,2000 Fall Tour,2000 Fall,Jam,,0,Pepsi Arena,Albany,NY,USA,>
+2000-09-09,2000,0,4,3,1,0,0,9,2000 Fall Tour,2000 Fall,Gumbo,,1,Pepsi Arena,Albany,NY,USA,->
+2000-09-09,2000,0,5,1,1,0,0,9,2000 Fall Tour,2000 Fall,Maze,,1,Pepsi Arena,Albany,NY,USA,","
 2000-09-09,2000,0,6,1,1,0,0,4,2000 Fall Tour,2000 Fall,Boogie On Reggae Woman,Boogie On,0,Pepsi Arena,Albany,NY,USA,","
-2000-09-09,2000,0,7,1,1,0,0,9,2000 Fall Tour,2000 Fall,Roggae,Roggae,1,Pepsi Arena,Albany,NY,USA,","
-2000-09-09,2000,0,8,1,1,0,0,4,2000 Fall Tour,2000 Fall,Guyute,Guyute,1,Pepsi Arena,Albany,NY,USA,","
+2000-09-09,2000,0,7,1,1,0,0,9,2000 Fall Tour,2000 Fall,Roggae,,1,Pepsi Arena,Albany,NY,USA,","
+2000-09-09,2000,0,8,1,1,0,0,4,2000 Fall Tour,2000 Fall,Guyute,,1,Pepsi Arena,Albany,NY,USA,","
 2000-09-09,2000,0,9,4,1,0,0,7,2000 Fall Tour,2000 Fall,Run Like an Antelope,Antelope,1,Pepsi Arena,Albany,NY,USA,
 2000-09-09,2000,0,10,2,2,0,0,2,2000 Fall Tour,2000 Fall,Gotta Jibboo,Jibboo,0,Pepsi Arena,Albany,NY,USA,>
 2000-09-09,2000,0,11,2,2,0,0,9,2000 Fall Tour,2000 Fall,The Curtain,Curtain,1,Pepsi Arena,Albany,NY,USA,>
-2000-09-09,2000,0,12,1,2,0,0,4,2000 Fall Tour,2000 Fall,Sand,Sand,0,Pepsi Arena,Albany,NY,USA,","
+2000-09-09,2000,0,12,1,2,0,0,4,2000 Fall Tour,2000 Fall,Sand,,0,Pepsi Arena,Albany,NY,USA,","
 2000-09-09,2000,0,13,2,2,0,0,3,2000 Fall Tour,2000 Fall,Makisupa Policeman,Makisupa,1,Pepsi Arena,Albany,NY,USA,>
 2000-09-09,2000,0,14,2,2,0,0,7,2000 Fall Tour,2000 Fall,Cars Trucks Buses,CTB,1,Pepsi Arena,Albany,NY,USA,>
-2000-09-09,2000,0,15,2,2,0,0,7,2000 Fall Tour,2000 Fall,Funky Bitch,Funky Bitch,0,Pepsi Arena,Albany,NY,USA,>
-2000-09-09,2000,0,16,5,2,0,0,6,2000 Fall Tour,2000 Fall,Cavern,Cavern,1,Pepsi Arena,Albany,NY,USA,
+2000-09-09,2000,0,15,2,2,0,0,7,2000 Fall Tour,2000 Fall,Funky Bitch,,0,Pepsi Arena,Albany,NY,USA,>
+2000-09-09,2000,0,16,5,2,0,0,6,2000 Fall Tour,2000 Fall,Cavern,,1,Pepsi Arena,Albany,NY,USA,
 2000-09-09,2000,0,17,6,e,0,0,6,2000 Fall Tour,2000 Fall,Harry Hood,Hood,1,Pepsi Arena,Albany,NY,USA,
-2000-09-11,2000,0,1,2,1,0,0,1338,2000 Fall Tour,2000 Fall,Roadrunner,Roadrunner,0,Tweeter Center,Mansfield,MA,USA,>
+2000-09-11,2000,0,1,2,1,0,0,1338,2000 Fall Tour,2000 Fall,Roadrunner,,0,Tweeter Center,Mansfield,MA,USA,>
 2000-09-11,2000,0,2,1,1,0,0,7,2000 Fall Tour,2000 Fall,The Moma Dance,Moma,1,Tweeter Center,Mansfield,MA,USA,","
-2000-09-11,2000,0,3,1,1,0,0,12,2000 Fall Tour,2000 Fall,Rift,Rift,1,Tweeter Center,Mansfield,MA,USA,","
-2000-09-11,2000,0,4,1,1,0,0,20,2000 Fall Tour,2000 Fall,Brian and Robert,Brian and Robert,1,Tweeter Center,Mansfield,MA,USA,","
-2000-09-11,2000,0,5,1,1,0,0,14,2000 Fall Tour,2000 Fall,Vultures,Vultures,1,Tweeter Center,Mansfield,MA,USA,","
-2000-09-11,2000,0,6,2,1,0,0,3,2000 Fall Tour,2000 Fall,Horn,Horn,1,Tweeter Center,Mansfield,MA,USA,>
-2000-09-11,2000,0,7,2,1,0,0,3,2000 Fall Tour,2000 Fall,Beauty of My Dreams,Beauty of My Dreams,0,Tweeter Center,Mansfield,MA,USA,>
-2000-09-11,2000,0,8,1,1,0,0,7,2000 Fall Tour,2000 Fall,Ya Mar,Ya Mar,0,Tweeter Center,Mansfield,MA,USA,","
-2000-09-11,2000,0,9,4,1,0,0,5,2000 Fall Tour,2000 Fall,Stash,Stash,1,Tweeter Center,Mansfield,MA,USA,
+2000-09-11,2000,0,3,1,1,0,0,12,2000 Fall Tour,2000 Fall,Rift,,1,Tweeter Center,Mansfield,MA,USA,","
+2000-09-11,2000,0,4,1,1,0,0,20,2000 Fall Tour,2000 Fall,Brian and Robert,,1,Tweeter Center,Mansfield,MA,USA,","
+2000-09-11,2000,0,5,1,1,0,0,14,2000 Fall Tour,2000 Fall,Vultures,,1,Tweeter Center,Mansfield,MA,USA,","
+2000-09-11,2000,0,6,2,1,0,0,3,2000 Fall Tour,2000 Fall,Horn,,1,Tweeter Center,Mansfield,MA,USA,>
+2000-09-11,2000,0,7,2,1,0,0,3,2000 Fall Tour,2000 Fall,Beauty of My Dreams,,0,Tweeter Center,Mansfield,MA,USA,>
+2000-09-11,2000,0,8,1,1,0,0,7,2000 Fall Tour,2000 Fall,Ya Mar,,0,Tweeter Center,Mansfield,MA,USA,","
+2000-09-11,2000,0,9,4,1,0,0,5,2000 Fall Tour,2000 Fall,Stash,,1,Tweeter Center,Mansfield,MA,USA,
 2000-09-11,2000,0,10,2,2,0,0,3,2000 Fall Tour,2000 Fall,Chalk Dust Torture,CDT,1,Tweeter Center,Mansfield,MA,USA,>
-2000-09-11,2000,0,11,2,2,0,0,3,2000 Fall Tour,2000 Fall,Twist,Twist,1,Tweeter Center,Mansfield,MA,USA,>
-2000-09-11,2000,0,12,2,2,0,0,3,2000 Fall Tour,2000 Fall,Piper,Piper,1,Tweeter Center,Mansfield,MA,USA,>
+2000-09-11,2000,0,11,2,2,0,0,3,2000 Fall Tour,2000 Fall,Twist,,1,Tweeter Center,Mansfield,MA,USA,>
+2000-09-11,2000,0,12,2,2,0,0,3,2000 Fall Tour,2000 Fall,Piper,,1,Tweeter Center,Mansfield,MA,USA,>
 2000-09-11,2000,0,13,2,2,0,0,8,2000 Fall Tour,2000 Fall,What's the Use?,WTU?,1,Tweeter Center,Mansfield,MA,USA,>
 2000-09-11,2000,0,14,5,2,0,0,4,2000 Fall Tour,2000 Fall,You Enjoy Myself,YEM,1,Tweeter Center,Mansfield,MA,USA,
 2000-09-11,2000,0,15,6,e,0,0,12,2000 Fall Tour,2000 Fall,Good Times Bad Times,GTBT,0,Tweeter Center,Mansfield,MA,USA,
 2000-09-12,2000,0,1,1,1,0,0,5,2000 Fall Tour,2000 Fall,Wolfman's Brother,Wolfman's,1,Tweeter Center,Mansfield,MA,USA,","
 2000-09-12,2000,0,2,1,1,0,0,19,2000 Fall Tour,2000 Fall,Scent of a Mule,SOAMule,1,Tweeter Center,Mansfield,MA,USA,","
-2000-09-12,2000,0,3,1,1,0,0,4,2000 Fall Tour,2000 Fall,My Soul,My Soul,0,Tweeter Center,Mansfield,MA,USA,","
+2000-09-12,2000,0,3,1,1,0,0,4,2000 Fall Tour,2000 Fall,My Soul,,0,Tweeter Center,Mansfield,MA,USA,","
 2000-09-12,2000,0,4,1,1,0,0,16,2000 Fall Tour,2000 Fall,Ginseng Sullivan,Ginseng,0,Tweeter Center,Mansfield,MA,USA,","
-2000-09-12,2000,0,5,2,1,0,0,4,2000 Fall Tour,2000 Fall,First Tube,First Tube,0,Tweeter Center,Mansfield,MA,USA,>
+2000-09-12,2000,0,5,2,1,0,0,4,2000 Fall Tour,2000 Fall,First Tube,,0,Tweeter Center,Mansfield,MA,USA,>
 2000-09-12,2000,0,6,1,1,0,0,11,2000 Fall Tour,2000 Fall,Divided Sky,Divided,1,Tweeter Center,Mansfield,MA,USA,","
-2000-09-12,2000,0,7,4,1,0,0,9,2000 Fall Tour,2000 Fall,Wilson,Wilson,1,Tweeter Center,Mansfield,MA,USA,
+2000-09-12,2000,0,7,4,1,0,0,9,2000 Fall Tour,2000 Fall,Wilson,,1,Tweeter Center,Mansfield,MA,USA,
 2000-09-12,2000,0,8,2,2,0,0,4,2000 Fall Tour,2000 Fall,Down with Disease,DwD,1,Tweeter Center,Mansfield,MA,USA,>
-2000-09-12,2000,0,9,2,2,0,0,4,2000 Fall Tour,2000 Fall,Heavy Things,Heavy Things,1,Tweeter Center,Mansfield,MA,USA,>
+2000-09-12,2000,0,9,2,2,0,0,4,2000 Fall Tour,2000 Fall,Heavy Things,,1,Tweeter Center,Mansfield,MA,USA,>
 2000-09-12,2000,0,10,1,2,0,0,9,2000 Fall Tour,2000 Fall,Split Open and Melt,SOAMelt,1,Tweeter Center,Mansfield,MA,USA,","
 2000-09-12,2000,0,11,2,2,0,0,8,2000 Fall Tour,2000 Fall,Hold Your Head Up,HYHU,0,Tweeter Center,Mansfield,MA,USA,>
-2000-09-12,2000,0,12,2,2,0,0,24,2000 Fall Tour,2000 Fall,Bike,Bike,0,Tweeter Center,Mansfield,MA,USA,>
+2000-09-12,2000,0,12,2,2,0,0,24,2000 Fall Tour,2000 Fall,Bike,,0,Tweeter Center,Mansfield,MA,USA,>
 2000-09-12,2000,0,13,1,2,0,0,0,2000 Fall Tour,2000 Fall,Hold Your Head Up,HYHU,0,Tweeter Center,Mansfield,MA,USA,","
 2000-09-12,2000,0,14,2,2,0,0,8,2000 Fall Tour,2000 Fall,Also Sprach Zarathustra,2001,0,Tweeter Center,Mansfield,MA,USA,>
 2000-09-12,2000,0,15,2,2,0,0,6,2000 Fall Tour,2000 Fall,Mike's Song,Mike's,1,Tweeter Center,Mansfield,MA,USA,>
@@ -691,314 +691,314 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2000-09-12,2000,0,17,5,2,0,0,6,2000 Fall Tour,2000 Fall,Weekapaug Groove,Weekapaug,1,Tweeter Center,Mansfield,MA,USA,
 2000-09-12,2000,0,18,6,e,0,0,7,2000 Fall Tour,2000 Fall,The Squirming Coil,Coil,1,Tweeter Center,Mansfield,MA,USA,
 2000-09-14,2000,0,1,2,1,0,0,7,2000 Fall Tour,2000 Fall,Punch You in the Eye,PYITE,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,>
-2000-09-14,2000,0,2,1,1,0,0,13,2000 Fall Tour,2000 Fall,Reba,Reba,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
-2000-09-14,2000,0,3,1,1,0,0,19,2000 Fall Tour,2000 Fall,Albuquerque,Albuquerque,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
-2000-09-14,2000,0,4,1,1,0,0,21,2000 Fall Tour,2000 Fall,Carini,Carini,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
+2000-09-14,2000,0,2,1,1,0,0,13,2000 Fall Tour,2000 Fall,Reba,,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
+2000-09-14,2000,0,3,1,1,0,0,19,2000 Fall Tour,2000 Fall,Albuquerque,,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
+2000-09-14,2000,0,4,1,1,0,0,21,2000 Fall Tour,2000 Fall,Carini,,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
 2000-09-14,2000,0,5,2,1,0,0,98,2000 Fall Tour,2000 Fall,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,>
 2000-09-14,2000,0,6,2,1,0,0,11,2000 Fall Tour,2000 Fall,Suzy Greenberg,Suzy,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,>
-2000-09-14,2000,0,7,4,1,0,0,3,2000 Fall Tour,2000 Fall,Jam,Jam,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,
-2000-09-14,2000,0,8,2,2,0,0,9,2000 Fall Tour,2000 Fall,Drowned,Drowned,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,>
+2000-09-14,2000,0,7,4,1,0,0,3,2000 Fall Tour,2000 Fall,Jam,,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,
+2000-09-14,2000,0,8,2,2,0,0,9,2000 Fall Tour,2000 Fall,Drowned,,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,>
 2000-09-14,2000,0,9,2,2,0,0,8,2000 Fall Tour,2000 Fall,Crosseyed and Painless,C&amp;P,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,>
-2000-09-14,2000,0,10,1,2,0,0,7,2000 Fall Tour,2000 Fall,Dog Faced Boy,Dog Faced Boy,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
+2000-09-14,2000,0,10,1,2,0,0,7,2000 Fall Tour,2000 Fall,Dog Faced Boy,,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
 2000-09-14,2000,0,11,2,2,0,0,8,2000 Fall Tour,2000 Fall,Prince Caspian,Caspian,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,>
-2000-09-14,2000,0,12,5,2,0,0,6,2000 Fall Tour,2000 Fall,Loving Cup,Loving Cup,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,
-2000-09-14,2000,0,13,1,e,0,0,5,2000 Fall Tour,2000 Fall,Driver,Driver,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
-2000-09-14,2000,0,14,1,e,0,0,5,2000 Fall Tour,2000 Fall,The Inlaw Josie Wales,The Inlaw Josie Wales,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
+2000-09-14,2000,0,12,5,2,0,0,6,2000 Fall Tour,2000 Fall,Loving Cup,,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,
+2000-09-14,2000,0,13,1,e,0,0,5,2000 Fall Tour,2000 Fall,Driver,,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
+2000-09-14,2000,0,14,1,e,0,0,5,2000 Fall Tour,2000 Fall,The Inlaw Josie Wales,,0,Darien Lake Performing Arts Center,Darien Center,NY,USA,","
 2000-09-14,2000,0,15,6,e,0,0,7,2000 Fall Tour,2000 Fall,Sample in a Jar,Sample,1,Darien Lake Performing Arts Center,Darien Center,NY,USA,
-2000-09-15,2000,0,1,1,1,0,0,2,2000 Fall Tour,2000 Fall,First Tube,First Tube,0,Hersheypark Stadium,Hershey,PA,USA,","
+2000-09-15,2000,0,1,1,1,0,0,2,2000 Fall Tour,2000 Fall,First Tube,,0,Hersheypark Stadium,Hershey,PA,USA,","
 2000-09-15,2000,0,2,1,1,0,0,4,2000 Fall Tour,2000 Fall,Gotta Jibboo,Jibboo,0,Hersheypark Stadium,Hershey,PA,USA,","
-2000-09-15,2000,0,3,1,1,0,0,40,2000 Fall Tour,2000 Fall,Corinna,Corinna,0,Hersheypark Stadium,Hershey,PA,USA,","
+2000-09-15,2000,0,3,1,1,0,0,40,2000 Fall Tour,2000 Fall,Corinna,,0,Hersheypark Stadium,Hershey,PA,USA,","
 2000-09-15,2000,0,4,1,1,0,0,5,2000 Fall Tour,2000 Fall,Birds of a Feather,BOAF,1,Hersheypark Stadium,Hershey,PA,USA,","
-2000-09-15,2000,0,5,1,1,0,0,5,2000 Fall Tour,2000 Fall,Windora Bug,Windora Bug,0,Hersheypark Stadium,Hershey,PA,USA,","
+2000-09-15,2000,0,5,1,1,0,0,5,2000 Fall Tour,2000 Fall,Windora Bug,,0,Hersheypark Stadium,Hershey,PA,USA,","
 2000-09-15,2000,0,6,1,1,0,0,4,2000 Fall Tour,2000 Fall,Run Like an Antelope,Antelope,1,Hersheypark Stadium,Hershey,PA,USA,","
 2000-09-15,2000,0,7,1,1,0,0,5,2000 Fall Tour,2000 Fall,Golgi Apparatus,Golgi,1,Hersheypark Stadium,Hershey,PA,USA,","
-2000-09-15,2000,0,8,4,1,0,0,16,2000 Fall Tour,2000 Fall,Bittersweet Motel,Bittersweet Motel,1,Hersheypark Stadium,Hershey,PA,USA,
-2000-09-15,2000,0,9,2,2,0,0,3,2000 Fall Tour,2000 Fall,Piper,Piper,1,Hersheypark Stadium,Hershey,PA,USA,>
+2000-09-15,2000,0,8,4,1,0,0,16,2000 Fall Tour,2000 Fall,Bittersweet Motel,,1,Hersheypark Stadium,Hershey,PA,USA,
+2000-09-15,2000,0,9,2,2,0,0,3,2000 Fall Tour,2000 Fall,Piper,,1,Hersheypark Stadium,Hershey,PA,USA,>
 2000-09-15,2000,0,10,1,2,0,0,8,2000 Fall Tour,2000 Fall,The Lizards,Lizards,1,Hersheypark Stadium,Hershey,PA,USA,","
-2000-09-15,2000,0,11,2,2,0,0,9,2000 Fall Tour,2000 Fall,Tube,Tube,1,Hersheypark Stadium,Hershey,PA,USA,>
-2000-09-15,2000,0,12,2,2,0,0,1,2000 Fall Tour,2000 Fall,Jam,Jam,0,Hersheypark Stadium,Hershey,PA,USA,>
+2000-09-15,2000,0,11,2,2,0,0,9,2000 Fall Tour,2000 Fall,Tube,,1,Hersheypark Stadium,Hershey,PA,USA,>
+2000-09-15,2000,0,12,2,2,0,0,1,2000 Fall Tour,2000 Fall,Jam,,0,Hersheypark Stadium,Hershey,PA,USA,>
 2000-09-15,2000,0,13,1,2,0,0,6,2000 Fall Tour,2000 Fall,When the Circus Comes,Circus,0,Hersheypark Stadium,Hershey,PA,USA,","
-2000-09-15,2000,0,14,5,2,0,0,5,2000 Fall Tour,2000 Fall,Character Zero,Character Zero,1,Hersheypark Stadium,Hershey,PA,USA,
-2000-09-15,2000,0,15,6,e,0,0,4,2000 Fall Tour,2000 Fall,Possum,Possum,1,Hersheypark Stadium,Hershey,PA,USA,
-2000-09-17,2000,0,1,1,1,0,0,5,2000 Fall Tour,2000 Fall,Guyute,Guyute,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2000-09-15,2000,0,14,5,2,0,0,5,2000 Fall Tour,2000 Fall,Character Zero,,1,Hersheypark Stadium,Hershey,PA,USA,
+2000-09-15,2000,0,15,6,e,0,0,4,2000 Fall Tour,2000 Fall,Possum,,1,Hersheypark Stadium,Hershey,PA,USA,
+2000-09-17,2000,0,1,1,1,0,0,5,2000 Fall Tour,2000 Fall,Guyute,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
 2000-09-17,2000,0,2,1,1,0,0,7,2000 Fall Tour,2000 Fall,Back on the Train,BOTT,0,Merriweather Post Pavilion,Columbia,MD,USA,","
 2000-09-17,2000,0,3,1,1,0,0,6,2000 Fall Tour,2000 Fall,Bathtub Gin,Gin,1,Merriweather Post Pavilion,Columbia,MD,USA,","
 2000-09-17,2000,0,4,1,1,0,0,6,2000 Fall Tour,2000 Fall,Limb By Limb,LxL,1,Merriweather Post Pavilion,Columbia,MD,USA,","
 2000-09-17,2000,0,5,1,1,0,0,4,2000 Fall Tour,2000 Fall,The Moma Dance,Moma,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2000-09-17,2000,0,6,1,1,0,0,16,2000 Fall Tour,2000 Fall,Lawn Boy,Lawn Boy,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2000-09-17,2000,0,7,1,1,0,0,17,2000 Fall Tour,2000 Fall,Fluffhead,Fluffhead,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2000-09-17,2000,0,6,1,1,0,0,16,2000 Fall Tour,2000 Fall,Lawn Boy,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2000-09-17,2000,0,7,1,1,0,0,17,2000 Fall Tour,2000 Fall,Fluffhead,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
 2000-09-17,2000,0,8,2,1,0,0,10,2000 Fall Tour,2000 Fall,The Curtain With,Curtain With,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2000-09-17,2000,0,9,4,1,0,0,4,2000 Fall Tour,2000 Fall,Chalk Dust Torture,CDT,1,Merriweather Post Pavilion,Columbia,MD,USA,
 2000-09-17,2000,0,10,2,2,0,0,13,2000 Fall Tour,2000 Fall,Rock and Roll,R&amp;R,0,Merriweather Post Pavilion,Columbia,MD,USA,>
 2000-09-17,2000,0,11,3,2,0,0,11,2000 Fall Tour,2000 Fall,Theme From the Bottom,Theme,1,Merriweather Post Pavilion,Columbia,MD,USA,->
-2000-09-17,2000,0,12,2,2,0,0,42,2000 Fall Tour,2000 Fall,Dog Log,Dog Log,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2000-09-17,2000,0,12,2,2,0,0,42,2000 Fall Tour,2000 Fall,Dog Log,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2000-09-17,2000,0,13,2,2,0,0,8,2000 Fall Tour,2000 Fall,The Mango Song,Mango,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2000-09-17,2000,0,14,5,2,0,0,10,2000 Fall Tour,2000 Fall,Free,Free,1,Merriweather Post Pavilion,Columbia,MD,USA,
-2000-09-17,2000,0,15,2,e,0,0,24,2000 Fall Tour,2000 Fall,Contact,Contact,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2000-09-17,2000,0,16,6,e,0,0,29,2000 Fall Tour,2000 Fall,Rocky Top,Rocky Top,0,Merriweather Post Pavilion,Columbia,MD,USA,
-2000-09-18,2000,0,1,2,1,0,0,3,2000 Fall Tour,2000 Fall,Carini,Carini,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
-2000-09-18,2000,0,2,2,1,0,0,13,2000 Fall Tour,2000 Fall,Sparkle,Sparkle,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2000-09-17,2000,0,14,5,2,0,0,10,2000 Fall Tour,2000 Fall,Free,,1,Merriweather Post Pavilion,Columbia,MD,USA,
+2000-09-17,2000,0,15,2,e,0,0,24,2000 Fall Tour,2000 Fall,Contact,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2000-09-17,2000,0,16,6,e,0,0,29,2000 Fall Tour,2000 Fall,Rocky Top,,0,Merriweather Post Pavilion,Columbia,MD,USA,
+2000-09-18,2000,0,1,2,1,0,0,3,2000 Fall Tour,2000 Fall,Carini,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2000-09-18,2000,0,2,2,1,0,0,13,2000 Fall Tour,2000 Fall,Sparkle,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
 2000-09-18,2000,0,3,1,1,0,0,22,2000 Fall Tour,2000 Fall,The Sloth,Sloth,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-2000-09-18,2000,0,4,1,1,0,0,6,2000 Fall Tour,2000 Fall,Maze,Maze,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2000-09-18,2000,0,4,1,1,0,0,6,2000 Fall Tour,2000 Fall,Maze,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
 2000-09-18,2000,0,5,1,1,0,0,18,2000 Fall Tour,2000 Fall,Guelah Papyrus,Guelah,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
 2000-09-18,2000,0,6,2,1,0,0,13,2000 Fall Tour,2000 Fall,My Mind's Got a Mind of its Own,MMGAMOIO,0,Blossom Music Center,Cuyahoga Falls,OH,USA,>
 2000-09-18,2000,0,7,2,1,0,0,3,2000 Fall Tour,2000 Fall,Sample in a Jar,Sample,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
-2000-09-18,2000,0,8,1,1,0,0,5,2000 Fall Tour,2000 Fall,Rift,Rift,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-2000-09-18,2000,0,9,2,1,0,0,8,2000 Fall Tour,2000 Fall,Sleep,Sleep,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2000-09-18,2000,0,8,1,1,0,0,5,2000 Fall Tour,2000 Fall,Rift,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2000-09-18,2000,0,9,2,1,0,0,8,2000 Fall Tour,2000 Fall,Sleep,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
 2000-09-18,2000,0,10,4,1,0,0,3,2000 Fall Tour,2000 Fall,Prince Caspian,Caspian,1,Blossom Music Center,Cuyahoga Falls,OH,USA,
 2000-09-18,2000,0,11,3,2,0,0,6,2000 Fall Tour,2000 Fall,Boogie On Reggae Woman,Boogie On,0,Blossom Music Center,Cuyahoga Falls,OH,USA,->
-2000-09-18,2000,0,12,1,2,0,0,5,2000 Fall Tour,2000 Fall,Twist,Twist,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2000-09-18,2000,0,12,1,2,0,0,5,2000 Fall Tour,2000 Fall,Twist,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
 2000-09-18,2000,0,13,1,2,0,0,60,2000 Fall Tour,2000 Fall,McGrupp and the Watchful Hosemasters,McGrupp,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
 2000-09-18,2000,0,14,5,2,0,0,20,2000 Fall Tour,2000 Fall,Halley's Comet,Halley's,1,Blossom Music Center,Cuyahoga Falls,OH,USA,
-2000-09-18,2000,0,15,2,e,0,0,7,2000 Fall Tour,2000 Fall,Axilla,Axilla,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
-2000-09-18,2000,0,16,6,e,0,0,7,2000 Fall Tour,2000 Fall,Taste,Taste,1,Blossom Music Center,Cuyahoga Falls,OH,USA,
+2000-09-18,2000,0,15,2,e,0,0,7,2000 Fall Tour,2000 Fall,Axilla,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2000-09-18,2000,0,16,6,e,0,0,7,2000 Fall Tour,2000 Fall,Taste,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,
 2000-09-20,2000,0,1,1,1,0,0,7,2000 Fall Tour,2000 Fall,Cars Trucks Buses,CTB,1,Riverbend Music Center,Cincinnati,OH,USA,","
 2000-09-20,2000,0,2,1,1,0,0,5,2000 Fall Tour,2000 Fall,Wolfman's Brother,Wolfman's,1,Riverbend Music Center,Cincinnati,OH,USA,","
 2000-09-20,2000,0,3,2,1,0,0,3,2000 Fall Tour,2000 Fall,Gotta Jibboo,Jibboo,0,Riverbend Music Center,Cincinnati,OH,USA,>
 2000-09-20,2000,0,4,2,1,0,0,5,2000 Fall Tour,2000 Fall,Mike's Song,Mike's,1,Riverbend Music Center,Cincinnati,OH,USA,>
-2000-09-20,2000,0,5,3,1,0,0,16,2000 Fall Tour,2000 Fall,Simple,Simple,1,Riverbend Music Center,Cincinnati,OH,USA,->
+2000-09-20,2000,0,5,3,1,0,0,16,2000 Fall Tour,2000 Fall,Simple,,1,Riverbend Music Center,Cincinnati,OH,USA,->
 2000-09-20,2000,0,6,2,1,0,0,18,2000 Fall Tour,2000 Fall,The Man Who Stepped Into Yesterday,TMWSIY,1,Riverbend Music Center,Cincinnati,OH,USA,>
-2000-09-20,2000,0,7,2,1,0,0,18,2000 Fall Tour,2000 Fall,Avenu Malkenu,Avenu Malkenu,0,Riverbend Music Center,Cincinnati,OH,USA,>
+2000-09-20,2000,0,7,2,1,0,0,18,2000 Fall Tour,2000 Fall,Avenu Malkenu,,0,Riverbend Music Center,Cincinnati,OH,USA,>
 2000-09-20,2000,0,8,1,1,0,0,5,2000 Fall Tour,2000 Fall,Weekapaug Groove,Weekapaug,1,Riverbend Music Center,Cincinnati,OH,USA,","
 2000-09-20,2000,0,9,4,1,0,0,10,2000 Fall Tour,2000 Fall,While My Guitar Gently Weeps,WMGGW,0,Riverbend Music Center,Cincinnati,OH,USA,
-2000-09-20,2000,0,10,2,2,0,0,3,2000 Fall Tour,2000 Fall,First Tube,First Tube,0,Riverbend Music Center,Cincinnati,OH,USA,>
+2000-09-20,2000,0,10,2,2,0,0,3,2000 Fall Tour,2000 Fall,First Tube,,0,Riverbend Music Center,Cincinnati,OH,USA,>
 2000-09-20,2000,0,11,1,2,0,0,2,2000 Fall Tour,2000 Fall,Limb By Limb,LxL,1,Riverbend Music Center,Cincinnati,OH,USA,","
-2000-09-20,2000,0,12,1,2,0,0,10,2000 Fall Tour,2000 Fall,Dirt,Dirt,0,Riverbend Music Center,Cincinnati,OH,USA,","
-2000-09-20,2000,0,13,2,2,0,0,14,2000 Fall Tour,2000 Fall,It's Ice,It's Ice,1,Riverbend Music Center,Cincinnati,OH,USA,>
+2000-09-20,2000,0,12,1,2,0,0,10,2000 Fall Tour,2000 Fall,Dirt,,0,Riverbend Music Center,Cincinnati,OH,USA,","
+2000-09-20,2000,0,13,2,2,0,0,14,2000 Fall Tour,2000 Fall,It's Ice,,1,Riverbend Music Center,Cincinnati,OH,USA,>
 2000-09-20,2000,0,14,2,2,0,0,9,2000 Fall Tour,2000 Fall,Wading in the Velvet Sea,Velvet Sea,1,Riverbend Music Center,Cincinnati,OH,USA,>
-2000-09-20,2000,0,15,1,2,0,0,7,2000 Fall Tour,2000 Fall,Sand,Sand,0,Riverbend Music Center,Cincinnati,OH,USA,","
-2000-09-20,2000,0,16,2,2,0,0,2,2000 Fall Tour,2000 Fall,Guyute,Guyute,1,Riverbend Music Center,Cincinnati,OH,USA,>
+2000-09-20,2000,0,15,1,2,0,0,7,2000 Fall Tour,2000 Fall,Sand,,0,Riverbend Music Center,Cincinnati,OH,USA,","
+2000-09-20,2000,0,16,2,2,0,0,2,2000 Fall Tour,2000 Fall,Guyute,,1,Riverbend Music Center,Cincinnati,OH,USA,>
 2000-09-20,2000,0,17,1,2,0,0,63,2000 Fall Tour,2000 Fall,Big Black Furry Creature from Mars,BBFCFM,1,Riverbend Music Center,Cincinnati,OH,USA,","
-2000-09-20,2000,0,18,5,2,0,0,4,2000 Fall Tour,2000 Fall,Drowned,Drowned,0,Riverbend Music Center,Cincinnati,OH,USA,
-2000-09-20,2000,0,19,6,e,0,0,7,2000 Fall Tour,2000 Fall,Cavern,Cavern,1,Riverbend Music Center,Cincinnati,OH,USA,
+2000-09-20,2000,0,18,5,2,0,0,4,2000 Fall Tour,2000 Fall,Drowned,,0,Riverbend Music Center,Cincinnati,OH,USA,
+2000-09-20,2000,0,19,6,e,0,0,7,2000 Fall Tour,2000 Fall,Cavern,,1,Riverbend Music Center,Cincinnati,OH,USA,
 2000-09-22,2000,0,1,1,1,0,0,6,2000 Fall Tour,2000 Fall,Down with Disease,DwD,1,Allstate Arena,Rosemont,IL,USA,","
-2000-09-22,2000,0,2,2,1,0,0,20,2000 Fall Tour,2000 Fall,Meat,Meat,1,Allstate Arena,Rosemont,IL,USA,>
-2000-09-22,2000,0,3,2,1,0,0,16,2000 Fall Tour,2000 Fall,Poor Heart,Poor Heart,1,Allstate Arena,Rosemont,IL,USA,>
-2000-09-22,2000,0,4,2,1,0,0,6,2000 Fall Tour,2000 Fall,Wilson,Wilson,1,Allstate Arena,Rosemont,IL,USA,>
+2000-09-22,2000,0,2,2,1,0,0,20,2000 Fall Tour,2000 Fall,Meat,,1,Allstate Arena,Rosemont,IL,USA,>
+2000-09-22,2000,0,3,2,1,0,0,16,2000 Fall Tour,2000 Fall,Poor Heart,,1,Allstate Arena,Rosemont,IL,USA,>
+2000-09-22,2000,0,4,2,1,0,0,6,2000 Fall Tour,2000 Fall,Wilson,,1,Allstate Arena,Rosemont,IL,USA,>
 2000-09-22,2000,0,5,1,1,0,0,19,2000 Fall Tour,2000 Fall,Slave to the Traffic Light,Slave,1,Allstate Arena,Rosemont,IL,USA,","
-2000-09-22,2000,0,6,2,1,0,0,18,2000 Fall Tour,2000 Fall,Dogs Stole Things,Dogs Stole Things,1,Allstate Arena,Rosemont,IL,USA,>
+2000-09-22,2000,0,6,2,1,0,0,18,2000 Fall Tour,2000 Fall,Dogs Stole Things,,1,Allstate Arena,Rosemont,IL,USA,>
 2000-09-22,2000,0,7,1,1,0,0,3,2000 Fall Tour,2000 Fall,Bathtub Gin,Gin,1,Allstate Arena,Rosemont,IL,USA,","
-2000-09-22,2000,0,8,1,1,0,0,6,2000 Fall Tour,2000 Fall,Heavy Things,Heavy Things,1,Allstate Arena,Rosemont,IL,USA,","
+2000-09-22,2000,0,8,1,1,0,0,6,2000 Fall Tour,2000 Fall,Heavy Things,,1,Allstate Arena,Rosemont,IL,USA,","
 2000-09-22,2000,0,9,4,1,0,0,7,2000 Fall Tour,2000 Fall,You Enjoy Myself,YEM,1,Allstate Arena,Rosemont,IL,USA,
-2000-09-22,2000,0,10,2,2,0,0,4,2000 Fall Tour,2000 Fall,Tube,Tube,1,Allstate Arena,Rosemont,IL,USA,>
-2000-09-22,2000,0,11,1,2,0,0,5,2000 Fall Tour,2000 Fall,Reba,Reba,1,Allstate Arena,Rosemont,IL,USA,","
-2000-09-22,2000,0,12,2,2,0,0,9,2000 Fall Tour,2000 Fall,Ghost,Ghost,1,Allstate Arena,Rosemont,IL,USA,>
+2000-09-22,2000,0,10,2,2,0,0,4,2000 Fall Tour,2000 Fall,Tube,,1,Allstate Arena,Rosemont,IL,USA,>
+2000-09-22,2000,0,11,1,2,0,0,5,2000 Fall Tour,2000 Fall,Reba,,1,Allstate Arena,Rosemont,IL,USA,","
+2000-09-22,2000,0,12,2,2,0,0,9,2000 Fall Tour,2000 Fall,Ghost,,1,Allstate Arena,Rosemont,IL,USA,>
 2000-09-22,2000,0,13,1,2,0,0,52,2000 Fall Tour,2000 Fall,The Wedge,Wedge,1,Allstate Arena,Rosemont,IL,USA,","
 2000-09-22,2000,0,14,1,2,0,0,4,2000 Fall Tour,2000 Fall,When the Circus Comes,Circus,0,Allstate Arena,Rosemont,IL,USA,","
-2000-09-22,2000,0,15,1,2,0,0,13,2000 Fall Tour,2000 Fall,Meatstick,Meatstick,1,Allstate Arena,Rosemont,IL,USA,","
+2000-09-22,2000,0,15,1,2,0,0,13,2000 Fall Tour,2000 Fall,Meatstick,,1,Allstate Arena,Rosemont,IL,USA,","
 2000-09-22,2000,0,16,5,2,0,0,4,2000 Fall Tour,2000 Fall,Run Like an Antelope,Antelope,1,Allstate Arena,Rosemont,IL,USA,
-2000-09-22,2000,0,17,6,e,0,0,25,2000 Fall Tour,2000 Fall,Bold As Love,Bold As Love,0,Allstate Arena,Rosemont,IL,USA,
-2000-09-23,2000,0,1,2,1,0,0,1346,2000 Fall Tour,2000 Fall,Come on Baby Let's Go Downtown,Come on Baby Let's Go Downtown,0,Allstate Arena,Rosemont,IL,USA,>
+2000-09-22,2000,0,17,6,e,0,0,25,2000 Fall Tour,2000 Fall,Bold As Love,,0,Allstate Arena,Rosemont,IL,USA,
+2000-09-23,2000,0,1,2,1,0,0,1346,2000 Fall Tour,2000 Fall,Come on Baby Let's Go Downtown,,0,Allstate Arena,Rosemont,IL,USA,>
 2000-09-23,2000,0,2,1,1,0,0,4,2000 Fall Tour,2000 Fall,The Moma Dance,Moma,1,Allstate Arena,Rosemont,IL,USA,","
-2000-09-23,2000,0,3,1,1,0,0,18,2000 Fall Tour,2000 Fall,Frankenstein,Frankenstein,0,Allstate Arena,Rosemont,IL,USA,","
+2000-09-23,2000,0,3,1,1,0,0,18,2000 Fall Tour,2000 Fall,Frankenstein,,0,Allstate Arena,Rosemont,IL,USA,","
 2000-09-23,2000,0,4,2,1,0,0,3,2000 Fall Tour,2000 Fall,Halley's Comet,Halley's,1,Allstate Arena,Rosemont,IL,USA,>
-2000-09-23,2000,0,5,2,1,0,0,16,2000 Fall Tour,2000 Fall,Fee,Fee,1,Allstate Arena,Rosemont,IL,USA,>
-2000-09-23,2000,0,6,4,1,0,0,8,2000 Fall Tour,2000 Fall,Stash,Stash,1,Allstate Arena,Rosemont,IL,USA,
+2000-09-23,2000,0,5,2,1,0,0,16,2000 Fall Tour,2000 Fall,Fee,,1,Allstate Arena,Rosemont,IL,USA,>
+2000-09-23,2000,0,6,4,1,0,0,8,2000 Fall Tour,2000 Fall,Stash,,1,Allstate Arena,Rosemont,IL,USA,
 2000-09-23,2000,0,7,1,2,0,0,5,2000 Fall Tour,2000 Fall,Birds of a Feather,BOAF,1,Allstate Arena,Rosemont,IL,USA,","
-2000-09-23,2000,0,8,2,2,0,0,17,2000 Fall Tour,2000 Fall,Tweezer,Tweezer,1,Allstate Arena,Rosemont,IL,USA,>
-2000-09-23,2000,0,9,2,2,0,0,10,2000 Fall Tour,2000 Fall,NICU,NICU,1,Allstate Arena,Rosemont,IL,USA,>
+2000-09-23,2000,0,8,2,2,0,0,17,2000 Fall Tour,2000 Fall,Tweezer,,1,Allstate Arena,Rosemont,IL,USA,>
+2000-09-23,2000,0,9,2,2,0,0,10,2000 Fall Tour,2000 Fall,NICU,,1,Allstate Arena,Rosemont,IL,USA,>
 2000-09-23,2000,0,10,1,2,0,0,7,2000 Fall Tour,2000 Fall,Scent of a Mule,SOAMule,1,Allstate Arena,Rosemont,IL,USA,","
 2000-09-23,2000,0,11,1,2,0,0,26,2000 Fall Tour,2000 Fall,Fast Enough for You,FEFY,1,Allstate Arena,Rosemont,IL,USA,","
-2000-09-23,2000,0,12,2,2,0,0,5,2000 Fall Tour,2000 Fall,Piper,Piper,1,Allstate Arena,Rosemont,IL,USA,>
-2000-09-23,2000,0,13,5,2,0,0,5,2000 Fall Tour,2000 Fall,Character Zero,Character Zero,1,Allstate Arena,Rosemont,IL,USA,
-2000-09-23,2000,0,14,2,e,0,0,23,2000 Fall Tour,2000 Fall,Sleeping Monkey,Sleeping Monkey,1,Allstate Arena,Rosemont,IL,USA,>
+2000-09-23,2000,0,12,2,2,0,0,5,2000 Fall Tour,2000 Fall,Piper,,1,Allstate Arena,Rosemont,IL,USA,>
+2000-09-23,2000,0,13,5,2,0,0,5,2000 Fall Tour,2000 Fall,Character Zero,,1,Allstate Arena,Rosemont,IL,USA,
+2000-09-23,2000,0,14,2,e,0,0,23,2000 Fall Tour,2000 Fall,Sleeping Monkey,,1,Allstate Arena,Rosemont,IL,USA,>
 2000-09-23,2000,0,15,6,e,0,0,17,2000 Fall Tour,2000 Fall,Tweezer Reprise,Tweeprise,1,Allstate Arena,Rosemont,IL,USA,
-2000-09-24,2000,0,1,1,1,0,0,11,2000 Fall Tour,2000 Fall,Mellow Mood,Mellow Mood,0,Target Center,Minneapolis,MN,USA,","
+2000-09-24,2000,0,1,1,1,0,0,11,2000 Fall Tour,2000 Fall,Mellow Mood,,0,Target Center,Minneapolis,MN,USA,","
 2000-09-24,2000,0,2,1,1,0,0,5,2000 Fall Tour,2000 Fall,Chalk Dust Torture,CDT,1,Target Center,Minneapolis,MN,USA,","
-2000-09-24,2000,0,3,1,1,0,0,11,2000 Fall Tour,2000 Fall,Back at the Chicken Shack,Back at the Chicken Shack,0,Target Center,Minneapolis,MN,USA,","
-2000-09-24,2000,0,4,1,1,0,0,4,2000 Fall Tour,2000 Fall,Sparkle,Sparkle,1,Target Center,Minneapolis,MN,USA,","
+2000-09-24,2000,0,3,1,1,0,0,11,2000 Fall Tour,2000 Fall,Back at the Chicken Shack,,0,Target Center,Minneapolis,MN,USA,","
+2000-09-24,2000,0,4,1,1,0,0,4,2000 Fall Tour,2000 Fall,Sparkle,,1,Target Center,Minneapolis,MN,USA,","
 2000-09-24,2000,0,5,1,1,0,0,4,2000 Fall Tour,2000 Fall,The Sloth,Sloth,1,Target Center,Minneapolis,MN,USA,","
 2000-09-24,2000,0,6,1,1,0,0,8,2000 Fall Tour,2000 Fall,Divided Sky,Divided,1,Target Center,Minneapolis,MN,USA,","
-2000-09-24,2000,0,7,1,1,0,0,10,2000 Fall Tour,2000 Fall,Roggae,Roggae,1,Target Center,Minneapolis,MN,USA,","
-2000-09-24,2000,0,8,2,1,0,0,3,2000 Fall Tour,2000 Fall,First Tube,First Tube,0,Target Center,Minneapolis,MN,USA,>
+2000-09-24,2000,0,7,1,1,0,0,10,2000 Fall Tour,2000 Fall,Roggae,,1,Target Center,Minneapolis,MN,USA,","
+2000-09-24,2000,0,8,2,1,0,0,3,2000 Fall Tour,2000 Fall,First Tube,,0,Target Center,Minneapolis,MN,USA,>
 2000-09-24,2000,0,9,2,1,0,0,7,2000 Fall Tour,2000 Fall,Punch You in the Eye,PYITE,1,Target Center,Minneapolis,MN,USA,>
 2000-09-24,2000,0,10,4,1,0,0,4,2000 Fall Tour,2000 Fall,Sample in a Jar,Sample,1,Target Center,Minneapolis,MN,USA,
-2000-09-24,2000,0,11,2,2,0,0,25,2000 Fall Tour,2000 Fall,Cities,Cities,0,Target Center,Minneapolis,MN,USA,>
-2000-09-24,2000,0,12,2,2,0,0,5,2000 Fall Tour,2000 Fall,Free,Free,1,Target Center,Minneapolis,MN,USA,>
-2000-09-24,2000,0,13,1,2,0,0,9,2000 Fall Tour,2000 Fall,Ya Mar,Ya Mar,0,Target Center,Minneapolis,MN,USA,","
-2000-09-24,2000,0,14,1,2,0,0,4,2000 Fall Tour,2000 Fall,Carini,Carini,1,Target Center,Minneapolis,MN,USA,","
-2000-09-24,2000,0,15,1,2,0,0,5,2000 Fall Tour,2000 Fall,Lawn Boy,Lawn Boy,1,Target Center,Minneapolis,MN,USA,","
+2000-09-24,2000,0,11,2,2,0,0,25,2000 Fall Tour,2000 Fall,Cities,,0,Target Center,Minneapolis,MN,USA,>
+2000-09-24,2000,0,12,2,2,0,0,5,2000 Fall Tour,2000 Fall,Free,,1,Target Center,Minneapolis,MN,USA,>
+2000-09-24,2000,0,13,1,2,0,0,9,2000 Fall Tour,2000 Fall,Ya Mar,,0,Target Center,Minneapolis,MN,USA,","
+2000-09-24,2000,0,14,1,2,0,0,4,2000 Fall Tour,2000 Fall,Carini,,1,Target Center,Minneapolis,MN,USA,","
+2000-09-24,2000,0,15,1,2,0,0,5,2000 Fall Tour,2000 Fall,Lawn Boy,,1,Target Center,Minneapolis,MN,USA,","
 2000-09-24,2000,0,16,2,2,0,0,8,2000 Fall Tour,2000 Fall,Hold Your Head Up,HYHU,0,Target Center,Minneapolis,MN,USA,>
-2000-09-24,2000,0,17,2,2,0,0,45,2000 Fall Tour,2000 Fall,Love You,Love You,0,Target Center,Minneapolis,MN,USA,>
+2000-09-24,2000,0,17,2,2,0,0,45,2000 Fall Tour,2000 Fall,Love You,,0,Target Center,Minneapolis,MN,USA,>
 2000-09-24,2000,0,18,1,2,0,0,0,2000 Fall Tour,2000 Fall,Hold Your Head Up,HYHU,0,Target Center,Minneapolis,MN,USA,","
-2000-09-24,2000,0,19,3,2,0,0,132,2000 Fall Tour,2000 Fall,Cool It Down,Cool It Down,0,Target Center,Minneapolis,MN,USA,->
+2000-09-24,2000,0,19,3,2,0,0,132,2000 Fall Tour,2000 Fall,Cool It Down,,0,Target Center,Minneapolis,MN,USA,->
 2000-09-24,2000,0,20,5,2,0,0,11,2000 Fall Tour,2000 Fall,David Bowie,Bowie,1,Target Center,Minneapolis,MN,USA,
-2000-09-24,2000,0,21,6,e,0,0,11,2000 Fall Tour,2000 Fall,Fire,Fire,0,Target Center,Minneapolis,MN,USA,
-2000-09-25,2000,0,1,1,1,0,0,437,2000 Fall Tour,2000 Fall,Everybody's Got Something to Hide Except Me and My Monkey,Everybody's Got Something to Hide Except Me and My Monkey,0,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
+2000-09-24,2000,0,21,6,e,0,0,11,2000 Fall Tour,2000 Fall,Fire,,0,Target Center,Minneapolis,MN,USA,
+2000-09-25,2000,0,1,1,1,0,0,437,2000 Fall Tour,2000 Fall,Everybody's Got Something to Hide Except Me and My Monkey,,0,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
 2000-09-25,2000,0,2,2,1,0,0,3,2000 Fall Tour,2000 Fall,Down with Disease,DwD,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,>
 2000-09-25,2000,0,3,1,1,0,0,7,2000 Fall Tour,2000 Fall,The Lizards,Lizards,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
-2000-09-25,2000,0,4,1,1,0,0,2,2000 Fall Tour,2000 Fall,Tweezer,Tweezer,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
+2000-09-25,2000,0,4,1,1,0,0,2,2000 Fall Tour,2000 Fall,Tweezer,,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
 2000-09-25,2000,0,5,1,1,0,0,6,2000 Fall Tour,2000 Fall,Back on the Train,BOTT,0,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
-2000-09-25,2000,0,6,1,1,0,0,28,2000 Fall Tour,2000 Fall,Water in the Sky,Water in the Sky,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
-2000-09-25,2000,0,7,1,1,0,0,14,2000 Fall Tour,2000 Fall,Bug,Bug,0,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
-2000-09-25,2000,0,8,4,1,0,0,14,2000 Fall Tour,2000 Fall,Julius,Julius,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,
+2000-09-25,2000,0,6,1,1,0,0,28,2000 Fall Tour,2000 Fall,Water in the Sky,,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
+2000-09-25,2000,0,7,1,1,0,0,14,2000 Fall Tour,2000 Fall,Bug,,0,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
+2000-09-25,2000,0,8,4,1,0,0,14,2000 Fall Tour,2000 Fall,Julius,,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,
 2000-09-25,2000,0,9,2,2,0,0,4,2000 Fall Tour,2000 Fall,Gotta Jibboo,Jibboo,0,Sandstone Amphitheatre,Bonner Springs,KS,USA,>
 2000-09-25,2000,0,10,2,2,0,0,4,2000 Fall Tour,2000 Fall,Mike's Song,Mike's,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,>
 2000-09-25,2000,0,11,2,2,0,0,9,2000 Fall Tour,2000 Fall,I Am Hydrogen,Hydrogen,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,>
 2000-09-25,2000,0,12,1,2,0,0,4,2000 Fall Tour,2000 Fall,Weekapaug Groove,Weekapaug,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
-2000-09-25,2000,0,13,2,2,0,0,5,2000 Fall Tour,2000 Fall,Axilla,Axilla,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,>
+2000-09-25,2000,0,13,2,2,0,0,5,2000 Fall Tour,2000 Fall,Axilla,,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,>
 2000-09-25,2000,0,14,2,2,0,0,11,2000 Fall Tour,2000 Fall,Harry Hood,Hood,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,>
-2000-09-25,2000,0,15,5,2,0,0,11,2000 Fall Tour,2000 Fall,Funky Bitch,Funky Bitch,0,Sandstone Amphitheatre,Bonner Springs,KS,USA,
+2000-09-25,2000,0,15,5,2,0,0,11,2000 Fall Tour,2000 Fall,Funky Bitch,,0,Sandstone Amphitheatre,Bonner Springs,KS,USA,
 2000-09-25,2000,0,16,2,e,0,0,5,2000 Fall Tour,2000 Fall,Boogie On Reggae Woman,Boogie On,0,Sandstone Amphitheatre,Bonner Springs,KS,USA,>
-2000-09-25,2000,0,17,2,e,0,0,8,2000 Fall Tour,2000 Fall,Driver,Driver,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,>
+2000-09-25,2000,0,17,2,e,0,0,8,2000 Fall Tour,2000 Fall,Driver,,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,>
 2000-09-25,2000,0,18,6,e,0,0,2,2000 Fall Tour,2000 Fall,Tweezer Reprise,Tweeprise,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,
 2000-09-27,2000,0,1,1,1,0,0,2,2000 Fall Tour,2000 Fall,Sample in a Jar,Sample,1,Fiddler's Green,Englewood,CO,USA,","
 2000-09-27,2000,0,2,1,1,0,0,12,2000 Fall Tour,2000 Fall,"My Friend, My Friend",My Friend,1,Fiddler's Green,Englewood,CO,USA,","
-2000-09-27,2000,0,3,2,1,0,0,11,2000 Fall Tour,2000 Fall,Beauty of My Dreams,Beauty of My Dreams,0,Fiddler's Green,Englewood,CO,USA,>
-2000-09-27,2000,0,4,1,1,0,0,10,2000 Fall Tour,2000 Fall,My Soul,My Soul,0,Fiddler's Green,Englewood,CO,USA,","
+2000-09-27,2000,0,3,2,1,0,0,11,2000 Fall Tour,2000 Fall,Beauty of My Dreams,,0,Fiddler's Green,Englewood,CO,USA,>
+2000-09-27,2000,0,4,1,1,0,0,10,2000 Fall Tour,2000 Fall,My Soul,,0,Fiddler's Green,Englewood,CO,USA,","
 2000-09-27,2000,0,5,1,1,0,0,5,2000 Fall Tour,2000 Fall,Limb By Limb,LxL,1,Fiddler's Green,Englewood,CO,USA,","
-2000-09-27,2000,0,6,1,1,0,0,5,2000 Fall Tour,2000 Fall,Dirt,Dirt,0,Fiddler's Green,Englewood,CO,USA,","
+2000-09-27,2000,0,6,1,1,0,0,5,2000 Fall Tour,2000 Fall,Dirt,,0,Fiddler's Green,Englewood,CO,USA,","
 2000-09-27,2000,0,7,1,1,0,0,10,2000 Fall Tour,2000 Fall,Split Open and Melt,SOAMelt,1,Fiddler's Green,Englewood,CO,USA,","
-2000-09-27,2000,0,8,1,1,0,0,11,2000 Fall Tour,2000 Fall,Horn,Horn,1,Fiddler's Green,Englewood,CO,USA,","
-2000-09-27,2000,0,9,1,1,0,0,6,2000 Fall Tour,2000 Fall,Taste,Taste,1,Fiddler's Green,Englewood,CO,USA,","
-2000-09-27,2000,0,10,4,1,0,0,5,2000 Fall Tour,2000 Fall,Cavern,Cavern,1,Fiddler's Green,Englewood,CO,USA,
-2000-09-27,2000,0,11,2,2,0,0,3,2000 Fall Tour,2000 Fall,Piper,Piper,1,Fiddler's Green,Englewood,CO,USA,>
-2000-09-27,2000,0,12,2,2,0,0,12,2000 Fall Tour,2000 Fall,Gumbo,Gumbo,1,Fiddler's Green,Englewood,CO,USA,>
-2000-09-27,2000,0,13,2,2,0,0,4,2000 Fall Tour,2000 Fall,Ghost,Ghost,1,Fiddler's Green,Englewood,CO,USA,>
+2000-09-27,2000,0,8,1,1,0,0,11,2000 Fall Tour,2000 Fall,Horn,,1,Fiddler's Green,Englewood,CO,USA,","
+2000-09-27,2000,0,9,1,1,0,0,6,2000 Fall Tour,2000 Fall,Taste,,1,Fiddler's Green,Englewood,CO,USA,","
+2000-09-27,2000,0,10,4,1,0,0,5,2000 Fall Tour,2000 Fall,Cavern,,1,Fiddler's Green,Englewood,CO,USA,
+2000-09-27,2000,0,11,2,2,0,0,3,2000 Fall Tour,2000 Fall,Piper,,1,Fiddler's Green,Englewood,CO,USA,>
+2000-09-27,2000,0,12,2,2,0,0,12,2000 Fall Tour,2000 Fall,Gumbo,,1,Fiddler's Green,Englewood,CO,USA,>
+2000-09-27,2000,0,13,2,2,0,0,4,2000 Fall Tour,2000 Fall,Ghost,,1,Fiddler's Green,Englewood,CO,USA,>
 2000-09-27,2000,0,14,1,2,0,0,7,2000 Fall Tour,2000 Fall,The Mango Song,Mango,1,Fiddler's Green,Englewood,CO,USA,","
-2000-09-27,2000,0,15,1,2,0,0,4,2000 Fall Tour,2000 Fall,Heavy Things,Heavy Things,1,Fiddler's Green,Englewood,CO,USA,","
-2000-09-27,2000,0,16,1,2,0,0,155,2000 Fall Tour,2000 Fall,Brother,Brother,1,Fiddler's Green,Englewood,CO,USA,","
+2000-09-27,2000,0,15,1,2,0,0,4,2000 Fall Tour,2000 Fall,Heavy Things,,1,Fiddler's Green,Englewood,CO,USA,","
+2000-09-27,2000,0,16,1,2,0,0,155,2000 Fall Tour,2000 Fall,Brother,,1,Fiddler's Green,Englewood,CO,USA,","
 2000-09-27,2000,0,17,5,2,0,0,4,2000 Fall Tour,2000 Fall,You Enjoy Myself,YEM,1,Fiddler's Green,Englewood,CO,USA,
-2000-09-27,2000,0,18,6,e,0,0,9,2000 Fall Tour,2000 Fall,Loving Cup,Loving Cup,0,Fiddler's Green,Englewood,CO,USA,
-2000-09-29,2000,0,1,1,1,0,0,3,2000 Fall Tour,2000 Fall,Carini,Carini,1,Thomas & Mack Center,Las Vegas,NV,USA,","
-2000-09-29,2000,0,2,1,1,0,0,7,2000 Fall Tour,2000 Fall,Rift,Rift,1,Thomas & Mack Center,Las Vegas,NV,USA,","
-2000-09-29,2000,0,3,1,1,0,0,4,2000 Fall Tour,2000 Fall,Frankenstein,Frankenstein,0,Thomas & Mack Center,Las Vegas,NV,USA,","
-2000-09-29,2000,0,4,1,1,0,0,3,2000 Fall Tour,2000 Fall,Mellow Mood,Mellow Mood,0,Thomas & Mack Center,Las Vegas,NV,USA,","
-2000-09-29,2000,0,5,2,1,0,0,5,2000 Fall Tour,2000 Fall,Wilson,Wilson,1,Thomas & Mack Center,Las Vegas,NV,USA,>
-2000-09-29,2000,0,6,2,1,0,0,393,2000 Fall Tour,2000 Fall,Spock's Brain,Spock's Brain,1,Thomas & Mack Center,Las Vegas,NV,USA,>
+2000-09-27,2000,0,18,6,e,0,0,9,2000 Fall Tour,2000 Fall,Loving Cup,,0,Fiddler's Green,Englewood,CO,USA,
+2000-09-29,2000,0,1,1,1,0,0,3,2000 Fall Tour,2000 Fall,Carini,,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+2000-09-29,2000,0,2,1,1,0,0,7,2000 Fall Tour,2000 Fall,Rift,,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+2000-09-29,2000,0,3,1,1,0,0,4,2000 Fall Tour,2000 Fall,Frankenstein,,0,Thomas & Mack Center,Las Vegas,NV,USA,","
+2000-09-29,2000,0,4,1,1,0,0,3,2000 Fall Tour,2000 Fall,Mellow Mood,,0,Thomas & Mack Center,Las Vegas,NV,USA,","
+2000-09-29,2000,0,5,2,1,0,0,5,2000 Fall Tour,2000 Fall,Wilson,,1,Thomas & Mack Center,Las Vegas,NV,USA,>
+2000-09-29,2000,0,6,2,1,0,0,393,2000 Fall Tour,2000 Fall,Spock's Brain,,1,Thomas & Mack Center,Las Vegas,NV,USA,>
 2000-09-29,2000,0,7,2,1,0,0,5,2000 Fall Tour,2000 Fall,Bathtub Gin,Gin,1,Thomas & Mack Center,Las Vegas,NV,USA,>
-2000-09-29,2000,0,8,4,1,0,0,4,2000 Fall Tour,2000 Fall,Character Zero,Character Zero,1,Thomas & Mack Center,Las Vegas,NV,USA,
-2000-09-29,2000,0,9,1,2,0,0,244,2000 Fall Tour,2000 Fall,Dinner and a Movie,Dinner and a Movie,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+2000-09-29,2000,0,8,4,1,0,0,4,2000 Fall Tour,2000 Fall,Character Zero,,1,Thomas & Mack Center,Las Vegas,NV,USA,
+2000-09-29,2000,0,9,1,2,0,0,244,2000 Fall Tour,2000 Fall,Dinner and a Movie,,1,Thomas & Mack Center,Las Vegas,NV,USA,","
 2000-09-29,2000,0,10,2,2,0,0,4,2000 Fall Tour,2000 Fall,The Moma Dance,Moma,1,Thomas & Mack Center,Las Vegas,NV,USA,>
 2000-09-29,2000,0,11,2,2,0,0,11,2000 Fall Tour,2000 Fall,Also Sprach Zarathustra,2001,0,Thomas & Mack Center,Las Vegas,NV,USA,>
-2000-09-29,2000,0,12,2,2,0,0,8,2000 Fall Tour,2000 Fall,Fluffhead,Fluffhead,1,Thomas & Mack Center,Las Vegas,NV,USA,>
-2000-09-29,2000,0,13,2,2,0,0,5,2000 Fall Tour,2000 Fall,Meatstick,Meatstick,1,Thomas & Mack Center,Las Vegas,NV,USA,>
-2000-09-29,2000,0,14,1,2,0,0,1350,2000 Fall Tour,2000 Fall,Walk This Way,Walk This Way,0,Thomas & Mack Center,Las Vegas,NV,USA,","
-2000-09-29,2000,0,15,1,2,0,0,1350,2000 Fall Tour,2000 Fall,Rapper's Delight,Rapper's Delight,0,Thomas & Mack Center,Las Vegas,NV,USA,","
-2000-09-29,2000,0,16,5,2,0,0,1122,2000 Fall Tour,2000 Fall,You Shook Me All Night Long,You Shook Me All Night Long,0,Thomas & Mack Center,Las Vegas,NV,USA,
-2000-09-29,2000,0,17,6,e,0,0,273,2000 Fall Tour,2000 Fall,We're an American Band,We're an American Band,0,Thomas & Mack Center,Las Vegas,NV,USA,
-2000-09-30,2000,0,1,1,1,0,0,250,2000 Fall Tour,2000 Fall,Walfredo,Walfredo,1,Thomas & Mack Center,Las Vegas,NV,USA,","
-2000-09-30,2000,0,1,1,1,0,0,1,Not Part of a Tour,No Tour,Thela Hun Ginjeet,Thela Hun Ginjeet,1,House of Blues,Las Vegas,NV,USA,","
-2000-09-30,2000,0,2,3,1,0,0,0,Not Part of a Tour,No Tour,Shattering Song,Shattering Song,1,House of Blues,Las Vegas,NV,USA,->
+2000-09-29,2000,0,12,2,2,0,0,8,2000 Fall Tour,2000 Fall,Fluffhead,,1,Thomas & Mack Center,Las Vegas,NV,USA,>
+2000-09-29,2000,0,13,2,2,0,0,5,2000 Fall Tour,2000 Fall,Meatstick,,1,Thomas & Mack Center,Las Vegas,NV,USA,>
+2000-09-29,2000,0,14,1,2,0,0,1350,2000 Fall Tour,2000 Fall,Walk This Way,,0,Thomas & Mack Center,Las Vegas,NV,USA,","
+2000-09-29,2000,0,15,1,2,0,0,1350,2000 Fall Tour,2000 Fall,Rapper's Delight,,0,Thomas & Mack Center,Las Vegas,NV,USA,","
+2000-09-29,2000,0,16,5,2,0,0,1122,2000 Fall Tour,2000 Fall,You Shook Me All Night Long,,0,Thomas & Mack Center,Las Vegas,NV,USA,
+2000-09-29,2000,0,17,6,e,0,0,273,2000 Fall Tour,2000 Fall,We're an American Band,,0,Thomas & Mack Center,Las Vegas,NV,USA,
+2000-09-30,2000,0,1,1,1,0,0,250,2000 Fall Tour,2000 Fall,Walfredo,,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+2000-09-30,2000,0,1,1,1,0,0,1,Not Part of a Tour,No Tour,Thela Hun Ginjeet,,1,House of Blues,Las Vegas,NV,USA,","
+2000-09-30,2000,0,2,3,1,0,0,0,Not Part of a Tour,No Tour,Shattering Song,,1,House of Blues,Las Vegas,NV,USA,->
 2000-09-30,2000,0,2,1,1,0,0,9,2000 Fall Tour,2000 Fall,The Curtain With,Curtain With,1,Thomas & Mack Center,Las Vegas,NV,USA,","
-2000-09-30,2000,0,3,1,1,0,0,8,2000 Fall Tour,2000 Fall,Maze,Maze,1,Thomas & Mack Center,Las Vegas,NV,USA,","
-2000-09-30,2000,0,3,3,1,0,0,0,Not Part of a Tour,No Tour,Riders on the Storm,Riders on the Storm,1,House of Blues,Las Vegas,NV,USA,->
-2000-09-30,2000,0,4,1,1,0,0,0,Not Part of a Tour,No Tour,Shattering Song,Shattering Song,1,House of Blues,Las Vegas,NV,USA,","
-2000-09-30,2000,0,4,1,1,0,0,4,2000 Fall Tour,2000 Fall,Roggae,Roggae,1,Thomas & Mack Center,Las Vegas,NV,USA,","
-2000-09-30,2000,0,5,1,1,0,0,0,Not Part of a Tour,No Tour,Hendershot,Hendershot,1,House of Blues,Las Vegas,NV,USA,","
+2000-09-30,2000,0,3,1,1,0,0,8,2000 Fall Tour,2000 Fall,Maze,,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+2000-09-30,2000,0,3,3,1,0,0,0,Not Part of a Tour,No Tour,Riders on the Storm,,1,House of Blues,Las Vegas,NV,USA,->
+2000-09-30,2000,0,4,1,1,0,0,0,Not Part of a Tour,No Tour,Shattering Song,,1,House of Blues,Las Vegas,NV,USA,","
+2000-09-30,2000,0,4,1,1,0,0,4,2000 Fall Tour,2000 Fall,Roggae,,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+2000-09-30,2000,0,5,1,1,0,0,0,Not Part of a Tour,No Tour,Hendershot,,1,House of Blues,Las Vegas,NV,USA,","
 2000-09-30,2000,0,5,1,1,0,0,24,2000 Fall Tour,2000 Fall,I Didn't Know,IDK,1,Thomas & Mack Center,Las Vegas,NV,USA,","
 2000-09-30,2000,0,6,2,1,0,0,3,2000 Fall Tour,2000 Fall,Mike's Song,Mike's,1,Thomas & Mack Center,Las Vegas,NV,USA,>
-2000-09-30,2000,0,6,1,1,0,0,0,Not Part of a Tour,No Tour,Shine On You Crazy Diamond,Shine On You Crazy Diamond,1,House of Blues,Las Vegas,NV,USA,","
-2000-09-30,2000,0,7,2,1,0,0,7,2000 Fall Tour,2000 Fall,Simple,Simple,1,Thomas & Mack Center,Las Vegas,NV,USA,>
-2000-09-30,2000,0,7,3,1,0,0,0,Not Part of a Tour,No Tour,Riddles,Riddles,1,House of Blues,Las Vegas,NV,USA,->
-2000-09-30,2000,0,8,1,1,0,0,15,2000 Fall Tour,2000 Fall,Saw It Again,Saw It Again,1,Thomas & Mack Center,Las Vegas,NV,USA,","
-2000-09-30,2000,0,8,3,1,0,0,0,Not Part of a Tour,No Tour,Jerry Was a Race Car Driver,Jerry Was a Race Car Driver,1,House of Blues,Las Vegas,NV,USA,->
-2000-09-30,2000,0,9,2,1,0,0,148,2000 Fall Tour,2000 Fall,Esther,Esther,1,Thomas & Mack Center,Las Vegas,NV,USA,>
-2000-09-30,2000,0,9,3,1,0,0,0,Not Part of a Tour,No Tour,Wynona's Big Brown Beaver,Wynona's Big Brown Beaver,1,House of Blues,Las Vegas,NV,USA,->
+2000-09-30,2000,0,6,1,1,0,0,0,Not Part of a Tour,No Tour,Shine On You Crazy Diamond,,1,House of Blues,Las Vegas,NV,USA,","
+2000-09-30,2000,0,7,2,1,0,0,7,2000 Fall Tour,2000 Fall,Simple,,1,Thomas & Mack Center,Las Vegas,NV,USA,>
+2000-09-30,2000,0,7,3,1,0,0,0,Not Part of a Tour,No Tour,Riddles,,1,House of Blues,Las Vegas,NV,USA,->
+2000-09-30,2000,0,8,1,1,0,0,15,2000 Fall Tour,2000 Fall,Saw It Again,,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+2000-09-30,2000,0,8,3,1,0,0,0,Not Part of a Tour,No Tour,Jerry Was a Race Car Driver,,1,House of Blues,Las Vegas,NV,USA,->
+2000-09-30,2000,0,9,2,1,0,0,148,2000 Fall Tour,2000 Fall,Esther,,1,Thomas & Mack Center,Las Vegas,NV,USA,>
+2000-09-30,2000,0,9,3,1,0,0,0,Not Part of a Tour,No Tour,Wynona's Big Brown Beaver,,1,House of Blues,Las Vegas,NV,USA,->
 2000-09-30,2000,0,10,4,1,0,0,3,2000 Fall Tour,2000 Fall,Weekapaug Groove,Weekapaug,1,Thomas & Mack Center,Las Vegas,NV,USA,
-2000-09-30,2000,0,10,4,1,0,0,0,Not Part of a Tour,No Tour,Riddles,Riddles,1,House of Blues,Las Vegas,NV,USA,
+2000-09-30,2000,0,10,4,1,0,0,0,Not Part of a Tour,No Tour,Riddles,,1,House of Blues,Las Vegas,NV,USA,
 2000-09-30,2000,0,11,1,2,0,0,18,2000 Fall Tour,2000 Fall,Timber (Jerry the Mule),Timber Ho,0,Thomas & Mack Center,Las Vegas,NV,USA,","
-2000-09-30,2000,0,11,1,2,0,0,0,Not Part of a Tour,No Tour,Pigs on the Wing (Part I),Pigs on the Wing (Part I),1,House of Blues,Las Vegas,NV,USA,","
+2000-09-30,2000,0,11,1,2,0,0,0,Not Part of a Tour,No Tour,Pigs on the Wing (Part I),,1,House of Blues,Las Vegas,NV,USA,","
 2000-09-30,2000,0,12,1,2,0,0,17,2000 Fall Tour,2000 Fall,AC/DC Bag,Bag,1,Thomas & Mack Center,Las Vegas,NV,USA,","
-2000-09-30,2000,0,12,1,2,0,0,0,Not Part of a Tour,No Tour,Dogs,Dogs,1,House of Blues,Las Vegas,NV,USA,","
+2000-09-30,2000,0,12,1,2,0,0,0,Not Part of a Tour,No Tour,Dogs,,1,House of Blues,Las Vegas,NV,USA,","
 2000-09-30,2000,0,13,2,2,0,0,150,2000 Fall Tour,2000 Fall,Colonel Forbin's Ascent,Forbin's,1,Thomas & Mack Center,Las Vegas,NV,USA,>
-2000-09-30,2000,0,13,1,2,0,0,0,Not Part of a Tour,No Tour,Pigs (Three Different Ones),Pigs (Three Different Ones),1,House of Blues,Las Vegas,NV,USA,","
+2000-09-30,2000,0,13,1,2,0,0,0,Not Part of a Tour,No Tour,Pigs (Three Different Ones),,1,House of Blues,Las Vegas,NV,USA,","
 2000-09-30,2000,0,14,1,2,0,0,150,2000 Fall Tour,2000 Fall,Fly Famous Mockingbird,Mockingbird,1,Thomas & Mack Center,Las Vegas,NV,USA,","
-2000-09-30,2000,0,14,1,2,0,0,0,Not Part of a Tour,No Tour,Sheep,Sheep,1,House of Blues,Las Vegas,NV,USA,","
-2000-09-30,2000,0,15,2,2,0,0,8,2000 Fall Tour,2000 Fall,Twist,Twist,1,Thomas & Mack Center,Las Vegas,NV,USA,>
-2000-09-30,2000,0,15,5,2,0,0,0,Not Part of a Tour,No Tour,Pigs on the Wing (Part II),Pigs on the Wing (Part II),1,House of Blues,Las Vegas,NV,USA,
-2000-09-30,2000,0,16,2,2,0,0,7,2000 Fall Tour,2000 Fall,Sand,Sand,0,Thomas & Mack Center,Las Vegas,NV,USA,>
-2000-09-30,2000,0,16,3,e,0,0,1349,Not Part of a Tour,No Tour,Owner of the World,Owner of the World,0,House of Blues,Las Vegas,NV,USA,->
+2000-09-30,2000,0,14,1,2,0,0,0,Not Part of a Tour,No Tour,Sheep,,1,House of Blues,Las Vegas,NV,USA,","
+2000-09-30,2000,0,15,2,2,0,0,8,2000 Fall Tour,2000 Fall,Twist,,1,Thomas & Mack Center,Las Vegas,NV,USA,>
+2000-09-30,2000,0,15,5,2,0,0,0,Not Part of a Tour,No Tour,Pigs on the Wing (Part II),,1,House of Blues,Las Vegas,NV,USA,
+2000-09-30,2000,0,16,2,2,0,0,7,2000 Fall Tour,2000 Fall,Sand,,0,Thomas & Mack Center,Las Vegas,NV,USA,>
+2000-09-30,2000,0,16,3,e,0,0,1349,Not Part of a Tour,No Tour,Owner of the World,,0,House of Blues,Las Vegas,NV,USA,->
 2000-09-30,2000,0,17,5,2,0,0,172,2000 Fall Tour,2000 Fall,A Day in the Life,ADITL,0,Thomas & Mack Center,Las Vegas,NV,USA,
-2000-09-30,2000,0,17,3,e,0,0,1349,Not Part of a Tour,No Tour,Smoke on the Water,Smoke on the Water,0,House of Blues,Las Vegas,NV,USA,->
-2000-09-30,2000,0,18,6,e,0,0,157,2000 Fall Tour,2000 Fall,Emotional Rescue,Emotional Rescue,0,Thomas & Mack Center,Las Vegas,NV,USA,
-2000-09-30,2000,0,18,1,e,0,0,0,Not Part of a Tour,No Tour,Owner of the World,Owner of the World,0,House of Blues,Las Vegas,NV,USA,","
-2000-09-30,2000,0,19,6,e,0,0,1349,Not Part of a Tour,No Tour,Tomorrow Never Knows,Tomorrow Never Knows,0,House of Blues,Las Vegas,NV,USA,
-2000-10-01,2000,0,1,2,1,0,0,5,2000 Fall Tour,2000 Fall,First Tube,First Tube,0,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,>
+2000-09-30,2000,0,17,3,e,0,0,1349,Not Part of a Tour,No Tour,Smoke on the Water,,0,House of Blues,Las Vegas,NV,USA,->
+2000-09-30,2000,0,18,6,e,0,0,157,2000 Fall Tour,2000 Fall,Emotional Rescue,,0,Thomas & Mack Center,Las Vegas,NV,USA,
+2000-09-30,2000,0,18,1,e,0,0,0,Not Part of a Tour,No Tour,Owner of the World,,0,House of Blues,Las Vegas,NV,USA,","
+2000-09-30,2000,0,19,6,e,0,0,1349,Not Part of a Tour,No Tour,Tomorrow Never Knows,,0,House of Blues,Las Vegas,NV,USA,
+2000-10-01,2000,0,1,2,1,0,0,5,2000 Fall Tour,2000 Fall,First Tube,,0,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,>
 2000-10-01,2000,0,2,1,1,0,0,8,2000 Fall Tour,2000 Fall,Wolfman's Brother,Wolfman's,1,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,","
 2000-10-01,2000,0,3,1,1,0,0,4,2000 Fall Tour,2000 Fall,Back on the Train,BOTT,0,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,","
-2000-10-01,2000,0,4,1,1,0,0,3,2000 Fall Tour,2000 Fall,Beauty of My Dreams,Beauty of My Dreams,0,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,","
-2000-10-01,2000,0,5,1,1,0,0,14,2000 Fall Tour,2000 Fall,Vultures,Vultures,1,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,","
-2000-10-01,2000,0,6,1,1,0,0,12,2000 Fall Tour,2000 Fall,The Inlaw Josie Wales,The Inlaw Josie Wales,0,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,","
-2000-10-01,2000,0,7,1,1,0,0,20,2000 Fall Tour,2000 Fall,Billy Breathes,Billy Breathes,1,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,","
-2000-10-01,2000,0,8,1,1,0,0,23,2000 Fall Tour,2000 Fall,Llama,Llama,1,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,","
-2000-10-01,2000,0,9,1,1,0,0,5,2000 Fall Tour,2000 Fall,Lawn Boy,Lawn Boy,1,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,","
-2000-10-01,2000,0,10,4,1,0,0,21,2000 Fall Tour,2000 Fall,Runaway Jim,Runaway Jim,1,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,
+2000-10-01,2000,0,4,1,1,0,0,3,2000 Fall Tour,2000 Fall,Beauty of My Dreams,,0,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,","
+2000-10-01,2000,0,5,1,1,0,0,14,2000 Fall Tour,2000 Fall,Vultures,,1,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,","
+2000-10-01,2000,0,6,1,1,0,0,12,2000 Fall Tour,2000 Fall,The Inlaw Josie Wales,,0,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,","
+2000-10-01,2000,0,7,1,1,0,0,20,2000 Fall Tour,2000 Fall,Billy Breathes,,1,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,","
+2000-10-01,2000,0,8,1,1,0,0,23,2000 Fall Tour,2000 Fall,Llama,,1,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,","
+2000-10-01,2000,0,9,1,1,0,0,5,2000 Fall Tour,2000 Fall,Lawn Boy,,1,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,","
+2000-10-01,2000,0,10,4,1,0,0,21,2000 Fall Tour,2000 Fall,Runaway Jim,,1,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,
 2000-10-01,2000,0,11,2,2,0,0,18,2000 Fall Tour,2000 Fall,Roses Are Free,Roses,0,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,>
-2000-10-01,2000,0,12,3,2,0,0,3,2000 Fall Tour,2000 Fall,Piper,Piper,1,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,->
-2000-10-01,2000,0,13,3,2,0,0,1356,2000 Fall Tour,2000 Fall,Guy Forget,Guy Forget,1,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,->
+2000-10-01,2000,0,12,3,2,0,0,3,2000 Fall Tour,2000 Fall,Piper,,1,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,->
+2000-10-01,2000,0,13,3,2,0,0,1356,2000 Fall Tour,2000 Fall,Guy Forget,,1,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,->
 2000-10-01,2000,0,14,2,2,0,0,7,2000 Fall Tour,2000 Fall,When the Circus Comes,Circus,0,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,>
-2000-10-01,2000,0,15,1,2,0,0,54,2000 Fall Tour,2000 Fall,Camel Walk,Camel Walk,1,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,","
-2000-10-01,2000,0,16,1,2,0,0,4,2000 Fall Tour,2000 Fall,Driver,Driver,1,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,","
+2000-10-01,2000,0,15,1,2,0,0,54,2000 Fall Tour,2000 Fall,Camel Walk,,1,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,","
+2000-10-01,2000,0,16,1,2,0,0,4,2000 Fall Tour,2000 Fall,Driver,,1,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,","
 2000-10-01,2000,0,17,5,2,0,0,5,2000 Fall Tour,2000 Fall,David Bowie,Bowie,1,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,
-2000-10-01,2000,0,18,6,e,0,0,19,2000 Fall Tour,2000 Fall,Waste,Waste,1,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,
-2000-10-03,2000,1,1,6,1,0,0,0,Not Part of a Tour,No Tour,Twist,Twist,1,NBC Studios,Burbank,CA,USA,
+2000-10-01,2000,0,18,6,e,0,0,19,2000 Fall Tour,2000 Fall,Waste,,1,Blockbuster Desert Sky Pavilion,Phoenix,AZ,USA,
+2000-10-03,2000,1,1,6,1,0,0,0,Not Part of a Tour,No Tour,Twist,,1,NBC Studios,Burbank,CA,USA,
 2000-10-04,2000,0,1,2,1,0,0,3,2000 Fall Tour,2000 Fall,The Moma Dance,Moma,1,Coors Amphitheatre,Chula Vista,CA,USA,>
-2000-10-04,2000,0,2,2,1,0,0,9,2000 Fall Tour,2000 Fall,It's Ice,It's Ice,1,Coors Amphitheatre,Chula Vista,CA,USA,>
+2000-10-04,2000,0,2,2,1,0,0,9,2000 Fall Tour,2000 Fall,It's Ice,,1,Coors Amphitheatre,Chula Vista,CA,USA,>
 2000-10-04,2000,0,3,2,1,0,0,17,2000 Fall Tour,2000 Fall,Bouncing Around the Room,Bouncin',1,Coors Amphitheatre,Chula Vista,CA,USA,>
-2000-10-04,2000,0,4,1,1,0,0,5,2000 Fall Tour,2000 Fall,Funky Bitch,Funky Bitch,0,Coors Amphitheatre,Chula Vista,CA,USA,","
-2000-10-04,2000,0,5,1,1,0,0,8,2000 Fall Tour,2000 Fall,Reba,Reba,1,Coors Amphitheatre,Chula Vista,CA,USA,","
-2000-10-04,2000,0,6,1,1,0,0,13,2000 Fall Tour,2000 Fall,Dog Faced Boy,Dog Faced Boy,1,Coors Amphitheatre,Chula Vista,CA,USA,","
+2000-10-04,2000,0,4,1,1,0,0,5,2000 Fall Tour,2000 Fall,Funky Bitch,,0,Coors Amphitheatre,Chula Vista,CA,USA,","
+2000-10-04,2000,0,5,1,1,0,0,8,2000 Fall Tour,2000 Fall,Reba,,1,Coors Amphitheatre,Chula Vista,CA,USA,","
+2000-10-04,2000,0,6,1,1,0,0,13,2000 Fall Tour,2000 Fall,Dog Faced Boy,,1,Coors Amphitheatre,Chula Vista,CA,USA,","
 2000-10-04,2000,0,7,4,1,0,0,8,2000 Fall Tour,2000 Fall,Run Like an Antelope,Antelope,1,Coors Amphitheatre,Chula Vista,CA,USA,
 2000-10-04,2000,0,8,2,2,0,0,11,2000 Fall Tour,2000 Fall,Rock and Roll,R&amp;R,0,Coors Amphitheatre,Chula Vista,CA,USA,>
 2000-10-04,2000,0,9,2,2,0,0,3,2000 Fall Tour,2000 Fall,Also Sprach Zarathustra,2001,0,Coors Amphitheatre,Chula Vista,CA,USA,>
 2000-10-04,2000,0,10,1,2,0,0,4,2000 Fall Tour,2000 Fall,Sample in a Jar,Sample,1,Coors Amphitheatre,Chula Vista,CA,USA,","
 2000-10-04,2000,0,11,1,2,0,0,5,2000 Fall Tour,2000 Fall,Gotta Jibboo,Jibboo,0,Coors Amphitheatre,Chula Vista,CA,USA,","
-2000-10-04,2000,0,12,2,2,0,0,5,2000 Fall Tour,2000 Fall,Bug,Bug,0,Coors Amphitheatre,Chula Vista,CA,USA,>
+2000-10-04,2000,0,12,2,2,0,0,5,2000 Fall Tour,2000 Fall,Bug,,0,Coors Amphitheatre,Chula Vista,CA,USA,>
 2000-10-04,2000,0,13,2,2,0,0,5,2000 Fall Tour,2000 Fall,Harry Hood,Hood,1,Coors Amphitheatre,Chula Vista,CA,USA,>
-2000-10-04,2000,0,14,5,2,0,0,4,2000 Fall Tour,2000 Fall,Cavern,Cavern,1,Coors Amphitheatre,Chula Vista,CA,USA,
-2000-10-04,2000,0,15,6,e,0,0,4,2000 Fall Tour,2000 Fall,Loving Cup,Loving Cup,0,Coors Amphitheatre,Chula Vista,CA,USA,
+2000-10-04,2000,0,14,5,2,0,0,4,2000 Fall Tour,2000 Fall,Cavern,,1,Coors Amphitheatre,Chula Vista,CA,USA,
+2000-10-04,2000,0,15,6,e,0,0,4,2000 Fall Tour,2000 Fall,Loving Cup,,0,Coors Amphitheatre,Chula Vista,CA,USA,
 2000-10-05,2000,0,1,1,1,0,0,7,2000 Fall Tour,2000 Fall,Chalk Dust Torture,CDT,1,Verizon Wireless Amphitheater,Irvine,CA,USA,","
-2000-10-05,2000,0,2,1,1,0,0,10,2000 Fall Tour,2000 Fall,Guyute,Guyute,1,Verizon Wireless Amphitheater,Irvine,CA,USA,","
+2000-10-05,2000,0,2,1,1,0,0,10,2000 Fall Tour,2000 Fall,Guyute,,1,Verizon Wireless Amphitheater,Irvine,CA,USA,","
 2000-10-05,2000,0,3,3,1,0,0,2,2000 Fall Tour,2000 Fall,Wolfman's Brother,Wolfman's,1,Verizon Wireless Amphitheater,Irvine,CA,USA,->
 2000-10-05,2000,0,4,1,1,0,0,31,2000 Fall Tour,2000 Fall,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Verizon Wireless Amphitheater,Irvine,CA,USA,","
 2000-10-05,2000,0,5,1,1,0,0,5,2000 Fall Tour,2000 Fall,Limb By Limb,LxL,1,Verizon Wireless Amphitheater,Irvine,CA,USA,","
-2000-10-05,2000,0,6,2,1,0,0,8,2000 Fall Tour,2000 Fall,Come on Baby Let's Go Downtown,Come on Baby Let's Go Downtown,0,Verizon Wireless Amphitheater,Irvine,CA,USA,>
-2000-10-05,2000,0,7,2,1,0,0,2,2000 Fall Tour,2000 Fall,Beauty of My Dreams,Beauty of My Dreams,0,Verizon Wireless Amphitheater,Irvine,CA,USA,>
-2000-10-05,2000,0,8,1,1,0,0,6,2000 Fall Tour,2000 Fall,Axilla,Axilla,1,Verizon Wireless Amphitheater,Irvine,CA,USA,","
-2000-10-05,2000,0,9,2,1,0,0,5,2000 Fall Tour,2000 Fall,Horn,Horn,1,Verizon Wireless Amphitheater,Irvine,CA,USA,>
-2000-10-05,2000,0,10,4,1,0,0,13,2000 Fall Tour,2000 Fall,Possum,Possum,1,Verizon Wireless Amphitheater,Irvine,CA,USA,
-2000-10-05,2000,0,11,3,2,0,0,10,2000 Fall Tour,2000 Fall,Drowned,Drowned,0,Verizon Wireless Amphitheater,Irvine,CA,USA,->
-2000-10-05,2000,0,12,2,2,0,0,8,2000 Fall Tour,2000 Fall,NICU,NICU,1,Verizon Wireless Amphitheater,Irvine,CA,USA,>
+2000-10-05,2000,0,6,2,1,0,0,8,2000 Fall Tour,2000 Fall,Come on Baby Let's Go Downtown,,0,Verizon Wireless Amphitheater,Irvine,CA,USA,>
+2000-10-05,2000,0,7,2,1,0,0,2,2000 Fall Tour,2000 Fall,Beauty of My Dreams,,0,Verizon Wireless Amphitheater,Irvine,CA,USA,>
+2000-10-05,2000,0,8,1,1,0,0,6,2000 Fall Tour,2000 Fall,Axilla,,1,Verizon Wireless Amphitheater,Irvine,CA,USA,","
+2000-10-05,2000,0,9,2,1,0,0,5,2000 Fall Tour,2000 Fall,Horn,,1,Verizon Wireless Amphitheater,Irvine,CA,USA,>
+2000-10-05,2000,0,10,4,1,0,0,13,2000 Fall Tour,2000 Fall,Possum,,1,Verizon Wireless Amphitheater,Irvine,CA,USA,
+2000-10-05,2000,0,11,3,2,0,0,10,2000 Fall Tour,2000 Fall,Drowned,,0,Verizon Wireless Amphitheater,Irvine,CA,USA,->
+2000-10-05,2000,0,12,2,2,0,0,8,2000 Fall Tour,2000 Fall,NICU,,1,Verizon Wireless Amphitheater,Irvine,CA,USA,>
 2000-10-05,2000,0,13,1,2,0,0,2,2000 Fall Tour,2000 Fall,David Bowie,Bowie,1,Verizon Wireless Amphitheater,Irvine,CA,USA,","
 2000-10-05,2000,0,14,3,2,0,0,8,2000 Fall Tour,2000 Fall,Halley's Comet,Halley's,1,Verizon Wireless Amphitheater,Irvine,CA,USA,->
-2000-10-05,2000,0,15,1,2,0,0,25,2000 Fall Tour,2000 Fall,Walk Away,Walk Away,0,Verizon Wireless Amphitheater,Irvine,CA,USA,","
-2000-10-05,2000,0,16,2,2,0,0,2,2000 Fall Tour,2000 Fall,Piper,Piper,1,Verizon Wireless Amphitheater,Irvine,CA,USA,>
-2000-10-05,2000,0,17,5,2,0,0,4,2000 Fall Tour,2000 Fall,Character Zero,Character Zero,1,Verizon Wireless Amphitheater,Irvine,CA,USA,
+2000-10-05,2000,0,15,1,2,0,0,25,2000 Fall Tour,2000 Fall,Walk Away,,0,Verizon Wireless Amphitheater,Irvine,CA,USA,","
+2000-10-05,2000,0,16,2,2,0,0,2,2000 Fall Tour,2000 Fall,Piper,,1,Verizon Wireless Amphitheater,Irvine,CA,USA,>
+2000-10-05,2000,0,17,5,2,0,0,4,2000 Fall Tour,2000 Fall,Character Zero,,1,Verizon Wireless Amphitheater,Irvine,CA,USA,
 2000-10-05,2000,0,18,6,e,0,0,10,2000 Fall Tour,2000 Fall,While My Guitar Gently Weeps,WMGGW,0,Verizon Wireless Amphitheater,Irvine,CA,USA,
-2000-10-06,2000,0,1,1,1,0,0,5,2000 Fall Tour,2000 Fall,Carini,Carini,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
-2000-10-06,2000,0,2,1,1,0,0,9,2000 Fall Tour,2000 Fall,Stash,Stash,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2000-10-06,2000,0,1,1,1,0,0,5,2000 Fall Tour,2000 Fall,Carini,,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2000-10-06,2000,0,2,1,1,0,0,9,2000 Fall Tour,2000 Fall,Stash,,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
 2000-10-06,2000,0,3,1,1,0,0,7,2000 Fall Tour,2000 Fall,Boogie On Reggae Woman,Boogie On,0,Shoreline Amphitheatre,Mountain View,CA,USA,","
-2000-10-06,2000,0,4,1,1,0,0,5,2000 Fall Tour,2000 Fall,Mellow Mood,Mellow Mood,0,Shoreline Amphitheatre,Mountain View,CA,USA,","
-2000-10-06,2000,0,5,1,1,0,0,4,2000 Fall Tour,2000 Fall,Maze,Maze,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2000-10-06,2000,0,4,1,1,0,0,5,2000 Fall Tour,2000 Fall,Mellow Mood,,0,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2000-10-06,2000,0,5,1,1,0,0,4,2000 Fall Tour,2000 Fall,Maze,,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
 2000-10-06,2000,0,6,1,1,0,0,2,2000 Fall Tour,2000 Fall,The Moma Dance,Moma,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
 2000-10-06,2000,0,7,4,1,0,0,2,2000 Fall Tour,2000 Fall,Run Like an Antelope,Antelope,1,Shoreline Amphitheatre,Mountain View,CA,USA,
-2000-10-06,2000,0,8,2,2,0,0,6,2000 Fall Tour,2000 Fall,Heavy Things,Heavy Things,1,Shoreline Amphitheatre,Mountain View,CA,USA,>
+2000-10-06,2000,0,8,2,2,0,0,6,2000 Fall Tour,2000 Fall,Heavy Things,,1,Shoreline Amphitheatre,Mountain View,CA,USA,>
 2000-10-06,2000,0,9,3,2,0,0,7,2000 Fall Tour,2000 Fall,Down with Disease,DwD,1,Shoreline Amphitheatre,Mountain View,CA,USA,->
-2000-10-06,2000,0,10,1,2,0,0,5,2000 Fall Tour,2000 Fall,Spock's Brain,Spock's Brain,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
-2000-10-06,2000,0,11,1,2,0,0,2,2000 Fall Tour,2000 Fall,The Inlaw Josie Wales,The Inlaw Josie Wales,0,Shoreline Amphitheatre,Mountain View,CA,USA,","
-2000-10-06,2000,0,12,1,2,0,0,5,2000 Fall Tour,2000 Fall,Rift,Rift,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
-2000-10-06,2000,0,13,2,2,0,0,8,2000 Fall Tour,2000 Fall,Cities,Cities,0,Shoreline Amphitheatre,Mountain View,CA,USA,>
-2000-10-06,2000,0,14,2,2,0,0,4,2000 Fall Tour,2000 Fall,Sand,Sand,0,Shoreline Amphitheatre,Mountain View,CA,USA,>
+2000-10-06,2000,0,10,1,2,0,0,5,2000 Fall Tour,2000 Fall,Spock's Brain,,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2000-10-06,2000,0,11,1,2,0,0,2,2000 Fall Tour,2000 Fall,The Inlaw Josie Wales,,0,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2000-10-06,2000,0,12,1,2,0,0,5,2000 Fall Tour,2000 Fall,Rift,,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2000-10-06,2000,0,13,2,2,0,0,8,2000 Fall Tour,2000 Fall,Cities,,0,Shoreline Amphitheatre,Mountain View,CA,USA,>
+2000-10-06,2000,0,14,2,2,0,0,4,2000 Fall Tour,2000 Fall,Sand,,0,Shoreline Amphitheatre,Mountain View,CA,USA,>
 2000-10-06,2000,0,15,1,2,0,0,14,2000 Fall Tour,2000 Fall,Golgi Apparatus,Golgi,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
-2000-10-06,2000,0,16,1,2,0,0,17,2000 Fall Tour,2000 Fall,Brian and Robert,Brian and Robert,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
-2000-10-06,2000,0,17,5,2,0,0,10,2000 Fall Tour,2000 Fall,Bold As Love,Bold As Love,0,Shoreline Amphitheatre,Mountain View,CA,USA,
-2000-10-06,2000,0,18,1,e,0,0,0,2000 Fall Tour,2000 Fall,El Paso,El Paso,0,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2000-10-06,2000,0,16,1,2,0,0,17,2000 Fall Tour,2000 Fall,Brian and Robert,,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2000-10-06,2000,0,17,5,2,0,0,10,2000 Fall Tour,2000 Fall,Bold As Love,,0,Shoreline Amphitheatre,Mountain View,CA,USA,
+2000-10-06,2000,0,18,1,e,0,0,0,2000 Fall Tour,2000 Fall,El Paso,,0,Shoreline Amphitheatre,Mountain View,CA,USA,","
 2000-10-06,2000,0,19,2,e,0,0,1,2000 Fall Tour,2000 Fall,Chalk Dust Torture,CDT,1,Shoreline Amphitheatre,Mountain View,CA,USA,>
-2000-10-06,2000,0,20,6,e,0,0,1363,2000 Fall Tour,2000 Fall,West L.A. Fadeaway,West L.A. Fadeaway,0,Shoreline Amphitheatre,Mountain View,CA,USA,
-2000-10-07,2000,0,1,2,1,0,0,4,2000 Fall Tour,2000 Fall,First Tube,First Tube,0,Shoreline Amphitheatre,Mountain View,CA,USA,>
+2000-10-06,2000,0,20,6,e,0,0,1363,2000 Fall Tour,2000 Fall,West L.A. Fadeaway,,0,Shoreline Amphitheatre,Mountain View,CA,USA,
+2000-10-07,2000,0,1,2,1,0,0,4,2000 Fall Tour,2000 Fall,First Tube,,0,Shoreline Amphitheatre,Mountain View,CA,USA,>
 2000-10-07,2000,0,2,2,1,0,0,5,2000 Fall Tour,2000 Fall,Mike's Song,Mike's,1,Shoreline Amphitheatre,Mountain View,CA,USA,>
 2000-10-07,2000,0,3,2,1,0,0,8,2000 Fall Tour,2000 Fall,I Am Hydrogen,Hydrogen,1,Shoreline Amphitheatre,Mountain View,CA,USA,>
 2000-10-07,2000,0,4,1,1,0,0,5,2000 Fall Tour,2000 Fall,Weekapaug Groove,Weekapaug,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
-2000-10-07,2000,0,5,1,1,0,0,10,2000 Fall Tour,2000 Fall,Fee,Fee,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2000-10-07,2000,0,5,1,1,0,0,10,2000 Fall Tour,2000 Fall,Fee,,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
 2000-10-07,2000,0,6,1,1,0,0,6,2000 Fall Tour,2000 Fall,Bathtub Gin,Gin,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
-2000-10-07,2000,0,7,1,1,0,0,20,2000 Fall Tour,2000 Fall,Glide,Glide,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
-2000-10-07,2000,0,8,4,1,0,0,7,2000 Fall Tour,2000 Fall,My Soul,My Soul,0,Shoreline Amphitheatre,Mountain View,CA,USA,
-2000-10-07,2000,0,9,2,2,0,0,5,2000 Fall Tour,2000 Fall,Twist,Twist,1,Shoreline Amphitheatre,Mountain View,CA,USA,>
+2000-10-07,2000,0,7,1,1,0,0,20,2000 Fall Tour,2000 Fall,Glide,,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2000-10-07,2000,0,8,4,1,0,0,7,2000 Fall Tour,2000 Fall,My Soul,,0,Shoreline Amphitheatre,Mountain View,CA,USA,
+2000-10-07,2000,0,9,2,2,0,0,5,2000 Fall Tour,2000 Fall,Twist,,1,Shoreline Amphitheatre,Mountain View,CA,USA,>
 2000-10-07,2000,0,10,2,2,0,0,3,2000 Fall Tour,2000 Fall,Also Sprach Zarathustra,2001,0,Shoreline Amphitheatre,Mountain View,CA,USA,>
-2000-10-07,2000,0,11,1,2,0,0,8,2000 Fall Tour,2000 Fall,Tweezer,Tweezer,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2000-10-07,2000,0,11,1,2,0,0,8,2000 Fall Tour,2000 Fall,Tweezer,,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
 2000-10-07,2000,0,12,1,2,0,0,12,2000 Fall Tour,2000 Fall,Wading in the Velvet Sea,Velvet Sea,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
-2000-10-07,2000,0,13,2,2,0,0,6,2000 Fall Tour,2000 Fall,Meatstick,Meatstick,1,Shoreline Amphitheatre,Mountain View,CA,USA,>
+2000-10-07,2000,0,13,2,2,0,0,6,2000 Fall Tour,2000 Fall,Meatstick,,1,Shoreline Amphitheatre,Mountain View,CA,USA,>
 2000-10-07,2000,0,14,1,2,0,0,2,2000 Fall Tour,2000 Fall,David Bowie,Bowie,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
 2000-10-07,2000,0,15,5,2,0,0,8,2000 Fall Tour,2000 Fall,Tweezer Reprise,Tweeprise,1,Shoreline Amphitheatre,Mountain View,CA,USA,
 2000-10-07,2000,0,16,6,e,0,0,7,2000 Fall Tour,2000 Fall,You Enjoy Myself,YEM,1,Shoreline Amphitheatre,Mountain View,CA,USA,

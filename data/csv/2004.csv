@@ -1,198 +1,198 @@
 showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,tourwhen,song,nickname,is_original,venue,city,state,country,trans_mark
 2004-03-13,2004,1,1,6,1,0,0,0,Not Part of a Tour,No Tour,The Star-Spangled Banner,Star Spangled Banner,0,"Patrick Gymnasium, University of Vermont",Burlington,VT,USA,
-2004-04-11,2004,1,1,2,1,0,0,0,Not Part of a Tour,No Tour,Sand,Sand,0,Higher Ground,Winooski,VT,USA,>
-2004-04-11,2004,0,1,1,1,0,0,18,Not Part of a Tour,No Tour,Push On 'Til the Day,Push On 'Til the Day,0,Higher Ground,Winooski,VT,USA,","
+2004-04-11,2004,1,1,2,1,0,0,0,Not Part of a Tour,No Tour,Sand,,0,Higher Ground,Winooski,VT,USA,>
+2004-04-11,2004,0,1,1,1,0,0,18,Not Part of a Tour,No Tour,Push On 'Til the Day,,0,Higher Ground,Winooski,VT,USA,","
 2004-04-11,2004,1,2,6,1,0,0,0,Not Part of a Tour,No Tour,Chalk Dust Torture,CDT,1,Higher Ground,Winooski,VT,USA,
-2004-04-11,2004,0,2,1,1,0,0,19,Not Part of a Tour,No Tour,Drifting,Drifting,0,Higher Ground,Winooski,VT,USA,","
-2004-04-11,2004,0,3,1,1,0,0,23,Not Part of a Tour,No Tour,Small Axe,Small Axe,0,Higher Ground,Winooski,VT,USA,","
-2004-04-11,2004,0,4,1,1,0,0,17,Not Part of a Tour,No Tour,Last Tube,Last Tube,0,Higher Ground,Winooski,VT,USA,","
-2004-04-11,2004,0,5,1,1,0,0,21,Not Part of a Tour,No Tour,Sultans of Swing,Sultans of Swing,0,Higher Ground,Winooski,VT,USA,","
-2004-04-11,2004,0,6,2,1,0,0,26,Not Part of a Tour,No Tour,Sand,Sand,0,Higher Ground,Winooski,VT,USA,>
+2004-04-11,2004,0,2,1,1,0,0,19,Not Part of a Tour,No Tour,Drifting,,0,Higher Ground,Winooski,VT,USA,","
+2004-04-11,2004,0,3,1,1,0,0,23,Not Part of a Tour,No Tour,Small Axe,,0,Higher Ground,Winooski,VT,USA,","
+2004-04-11,2004,0,4,1,1,0,0,17,Not Part of a Tour,No Tour,Last Tube,,0,Higher Ground,Winooski,VT,USA,","
+2004-04-11,2004,0,5,1,1,0,0,21,Not Part of a Tour,No Tour,Sultans of Swing,,0,Higher Ground,Winooski,VT,USA,","
+2004-04-11,2004,0,6,2,1,0,0,26,Not Part of a Tour,No Tour,Sand,,0,Higher Ground,Winooski,VT,USA,>
 2004-04-11,2004,0,7,1,1,0,0,39,Not Part of a Tour,No Tour,Chalk Dust Torture,CDT,1,Higher Ground,Winooski,VT,USA,","
-2004-04-11,2004,0,8,1,1,0,0,17,Not Part of a Tour,No Tour,Flock of Words,Flock of Words,0,Higher Ground,Winooski,VT,USA,","
-2004-04-11,2004,0,9,2,1,0,0,23,Not Part of a Tour,No Tour,Plasma,Plasma,0,Higher Ground,Winooski,VT,USA,>
-2004-04-11,2004,0,10,6,1,0,0,0,Not Part of a Tour,No Tour,Higher Ground,Higher Ground,0,Higher Ground,Winooski,VT,USA,
-2004-04-15,2004,0,1,2,1,0,0,23,2004 Vegas Run,2004 Vegas,Buried Alive,Buried Alive,1,Thomas & Mack Center,Las Vegas,NV,USA,>
+2004-04-11,2004,0,8,1,1,0,0,17,Not Part of a Tour,No Tour,Flock of Words,,0,Higher Ground,Winooski,VT,USA,","
+2004-04-11,2004,0,9,2,1,0,0,23,Not Part of a Tour,No Tour,Plasma,,0,Higher Ground,Winooski,VT,USA,>
+2004-04-11,2004,0,10,6,1,0,0,0,Not Part of a Tour,No Tour,Higher Ground,,0,Higher Ground,Winooski,VT,USA,
+2004-04-15,2004,0,1,2,1,0,0,23,2004 Vegas Run,2004 Vegas,Buried Alive,,1,Thomas & Mack Center,Las Vegas,NV,USA,>
 2004-04-15,2004,0,2,1,1,0,0,4,2004 Vegas Run,2004 Vegas,AC/DC Bag,Bag,1,Thomas & Mack Center,Las Vegas,NV,USA,","
 2004-04-15,2004,0,3,1,1,0,0,3,2004 Vegas Run,2004 Vegas,Limb By Limb,LxL,1,Thomas & Mack Center,Las Vegas,NV,USA,","
 2004-04-15,2004,0,4,1,1,0,0,1,2004 Vegas Run,2004 Vegas,The Moma Dance,Moma,1,Thomas & Mack Center,Las Vegas,NV,USA,","
-2004-04-15,2004,0,5,1,1,0,0,19,2004 Vegas Run,2004 Vegas,The Old Home Place,The Old Home Place,0,Thomas & Mack Center,Las Vegas,NV,USA,","
-2004-04-15,2004,0,6,1,1,0,0,21,2004 Vegas Run,2004 Vegas,Roggae,Roggae,1,Thomas & Mack Center,Las Vegas,NV,USA,","
-2004-04-15,2004,0,7,1,1,0,0,4,2004 Vegas Run,2004 Vegas,Water in the Sky,Water in the Sky,1,Thomas & Mack Center,Las Vegas,NV,USA,","
-2004-04-15,2004,0,8,1,1,0,0,5,2004 Vegas Run,2004 Vegas,All of These Dreams,All of These Dreams,1,Thomas & Mack Center,Las Vegas,NV,USA,","
-2004-04-15,2004,0,9,3,1,0,0,1,2004 Vegas Run,2004 Vegas,Stash,Stash,1,Thomas & Mack Center,Las Vegas,NV,USA,->
+2004-04-15,2004,0,5,1,1,0,0,19,2004 Vegas Run,2004 Vegas,The Old Home Place,,0,Thomas & Mack Center,Las Vegas,NV,USA,","
+2004-04-15,2004,0,6,1,1,0,0,21,2004 Vegas Run,2004 Vegas,Roggae,,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+2004-04-15,2004,0,7,1,1,0,0,4,2004 Vegas Run,2004 Vegas,Water in the Sky,,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+2004-04-15,2004,0,8,1,1,0,0,5,2004 Vegas Run,2004 Vegas,All of These Dreams,,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+2004-04-15,2004,0,9,3,1,0,0,1,2004 Vegas Run,2004 Vegas,Stash,,1,Thomas & Mack Center,Las Vegas,NV,USA,->
 2004-04-15,2004,0,10,4,1,0,0,13,2004 Vegas Run,2004 Vegas,Timber (Jerry the Mule),Timber Ho,0,Thomas & Mack Center,Las Vegas,NV,USA,
-2004-04-15,2004,0,11,2,2,0,0,9,2004 Vegas Run,2004 Vegas,46 Days,46 Days,1,Thomas & Mack Center,Las Vegas,NV,USA,>
-2004-04-15,2004,0,12,3,2,0,0,16,2004 Vegas Run,2004 Vegas,Drowned,Drowned,0,Thomas & Mack Center,Las Vegas,NV,USA,->
+2004-04-15,2004,0,11,2,2,0,0,9,2004 Vegas Run,2004 Vegas,46 Days,,1,Thomas & Mack Center,Las Vegas,NV,USA,>
+2004-04-15,2004,0,12,3,2,0,0,16,2004 Vegas Run,2004 Vegas,Drowned,,0,Thomas & Mack Center,Las Vegas,NV,USA,->
 2004-04-15,2004,0,13,2,2,0,0,2,2004 Vegas Run,2004 Vegas,Also Sprach Zarathustra,2001,0,Thomas & Mack Center,Las Vegas,NV,USA,>
 2004-04-15,2004,0,14,2,2,0,0,2,2004 Vegas Run,2004 Vegas,Down with Disease,DwD,1,Thomas & Mack Center,Las Vegas,NV,USA,>
-2004-04-15,2004,0,15,2,2,0,0,3,2004 Vegas Run,2004 Vegas,Free,Free,1,Thomas & Mack Center,Las Vegas,NV,USA,>
+2004-04-15,2004,0,15,2,2,0,0,3,2004 Vegas Run,2004 Vegas,Free,,1,Thomas & Mack Center,Las Vegas,NV,USA,>
 2004-04-15,2004,0,16,1,2,0,0,2,2004 Vegas Run,2004 Vegas,Scent of a Mule,SOAMule,1,Thomas & Mack Center,Las Vegas,NV,USA,","
-2004-04-15,2004,0,17,3,2,0,0,1402,2004 Vegas Run,2004 Vegas,Girls Girls Girls,Girls Girls Girls,0,Thomas & Mack Center,Las Vegas,NV,USA,->
+2004-04-15,2004,0,17,3,2,0,0,1402,2004 Vegas Run,2004 Vegas,Girls Girls Girls,,0,Thomas & Mack Center,Las Vegas,NV,USA,->
 2004-04-15,2004,0,18,1,2,0,0,0,2004 Vegas Run,2004 Vegas,Scent of a Mule,SOAMule,1,Thomas & Mack Center,Las Vegas,NV,USA,","
-2004-04-15,2004,0,19,1,2,0,0,9,2004 Vegas Run,2004 Vegas,Secret Smile,Secret Smile,0,Thomas & Mack Center,Las Vegas,NV,USA,","
-2004-04-15,2004,0,20,2,2,0,0,8,2004 Vegas Run,2004 Vegas,Crowd Control,Crowd Control,1,Thomas & Mack Center,Las Vegas,NV,USA,>
+2004-04-15,2004,0,19,1,2,0,0,9,2004 Vegas Run,2004 Vegas,Secret Smile,,0,Thomas & Mack Center,Las Vegas,NV,USA,","
+2004-04-15,2004,0,20,2,2,0,0,8,2004 Vegas Run,2004 Vegas,Crowd Control,,1,Thomas & Mack Center,Las Vegas,NV,USA,>
 2004-04-15,2004,0,21,5,2,0,0,1,2004 Vegas Run,2004 Vegas,Slave to the Traffic Light,Slave,1,Thomas & Mack Center,Las Vegas,NV,USA,
 2004-04-15,2004,0,22,6,e,0,0,17,2004 Vegas Run,2004 Vegas,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Thomas & Mack Center,Las Vegas,NV,USA,
-2004-04-16,2004,0,1,1,1,0,0,2,2004 Vegas Run,2004 Vegas,Seven Below,Seven Below,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+2004-04-16,2004,0,1,1,1,0,0,2,2004 Vegas Run,2004 Vegas,Seven Below,,1,Thomas & Mack Center,Las Vegas,NV,USA,","
 2004-04-16,2004,0,2,2,1,0,0,4,2004 Vegas Run,2004 Vegas,Rock and Roll,R&amp;R,0,Thomas & Mack Center,Las Vegas,NV,USA,>
 2004-04-16,2004,0,3,1,1,0,0,4,2004 Vegas Run,2004 Vegas,Boogie On Reggae Woman,Boogie On,0,Thomas & Mack Center,Las Vegas,NV,USA,","
 2004-04-16,2004,0,4,3,1,0,0,17,2004 Vegas Run,2004 Vegas,Back on the Train,BOTT,0,Thomas & Mack Center,Las Vegas,NV,USA,->
-2004-04-16,2004,0,5,1,1,0,0,7,2004 Vegas Run,2004 Vegas,Possum,Possum,1,Thomas & Mack Center,Las Vegas,NV,USA,","
-2004-04-16,2004,0,6,1,1,0,0,3,2004 Vegas Run,2004 Vegas,Strange Design,Strange Design,1,Thomas & Mack Center,Las Vegas,NV,USA,","
-2004-04-16,2004,0,7,1,1,0,0,19,2004 Vegas Run,2004 Vegas,Gumbo,Gumbo,1,Thomas & Mack Center,Las Vegas,NV,USA,","
-2004-04-16,2004,0,8,2,1,0,0,39,2004 Vegas Run,2004 Vegas,Brian and Robert,Brian and Robert,1,Thomas & Mack Center,Las Vegas,NV,USA,>
-2004-04-16,2004,0,9,4,1,0,0,8,2004 Vegas Run,2004 Vegas,Taste,Taste,1,Thomas & Mack Center,Las Vegas,NV,USA,
+2004-04-16,2004,0,5,1,1,0,0,7,2004 Vegas Run,2004 Vegas,Possum,,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+2004-04-16,2004,0,6,1,1,0,0,3,2004 Vegas Run,2004 Vegas,Strange Design,,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+2004-04-16,2004,0,7,1,1,0,0,19,2004 Vegas Run,2004 Vegas,Gumbo,,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+2004-04-16,2004,0,8,2,1,0,0,39,2004 Vegas Run,2004 Vegas,Brian and Robert,,1,Thomas & Mack Center,Las Vegas,NV,USA,>
+2004-04-16,2004,0,9,4,1,0,0,8,2004 Vegas Run,2004 Vegas,Taste,,1,Thomas & Mack Center,Las Vegas,NV,USA,
 2004-04-16,2004,0,10,1,2,0,0,5,2004 Vegas Run,2004 Vegas,Gotta Jibboo,Jibboo,0,Thomas & Mack Center,Las Vegas,NV,USA,","
-2004-04-16,2004,0,11,1,2,0,0,4,2004 Vegas Run,2004 Vegas,Twist,Twist,1,Thomas & Mack Center,Las Vegas,NV,USA,","
-2004-04-16,2004,0,12,2,2,0,0,7,2004 Vegas Run,2004 Vegas,Camel Walk,Camel Walk,1,Thomas & Mack Center,Las Vegas,NV,USA,>
-2004-04-16,2004,0,13,3,2,0,0,2,2004 Vegas Run,2004 Vegas,Wilson,Wilson,1,Thomas & Mack Center,Las Vegas,NV,USA,->
-2004-04-16,2004,0,14,2,2,0,0,116,2004 Vegas Run,2004 Vegas,The Little Drummer Boy,The Little Drummer Boy,0,Thomas & Mack Center,Las Vegas,NV,USA,>
-2004-04-16,2004,0,15,1,2,0,0,0,2004 Vegas Run,2004 Vegas,Wilson,Wilson,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+2004-04-16,2004,0,11,1,2,0,0,4,2004 Vegas Run,2004 Vegas,Twist,,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+2004-04-16,2004,0,12,2,2,0,0,7,2004 Vegas Run,2004 Vegas,Camel Walk,,1,Thomas & Mack Center,Las Vegas,NV,USA,>
+2004-04-16,2004,0,13,3,2,0,0,2,2004 Vegas Run,2004 Vegas,Wilson,,1,Thomas & Mack Center,Las Vegas,NV,USA,->
+2004-04-16,2004,0,14,2,2,0,0,116,2004 Vegas Run,2004 Vegas,The Little Drummer Boy,,0,Thomas & Mack Center,Las Vegas,NV,USA,>
+2004-04-16,2004,0,15,1,2,0,0,0,2004 Vegas Run,2004 Vegas,Wilson,,1,Thomas & Mack Center,Las Vegas,NV,USA,","
 2004-04-16,2004,0,16,2,2,0,0,2,2004 Vegas Run,2004 Vegas,Hold Your Head Up,HYHU,0,Thomas & Mack Center,Las Vegas,NV,USA,>
-2004-04-16,2004,0,17,2,2,0,0,5,2004 Vegas Run,2004 Vegas,Love You,Love You,0,Thomas & Mack Center,Las Vegas,NV,USA,>
+2004-04-16,2004,0,17,2,2,0,0,5,2004 Vegas Run,2004 Vegas,Love You,,0,Thomas & Mack Center,Las Vegas,NV,USA,>
 2004-04-16,2004,0,18,2,2,0,0,0,2004 Vegas Run,2004 Vegas,Hold Your Head Up,HYHU,0,Thomas & Mack Center,Las Vegas,NV,USA,>
-2004-04-16,2004,0,19,2,2,0,0,9,2004 Vegas Run,2004 Vegas,Waves,Waves,1,Thomas & Mack Center,Las Vegas,NV,USA,>
-2004-04-16,2004,0,20,2,2,0,0,37,2004 Vegas Run,2004 Vegas,Lifeboy,Lifeboy,1,Thomas & Mack Center,Las Vegas,NV,USA,>
+2004-04-16,2004,0,19,2,2,0,0,9,2004 Vegas Run,2004 Vegas,Waves,,1,Thomas & Mack Center,Las Vegas,NV,USA,>
+2004-04-16,2004,0,20,2,2,0,0,37,2004 Vegas Run,2004 Vegas,Lifeboy,,1,Thomas & Mack Center,Las Vegas,NV,USA,>
 2004-04-16,2004,0,21,2,2,0,0,45,2004 Vegas Run,2004 Vegas,The Horse,Horse,1,Thomas & Mack Center,Las Vegas,NV,USA,>
 2004-04-16,2004,0,22,2,2,0,0,45,2004 Vegas Run,2004 Vegas,Silent in the Morning,Silent,1,Thomas & Mack Center,Las Vegas,NV,USA,>
-2004-04-16,2004,0,23,5,2,0,0,5,2004 Vegas Run,2004 Vegas,Loving Cup,Loving Cup,0,Thomas & Mack Center,Las Vegas,NV,USA,
+2004-04-16,2004,0,23,5,2,0,0,5,2004 Vegas Run,2004 Vegas,Loving Cup,,0,Thomas & Mack Center,Las Vegas,NV,USA,
 2004-04-16,2004,0,24,6,e,0,0,5,2004 Vegas Run,2004 Vegas,Harry Hood,Hood,1,Thomas & Mack Center,Las Vegas,NV,USA,
-2004-04-17,2004,0,1,1,1,0,0,33,2004 Vegas Run,2004 Vegas,Soul Shakedown Party,Soul Shakedown Party,0,Thomas & Mack Center,Las Vegas,NV,USA,","
+2004-04-17,2004,0,1,1,1,0,0,33,2004 Vegas Run,2004 Vegas,Soul Shakedown Party,,0,Thomas & Mack Center,Las Vegas,NV,USA,","
 2004-04-17,2004,0,2,3,1,0,0,16,2004 Vegas Run,2004 Vegas,Halley's Comet,Halley's,1,Thomas & Mack Center,Las Vegas,NV,USA,->
-2004-04-17,2004,0,3,1,1,0,0,6,2004 Vegas Run,2004 Vegas,Tweezer,Tweezer,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+2004-04-17,2004,0,3,1,1,0,0,6,2004 Vegas Run,2004 Vegas,Tweezer,,1,Thomas & Mack Center,Las Vegas,NV,USA,","
 2004-04-17,2004,0,4,2,1,0,0,65,2004 Vegas Run,2004 Vegas,Ginseng Sullivan,Ginseng,0,Thomas & Mack Center,Las Vegas,NV,USA,>
-2004-04-17,2004,0,5,2,1,0,0,7,2004 Vegas Run,2004 Vegas,Horn,Horn,1,Thomas & Mack Center,Las Vegas,NV,USA,>
+2004-04-17,2004,0,5,2,1,0,0,7,2004 Vegas Run,2004 Vegas,Horn,,1,Thomas & Mack Center,Las Vegas,NV,USA,>
 2004-04-17,2004,0,6,1,1,0,0,6,2004 Vegas Run,2004 Vegas,Sample in a Jar,Sample,1,Thomas & Mack Center,Las Vegas,NV,USA,","
-2004-04-17,2004,0,7,3,1,0,0,5,2004 Vegas Run,2004 Vegas,Piper,Piper,1,Thomas & Mack Center,Las Vegas,NV,USA,->
-2004-04-17,2004,0,8,2,1,0,0,3,2004 Vegas Run,2004 Vegas,Frankenstein,Frankenstein,0,Thomas & Mack Center,Las Vegas,NV,USA,>
+2004-04-17,2004,0,7,3,1,0,0,5,2004 Vegas Run,2004 Vegas,Piper,,1,Thomas & Mack Center,Las Vegas,NV,USA,->
+2004-04-17,2004,0,8,2,1,0,0,3,2004 Vegas Run,2004 Vegas,Frankenstein,,0,Thomas & Mack Center,Las Vegas,NV,USA,>
 2004-04-17,2004,0,9,4,1,0,0,6,2004 Vegas Run,2004 Vegas,David Bowie,Bowie,1,Thomas & Mack Center,Las Vegas,NV,USA,
-2004-04-17,2004,0,10,1,2,0,0,12,2004 Vegas Run,2004 Vegas,Meatstick,Meatstick,1,Thomas & Mack Center,Las Vegas,NV,USA,","
-2004-04-17,2004,0,11,2,2,0,0,11,2004 Vegas Run,2004 Vegas,Pebbles and Marbles,Pebbles and Marbles,0,Thomas & Mack Center,Las Vegas,NV,USA,>
+2004-04-17,2004,0,10,1,2,0,0,12,2004 Vegas Run,2004 Vegas,Meatstick,,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+2004-04-17,2004,0,11,2,2,0,0,11,2004 Vegas Run,2004 Vegas,Pebbles and Marbles,,0,Thomas & Mack Center,Las Vegas,NV,USA,>
 2004-04-17,2004,0,12,3,2,0,0,16,2004 Vegas Run,2004 Vegas,Prince Caspian,Caspian,1,Thomas & Mack Center,Las Vegas,NV,USA,->
-2004-04-17,2004,0,13,2,2,0,0,3,2004 Vegas Run,2004 Vegas,Simple,Simple,1,Thomas & Mack Center,Las Vegas,NV,USA,>
-2004-04-17,2004,0,14,1,2,0,0,6,2004 Vegas Run,2004 Vegas,Friday,Friday,1,Thomas & Mack Center,Las Vegas,NV,USA,","
-2004-04-17,2004,0,15,1,2,0,0,5,2004 Vegas Run,2004 Vegas,Ghost,Ghost,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+2004-04-17,2004,0,13,2,2,0,0,3,2004 Vegas Run,2004 Vegas,Simple,,1,Thomas & Mack Center,Las Vegas,NV,USA,>
+2004-04-17,2004,0,14,1,2,0,0,6,2004 Vegas Run,2004 Vegas,Friday,,1,Thomas & Mack Center,Las Vegas,NV,USA,","
+2004-04-17,2004,0,15,1,2,0,0,5,2004 Vegas Run,2004 Vegas,Ghost,,1,Thomas & Mack Center,Las Vegas,NV,USA,","
 2004-04-17,2004,0,16,3,2,0,0,3,2004 Vegas Run,2004 Vegas,You Enjoy Myself,YEM,1,Thomas & Mack Center,Las Vegas,NV,USA,->
 2004-04-17,2004,0,17,5,2,0,0,6,2004 Vegas Run,2004 Vegas,Tweezer Reprise,Tweeprise,1,Thomas & Mack Center,Las Vegas,NV,USA,
 2004-04-17,2004,0,18,1,e,0,0,5,2004 Vegas Run,2004 Vegas,Wolfman's Brother,Wolfman's,1,Thomas & Mack Center,Las Vegas,NV,USA,","
 2004-04-17,2004,0,19,6,e,0,0,5,2004 Vegas Run,2004 Vegas,The Squirming Coil,Coil,1,Thomas & Mack Center,Las Vegas,NV,USA,
 2004-06-17,2004,0,1,1,1,0,0,1409,2004 Early Summer Tour,2004 Summer,A Song I Heard the Ocean Sing,ASIHTOS,1,KeySpan Park,Brooklyn,NY,USA,","
-2004-06-17,2004,0,2,1,1,0,0,55,2004 Early Summer Tour,2004 Summer,Dinner and a Movie,Dinner and a Movie,1,KeySpan Park,Brooklyn,NY,USA,","
+2004-06-17,2004,0,2,1,1,0,0,55,2004 Early Summer Tour,2004 Summer,Dinner and a Movie,,1,KeySpan Park,Brooklyn,NY,USA,","
 2004-06-17,2004,0,3,1,1,0,0,54,2004 Early Summer Tour,2004 Summer,The Curtain With,Curtain With,1,KeySpan Park,Brooklyn,NY,USA,","
 2004-06-17,2004,0,4,1,1,0,0,1,2004 Early Summer Tour,2004 Summer,Sample in a Jar,Sample,1,KeySpan Park,Brooklyn,NY,USA,","
 2004-06-17,2004,0,5,3,1,0,0,3,2004 Early Summer Tour,2004 Summer,The Moma Dance,Moma,1,KeySpan Park,Brooklyn,NY,USA,->
-2004-06-17,2004,0,6,1,1,0,0,3,2004 Early Summer Tour,2004 Summer,Free,Free,1,KeySpan Park,Brooklyn,NY,USA,","
-2004-06-17,2004,0,7,1,1,0,0,1409,2004 Early Summer Tour,2004 Summer,Nothing,Nothing,0,KeySpan Park,Brooklyn,NY,USA,","
-2004-06-17,2004,0,8,1,1,0,0,8,2004 Early Summer Tour,2004 Summer,Maze,Maze,1,KeySpan Park,Brooklyn,NY,USA,","
-2004-06-17,2004,0,9,4,1,0,0,1,2004 Early Summer Tour,2004 Summer,Frankenstein,Frankenstein,0,KeySpan Park,Brooklyn,NY,USA,
-2004-06-17,2004,0,10,3,2,0,0,3,2004 Early Summer Tour,2004 Summer,46 Days,46 Days,1,KeySpan Park,Brooklyn,NY,USA,->
-2004-06-17,2004,0,11,2,2,0,0,2,2004 Early Summer Tour,2004 Summer,Possum,Possum,1,KeySpan Park,Brooklyn,NY,USA,>
+2004-06-17,2004,0,6,1,1,0,0,3,2004 Early Summer Tour,2004 Summer,Free,,1,KeySpan Park,Brooklyn,NY,USA,","
+2004-06-17,2004,0,7,1,1,0,0,1409,2004 Early Summer Tour,2004 Summer,Nothing,,0,KeySpan Park,Brooklyn,NY,USA,","
+2004-06-17,2004,0,8,1,1,0,0,8,2004 Early Summer Tour,2004 Summer,Maze,,1,KeySpan Park,Brooklyn,NY,USA,","
+2004-06-17,2004,0,9,4,1,0,0,1,2004 Early Summer Tour,2004 Summer,Frankenstein,,0,KeySpan Park,Brooklyn,NY,USA,
+2004-06-17,2004,0,10,3,2,0,0,3,2004 Early Summer Tour,2004 Summer,46 Days,,1,KeySpan Park,Brooklyn,NY,USA,->
+2004-06-17,2004,0,11,2,2,0,0,2,2004 Early Summer Tour,2004 Summer,Possum,,1,KeySpan Park,Brooklyn,NY,USA,>
 2004-06-17,2004,0,12,2,2,0,0,44,2004 Early Summer Tour,2004 Summer,The Oh Kee Pa Ceremony,Oh Kee Pa,1,KeySpan Park,Brooklyn,NY,USA,>
 2004-06-17,2004,0,13,2,2,0,0,7,2004 Early Summer Tour,2004 Summer,Suzy Greenberg,Suzy,1,KeySpan Park,Brooklyn,NY,USA,>
-2004-06-17,2004,0,14,2,2,0,0,24,2004 Early Summer Tour,2004 Summer,Axilla,Axilla,1,KeySpan Park,Brooklyn,NY,USA,>
+2004-06-17,2004,0,14,2,2,0,0,24,2004 Early Summer Tour,2004 Summer,Axilla,,1,KeySpan Park,Brooklyn,NY,USA,>
 2004-06-17,2004,0,15,2,2,0,0,3,2004 Early Summer Tour,2004 Summer,Also Sprach Zarathustra,2001,0,KeySpan Park,Brooklyn,NY,USA,>
 2004-06-17,2004,0,16,1,2,0,0,5,2004 Early Summer Tour,2004 Summer,Birds of a Feather,BOAF,1,KeySpan Park,Brooklyn,NY,USA,","
-2004-06-17,2004,0,17,1,2,0,0,8,2004 Early Summer Tour,2004 Summer,Kung,Kung,1,KeySpan Park,Brooklyn,NY,USA,","
+2004-06-17,2004,0,17,1,2,0,0,8,2004 Early Summer Tour,2004 Summer,Kung,,1,KeySpan Park,Brooklyn,NY,USA,","
 2004-06-17,2004,0,18,2,2,0,0,4,2004 Early Summer Tour,2004 Summer,Mike's Song,Mike's,1,KeySpan Park,Brooklyn,NY,USA,>
 2004-06-17,2004,0,19,2,2,0,0,4,2004 Early Summer Tour,2004 Summer,I Am Hydrogen,Hydrogen,1,KeySpan Park,Brooklyn,NY,USA,>
 2004-06-17,2004,0,20,5,2,0,0,4,2004 Early Summer Tour,2004 Summer,Weekapaug Groove,Weekapaug,1,KeySpan Park,Brooklyn,NY,USA,
 2004-06-17,2004,0,21,6,e,0,0,6,2004 Early Summer Tour,2004 Summer,Divided Sky,Divided,1,KeySpan Park,Brooklyn,NY,USA,
 2004-06-18,2004,0,1,2,1,2,0,4,2004 Early Summer Tour,2004 Summer,AC/DC Bag,Bag,1,KeySpan Park,Brooklyn,NY,USA,>
-2004-06-18,2004,0,2,1,1,2,0,3,2004 Early Summer Tour,2004 Summer,Camel Walk,Camel Walk,1,KeySpan Park,Brooklyn,NY,USA,","
-2004-06-18,2004,0,3,1,1,2,0,4,2004 Early Summer Tour,2004 Summer,Crowd Control,Crowd Control,1,KeySpan Park,Brooklyn,NY,USA,","
-2004-06-18,2004,0,4,1,1,2,0,4,2004 Early Summer Tour,2004 Summer,Stash,Stash,1,KeySpan Park,Brooklyn,NY,USA,","
+2004-06-18,2004,0,2,1,1,2,0,3,2004 Early Summer Tour,2004 Summer,Camel Walk,,1,KeySpan Park,Brooklyn,NY,USA,","
+2004-06-18,2004,0,3,1,1,2,0,4,2004 Early Summer Tour,2004 Summer,Crowd Control,,1,KeySpan Park,Brooklyn,NY,USA,","
+2004-06-18,2004,0,4,1,1,2,0,4,2004 Early Summer Tour,2004 Summer,Stash,,1,KeySpan Park,Brooklyn,NY,USA,","
 2004-06-18,2004,0,5,2,1,2,0,11,2004 Early Summer Tour,2004 Summer,Cars Trucks Buses,CTB,1,KeySpan Park,Brooklyn,NY,USA,>
-2004-06-18,2004,0,6,2,1,2,0,22,2004 Early Summer Tour,2004 Summer,Carini,Carini,1,KeySpan Park,Brooklyn,NY,USA,>
+2004-06-18,2004,0,6,2,1,2,0,22,2004 Early Summer Tour,2004 Summer,Carini,,1,KeySpan Park,Brooklyn,NY,USA,>
 2004-06-18,2004,0,7,2,1,2,0,32,2004 Early Summer Tour,2004 Summer,My Sweet One,MSO,1,KeySpan Park,Brooklyn,NY,USA,>
-2004-06-18,2004,0,8,2,1,2,0,11,2004 Early Summer Tour,2004 Summer,Character Zero,Character Zero,1,KeySpan Park,Brooklyn,NY,USA,>
-2004-06-18,2004,0,9,4,1,2,0,2,2004 Early Summer Tour,2004 Summer,Tweezer,Tweezer,1,KeySpan Park,Brooklyn,NY,USA,
-2004-06-18,2004,0,10,2,2,2,0,3,2004 Early Summer Tour,2004 Summer,Wilson,Wilson,1,KeySpan Park,Brooklyn,NY,USA,>
+2004-06-18,2004,0,8,2,1,2,0,11,2004 Early Summer Tour,2004 Summer,Character Zero,,1,KeySpan Park,Brooklyn,NY,USA,>
+2004-06-18,2004,0,9,4,1,2,0,2,2004 Early Summer Tour,2004 Summer,Tweezer,,1,KeySpan Park,Brooklyn,NY,USA,
+2004-06-18,2004,0,10,2,2,2,0,3,2004 Early Summer Tour,2004 Summer,Wilson,,1,KeySpan Park,Brooklyn,NY,USA,>
 2004-06-18,2004,0,11,1,2,2,0,4,2004 Early Summer Tour,2004 Summer,Down with Disease,DwD,1,KeySpan Park,Brooklyn,NY,USA,","
-2004-06-18,2004,0,12,1,2,2,0,1406,2004 Early Summer Tour,2004 Summer,99 Problems,99 Problems,0,KeySpan Park,Brooklyn,NY,USA,","
-2004-06-18,2004,0,13,2,2,2,0,1406,2004 Early Summer Tour,2004 Summer,Big Pimpin',Big Pimpin',0,KeySpan Park,Brooklyn,NY,USA,>
+2004-06-18,2004,0,12,1,2,2,0,1406,2004 Early Summer Tour,2004 Summer,99 Problems,,0,KeySpan Park,Brooklyn,NY,USA,","
+2004-06-18,2004,0,13,2,2,2,0,1406,2004 Early Summer Tour,2004 Summer,Big Pimpin',,0,KeySpan Park,Brooklyn,NY,USA,>
 2004-06-18,2004,0,14,1,2,2,0,5,2004 Early Summer Tour,2004 Summer,Chalk Dust Torture,CDT,1,KeySpan Park,Brooklyn,NY,USA,","
 2004-06-18,2004,0,15,2,2,2,0,3,2004 Early Summer Tour,2004 Summer,Harry Hood,Hood,1,KeySpan Park,Brooklyn,NY,USA,>
-2004-06-18,2004,0,16,5,2,2,0,3,2004 Early Summer Tour,2004 Summer,Taste,Taste,1,KeySpan Park,Brooklyn,NY,USA,
-2004-06-18,2004,0,17,2,e,2,0,9,2004 Early Summer Tour,2004 Summer,Bug,Bug,0,KeySpan Park,Brooklyn,NY,USA,>
+2004-06-18,2004,0,16,5,2,2,0,3,2004 Early Summer Tour,2004 Summer,Taste,,1,KeySpan Park,Brooklyn,NY,USA,
+2004-06-18,2004,0,17,2,e,2,0,9,2004 Early Summer Tour,2004 Summer,Bug,,0,KeySpan Park,Brooklyn,NY,USA,>
 2004-06-18,2004,0,18,6,e,2,0,2,2004 Early Summer Tour,2004 Summer,Tweezer Reprise,Tweeprise,1,KeySpan Park,Brooklyn,NY,USA,
-2004-06-19,2004,0,1,1,1,0,0,6,2004 Early Summer Tour,2004 Summer,Reba,Reba,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2004-06-19,2004,0,2,2,1,0,0,6,2004 Early Summer Tour,2004 Summer,Runaway Jim,Runaway Jim,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2004-06-19,2004,0,3,2,1,0,0,7,2004 Early Summer Tour,2004 Summer,NICU,NICU,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2004-06-19,2004,0,4,1,1,0,0,15,2004 Early Summer Tour,2004 Summer,Scents and Subtle Sounds,Scents and Subtle Sounds,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2004-06-19,2004,0,1,1,1,0,0,6,2004 Early Summer Tour,2004 Summer,Reba,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2004-06-19,2004,0,2,2,1,0,0,6,2004 Early Summer Tour,2004 Summer,Runaway Jim,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2004-06-19,2004,0,3,2,1,0,0,7,2004 Early Summer Tour,2004 Summer,NICU,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2004-06-19,2004,0,4,1,1,0,0,15,2004 Early Summer Tour,2004 Summer,Scents and Subtle Sounds,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2004-06-19,2004,0,5,1,1,0,0,3,2004 Early Summer Tour,2004 Summer,Wolfman's Brother,Wolfman's,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2004-06-19,2004,0,6,3,1,0,0,13,2004 Early Summer Tour,2004 Summer,Walls of the Cave,WotC,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
 2004-06-19,2004,0,7,4,1,0,0,3,2004 Early Summer Tour,2004 Summer,David Bowie,Bowie,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
 2004-06-19,2004,0,8,2,2,0,0,2,2004 Early Summer Tour,2004 Summer,A Song I Heard the Ocean Sing,ASIHTOS,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2004-06-19,2004,0,9,3,2,0,0,3,2004 Early Summer Tour,2004 Summer,Piper,Piper,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
+2004-06-19,2004,0,9,3,2,0,0,3,2004 Early Summer Tour,2004 Summer,Piper,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
 2004-06-19,2004,0,10,2,2,0,0,4,2004 Early Summer Tour,2004 Summer,Gotta Jibboo,Jibboo,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2004-06-19,2004,0,11,1,2,0,0,5,2004 Early Summer Tour,2004 Summer,Limb By Limb,LxL,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2004-06-19,2004,0,12,5,2,0,0,8,2004 Early Summer Tour,2004 Summer,Cavern,Cavern,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
+2004-06-19,2004,0,12,5,2,0,0,8,2004 Early Summer Tour,2004 Summer,Cavern,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
 2004-06-19,2004,0,13,6,e,0,0,20,2004 Early Summer Tour,2004 Summer,Wading in the Velvet Sea,Velvet Sea,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
-2004-06-20,2004,0,1,2,1,0,0,23,2004 Early Summer Tour,2004 Summer,Rift,Rift,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2004-06-20,2004,0,2,1,1,0,0,13,2004 Early Summer Tour,2004 Summer,Julius,Julius,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2004-06-20,2004,0,3,1,1,0,0,167,2004 Early Summer Tour,2004 Summer,"Bill Bailey, Won't You Please Come Home?","Bill Bailey, Won't You Please Come Home?",0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2004-06-20,2004,0,4,1,1,0,0,5,2004 Early Summer Tour,2004 Summer,Waves,Waves,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2004-06-20,2004,0,5,1,1,0,0,5,2004 Early Summer Tour,2004 Summer,Gumbo,Gumbo,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2004-06-20,2004,0,6,1,1,0,0,6,2004 Early Summer Tour,2004 Summer,Water in the Sky,Water in the Sky,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2004-06-20,2004,0,7,1,1,0,0,4,2004 Early Summer Tour,2004 Summer,Horn,Horn,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2004-06-20,2004,0,8,2,1,0,0,9,2004 Early Summer Tour,2004 Summer,Poor Heart,Poor Heart,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2004-06-20,2004,0,9,4,1,0,0,6,2004 Early Summer Tour,2004 Summer,Drowned,Drowned,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
-2004-06-20,2004,0,10,2,2,0,0,5,2004 Early Summer Tour,2004 Summer,Seven Below,Seven Below,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2004-06-20,2004,0,11,3,2,0,0,4,2004 Early Summer Tour,2004 Summer,Ghost,Ghost,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
-2004-06-20,2004,0,12,1,2,0,0,5,2004 Early Summer Tour,2004 Summer,Twist,Twist,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2004-06-20,2004,0,1,2,1,0,0,23,2004 Early Summer Tour,2004 Summer,Rift,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2004-06-20,2004,0,2,1,1,0,0,13,2004 Early Summer Tour,2004 Summer,Julius,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2004-06-20,2004,0,3,1,1,0,0,167,2004 Early Summer Tour,2004 Summer,"Bill Bailey, Won't You Please Come Home?",,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2004-06-20,2004,0,4,1,1,0,0,5,2004 Early Summer Tour,2004 Summer,Waves,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2004-06-20,2004,0,5,1,1,0,0,5,2004 Early Summer Tour,2004 Summer,Gumbo,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2004-06-20,2004,0,6,1,1,0,0,6,2004 Early Summer Tour,2004 Summer,Water in the Sky,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2004-06-20,2004,0,7,1,1,0,0,4,2004 Early Summer Tour,2004 Summer,Horn,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2004-06-20,2004,0,8,2,1,0,0,9,2004 Early Summer Tour,2004 Summer,Poor Heart,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2004-06-20,2004,0,9,4,1,0,0,6,2004 Early Summer Tour,2004 Summer,Drowned,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
+2004-06-20,2004,0,10,2,2,0,0,5,2004 Early Summer Tour,2004 Summer,Seven Below,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2004-06-20,2004,0,11,3,2,0,0,4,2004 Early Summer Tour,2004 Summer,Ghost,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
+2004-06-20,2004,0,12,1,2,0,0,5,2004 Early Summer Tour,2004 Summer,Twist,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2004-06-20,2004,0,13,5,2,0,0,4,2004 Early Summer Tour,2004 Summer,You Enjoy Myself,YEM,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
 2004-06-20,2004,0,14,6,e,0,0,9,2004 Early Summer Tour,2004 Summer,Good Times Bad Times,GTBT,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
-2004-06-21,2004,0,1,1,1,0,0,2,Not Part of a Tour,No Tour,Scents and Subtle Sounds,Scents and Subtle Sounds,1,Ed Sullivan Theater,New York,NY,USA,","
-2004-06-21,2004,0,2,1,1,0,0,0,Not Part of a Tour,No Tour,Scents and Subtle Sounds,Scents and Subtle Sounds,1,Ed Sullivan Theater,New York,NY,USA,","
+2004-06-21,2004,0,1,1,1,0,0,2,Not Part of a Tour,No Tour,Scents and Subtle Sounds,,1,Ed Sullivan Theater,New York,NY,USA,","
+2004-06-21,2004,0,2,1,1,0,0,0,Not Part of a Tour,No Tour,Scents and Subtle Sounds,,1,Ed Sullivan Theater,New York,NY,USA,","
 2004-06-21,2004,0,3,1,1,0,0,4,Not Part of a Tour,No Tour,Also Sprach Zarathustra,2001,0,Ed Sullivan Theater,New York,NY,USA,","
-2004-06-21,2004,0,4,2,1,0,0,3,Not Part of a Tour,No Tour,Wilson,Wilson,1,Ed Sullivan Theater,New York,NY,USA,>
+2004-06-21,2004,0,4,2,1,0,0,3,Not Part of a Tour,No Tour,Wilson,,1,Ed Sullivan Theater,New York,NY,USA,>
 2004-06-21,2004,0,5,2,1,0,0,3,Not Part of a Tour,No Tour,Chalk Dust Torture,CDT,1,Ed Sullivan Theater,New York,NY,USA,>
-2004-06-21,2004,0,6,2,1,0,0,3,Not Part of a Tour,No Tour,Tweezer,Tweezer,1,Ed Sullivan Theater,New York,NY,USA,>
+2004-06-21,2004,0,6,2,1,0,0,3,Not Part of a Tour,No Tour,Tweezer,,1,Ed Sullivan Theater,New York,NY,USA,>
 2004-06-21,2004,0,7,6,1,0,0,3,Not Part of a Tour,No Tour,Tweezer Reprise,Tweeprise,1,Ed Sullivan Theater,New York,NY,USA,
-2004-06-23,2004,0,1,1,1,0,0,12,2004 Early Summer Tour,2004 Summer,Llama,Llama,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2004-06-23,2004,0,1,1,1,0,0,12,2004 Early Summer Tour,2004 Summer,Llama,,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
 2004-06-23,2004,0,2,2,1,0,0,12,2004 Early Summer Tour,2004 Summer,Bouncing Around the Room,Bouncin',1,Verizon Wireless Music Center,Noblesville,IN,USA,>
 2004-06-23,2004,0,3,1,1,0,0,10,2004 Early Summer Tour,2004 Summer,Bathtub Gin,Gin,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
-2004-06-23,2004,0,4,1,1,0,0,13,2004 Early Summer Tour,2004 Summer,Ya Mar,Ya Mar,0,Verizon Wireless Music Center,Noblesville,IN,USA,","
-2004-06-23,2004,0,5,1,1,0,0,6,2004 Early Summer Tour,2004 Summer,Pebbles and Marbles,Pebbles and Marbles,0,Verizon Wireless Music Center,Noblesville,IN,USA,","
-2004-06-23,2004,0,6,1,1,0,0,17,2004 Early Summer Tour,2004 Summer,Army of One,Army of One,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2004-06-23,2004,0,4,1,1,0,0,13,2004 Early Summer Tour,2004 Summer,Ya Mar,,0,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2004-06-23,2004,0,5,1,1,0,0,6,2004 Early Summer Tour,2004 Summer,Pebbles and Marbles,,0,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2004-06-23,2004,0,6,1,1,0,0,17,2004 Early Summer Tour,2004 Summer,Army of One,,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
 2004-06-23,2004,0,7,4,1,0,0,26,2004 Early Summer Tour,2004 Summer,Split Open and Melt,SOAMelt,1,Verizon Wireless Music Center,Noblesville,IN,USA,
 2004-06-23,2004,0,8,2,2,0,0,6,2004 Early Summer Tour,2004 Summer,Halley's Comet,Halley's,1,Verizon Wireless Music Center,Noblesville,IN,USA,>
 2004-06-23,2004,0,9,2,2,0,0,21,2004 Early Summer Tour,2004 Summer,Crosseyed and Painless,C&amp;P,0,Verizon Wireless Music Center,Noblesville,IN,USA,>
 2004-06-23,2004,0,10,1,2,0,0,8,2004 Early Summer Tour,2004 Summer,Slave to the Traffic Light,Slave,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
-2004-06-23,2004,0,11,3,2,0,0,5,2004 Early Summer Tour,2004 Summer,Nothing,Nothing,0,Verizon Wireless Music Center,Noblesville,IN,USA,->
-2004-06-23,2004,0,12,2,2,0,0,5,2004 Early Summer Tour,2004 Summer,46 Days,46 Days,1,Verizon Wireless Music Center,Noblesville,IN,USA,>
-2004-06-23,2004,0,13,3,2,0,0,1,2004 Early Summer Tour,2004 Summer,Scents and Subtle Sounds,Scents and Subtle Sounds,1,Verizon Wireless Music Center,Noblesville,IN,USA,->
-2004-06-23,2004,0,14,1,2,0,0,7,2004 Early Summer Tour,2004 Summer,Brian and Robert,Brian and Robert,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2004-06-23,2004,0,11,3,2,0,0,5,2004 Early Summer Tour,2004 Summer,Nothing,,0,Verizon Wireless Music Center,Noblesville,IN,USA,->
+2004-06-23,2004,0,12,2,2,0,0,5,2004 Early Summer Tour,2004 Summer,46 Days,,1,Verizon Wireless Music Center,Noblesville,IN,USA,>
+2004-06-23,2004,0,13,3,2,0,0,1,2004 Early Summer Tour,2004 Summer,Scents and Subtle Sounds,,1,Verizon Wireless Music Center,Noblesville,IN,USA,->
+2004-06-23,2004,0,14,1,2,0,0,7,2004 Early Summer Tour,2004 Summer,Brian and Robert,,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
 2004-06-23,2004,0,15,1,2,0,0,3,2004 Early Summer Tour,2004 Summer,Limb By Limb,LxL,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
-2004-06-23,2004,0,16,5,2,0,0,3,2004 Early Summer Tour,2004 Summer,Cavern,Cavern,1,Verizon Wireless Music Center,Noblesville,IN,USA,
-2004-06-23,2004,0,17,6,e,0,0,11,2004 Early Summer Tour,2004 Summer,Waste,Waste,1,Verizon Wireless Music Center,Noblesville,IN,USA,
-2004-06-24,2004,0,1,1,1,0,0,8,2004 Early Summer Tour,2004 Summer,Loving Cup,Loving Cup,0,Verizon Wireless Music Center,Noblesville,IN,USA,","
-2004-06-24,2004,0,2,3,1,0,0,11,2004 Early Summer Tour,2004 Summer,Cities,Cities,0,Verizon Wireless Music Center,Noblesville,IN,USA,->
+2004-06-23,2004,0,16,5,2,0,0,3,2004 Early Summer Tour,2004 Summer,Cavern,,1,Verizon Wireless Music Center,Noblesville,IN,USA,
+2004-06-23,2004,0,17,6,e,0,0,11,2004 Early Summer Tour,2004 Summer,Waste,,1,Verizon Wireless Music Center,Noblesville,IN,USA,
+2004-06-24,2004,0,1,1,1,0,0,8,2004 Early Summer Tour,2004 Summer,Loving Cup,,0,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2004-06-24,2004,0,2,3,1,0,0,11,2004 Early Summer Tour,2004 Summer,Cities,,0,Verizon Wireless Music Center,Noblesville,IN,USA,->
 2004-06-24,2004,0,3,1,1,0,0,8,2004 Early Summer Tour,2004 Summer,Back on the Train,BOTT,0,Verizon Wireless Music Center,Noblesville,IN,USA,","
-2004-06-24,2004,0,4,1,1,0,0,19,2004 Early Summer Tour,2004 Summer,Vultures,Vultures,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2004-06-24,2004,0,4,1,1,0,0,19,2004 Early Summer Tour,2004 Summer,Vultures,,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
 2004-06-24,2004,0,5,1,1,0,0,24,2004 Early Summer Tour,2004 Summer,My Mind's Got a Mind of its Own,MMGAMOIO,0,Verizon Wireless Music Center,Noblesville,IN,USA,","
 2004-06-24,2004,0,6,3,1,0,0,5,2004 Early Summer Tour,2004 Summer,Down with Disease,DwD,1,Verizon Wireless Music Center,Noblesville,IN,USA,->
 2004-06-24,2004,0,7,4,1,0,0,8,2004 Early Summer Tour,2004 Summer,Rock and Roll,R&amp;R,0,Verizon Wireless Music Center,Noblesville,IN,USA,
-2004-06-24,2004,0,8,1,2,0,0,10,2004 Early Summer Tour,2004 Summer,Tube,Tube,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
+2004-06-24,2004,0,8,1,2,0,0,10,2004 Early Summer Tour,2004 Summer,Tube,,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
 2004-06-24,2004,0,9,1,2,0,0,10,2004 Early Summer Tour,2004 Summer,Run Like an Antelope,Antelope,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
 2004-06-24,2004,0,10,1,2,0,0,14,2004 Early Summer Tour,2004 Summer,The Wedge,Wedge,1,Verizon Wireless Music Center,Noblesville,IN,USA,","
 2004-06-24,2004,0,11,1,2,0,0,9,2004 Early Summer Tour,2004 Summer,Timber (Jerry the Mule),Timber Ho,0,Verizon Wireless Music Center,Noblesville,IN,USA,","
 2004-06-24,2004,0,12,2,2,0,0,7,2004 Early Summer Tour,2004 Summer,Prince Caspian,Caspian,1,Verizon Wireless Music Center,Noblesville,IN,USA,>
-2004-06-24,2004,0,13,2,2,0,0,7,2004 Early Summer Tour,2004 Summer,Simple,Simple,1,Verizon Wireless Music Center,Noblesville,IN,USA,>
+2004-06-24,2004,0,13,2,2,0,0,7,2004 Early Summer Tour,2004 Summer,Simple,,1,Verizon Wireless Music Center,Noblesville,IN,USA,>
 2004-06-24,2004,0,14,5,2,0,0,4,2004 Early Summer Tour,2004 Summer,Walls of the Cave,WotC,1,Verizon Wireless Music Center,Noblesville,IN,USA,
 2004-06-24,2004,0,15,6,e,0,0,7,2004 Early Summer Tour,2004 Summer,The Squirming Coil,Coil,1,Verizon Wireless Music Center,Noblesville,IN,USA,
-2004-06-25,2004,0,1,2,1,0,0,4,2004 Early Summer Tour,2004 Summer,Julius,Julius,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2004-06-25,2004,0,1,2,1,0,0,4,2004 Early Summer Tour,2004 Summer,Julius,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2004-06-25,2004,0,2,2,1,0,0,60,2004 Early Summer Tour,2004 Summer,Roses Are Free,Roses,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2004-06-25,2004,0,3,2,1,0,0,6,2004 Early Summer Tour,2004 Summer,AC/DC Bag,Bag,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2004-06-25,2004,0,4,1,1,0,0,56,2004 Early Summer Tour,2004 Summer,Glide,Glide,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2004-06-25,2004,0,5,1,1,0,0,13,2004 Early Summer Tour,2004 Summer,Anything But Me,Anything But Me,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2004-06-25,2004,0,4,1,1,0,0,56,2004 Early Summer Tour,2004 Summer,Glide,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2004-06-25,2004,0,5,1,1,0,0,13,2004 Early Summer Tour,2004 Summer,Anything But Me,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2004-06-25,2004,0,6,1,1,0,0,5,2004 Early Summer Tour,2004 Summer,David Bowie,Bowie,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2004-06-25,2004,0,7,1,1,0,0,5,2004 Early Summer Tour,2004 Summer,Wolfman's Brother,Wolfman's,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2004-06-25,2004,0,8,4,1,0,0,23,2004 Early Summer Tour,2004 Summer,Golgi Apparatus,Golgi,1,Alpine Valley Music Theatre,East Troy,WI,USA,
-2004-06-25,2004,0,9,3,2,0,0,4,2004 Early Summer Tour,2004 Summer,Seven Below,Seven Below,1,Alpine Valley Music Theatre,East Troy,WI,USA,->
-2004-06-25,2004,0,10,2,2,0,0,17,2004 Early Summer Tour,2004 Summer,Buffalo Bill,Buffalo Bill,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2004-06-25,2004,0,11,2,2,0,0,11,2004 Early Summer Tour,2004 Summer,Lawn Boy,Lawn Boy,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2004-06-25,2004,0,9,3,2,0,0,4,2004 Early Summer Tour,2004 Summer,Seven Below,,1,Alpine Valley Music Theatre,East Troy,WI,USA,->
+2004-06-25,2004,0,10,2,2,0,0,17,2004 Early Summer Tour,2004 Summer,Buffalo Bill,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2004-06-25,2004,0,11,2,2,0,0,11,2004 Early Summer Tour,2004 Summer,Lawn Boy,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2004-06-25,2004,0,12,2,2,0,0,7,2004 Early Summer Tour,2004 Summer,Mike's Song,Mike's,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2004-06-25,2004,0,13,2,2,0,0,7,2004 Early Summer Tour,2004 Summer,I Am Hydrogen,Hydrogen,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2004-06-25,2004,0,14,1,2,0,0,7,2004 Early Summer Tour,2004 Summer,Weekapaug Groove,Weekapaug,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
@@ -200,39 +200,39 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2004-06-25,2004,0,16,3,2,0,0,3,2004 Early Summer Tour,2004 Summer,Also Sprach Zarathustra,2001,0,Alpine Valley Music Theatre,East Troy,WI,USA,->
 2004-06-25,2004,0,17,5,2,0,0,0,2004 Early Summer Tour,2004 Summer,You Enjoy Myself,YEM,1,Alpine Valley Music Theatre,East Troy,WI,USA,
 2004-06-25,2004,0,18,6,e,0,0,7,2004 Early Summer Tour,2004 Summer,Sample in a Jar,Sample,1,Alpine Valley Music Theatre,East Troy,WI,USA,
-2004-06-26,2004,0,1,2,1,0,0,1417,2004 Early Summer Tour,2004 Summer,Access Me,Access Me,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2004-06-26,2004,0,2,1,1,0,0,3,2004 Early Summer Tour,2004 Summer,Scents and Subtle Sounds,Scents and Subtle Sounds,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2004-06-26,2004,0,3,1,1,0,0,7,2004 Early Summer Tour,2004 Summer,Stash,Stash,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2004-06-26,2004,0,1,2,1,0,0,1417,2004 Early Summer Tour,2004 Summer,Access Me,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2004-06-26,2004,0,2,1,1,0,0,3,2004 Early Summer Tour,2004 Summer,Scents and Subtle Sounds,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2004-06-26,2004,0,3,1,1,0,0,7,2004 Early Summer Tour,2004 Summer,Stash,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2004-06-26,2004,0,4,1,1,0,0,8,2004 Early Summer Tour,2004 Summer,The Moma Dance,Moma,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2004-06-26,2004,0,5,1,1,0,0,8,2004 Early Summer Tour,2004 Summer,Divided Sky,Divided,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2004-06-26,2004,0,6,2,1,0,0,4,2004 Early Summer Tour,2004 Summer,Wilson,Wilson,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2004-06-26,2004,0,7,2,1,0,0,27,2004 Early Summer Tour,2004 Summer,Funky Bitch,Funky Bitch,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2004-06-26,2004,0,8,4,1,0,0,7,2004 Early Summer Tour,2004 Summer,Character Zero,Character Zero,1,Alpine Valley Music Theatre,East Troy,WI,USA,
+2004-06-26,2004,0,6,2,1,0,0,4,2004 Early Summer Tour,2004 Summer,Wilson,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2004-06-26,2004,0,7,2,1,0,0,27,2004 Early Summer Tour,2004 Summer,Funky Bitch,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2004-06-26,2004,0,8,4,1,0,0,7,2004 Early Summer Tour,2004 Summer,Character Zero,,1,Alpine Valley Music Theatre,East Troy,WI,USA,
 2004-06-26,2004,0,9,3,2,0,0,10,2004 Early Summer Tour,2004 Summer,Boogie On Reggae Woman,Boogie On,0,Alpine Valley Music Theatre,East Troy,WI,USA,->
-2004-06-26,2004,0,10,2,2,0,0,5,2004 Early Summer Tour,2004 Summer,Ghost,Ghost,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2004-06-26,2004,0,11,1,2,0,0,8,2004 Early Summer Tour,2004 Summer,Free,Free,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2004-06-26,2004,0,12,2,2,0,0,9,2004 Early Summer Tour,2004 Summer,Friday,Friday,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2004-06-26,2004,0,13,2,2,0,0,6,2004 Early Summer Tour,2004 Summer,Piper,Piper,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2004-06-26,2004,0,10,2,2,0,0,5,2004 Early Summer Tour,2004 Summer,Ghost,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2004-06-26,2004,0,11,1,2,0,0,8,2004 Early Summer Tour,2004 Summer,Free,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2004-06-26,2004,0,12,2,2,0,0,9,2004 Early Summer Tour,2004 Summer,Friday,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2004-06-26,2004,0,13,2,2,0,0,6,2004 Early Summer Tour,2004 Summer,Piper,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2004-06-26,2004,0,14,5,2,0,0,7,2004 Early Summer Tour,2004 Summer,Harry Hood,Hood,1,Alpine Valley Music Theatre,East Troy,WI,USA,
-2004-06-26,2004,0,15,6,e,0,0,8,2004 Early Summer Tour,2004 Summer,Possum,Possum,1,Alpine Valley Music Theatre,East Troy,WI,USA,
+2004-06-26,2004,0,15,6,e,0,0,8,2004 Early Summer Tour,2004 Summer,Possum,,1,Alpine Valley Music Theatre,East Troy,WI,USA,
 2004-08-09,2004,0,1,1,1,0,0,5,2004 Late Summer Tour,2004 Summer,Chalk Dust Torture,CDT,1,Hampton Coliseum,Hampton,VA,USA,","
 2004-08-09,2004,0,2,3,1,0,0,4,2004 Late Summer Tour,2004 Summer,Bathtub Gin,Gin,1,Hampton Coliseum,Hampton,VA,USA,->
-2004-08-09,2004,0,3,1,1,0,0,7,2004 Late Summer Tour,2004 Summer,Runaway Jim,Runaway Jim,1,Hampton Coliseum,Hampton,VA,USA,","
+2004-08-09,2004,0,3,1,1,0,0,7,2004 Late Summer Tour,2004 Summer,Runaway Jim,,1,Hampton Coliseum,Hampton,VA,USA,","
 2004-08-09,2004,0,4,1,1,0,0,3,2004 Late Summer Tour,2004 Summer,Walls of the Cave,WotC,1,Hampton Coliseum,Hampton,VA,USA,","
-2004-08-09,2004,0,5,4,1,0,0,3,2004 Late Summer Tour,2004 Summer,Loving Cup,Loving Cup,0,Hampton Coliseum,Hampton,VA,USA,
-2004-08-09,2004,0,6,1,2,0,0,12,2004 Late Summer Tour,2004 Summer,All of These Dreams,All of These Dreams,1,Hampton Coliseum,Hampton,VA,USA,","
+2004-08-09,2004,0,5,4,1,0,0,3,2004 Late Summer Tour,2004 Summer,Loving Cup,,0,Hampton Coliseum,Hampton,VA,USA,
+2004-08-09,2004,0,6,1,2,0,0,12,2004 Late Summer Tour,2004 Summer,All of These Dreams,,1,Hampton Coliseum,Hampton,VA,USA,","
 2004-08-09,2004,0,7,1,2,0,0,4,2004 Late Summer Tour,2004 Summer,Limb By Limb,LxL,1,Hampton Coliseum,Hampton,VA,USA,","
-2004-08-09,2004,0,8,1,2,0,0,11,2004 Late Summer Tour,2004 Summer,Lifeboy,Lifeboy,1,Hampton Coliseum,Hampton,VA,USA,","
-2004-08-09,2004,0,9,2,2,0,0,8,2004 Late Summer Tour,2004 Summer,Crowd Control,Crowd Control,1,Hampton Coliseum,Hampton,VA,USA,>
-2004-08-09,2004,0,10,2,2,0,0,2,2004 Late Summer Tour,2004 Summer,Seven Below,Seven Below,1,Hampton Coliseum,Hampton,VA,USA,>
-2004-08-09,2004,0,11,3,2,0,0,1,2004 Late Summer Tour,2004 Summer,Stash,Stash,1,Hampton Coliseum,Hampton,VA,USA,->
-2004-08-09,2004,0,12,1,2,0,0,7,2004 Late Summer Tour,2004 Summer,NICU,NICU,1,Hampton Coliseum,Hampton,VA,USA,","
-2004-08-09,2004,0,13,2,2,0,0,8,2004 Late Summer Tour,2004 Summer,Bug,Bug,0,Hampton Coliseum,Hampton,VA,USA,>
-2004-08-09,2004,0,14,2,2,0,0,14,2004 Late Summer Tour,2004 Summer,Contact,Contact,1,Hampton Coliseum,Hampton,VA,USA,>
-2004-08-09,2004,0,15,5,2,0,0,1,2004 Late Summer Tour,2004 Summer,Character Zero,Character Zero,1,Hampton Coliseum,Hampton,VA,USA,
+2004-08-09,2004,0,8,1,2,0,0,11,2004 Late Summer Tour,2004 Summer,Lifeboy,,1,Hampton Coliseum,Hampton,VA,USA,","
+2004-08-09,2004,0,9,2,2,0,0,8,2004 Late Summer Tour,2004 Summer,Crowd Control,,1,Hampton Coliseum,Hampton,VA,USA,>
+2004-08-09,2004,0,10,2,2,0,0,2,2004 Late Summer Tour,2004 Summer,Seven Below,,1,Hampton Coliseum,Hampton,VA,USA,>
+2004-08-09,2004,0,11,3,2,0,0,1,2004 Late Summer Tour,2004 Summer,Stash,,1,Hampton Coliseum,Hampton,VA,USA,->
+2004-08-09,2004,0,12,1,2,0,0,7,2004 Late Summer Tour,2004 Summer,NICU,,1,Hampton Coliseum,Hampton,VA,USA,","
+2004-08-09,2004,0,13,2,2,0,0,8,2004 Late Summer Tour,2004 Summer,Bug,,0,Hampton Coliseum,Hampton,VA,USA,>
+2004-08-09,2004,0,14,2,2,0,0,14,2004 Late Summer Tour,2004 Summer,Contact,,1,Hampton Coliseum,Hampton,VA,USA,>
+2004-08-09,2004,0,15,5,2,0,0,1,2004 Late Summer Tour,2004 Summer,Character Zero,,1,Hampton Coliseum,Hampton,VA,USA,
 2004-08-09,2004,0,16,6,e,0,0,2,2004 Late Summer Tour,2004 Summer,David Bowie,Bowie,1,Hampton Coliseum,Hampton,VA,USA,
 2004-08-10,2004,0,1,1,1,0,0,3,2004 Late Summer Tour,2004 Summer,AC/DC Bag,Bag,1,Tweeter Center,Mansfield,MA,USA,","
-2004-08-10,2004,0,2,1,1,0,0,29,2004 Late Summer Tour,2004 Summer,Heavy Things,Heavy Things,1,Tweeter Center,Mansfield,MA,USA,","
+2004-08-10,2004,0,2,1,1,0,0,29,2004 Late Summer Tour,2004 Summer,Heavy Things,,1,Tweeter Center,Mansfield,MA,USA,","
 2004-08-10,2004,0,3,2,1,0,0,22,2004 Late Summer Tour,2004 Summer,Punch You in the Eye,PYITE,1,Tweeter Center,Mansfield,MA,USA,>
 2004-08-10,2004,0,4,1,1,0,0,3,2004 Late Summer Tour,2004 Summer,Wolfman's Brother,Wolfman's,1,Tweeter Center,Mansfield,MA,USA,","
 2004-08-10,2004,0,5,1,1,0,0,17,2004 Late Summer Tour,2004 Summer,Theme From the Bottom,Theme,1,Tweeter Center,Mansfield,MA,USA,","
@@ -241,99 +241,99 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2004-08-10,2004,0,8,2,2,0,0,3,2004 Late Summer Tour,2004 Summer,I Am Hydrogen,Hydrogen,1,Tweeter Center,Mansfield,MA,USA,>
 2004-08-10,2004,0,9,1,2,0,0,3,2004 Late Summer Tour,2004 Summer,Weekapaug Groove,Weekapaug,1,Tweeter Center,Mansfield,MA,USA,","
 2004-08-10,2004,0,10,3,2,0,0,8,2004 Late Summer Tour,2004 Summer,A Song I Heard the Ocean Sing,ASIHTOS,1,Tweeter Center,Mansfield,MA,USA,->
-2004-08-10,2004,0,11,3,2,0,0,2,2004 Late Summer Tour,2004 Summer,Piper,Piper,1,Tweeter Center,Mansfield,MA,USA,->
+2004-08-10,2004,0,11,3,2,0,0,2,2004 Late Summer Tour,2004 Summer,Piper,,1,Tweeter Center,Mansfield,MA,USA,->
 2004-08-10,2004,0,12,1,2,0,0,15,2004 Late Summer Tour,2004 Summer,Makisupa Policeman,Makisupa,1,Tweeter Center,Mansfield,MA,USA,","
-2004-08-10,2004,0,13,1,2,0,0,37,2004 Late Summer Tour,2004 Summer,Dog Faced Boy,Dog Faced Boy,1,Tweeter Center,Mansfield,MA,USA,","
-2004-08-10,2004,0,14,1,2,0,0,2,2004 Late Summer Tour,2004 Summer,Friday,Friday,1,Tweeter Center,Mansfield,MA,USA,","
+2004-08-10,2004,0,13,1,2,0,0,37,2004 Late Summer Tour,2004 Summer,Dog Faced Boy,,1,Tweeter Center,Mansfield,MA,USA,","
+2004-08-10,2004,0,14,1,2,0,0,2,2004 Late Summer Tour,2004 Summer,Friday,,1,Tweeter Center,Mansfield,MA,USA,","
 2004-08-10,2004,0,15,5,2,0,0,2,2004 Late Summer Tour,2004 Summer,Harry Hood,Hood,1,Tweeter Center,Mansfield,MA,USA,
-2004-08-10,2004,0,16,6,e,0,0,2,2004 Late Summer Tour,2004 Summer,Possum,Possum,1,Tweeter Center,Mansfield,MA,USA,
+2004-08-10,2004,0,16,6,e,0,0,2,2004 Late Summer Tour,2004 Summer,Possum,,1,Tweeter Center,Mansfield,MA,USA,
 2004-08-11,2004,0,1,1,1,0,0,3,2004 Late Summer Tour,2004 Summer,Divided Sky,Divided,1,Tweeter Center,Mansfield,MA,USA,","
 2004-08-11,2004,0,2,3,1,0,0,11,2004 Late Summer Tour,2004 Summer,Suzy Greenberg,Suzy,1,Tweeter Center,Mansfield,MA,USA,->
 2004-08-11,2004,0,3,3,1,0,0,5,2004 Late Summer Tour,2004 Summer,Down with Disease,DwD,1,Tweeter Center,Mansfield,MA,USA,->
 2004-08-11,2004,0,4,2,1,0,0,5,2004 Late Summer Tour,2004 Summer,Prince Caspian,Caspian,1,Tweeter Center,Mansfield,MA,USA,>
 2004-08-11,2004,0,5,3,1,0,0,14,2004 Late Summer Tour,2004 Summer,Scent of a Mule,SOAMule,1,Tweeter Center,Mansfield,MA,USA,->
-2004-08-11,2004,0,6,2,1,0,0,1416,2004 Late Summer Tour,2004 Summer,The Tears of a Clown,The Tears of a Clown,0,Tweeter Center,Mansfield,MA,USA,>
+2004-08-11,2004,0,6,2,1,0,0,1416,2004 Late Summer Tour,2004 Summer,The Tears of a Clown,,0,Tweeter Center,Mansfield,MA,USA,>
 2004-08-11,2004,0,7,1,1,0,0,0,2004 Late Summer Tour,2004 Summer,Scent of a Mule,SOAMule,1,Tweeter Center,Mansfield,MA,USA,","
-2004-08-11,2004,0,8,4,1,0,0,29,2004 Late Summer Tour,2004 Summer,Mexican Cousin,Mexican Cousin,1,Tweeter Center,Mansfield,MA,USA,
+2004-08-11,2004,0,8,4,1,0,0,29,2004 Late Summer Tour,2004 Summer,Mexican Cousin,,1,Tweeter Center,Mansfield,MA,USA,
 2004-08-11,2004,0,9,2,2,0,0,5,2004 Late Summer Tour,2004 Summer,Run Like an Antelope,Antelope,1,Tweeter Center,Mansfield,MA,USA,>
 2004-08-11,2004,0,10,2,2,0,0,4,2004 Late Summer Tour,2004 Summer,Also Sprach Zarathustra,2001,0,Tweeter Center,Mansfield,MA,USA,>
 2004-08-11,2004,0,11,2,2,0,0,4,2004 Late Summer Tour,2004 Summer,Golgi Apparatus,Golgi,1,Tweeter Center,Mansfield,MA,USA,>
-2004-08-11,2004,0,12,2,2,0,0,8,2004 Late Summer Tour,2004 Summer,Waves,Waves,1,Tweeter Center,Mansfield,MA,USA,>
-2004-08-11,2004,0,13,3,2,0,0,7,2004 Late Summer Tour,2004 Summer,Tweezer,Tweezer,1,Tweeter Center,Mansfield,MA,USA,->
+2004-08-11,2004,0,12,2,2,0,0,8,2004 Late Summer Tour,2004 Summer,Waves,,1,Tweeter Center,Mansfield,MA,USA,>
+2004-08-11,2004,0,13,3,2,0,0,7,2004 Late Summer Tour,2004 Summer,Tweezer,,1,Tweeter Center,Mansfield,MA,USA,->
 2004-08-11,2004,0,14,2,2,0,0,13,2004 Late Summer Tour,2004 Summer,Hold Your Head Up,HYHU,0,Tweeter Center,Mansfield,MA,USA,>
-2004-08-11,2004,0,15,2,2,0,0,85,2004 Late Summer Tour,2004 Summer,Terrapin,Terrapin,0,Tweeter Center,Mansfield,MA,USA,>
+2004-08-11,2004,0,15,2,2,0,0,85,2004 Late Summer Tour,2004 Summer,Terrapin,,0,Tweeter Center,Mansfield,MA,USA,>
 2004-08-11,2004,0,16,1,2,0,0,0,2004 Late Summer Tour,2004 Summer,Hold Your Head Up,HYHU,0,Tweeter Center,Mansfield,MA,USA,","
-2004-08-11,2004,0,17,3,2,0,0,283,2004 Late Summer Tour,2004 Summer,Drums,Drums,0,Tweeter Center,Mansfield,MA,USA,->
+2004-08-11,2004,0,17,3,2,0,0,283,2004 Late Summer Tour,2004 Summer,Drums,,0,Tweeter Center,Mansfield,MA,USA,->
 2004-08-11,2004,0,18,2,2,0,0,5,2004 Late Summer Tour,2004 Summer,Timber (Jerry the Mule),Timber Ho,0,Tweeter Center,Mansfield,MA,USA,>
 2004-08-11,2004,0,19,5,2,0,0,4,2004 Late Summer Tour,2004 Summer,Sample in a Jar,Sample,1,Tweeter Center,Mansfield,MA,USA,
 2004-08-11,2004,0,20,2,e,0,0,6,2004 Late Summer Tour,2004 Summer,Bouncing Around the Room,Bouncin',1,Tweeter Center,Mansfield,MA,USA,>
 2004-08-11,2004,0,21,6,e,0,0,7,2004 Late Summer Tour,2004 Summer,Tweezer Reprise,Tweeprise,1,Tweeter Center,Mansfield,MA,USA,
-2004-08-12,2004,0,1,1,1,0,0,4,2004 Late Summer Tour,2004 Summer,Wilson,Wilson,1,Tweeter Center at the Waterfront,Camden,NJ,USA,","
+2004-08-12,2004,0,1,1,1,0,0,4,2004 Late Summer Tour,2004 Summer,Wilson,,1,Tweeter Center at the Waterfront,Camden,NJ,USA,","
 2004-08-12,2004,0,2,3,1,0,0,5,2004 Late Summer Tour,2004 Summer,You Enjoy Myself,YEM,1,Tweeter Center at the Waterfront,Camden,NJ,USA,->
-2004-08-12,2004,0,3,2,1,0,0,4,2004 Late Summer Tour,2004 Summer,Ghost,Ghost,1,Tweeter Center at the Waterfront,Camden,NJ,USA,>
-2004-08-12,2004,0,4,3,1,0,0,12,2004 Late Summer Tour,2004 Summer,Maze,Maze,1,Tweeter Center at the Waterfront,Camden,NJ,USA,->
-2004-08-12,2004,0,5,3,1,0,0,36,2004 Late Summer Tour,2004 Summer,Catapult,Catapult,1,Tweeter Center at the Waterfront,Camden,NJ,USA,->
-2004-08-12,2004,0,6,1,1,0,0,0,2004 Late Summer Tour,2004 Summer,Maze,Maze,1,Tweeter Center at the Waterfront,Camden,NJ,USA,","
+2004-08-12,2004,0,3,2,1,0,0,4,2004 Late Summer Tour,2004 Summer,Ghost,,1,Tweeter Center at the Waterfront,Camden,NJ,USA,>
+2004-08-12,2004,0,4,3,1,0,0,12,2004 Late Summer Tour,2004 Summer,Maze,,1,Tweeter Center at the Waterfront,Camden,NJ,USA,->
+2004-08-12,2004,0,5,3,1,0,0,36,2004 Late Summer Tour,2004 Summer,Catapult,,1,Tweeter Center at the Waterfront,Camden,NJ,USA,->
+2004-08-12,2004,0,6,1,1,0,0,0,2004 Late Summer Tour,2004 Summer,Maze,,1,Tweeter Center at the Waterfront,Camden,NJ,USA,","
 2004-08-12,2004,0,7,1,1,0,0,4,2004 Late Summer Tour,2004 Summer,The Moma Dance,Moma,1,Tweeter Center at the Waterfront,Camden,NJ,USA,","
-2004-08-12,2004,0,8,1,1,0,0,9,2004 Late Summer Tour,2004 Summer,Horn,Horn,1,Tweeter Center at the Waterfront,Camden,NJ,USA,","
-2004-08-12,2004,0,9,4,1,0,0,7,2004 Late Summer Tour,2004 Summer,Pebbles and Marbles,Pebbles and Marbles,0,Tweeter Center at the Waterfront,Camden,NJ,USA,
-2004-08-12,2004,0,10,2,2,0,0,2,2004 Late Summer Tour,2004 Summer,Piper,Piper,1,Tweeter Center at the Waterfront,Camden,NJ,USA,>
+2004-08-12,2004,0,8,1,1,0,0,9,2004 Late Summer Tour,2004 Summer,Horn,,1,Tweeter Center at the Waterfront,Camden,NJ,USA,","
+2004-08-12,2004,0,9,4,1,0,0,7,2004 Late Summer Tour,2004 Summer,Pebbles and Marbles,,0,Tweeter Center at the Waterfront,Camden,NJ,USA,
+2004-08-12,2004,0,10,2,2,0,0,2,2004 Late Summer Tour,2004 Summer,Piper,,1,Tweeter Center at the Waterfront,Camden,NJ,USA,>
 2004-08-12,2004,0,11,2,2,0,0,15,2004 Late Summer Tour,2004 Summer,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Tweeter Center at the Waterfront,Camden,NJ,USA,>
-2004-08-12,2004,0,12,2,2,0,0,7,2004 Late Summer Tour,2004 Summer,Cavern,Cavern,1,Tweeter Center at the Waterfront,Camden,NJ,USA,>
+2004-08-12,2004,0,12,2,2,0,0,7,2004 Late Summer Tour,2004 Summer,Cavern,,1,Tweeter Center at the Waterfront,Camden,NJ,USA,>
 2004-08-12,2004,0,13,2,2,0,0,3,2004 Late Summer Tour,2004 Summer,Limb By Limb,LxL,1,Tweeter Center at the Waterfront,Camden,NJ,USA,>
-2004-08-12,2004,0,14,2,2,0,0,5,2004 Late Summer Tour,2004 Summer,Julius,Julius,1,Tweeter Center at the Waterfront,Camden,NJ,USA,>
+2004-08-12,2004,0,14,2,2,0,0,5,2004 Late Summer Tour,2004 Summer,Julius,,1,Tweeter Center at the Waterfront,Camden,NJ,USA,>
 2004-08-12,2004,0,15,1,2,0,0,6,2004 Late Summer Tour,2004 Summer,Rock and Roll,R&amp;R,0,Tweeter Center at the Waterfront,Camden,NJ,USA,","
-2004-08-12,2004,0,16,5,2,0,0,4,2004 Late Summer Tour,2004 Summer,Scents and Subtle Sounds,Scents and Subtle Sounds,1,Tweeter Center at the Waterfront,Camden,NJ,USA,
-2004-08-12,2004,0,17,1,e,0,0,5,2004 Late Summer Tour,2004 Summer,Lawn Boy,Lawn Boy,1,Tweeter Center at the Waterfront,Camden,NJ,USA,","
-2004-08-12,2004,0,18,6,e,0,0,12,2004 Late Summer Tour,2004 Summer,Frankenstein,Frankenstein,0,Tweeter Center at the Waterfront,Camden,NJ,USA,
-2004-08-13,2004,1,1,1,1,0,0,0,2004 Late Summer Tour,2004 Summer,Jam,Jam,0,Newport State Airport,Coventry,VT,USA,","
-2004-08-13,2004,1,2,1,1,0,0,0,2004 Late Summer Tour,2004 Summer,Jam,Jam,0,Newport State Airport,Coventry,VT,USA,","
+2004-08-12,2004,0,16,5,2,0,0,4,2004 Late Summer Tour,2004 Summer,Scents and Subtle Sounds,,1,Tweeter Center at the Waterfront,Camden,NJ,USA,
+2004-08-12,2004,0,17,1,e,0,0,5,2004 Late Summer Tour,2004 Summer,Lawn Boy,,1,Tweeter Center at the Waterfront,Camden,NJ,USA,","
+2004-08-12,2004,0,18,6,e,0,0,12,2004 Late Summer Tour,2004 Summer,Frankenstein,,0,Tweeter Center at the Waterfront,Camden,NJ,USA,
+2004-08-13,2004,1,1,1,1,0,0,0,2004 Late Summer Tour,2004 Summer,Jam,,0,Newport State Airport,Coventry,VT,USA,","
+2004-08-13,2004,1,2,1,1,0,0,0,2004 Late Summer Tour,2004 Summer,Jam,,0,Newport State Airport,Coventry,VT,USA,","
 2004-08-13,2004,1,3,1,1,0,0,0,2004 Late Summer Tour,2004 Summer,Light Up Or Leave Me Alone,Light Up,0,Newport State Airport,Coventry,VT,USA,","
 2004-08-13,2004,1,4,6,1,0,0,0,2004 Late Summer Tour,2004 Summer,Ginseng Sullivan,Ginseng,0,Newport State Airport,Coventry,VT,USA,
 2004-08-14,2004,0,1,2,1,2,0,4,2004 Late Summer Tour,2004 Summer,Walls of the Cave,WotC,1,Newport State Airport,Coventry,VT,USA,>
-2004-08-14,2004,0,2,3,1,2,0,4,2004 Late Summer Tour,2004 Summer,Runaway Jim,Runaway Jim,1,Newport State Airport,Coventry,VT,USA,->
+2004-08-14,2004,0,2,3,1,2,0,4,2004 Late Summer Tour,2004 Summer,Runaway Jim,,1,Newport State Airport,Coventry,VT,USA,->
 2004-08-14,2004,0,3,1,1,2,0,11,2004 Late Summer Tour,2004 Summer,Gotta Jibboo,Jibboo,0,Newport State Airport,Coventry,VT,USA,","
 2004-08-14,2004,0,4,2,1,2,0,1,2004 Late Summer Tour,2004 Summer,You Enjoy Myself,YEM,1,Newport State Airport,Coventry,VT,USA,>
 2004-08-14,2004,0,5,2,1,2,0,2,2004 Late Summer Tour,2004 Summer,Sample in a Jar,Sample,1,Newport State Airport,Coventry,VT,USA,>
-2004-08-14,2004,0,6,2,1,2,0,13,2004 Late Summer Tour,2004 Summer,Axilla,Axilla,1,Newport State Airport,Coventry,VT,USA,>
-2004-08-14,2004,0,7,2,1,2,0,10,2004 Late Summer Tour,2004 Summer,Poor Heart,Poor Heart,1,Newport State Airport,Coventry,VT,USA,>
+2004-08-14,2004,0,6,2,1,2,0,13,2004 Late Summer Tour,2004 Summer,Axilla,,1,Newport State Airport,Coventry,VT,USA,>
+2004-08-14,2004,0,7,2,1,2,0,10,2004 Late Summer Tour,2004 Summer,Poor Heart,,1,Newport State Airport,Coventry,VT,USA,>
 2004-08-14,2004,0,8,1,1,2,0,2,2004 Late Summer Tour,2004 Summer,Run Like an Antelope,Antelope,1,Newport State Airport,Coventry,VT,USA,","
-2004-08-14,2004,0,9,4,1,2,0,22,2004 Late Summer Tour,2004 Summer,Fire,Fire,0,Newport State Airport,Coventry,VT,USA,
+2004-08-14,2004,0,9,4,1,2,0,22,2004 Late Summer Tour,2004 Summer,Fire,,0,Newport State Airport,Coventry,VT,USA,
 2004-08-14,2004,0,10,3,2,2,0,3,2004 Late Summer Tour,2004 Summer,AC/DC Bag,Bag,1,Newport State Airport,Coventry,VT,USA,->
-2004-08-14,2004,0,11,2,2,2,0,8,2004 Late Summer Tour,2004 Summer,46 Days,46 Days,1,Newport State Airport,Coventry,VT,USA,>
+2004-08-14,2004,0,11,2,2,2,0,8,2004 Late Summer Tour,2004 Summer,46 Days,,1,Newport State Airport,Coventry,VT,USA,>
 2004-08-14,2004,0,12,3,2,2,0,8,2004 Late Summer Tour,2004 Summer,Halley's Comet,Halley's,1,Newport State Airport,Coventry,VT,USA,->
-2004-08-14,2004,0,13,1,2,2,0,8,2004 Late Summer Tour,2004 Summer,Ya Mar,Ya Mar,0,Newport State Airport,Coventry,VT,USA,","
+2004-08-14,2004,0,13,1,2,2,0,8,2004 Late Summer Tour,2004 Summer,Ya Mar,,0,Newport State Airport,Coventry,VT,USA,","
 2004-08-14,2004,0,14,1,2,2,0,4,2004 Late Summer Tour,2004 Summer,David Bowie,Bowie,1,Newport State Airport,Coventry,VT,USA,","
-2004-08-14,2004,0,15,4,2,2,0,4,2004 Late Summer Tour,2004 Summer,Character Zero,Character Zero,1,Newport State Airport,Coventry,VT,USA,
-2004-08-14,2004,0,16,3,3,2,0,10,2004 Late Summer Tour,2004 Summer,Twist,Twist,1,Newport State Airport,Coventry,VT,USA,->
+2004-08-14,2004,0,15,4,2,2,0,4,2004 Late Summer Tour,2004 Summer,Character Zero,,1,Newport State Airport,Coventry,VT,USA,
+2004-08-14,2004,0,16,3,3,2,0,10,2004 Late Summer Tour,2004 Summer,Twist,,1,Newport State Airport,Coventry,VT,USA,->
 2004-08-14,2004,0,17,1,3,2,0,7,2004 Late Summer Tour,2004 Summer,The Wedge,Wedge,1,Newport State Airport,Coventry,VT,USA,","
-2004-08-14,2004,0,18,2,3,2,0,4,2004 Late Summer Tour,2004 Summer,Stash,Stash,1,Newport State Airport,Coventry,VT,USA,>
-2004-08-14,2004,0,19,1,3,2,0,5,2004 Late Summer Tour,2004 Summer,Free,Free,1,Newport State Airport,Coventry,VT,USA,","
-2004-08-14,2004,0,20,1,3,2,0,17,2004 Late Summer Tour,2004 Summer,Guyute,Guyute,1,Newport State Airport,Coventry,VT,USA,","
-2004-08-14,2004,0,21,2,3,2,0,10,2004 Late Summer Tour,2004 Summer,Drowned,Drowned,0,Newport State Airport,Coventry,VT,USA,>
-2004-08-14,2004,0,22,5,3,2,0,3,2004 Late Summer Tour,2004 Summer,Friday,Friday,1,Newport State Airport,Coventry,VT,USA,
+2004-08-14,2004,0,18,2,3,2,0,4,2004 Late Summer Tour,2004 Summer,Stash,,1,Newport State Airport,Coventry,VT,USA,>
+2004-08-14,2004,0,19,1,3,2,0,5,2004 Late Summer Tour,2004 Summer,Free,,1,Newport State Airport,Coventry,VT,USA,","
+2004-08-14,2004,0,20,1,3,2,0,17,2004 Late Summer Tour,2004 Summer,Guyute,,1,Newport State Airport,Coventry,VT,USA,","
+2004-08-14,2004,0,21,2,3,2,0,10,2004 Late Summer Tour,2004 Summer,Drowned,,0,Newport State Airport,Coventry,VT,USA,>
+2004-08-14,2004,0,22,5,3,2,0,3,2004 Late Summer Tour,2004 Summer,Friday,,1,Newport State Airport,Coventry,VT,USA,
 2004-08-14,2004,0,23,6,e,2,0,3,2004 Late Summer Tour,2004 Summer,Harry Hood,Hood,1,Newport State Airport,Coventry,VT,USA,
 2004-08-15,2004,0,1,2,1,0,0,4,2004 Late Summer Tour,2004 Summer,Mike's Song,Mike's,1,Newport State Airport,Coventry,VT,USA,>
 2004-08-15,2004,0,2,2,1,0,0,4,2004 Late Summer Tour,2004 Summer,I Am Hydrogen,Hydrogen,1,Newport State Airport,Coventry,VT,USA,>
 2004-08-15,2004,0,3,1,1,0,0,4,2004 Late Summer Tour,2004 Summer,Weekapaug Groove,Weekapaug,1,Newport State Airport,Coventry,VT,USA,","
-2004-08-15,2004,0,4,1,1,0,0,7,2004 Late Summer Tour,2004 Summer,Anything But Me,Anything But Me,1,Newport State Airport,Coventry,VT,USA,","
-2004-08-15,2004,0,5,1,1,0,0,12,2004 Late Summer Tour,2004 Summer,Reba,Reba,1,Newport State Airport,Coventry,VT,USA,","
-2004-08-15,2004,0,6,2,1,0,0,13,2004 Late Summer Tour,2004 Summer,Carini,Carini,1,Newport State Airport,Coventry,VT,USA,>
+2004-08-15,2004,0,4,1,1,0,0,7,2004 Late Summer Tour,2004 Summer,Anything But Me,,1,Newport State Airport,Coventry,VT,USA,","
+2004-08-15,2004,0,5,1,1,0,0,12,2004 Late Summer Tour,2004 Summer,Reba,,1,Newport State Airport,Coventry,VT,USA,","
+2004-08-15,2004,0,6,2,1,0,0,13,2004 Late Summer Tour,2004 Summer,Carini,,1,Newport State Airport,Coventry,VT,USA,>
 2004-08-15,2004,0,7,3,1,0,0,5,2004 Late Summer Tour,2004 Summer,Chalk Dust Torture,CDT,1,Newport State Airport,Coventry,VT,USA,->
-2004-08-15,2004,0,8,2,1,0,0,4,2004 Late Summer Tour,2004 Summer,Possum,Possum,1,Newport State Airport,Coventry,VT,USA,>
+2004-08-15,2004,0,8,2,1,0,0,4,2004 Late Summer Tour,2004 Summer,Possum,,1,Newport State Airport,Coventry,VT,USA,>
 2004-08-15,2004,0,9,2,1,0,0,4,2004 Late Summer Tour,2004 Summer,Wolfman's Brother,Wolfman's,1,Newport State Airport,Coventry,VT,USA,>
-2004-08-15,2004,0,10,4,1,0,0,13,2004 Late Summer Tour,2004 Summer,Taste,Taste,1,Newport State Airport,Coventry,VT,USA,
+2004-08-15,2004,0,10,4,1,0,0,13,2004 Late Summer Tour,2004 Summer,Taste,,1,Newport State Airport,Coventry,VT,USA,
 2004-08-15,2004,0,11,2,2,0,0,3,2004 Late Summer Tour,2004 Summer,Down with Disease,DwD,1,Newport State Airport,Coventry,VT,USA,>
 2004-08-15,2004,0,12,1,2,0,0,12,2004 Late Summer Tour,2004 Summer,Wading in the Velvet Sea,Velvet Sea,1,Newport State Airport,Coventry,VT,USA,","
-2004-08-15,2004,0,13,1,2,0,0,7,2004 Late Summer Tour,2004 Summer,Glide,Glide,1,Newport State Airport,Coventry,VT,USA,","
+2004-08-15,2004,0,13,1,2,0,0,7,2004 Late Summer Tour,2004 Summer,Glide,,1,Newport State Airport,Coventry,VT,USA,","
 2004-08-15,2004,0,14,3,2,0,0,9,2004 Late Summer Tour,2004 Summer,Split Open and Melt,SOAMelt,1,Newport State Airport,Coventry,VT,USA,->
-2004-08-15,2004,0,15,4,2,0,0,2,2004 Late Summer Tour,2004 Summer,Ghost,Ghost,1,Newport State Airport,Coventry,VT,USA,
+2004-08-15,2004,0,15,4,2,0,0,2,2004 Late Summer Tour,2004 Summer,Ghost,,1,Newport State Airport,Coventry,VT,USA,
 2004-08-15,2004,0,16,1,3,0,0,24,2004 Late Summer Tour,2004 Summer,Fast Enough for You,FEFY,1,Newport State Airport,Coventry,VT,USA,","
-2004-08-15,2004,0,17,3,3,0,0,5,2004 Late Summer Tour,2004 Summer,Seven Below,Seven Below,1,Newport State Airport,Coventry,VT,USA,->
-2004-08-15,2004,0,18,2,3,0,0,8,2004 Late Summer Tour,2004 Summer,Simple,Simple,1,Newport State Airport,Coventry,VT,USA,>
-2004-08-15,2004,0,19,3,3,0,0,2,2004 Late Summer Tour,2004 Summer,Piper,Piper,1,Newport State Airport,Coventry,VT,USA,->
-2004-08-15,2004,0,20,3,3,0,0,1419,2004 Late Summer Tour,2004 Summer,Cool Jerk,Cool Jerk,0,Newport State Airport,Coventry,VT,USA,->
-2004-08-15,2004,0,21,1,3,0,0,1419,2004 Late Summer Tour,2004 Summer,The Dickie Scotland Song,The Dickie Scotland Song,1,Newport State Airport,Coventry,VT,USA,","
-2004-08-15,2004,0,22,2,3,0,0,2,2004 Late Summer Tour,2004 Summer,Wilson,Wilson,1,Newport State Airport,Coventry,VT,USA,>
+2004-08-15,2004,0,17,3,3,0,0,5,2004 Late Summer Tour,2004 Summer,Seven Below,,1,Newport State Airport,Coventry,VT,USA,->
+2004-08-15,2004,0,18,2,3,0,0,8,2004 Late Summer Tour,2004 Summer,Simple,,1,Newport State Airport,Coventry,VT,USA,>
+2004-08-15,2004,0,19,3,3,0,0,2,2004 Late Summer Tour,2004 Summer,Piper,,1,Newport State Airport,Coventry,VT,USA,->
+2004-08-15,2004,0,20,3,3,0,0,1419,2004 Late Summer Tour,2004 Summer,Cool Jerk,,0,Newport State Airport,Coventry,VT,USA,->
+2004-08-15,2004,0,21,1,3,0,0,1419,2004 Late Summer Tour,2004 Summer,The Dickie Scotland Song,,1,Newport State Airport,Coventry,VT,USA,","
+2004-08-15,2004,0,22,2,3,0,0,2,2004 Late Summer Tour,2004 Summer,Wilson,,1,Newport State Airport,Coventry,VT,USA,>
 2004-08-15,2004,0,23,5,3,0,0,9,2004 Late Summer Tour,2004 Summer,Slave to the Traffic Light,Slave,1,Newport State Airport,Coventry,VT,USA,
 2004-08-15,2004,0,24,6,e,0,0,14,2004 Late Summer Tour,2004 Summer,The Curtain With,Curtain With,1,Newport State Airport,Coventry,VT,USA,

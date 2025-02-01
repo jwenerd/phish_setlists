@@ -1,913 +1,913 @@
 showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,tourwhen,song,nickname,is_original,venue,city,state,country,trans_mark
-2019-02-20,2019,1,1,2,1,0,0,0,Not Part of a Tour,No Tour,Turtle in the Clouds,Turtle in the Clouds,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2019-02-20,2019,1,2,2,1,0,0,0,Not Part of a Tour,No Tour,Jam,Jam,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2019-02-20,2019,1,3,6,1,0,0,0,Not Part of a Tour,No Tour,Plasma,Plasma,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
-2019-02-21,2019,0,1,1,1,0,0,429,2019 Mexico,2019 Mexico,Spock's Brain,Spock's Brain,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2019-02-21,2019,0,2,1,1,0,0,1,2019 Mexico,2019 Mexico,Twist,Twist,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2019-02-21,2019,0,3,1,1,0,0,4,2019 Mexico,2019 Mexico,Free,Free,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2019-02-21,2019,0,4,1,1,0,0,604,2019 Mexico,2019 Mexico,Who Loves the Sun?,Who Loves the Sun?,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2019-02-21,2019,0,5,1,1,0,0,2,2019 Mexico,2019 Mexico,Everything's Right,Everything's Right,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2019-02-20,2019,1,1,2,1,0,0,0,Not Part of a Tour,No Tour,Turtle in the Clouds,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2019-02-20,2019,1,2,2,1,0,0,0,Not Part of a Tour,No Tour,Jam,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2019-02-20,2019,1,3,6,1,0,0,0,Not Part of a Tour,No Tour,Plasma,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
+2019-02-21,2019,0,1,1,1,0,0,429,2019 Mexico,2019 Mexico,Spock's Brain,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2019-02-21,2019,0,2,1,1,0,0,1,2019 Mexico,2019 Mexico,Twist,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2019-02-21,2019,0,3,1,1,0,0,4,2019 Mexico,2019 Mexico,Free,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2019-02-21,2019,0,4,1,1,0,0,604,2019 Mexico,2019 Mexico,Who Loves the Sun?,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2019-02-21,2019,0,5,1,1,0,0,2,2019 Mexico,2019 Mexico,Everything's Right,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
 2019-02-21,2019,0,6,1,1,0,0,4,2019 Mexico,2019 Mexico,We Are Come to Outlive Our Brains,WACTOOB,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2019-02-21,2019,0,7,1,1,0,0,7,2019 Mexico,2019 Mexico,Rise/Come Together,Rise/Come Together,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2019-02-21,2019,0,8,1,1,0,0,2,2019 Mexico,2019 Mexico,Funky Bitch,Funky Bitch,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2019-02-21,2019,0,9,4,1,0,0,1,2019 Mexico,2019 Mexico,Sand,Sand,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
-2019-02-21,2019,0,10,3,2,0,0,6,2019 Mexico,2019 Mexico,Soul Planet,Soul Planet,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,->
-2019-02-21,2019,0,11,2,2,0,0,306,2019 Mexico,2019 Mexico,Spanish Moon,Spanish Moon,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2019-02-21,2019,0,12,2,2,0,0,9,2019 Mexico,2019 Mexico,I Always Wanted It This Way,I Always Wanted It This Way,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2019-02-21,2019,0,7,1,1,0,0,7,2019 Mexico,2019 Mexico,Rise/Come Together,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2019-02-21,2019,0,8,1,1,0,0,2,2019 Mexico,2019 Mexico,Funky Bitch,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2019-02-21,2019,0,9,4,1,0,0,1,2019 Mexico,2019 Mexico,Sand,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
+2019-02-21,2019,0,10,3,2,0,0,6,2019 Mexico,2019 Mexico,Soul Planet,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,->
+2019-02-21,2019,0,11,2,2,0,0,306,2019 Mexico,2019 Mexico,Spanish Moon,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2019-02-21,2019,0,12,2,2,0,0,9,2019 Mexico,2019 Mexico,I Always Wanted It This Way,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
 2019-02-21,2019,0,13,1,2,0,0,3,2019 Mexico,2019 Mexico,Death Don't Hurt Very Long,DDHVL,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
 2019-02-21,2019,0,14,2,2,0,0,3,2019 Mexico,2019 Mexico,Also Sprach Zarathustra,2001,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
 2019-02-21,2019,0,15,1,2,0,0,4,2019 Mexico,2019 Mexico,Bathtub Gin,Gin,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
 2019-02-21,2019,0,16,5,2,0,0,28,2019 Mexico,2019 Mexico,The Squirming Coil,Coil,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
-2019-02-21,2019,0,17,1,e,0,0,1,2019 Mexico,2019 Mexico,Waste,Waste,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2019-02-21,2019,0,18,6,e,0,0,49,2019 Mexico,2019 Mexico,Bold As Love,Bold As Love,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
+2019-02-21,2019,0,17,1,e,0,0,1,2019 Mexico,2019 Mexico,Waste,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2019-02-21,2019,0,18,6,e,0,0,49,2019 Mexico,2019 Mexico,Bold As Love,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
 2019-02-22,2019,0,1,1,1,0,0,15,2019 Mexico,2019 Mexico,You Enjoy Myself,YEM,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2019-02-22,2019,0,2,1,1,0,0,4,2019 Mexico,2019 Mexico,Turtle in the Clouds,Turtle in the Clouds,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2019-02-22,2019,0,3,1,1,0,0,4,2019 Mexico,2019 Mexico,46 Days,46 Days,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2019-02-22,2019,0,2,1,1,0,0,4,2019 Mexico,2019 Mexico,Turtle in the Clouds,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2019-02-22,2019,0,3,1,1,0,0,4,2019 Mexico,2019 Mexico,46 Days,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
 2019-02-22,2019,0,4,2,1,0,0,3,2019 Mexico,2019 Mexico,No Men In No Man's Land,NMINML,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2019-02-22,2019,0,5,1,1,0,0,233,2019 Mexico,2019 Mexico,Emotional Rescue,Emotional Rescue,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2019-02-22,2019,0,6,2,1,0,0,3,2019 Mexico,2019 Mexico,Tube,Tube,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2019-02-22,2019,0,7,1,1,0,0,5,2019 Mexico,2019 Mexico,Shade,Shade,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2019-02-22,2019,0,8,4,1,0,0,2,2019 Mexico,2019 Mexico,Saw It Again,Saw It Again,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
-2019-02-22,2019,0,9,2,2,0,0,5,2019 Mexico,2019 Mexico,Set Your Soul Free,Set Your Soul Free,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2019-02-22,2019,0,10,2,2,0,0,2,2019 Mexico,2019 Mexico,Mercury,Mercury,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2019-02-22,2019,0,5,1,1,0,0,233,2019 Mexico,2019 Mexico,Emotional Rescue,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2019-02-22,2019,0,6,2,1,0,0,3,2019 Mexico,2019 Mexico,Tube,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2019-02-22,2019,0,7,1,1,0,0,5,2019 Mexico,2019 Mexico,Shade,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2019-02-22,2019,0,8,4,1,0,0,2,2019 Mexico,2019 Mexico,Saw It Again,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
+2019-02-22,2019,0,9,2,2,0,0,5,2019 Mexico,2019 Mexico,Set Your Soul Free,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2019-02-22,2019,0,10,2,2,0,0,2,2019 Mexico,2019 Mexico,Mercury,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
 2019-02-22,2019,0,11,2,2,0,0,5,2019 Mexico,2019 Mexico,Slave to the Traffic Light,Slave,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2019-02-22,2019,0,12,2,2,0,0,5,2019 Mexico,2019 Mexico,Possum,Possum,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2019-02-22,2019,0,13,2,2,0,0,48,2019 Mexico,2019 Mexico,Sanity,Sanity,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2019-02-22,2019,0,14,5,2,0,0,17,2019 Mexico,2019 Mexico,Walk Away,Walk Away,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
-2019-02-22,2019,0,15,6,e,0,0,3,2019 Mexico,2019 Mexico,More,More,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
+2019-02-22,2019,0,12,2,2,0,0,5,2019 Mexico,2019 Mexico,Possum,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2019-02-22,2019,0,13,2,2,0,0,48,2019 Mexico,2019 Mexico,Sanity,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2019-02-22,2019,0,14,5,2,0,0,17,2019 Mexico,2019 Mexico,Walk Away,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
+2019-02-22,2019,0,15,6,e,0,0,3,2019 Mexico,2019 Mexico,More,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
 2019-02-23,2019,0,1,2,1,0,0,24,2019 Mexico,2019 Mexico,The Curtain With,Curtain With,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
 2019-02-23,2019,0,2,2,1,0,0,13,2019 Mexico,2019 Mexico,Punch You in the Eye,PYITE,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2019-02-23,2019,0,3,2,1,0,0,5,2019 Mexico,2019 Mexico,Blaze On,Blaze On,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2019-02-23,2019,0,3,2,1,0,0,5,2019 Mexico,2019 Mexico,Blaze On,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
 2019-02-23,2019,0,4,1,1,0,0,11,2019 Mexico,2019 Mexico,Destiny Unbound,Destiny,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2019-02-23,2019,0,5,2,1,0,0,29,2019 Mexico,2019 Mexico,Most Events Aren't Planned,Most Events Aren't Planned,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2019-02-23,2019,0,5,2,1,0,0,29,2019 Mexico,2019 Mexico,Most Events Aren't Planned,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
 2019-02-23,2019,0,6,1,1,0,0,18,2019 Mexico,2019 Mexico,Divided Sky,Divided,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2019-02-23,2019,0,7,1,1,0,0,3,2019 Mexico,2019 Mexico,Steam,Steam,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2019-02-23,2019,0,7,1,1,0,0,3,2019 Mexico,2019 Mexico,Steam,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
 2019-02-23,2019,0,8,4,1,0,0,3,2019 Mexico,2019 Mexico,Chalk Dust Torture,CDT,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
-2019-02-23,2019,0,9,1,2,0,0,5,2019 Mexico,2019 Mexico,First Tube,First Tube,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2019-02-23,2019,0,9,1,2,0,0,5,2019 Mexico,2019 Mexico,First Tube,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
 2019-02-23,2019,0,10,2,2,0,0,4,2019 Mexico,2019 Mexico,Mike's Song,Mike's,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
 2019-02-23,2019,0,11,1,2,0,0,4,2019 Mexico,2019 Mexico,Weekapaug Groove,Weekapaug,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2019-02-23,2019,0,12,2,2,0,0,6,2019 Mexico,2019 Mexico,Fuego,Fuego,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2019-02-23,2019,0,13,2,2,0,0,5,2019 Mexico,2019 Mexico,Tweezer,Tweezer,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2019-02-23,2019,0,14,2,2,0,0,5,2019 Mexico,2019 Mexico,Carini,Carini,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2019-02-23,2019,0,15,3,2,0,0,6,2019 Mexico,2019 Mexico,Ghost,Ghost,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,->
-2019-02-23,2019,0,16,5,2,0,0,3,2019 Mexico,2019 Mexico,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
-2019-02-23,2019,0,17,2,e,0,0,3,2019 Mexico,2019 Mexico,Simple,Simple,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2019-02-23,2019,0,18,3,e,0,0,6,2019 Mexico,2019 Mexico,Martian Monster,Martian Monster,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,->
-2019-02-23,2019,0,19,2,e,0,0,72,2019 Mexico,2019 Mexico,Kung,Kung,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2019-02-23,2019,0,12,2,2,0,0,6,2019 Mexico,2019 Mexico,Fuego,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2019-02-23,2019,0,13,2,2,0,0,5,2019 Mexico,2019 Mexico,Tweezer,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2019-02-23,2019,0,14,2,2,0,0,5,2019 Mexico,2019 Mexico,Carini,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2019-02-23,2019,0,15,3,2,0,0,6,2019 Mexico,2019 Mexico,Ghost,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,->
+2019-02-23,2019,0,16,5,2,0,0,3,2019 Mexico,2019 Mexico,Say It To Me S.A.N.T.O.S.,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
+2019-02-23,2019,0,17,2,e,0,0,3,2019 Mexico,2019 Mexico,Simple,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2019-02-23,2019,0,18,3,e,0,0,6,2019 Mexico,2019 Mexico,Martian Monster,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,->
+2019-02-23,2019,0,19,2,e,0,0,72,2019 Mexico,2019 Mexico,Kung,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
 2019-02-23,2019,0,20,1,e,0,0,24,2019 Mexico,2019 Mexico,Big Black Furry Creature from Mars,BBFCFM,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2019-02-23,2019,0,21,2,e,0,0,34,2019 Mexico,2019 Mexico,Sleeping Monkey,Sleeping Monkey,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2019-02-23,2019,0,21,2,e,0,0,34,2019 Mexico,2019 Mexico,Sleeping Monkey,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
 2019-02-23,2019,0,22,6,e,0,0,5,2019 Mexico,2019 Mexico,Tweezer Reprise,Tweeprise,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
-2019-06-11,2019,0,1,1,1,0,0,5,2019 Summer Tour,2019 Summer,Cool Amber and Mercury,Cool Amber and Mercury,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2019-06-11,2019,0,2,1,1,0,0,2,2019 Summer Tour,2019 Summer,46 Days,46 Days,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2019-06-11,2019,0,3,1,1,0,0,13,2019 Summer Tour,2019 Summer,Stash,Stash,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2019-06-11,2019,0,4,2,1,0,0,10,2019 Summer Tour,2019 Summer,Nellie Kane,Nellie Kane,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
-2019-06-11,2019,0,5,2,1,0,0,3,2019 Summer Tour,2019 Summer,Free,Free,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
+2019-06-11,2019,0,1,1,1,0,0,5,2019 Summer Tour,2019 Summer,Cool Amber and Mercury,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2019-06-11,2019,0,2,1,1,0,0,2,2019 Summer Tour,2019 Summer,46 Days,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2019-06-11,2019,0,3,1,1,0,0,13,2019 Summer Tour,2019 Summer,Stash,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2019-06-11,2019,0,4,2,1,0,0,10,2019 Summer Tour,2019 Summer,Nellie Kane,,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
+2019-06-11,2019,0,5,2,1,0,0,3,2019 Summer Tour,2019 Summer,Free,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
 2019-06-11,2019,0,6,1,1,0,0,11,2019 Summer Tour,2019 Summer,Theme From the Bottom,Theme,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2019-06-11,2019,0,7,1,1,0,0,2,2019 Summer Tour,2019 Summer,Tube,Tube,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2019-06-11,2019,0,8,4,1,0,0,1826,2019 Summer Tour,2019 Summer,Drift While You're Sleeping,Drift While You're Sleeping,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,
+2019-06-11,2019,0,7,1,1,0,0,2,2019 Summer Tour,2019 Summer,Tube,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2019-06-11,2019,0,8,4,1,0,0,1826,2019 Summer Tour,2019 Summer,Drift While You're Sleeping,,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,
 2019-06-11,2019,0,9,2,2,0,0,2,2019 Summer Tour,2019 Summer,No Men In No Man's Land,NMINML,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
 2019-06-11,2019,0,10,2,2,0,0,3,2019 Summer Tour,2019 Summer,Bathtub Gin,Gin,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
-2019-06-11,2019,0,11,3,2,0,0,1,2019 Summer Tour,2019 Summer,Ghost,Ghost,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,->
-2019-06-11,2019,0,12,3,2,0,0,21,2019 Summer Tour,2019 Summer,Piper,Piper,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,->
-2019-06-11,2019,0,13,2,2,0,0,1,2019 Summer Tour,2019 Summer,Blaze On,Blaze On,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
-2019-06-11,2019,0,14,2,2,0,0,10,2019 Summer Tour,2019 Summer,Joy,Joy,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
-2019-06-11,2019,0,15,2,2,0,0,1,2019 Summer Tour,2019 Summer,Simple,Simple,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
+2019-06-11,2019,0,11,3,2,0,0,1,2019 Summer Tour,2019 Summer,Ghost,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,->
+2019-06-11,2019,0,12,3,2,0,0,21,2019 Summer Tour,2019 Summer,Piper,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,->
+2019-06-11,2019,0,13,2,2,0,0,1,2019 Summer Tour,2019 Summer,Blaze On,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
+2019-06-11,2019,0,14,2,2,0,0,10,2019 Summer Tour,2019 Summer,Joy,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
+2019-06-11,2019,0,15,2,2,0,0,1,2019 Summer Tour,2019 Summer,Simple,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
 2019-06-11,2019,0,16,1,2,0,0,4,2019 Summer Tour,2019 Summer,Limb By Limb,LxL,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
 2019-06-11,2019,0,17,5,2,0,0,2,2019 Summer Tour,2019 Summer,Slave to the Traffic Light,Slave,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,
-2019-06-11,2019,0,18,1,e,0,0,2,2019 Summer Tour,2019 Summer,Turtle in the Clouds,Turtle in the Clouds,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2019-06-11,2019,0,19,6,e,0,0,4,2019 Summer Tour,2019 Summer,Character Zero,Character Zero,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,
+2019-06-11,2019,0,18,1,e,0,0,2,2019 Summer Tour,2019 Summer,Turtle in the Clouds,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2019-06-11,2019,0,19,6,e,0,0,4,2019 Summer Tour,2019 Summer,Character Zero,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,
 2019-06-12,2019,0,1,1,1,0,0,2,2019 Summer Tour,2019 Summer,Chalk Dust Torture,CDT,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
 2019-06-12,2019,0,2,1,1,0,0,5,2019 Summer Tour,2019 Summer,The Moma Dance,Moma,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2019-06-12,2019,0,3,2,1,0,0,18,2019 Summer Tour,2019 Summer,Waves,Waves,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
+2019-06-12,2019,0,3,2,1,0,0,18,2019 Summer Tour,2019 Summer,Waves,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
 2019-06-12,2019,0,4,1,1,0,0,8,2019 Summer Tour,2019 Summer,Bouncing Around the Room,Bouncin',1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2019-06-12,2019,0,5,1,1,0,0,20,2019 Summer Tour,2019 Summer,Undermind,Undermind,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2019-06-12,2019,0,6,1,1,0,0,13,2019 Summer Tour,2019 Summer,Heavy Things,Heavy Things,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2019-06-12,2019,0,7,1,1,0,0,9,2019 Summer Tour,2019 Summer,Roggae,Roggae,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2019-06-12,2019,0,5,1,1,0,0,20,2019 Summer Tour,2019 Summer,Undermind,,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2019-06-12,2019,0,6,1,1,0,0,13,2019 Summer Tour,2019 Summer,Heavy Things,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2019-06-12,2019,0,7,1,1,0,0,9,2019 Summer Tour,2019 Summer,Roggae,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
 2019-06-12,2019,0,8,1,1,0,0,4,2019 Summer Tour,2019 Summer,We Are Come to Outlive Our Brains,WACTOOB,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2019-06-12,2019,0,9,1,1,0,0,4,2019 Summer Tour,2019 Summer,Funky Bitch,Funky Bitch,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2019-06-12,2019,0,10,1,1,0,0,3,2019 Summer Tour,2019 Summer,Set Your Soul Free,Set Your Soul Free,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2019-06-12,2019,0,9,1,1,0,0,4,2019 Summer Tour,2019 Summer,Funky Bitch,,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2019-06-12,2019,0,10,1,1,0,0,3,2019 Summer Tour,2019 Summer,Set Your Soul Free,,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
 2019-06-12,2019,0,11,4,1,0,0,5,2019 Summer Tour,2019 Summer,Run Like an Antelope,Antelope,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,
-2019-06-12,2019,0,12,1,2,0,0,1823,2019 Summer Tour,2019 Summer,Gloria,Gloria,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2019-06-12,2019,0,13,2,2,0,0,12,2019 Summer Tour,2019 Summer,Loving Cup,Loving Cup,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
-2019-06-12,2019,0,14,2,2,0,0,4,2019 Summer Tour,2019 Summer,Twist,Twist,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
-2019-06-12,2019,0,15,1,2,0,0,1827,2019 Summer Tour,2019 Summer,About to Run,About to Run,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2019-06-12,2019,0,16,2,2,0,0,59,2019 Summer Tour,2019 Summer,Mr. Completely,Mr. Completely,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
-2019-06-12,2019,0,17,2,2,0,0,6,2019 Summer Tour,2019 Summer,Light,Light,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
-2019-06-12,2019,0,18,1,2,0,0,4,2019 Summer Tour,2019 Summer,Waste,Waste,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2019-06-12,2019,0,12,1,2,0,0,1823,2019 Summer Tour,2019 Summer,Gloria,,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2019-06-12,2019,0,13,2,2,0,0,12,2019 Summer Tour,2019 Summer,Loving Cup,,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
+2019-06-12,2019,0,14,2,2,0,0,4,2019 Summer Tour,2019 Summer,Twist,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
+2019-06-12,2019,0,15,1,2,0,0,1827,2019 Summer Tour,2019 Summer,About to Run,,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2019-06-12,2019,0,16,2,2,0,0,59,2019 Summer Tour,2019 Summer,Mr. Completely,,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
+2019-06-12,2019,0,17,2,2,0,0,6,2019 Summer Tour,2019 Summer,Light,,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
+2019-06-12,2019,0,18,1,2,0,0,4,2019 Summer Tour,2019 Summer,Waste,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
 2019-06-12,2019,0,19,5,2,0,0,5,2019 Summer Tour,2019 Summer,Suzy Greenberg,Suzy,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,
-2019-06-12,2019,0,20,1,e,0,0,5,2019 Summer Tour,2019 Summer,Farmhouse,Farmhouse,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2019-06-12,2019,0,21,6,e,0,0,2,2019 Summer Tour,2019 Summer,First Tube,First Tube,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,
-2019-06-14,2019,0,1,2,1,0,0,3,2019 Summer Tour,2019 Summer,Carini,Carini,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
+2019-06-12,2019,0,20,1,e,0,0,5,2019 Summer Tour,2019 Summer,Farmhouse,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2019-06-12,2019,0,21,6,e,0,0,2,2019 Summer Tour,2019 Summer,First Tube,,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,
+2019-06-14,2019,0,1,2,1,0,0,3,2019 Summer Tour,2019 Summer,Carini,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
 2019-06-14,2019,0,2,2,1,0,0,6,2019 Summer Tour,2019 Summer,Down with Disease,DwD,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
-2019-06-14,2019,0,3,1,1,0,0,3,2019 Summer Tour,2019 Summer,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,","
-2019-06-14,2019,0,4,2,1,0,0,5,2019 Summer Tour,2019 Summer,Everything's Right,Everything's Right,0,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
-2019-06-14,2019,0,5,2,1,0,0,4,2019 Summer Tour,2019 Summer,Mercury,Mercury,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
-2019-06-14,2019,0,6,2,1,0,0,3,2019 Summer Tour,2019 Summer,Tweezer,Tweezer,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
+2019-06-14,2019,0,3,1,1,0,0,3,2019 Summer Tour,2019 Summer,Say It To Me S.A.N.T.O.S.,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,","
+2019-06-14,2019,0,4,2,1,0,0,5,2019 Summer Tour,2019 Summer,Everything's Right,,0,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
+2019-06-14,2019,0,5,2,1,0,0,4,2019 Summer Tour,2019 Summer,Mercury,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
+2019-06-14,2019,0,6,2,1,0,0,3,2019 Summer Tour,2019 Summer,Tweezer,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
 2019-06-14,2019,0,7,2,1,0,0,5,2019 Summer Tour,2019 Summer,Also Sprach Zarathustra,2001,0,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
-2019-06-14,2019,0,8,1,1,0,0,3,2019 Summer Tour,2019 Summer,Steam,Steam,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,","
-2019-06-14,2019,0,9,1,1,0,0,3,2019 Summer Tour,2019 Summer,Martian Monster,Martian Monster,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,","
-2019-06-14,2019,0,10,2,1,0,0,4,2019 Summer Tour,2019 Summer,More,More,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
+2019-06-14,2019,0,8,1,1,0,0,3,2019 Summer Tour,2019 Summer,Steam,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,","
+2019-06-14,2019,0,9,1,1,0,0,3,2019 Summer Tour,2019 Summer,Martian Monster,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,","
+2019-06-14,2019,0,10,2,1,0,0,4,2019 Summer Tour,2019 Summer,More,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
 2019-06-14,2019,0,11,2,1,0,0,6,2019 Summer Tour,2019 Summer,Harry Hood,Hood,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
-2019-06-14,2019,0,12,5,1,0,0,2,2019 Summer Tour,2019 Summer,Character Zero,Character Zero,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,
-2019-06-14,2019,0,13,2,e,0,0,4,2019 Summer Tour,2019 Summer,Possum,Possum,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
+2019-06-14,2019,0,12,5,1,0,0,2,2019 Summer Tour,2019 Summer,Character Zero,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,
+2019-06-14,2019,0,13,2,e,0,0,4,2019 Summer Tour,2019 Summer,Possum,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
 2019-06-14,2019,0,14,6,e,0,0,3,2019 Summer Tour,2019 Summer,Tweezer Reprise,Tweeprise,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,
-2019-06-16,2019,0,1,1,1,0,0,2,2019 Summer Tour,2019 Summer,Set Your Soul Free,Set Your Soul Free,0,Bonnaroo Music & Arts Festival,Manchester,TN,USA,","
-2019-06-16,2019,0,2,1,1,0,0,3,2019 Summer Tour,2019 Summer,Blaze On,Blaze On,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,","
+2019-06-16,2019,0,1,1,1,0,0,2,2019 Summer Tour,2019 Summer,Set Your Soul Free,,0,Bonnaroo Music & Arts Festival,Manchester,TN,USA,","
+2019-06-16,2019,0,2,1,1,0,0,3,2019 Summer Tour,2019 Summer,Blaze On,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,","
 2019-06-16,2019,0,3,1,1,0,0,6,2019 Summer Tour,2019 Summer,Death Don't Hurt Very Long,DDHVL,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,","
-2019-06-16,2019,0,4,1,1,0,0,17,2019 Summer Tour,2019 Summer,Reba,Reba,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,","
-2019-06-16,2019,0,5,2,1,0,0,3,2019 Summer Tour,2019 Summer,Free,Free,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
-2019-06-16,2019,0,6,1,1,0,0,6,2019 Summer Tour,2019 Summer,Sand,Sand,0,Bonnaroo Music & Arts Festival,Manchester,TN,USA,","
+2019-06-16,2019,0,4,1,1,0,0,17,2019 Summer Tour,2019 Summer,Reba,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,","
+2019-06-16,2019,0,5,2,1,0,0,3,2019 Summer Tour,2019 Summer,Free,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
+2019-06-16,2019,0,6,1,1,0,0,6,2019 Summer Tour,2019 Summer,Sand,,0,Bonnaroo Music & Arts Festival,Manchester,TN,USA,","
 2019-06-16,2019,0,7,1,1,0,0,9,2019 Summer Tour,2019 Summer,Wolfman's Brother,Wolfman's,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,","
-2019-06-16,2019,0,8,4,1,0,0,8,2019 Summer Tour,2019 Summer,Cavern,Cavern,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,
+2019-06-16,2019,0,8,4,1,0,0,8,2019 Summer Tour,2019 Summer,Cavern,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,
 2019-06-16,2019,0,9,2,2,0,0,4,2019 Summer Tour,2019 Summer,Mike's Song,Mike's,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
-2019-06-16,2019,0,10,2,2,0,0,15,2019 Summer Tour,2019 Summer,Fluffhead,Fluffhead,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
-2019-06-16,2019,0,11,3,2,0,0,2,2019 Summer Tour,2019 Summer,Twist,Twist,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,->
+2019-06-16,2019,0,10,2,2,0,0,15,2019 Summer Tour,2019 Summer,Fluffhead,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
+2019-06-16,2019,0,11,3,2,0,0,2,2019 Summer Tour,2019 Summer,Twist,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,->
 2019-06-16,2019,0,12,3,2,0,0,4,2019 Summer Tour,2019 Summer,Weekapaug Groove,Weekapaug,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,->
 2019-06-16,2019,0,13,3,2,0,0,3,2019 Summer Tour,2019 Summer,No Men In No Man's Land,NMINML,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,->
 2019-06-16,2019,0,14,3,2,0,0,0,2019 Summer Tour,2019 Summer,Weekapaug Groove,Weekapaug,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,->
-2019-06-16,2019,0,15,2,2,0,0,0,2019 Summer Tour,2019 Summer,Twist,Twist,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
-2019-06-16,2019,0,16,2,2,0,0,4,2019 Summer Tour,2019 Summer,Fuego,Fuego,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
-2019-06-16,2019,0,17,2,2,0,0,3,2019 Summer Tour,2019 Summer,Ghost,Ghost,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
+2019-06-16,2019,0,15,2,2,0,0,0,2019 Summer Tour,2019 Summer,Twist,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
+2019-06-16,2019,0,16,2,2,0,0,4,2019 Summer Tour,2019 Summer,Fuego,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
+2019-06-16,2019,0,17,2,2,0,0,3,2019 Summer Tour,2019 Summer,Ghost,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
 2019-06-16,2019,0,18,5,2,0,0,3,2019 Summer Tour,2019 Summer,Bathtub Gin,Gin,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,
-2019-06-16,2019,0,19,2,e,0,0,8,2019 Summer Tour,2019 Summer,Wilson,Wilson,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
-2019-06-16,2019,0,20,6,e,0,0,2,2019 Summer Tour,2019 Summer,First Tube,First Tube,0,Bonnaroo Music & Arts Festival,Manchester,TN,USA,
+2019-06-16,2019,0,19,2,e,0,0,8,2019 Summer Tour,2019 Summer,Wilson,,1,Bonnaroo Music & Arts Festival,Manchester,TN,USA,>
+2019-06-16,2019,0,20,6,e,0,0,2,2019 Summer Tour,2019 Summer,First Tube,,0,Bonnaroo Music & Arts Festival,Manchester,TN,USA,
 2019-06-18,2019,0,1,2,1,0,0,14,2019 Summer Tour,2019 Summer,AC/DC Bag,Bag,1,Budweiser Stage,"Toronto, Ontario",,Canada,>
-2019-06-18,2019,0,2,2,1,0,0,8,2019 Summer Tour,2019 Summer,555,555,1,Budweiser Stage,"Toronto, Ontario",,Canada,>
-2019-06-18,2019,0,3,2,1,0,0,15,2019 Summer Tour,2019 Summer,Ocelot,Ocelot,1,Budweiser Stage,"Toronto, Ontario",,Canada,>
+2019-06-18,2019,0,2,2,1,0,0,8,2019 Summer Tour,2019 Summer,555,,1,Budweiser Stage,"Toronto, Ontario",,Canada,>
+2019-06-18,2019,0,3,2,1,0,0,15,2019 Summer Tour,2019 Summer,Ocelot,,1,Budweiser Stage,"Toronto, Ontario",,Canada,>
 2019-06-18,2019,0,4,1,1,0,0,37,2019 Summer Tour,2019 Summer,Sample in a Jar,Sample,1,Budweiser Stage,"Toronto, Ontario",,Canada,","
-2019-06-18,2019,0,5,1,1,0,0,4,2019 Summer Tour,2019 Summer,Stash,Stash,1,Budweiser Stage,"Toronto, Ontario",,Canada,","
+2019-06-18,2019,0,5,1,1,0,0,4,2019 Summer Tour,2019 Summer,Stash,,1,Budweiser Stage,"Toronto, Ontario",,Canada,","
 2019-06-18,2019,0,6,1,1,0,0,11,2019 Summer Tour,2019 Summer,The Wedge,Wedge,1,Budweiser Stage,"Toronto, Ontario",,Canada,","
-2019-06-18,2019,0,7,1,1,0,0,18,2019 Summer Tour,2019 Summer,Frost,Frost,0,Budweiser Stage,"Toronto, Ontario",,Canada,","
+2019-06-18,2019,0,7,1,1,0,0,18,2019 Summer Tour,2019 Summer,Frost,,0,Budweiser Stage,"Toronto, Ontario",,Canada,","
 2019-06-18,2019,0,8,2,1,0,0,15,2019 Summer Tour,2019 Summer,Halley's Comet,Halley's,1,Budweiser Stage,"Toronto, Ontario",,Canada,>
-2019-06-18,2019,0,9,1,1,0,0,1830,2019 Summer Tour,2019 Summer,Ruby Waves,Ruby Waves,0,Budweiser Stage,"Toronto, Ontario",,Canada,","
-2019-06-18,2019,0,10,1,1,0,0,8,2019 Summer Tour,2019 Summer,Lawn Boy,Lawn Boy,1,Budweiser Stage,"Toronto, Ontario",,Canada,","
+2019-06-18,2019,0,9,1,1,0,0,1830,2019 Summer Tour,2019 Summer,Ruby Waves,,0,Budweiser Stage,"Toronto, Ontario",,Canada,","
+2019-06-18,2019,0,10,1,1,0,0,8,2019 Summer Tour,2019 Summer,Lawn Boy,,1,Budweiser Stage,"Toronto, Ontario",,Canada,","
 2019-06-18,2019,0,11,4,1,0,0,6,2019 Summer Tour,2019 Summer,You Enjoy Myself,YEM,1,Budweiser Stage,"Toronto, Ontario",,Canada,
-2019-06-18,2019,0,12,3,2,0,0,9,2019 Summer Tour,2019 Summer,Plasma,Plasma,0,Budweiser Stage,"Toronto, Ontario",,Canada,->
-2019-06-18,2019,0,13,2,2,0,0,11,2019 Summer Tour,2019 Summer,The Final Hurrah,The Final Hurrah,1,Budweiser Stage,"Toronto, Ontario",,Canada,>
-2019-06-18,2019,0,14,2,2,0,0,21,2019 Summer Tour,2019 Summer,Wingsuit,Wingsuit,1,Budweiser Stage,"Toronto, Ontario",,Canada,>
-2019-06-18,2019,0,15,2,2,0,0,18,2019 Summer Tour,2019 Summer,Golden Age,Golden Age,0,Budweiser Stage,"Toronto, Ontario",,Canada,>
-2019-06-18,2019,0,16,2,2,0,0,7,2019 Summer Tour,2019 Summer,I Always Wanted It This Way,I Always Wanted It This Way,1,Budweiser Stage,"Toronto, Ontario",,Canada,>
+2019-06-18,2019,0,12,3,2,0,0,9,2019 Summer Tour,2019 Summer,Plasma,,0,Budweiser Stage,"Toronto, Ontario",,Canada,->
+2019-06-18,2019,0,13,2,2,0,0,11,2019 Summer Tour,2019 Summer,The Final Hurrah,,1,Budweiser Stage,"Toronto, Ontario",,Canada,>
+2019-06-18,2019,0,14,2,2,0,0,21,2019 Summer Tour,2019 Summer,Wingsuit,,1,Budweiser Stage,"Toronto, Ontario",,Canada,>
+2019-06-18,2019,0,15,2,2,0,0,18,2019 Summer Tour,2019 Summer,Golden Age,,0,Budweiser Stage,"Toronto, Ontario",,Canada,>
+2019-06-18,2019,0,16,2,2,0,0,7,2019 Summer Tour,2019 Summer,I Always Wanted It This Way,,1,Budweiser Stage,"Toronto, Ontario",,Canada,>
 2019-06-18,2019,0,17,2,2,0,0,14,2019 Summer Tour,2019 Summer,Prince Caspian,Caspian,1,Budweiser Stage,"Toronto, Ontario",,Canada,>
-2019-06-18,2019,0,18,2,2,0,0,11,2019 Summer Tour,2019 Summer,If I Could,If I Could,1,Budweiser Stage,"Toronto, Ontario",,Canada,>
-2019-06-18,2019,0,19,5,2,0,0,4,2019 Summer Tour,2019 Summer,46 Days,46 Days,1,Budweiser Stage,"Toronto, Ontario",,Canada,
-2019-06-18,2019,0,20,6,e,0,0,4,2019 Summer Tour,2019 Summer,Drift While You're Sleeping,Drift While You're Sleeping,0,Budweiser Stage,"Toronto, Ontario",,Canada,
-2019-06-19,2019,0,1,2,1,0,0,8,2019 Summer Tour,2019 Summer,Soul Planet,Soul Planet,0,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2019-06-18,2019,0,18,2,2,0,0,11,2019 Summer Tour,2019 Summer,If I Could,,1,Budweiser Stage,"Toronto, Ontario",,Canada,>
+2019-06-18,2019,0,19,5,2,0,0,4,2019 Summer Tour,2019 Summer,46 Days,,1,Budweiser Stage,"Toronto, Ontario",,Canada,
+2019-06-18,2019,0,20,6,e,0,0,4,2019 Summer Tour,2019 Summer,Drift While You're Sleeping,,0,Budweiser Stage,"Toronto, Ontario",,Canada,
+2019-06-19,2019,0,1,2,1,0,0,8,2019 Summer Tour,2019 Summer,Soul Planet,,0,Blossom Music Center,Cuyahoga Falls,OH,USA,>
 2019-06-19,2019,0,2,1,1,0,0,4,2019 Summer Tour,2019 Summer,The Moma Dance,Moma,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
 2019-06-19,2019,0,3,1,1,0,0,13,2019 Summer Tour,2019 Summer,Kill Devil Falls,KDF,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-2019-06-19,2019,0,4,2,1,0,0,22,2019 Summer Tour,2019 Summer,Your Pet Cat,Your Pet Cat,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2019-06-19,2019,0,4,2,1,0,0,22,2019 Summer Tour,2019 Summer,Your Pet Cat,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
 2019-06-19,2019,0,5,1,1,0,0,14,2019 Summer Tour,2019 Summer,Back on the Train,BOTT,0,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-2019-06-19,2019,0,6,1,1,0,0,16,2019 Summer Tour,2019 Summer,Everything is Hollow,Everything is Hollow,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-2019-06-19,2019,0,7,1,1,0,0,4,2019 Summer Tour,2019 Summer,About to Run,About to Run,0,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2019-06-19,2019,0,6,1,1,0,0,16,2019 Summer Tour,2019 Summer,Everything is Hollow,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2019-06-19,2019,0,7,1,1,0,0,4,2019 Summer Tour,2019 Summer,About to Run,,0,Blossom Music Center,Cuyahoga Falls,OH,USA,","
 2019-06-19,2019,0,8,1,1,0,0,6,2019 Summer Tour,2019 Summer,Divided Sky,Divided,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
 2019-06-19,2019,0,9,1,1,0,0,25,2019 Summer Tour,2019 Summer,I Didn't Know,IDK,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
 2019-06-19,2019,0,10,4,1,0,0,12,2019 Summer Tour,2019 Summer,Walls of the Cave,WotC,1,Blossom Music Center,Cuyahoga Falls,OH,USA,
 2019-06-19,2019,0,11,2,2,0,0,22,2019 Summer Tour,2019 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
 2019-06-19,2019,0,12,2,2,0,0,25,2019 Summer Tour,2019 Summer,Birds of a Feather,BOAF,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
-2019-06-19,2019,0,13,1,2,0,0,16,2019 Summer Tour,2019 Summer,Crazy Sometimes,Crazy Sometimes,0,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-2019-06-19,2019,0,14,1,2,0,0,17,2019 Summer Tour,2019 Summer,Miss You,Miss You,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-2019-06-19,2019,0,15,2,2,0,0,3,2019 Summer Tour,2019 Summer,Everything's Right,Everything's Right,0,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2019-06-19,2019,0,13,1,2,0,0,16,2019 Summer Tour,2019 Summer,Crazy Sometimes,,0,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2019-06-19,2019,0,14,1,2,0,0,17,2019 Summer Tour,2019 Summer,Miss You,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2019-06-19,2019,0,15,2,2,0,0,3,2019 Summer Tour,2019 Summer,Everything's Right,,0,Blossom Music Center,Cuyahoga Falls,OH,USA,>
 2019-06-19,2019,0,16,2,2,0,0,4,2019 Summer Tour,2019 Summer,Chalk Dust Torture,CDT,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
 2019-06-19,2019,0,17,5,2,0,0,5,2019 Summer Tour,2019 Summer,Slave to the Traffic Light,Slave,1,Blossom Music Center,Cuyahoga Falls,OH,USA,
 2019-06-19,2019,0,18,1,e,0,0,10,2019 Summer Tour,2019 Summer,Split Open and Melt,SOAMelt,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-2019-06-19,2019,0,19,6,e,0,0,1831,2019 Summer Tour,2019 Summer,A Life Beyond The Dream,A Life Beyond The Dream,0,Blossom Music Center,Cuyahoga Falls,OH,USA,
-2019-06-21,2019,0,1,1,1,0,0,63,2019 Summer Tour,2019 Summer,Have Mercy,Have Mercy,0,PNC Music Pavilion,Charlotte,NC,USA,","
+2019-06-19,2019,0,19,6,e,0,0,1831,2019 Summer Tour,2019 Summer,A Life Beyond The Dream,,0,Blossom Music Center,Cuyahoga Falls,OH,USA,
+2019-06-21,2019,0,1,1,1,0,0,63,2019 Summer Tour,2019 Summer,Have Mercy,,0,PNC Music Pavilion,Charlotte,NC,USA,","
 2019-06-21,2019,0,2,1,1,0,0,18,2019 Summer Tour,2019 Summer,Gotta Jibboo,Jibboo,0,PNC Music Pavilion,Charlotte,NC,USA,","
-2019-06-21,2019,0,3,2,1,0,0,3,2019 Summer Tour,2019 Summer,Free,Free,1,PNC Music Pavilion,Charlotte,NC,USA,>
+2019-06-21,2019,0,3,2,1,0,0,3,2019 Summer Tour,2019 Summer,Free,,1,PNC Music Pavilion,Charlotte,NC,USA,>
 2019-06-21,2019,0,4,2,1,0,0,59,2019 Summer Tour,2019 Summer,Ginseng Sullivan,Ginseng,0,PNC Music Pavilion,Charlotte,NC,USA,>
-2019-06-21,2019,0,5,3,1,0,0,4,2019 Summer Tour,2019 Summer,Tweezer,Tweezer,1,PNC Music Pavilion,Charlotte,NC,USA,->
-2019-06-21,2019,0,6,1,1,0,0,10,2019 Summer Tour,2019 Summer,Passing Through,Passing Through,1,PNC Music Pavilion,Charlotte,NC,USA,","
-2019-06-21,2019,0,7,1,1,0,0,12,2019 Summer Tour,2019 Summer,Ya Mar,Ya Mar,0,PNC Music Pavilion,Charlotte,NC,USA,","
-2019-06-21,2019,0,8,2,1,0,0,4,2019 Summer Tour,2019 Summer,Mercury,Mercury,1,PNC Music Pavilion,Charlotte,NC,USA,>
-2019-06-21,2019,0,9,2,1,0,0,0,2019 Summer Tour,2019 Summer,Tweezer,Tweezer,1,PNC Music Pavilion,Charlotte,NC,USA,>
-2019-06-21,2019,0,10,4,1,0,0,4,2019 Summer Tour,2019 Summer,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,PNC Music Pavilion,Charlotte,NC,USA,
-2019-06-21,2019,0,11,2,2,0,0,24,2019 Summer Tour,2019 Summer,Runaway Jim,Runaway Jim,1,PNC Music Pavilion,Charlotte,NC,USA,>
-2019-06-21,2019,0,12,2,2,0,0,14,2019 Summer Tour,2019 Summer,Scents and Subtle Sounds,Scents and Subtle Sounds,1,PNC Music Pavilion,Charlotte,NC,USA,>
-2019-06-21,2019,0,13,3,2,0,0,0,2019 Summer Tour,2019 Summer,Tweezer,Tweezer,1,PNC Music Pavilion,Charlotte,NC,USA,->
-2019-06-21,2019,0,14,1,2,0,0,3,2019 Summer Tour,2019 Summer,Sand,Sand,0,PNC Music Pavilion,Charlotte,NC,USA,","
-2019-06-21,2019,0,15,2,2,0,0,14,2019 Summer Tour,2019 Summer,Lifeboy,Lifeboy,1,PNC Music Pavilion,Charlotte,NC,USA,>
+2019-06-21,2019,0,5,3,1,0,0,4,2019 Summer Tour,2019 Summer,Tweezer,,1,PNC Music Pavilion,Charlotte,NC,USA,->
+2019-06-21,2019,0,6,1,1,0,0,10,2019 Summer Tour,2019 Summer,Passing Through,,1,PNC Music Pavilion,Charlotte,NC,USA,","
+2019-06-21,2019,0,7,1,1,0,0,12,2019 Summer Tour,2019 Summer,Ya Mar,,0,PNC Music Pavilion,Charlotte,NC,USA,","
+2019-06-21,2019,0,8,2,1,0,0,4,2019 Summer Tour,2019 Summer,Mercury,,1,PNC Music Pavilion,Charlotte,NC,USA,>
+2019-06-21,2019,0,9,2,1,0,0,0,2019 Summer Tour,2019 Summer,Tweezer,,1,PNC Music Pavilion,Charlotte,NC,USA,>
+2019-06-21,2019,0,10,4,1,0,0,4,2019 Summer Tour,2019 Summer,Say It To Me S.A.N.T.O.S.,,1,PNC Music Pavilion,Charlotte,NC,USA,
+2019-06-21,2019,0,11,2,2,0,0,24,2019 Summer Tour,2019 Summer,Runaway Jim,,1,PNC Music Pavilion,Charlotte,NC,USA,>
+2019-06-21,2019,0,12,2,2,0,0,14,2019 Summer Tour,2019 Summer,Scents and Subtle Sounds,,1,PNC Music Pavilion,Charlotte,NC,USA,>
+2019-06-21,2019,0,13,3,2,0,0,0,2019 Summer Tour,2019 Summer,Tweezer,,1,PNC Music Pavilion,Charlotte,NC,USA,->
+2019-06-21,2019,0,14,1,2,0,0,3,2019 Summer Tour,2019 Summer,Sand,,0,PNC Music Pavilion,Charlotte,NC,USA,","
+2019-06-21,2019,0,15,2,2,0,0,14,2019 Summer Tour,2019 Summer,Lifeboy,,1,PNC Music Pavilion,Charlotte,NC,USA,>
 2019-06-21,2019,0,16,2,2,0,0,17,2019 Summer Tour,2019 Summer,A Song I Heard the Ocean Sing,ASIHTOS,1,PNC Music Pavilion,Charlotte,NC,USA,>
-2019-06-21,2019,0,17,1,2,0,0,36,2019 Summer Tour,2019 Summer,Taste,Taste,1,PNC Music Pavilion,Charlotte,NC,USA,","
-2019-06-21,2019,0,18,2,2,0,0,27,2019 Summer Tour,2019 Summer,Twenty Years Later,Twenty Years Later,1,PNC Music Pavilion,Charlotte,NC,USA,>
-2019-06-21,2019,0,19,5,2,0,0,4,2019 Summer Tour,2019 Summer,Possum,Possum,1,PNC Music Pavilion,Charlotte,NC,USA,
-2019-06-21,2019,0,20,2,e,0,0,4,2019 Summer Tour,2019 Summer,More,More,1,PNC Music Pavilion,Charlotte,NC,USA,>
+2019-06-21,2019,0,17,1,2,0,0,36,2019 Summer Tour,2019 Summer,Taste,,1,PNC Music Pavilion,Charlotte,NC,USA,","
+2019-06-21,2019,0,18,2,2,0,0,27,2019 Summer Tour,2019 Summer,Twenty Years Later,,1,PNC Music Pavilion,Charlotte,NC,USA,>
+2019-06-21,2019,0,19,5,2,0,0,4,2019 Summer Tour,2019 Summer,Possum,,1,PNC Music Pavilion,Charlotte,NC,USA,
+2019-06-21,2019,0,20,2,e,0,0,4,2019 Summer Tour,2019 Summer,More,,1,PNC Music Pavilion,Charlotte,NC,USA,>
 2019-06-21,2019,0,21,6,e,0,0,4,2019 Summer Tour,2019 Summer,Tweezer Reprise,Tweeprise,1,PNC Music Pavilion,Charlotte,NC,USA,
-2019-06-22,2019,0,1,1,1,0,0,6,2019 Summer Tour,2019 Summer,Undermind,Undermind,0,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-22,2019,0,1,1,1,0,0,1826,Not Part of a Tour,No Tour,(I Got) So Much Trouble In My Mind,(I Got) So Much Trouble In My Mind,0,The Soundry,Columbia,MD,USA,","
-2019-06-22,2019,0,2,1,1,0,0,7,2019 Summer Tour,2019 Summer,Tube,Tube,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-22,2019,0,2,1,1,0,0,1826,Not Part of a Tour,No Tour,Walls of Time,Walls of Time,0,The Soundry,Columbia,MD,USA,","
-2019-06-22,2019,0,3,1,1,0,0,6,2019 Summer Tour,2019 Summer,Funky Bitch,Funky Bitch,0,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-22,2019,0,3,6,1,0,0,1826,Not Part of a Tour,No Tour,Born On the Bayou,Born On the Bayou,0,The Soundry,Columbia,MD,USA,
-2019-06-22,2019,0,4,2,1,0,0,5,2019 Summer Tour,2019 Summer,Steam,Steam,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2019-06-22,2019,0,1,1,1,0,0,6,2019 Summer Tour,2019 Summer,Undermind,,0,Merriweather Post Pavilion,Columbia,MD,USA,","
+2019-06-22,2019,0,1,1,1,0,0,1826,Not Part of a Tour,No Tour,(I Got) So Much Trouble In My Mind,,0,The Soundry,Columbia,MD,USA,","
+2019-06-22,2019,0,2,1,1,0,0,7,2019 Summer Tour,2019 Summer,Tube,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2019-06-22,2019,0,2,1,1,0,0,1826,Not Part of a Tour,No Tour,Walls of Time,,0,The Soundry,Columbia,MD,USA,","
+2019-06-22,2019,0,3,1,1,0,0,6,2019 Summer Tour,2019 Summer,Funky Bitch,,0,Merriweather Post Pavilion,Columbia,MD,USA,","
+2019-06-22,2019,0,3,6,1,0,0,1826,Not Part of a Tour,No Tour,Born On the Bayou,,0,The Soundry,Columbia,MD,USA,
+2019-06-22,2019,0,4,2,1,0,0,5,2019 Summer Tour,2019 Summer,Steam,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2019-06-22,2019,0,5,2,1,0,0,21,2019 Summer Tour,2019 Summer,My Sweet One,MSO,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-22,2019,0,6,1,1,0,0,27,2019 Summer Tour,2019 Summer,NICU,NICU,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-22,2019,0,7,1,1,0,0,1829,2019 Summer Tour,2019 Summer,Friend,Friend,0,Merriweather Post Pavilion,Columbia,MD,USA,","
+2019-06-22,2019,0,6,1,1,0,0,27,2019 Summer Tour,2019 Summer,NICU,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2019-06-22,2019,0,7,1,1,0,0,1829,2019 Summer Tour,2019 Summer,Friend,,0,Merriweather Post Pavilion,Columbia,MD,USA,","
 2019-06-22,2019,0,8,2,1,0,0,4,2019 Summer Tour,2019 Summer,No Men In No Man's Land,NMINML,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2019-06-22,2019,0,9,2,1,0,0,29,2019 Summer Tour,2019 Summer,The Horse,Horse,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2019-06-22,2019,0,10,2,1,0,0,29,2019 Summer Tour,2019 Summer,Silent in the Morning,Silent,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2019-06-22,2019,0,11,1,1,0,0,20,2019 Summer Tour,2019 Summer,David Bowie,Bowie,1,Merriweather Post Pavilion,Columbia,MD,USA,","
 2019-06-22,2019,0,12,4,1,0,0,10,2019 Summer Tour,2019 Summer,The Squirming Coil,Coil,1,Merriweather Post Pavilion,Columbia,MD,USA,
-2019-06-22,2019,0,13,2,2,0,0,4,2019 Summer Tour,2019 Summer,Ghost,Ghost,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-22,2019,0,14,2,2,0,0,14,2019 Summer Tour,2019 Summer,Axilla,Axilla,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-22,2019,0,15,2,2,0,0,4,2019 Summer Tour,2019 Summer,Set Your Soul Free,Set Your Soul Free,0,Merriweather Post Pavilion,Columbia,MD,USA,>
+2019-06-22,2019,0,13,2,2,0,0,4,2019 Summer Tour,2019 Summer,Ghost,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2019-06-22,2019,0,14,2,2,0,0,14,2019 Summer Tour,2019 Summer,Axilla,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2019-06-22,2019,0,15,2,2,0,0,4,2019 Summer Tour,2019 Summer,Set Your Soul Free,,0,Merriweather Post Pavilion,Columbia,MD,USA,>
 2019-06-22,2019,0,16,2,2,0,0,11,2019 Summer Tour,2019 Summer,What's the Use?,WTU?,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-22,2019,0,17,1,2,0,0,12,2019 Summer Tour,2019 Summer,Billy Breathes,Billy Breathes,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2019-06-22,2019,0,17,1,2,0,0,12,2019 Summer Tour,2019 Summer,Billy Breathes,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
 2019-06-22,2019,0,18,2,2,0,0,4,2019 Summer Tour,2019 Summer,Death Don't Hurt Very Long,DDHVL,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2019-06-22,2019,0,19,2,2,0,0,18,2019 Summer Tour,2019 Summer,Backwards Down the Number Line,BDTNL,0,Merriweather Post Pavilion,Columbia,MD,USA,>
 2019-06-22,2019,0,20,2,2,0,0,5,2019 Summer Tour,2019 Summer,Harry Hood,Hood,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-22,2019,0,21,2,2,0,0,10,2019 Summer Tour,2019 Summer,Rise/Come Together,Rise/Come Together,0,Merriweather Post Pavilion,Columbia,MD,USA,>
+2019-06-22,2019,0,21,2,2,0,0,10,2019 Summer Tour,2019 Summer,Rise/Come Together,,0,Merriweather Post Pavilion,Columbia,MD,USA,>
 2019-06-22,2019,0,22,5,2,0,0,33,2019 Summer Tour,2019 Summer,Golgi Apparatus,Golgi,1,Merriweather Post Pavilion,Columbia,MD,USA,
-2019-06-22,2019,0,23,2,e,0,0,18,2019 Summer Tour,2019 Summer,Bug,Bug,0,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-22,2019,0,24,6,e,0,0,5,2019 Summer Tour,2019 Summer,Character Zero,Character Zero,1,Merriweather Post Pavilion,Columbia,MD,USA,
-2019-06-23,2019,0,1,2,1,0,0,6,2019 Summer Tour,2019 Summer,Carini,Carini,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,2,2,1,0,0,66,2019 Summer Tour,2019 Summer,My Soul,My Soul,0,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,3,1,1,0,0,27,2019 Summer Tour,2019 Summer,Rift,Rift,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-23,2019,0,4,1,1,0,0,28,2019 Summer Tour,2019 Summer,Gumbo,Gumbo,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-23,2019,0,5,2,1,0,0,47,2019 Summer Tour,2019 Summer,It's Ice,It's Ice,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,6,1,1,0,0,40,2019 Summer Tour,2019 Summer,Winterqueen,Winterqueen,0,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-23,2019,0,7,1,1,0,0,66,2019 Summer Tour,2019 Summer,Yarmouth Road,Yarmouth Road,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-23,2019,0,8,1,1,0,0,10,2019 Summer Tour,2019 Summer,Shade,Shade,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-23,2019,0,9,1,1,0,0,1830,2019 Summer Tour,2019 Summer,Halfway Home,Halfway Home,0,Merriweather Post Pavilion,Columbia,MD,USA,","
+2019-06-22,2019,0,23,2,e,0,0,18,2019 Summer Tour,2019 Summer,Bug,,0,Merriweather Post Pavilion,Columbia,MD,USA,>
+2019-06-22,2019,0,24,6,e,0,0,5,2019 Summer Tour,2019 Summer,Character Zero,,1,Merriweather Post Pavilion,Columbia,MD,USA,
+2019-06-23,2019,0,1,2,1,0,0,6,2019 Summer Tour,2019 Summer,Carini,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2019-06-23,2019,0,2,2,1,0,0,66,2019 Summer Tour,2019 Summer,My Soul,,0,Merriweather Post Pavilion,Columbia,MD,USA,>
+2019-06-23,2019,0,3,1,1,0,0,27,2019 Summer Tour,2019 Summer,Rift,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2019-06-23,2019,0,4,1,1,0,0,28,2019 Summer Tour,2019 Summer,Gumbo,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2019-06-23,2019,0,5,2,1,0,0,47,2019 Summer Tour,2019 Summer,It's Ice,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2019-06-23,2019,0,6,1,1,0,0,40,2019 Summer Tour,2019 Summer,Winterqueen,,0,Merriweather Post Pavilion,Columbia,MD,USA,","
+2019-06-23,2019,0,7,1,1,0,0,66,2019 Summer Tour,2019 Summer,Yarmouth Road,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2019-06-23,2019,0,8,1,1,0,0,10,2019 Summer Tour,2019 Summer,Shade,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2019-06-23,2019,0,9,1,1,0,0,1830,2019 Summer Tour,2019 Summer,Halfway Home,,0,Merriweather Post Pavilion,Columbia,MD,USA,","
 2019-06-23,2019,0,10,2,1,0,0,4,2019 Summer Tour,2019 Summer,The Wedge,Wedge,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2019-06-23,2019,0,11,4,1,0,0,7,2019 Summer Tour,2019 Summer,Run Like an Antelope,Antelope,1,Merriweather Post Pavilion,Columbia,MD,USA,
 2019-06-23,2019,0,12,2,2,0,0,13,2019 Summer Tour,2019 Summer,Crosseyed and Painless,C&amp;P,0,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,13,2,2,0,0,3,2019 Summer Tour,2019 Summer,Everything's Right,Everything's Right,0,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,14,3,2,0,0,4,2019 Summer Tour,2019 Summer,Ruby Waves,Ruby Waves,0,Merriweather Post Pavilion,Columbia,MD,USA,->
-2019-06-23,2019,0,15,2,2,0,0,5,2019 Summer Tour,2019 Summer,Twist,Twist,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2019-06-23,2019,0,13,2,2,0,0,3,2019 Summer Tour,2019 Summer,Everything's Right,,0,Merriweather Post Pavilion,Columbia,MD,USA,>
+2019-06-23,2019,0,14,3,2,0,0,4,2019 Summer Tour,2019 Summer,Ruby Waves,,0,Merriweather Post Pavilion,Columbia,MD,USA,->
+2019-06-23,2019,0,15,2,2,0,0,5,2019 Summer Tour,2019 Summer,Twist,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2019-06-23,2019,0,16,2,2,0,0,6,2019 Summer Tour,2019 Summer,Also Sprach Zarathustra,2001,0,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,17,5,2,0,0,5,2019 Summer Tour,2019 Summer,Blaze On,Blaze On,1,Merriweather Post Pavilion,Columbia,MD,USA,
-2019-06-23,2019,0,18,1,e,0,0,15,2019 Summer Tour,2019 Summer,Maze,Maze,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-23,2019,0,19,2,e,0,0,7,2019 Summer Tour,2019 Summer,Waste,Waste,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,20,2,e,0,0,10,2019 Summer Tour,2019 Summer,Sanity,Sanity,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,21,6,e,0,0,5,2019 Summer Tour,2019 Summer,Wilson,Wilson,1,Merriweather Post Pavilion,Columbia,MD,USA,
-2019-06-25,2019,0,1,1,1,0,0,5,2019 Summer Tour,2019 Summer,46 Days,46 Days,1,Darling's Waterfront Pavilion,Bangor,ME,USA,","
+2019-06-23,2019,0,17,5,2,0,0,5,2019 Summer Tour,2019 Summer,Blaze On,,1,Merriweather Post Pavilion,Columbia,MD,USA,
+2019-06-23,2019,0,18,1,e,0,0,15,2019 Summer Tour,2019 Summer,Maze,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2019-06-23,2019,0,19,2,e,0,0,7,2019 Summer Tour,2019 Summer,Waste,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2019-06-23,2019,0,20,2,e,0,0,10,2019 Summer Tour,2019 Summer,Sanity,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2019-06-23,2019,0,21,6,e,0,0,5,2019 Summer Tour,2019 Summer,Wilson,,1,Merriweather Post Pavilion,Columbia,MD,USA,
+2019-06-25,2019,0,1,1,1,0,0,5,2019 Summer Tour,2019 Summer,46 Days,,1,Darling's Waterfront Pavilion,Bangor,ME,USA,","
 2019-06-25,2019,0,2,1,1,0,0,4,2019 Summer Tour,2019 Summer,Back on the Train,BOTT,0,Darling's Waterfront Pavilion,Bangor,ME,USA,","
-2019-06-25,2019,0,3,1,1,0,0,13,2019 Summer Tour,2019 Summer,Ass Handed,Ass Handed,1,Darling's Waterfront Pavilion,Bangor,ME,USA,","
+2019-06-25,2019,0,3,1,1,0,0,13,2019 Summer Tour,2019 Summer,Ass Handed,,1,Darling's Waterfront Pavilion,Bangor,ME,USA,","
 2019-06-25,2019,0,4,1,1,0,0,6,2019 Summer Tour,2019 Summer,Bathtub Gin,Gin,1,Darling's Waterfront Pavilion,Bangor,ME,USA,","
-2019-06-25,2019,0,5,1,1,0,0,22,2019 Summer Tour,2019 Summer,The Dogs,The Dogs,1,Darling's Waterfront Pavilion,Bangor,ME,USA,","
-2019-06-25,2019,0,6,2,1,0,0,8,2019 Summer Tour,2019 Summer,Waves,Waves,1,Darling's Waterfront Pavilion,Bangor,ME,USA,>
+2019-06-25,2019,0,5,1,1,0,0,22,2019 Summer Tour,2019 Summer,The Dogs,,1,Darling's Waterfront Pavilion,Bangor,ME,USA,","
+2019-06-25,2019,0,6,2,1,0,0,8,2019 Summer Tour,2019 Summer,Waves,,1,Darling's Waterfront Pavilion,Bangor,ME,USA,>
 2019-06-25,2019,0,7,2,1,0,0,6,2019 Summer Tour,2019 Summer,Mike's Song,Mike's,1,Darling's Waterfront Pavilion,Bangor,ME,USA,>
-2019-06-25,2019,0,8,2,1,0,0,17,2019 Summer Tour,2019 Summer,Water in the Sky,Water in the Sky,1,Darling's Waterfront Pavilion,Bangor,ME,USA,>
+2019-06-25,2019,0,8,2,1,0,0,17,2019 Summer Tour,2019 Summer,Water in the Sky,,1,Darling's Waterfront Pavilion,Bangor,ME,USA,>
 2019-06-25,2019,0,9,3,1,0,0,9,2019 Summer Tour,2019 Summer,Limb By Limb,LxL,1,Darling's Waterfront Pavilion,Bangor,ME,USA,->
 2019-06-25,2019,0,10,2,1,0,0,6,2019 Summer Tour,2019 Summer,Weekapaug Groove,Weekapaug,1,Darling's Waterfront Pavilion,Bangor,ME,USA,>
-2019-06-25,2019,0,11,4,1,0,0,29,2019 Summer Tour,2019 Summer,Julius,Julius,1,Darling's Waterfront Pavilion,Bangor,ME,USA,
+2019-06-25,2019,0,11,4,1,0,0,29,2019 Summer Tour,2019 Summer,Julius,,1,Darling's Waterfront Pavilion,Bangor,ME,USA,
 2019-06-25,2019,0,12,2,2,0,0,7,2019 Summer Tour,2019 Summer,Down with Disease,DwD,1,Darling's Waterfront Pavilion,Bangor,ME,USA,>
-2019-06-25,2019,0,13,2,2,0,0,13,2019 Summer Tour,2019 Summer,Play by Play,Play by Play,1,Darling's Waterfront Pavilion,Bangor,ME,USA,>
-2019-06-25,2019,0,14,2,2,0,0,9,2019 Summer Tour,2019 Summer,Simple,Simple,1,Darling's Waterfront Pavilion,Bangor,ME,USA,>
-2019-06-25,2019,0,15,1,2,0,0,9,2019 Summer Tour,2019 Summer,Piper,Piper,1,Darling's Waterfront Pavilion,Bangor,ME,USA,","
-2019-06-25,2019,0,16,1,2,0,0,4,2019 Summer Tour,2019 Summer,Miss You,Miss You,1,Darling's Waterfront Pavilion,Bangor,ME,USA,","
-2019-06-25,2019,0,17,1,2,0,0,27,2019 Summer Tour,2019 Summer,Llama,Llama,1,Darling's Waterfront Pavilion,Bangor,ME,USA,","
-2019-06-25,2019,0,18,2,2,0,0,20,2019 Summer Tour,2019 Summer,Meatstick,Meatstick,1,Darling's Waterfront Pavilion,Bangor,ME,USA,>
-2019-06-25,2019,0,19,2,2,0,0,2,2019 Summer Tour,2019 Summer,Rise/Come Together,Rise/Come Together,0,Darling's Waterfront Pavilion,Bangor,ME,USA,>
+2019-06-25,2019,0,13,2,2,0,0,13,2019 Summer Tour,2019 Summer,Play by Play,,1,Darling's Waterfront Pavilion,Bangor,ME,USA,>
+2019-06-25,2019,0,14,2,2,0,0,9,2019 Summer Tour,2019 Summer,Simple,,1,Darling's Waterfront Pavilion,Bangor,ME,USA,>
+2019-06-25,2019,0,15,1,2,0,0,9,2019 Summer Tour,2019 Summer,Piper,,1,Darling's Waterfront Pavilion,Bangor,ME,USA,","
+2019-06-25,2019,0,16,1,2,0,0,4,2019 Summer Tour,2019 Summer,Miss You,,1,Darling's Waterfront Pavilion,Bangor,ME,USA,","
+2019-06-25,2019,0,17,1,2,0,0,27,2019 Summer Tour,2019 Summer,Llama,,1,Darling's Waterfront Pavilion,Bangor,ME,USA,","
+2019-06-25,2019,0,18,2,2,0,0,20,2019 Summer Tour,2019 Summer,Meatstick,,1,Darling's Waterfront Pavilion,Bangor,ME,USA,>
+2019-06-25,2019,0,19,2,2,0,0,2,2019 Summer Tour,2019 Summer,Rise/Come Together,,0,Darling's Waterfront Pavilion,Bangor,ME,USA,>
 2019-06-25,2019,0,20,5,2,0,0,4,2019 Summer Tour,2019 Summer,Slave to the Traffic Light,Slave,1,Darling's Waterfront Pavilion,Bangor,ME,USA,
-2019-06-25,2019,0,21,6,e,0,0,8,2019 Summer Tour,2019 Summer,Loving Cup,Loving Cup,0,Darling's Waterfront Pavilion,Bangor,ME,USA,
-2019-06-26,2019,0,1,1,1,0,0,30,2019 Summer Tour,2019 Summer,Crowd Control,Crowd Control,1,Darling's Waterfront Pavilion,Bangor,ME,USA,","
-2019-06-26,2019,0,2,1,1,0,0,6,2019 Summer Tour,2019 Summer,Plasma,Plasma,0,Darling's Waterfront Pavilion,Bangor,ME,USA,","
-2019-06-26,2019,0,3,1,1,0,0,31,2019 Summer Tour,2019 Summer,Army of One,Army of One,1,Darling's Waterfront Pavilion,Bangor,ME,USA,","
-2019-06-26,2019,0,4,1,1,0,0,35,2019 Summer Tour,2019 Summer,Alaska,Alaska,0,Darling's Waterfront Pavilion,Bangor,ME,USA,","
+2019-06-25,2019,0,21,6,e,0,0,8,2019 Summer Tour,2019 Summer,Loving Cup,,0,Darling's Waterfront Pavilion,Bangor,ME,USA,
+2019-06-26,2019,0,1,1,1,0,0,30,2019 Summer Tour,2019 Summer,Crowd Control,,1,Darling's Waterfront Pavilion,Bangor,ME,USA,","
+2019-06-26,2019,0,2,1,1,0,0,6,2019 Summer Tour,2019 Summer,Plasma,,0,Darling's Waterfront Pavilion,Bangor,ME,USA,","
+2019-06-26,2019,0,3,1,1,0,0,31,2019 Summer Tour,2019 Summer,Army of One,,1,Darling's Waterfront Pavilion,Bangor,ME,USA,","
+2019-06-26,2019,0,4,1,1,0,0,35,2019 Summer Tour,2019 Summer,Alaska,,0,Darling's Waterfront Pavilion,Bangor,ME,USA,","
 2019-06-26,2019,0,5,2,1,0,0,5,2019 Summer Tour,2019 Summer,Kill Devil Falls,KDF,1,Darling's Waterfront Pavilion,Bangor,ME,USA,>
-2019-06-26,2019,0,6,1,1,0,0,45,2019 Summer Tour,2019 Summer,How Many People Are You,How Many People Are You,0,Darling's Waterfront Pavilion,Bangor,ME,USA,","
-2019-06-26,2019,0,7,2,1,0,0,22,2019 Summer Tour,2019 Summer,Petrichor,Petrichor,0,Darling's Waterfront Pavilion,Bangor,ME,USA,>
-2019-06-26,2019,0,8,2,1,0,0,12,2019 Summer Tour,2019 Summer,Saw It Again,Saw It Again,1,Darling's Waterfront Pavilion,Bangor,ME,USA,>
-2019-06-26,2019,0,9,4,1,0,0,4,2019 Summer Tour,2019 Summer,Sand,Sand,0,Darling's Waterfront Pavilion,Bangor,ME,USA,
-2019-06-26,2019,0,10,1,2,0,0,10,2019 Summer Tour,2019 Summer,Turtle in the Clouds,Turtle in the Clouds,1,Darling's Waterfront Pavilion,Bangor,ME,USA,","
+2019-06-26,2019,0,6,1,1,0,0,45,2019 Summer Tour,2019 Summer,How Many People Are You,,0,Darling's Waterfront Pavilion,Bangor,ME,USA,","
+2019-06-26,2019,0,7,2,1,0,0,22,2019 Summer Tour,2019 Summer,Petrichor,,0,Darling's Waterfront Pavilion,Bangor,ME,USA,>
+2019-06-26,2019,0,8,2,1,0,0,12,2019 Summer Tour,2019 Summer,Saw It Again,,1,Darling's Waterfront Pavilion,Bangor,ME,USA,>
+2019-06-26,2019,0,9,4,1,0,0,4,2019 Summer Tour,2019 Summer,Sand,,0,Darling's Waterfront Pavilion,Bangor,ME,USA,
+2019-06-26,2019,0,10,1,2,0,0,10,2019 Summer Tour,2019 Summer,Turtle in the Clouds,,1,Darling's Waterfront Pavilion,Bangor,ME,USA,","
 2019-06-26,2019,0,11,2,2,0,0,4,2019 Summer Tour,2019 Summer,Gotta Jibboo,Jibboo,0,Darling's Waterfront Pavilion,Bangor,ME,USA,>
-2019-06-26,2019,0,12,3,2,0,0,7,2019 Summer Tour,2019 Summer,Fuego,Fuego,1,Darling's Waterfront Pavilion,Bangor,ME,USA,->
-2019-06-26,2019,0,13,3,2,0,0,16,2019 Summer Tour,2019 Summer,Cities,Cities,0,Darling's Waterfront Pavilion,Bangor,ME,USA,->
-2019-06-26,2019,0,14,2,2,0,0,6,2019 Summer Tour,2019 Summer,The Final Hurrah,The Final Hurrah,1,Darling's Waterfront Pavilion,Bangor,ME,USA,>
+2019-06-26,2019,0,12,3,2,0,0,7,2019 Summer Tour,2019 Summer,Fuego,,1,Darling's Waterfront Pavilion,Bangor,ME,USA,->
+2019-06-26,2019,0,13,3,2,0,0,16,2019 Summer Tour,2019 Summer,Cities,,0,Darling's Waterfront Pavilion,Bangor,ME,USA,->
+2019-06-26,2019,0,14,2,2,0,0,6,2019 Summer Tour,2019 Summer,The Final Hurrah,,1,Darling's Waterfront Pavilion,Bangor,ME,USA,>
 2019-06-26,2019,0,15,2,2,0,0,6,2019 Summer Tour,2019 Summer,Prince Caspian,Caspian,1,Darling's Waterfront Pavilion,Bangor,ME,USA,>
-2019-06-26,2019,0,16,2,2,0,0,9,2019 Summer Tour,2019 Summer,Farmhouse,Farmhouse,1,Darling's Waterfront Pavilion,Bangor,ME,USA,>
+2019-06-26,2019,0,16,2,2,0,0,9,2019 Summer Tour,2019 Summer,Farmhouse,,1,Darling's Waterfront Pavilion,Bangor,ME,USA,>
 2019-06-26,2019,0,17,2,2,0,0,3,2019 Summer Tour,2019 Summer,Backwards Down the Number Line,BDTNL,0,Darling's Waterfront Pavilion,Bangor,ME,USA,>
 2019-06-26,2019,0,18,5,2,0,0,5,2019 Summer Tour,2019 Summer,Chalk Dust Torture,CDT,1,Darling's Waterfront Pavilion,Bangor,ME,USA,
 2019-06-26,2019,0,19,1,e,0,0,14,2019 Summer Tour,2019 Summer,The Lizards,Lizards,1,Darling's Waterfront Pavilion,Bangor,ME,USA,","
 2019-06-26,2019,0,20,6,e,0,0,9,2019 Summer Tour,2019 Summer,Suzy Greenberg,Suzy,1,Darling's Waterfront Pavilion,Bangor,ME,USA,
-2019-06-28,2019,0,1,1,1,0,0,4,2019 Summer Tour,2019 Summer,Set Your Soul Free,Set Your Soul Free,0,BB&T Pavilion,Camden,NJ,USA,","
-2019-06-28,2019,0,2,2,1,0,0,30,2019 Summer Tour,2019 Summer,Strawberry Letter 23,Strawberry Letter 23,0,BB&T Pavilion,Camden,NJ,USA,>
+2019-06-28,2019,0,1,1,1,0,0,4,2019 Summer Tour,2019 Summer,Set Your Soul Free,,0,BB&T Pavilion,Camden,NJ,USA,","
+2019-06-28,2019,0,2,2,1,0,0,30,2019 Summer Tour,2019 Summer,Strawberry Letter 23,,0,BB&T Pavilion,Camden,NJ,USA,>
 2019-06-28,2019,0,3,1,1,0,0,26,2019 Summer Tour,2019 Summer,"My Friend, My Friend",My Friend,1,BB&T Pavilion,Camden,NJ,USA,","
-2019-06-28,2019,0,4,1,1,0,0,26,2019 Summer Tour,2019 Summer,Halfway to the Moon,Halfway to the Moon,1,BB&T Pavilion,Camden,NJ,USA,","
-2019-06-28,2019,0,5,1,1,0,0,27,2019 Summer Tour,2019 Summer,The Old Home Place,The Old Home Place,0,BB&T Pavilion,Camden,NJ,USA,","
-2019-06-28,2019,0,6,2,1,0,0,39,2019 Summer Tour,2019 Summer,Train Song,Train Song,1,BB&T Pavilion,Camden,NJ,USA,>
-2019-06-28,2019,0,7,1,1,0,0,33,2019 Summer Tour,2019 Summer,Horn,Horn,1,BB&T Pavilion,Camden,NJ,USA,","
+2019-06-28,2019,0,4,1,1,0,0,26,2019 Summer Tour,2019 Summer,Halfway to the Moon,,1,BB&T Pavilion,Camden,NJ,USA,","
+2019-06-28,2019,0,5,1,1,0,0,27,2019 Summer Tour,2019 Summer,The Old Home Place,,0,BB&T Pavilion,Camden,NJ,USA,","
+2019-06-28,2019,0,6,2,1,0,0,39,2019 Summer Tour,2019 Summer,Train Song,,1,BB&T Pavilion,Camden,NJ,USA,>
+2019-06-28,2019,0,7,1,1,0,0,33,2019 Summer Tour,2019 Summer,Horn,,1,BB&T Pavilion,Camden,NJ,USA,","
 2019-06-28,2019,0,8,1,1,0,0,6,2019 Summer Tour,2019 Summer,Birds of a Feather,BOAF,1,BB&T Pavilion,Camden,NJ,USA,","
 2019-06-28,2019,0,9,1,1,0,0,8,2019 Summer Tour,2019 Summer,Wolfman's Brother,Wolfman's,1,BB&T Pavilion,Camden,NJ,USA,","
-2019-06-28,2019,0,10,2,1,0,0,34,2019 Summer Tour,2019 Summer,Wombat,Wombat,1,BB&T Pavilion,Camden,NJ,USA,>
+2019-06-28,2019,0,10,2,1,0,0,34,2019 Summer Tour,2019 Summer,Wombat,,1,BB&T Pavilion,Camden,NJ,USA,>
 2019-06-28,2019,0,11,1,1,0,0,28,2019 Summer Tour,2019 Summer,Timber (Jerry the Mule),Timber Ho,0,BB&T Pavilion,Camden,NJ,USA,","
-2019-06-28,2019,0,12,4,1,0,0,7,2019 Summer Tour,2019 Summer,Drift While You're Sleeping,Drift While You're Sleeping,0,BB&T Pavilion,Camden,NJ,USA,
-2019-06-28,2019,0,13,2,2,0,0,5,2019 Summer Tour,2019 Summer,Mercury,Mercury,1,BB&T Pavilion,Camden,NJ,USA,>
+2019-06-28,2019,0,12,4,1,0,0,7,2019 Summer Tour,2019 Summer,Drift While You're Sleeping,,0,BB&T Pavilion,Camden,NJ,USA,
+2019-06-28,2019,0,13,2,2,0,0,5,2019 Summer Tour,2019 Summer,Mercury,,1,BB&T Pavilion,Camden,NJ,USA,>
 2019-06-28,2019,0,14,2,2,0,0,4,2019 Summer Tour,2019 Summer,No Men In No Man's Land,NMINML,1,BB&T Pavilion,Camden,NJ,USA,>
 2019-06-28,2019,0,15,1,2,0,0,10,2019 Summer Tour,2019 Summer,We Are Come to Outlive Our Brains,WACTOOB,1,BB&T Pavilion,Camden,NJ,USA,","
-2019-06-28,2019,0,16,1,2,0,0,6,2019 Summer Tour,2019 Summer,About to Run,About to Run,0,BB&T Pavilion,Camden,NJ,USA,","
-2019-06-28,2019,0,17,3,2,0,0,10,2019 Summer Tour,2019 Summer,Light,Light,0,BB&T Pavilion,Camden,NJ,USA,->
+2019-06-28,2019,0,16,1,2,0,0,6,2019 Summer Tour,2019 Summer,About to Run,,0,BB&T Pavilion,Camden,NJ,USA,","
+2019-06-28,2019,0,17,3,2,0,0,10,2019 Summer Tour,2019 Summer,Light,,0,BB&T Pavilion,Camden,NJ,USA,->
 2019-06-28,2019,0,18,5,2,0,0,3,2019 Summer Tour,2019 Summer,Run Like an Antelope,Antelope,1,BB&T Pavilion,Camden,NJ,USA,
-2019-06-28,2019,0,19,2,e,0,0,12,2019 Summer Tour,2019 Summer,Sleeping Monkey,Sleeping Monkey,1,BB&T Pavilion,Camden,NJ,USA,>
+2019-06-28,2019,0,19,2,e,0,0,12,2019 Summer Tour,2019 Summer,Sleeping Monkey,,1,BB&T Pavilion,Camden,NJ,USA,>
 2019-06-28,2019,0,20,6,e,0,0,62,2019 Summer Tour,2019 Summer,Quinn the Eskimo (The Mighty Quinn),Quinn,0,BB&T Pavilion,Camden,NJ,USA,
 2019-06-29,2019,0,1,2,1,0,0,3,2019 Summer Tour,2019 Summer,Mike's Song,Mike's,1,BB&T Pavilion,Camden,NJ,USA,>
 2019-06-29,2019,0,2,2,1,0,0,41,2019 Summer Tour,2019 Summer,I Am Hydrogen,Hydrogen,1,BB&T Pavilion,Camden,NJ,USA,>
 2019-06-29,2019,0,3,1,1,0,0,3,2019 Summer Tour,2019 Summer,Weekapaug Groove,Weekapaug,1,BB&T Pavilion,Camden,NJ,USA,","
 2019-06-29,2019,0,4,1,1,0,0,7,2019 Summer Tour,2019 Summer,Divided Sky,Divided,1,BB&T Pavilion,Camden,NJ,USA,","
-2019-06-29,2019,0,5,2,1,0,0,4,2019 Summer Tour,2019 Summer,Everything's Right,Everything's Right,0,BB&T Pavilion,Camden,NJ,USA,>
+2019-06-29,2019,0,5,2,1,0,0,4,2019 Summer Tour,2019 Summer,Everything's Right,,0,BB&T Pavilion,Camden,NJ,USA,>
 2019-06-29,2019,0,6,2,1,0,0,39,2019 Summer Tour,2019 Summer,Guelah Papyrus,Guelah,1,BB&T Pavilion,Camden,NJ,USA,>
-2019-06-29,2019,0,7,2,1,0,0,19,2019 Summer Tour,2019 Summer,Sparkle,Sparkle,1,BB&T Pavilion,Camden,NJ,USA,>
-2019-06-29,2019,0,8,2,1,0,0,11,2019 Summer Tour,2019 Summer,Roggae,Roggae,1,BB&T Pavilion,Camden,NJ,USA,>
-2019-06-29,2019,0,9,4,1,0,0,3,2019 Summer Tour,2019 Summer,46 Days,46 Days,1,BB&T Pavilion,Camden,NJ,USA,
-2019-06-29,2019,0,10,2,2,0,0,4,2019 Summer Tour,2019 Summer,Blaze On,Blaze On,1,BB&T Pavilion,Camden,NJ,USA,>
-2019-06-29,2019,0,11,2,2,0,0,5,2019 Summer Tour,2019 Summer,NICU,NICU,1,BB&T Pavilion,Camden,NJ,USA,>
-2019-06-29,2019,0,12,2,2,0,0,8,2019 Summer Tour,2019 Summer,Golden Age,Golden Age,0,BB&T Pavilion,Camden,NJ,USA,>
-2019-06-29,2019,0,13,2,2,0,0,4,2019 Summer Tour,2019 Summer,Ruby Waves,Ruby Waves,0,BB&T Pavilion,Camden,NJ,USA,>
+2019-06-29,2019,0,7,2,1,0,0,19,2019 Summer Tour,2019 Summer,Sparkle,,1,BB&T Pavilion,Camden,NJ,USA,>
+2019-06-29,2019,0,8,2,1,0,0,11,2019 Summer Tour,2019 Summer,Roggae,,1,BB&T Pavilion,Camden,NJ,USA,>
+2019-06-29,2019,0,9,4,1,0,0,3,2019 Summer Tour,2019 Summer,46 Days,,1,BB&T Pavilion,Camden,NJ,USA,
+2019-06-29,2019,0,10,2,2,0,0,4,2019 Summer Tour,2019 Summer,Blaze On,,1,BB&T Pavilion,Camden,NJ,USA,>
+2019-06-29,2019,0,11,2,2,0,0,5,2019 Summer Tour,2019 Summer,NICU,,1,BB&T Pavilion,Camden,NJ,USA,>
+2019-06-29,2019,0,12,2,2,0,0,8,2019 Summer Tour,2019 Summer,Golden Age,,0,BB&T Pavilion,Camden,NJ,USA,>
+2019-06-29,2019,0,13,2,2,0,0,4,2019 Summer Tour,2019 Summer,Ruby Waves,,0,BB&T Pavilion,Camden,NJ,USA,>
 2019-06-29,2019,0,14,2,2,0,0,5,2019 Summer Tour,2019 Summer,Death Don't Hurt Very Long,DDHVL,1,BB&T Pavilion,Camden,NJ,USA,>
-2019-06-29,2019,0,15,2,2,0,0,4,2019 Summer Tour,2019 Summer,Rift,Rift,1,BB&T Pavilion,Camden,NJ,USA,>
-2019-06-29,2019,0,16,2,2,0,0,1838,2019 Summer Tour,2019 Summer,Beneath a Sea of Stars Part 1,Beneath a Sea of Stars Part 1,0,BB&T Pavilion,Camden,NJ,USA,>
-2019-06-29,2019,0,17,2,2,0,0,43,2019 Summer Tour,2019 Summer,Waiting All Night,Waiting All Night,1,BB&T Pavilion,Camden,NJ,USA,>
-2019-06-29,2019,0,18,2,2,0,0,5,2019 Summer Tour,2019 Summer,Ghost,Ghost,1,BB&T Pavilion,Camden,NJ,USA,>
-2019-06-29,2019,0,19,5,2,0,0,6,2019 Summer Tour,2019 Summer,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,BB&T Pavilion,Camden,NJ,USA,
+2019-06-29,2019,0,15,2,2,0,0,4,2019 Summer Tour,2019 Summer,Rift,,1,BB&T Pavilion,Camden,NJ,USA,>
+2019-06-29,2019,0,16,2,2,0,0,1838,2019 Summer Tour,2019 Summer,Beneath a Sea of Stars Part 1,,0,BB&T Pavilion,Camden,NJ,USA,>
+2019-06-29,2019,0,17,2,2,0,0,43,2019 Summer Tour,2019 Summer,Waiting All Night,,1,BB&T Pavilion,Camden,NJ,USA,>
+2019-06-29,2019,0,18,2,2,0,0,5,2019 Summer Tour,2019 Summer,Ghost,,1,BB&T Pavilion,Camden,NJ,USA,>
+2019-06-29,2019,0,19,5,2,0,0,6,2019 Summer Tour,2019 Summer,Say It To Me S.A.N.T.O.S.,,1,BB&T Pavilion,Camden,NJ,USA,
 2019-06-29,2019,0,20,1,e,0,0,8,2019 Summer Tour,2019 Summer,You Enjoy Myself,YEM,1,BB&T Pavilion,Camden,NJ,USA,","
-2019-06-29,2019,0,21,6,e,0,0,24,2019 Summer Tour,2019 Summer,Grind,Grind,1,BB&T Pavilion,Camden,NJ,USA,
+2019-06-29,2019,0,21,6,e,0,0,24,2019 Summer Tour,2019 Summer,Grind,,1,BB&T Pavilion,Camden,NJ,USA,
 2019-06-30,2019,0,1,2,1,0,0,14,2019 Summer Tour,2019 Summer,The Curtain With,Curtain With,1,BB&T Pavilion,Camden,NJ,USA,>
 2019-06-30,2019,0,2,2,1,0,0,82,2019 Summer Tour,2019 Summer,Fast Enough for You,FEFY,1,BB&T Pavilion,Camden,NJ,USA,>
-2019-06-30,2019,0,3,2,1,0,0,19,2019 Summer Tour,2019 Summer,Buried Alive,Buried Alive,1,BB&T Pavilion,Camden,NJ,USA,>
-2019-06-30,2019,0,4,1,1,0,0,30,2019 Summer Tour,2019 Summer,Camel Walk,Camel Walk,1,BB&T Pavilion,Camden,NJ,USA,","
-2019-06-30,2019,0,5,2,1,0,0,10,2019 Summer Tour,2019 Summer,Reba,Reba,1,BB&T Pavilion,Camden,NJ,USA,>
+2019-06-30,2019,0,3,2,1,0,0,19,2019 Summer Tour,2019 Summer,Buried Alive,,1,BB&T Pavilion,Camden,NJ,USA,>
+2019-06-30,2019,0,4,1,1,0,0,30,2019 Summer Tour,2019 Summer,Camel Walk,,1,BB&T Pavilion,Camden,NJ,USA,","
+2019-06-30,2019,0,5,2,1,0,0,10,2019 Summer Tour,2019 Summer,Reba,,1,BB&T Pavilion,Camden,NJ,USA,>
 2019-06-30,2019,0,6,1,1,0,0,9,2019 Summer Tour,2019 Summer,Sample in a Jar,Sample,1,BB&T Pavilion,Camden,NJ,USA,","
-2019-06-30,2019,0,7,1,1,0,0,71,2019 Summer Tour,2019 Summer,Pebbles and Marbles,Pebbles and Marbles,0,BB&T Pavilion,Camden,NJ,USA,","
-2019-06-30,2019,0,8,2,1,0,0,31,2019 Summer Tour,2019 Summer,Tela,Tela,1,BB&T Pavilion,Camden,NJ,USA,>
+2019-06-30,2019,0,7,1,1,0,0,71,2019 Summer Tour,2019 Summer,Pebbles and Marbles,,0,BB&T Pavilion,Camden,NJ,USA,","
+2019-06-30,2019,0,8,2,1,0,0,31,2019 Summer Tour,2019 Summer,Tela,,1,BB&T Pavilion,Camden,NJ,USA,>
 2019-06-30,2019,0,9,2,1,0,0,43,2019 Summer Tour,2019 Summer,The Mango Song,Mango,1,BB&T Pavilion,Camden,NJ,USA,>
-2019-06-30,2019,0,10,2,1,0,0,49,2019 Summer Tour,2019 Summer,Driver,Driver,1,BB&T Pavilion,Camden,NJ,USA,>
+2019-06-30,2019,0,10,2,1,0,0,49,2019 Summer Tour,2019 Summer,Driver,,1,BB&T Pavilion,Camden,NJ,USA,>
 2019-06-30,2019,0,11,4,1,0,0,6,2019 Summer Tour,2019 Summer,David Bowie,Bowie,1,BB&T Pavilion,Camden,NJ,USA,
-2019-06-30,2019,0,12,2,2,0,0,12,2019 Summer Tour,2019 Summer,Mr. Completely,Mr. Completely,0,BB&T Pavilion,Camden,NJ,USA,>
-2019-06-30,2019,0,13,2,2,0,0,7,2019 Summer Tour,2019 Summer,Twenty Years Later,Twenty Years Later,1,BB&T Pavilion,Camden,NJ,USA,>
+2019-06-30,2019,0,12,2,2,0,0,12,2019 Summer Tour,2019 Summer,Mr. Completely,,0,BB&T Pavilion,Camden,NJ,USA,>
+2019-06-30,2019,0,13,2,2,0,0,7,2019 Summer Tour,2019 Summer,Twenty Years Later,,1,BB&T Pavilion,Camden,NJ,USA,>
 2019-06-30,2019,0,14,2,2,0,0,14,2019 Summer Tour,2019 Summer,Big Black Furry Creature from Mars,BBFCFM,1,BB&T Pavilion,Camden,NJ,USA,>
-2019-06-30,2019,0,15,2,2,0,0,7,2019 Summer Tour,2019 Summer,Tweezer,Tweezer,1,BB&T Pavilion,Camden,NJ,USA,>
-2019-06-30,2019,0,16,2,2,0,0,5,2019 Summer Tour,2019 Summer,Shade,Shade,1,BB&T Pavilion,Camden,NJ,USA,>
-2019-06-30,2019,0,17,1,2,0,0,14,2019 Summer Tour,2019 Summer,Most Events Aren't Planned,Most Events Aren't Planned,0,BB&T Pavilion,Camden,NJ,USA,","
+2019-06-30,2019,0,15,2,2,0,0,7,2019 Summer Tour,2019 Summer,Tweezer,,1,BB&T Pavilion,Camden,NJ,USA,>
+2019-06-30,2019,0,16,2,2,0,0,5,2019 Summer Tour,2019 Summer,Shade,,1,BB&T Pavilion,Camden,NJ,USA,>
+2019-06-30,2019,0,17,1,2,0,0,14,2019 Summer Tour,2019 Summer,Most Events Aren't Planned,,0,BB&T Pavilion,Camden,NJ,USA,","
 2019-06-30,2019,0,18,2,2,0,0,40,2019 Summer Tour,2019 Summer,Makisupa Policeman,Makisupa,1,BB&T Pavilion,Camden,NJ,USA,>
 2019-06-30,2019,0,19,2,2,0,0,3,2019 Summer Tour,2019 Summer,Chalk Dust Torture,CDT,1,BB&T Pavilion,Camden,NJ,USA,>
 2019-06-30,2019,0,20,5,2,0,0,3,2019 Summer Tour,2019 Summer,Suzy Greenberg,Suzy,1,BB&T Pavilion,Camden,NJ,USA,
 2019-06-30,2019,0,21,2,e,0,0,14,2019 Summer Tour,2019 Summer,Punch You in the Eye,PYITE,1,BB&T Pavilion,Camden,NJ,USA,>
 2019-06-30,2019,0,22,2,e,0,0,6,2019 Summer Tour,2019 Summer,What's the Use?,WTU?,1,BB&T Pavilion,Camden,NJ,USA,>
-2019-06-30,2019,0,23,6,e,0,0,4,2019 Summer Tour,2019 Summer,Julius,Julius,1,BB&T Pavilion,Camden,NJ,USA,
-2019-07-02,2019,0,1,1,1,0,0,1836,2019 Summer Tour,2019 Summer,Cathy's Clown,Cathy's Clown,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2019-06-30,2019,0,23,6,e,0,0,4,2019 Summer Tour,2019 Summer,Julius,,1,BB&T Pavilion,Camden,NJ,USA,
+2019-07-02,2019,0,1,1,1,0,0,1836,2019 Summer Tour,2019 Summer,Cathy's Clown,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2019-07-02,2019,0,2,2,1,0,0,8,2019 Summer Tour,2019 Summer,Tweezer Reprise,Tweeprise,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2019-07-02,2019,0,3,2,1,0,0,6,2019 Summer Tour,2019 Summer,Carini,Carini,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2019-07-02,2019,0,3,2,1,0,0,6,2019 Summer Tour,2019 Summer,Carini,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2019-07-02,2019,0,4,2,1,0,0,10,2019 Summer Tour,2019 Summer,AC/DC Bag,Bag,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2019-07-02,2019,0,5,2,1,0,0,9,2019 Summer Tour,2019 Summer,The Moma Dance,Moma,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2019-07-02,2019,0,6,1,1,0,0,14,2019 Summer Tour,2019 Summer,Theme From the Bottom,Theme,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2019-07-02,2019,0,7,1,1,0,0,21,2019 Summer Tour,2019 Summer,Meat,Meat,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2019-07-02,2019,0,8,2,1,0,0,37,2019 Summer Tour,2019 Summer,Home,Home,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2019-07-02,2019,0,7,1,1,0,0,21,2019 Summer Tour,2019 Summer,Meat,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2019-07-02,2019,0,8,2,1,0,0,37,2019 Summer Tour,2019 Summer,Home,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2019-07-02,2019,0,9,2,1,0,0,5,2019 Summer Tour,2019 Summer,Bathtub Gin,Gin,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2019-07-02,2019,0,10,4,1,0,0,9,2019 Summer Tour,2019 Summer,Walls of the Cave,WotC,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
-2019-07-02,2019,0,11,2,2,0,0,14,2019 Summer Tour,2019 Summer,Cool Amber and Mercury,Cool Amber and Mercury,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2019-07-02,2019,0,11,2,2,0,0,14,2019 Summer Tour,2019 Summer,Cool Amber and Mercury,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2019-07-02,2019,0,12,2,2,0,0,5,2019 Summer Tour,2019 Summer,Down with Disease,DwD,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2019-07-02,2019,0,13,2,2,0,0,8,2019 Summer Tour,2019 Summer,Scents and Subtle Sounds,Scents and Subtle Sounds,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2019-07-02,2019,0,14,2,2,0,0,6,2019 Summer Tour,2019 Summer,Twist,Twist,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2019-07-02,2019,0,15,2,2,0,0,6,2019 Summer Tour,2019 Summer,Wilson,Wilson,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2019-07-02,2019,0,13,2,2,0,0,8,2019 Summer Tour,2019 Summer,Scents and Subtle Sounds,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2019-07-02,2019,0,14,2,2,0,0,6,2019 Summer Tour,2019 Summer,Twist,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2019-07-02,2019,0,15,2,2,0,0,6,2019 Summer Tour,2019 Summer,Wilson,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2019-07-02,2019,0,16,1,2,0,0,34,2019 Summer Tour,2019 Summer,Scent of a Mule,SOAMule,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2019-07-02,2019,0,17,2,2,0,0,45,2019 Summer Tour,2019 Summer,Fuck Your Face,FYF,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2019-07-02,2019,0,18,2,2,0,0,10,2019 Summer Tour,2019 Summer,Halley's Comet,Halley's,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2019-07-02,2019,0,19,5,2,0,0,7,2019 Summer Tour,2019 Summer,Harry Hood,Hood,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
-2019-07-02,2019,0,20,1,e,0,0,44,2019 Summer Tour,2019 Summer,Fee,Fee,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2019-07-02,2019,0,21,1,e,0,0,9,2019 Summer Tour,2019 Summer,A Life Beyond The Dream,A Life Beyond The Dream,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2019-07-02,2019,0,22,6,e,0,0,11,2019 Summer Tour,2019 Summer,First Tube,First Tube,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
-2019-07-03,2019,0,1,1,1,0,0,12,2019 Summer Tour,2019 Summer,Fluffhead,Fluffhead,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2019-07-03,2019,0,2,1,1,0,0,24,2019 Summer Tour,2019 Summer,Guyute,Guyute,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2019-07-03,2019,0,3,1,1,0,0,13,2019 Summer Tour,2019 Summer,Martian Monster,Martian Monster,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2019-07-03,2019,0,4,1,1,0,0,6,2019 Summer Tour,2019 Summer,Llama,Llama,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2019-07-03,2019,0,5,2,1,0,0,8,2019 Summer Tour,2019 Summer,Steam,Steam,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2019-07-03,2019,0,6,2,1,0,0,55,2019 Summer Tour,2019 Summer,Poor Heart,Poor Heart,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2019-07-03,2019,0,7,2,1,0,0,10,2019 Summer Tour,2019 Summer,Crazy Sometimes,Crazy Sometimes,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2019-07-02,2019,0,20,1,e,0,0,44,2019 Summer Tour,2019 Summer,Fee,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2019-07-02,2019,0,21,1,e,0,0,9,2019 Summer Tour,2019 Summer,A Life Beyond The Dream,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2019-07-02,2019,0,22,6,e,0,0,11,2019 Summer Tour,2019 Summer,First Tube,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
+2019-07-03,2019,0,1,1,1,0,0,12,2019 Summer Tour,2019 Summer,Fluffhead,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2019-07-03,2019,0,2,1,1,0,0,24,2019 Summer Tour,2019 Summer,Guyute,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2019-07-03,2019,0,3,1,1,0,0,13,2019 Summer Tour,2019 Summer,Martian Monster,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2019-07-03,2019,0,4,1,1,0,0,6,2019 Summer Tour,2019 Summer,Llama,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2019-07-03,2019,0,5,2,1,0,0,8,2019 Summer Tour,2019 Summer,Steam,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2019-07-03,2019,0,6,2,1,0,0,55,2019 Summer Tour,2019 Summer,Poor Heart,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2019-07-03,2019,0,7,2,1,0,0,10,2019 Summer Tour,2019 Summer,Crazy Sometimes,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2019-07-03,2019,0,8,2,1,0,0,8,2019 Summer Tour,2019 Summer,The Horse,Horse,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2019-07-03,2019,0,9,1,1,0,0,8,2019 Summer Tour,2019 Summer,Silent in the Morning,Silent,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2019-07-03,2019,0,10,1,1,0,0,289,2019 Summer Tour,2019 Summer,Sleep,Sleep,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2019-07-03,2019,0,11,4,1,0,0,4,2019 Summer Tour,2019 Summer,Drift While You're Sleeping,Drift While You're Sleeping,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
+2019-07-03,2019,0,10,1,1,0,0,289,2019 Summer Tour,2019 Summer,Sleep,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2019-07-03,2019,0,11,4,1,0,0,4,2019 Summer Tour,2019 Summer,Drift While You're Sleeping,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
 2019-07-03,2019,0,12,2,2,0,0,4,2019 Summer Tour,2019 Summer,No Men In No Man's Land,NMINML,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2019-07-03,2019,0,13,2,2,0,0,33,2019 Summer Tour,2019 Summer,Dirt,Dirt,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2019-07-03,2019,0,14,3,2,0,0,5,2019 Summer Tour,2019 Summer,Plasma,Plasma,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
+2019-07-03,2019,0,13,2,2,0,0,33,2019 Summer Tour,2019 Summer,Dirt,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2019-07-03,2019,0,14,3,2,0,0,5,2019 Summer Tour,2019 Summer,Plasma,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
 2019-07-03,2019,0,15,3,2,0,0,4,2019 Summer Tour,2019 Summer,We Are Come to Outlive Our Brains,WACTOOB,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
-2019-07-03,2019,0,16,3,2,0,0,0,2019 Summer Tour,2019 Summer,Plasma,Plasma,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
+2019-07-03,2019,0,16,3,2,0,0,0,2019 Summer Tour,2019 Summer,Plasma,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
 2019-07-03,2019,0,17,2,2,0,0,1,2019 Summer Tour,2019 Summer,Tweezer Reprise,Tweeprise,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2019-07-03,2019,0,18,2,2,0,0,7,2019 Summer Tour,2019 Summer,The Wedge,Wedge,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2019-07-03,2019,0,19,3,2,0,0,24,2019 Summer Tour,2019 Summer,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
 2019-07-03,2019,0,20,1,2,0,0,4,2019 Summer Tour,2019 Summer,Run Like an Antelope,Antelope,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2019-07-03,2019,0,21,2,2,0,0,9,2019 Summer Tour,2019 Summer,More,More,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2019-07-03,2019,0,21,2,2,0,0,9,2019 Summer Tour,2019 Summer,More,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2019-07-03,2019,0,22,5,2,0,0,6,2019 Summer Tour,2019 Summer,Slave to the Traffic Light,Slave,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
 2019-07-03,2019,0,23,6,e,0,0,19,2019 Summer Tour,2019 Summer,Rock and Roll,R&amp;R,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
-2019-07-05,2019,0,1,2,1,0,0,10,2019 Summer Tour,2019 Summer,Free,Free,1,Fenway Park,Boston,MA,USA,>
-2019-07-05,2019,0,2,1,1,0,0,4,2019 Summer Tour,2019 Summer,Blaze On,Blaze On,1,Fenway Park,Boston,MA,USA,","
-2019-07-05,2019,0,3,1,1,0,0,12,2019 Summer Tour,2019 Summer,555,555,1,Fenway Park,Boston,MA,USA,","
-2019-07-05,2019,0,4,1,1,0,0,9,2019 Summer Tour,2019 Summer,Tube,Tube,1,Fenway Park,Boston,MA,USA,","
-2019-07-05,2019,0,5,1,1,0,0,33,2019 Summer Tour,2019 Summer,Brian and Robert,Brian and Robert,1,Fenway Park,Boston,MA,USA,","
-2019-07-05,2019,0,6,2,1,0,0,5,2019 Summer Tour,2019 Summer,Halfway to the Moon,Halfway to the Moon,1,Fenway Park,Boston,MA,USA,>
-2019-07-05,2019,0,7,2,1,0,0,12,2019 Summer Tour,2019 Summer,Ocelot,Ocelot,1,Fenway Park,Boston,MA,USA,>
-2019-07-05,2019,0,8,1,1,0,0,4,2019 Summer Tour,2019 Summer,Rift,Rift,1,Fenway Park,Boston,MA,USA,","
-2019-07-05,2019,0,9,2,1,0,0,4,2019 Summer Tour,2019 Summer,Everything's Right,Everything's Right,0,Fenway Park,Boston,MA,USA,>
-2019-07-05,2019,0,10,4,1,0,0,10,2019 Summer Tour,2019 Summer,Runaway Jim,Runaway Jim,1,Fenway Park,Boston,MA,USA,
-2019-07-05,2019,0,11,2,2,0,0,6,2019 Summer Tour,2019 Summer,Sand,Sand,0,Fenway Park,Boston,MA,USA,>
-2019-07-05,2019,0,12,1,2,0,0,9,2019 Summer Tour,2019 Summer,Axilla,Axilla,1,Fenway Park,Boston,MA,USA,","
-2019-07-05,2019,0,13,2,2,0,0,5,2019 Summer Tour,2019 Summer,Mercury,Mercury,1,Fenway Park,Boston,MA,USA,>
+2019-07-05,2019,0,1,2,1,0,0,10,2019 Summer Tour,2019 Summer,Free,,1,Fenway Park,Boston,MA,USA,>
+2019-07-05,2019,0,2,1,1,0,0,4,2019 Summer Tour,2019 Summer,Blaze On,,1,Fenway Park,Boston,MA,USA,","
+2019-07-05,2019,0,3,1,1,0,0,12,2019 Summer Tour,2019 Summer,555,,1,Fenway Park,Boston,MA,USA,","
+2019-07-05,2019,0,4,1,1,0,0,9,2019 Summer Tour,2019 Summer,Tube,,1,Fenway Park,Boston,MA,USA,","
+2019-07-05,2019,0,5,1,1,0,0,33,2019 Summer Tour,2019 Summer,Brian and Robert,,1,Fenway Park,Boston,MA,USA,","
+2019-07-05,2019,0,6,2,1,0,0,5,2019 Summer Tour,2019 Summer,Halfway to the Moon,,1,Fenway Park,Boston,MA,USA,>
+2019-07-05,2019,0,7,2,1,0,0,12,2019 Summer Tour,2019 Summer,Ocelot,,1,Fenway Park,Boston,MA,USA,>
+2019-07-05,2019,0,8,1,1,0,0,4,2019 Summer Tour,2019 Summer,Rift,,1,Fenway Park,Boston,MA,USA,","
+2019-07-05,2019,0,9,2,1,0,0,4,2019 Summer Tour,2019 Summer,Everything's Right,,0,Fenway Park,Boston,MA,USA,>
+2019-07-05,2019,0,10,4,1,0,0,10,2019 Summer Tour,2019 Summer,Runaway Jim,,1,Fenway Park,Boston,MA,USA,
+2019-07-05,2019,0,11,2,2,0,0,6,2019 Summer Tour,2019 Summer,Sand,,0,Fenway Park,Boston,MA,USA,>
+2019-07-05,2019,0,12,1,2,0,0,9,2019 Summer Tour,2019 Summer,Axilla,,1,Fenway Park,Boston,MA,USA,","
+2019-07-05,2019,0,13,2,2,0,0,5,2019 Summer Tour,2019 Summer,Mercury,,1,Fenway Park,Boston,MA,USA,>
 2019-07-05,2019,0,14,2,2,0,0,21,2019 Summer Tour,2019 Summer,Wading in the Velvet Sea,Velvet Sea,1,Fenway Park,Boston,MA,USA,>
-2019-07-05,2019,0,15,3,2,0,0,6,2019 Summer Tour,2019 Summer,Fuego,Fuego,1,Fenway Park,Boston,MA,USA,->
-2019-07-05,2019,0,16,2,2,0,0,4,2019 Summer Tour,2019 Summer,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Fenway Park,Boston,MA,USA,>
-2019-07-05,2019,0,17,5,2,0,0,9,2019 Summer Tour,2019 Summer,Character Zero,Character Zero,1,Fenway Park,Boston,MA,USA,
-2019-07-05,2019,0,18,2,e,0,0,9,2019 Summer Tour,2019 Summer,Bug,Bug,0,Fenway Park,Boston,MA,USA,>
+2019-07-05,2019,0,15,3,2,0,0,6,2019 Summer Tour,2019 Summer,Fuego,,1,Fenway Park,Boston,MA,USA,->
+2019-07-05,2019,0,16,2,2,0,0,4,2019 Summer Tour,2019 Summer,Say It To Me S.A.N.T.O.S.,,1,Fenway Park,Boston,MA,USA,>
+2019-07-05,2019,0,17,5,2,0,0,9,2019 Summer Tour,2019 Summer,Character Zero,,1,Fenway Park,Boston,MA,USA,
+2019-07-05,2019,0,18,2,e,0,0,9,2019 Summer Tour,2019 Summer,Bug,,0,Fenway Park,Boston,MA,USA,>
 2019-07-05,2019,0,19,6,e,0,0,9,2019 Summer Tour,2019 Summer,The Squirming Coil,Coil,1,Fenway Park,Boston,MA,USA,
-2019-07-06,2019,0,1,2,1,0,0,3,2019 Summer Tour,2019 Summer,Carini,Carini,1,Fenway Park,Boston,MA,USA,>
-2019-07-06,2019,0,2,1,1,0,0,11,2019 Summer Tour,2019 Summer,Possum,Possum,1,Fenway Park,Boston,MA,USA,","
-2019-07-06,2019,0,3,2,1,0,0,6,2019 Summer Tour,2019 Summer,Set Your Soul Free,Set Your Soul Free,0,Fenway Park,Boston,MA,USA,>
-2019-07-06,2019,0,4,1,1,0,0,44,2019 Summer Tour,2019 Summer,Thread,Thread,1,Fenway Park,Boston,MA,USA,","
+2019-07-06,2019,0,1,2,1,0,0,3,2019 Summer Tour,2019 Summer,Carini,,1,Fenway Park,Boston,MA,USA,>
+2019-07-06,2019,0,2,1,1,0,0,11,2019 Summer Tour,2019 Summer,Possum,,1,Fenway Park,Boston,MA,USA,","
+2019-07-06,2019,0,3,2,1,0,0,6,2019 Summer Tour,2019 Summer,Set Your Soul Free,,0,Fenway Park,Boston,MA,USA,>
+2019-07-06,2019,0,4,1,1,0,0,44,2019 Summer Tour,2019 Summer,Thread,,1,Fenway Park,Boston,MA,USA,","
 2019-07-06,2019,0,5,1,1,0,0,6,2019 Summer Tour,2019 Summer,Wolfman's Brother,Wolfman's,1,Fenway Park,Boston,MA,USA,","
-2019-07-06,2019,0,6,1,1,0,0,4,2019 Summer Tour,2019 Summer,Reba,Reba,1,Fenway Park,Boston,MA,USA,","
+2019-07-06,2019,0,6,1,1,0,0,4,2019 Summer Tour,2019 Summer,Reba,,1,Fenway Park,Boston,MA,USA,","
 2019-07-06,2019,0,7,1,1,0,0,8,2019 Summer Tour,2019 Summer,Back on the Train,BOTT,0,Fenway Park,Boston,MA,USA,","
-2019-07-06,2019,0,8,1,1,0,0,35,2019 Summer Tour,2019 Summer,Mound,Mound,1,Fenway Park,Boston,MA,USA,","
-2019-07-06,2019,0,9,1,1,0,0,6,2019 Summer Tour,2019 Summer,About to Run,About to Run,0,Fenway Park,Boston,MA,USA,","
+2019-07-06,2019,0,8,1,1,0,0,35,2019 Summer Tour,2019 Summer,Mound,,1,Fenway Park,Boston,MA,USA,","
+2019-07-06,2019,0,9,1,1,0,0,6,2019 Summer Tour,2019 Summer,About to Run,,0,Fenway Park,Boston,MA,USA,","
 2019-07-06,2019,0,10,2,1,0,0,3,2019 Summer Tour,2019 Summer,Down with Disease,DwD,1,Fenway Park,Boston,MA,USA,>
-2019-07-06,2019,0,11,2,1,0,0,8,2019 Summer Tour,2019 Summer,Simple,Simple,1,Fenway Park,Boston,MA,USA,>
+2019-07-06,2019,0,11,2,1,0,0,8,2019 Summer Tour,2019 Summer,Simple,,1,Fenway Park,Boston,MA,USA,>
 2019-07-06,2019,0,12,2,1,0,0,7,2019 Summer Tour,2019 Summer,Backwards Down the Number Line,BDTNL,0,Fenway Park,Boston,MA,USA,>
 2019-07-06,2019,0,13,2,1,0,0,5,2019 Summer Tour,2019 Summer,Death Don't Hurt Very Long,DDHVL,1,Fenway Park,Boston,MA,USA,>
-2019-07-06,2019,0,14,2,1,0,0,5,2019 Summer Tour,2019 Summer,46 Days,46 Days,1,Fenway Park,Boston,MA,USA,>
+2019-07-06,2019,0,14,2,1,0,0,5,2019 Summer Tour,2019 Summer,46 Days,,1,Fenway Park,Boston,MA,USA,>
 2019-07-06,2019,0,15,2,1,0,0,4,2019 Summer Tour,2019 Summer,What's the Use?,WTU?,1,Fenway Park,Boston,MA,USA,>
-2019-07-06,2019,0,16,2,1,0,0,34,2019 Summer Tour,2019 Summer,Mexican Cousin,Mexican Cousin,1,Fenway Park,Boston,MA,USA,>
+2019-07-06,2019,0,16,2,1,0,0,34,2019 Summer Tour,2019 Summer,Mexican Cousin,,1,Fenway Park,Boston,MA,USA,>
 2019-07-06,2019,0,17,2,1,0,0,9,2019 Summer Tour,2019 Summer,Also Sprach Zarathustra,2001,0,Fenway Park,Boston,MA,USA,>
 2019-07-06,2019,0,18,1,1,0,0,12,2019 Summer Tour,2019 Summer,Split Open and Melt,SOAMelt,1,Fenway Park,Boston,MA,USA,","
 2019-07-06,2019,0,19,5,1,0,0,4,2019 Summer Tour,2019 Summer,Suzy Greenberg,Suzy,1,Fenway Park,Boston,MA,USA,
-2019-07-06,2019,0,20,2,e,0,0,8,2019 Summer Tour,2019 Summer,Rise/Come Together,Rise/Come Together,0,Fenway Park,Boston,MA,USA,>
-2019-07-06,2019,0,21,6,e,0,0,3,2019 Summer Tour,2019 Summer,Wilson,Wilson,1,Fenway Park,Boston,MA,USA,
-2019-07-09,2019,0,1,3,1,0,0,226,2019 Summer Tour,2019 Summer,Energy,Energy,0,Mohegan Sun Arena,Uncasville,CT,USA,->
+2019-07-06,2019,0,20,2,e,0,0,8,2019 Summer Tour,2019 Summer,Rise/Come Together,,0,Fenway Park,Boston,MA,USA,>
+2019-07-06,2019,0,21,6,e,0,0,3,2019 Summer Tour,2019 Summer,Wilson,,1,Fenway Park,Boston,MA,USA,
+2019-07-09,2019,0,1,3,1,0,0,226,2019 Summer Tour,2019 Summer,Energy,,0,Mohegan Sun Arena,Uncasville,CT,USA,->
 2019-07-09,2019,0,2,1,1,0,0,6,2019 Summer Tour,2019 Summer,Weekapaug Groove,Weekapaug,1,Mohegan Sun Arena,Uncasville,CT,USA,","
 2019-07-09,2019,0,3,2,1,0,0,4,2019 Summer Tour,2019 Summer,The Moma Dance,Moma,1,Mohegan Sun Arena,Uncasville,CT,USA,>
-2019-07-09,2019,0,4,3,1,0,0,10,2019 Summer Tour,2019 Summer,Maze,Maze,1,Mohegan Sun Arena,Uncasville,CT,USA,->
-2019-07-09,2019,0,5,3,1,0,0,49,2019 Summer Tour,2019 Summer,Lengthwise,Lengthwise,1,Mohegan Sun Arena,Uncasville,CT,USA,->
-2019-07-09,2019,0,6,1,1,0,0,0,2019 Summer Tour,2019 Summer,Maze,Maze,1,Mohegan Sun Arena,Uncasville,CT,USA,","
-2019-07-09,2019,0,7,1,1,0,0,8,2019 Summer Tour,2019 Summer,Petrichor,Petrichor,0,Mohegan Sun Arena,Uncasville,CT,USA,","
-2019-07-09,2019,0,8,2,1,0,0,49,2019 Summer Tour,2019 Summer,Things People Do,Things People Do,1,Mohegan Sun Arena,Uncasville,CT,USA,>
+2019-07-09,2019,0,4,3,1,0,0,10,2019 Summer Tour,2019 Summer,Maze,,1,Mohegan Sun Arena,Uncasville,CT,USA,->
+2019-07-09,2019,0,5,3,1,0,0,49,2019 Summer Tour,2019 Summer,Lengthwise,,1,Mohegan Sun Arena,Uncasville,CT,USA,->
+2019-07-09,2019,0,6,1,1,0,0,0,2019 Summer Tour,2019 Summer,Maze,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
+2019-07-09,2019,0,7,1,1,0,0,8,2019 Summer Tour,2019 Summer,Petrichor,,0,Mohegan Sun Arena,Uncasville,CT,USA,","
+2019-07-09,2019,0,8,2,1,0,0,49,2019 Summer Tour,2019 Summer,Things People Do,,1,Mohegan Sun Arena,Uncasville,CT,USA,>
 2019-07-09,2019,0,9,1,1,0,0,5,2019 Summer Tour,2019 Summer,Sample in a Jar,Sample,1,Mohegan Sun Arena,Uncasville,CT,USA,","
 2019-07-09,2019,0,10,4,1,0,0,4,2019 Summer Tour,2019 Summer,Bathtub Gin,Gin,1,Mohegan Sun Arena,Uncasville,CT,USA,
-2019-07-09,2019,0,11,3,2,0,0,13,2019 Summer Tour,2019 Summer,Soul Planet,Soul Planet,0,Mohegan Sun Arena,Uncasville,CT,USA,->
-2019-07-09,2019,0,12,3,2,0,0,1840,2019 Summer Tour,2019 Summer,Wider,Wider,0,Mohegan Sun Arena,Uncasville,CT,USA,->
-2019-07-09,2019,0,13,1,2,0,0,11,2019 Summer Tour,2019 Summer,Undermind,Undermind,0,Mohegan Sun Arena,Uncasville,CT,USA,","
-2019-07-09,2019,0,14,1,2,0,0,8,2019 Summer Tour,2019 Summer,The Final Hurrah,The Final Hurrah,1,Mohegan Sun Arena,Uncasville,CT,USA,","
-2019-07-09,2019,0,15,1,2,0,0,6,2019 Summer Tour,2019 Summer,Beneath a Sea of Stars Part 1,Beneath a Sea of Stars Part 1,0,Mohegan Sun Arena,Uncasville,CT,USA,","
-2019-07-09,2019,0,16,3,2,0,0,6,2019 Summer Tour,2019 Summer,Ghost,Ghost,1,Mohegan Sun Arena,Uncasville,CT,USA,->
+2019-07-09,2019,0,11,3,2,0,0,13,2019 Summer Tour,2019 Summer,Soul Planet,,0,Mohegan Sun Arena,Uncasville,CT,USA,->
+2019-07-09,2019,0,12,3,2,0,0,1840,2019 Summer Tour,2019 Summer,Wider,,0,Mohegan Sun Arena,Uncasville,CT,USA,->
+2019-07-09,2019,0,13,1,2,0,0,11,2019 Summer Tour,2019 Summer,Undermind,,0,Mohegan Sun Arena,Uncasville,CT,USA,","
+2019-07-09,2019,0,14,1,2,0,0,8,2019 Summer Tour,2019 Summer,The Final Hurrah,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
+2019-07-09,2019,0,15,1,2,0,0,6,2019 Summer Tour,2019 Summer,Beneath a Sea of Stars Part 1,,0,Mohegan Sun Arena,Uncasville,CT,USA,","
+2019-07-09,2019,0,16,3,2,0,0,6,2019 Summer Tour,2019 Summer,Ghost,,1,Mohegan Sun Arena,Uncasville,CT,USA,->
 2019-07-09,2019,0,17,1,2,0,0,7,2019 Summer Tour,2019 Summer,Birds of a Feather,BOAF,1,Mohegan Sun Arena,Uncasville,CT,USA,","
-2019-07-09,2019,0,18,2,2,0,0,10,2019 Summer Tour,2019 Summer,Waste,Waste,1,Mohegan Sun Arena,Uncasville,CT,USA,>
+2019-07-09,2019,0,18,2,2,0,0,10,2019 Summer Tour,2019 Summer,Waste,,1,Mohegan Sun Arena,Uncasville,CT,USA,>
 2019-07-09,2019,0,19,5,2,0,0,11,2019 Summer Tour,2019 Summer,Golgi Apparatus,Golgi,1,Mohegan Sun Arena,Uncasville,CT,USA,
-2019-07-09,2019,0,20,1,e,0,0,79,2019 Summer Tour,2019 Summer,Foam,Foam,1,Mohegan Sun Arena,Uncasville,CT,USA,","
-2019-07-09,2019,0,21,1,e,0,0,28,2019 Summer Tour,2019 Summer,Contact,Contact,1,Mohegan Sun Arena,Uncasville,CT,USA,","
-2019-07-09,2019,0,22,6,e,0,0,3,2019 Summer Tour,2019 Summer,More,More,1,Mohegan Sun Arena,Uncasville,CT,USA,
-2019-07-10,2019,0,1,1,1,0,0,6,2019 Summer Tour,2019 Summer,Buried Alive,Buried Alive,1,Mohegan Sun Arena,Uncasville,CT,USA,","
-2019-07-10,2019,0,2,2,1,0,0,16,2019 Summer Tour,2019 Summer,Cavern,Cavern,1,Mohegan Sun Arena,Uncasville,CT,USA,>
-2019-07-10,2019,0,3,1,1,0,0,69,2019 Summer Tour,2019 Summer,Dogs Stole Things,Dogs Stole Things,1,Mohegan Sun Arena,Uncasville,CT,USA,","
-2019-07-10,2019,0,4,1,1,0,0,45,2019 Summer Tour,2019 Summer,Sugar Shack,Sugar Shack,1,Mohegan Sun Arena,Uncasville,CT,USA,","
-2019-07-10,2019,0,5,1,1,0,0,15,2019 Summer Tour,2019 Summer,Stash,Stash,1,Mohegan Sun Arena,Uncasville,CT,USA,","
-2019-07-10,2019,0,6,1,1,0,0,15,2019 Summer Tour,2019 Summer,Wingsuit,Wingsuit,1,Mohegan Sun Arena,Uncasville,CT,USA,","
+2019-07-09,2019,0,20,1,e,0,0,79,2019 Summer Tour,2019 Summer,Foam,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
+2019-07-09,2019,0,21,1,e,0,0,28,2019 Summer Tour,2019 Summer,Contact,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
+2019-07-09,2019,0,22,6,e,0,0,3,2019 Summer Tour,2019 Summer,More,,1,Mohegan Sun Arena,Uncasville,CT,USA,
+2019-07-10,2019,0,1,1,1,0,0,6,2019 Summer Tour,2019 Summer,Buried Alive,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
+2019-07-10,2019,0,2,2,1,0,0,16,2019 Summer Tour,2019 Summer,Cavern,,1,Mohegan Sun Arena,Uncasville,CT,USA,>
+2019-07-10,2019,0,3,1,1,0,0,69,2019 Summer Tour,2019 Summer,Dogs Stole Things,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
+2019-07-10,2019,0,4,1,1,0,0,45,2019 Summer Tour,2019 Summer,Sugar Shack,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
+2019-07-10,2019,0,5,1,1,0,0,15,2019 Summer Tour,2019 Summer,Stash,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
+2019-07-10,2019,0,6,1,1,0,0,15,2019 Summer Tour,2019 Summer,Wingsuit,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
 2019-07-10,2019,0,7,2,1,0,0,10,2019 Summer Tour,2019 Summer,Limb By Limb,LxL,1,Mohegan Sun Arena,Uncasville,CT,USA,>
-2019-07-10,2019,0,8,1,1,0,0,11,2019 Summer Tour,2019 Summer,Gumbo,Gumbo,1,Mohegan Sun Arena,Uncasville,CT,USA,","
-2019-07-10,2019,0,9,1,1,0,0,23,2019 Summer Tour,2019 Summer,Stray Dog,Stray Dog,1,Mohegan Sun Arena,Uncasville,CT,USA,","
-2019-07-10,2019,0,10,2,1,0,0,4,2019 Summer Tour,2019 Summer,Steam,Steam,1,Mohegan Sun Arena,Uncasville,CT,USA,>
+2019-07-10,2019,0,8,1,1,0,0,11,2019 Summer Tour,2019 Summer,Gumbo,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
+2019-07-10,2019,0,9,1,1,0,0,23,2019 Summer Tour,2019 Summer,Stray Dog,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
+2019-07-10,2019,0,10,2,1,0,0,4,2019 Summer Tour,2019 Summer,Steam,,1,Mohegan Sun Arena,Uncasville,CT,USA,>
 2019-07-10,2019,0,11,4,1,0,0,6,2019 Summer Tour,2019 Summer,David Bowie,Bowie,1,Mohegan Sun Arena,Uncasville,CT,USA,
-2019-07-10,2019,0,12,1,2,0,0,35,2019 Summer Tour,2019 Summer,Party Time,Party Time,1,Mohegan Sun Arena,Uncasville,CT,USA,","
+2019-07-10,2019,0,12,1,2,0,0,35,2019 Summer Tour,2019 Summer,Party Time,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
 2019-07-10,2019,0,13,2,2,0,0,6,2019 Summer Tour,2019 Summer,Chalk Dust Torture,CDT,1,Mohegan Sun Arena,Uncasville,CT,USA,>
-2019-07-10,2019,0,14,2,2,0,0,7,2019 Summer Tour,2019 Summer,Ruby Waves,Ruby Waves,0,Mohegan Sun Arena,Uncasville,CT,USA,>
-2019-07-10,2019,0,15,1,2,0,0,23,2019 Summer Tour,2019 Summer,Seven Below,Seven Below,1,Mohegan Sun Arena,Uncasville,CT,USA,","
+2019-07-10,2019,0,14,2,2,0,0,7,2019 Summer Tour,2019 Summer,Ruby Waves,,0,Mohegan Sun Arena,Uncasville,CT,USA,>
+2019-07-10,2019,0,15,1,2,0,0,23,2019 Summer Tour,2019 Summer,Seven Below,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
 2019-07-10,2019,0,16,2,2,0,0,14,2019 Summer Tour,2019 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Mohegan Sun Arena,Uncasville,CT,USA,>
-2019-07-10,2019,0,17,3,2,0,0,10,2019 Summer Tour,2019 Summer,Piper,Piper,1,Mohegan Sun Arena,Uncasville,CT,USA,->
-2019-07-10,2019,0,18,2,2,0,0,0,2019 Summer Tour,2019 Summer,Ruby Waves,Ruby Waves,0,Mohegan Sun Arena,Uncasville,CT,USA,>
-2019-07-10,2019,0,19,2,2,0,0,15,2019 Summer Tour,2019 Summer,I Always Wanted It This Way,I Always Wanted It This Way,1,Mohegan Sun Arena,Uncasville,CT,USA,>
-2019-07-10,2019,0,20,5,2,0,0,4,2019 Summer Tour,2019 Summer,Drift While You're Sleeping,Drift While You're Sleeping,0,Mohegan Sun Arena,Uncasville,CT,USA,
+2019-07-10,2019,0,17,3,2,0,0,10,2019 Summer Tour,2019 Summer,Piper,,1,Mohegan Sun Arena,Uncasville,CT,USA,->
+2019-07-10,2019,0,18,2,2,0,0,0,2019 Summer Tour,2019 Summer,Ruby Waves,,0,Mohegan Sun Arena,Uncasville,CT,USA,>
+2019-07-10,2019,0,19,2,2,0,0,15,2019 Summer Tour,2019 Summer,I Always Wanted It This Way,,1,Mohegan Sun Arena,Uncasville,CT,USA,>
+2019-07-10,2019,0,20,5,2,0,0,4,2019 Summer Tour,2019 Summer,Drift While You're Sleeping,,0,Mohegan Sun Arena,Uncasville,CT,USA,
 2019-07-10,2019,0,21,2,e,0,0,18,2019 Summer Tour,2019 Summer,Bouncing Around the Room,Bouncin',1,Mohegan Sun Arena,Uncasville,CT,USA,>
-2019-07-10,2019,0,22,3,e,0,0,0,2019 Summer Tour,2019 Summer,Saw It Again,Saw It Again,1,Mohegan Sun Arena,Uncasville,CT,USA,->
-2019-07-10,2019,0,23,3,e,0,0,20,2019 Summer Tour,2019 Summer,Kung,Kung,1,Mohegan Sun Arena,Uncasville,CT,USA,->
-2019-07-10,2019,0,24,2,e,0,0,9,2019 Summer Tour,2019 Summer,Saw It Again,Saw It Again,1,Mohegan Sun Arena,Uncasville,CT,USA,>
+2019-07-10,2019,0,22,3,e,0,0,0,2019 Summer Tour,2019 Summer,Saw It Again,,1,Mohegan Sun Arena,Uncasville,CT,USA,->
+2019-07-10,2019,0,23,3,e,0,0,20,2019 Summer Tour,2019 Summer,Kung,,1,Mohegan Sun Arena,Uncasville,CT,USA,->
+2019-07-10,2019,0,24,2,e,0,0,9,2019 Summer Tour,2019 Summer,Saw It Again,,1,Mohegan Sun Arena,Uncasville,CT,USA,>
 2019-07-10,2019,0,25,6,e,0,0,4,2019 Summer Tour,2019 Summer,Slave to the Traffic Light,Slave,1,Mohegan Sun Arena,Uncasville,CT,USA,
-2019-07-12,2019,0,1,1,1,0,0,4,2019 Summer Tour,2019 Summer,Sand,Sand,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2019-07-12,2019,0,2,2,1,0,0,7,2019 Summer Tour,2019 Summer,Tweezer,Tweezer,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2019-07-12,2019,0,3,1,1,0,0,4,2019 Summer Tour,2019 Summer,Free,Free,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2019-07-12,2019,0,4,1,1,0,0,10,2019 Summer Tour,2019 Summer,Turtle in the Clouds,Turtle in the Clouds,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2019-07-12,2019,0,5,1,1,0,0,3,2019 Summer Tour,2019 Summer,Set Your Soul Free,Set Your Soul Free,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2019-07-12,2019,0,6,2,1,0,0,16,2019 Summer Tour,2019 Summer,Lawn Boy,Lawn Boy,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2019-07-12,2019,0,7,1,1,0,0,7,2019 Summer Tour,2019 Summer,Camel Walk,Camel Walk,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2019-07-12,2019,0,1,1,1,0,0,4,2019 Summer Tour,2019 Summer,Sand,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2019-07-12,2019,0,2,2,1,0,0,7,2019 Summer Tour,2019 Summer,Tweezer,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2019-07-12,2019,0,3,1,1,0,0,4,2019 Summer Tour,2019 Summer,Free,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2019-07-12,2019,0,4,1,1,0,0,10,2019 Summer Tour,2019 Summer,Turtle in the Clouds,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2019-07-12,2019,0,5,1,1,0,0,3,2019 Summer Tour,2019 Summer,Set Your Soul Free,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2019-07-12,2019,0,6,2,1,0,0,16,2019 Summer Tour,2019 Summer,Lawn Boy,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2019-07-12,2019,0,7,1,1,0,0,7,2019 Summer Tour,2019 Summer,Camel Walk,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2019-07-12,2019,0,8,2,1,0,0,6,2019 Summer Tour,2019 Summer,Theme From the Bottom,Theme,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2019-07-12,2019,0,9,1,1,0,0,4,2019 Summer Tour,2019 Summer,Rift,Rift,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2019-07-12,2019,0,9,1,1,0,0,4,2019 Summer Tour,2019 Summer,Rift,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2019-07-12,2019,0,10,4,1,0,0,3,2019 Summer Tour,2019 Summer,Wolfman's Brother,Wolfman's,1,Alpine Valley Music Theatre,East Troy,WI,USA,
 2019-07-12,2019,0,11,2,2,0,0,5,2019 Summer Tour,2019 Summer,No Men In No Man's Land,NMINML,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2019-07-12,2019,0,12,2,2,0,0,10,2019 Summer Tour,2019 Summer,Prince Caspian,Caspian,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2019-07-12,2019,0,13,2,2,0,0,4,2019 Summer Tour,2019 Summer,Everything's Right,Everything's Right,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2019-07-12,2019,0,13,2,2,0,0,4,2019 Summer Tour,2019 Summer,Everything's Right,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2019-07-12,2019,0,14,2,2,0,0,33,2019 Summer Tour,2019 Summer,Roses Are Free,Roses,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2019-07-12,2019,0,15,2,2,0,0,3,2019 Summer Tour,2019 Summer,Also Sprach Zarathustra,2001,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2019-07-12,2019,0,16,2,2,0,0,5,2019 Summer Tour,2019 Summer,The Wedge,Wedge,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2019-07-12,2019,0,17,2,2,0,0,9,2019 Summer Tour,2019 Summer,Light,Light,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2019-07-12,2019,0,18,2,2,0,0,5,2019 Summer Tour,2019 Summer,Plasma,Plasma,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2019-07-12,2019,0,19,2,2,0,0,0,2019 Summer Tour,2019 Summer,Light,Light,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2019-07-12,2019,0,20,1,2,0,0,3,2019 Summer Tour,2019 Summer,46 Days,46 Days,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2019-07-12,2019,0,17,2,2,0,0,9,2019 Summer Tour,2019 Summer,Light,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2019-07-12,2019,0,18,2,2,0,0,5,2019 Summer Tour,2019 Summer,Plasma,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2019-07-12,2019,0,19,2,2,0,0,0,2019 Summer Tour,2019 Summer,Light,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2019-07-12,2019,0,20,1,2,0,0,3,2019 Summer Tour,2019 Summer,46 Days,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2019-07-12,2019,0,21,5,2,0,0,4,2019 Summer Tour,2019 Summer,The Squirming Coil,Coil,1,Alpine Valley Music Theatre,East Troy,WI,USA,
-2019-07-12,2019,0,22,1,e,0,0,6,2019 Summer Tour,2019 Summer,A Life Beyond The Dream,A Life Beyond The Dream,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2019-07-12,2019,0,23,1,e,0,0,4,2019 Summer Tour,2019 Summer,Tube,Tube,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2019-07-12,2019,0,24,6,e,0,0,8,2019 Summer Tour,2019 Summer,Grind,Grind,1,Alpine Valley Music Theatre,East Troy,WI,USA,
+2019-07-12,2019,0,22,1,e,0,0,6,2019 Summer Tour,2019 Summer,A Life Beyond The Dream,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2019-07-12,2019,0,23,1,e,0,0,4,2019 Summer Tour,2019 Summer,Tube,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2019-07-12,2019,0,24,6,e,0,0,8,2019 Summer Tour,2019 Summer,Grind,,1,Alpine Valley Music Theatre,East Troy,WI,USA,
 2019-07-13,2019,0,1,2,1,0,0,7,2019 Summer Tour,2019 Summer,AC/DC Bag,Bag,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2019-07-13,2019,0,2,1,1,0,0,9,2019 Summer Tour,2019 Summer,NICU,NICU,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2019-07-13,2019,0,3,1,1,0,0,8,2019 Summer Tour,2019 Summer,Shade,Shade,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2019-07-13,2019,0,4,1,1,0,0,14,2019 Summer Tour,2019 Summer,Funky Bitch,Funky Bitch,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2019-07-13,2019,0,5,2,1,0,0,5,2019 Summer Tour,2019 Summer,Blaze On,Blaze On,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2019-07-13,2019,0,6,1,1,0,0,15,2019 Summer Tour,2019 Summer,Ya Mar,Ya Mar,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2019-07-13,2019,0,7,1,1,0,0,17,2019 Summer Tour,2019 Summer,Frost,Frost,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2019-07-13,2019,0,2,1,1,0,0,9,2019 Summer Tour,2019 Summer,NICU,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2019-07-13,2019,0,3,1,1,0,0,8,2019 Summer Tour,2019 Summer,Shade,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2019-07-13,2019,0,4,1,1,0,0,14,2019 Summer Tour,2019 Summer,Funky Bitch,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2019-07-13,2019,0,5,2,1,0,0,5,2019 Summer Tour,2019 Summer,Blaze On,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2019-07-13,2019,0,6,1,1,0,0,15,2019 Summer Tour,2019 Summer,Ya Mar,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2019-07-13,2019,0,7,1,1,0,0,17,2019 Summer Tour,2019 Summer,Frost,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2019-07-13,2019,0,8,1,1,0,0,27,2019 Summer Tour,2019 Summer,The Sloth,Sloth,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2019-07-13,2019,0,9,1,1,0,0,7,2019 Summer Tour,2019 Summer,Fuck Your Face,FYF,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2019-07-13,2019,0,10,1,1,0,0,10,2019 Summer Tour,2019 Summer,"My Friend, My Friend",My Friend,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2019-07-13,2019,0,11,2,1,0,0,3,2019 Summer Tour,2019 Summer,The Final Hurrah,The Final Hurrah,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2019-07-13,2019,0,12,4,1,0,0,5,2019 Summer Tour,2019 Summer,Character Zero,Character Zero,1,Alpine Valley Music Theatre,East Troy,WI,USA,
+2019-07-13,2019,0,11,2,1,0,0,3,2019 Summer Tour,2019 Summer,The Final Hurrah,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2019-07-13,2019,0,12,4,1,0,0,5,2019 Summer Tour,2019 Summer,Character Zero,,1,Alpine Valley Music Theatre,East Troy,WI,USA,
 2019-07-13,2019,0,13,2,2,0,0,7,2019 Summer Tour,2019 Summer,Halley's Comet,Halley's,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2019-07-13,2019,0,14,2,2,0,0,15,2019 Summer Tour,2019 Summer,A Song I Heard the Ocean Sing,ASIHTOS,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2019-07-13,2019,0,15,3,2,0,0,5,2019 Summer Tour,2019 Summer,Runaway Jim,Runaway Jim,1,Alpine Valley Music Theatre,East Troy,WI,USA,->
-2019-07-13,2019,0,16,2,2,0,0,3,2019 Summer Tour,2019 Summer,Undermind,Undermind,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2019-07-13,2019,0,17,2,2,0,0,3,2019 Summer Tour,2019 Summer,Ghost,Ghost,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2019-07-13,2019,0,18,2,2,0,0,9,2019 Summer Tour,2019 Summer,Golden Age,Golden Age,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2019-07-13,2019,0,15,3,2,0,0,5,2019 Summer Tour,2019 Summer,Runaway Jim,,1,Alpine Valley Music Theatre,East Troy,WI,USA,->
+2019-07-13,2019,0,16,2,2,0,0,3,2019 Summer Tour,2019 Summer,Undermind,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2019-07-13,2019,0,17,2,2,0,0,3,2019 Summer Tour,2019 Summer,Ghost,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2019-07-13,2019,0,18,2,2,0,0,9,2019 Summer Tour,2019 Summer,Golden Age,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2019-07-13,2019,0,19,1,2,0,0,4,2019 Summer Tour,2019 Summer,Back on the Train,BOTT,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2019-07-13,2019,0,20,5,2,0,0,7,2019 Summer Tour,2019 Summer,Harry Hood,Hood,1,Alpine Valley Music Theatre,East Troy,WI,USA,
-2019-07-13,2019,0,21,6,e,0,0,5,2019 Summer Tour,2019 Summer,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Alpine Valley Music Theatre,East Troy,WI,USA,
+2019-07-13,2019,0,21,6,e,0,0,5,2019 Summer Tour,2019 Summer,Say It To Me S.A.N.T.O.S.,,1,Alpine Valley Music Theatre,East Troy,WI,USA,
 2019-07-14,2019,0,1,1,1,2,0,122,2019 Summer Tour,2019 Summer,The Landlady,Landlady,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2019-07-14,2019,0,2,1,1,2,0,694,2019 Summer Tour,2019 Summer,Olivia's Pool,Olivia's Pool,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2019-07-14,2019,0,2,1,1,2,0,694,2019 Summer Tour,2019 Summer,Olivia's Pool,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2019-07-14,2019,0,3,2,1,2,0,147,2019 Summer Tour,2019 Summer,The Man Who Stepped Into Yesterday,TMWSIY,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2019-07-14,2019,0,4,2,1,2,0,147,2019 Summer Tour,2019 Summer,Avenu Malkenu,Avenu Malkenu,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2019-07-14,2019,0,4,2,1,2,0,147,2019 Summer Tour,2019 Summer,Avenu Malkenu,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2019-07-14,2019,0,5,2,1,2,0,0,2019 Summer Tour,2019 Summer,The Man Who Stepped Into Yesterday,TMWSIY,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2019-07-14,2019,0,6,1,1,2,0,13,2019 Summer Tour,2019 Summer,Meatstick,Meatstick,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2019-07-14,2019,0,7,1,1,2,0,35,2019 Summer Tour,2019 Summer,Vultures,Vultures,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2019-07-14,2019,0,8,1,1,2,0,25,2019 Summer Tour,2019 Summer,Spock's Brain,Spock's Brain,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2019-07-14,2019,0,9,1,1,2,0,9,2019 Summer Tour,2019 Summer,Pebbles and Marbles,Pebbles and Marbles,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2019-07-14,2019,0,10,1,1,2,0,82,2019 Summer Tour,2019 Summer,Glide,Glide,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2019-07-14,2019,0,11,1,1,2,0,5,2019 Summer Tour,2019 Summer,About to Run,About to Run,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2019-07-14,2019,0,12,2,1,2,0,124,2019 Summer Tour,2019 Summer,Strange Design,Strange Design,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2019-07-14,2019,0,6,1,1,2,0,13,2019 Summer Tour,2019 Summer,Meatstick,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2019-07-14,2019,0,7,1,1,2,0,35,2019 Summer Tour,2019 Summer,Vultures,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2019-07-14,2019,0,8,1,1,2,0,25,2019 Summer Tour,2019 Summer,Spock's Brain,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2019-07-14,2019,0,9,1,1,2,0,9,2019 Summer Tour,2019 Summer,Pebbles and Marbles,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2019-07-14,2019,0,10,1,1,2,0,82,2019 Summer Tour,2019 Summer,Glide,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2019-07-14,2019,0,11,1,1,2,0,5,2019 Summer Tour,2019 Summer,About to Run,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2019-07-14,2019,0,12,2,1,2,0,124,2019 Summer Tour,2019 Summer,Strange Design,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2019-07-14,2019,0,13,2,1,2,0,11,2019 Summer Tour,2019 Summer,Timber (Jerry the Mule),Timber Ho,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2019-07-14,2019,0,14,1,1,2,0,17,2019 Summer Tour,2019 Summer,I Didn't Know,IDK,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2019-07-14,2019,0,15,4,1,2,0,31,2019 Summer Tour,2019 Summer,Good Times Bad Times,GTBT,0,Alpine Valley Music Theatre,East Troy,WI,USA,
-2019-07-14,2019,0,16,2,2,2,0,6,2019 Summer Tour,2019 Summer,Mercury,Mercury,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2019-07-14,2019,0,17,2,2,2,0,3,2019 Summer Tour,2019 Summer,Ruby Waves,Ruby Waves,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2019-07-14,2019,0,18,2,2,2,0,8,2019 Summer Tour,2019 Summer,Twist,Twist,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2019-07-14,2019,0,19,2,2,2,0,29,2019 Summer Tour,2019 Summer,Swept Away,Swept Away,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2019-07-14,2019,0,20,2,2,2,0,29,2019 Summer Tour,2019 Summer,Steep,Steep,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2019-07-14,2019,0,16,2,2,2,0,6,2019 Summer Tour,2019 Summer,Mercury,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2019-07-14,2019,0,17,2,2,2,0,3,2019 Summer Tour,2019 Summer,Ruby Waves,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2019-07-14,2019,0,18,2,2,2,0,8,2019 Summer Tour,2019 Summer,Twist,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2019-07-14,2019,0,19,2,2,2,0,29,2019 Summer Tour,2019 Summer,Swept Away,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2019-07-14,2019,0,20,2,2,2,0,29,2019 Summer Tour,2019 Summer,Steep,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2019-07-14,2019,0,21,1,2,2,0,5,2019 Summer Tour,2019 Summer,Death Don't Hurt Very Long,DDHVL,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2019-07-14,2019,0,22,1,2,2,0,0,2019 Summer Tour,2019 Summer,Icculus,Icculus,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2019-07-14,2019,0,23,1,2,2,0,69,2019 Summer Tour,2019 Summer,Buffalo Bill,Buffalo Bill,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2019-07-14,2019,0,24,1,2,2,1,210,2019 Summer Tour,2019 Summer,Icculus,Icculus,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2019-07-14,2019,0,22,1,2,2,0,0,2019 Summer Tour,2019 Summer,Icculus,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2019-07-14,2019,0,23,1,2,2,0,69,2019 Summer Tour,2019 Summer,Buffalo Bill,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2019-07-14,2019,0,24,1,2,2,1,210,2019 Summer Tour,2019 Summer,Icculus,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2019-07-14,2019,0,25,3,2,2,0,10,2019 Summer Tour,2019 Summer,You Enjoy Myself,YEM,1,Alpine Valley Music Theatre,East Troy,WI,USA,->
-2019-07-14,2019,0,26,2,2,2,0,191,2019 Summer Tour,2019 Summer,Catapult,Catapult,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2019-07-14,2019,0,27,2,2,2,0,4,2019 Summer Tour,2019 Summer,Contact,Contact,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2019-07-14,2019,0,26,2,2,2,0,191,2019 Summer Tour,2019 Summer,Catapult,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2019-07-14,2019,0,27,2,2,2,0,4,2019 Summer Tour,2019 Summer,Contact,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2019-07-14,2019,0,28,5,2,2,0,0,2019 Summer Tour,2019 Summer,You Enjoy Myself,YEM,1,Alpine Valley Music Theatre,East Troy,WI,USA,
-2019-07-14,2019,0,29,2,e,2,0,4,2019 Summer Tour,2019 Summer,More,More,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2019-07-14,2019,0,29,2,e,2,0,4,2019 Summer Tour,2019 Summer,More,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2019-07-14,2019,0,30,6,e,2,0,7,2019 Summer Tour,2019 Summer,Tweezer Reprise,Tweeprise,1,Alpine Valley Music Theatre,East Troy,WI,USA,
-2019-08-30,2019,0,1,1,1,0,0,142,2019 Summer Tour,2019 Summer,Can't Always Listen,Can't Always Listen,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2019-08-30,2019,0,1,6,1,0,0,376,Not Part of a Tour,No Tour,Spanish Moon,Spanish Moon,0,Cervantes,Denver,CO,USA,
-2019-08-30,2019,0,2,1,1,0,0,3,2019 Summer Tour,2019 Summer,Free,Free,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2019-08-30,2019,0,1,1,1,0,0,142,2019 Summer Tour,2019 Summer,Can't Always Listen,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2019-08-30,2019,0,1,6,1,0,0,376,Not Part of a Tour,No Tour,Spanish Moon,,0,Cervantes,Denver,CO,USA,
+2019-08-30,2019,0,2,1,1,0,0,3,2019 Summer Tour,2019 Summer,Free,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2019-08-30,2019,0,3,1,1,0,0,3,2019 Summer Tour,2019 Summer,No Men In No Man's Land,NMINML,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2019-08-30,2019,0,4,2,1,0,0,7,2019 Summer Tour,2019 Summer,555,555,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2019-08-30,2019,0,4,2,1,0,0,7,2019 Summer Tour,2019 Summer,555,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2019-08-30,2019,0,5,2,1,0,0,2,2019 Summer Tour,2019 Summer,Back on the Train,BOTT,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2019-08-30,2019,0,6,1,1,0,0,3,2019 Summer Tour,2019 Summer,Rift,Rift,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2019-08-30,2019,0,7,2,1,0,0,4,2019 Summer Tour,2019 Summer,Steam,Steam,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2019-08-30,2019,0,8,2,1,0,0,8,2019 Summer Tour,2019 Summer,Poor Heart,Poor Heart,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2019-08-30,2019,0,9,1,1,0,0,2,2019 Summer Tour,2019 Summer,Undermind,Undermind,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2019-08-30,2019,0,10,1,1,0,0,12,2019 Summer Tour,2019 Summer,Train Song,Train Song,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2019-08-30,2019,0,11,2,1,0,0,4,2019 Summer Tour,2019 Summer,Wingsuit,Wingsuit,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2019-08-30,2019,0,12,4,1,0,0,2,2019 Summer Tour,2019 Summer,Blaze On,Blaze On,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2019-08-30,2019,0,13,2,2,0,0,3,2019 Summer Tour,2019 Summer,Everything's Right,Everything's Right,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2019-08-30,2019,0,14,2,2,0,0,1,2019 Summer Tour,2019 Summer,Mercury,Mercury,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2019-08-30,2019,0,15,2,2,0,0,2,2019 Summer Tour,2019 Summer,Shade,Shade,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2019-08-30,2019,0,16,3,2,0,0,3,2019 Summer Tour,2019 Summer,Light,Light,0,Dick's Sporting Goods Park,Commerce City,CO,USA,->
-2019-08-30,2019,0,17,1,2,0,0,4,2019 Summer Tour,2019 Summer,Party Time,Party Time,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2019-08-30,2019,0,18,2,2,0,0,3,2019 Summer Tour,2019 Summer,Sand,Sand,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2019-08-30,2019,0,6,1,1,0,0,3,2019 Summer Tour,2019 Summer,Rift,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2019-08-30,2019,0,7,2,1,0,0,4,2019 Summer Tour,2019 Summer,Steam,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2019-08-30,2019,0,8,2,1,0,0,8,2019 Summer Tour,2019 Summer,Poor Heart,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2019-08-30,2019,0,9,1,1,0,0,2,2019 Summer Tour,2019 Summer,Undermind,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2019-08-30,2019,0,10,1,1,0,0,12,2019 Summer Tour,2019 Summer,Train Song,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2019-08-30,2019,0,11,2,1,0,0,4,2019 Summer Tour,2019 Summer,Wingsuit,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2019-08-30,2019,0,12,4,1,0,0,2,2019 Summer Tour,2019 Summer,Blaze On,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2019-08-30,2019,0,13,2,2,0,0,3,2019 Summer Tour,2019 Summer,Everything's Right,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2019-08-30,2019,0,14,2,2,0,0,1,2019 Summer Tour,2019 Summer,Mercury,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2019-08-30,2019,0,15,2,2,0,0,2,2019 Summer Tour,2019 Summer,Shade,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2019-08-30,2019,0,16,3,2,0,0,3,2019 Summer Tour,2019 Summer,Light,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2019-08-30,2019,0,17,1,2,0,0,4,2019 Summer Tour,2019 Summer,Party Time,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2019-08-30,2019,0,18,2,2,0,0,3,2019 Summer Tour,2019 Summer,Sand,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2019-08-30,2019,0,19,2,2,0,0,6,2019 Summer Tour,2019 Summer,What's the Use?,WTU?,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2019-08-30,2019,0,20,5,2,0,0,2,2019 Summer Tour,2019 Summer,Harry Hood,Hood,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2019-08-30,2019,0,21,6,e,0,0,2,2019 Summer Tour,2019 Summer,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2019-08-30,2019,0,21,6,e,0,0,2,2019 Summer Tour,2019 Summer,Say It To Me S.A.N.T.O.S.,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2019-08-31,2019,0,1,2,1,0,0,6,2019 Summer Tour,2019 Summer,The Moma Dance,Moma,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2019-08-31,2019,0,2,1,1,0,0,3,2019 Summer Tour,2019 Summer,The Final Hurrah,The Final Hurrah,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2019-08-31,2019,0,3,1,1,0,0,5,2019 Summer Tour,2019 Summer,Gumbo,Gumbo,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2019-08-31,2019,0,4,1,1,0,0,275,2019 Summer Tour,2019 Summer,Access Me,Access Me,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2019-08-31,2019,0,5,1,1,0,0,3,2019 Summer Tour,2019 Summer,Funky Bitch,Funky Bitch,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2019-08-31,2019,0,6,2,1,0,0,3,2019 Summer Tour,2019 Summer,Ghost,Ghost,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2019-08-31,2019,0,7,2,1,0,0,4,2019 Summer Tour,2019 Summer,Tube,Tube,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2019-08-31,2019,0,2,1,1,0,0,3,2019 Summer Tour,2019 Summer,The Final Hurrah,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2019-08-31,2019,0,3,1,1,0,0,5,2019 Summer Tour,2019 Summer,Gumbo,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2019-08-31,2019,0,4,1,1,0,0,275,2019 Summer Tour,2019 Summer,Access Me,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2019-08-31,2019,0,5,1,1,0,0,3,2019 Summer Tour,2019 Summer,Funky Bitch,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2019-08-31,2019,0,6,2,1,0,0,3,2019 Summer Tour,2019 Summer,Ghost,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2019-08-31,2019,0,7,2,1,0,0,4,2019 Summer Tour,2019 Summer,Tube,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2019-08-31,2019,0,8,1,1,0,0,43,2019 Summer Tour,2019 Summer,Mountains in the Mist,Mist,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2019-08-31,2019,0,9,4,1,0,0,5,2019 Summer Tour,2019 Summer,Drift While You're Sleeping,Drift While You're Sleeping,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2019-08-31,2019,0,9,4,1,0,0,5,2019 Summer Tour,2019 Summer,Drift While You're Sleeping,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2019-08-31,2019,0,10,2,2,0,0,12,2019 Summer Tour,2019 Summer,Mike's Song,Mike's,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2019-08-31,2019,0,11,2,2,0,0,12,2019 Summer Tour,2019 Summer,I Am Hydrogen,Hydrogen,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2019-08-31,2019,0,12,3,2,0,0,6,2019 Summer Tour,2019 Summer,Weekapaug Groove,Weekapaug,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
-2019-08-31,2019,0,13,2,2,0,0,4,2019 Summer Tour,2019 Summer,46 Days,46 Days,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2019-08-31,2019,0,14,2,2,0,0,4,2019 Summer Tour,2019 Summer,Set Your Soul Free,Set Your Soul Free,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2019-08-31,2019,0,13,2,2,0,0,4,2019 Summer Tour,2019 Summer,46 Days,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2019-08-31,2019,0,14,2,2,0,0,4,2019 Summer Tour,2019 Summer,Set Your Soul Free,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2019-08-31,2019,0,15,3,2,0,0,7,2019 Summer Tour,2019 Summer,Down with Disease,DwD,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
-2019-08-31,2019,0,16,2,2,0,0,3,2019 Summer Tour,2019 Summer,NICU,NICU,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2019-08-31,2019,0,17,2,2,0,0,8,2019 Summer Tour,2019 Summer,Bug,Bug,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2019-08-31,2019,0,16,2,2,0,0,3,2019 Summer Tour,2019 Summer,NICU,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2019-08-31,2019,0,17,2,2,0,0,8,2019 Summer Tour,2019 Summer,Bug,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2019-08-31,2019,0,18,1,2,0,0,4,2019 Summer Tour,2019 Summer,The Wedge,Wedge,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2019-08-31,2019,0,19,5,2,0,0,5,2019 Summer Tour,2019 Summer,Slave to the Traffic Light,Slave,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2019-08-31,2019,0,20,2,e,0,0,8,2019 Summer Tour,2019 Summer,Brian and Robert,Brian and Robert,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2019-08-31,2019,0,21,6,e,0,0,3,2019 Summer Tour,2019 Summer,Character Zero,Character Zero,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2019-09-01,2019,0,1,1,1,0,0,6,2019 Summer Tour,2019 Summer,Stray Dog,Stray Dog,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2019-08-31,2019,0,20,2,e,0,0,8,2019 Summer Tour,2019 Summer,Brian and Robert,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2019-08-31,2019,0,21,6,e,0,0,3,2019 Summer Tour,2019 Summer,Character Zero,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2019-09-01,2019,0,1,1,1,0,0,6,2019 Summer Tour,2019 Summer,Stray Dog,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2019-09-01,2019,0,2,1,1,0,0,6,2019 Summer Tour,2019 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2019-09-01,2019,0,3,1,1,0,0,5,2019 Summer Tour,2019 Summer,Turtle in the Clouds,Turtle in the Clouds,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2019-09-01,2019,0,3,1,1,0,0,5,2019 Summer Tour,2019 Summer,Turtle in the Clouds,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2019-09-01,2019,0,4,1,1,0,0,5,2019 Summer Tour,2019 Summer,Wolfman's Brother,Wolfman's,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2019-09-01,2019,0,5,1,1,0,0,7,2019 Summer Tour,2019 Summer,Birds of a Feather,BOAF,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2019-09-01,2019,0,6,2,1,0,0,10,2019 Summer Tour,2019 Summer,We Are Come to Outlive Our Brains,WACTOOB,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2019-09-01,2019,0,7,2,1,0,0,19,2019 Summer Tour,2019 Summer,Taste,Taste,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2019-09-01,2019,0,7,2,1,0,0,19,2019 Summer Tour,2019 Summer,Taste,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2019-09-01,2019,0,8,2,1,0,0,4,2019 Summer Tour,2019 Summer,"My Friend, My Friend",My Friend,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2019-09-01,2019,0,9,2,1,0,0,12,2019 Summer Tour,2019 Summer,Twenty Years Later,Twenty Years Later,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2019-09-01,2019,0,10,1,1,0,0,13,2019 Summer Tour,2019 Summer,Sparkle,Sparkle,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2019-09-01,2019,0,11,2,1,0,0,10,2019 Summer Tour,2019 Summer,Crazy Sometimes,Crazy Sometimes,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2019-09-01,2019,0,9,2,1,0,0,12,2019 Summer Tour,2019 Summer,Twenty Years Later,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2019-09-01,2019,0,10,1,1,0,0,13,2019 Summer Tour,2019 Summer,Sparkle,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2019-09-01,2019,0,11,2,1,0,0,10,2019 Summer Tour,2019 Summer,Crazy Sometimes,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2019-09-01,2019,0,12,4,1,0,0,7,2019 Summer Tour,2019 Summer,Bathtub Gin,Gin,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2019-09-01,2019,0,13,1,2,0,0,1851,2019 Summer Tour,2019 Summer,Sightless Escape,Sightless Escape,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2019-09-01,2019,0,14,3,2,0,0,9,2019 Summer Tour,2019 Summer,Fuego,Fuego,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
-2019-09-01,2019,0,15,2,2,0,0,6,2019 Summer Tour,2019 Summer,Piper,Piper,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2019-09-01,2019,0,16,3,2,0,0,5,2019 Summer Tour,2019 Summer,Tweezer,Tweezer,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2019-09-01,2019,0,13,1,2,0,0,1851,2019 Summer Tour,2019 Summer,Sightless Escape,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2019-09-01,2019,0,14,3,2,0,0,9,2019 Summer Tour,2019 Summer,Fuego,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2019-09-01,2019,0,15,2,2,0,0,6,2019 Summer Tour,2019 Summer,Piper,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2019-09-01,2019,0,16,3,2,0,0,5,2019 Summer Tour,2019 Summer,Tweezer,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
 2019-09-01,2019,0,17,2,2,0,0,5,2019 Summer Tour,2019 Summer,Also Sprach Zarathustra,2001,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2019-09-01,2019,0,18,2,2,0,0,6,2019 Summer Tour,2019 Summer,Chalk Dust Torture,CDT,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2019-09-01,2019,0,19,2,2,0,0,7,2019 Summer Tour,2019 Summer,Waste,Waste,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2019-09-01,2019,0,20,2,2,0,0,6,2019 Summer Tour,2019 Summer,Cavern,Cavern,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2019-09-01,2019,0,21,5,2,0,0,11,2019 Summer Tour,2019 Summer,First Tube,First Tube,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2019-09-01,2019,0,19,2,2,0,0,7,2019 Summer Tour,2019 Summer,Waste,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2019-09-01,2019,0,20,2,2,0,0,6,2019 Summer Tour,2019 Summer,Cavern,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2019-09-01,2019,0,21,5,2,0,0,11,2019 Summer Tour,2019 Summer,First Tube,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2019-09-01,2019,0,22,2,e,0,0,10,2019 Summer Tour,2019 Summer,The Horse,Horse,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2019-09-01,2019,0,23,2,e,0,0,10,2019 Summer Tour,2019 Summer,Silent in the Morning,Silent,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2019-09-01,2019,0,24,1,e,0,0,5,2019 Summer Tour,2019 Summer,A Life Beyond The Dream,A Life Beyond The Dream,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2019-09-01,2019,0,24,1,e,0,0,5,2019 Summer Tour,2019 Summer,A Life Beyond The Dream,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2019-09-01,2019,0,25,6,e,0,0,3,2019 Summer Tour,2019 Summer,Tweezer Reprise,Tweeprise,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2019-11-29,2019,0,1,1,1,0,0,1,2019 Fall Tour,2019 Fall,First Tube,First Tube,0,Dunkin' Donuts Center,Providence,RI,USA,","
-2019-11-29,2019,0,2,2,1,0,0,2,2019 Fall Tour,2019 Fall,The Final Hurrah,The Final Hurrah,1,Dunkin' Donuts Center,Providence,RI,USA,>
-2019-11-29,2019,0,3,1,1,0,0,2,2019 Fall Tour,2019 Fall,NICU,NICU,1,Dunkin' Donuts Center,Providence,RI,USA,","
-2019-11-29,2019,0,4,2,1,0,0,3,2019 Fall Tour,2019 Fall,Steam,Steam,1,Dunkin' Donuts Center,Providence,RI,USA,>
+2019-11-29,2019,0,1,1,1,0,0,1,2019 Fall Tour,2019 Fall,First Tube,,0,Dunkin' Donuts Center,Providence,RI,USA,","
+2019-11-29,2019,0,2,2,1,0,0,2,2019 Fall Tour,2019 Fall,The Final Hurrah,,1,Dunkin' Donuts Center,Providence,RI,USA,>
+2019-11-29,2019,0,3,1,1,0,0,2,2019 Fall Tour,2019 Fall,NICU,,1,Dunkin' Donuts Center,Providence,RI,USA,","
+2019-11-29,2019,0,4,2,1,0,0,3,2019 Fall Tour,2019 Fall,Steam,,1,Dunkin' Donuts Center,Providence,RI,USA,>
 2019-11-29,2019,0,5,1,1,0,0,12,2019 Fall Tour,2019 Fall,Scent of a Mule,SOAMule,1,Dunkin' Donuts Center,Providence,RI,USA,","
-2019-11-29,2019,0,6,1,1,0,0,707,2019 Fall Tour,2019 Fall,Bye Bye Foot,Bye Bye Foot,1,Dunkin' Donuts Center,Providence,RI,USA,","
+2019-11-29,2019,0,6,1,1,0,0,707,2019 Fall Tour,2019 Fall,Bye Bye Foot,,1,Dunkin' Donuts Center,Providence,RI,USA,","
 2019-11-29,2019,0,7,1,1,0,0,3,2019 Fall Tour,2019 Fall,No Men In No Man's Land,NMINML,1,Dunkin' Donuts Center,Providence,RI,USA,","
-2019-11-29,2019,0,8,2,1,0,0,2,2019 Fall Tour,2019 Fall,Gumbo,Gumbo,1,Dunkin' Donuts Center,Providence,RI,USA,>
-2019-11-29,2019,0,9,1,1,0,0,18,2019 Fall Tour,2019 Fall,My Soul,My Soul,0,Dunkin' Donuts Center,Providence,RI,USA,","
-2019-11-29,2019,0,10,1,1,0,0,1848,2019 Fall Tour,2019 Fall,Maybe,Maybe,0,Dunkin' Donuts Center,Providence,RI,USA,","
-2019-11-29,2019,0,11,2,1,0,0,3,2019 Fall Tour,2019 Fall,Sand,Sand,0,Dunkin' Donuts Center,Providence,RI,USA,>
-2019-11-29,2019,0,12,4,1,0,0,77,2019 Fall Tour,2019 Fall,Fire,Fire,0,Dunkin' Donuts Center,Providence,RI,USA,
-2019-11-29,2019,0,13,2,2,0,0,2,2019 Fall Tour,2019 Fall,46 Days,46 Days,1,Dunkin' Donuts Center,Providence,RI,USA,>
+2019-11-29,2019,0,8,2,1,0,0,2,2019 Fall Tour,2019 Fall,Gumbo,,1,Dunkin' Donuts Center,Providence,RI,USA,>
+2019-11-29,2019,0,9,1,1,0,0,18,2019 Fall Tour,2019 Fall,My Soul,,0,Dunkin' Donuts Center,Providence,RI,USA,","
+2019-11-29,2019,0,10,1,1,0,0,1848,2019 Fall Tour,2019 Fall,Maybe,,0,Dunkin' Donuts Center,Providence,RI,USA,","
+2019-11-29,2019,0,11,2,1,0,0,3,2019 Fall Tour,2019 Fall,Sand,,0,Dunkin' Donuts Center,Providence,RI,USA,>
+2019-11-29,2019,0,12,4,1,0,0,77,2019 Fall Tour,2019 Fall,Fire,,0,Dunkin' Donuts Center,Providence,RI,USA,
+2019-11-29,2019,0,13,2,2,0,0,2,2019 Fall Tour,2019 Fall,46 Days,,1,Dunkin' Donuts Center,Providence,RI,USA,>
 2019-11-29,2019,0,14,2,2,0,0,3,2019 Fall Tour,2019 Fall,Back on the Train,BOTT,0,Dunkin' Donuts Center,Providence,RI,USA,>
-2019-11-29,2019,0,15,2,2,0,0,6,2019 Fall Tour,2019 Fall,Plasma,Plasma,0,Dunkin' Donuts Center,Providence,RI,USA,>
-2019-11-29,2019,0,16,2,2,0,0,16,2019 Fall Tour,2019 Fall,Farmhouse,Farmhouse,1,Dunkin' Donuts Center,Providence,RI,USA,>
-2019-11-29,2019,0,17,3,2,0,0,3,2019 Fall Tour,2019 Fall,Light,Light,0,Dunkin' Donuts Center,Providence,RI,USA,->
-2019-11-29,2019,0,18,2,2,0,0,0,2019 Fall Tour,2019 Fall,Plasma,Plasma,0,Dunkin' Donuts Center,Providence,RI,USA,>
+2019-11-29,2019,0,15,2,2,0,0,6,2019 Fall Tour,2019 Fall,Plasma,,0,Dunkin' Donuts Center,Providence,RI,USA,>
+2019-11-29,2019,0,16,2,2,0,0,16,2019 Fall Tour,2019 Fall,Farmhouse,,1,Dunkin' Donuts Center,Providence,RI,USA,>
+2019-11-29,2019,0,17,3,2,0,0,3,2019 Fall Tour,2019 Fall,Light,,0,Dunkin' Donuts Center,Providence,RI,USA,->
+2019-11-29,2019,0,18,2,2,0,0,0,2019 Fall Tour,2019 Fall,Plasma,,0,Dunkin' Donuts Center,Providence,RI,USA,>
 2019-11-29,2019,0,19,1,2,0,0,1,2019 Fall Tour,2019 Fall,Birds of a Feather,BOAF,1,Dunkin' Donuts Center,Providence,RI,USA,","
-2019-11-29,2019,0,20,1,2,0,0,26,2019 Fall Tour,2019 Fall,Joy,Joy,1,Dunkin' Donuts Center,Providence,RI,USA,","
-2019-11-29,2019,0,21,3,2,0,0,9,2019 Fall Tour,2019 Fall,Simple,Simple,1,Dunkin' Donuts Center,Providence,RI,USA,->
-2019-11-29,2019,0,22,3,2,0,0,2,2019 Fall Tour,2019 Fall,Set Your Soul Free,Set Your Soul Free,0,Dunkin' Donuts Center,Providence,RI,USA,->
-2019-11-29,2019,0,23,1,2,0,0,0,2019 Fall Tour,2019 Fall,Plasma,Plasma,0,Dunkin' Donuts Center,Providence,RI,USA,","
-2019-11-29,2019,0,24,5,2,0,0,28,2019 Fall Tour,2019 Fall,Walk Away,Walk Away,0,Dunkin' Donuts Center,Providence,RI,USA,
-2019-11-29,2019,0,25,2,e,0,0,4,2019 Fall Tour,2019 Fall,Meatstick,Meatstick,1,Dunkin' Donuts Center,Providence,RI,USA,>
-2019-11-29,2019,0,26,1,e,0,0,11,2019 Fall Tour,2019 Fall,Sleep,Sleep,1,Dunkin' Donuts Center,Providence,RI,USA,","
-2019-11-29,2019,0,27,1,e,0,0,13,2019 Fall Tour,2019 Fall,Driver,Driver,1,Dunkin' Donuts Center,Providence,RI,USA,","
-2019-11-29,2019,0,28,6,e,0,0,2,2019 Fall Tour,2019 Fall,Bug,Bug,0,Dunkin' Donuts Center,Providence,RI,USA,
-2019-11-30,2019,0,1,1,1,2,0,2,2019 Fall Tour,2019 Fall,Turtle in the Clouds,Turtle in the Clouds,1,Dunkin' Donuts Center,Providence,RI,USA,","
+2019-11-29,2019,0,20,1,2,0,0,26,2019 Fall Tour,2019 Fall,Joy,,1,Dunkin' Donuts Center,Providence,RI,USA,","
+2019-11-29,2019,0,21,3,2,0,0,9,2019 Fall Tour,2019 Fall,Simple,,1,Dunkin' Donuts Center,Providence,RI,USA,->
+2019-11-29,2019,0,22,3,2,0,0,2,2019 Fall Tour,2019 Fall,Set Your Soul Free,,0,Dunkin' Donuts Center,Providence,RI,USA,->
+2019-11-29,2019,0,23,1,2,0,0,0,2019 Fall Tour,2019 Fall,Plasma,,0,Dunkin' Donuts Center,Providence,RI,USA,","
+2019-11-29,2019,0,24,5,2,0,0,28,2019 Fall Tour,2019 Fall,Walk Away,,0,Dunkin' Donuts Center,Providence,RI,USA,
+2019-11-29,2019,0,25,2,e,0,0,4,2019 Fall Tour,2019 Fall,Meatstick,,1,Dunkin' Donuts Center,Providence,RI,USA,>
+2019-11-29,2019,0,26,1,e,0,0,11,2019 Fall Tour,2019 Fall,Sleep,,1,Dunkin' Donuts Center,Providence,RI,USA,","
+2019-11-29,2019,0,27,1,e,0,0,13,2019 Fall Tour,2019 Fall,Driver,,1,Dunkin' Donuts Center,Providence,RI,USA,","
+2019-11-29,2019,0,28,6,e,0,0,2,2019 Fall Tour,2019 Fall,Bug,,0,Dunkin' Donuts Center,Providence,RI,USA,
+2019-11-30,2019,0,1,1,1,2,0,2,2019 Fall Tour,2019 Fall,Turtle in the Clouds,,1,Dunkin' Donuts Center,Providence,RI,USA,","
 2019-11-30,2019,0,2,1,1,2,0,14,2019 Fall Tour,2019 Fall,Punch You in the Eye,PYITE,1,Dunkin' Donuts Center,Providence,RI,USA,","
-2019-11-30,2019,0,3,1,1,2,0,12,2019 Fall Tour,2019 Fall,Llama,Llama,1,Dunkin' Donuts Center,Providence,RI,USA,","
-2019-11-30,2019,0,4,1,1,2,0,13,2019 Fall Tour,2019 Fall,Meat,Meat,1,Dunkin' Donuts Center,Providence,RI,USA,","
-2019-11-30,2019,0,5,1,1,2,0,16,2019 Fall Tour,2019 Fall,The Old Home Place,The Old Home Place,0,Dunkin' Donuts Center,Providence,RI,USA,","
-2019-11-30,2019,0,6,1,1,2,0,7,2019 Fall Tour,2019 Fall,Lawn Boy,Lawn Boy,1,Dunkin' Donuts Center,Providence,RI,USA,","
+2019-11-30,2019,0,3,1,1,2,0,12,2019 Fall Tour,2019 Fall,Llama,,1,Dunkin' Donuts Center,Providence,RI,USA,","
+2019-11-30,2019,0,4,1,1,2,0,13,2019 Fall Tour,2019 Fall,Meat,,1,Dunkin' Donuts Center,Providence,RI,USA,","
+2019-11-30,2019,0,5,1,1,2,0,16,2019 Fall Tour,2019 Fall,The Old Home Place,,0,Dunkin' Donuts Center,Providence,RI,USA,","
+2019-11-30,2019,0,6,1,1,2,0,7,2019 Fall Tour,2019 Fall,Lawn Boy,,1,Dunkin' Donuts Center,Providence,RI,USA,","
 2019-11-30,2019,0,7,1,1,2,0,5,2019 Fall Tour,2019 Fall,I Didn't Know,IDK,1,Dunkin' Donuts Center,Providence,RI,USA,","
-2019-11-30,2019,0,8,1,1,2,0,9,2019 Fall Tour,2019 Fall,Maze,Maze,1,Dunkin' Donuts Center,Providence,RI,USA,","
-2019-11-30,2019,0,9,1,1,2,0,16,2019 Fall Tour,2019 Fall,Horn,Horn,1,Dunkin' Donuts Center,Providence,RI,USA,","
+2019-11-30,2019,0,8,1,1,2,0,9,2019 Fall Tour,2019 Fall,Maze,,1,Dunkin' Donuts Center,Providence,RI,USA,","
+2019-11-30,2019,0,9,1,1,2,0,16,2019 Fall Tour,2019 Fall,Horn,,1,Dunkin' Donuts Center,Providence,RI,USA,","
 2019-11-30,2019,0,10,2,1,2,0,17,2019 Fall Tour,2019 Fall,Gotta Jibboo,Jibboo,0,Dunkin' Donuts Center,Providence,RI,USA,>
-2019-11-30,2019,0,11,3,1,2,0,8,2019 Fall Tour,2019 Fall,Stash,Stash,1,Dunkin' Donuts Center,Providence,RI,USA,->
-2019-11-30,2019,0,12,2,1,2,0,1,2019 Fall Tour,2019 Fall,Plasma,Plasma,0,Dunkin' Donuts Center,Providence,RI,USA,>
+2019-11-30,2019,0,11,3,1,2,0,8,2019 Fall Tour,2019 Fall,Stash,,1,Dunkin' Donuts Center,Providence,RI,USA,->
+2019-11-30,2019,0,12,2,1,2,0,1,2019 Fall Tour,2019 Fall,Plasma,,0,Dunkin' Donuts Center,Providence,RI,USA,>
 2019-11-30,2019,0,13,4,1,2,0,9,2019 Fall Tour,2019 Fall,Golgi Apparatus,Golgi,1,Dunkin' Donuts Center,Providence,RI,USA,
 2019-11-30,2019,0,14,2,2,2,0,2,2019 Fall Tour,2019 Fall,Bathtub Gin,Gin,1,Dunkin' Donuts Center,Providence,RI,USA,>
-2019-11-30,2019,0,15,2,2,2,0,17,2019 Fall Tour,2019 Fall,Alaska,Alaska,0,Dunkin' Donuts Center,Providence,RI,USA,>
+2019-11-30,2019,0,15,2,2,2,0,17,2019 Fall Tour,2019 Fall,Alaska,,0,Dunkin' Donuts Center,Providence,RI,USA,>
 2019-11-30,2019,0,16,2,2,2,0,4,2019 Fall Tour,2019 Fall,What's the Use?,WTU?,1,Dunkin' Donuts Center,Providence,RI,USA,>
-2019-11-30,2019,0,17,2,2,2,0,2,2019 Fall Tour,2019 Fall,Piper,Piper,1,Dunkin' Donuts Center,Providence,RI,USA,>
-2019-11-30,2019,0,18,3,2,2,0,6,2019 Fall Tour,2019 Fall,Golden Age,Golden Age,0,Dunkin' Donuts Center,Providence,RI,USA,->
-2019-11-30,2019,0,19,2,2,2,0,0,2019 Fall Tour,2019 Fall,Plasma,Plasma,0,Dunkin' Donuts Center,Providence,RI,USA,>
+2019-11-30,2019,0,17,2,2,2,0,2,2019 Fall Tour,2019 Fall,Piper,,1,Dunkin' Donuts Center,Providence,RI,USA,>
+2019-11-30,2019,0,18,3,2,2,0,6,2019 Fall Tour,2019 Fall,Golden Age,,0,Dunkin' Donuts Center,Providence,RI,USA,->
+2019-11-30,2019,0,19,2,2,2,0,0,2019 Fall Tour,2019 Fall,Plasma,,0,Dunkin' Donuts Center,Providence,RI,USA,>
 2019-11-30,2019,0,20,5,2,2,0,4,2019 Fall Tour,2019 Fall,Harry Hood,Hood,1,Dunkin' Donuts Center,Providence,RI,USA,
 2019-11-30,2019,0,21,2,e,2,0,14,2019 Fall Tour,2019 Fall,Big Black Furry Creature from Mars,BBFCFM,1,Dunkin' Donuts Center,Providence,RI,USA,>
-2019-11-30,2019,0,22,2,e,2,0,8,2019 Fall Tour,2019 Fall,Kung,Kung,1,Dunkin' Donuts Center,Providence,RI,USA,>
-2019-11-30,2019,0,23,1,e,2,0,16,2019 Fall Tour,2019 Fall,Wombat,Wombat,1,Dunkin' Donuts Center,Providence,RI,USA,","
-2019-11-30,2019,0,24,2,e,2,0,10,2019 Fall Tour,2019 Fall,Possum,Possum,1,Dunkin' Donuts Center,Providence,RI,USA,>
-2019-11-30,2019,0,25,6,e,2,0,0,2019 Fall Tour,2019 Fall,Plasma,Plasma,0,Dunkin' Donuts Center,Providence,RI,USA,
-2019-12-01,2019,0,1,2,1,0,0,4,2019 Fall Tour,2019 Fall,Ghost,Ghost,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
-2019-12-01,2019,0,2,1,1,0,0,5,2019 Fall Tour,2019 Fall,Rift,Rift,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,","
+2019-11-30,2019,0,22,2,e,2,0,8,2019 Fall Tour,2019 Fall,Kung,,1,Dunkin' Donuts Center,Providence,RI,USA,>
+2019-11-30,2019,0,23,1,e,2,0,16,2019 Fall Tour,2019 Fall,Wombat,,1,Dunkin' Donuts Center,Providence,RI,USA,","
+2019-11-30,2019,0,24,2,e,2,0,10,2019 Fall Tour,2019 Fall,Possum,,1,Dunkin' Donuts Center,Providence,RI,USA,>
+2019-11-30,2019,0,25,6,e,2,0,0,2019 Fall Tour,2019 Fall,Plasma,,0,Dunkin' Donuts Center,Providence,RI,USA,
+2019-12-01,2019,0,1,2,1,0,0,4,2019 Fall Tour,2019 Fall,Ghost,,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
+2019-12-01,2019,0,2,1,1,0,0,5,2019 Fall Tour,2019 Fall,Rift,,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,","
 2019-12-01,2019,0,3,2,1,0,0,6,2019 Fall Tour,2019 Fall,The Man Who Stepped Into Yesterday,TMWSIY,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
-2019-12-01,2019,0,4,2,1,0,0,6,2019 Fall Tour,2019 Fall,Avenu Malkenu,Avenu Malkenu,0,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
+2019-12-01,2019,0,4,2,1,0,0,6,2019 Fall Tour,2019 Fall,Avenu Malkenu,,0,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
 2019-12-01,2019,0,5,2,1,0,0,0,2019 Fall Tour,2019 Fall,The Man Who Stepped Into Yesterday,TMWSIY,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
 2019-12-01,2019,0,6,1,1,0,0,4,2019 Fall Tour,2019 Fall,The Wedge,Wedge,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,","
-2019-12-01,2019,0,7,1,1,0,0,13,2019 Fall Tour,2019 Fall,Martian Monster,Martian Monster,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,","
+2019-12-01,2019,0,7,1,1,0,0,13,2019 Fall Tour,2019 Fall,Martian Monster,,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,","
 2019-12-01,2019,0,8,2,1,0,0,6,2019 Fall Tour,2019 Fall,Timber (Jerry the Mule),Timber Ho,0,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
-2019-12-01,2019,0,9,2,1,0,0,44,2019 Fall Tour,2019 Fall,Cool It Down,Cool It Down,0,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
-2019-12-01,2019,0,10,2,1,0,0,16,2019 Fall Tour,2019 Fall,Roggae,Roggae,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
-2019-12-01,2019,0,11,2,1,0,0,5,2019 Fall Tour,2019 Fall,Poor Heart,Poor Heart,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
-2019-12-01,2019,0,12,2,1,0,0,4,2019 Fall Tour,2019 Fall,Tube,Tube,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
-2019-12-01,2019,0,13,4,1,0,0,4,2019 Fall Tour,2019 Fall,Character Zero,Character Zero,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,
-2019-12-01,2019,0,14,2,2,0,0,5,2019 Fall Tour,2019 Fall,Everything's Right,Everything's Right,0,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
+2019-12-01,2019,0,9,2,1,0,0,44,2019 Fall Tour,2019 Fall,Cool It Down,,0,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
+2019-12-01,2019,0,10,2,1,0,0,16,2019 Fall Tour,2019 Fall,Roggae,,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
+2019-12-01,2019,0,11,2,1,0,0,5,2019 Fall Tour,2019 Fall,Poor Heart,,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
+2019-12-01,2019,0,12,2,1,0,0,4,2019 Fall Tour,2019 Fall,Tube,,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
+2019-12-01,2019,0,13,4,1,0,0,4,2019 Fall Tour,2019 Fall,Character Zero,,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,
+2019-12-01,2019,0,14,2,2,0,0,5,2019 Fall Tour,2019 Fall,Everything's Right,,0,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
 2019-12-01,2019,0,15,3,2,0,0,4,2019 Fall Tour,2019 Fall,Down with Disease,DwD,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,->
-2019-12-01,2019,0,16,2,2,0,0,18,2019 Fall Tour,2019 Fall,Cities,Cities,0,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
-2019-12-01,2019,0,17,2,2,0,0,11,2019 Fall Tour,2019 Fall,Carini,Carini,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
-2019-12-01,2019,0,18,2,2,0,0,6,2019 Fall Tour,2019 Fall,Ruby Waves,Ruby Waves,0,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
-2019-12-01,2019,0,19,2,2,0,0,3,2019 Fall Tour,2019 Fall,Twenty Years Later,Twenty Years Later,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
+2019-12-01,2019,0,16,2,2,0,0,18,2019 Fall Tour,2019 Fall,Cities,,0,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
+2019-12-01,2019,0,17,2,2,0,0,11,2019 Fall Tour,2019 Fall,Carini,,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
+2019-12-01,2019,0,18,2,2,0,0,6,2019 Fall Tour,2019 Fall,Ruby Waves,,0,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
+2019-12-01,2019,0,19,2,2,0,0,3,2019 Fall Tour,2019 Fall,Twenty Years Later,,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
 2019-12-01,2019,0,20,2,2,0,0,11,2019 Fall Tour,2019 Fall,Backwards Down the Number Line,BDTNL,0,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
-2019-12-01,2019,0,21,5,2,0,0,5,2019 Fall Tour,2019 Fall,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,
+2019-12-01,2019,0,21,5,2,0,0,5,2019 Fall Tour,2019 Fall,Say It To Me S.A.N.T.O.S.,,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,
 2019-12-01,2019,0,22,2,e,0,0,8,2019 Fall Tour,2019 Fall,Roses Are Free,Roses,0,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
 2019-12-01,2019,0,23,6,e,0,0,4,2019 Fall Tour,2019 Fall,Slave to the Traffic Light,Slave,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,
-2019-12-03,2019,0,1,1,1,0,0,417,2019 Fall Tour,2019 Fall,Hello My Baby,Hello My Baby,0,Met Philadelphia,Philadelphia,PA,USA,","
-2019-12-03,2019,0,2,2,1,0,0,4,2019 Fall Tour,2019 Fall,Tweezer,Tweezer,1,Met Philadelphia,Philadelphia,PA,USA,>
-2019-12-03,2019,0,3,2,1,0,0,6,2019 Fall Tour,2019 Fall,Free,Free,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,1,1,1,0,0,417,2019 Fall Tour,2019 Fall,Hello My Baby,,0,Met Philadelphia,Philadelphia,PA,USA,","
+2019-12-03,2019,0,2,2,1,0,0,4,2019 Fall Tour,2019 Fall,Tweezer,,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,3,2,1,0,0,6,2019 Fall Tour,2019 Fall,Free,,1,Met Philadelphia,Philadelphia,PA,USA,>
 2019-12-03,2019,0,4,2,1,0,0,5,2019 Fall Tour,2019 Fall,The Moma Dance,Moma,1,Met Philadelphia,Philadelphia,PA,USA,>
-2019-12-03,2019,0,5,3,1,0,0,0,2019 Fall Tour,2019 Fall,Tweezer,Tweezer,1,Met Philadelphia,Philadelphia,PA,USA,->
-2019-12-03,2019,0,6,1,1,0,0,6,2019 Fall Tour,2019 Fall,Blaze On,Blaze On,1,Met Philadelphia,Philadelphia,PA,USA,","
+2019-12-03,2019,0,5,3,1,0,0,0,2019 Fall Tour,2019 Fall,Tweezer,,1,Met Philadelphia,Philadelphia,PA,USA,->
+2019-12-03,2019,0,6,1,1,0,0,6,2019 Fall Tour,2019 Fall,Blaze On,,1,Met Philadelphia,Philadelphia,PA,USA,","
 2019-12-03,2019,0,7,1,1,0,0,186,2019 Fall Tour,2019 Fall,Jesus Just Left Chicago,JJLC,0,Met Philadelphia,Philadelphia,PA,USA,","
 2019-12-03,2019,0,8,2,1,0,0,19,2019 Fall Tour,2019 Fall,Kill Devil Falls,KDF,1,Met Philadelphia,Philadelphia,PA,USA,>
-2019-12-03,2019,0,9,3,1,0,0,0,2019 Fall Tour,2019 Fall,Tweezer,Tweezer,1,Met Philadelphia,Philadelphia,PA,USA,->
-2019-12-03,2019,0,10,1,1,0,0,8,2019 Fall Tour,2019 Fall,Ya Mar,Ya Mar,0,Met Philadelphia,Philadelphia,PA,USA,","
-2019-12-03,2019,0,11,4,1,0,0,5,2019 Fall Tour,2019 Fall,Drift While You're Sleeping,Drift While You're Sleeping,0,Met Philadelphia,Philadelphia,PA,USA,
+2019-12-03,2019,0,9,3,1,0,0,0,2019 Fall Tour,2019 Fall,Tweezer,,1,Met Philadelphia,Philadelphia,PA,USA,->
+2019-12-03,2019,0,10,1,1,0,0,8,2019 Fall Tour,2019 Fall,Ya Mar,,0,Met Philadelphia,Philadelphia,PA,USA,","
+2019-12-03,2019,0,11,4,1,0,0,5,2019 Fall Tour,2019 Fall,Drift While You're Sleeping,,0,Met Philadelphia,Philadelphia,PA,USA,
 2019-12-03,2019,0,12,2,2,0,0,4,2019 Fall Tour,2019 Fall,Chalk Dust Torture,CDT,1,Met Philadelphia,Philadelphia,PA,USA,>
-2019-12-03,2019,0,13,2,2,0,0,0,2019 Fall Tour,2019 Fall,Tweezer,Tweezer,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,13,2,2,0,0,0,2019 Fall Tour,2019 Fall,Tweezer,,1,Met Philadelphia,Philadelphia,PA,USA,>
 2019-12-03,2019,0,14,2,2,0,0,5,2019 Fall Tour,2019 Fall,Mike's Song,Mike's,1,Met Philadelphia,Philadelphia,PA,USA,>
-2019-12-03,2019,0,15,1,2,0,0,4,2019 Fall Tour,2019 Fall,Sparkle,Sparkle,1,Met Philadelphia,Philadelphia,PA,USA,","
-2019-12-03,2019,0,16,2,2,0,0,20,2019 Fall Tour,2019 Fall,Ass Handed,Ass Handed,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,15,1,2,0,0,4,2019 Fall Tour,2019 Fall,Sparkle,,1,Met Philadelphia,Philadelphia,PA,USA,","
+2019-12-03,2019,0,16,2,2,0,0,20,2019 Fall Tour,2019 Fall,Ass Handed,,1,Met Philadelphia,Philadelphia,PA,USA,>
 2019-12-03,2019,0,17,1,2,0,0,5,2019 Fall Tour,2019 Fall,Weekapaug Groove,Weekapaug,1,Met Philadelphia,Philadelphia,PA,USA,","
-2019-12-03,2019,0,18,2,2,0,0,20,2019 Fall Tour,2019 Fall,Miss You,Miss You,1,Met Philadelphia,Philadelphia,PA,USA,>
-2019-12-03,2019,0,19,2,2,0,0,20,2019 Fall Tour,2019 Fall,Waves,Waves,1,Met Philadelphia,Philadelphia,PA,USA,>
-2019-12-03,2019,0,20,2,2,0,0,7,2019 Fall Tour,2019 Fall,Twist,Twist,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,18,2,2,0,0,20,2019 Fall Tour,2019 Fall,Miss You,,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,19,2,2,0,0,20,2019 Fall Tour,2019 Fall,Waves,,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,20,2,2,0,0,7,2019 Fall Tour,2019 Fall,Twist,,1,Met Philadelphia,Philadelphia,PA,USA,>
 2019-12-03,2019,0,21,2,2,0,0,43,2019 Fall Tour,2019 Fall,A Day in the Life,ADITL,0,Met Philadelphia,Philadelphia,PA,USA,>
 2019-12-03,2019,0,22,2,2,0,0,4,2019 Fall Tour,2019 Fall,Also Sprach Zarathustra,2001,0,Met Philadelphia,Philadelphia,PA,USA,>
-2019-12-03,2019,0,23,5,2,0,0,7,2019 Fall Tour,2019 Fall,More,More,1,Met Philadelphia,Philadelphia,PA,USA,
-2019-12-03,2019,0,24,2,e,0,0,4,2019 Fall Tour,2019 Fall,Waste,Waste,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,23,5,2,0,0,7,2019 Fall Tour,2019 Fall,More,,1,Met Philadelphia,Philadelphia,PA,USA,
+2019-12-03,2019,0,24,2,e,0,0,4,2019 Fall Tour,2019 Fall,Waste,,1,Met Philadelphia,Philadelphia,PA,USA,>
 2019-12-03,2019,0,25,6,e,0,0,4,2019 Fall Tour,2019 Fall,Tweezer Reprise,Tweeprise,1,Met Philadelphia,Philadelphia,PA,USA,
-2019-12-04,2019,0,1,1,1,0,0,7,2019 Fall Tour,2019 Fall,555,555,1,Petersen Events Center,Pittsburgh,PA,USA,","
+2019-12-04,2019,0,1,1,1,0,0,7,2019 Fall Tour,2019 Fall,555,,1,Petersen Events Center,Pittsburgh,PA,USA,","
 2019-12-04,2019,0,2,2,1,0,0,9,2019 Fall Tour,2019 Fall,AC/DC Bag,Bag,1,Petersen Events Center,Pittsburgh,PA,USA,>
 2019-12-04,2019,0,3,1,1,0,0,88,2019 Fall Tour,2019 Fall,Cars Trucks Buses,CTB,1,Petersen Events Center,Pittsburgh,PA,USA,","
-2019-12-04,2019,0,4,2,1,0,0,21,2019 Fall Tour,2019 Fall,Water in the Sky,Water in the Sky,1,Petersen Events Center,Pittsburgh,PA,USA,>
+2019-12-04,2019,0,4,2,1,0,0,21,2019 Fall Tour,2019 Fall,Water in the Sky,,1,Petersen Events Center,Pittsburgh,PA,USA,>
 2019-12-04,2019,0,5,1,1,0,0,12,2019 Fall Tour,2019 Fall,Sample in a Jar,Sample,1,Petersen Events Center,Pittsburgh,PA,USA,","
 2019-12-04,2019,0,6,2,1,0,0,10,2019 Fall Tour,2019 Fall,Theme From the Bottom,Theme,1,Petersen Events Center,Pittsburgh,PA,USA,>
-2019-12-04,2019,0,7,1,1,0,0,6,2019 Fall Tour,2019 Fall,Funky Bitch,Funky Bitch,0,Petersen Events Center,Pittsburgh,PA,USA,","
+2019-12-04,2019,0,7,1,1,0,0,6,2019 Fall Tour,2019 Fall,Funky Bitch,,0,Petersen Events Center,Pittsburgh,PA,USA,","
 2019-12-04,2019,0,8,1,1,0,0,5,2019 Fall Tour,2019 Fall,Wolfman's Brother,Wolfman's,1,Petersen Events Center,Pittsburgh,PA,USA,","
 2019-12-04,2019,0,9,2,1,0,0,9,2019 Fall Tour,2019 Fall,Halley's Comet,Halley's,1,Petersen Events Center,Pittsburgh,PA,USA,>
 2019-12-04,2019,0,10,1,1,0,0,46,2019 Fall Tour,2019 Fall,When the Circus Comes,Circus,0,Petersen Events Center,Pittsburgh,PA,USA,","
-2019-12-04,2019,0,11,2,1,0,0,1852,2019 Fall Tour,2019 Fall,Victim,Victim,0,Petersen Events Center,Pittsburgh,PA,USA,>
+2019-12-04,2019,0,11,2,1,0,0,1852,2019 Fall Tour,2019 Fall,Victim,,0,Petersen Events Center,Pittsburgh,PA,USA,>
 2019-12-04,2019,0,12,4,1,0,0,15,2019 Fall Tour,2019 Fall,Run Like an Antelope,Antelope,1,Petersen Events Center,Pittsburgh,PA,USA,
-2019-12-04,2019,0,13,2,2,0,0,5,2019 Fall Tour,2019 Fall,Cavern,Cavern,1,Petersen Events Center,Pittsburgh,PA,USA,>
-2019-12-04,2019,0,14,2,2,0,0,9,2019 Fall Tour,2019 Fall,Runaway Jim,Runaway Jim,1,Petersen Events Center,Pittsburgh,PA,USA,>
-2019-12-04,2019,0,15,2,2,0,0,1852,2019 Fall Tour,2019 Fall,Ghosts of the Forest,Ghosts of the Forest,0,Petersen Events Center,Pittsburgh,PA,USA,>
+2019-12-04,2019,0,13,2,2,0,0,5,2019 Fall Tour,2019 Fall,Cavern,,1,Petersen Events Center,Pittsburgh,PA,USA,>
+2019-12-04,2019,0,14,2,2,0,0,9,2019 Fall Tour,2019 Fall,Runaway Jim,,1,Petersen Events Center,Pittsburgh,PA,USA,>
+2019-12-04,2019,0,15,2,2,0,0,1852,2019 Fall Tour,2019 Fall,Ghosts of the Forest,,0,Petersen Events Center,Pittsburgh,PA,USA,>
 2019-12-04,2019,0,16,2,2,0,0,9,2019 Fall Tour,2019 Fall,A Song I Heard the Ocean Sing,ASIHTOS,1,Petersen Events Center,Pittsburgh,PA,USA,>
 2019-12-04,2019,0,17,2,2,0,0,10,2019 Fall Tour,2019 Fall,Prince Caspian,Caspian,1,Petersen Events Center,Pittsburgh,PA,USA,>
-2019-12-04,2019,0,18,2,2,0,0,5,2019 Fall Tour,2019 Fall,Fuego,Fuego,1,Petersen Events Center,Pittsburgh,PA,USA,>
+2019-12-04,2019,0,18,2,2,0,0,5,2019 Fall Tour,2019 Fall,Fuego,,1,Petersen Events Center,Pittsburgh,PA,USA,>
 2019-12-04,2019,0,19,1,2,0,0,8,2019 Fall Tour,2019 Fall,You Enjoy Myself,YEM,1,Petersen Events Center,Pittsburgh,PA,USA,","
 2019-12-04,2019,0,20,5,2,0,0,8,2019 Fall Tour,2019 Fall,Good Times Bad Times,GTBT,0,Petersen Events Center,Pittsburgh,PA,USA,
 2019-12-04,2019,0,21,2,e,0,0,39,2019 Fall Tour,2019 Fall,Hold Your Head Up,HYHU,0,Petersen Events Center,Pittsburgh,PA,USA,>
-2019-12-04,2019,0,22,2,e,0,0,436,2019 Fall Tour,2019 Fall,Terrapin,Terrapin,0,Petersen Events Center,Pittsburgh,PA,USA,>
+2019-12-04,2019,0,22,2,e,0,0,436,2019 Fall Tour,2019 Fall,Terrapin,,0,Petersen Events Center,Pittsburgh,PA,USA,>
 2019-12-04,2019,0,23,1,e,0,0,0,2019 Fall Tour,2019 Fall,Hold Your Head Up,HYHU,0,Petersen Events Center,Pittsburgh,PA,USA,","
-2019-12-04,2019,0,24,6,e,0,0,17,2019 Fall Tour,2019 Fall,Julius,Julius,1,Petersen Events Center,Pittsburgh,PA,USA,
-2019-12-06,2019,0,1,1,1,0,0,103,2019 Fall Tour,2019 Fall,Carolina,Carolina,0,North Charleston Coliseum,North Charleston,SC,USA,","
-2019-12-06,2019,0,2,1,1,0,0,8,2019 Fall Tour,2019 Fall,Party Time,Party Time,1,North Charleston Coliseum,North Charleston,SC,USA,","
-2019-12-06,2019,0,3,2,1,0,0,20,2019 Fall Tour,2019 Fall,Strawberry Letter 23,Strawberry Letter 23,0,North Charleston Coliseum,North Charleston,SC,USA,>
-2019-12-06,2019,0,4,1,1,0,0,8,2019 Fall Tour,2019 Fall,Undermind,Undermind,0,North Charleston Coliseum,North Charleston,SC,USA,","
-2019-12-06,2019,0,5,2,1,0,0,41,2019 Fall Tour,2019 Fall,I Been Around,I Been Around,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2019-12-04,2019,0,24,6,e,0,0,17,2019 Fall Tour,2019 Fall,Julius,,1,Petersen Events Center,Pittsburgh,PA,USA,
+2019-12-06,2019,0,1,1,1,0,0,103,2019 Fall Tour,2019 Fall,Carolina,,0,North Charleston Coliseum,North Charleston,SC,USA,","
+2019-12-06,2019,0,2,1,1,0,0,8,2019 Fall Tour,2019 Fall,Party Time,,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2019-12-06,2019,0,3,2,1,0,0,20,2019 Fall Tour,2019 Fall,Strawberry Letter 23,,0,North Charleston Coliseum,North Charleston,SC,USA,>
+2019-12-06,2019,0,4,1,1,0,0,8,2019 Fall Tour,2019 Fall,Undermind,,0,North Charleston Coliseum,North Charleston,SC,USA,","
+2019-12-06,2019,0,5,2,1,0,0,41,2019 Fall Tour,2019 Fall,I Been Around,,1,North Charleston Coliseum,North Charleston,SC,USA,>
 2019-12-06,2019,0,6,1,1,0,0,19,2019 Fall Tour,2019 Fall,Divided Sky,Divided,1,North Charleston Coliseum,North Charleston,SC,USA,","
 2019-12-06,2019,0,7,1,1,0,0,10,2019 Fall Tour,2019 Fall,The Sloth,Sloth,1,North Charleston Coliseum,North Charleston,SC,USA,","
 2019-12-06,2019,0,8,2,1,0,0,32,2019 Fall Tour,2019 Fall,Destiny Unbound,Destiny,1,North Charleston Coliseum,North Charleston,SC,USA,>
 2019-12-06,2019,0,9,2,1,0,0,6,2019 Fall Tour,2019 Fall,We Are Come to Outlive Our Brains,WACTOOB,1,North Charleston Coliseum,North Charleston,SC,USA,>
 2019-12-06,2019,0,10,2,1,0,0,6,2019 Fall Tour,2019 Fall,"My Friend, My Friend",My Friend,1,North Charleston Coliseum,North Charleston,SC,USA,>
-2019-12-06,2019,0,11,1,1,0,0,9,2019 Fall Tour,2019 Fall,About to Run,About to Run,0,North Charleston Coliseum,North Charleston,SC,USA,","
+2019-12-06,2019,0,11,1,1,0,0,9,2019 Fall Tour,2019 Fall,About to Run,,0,North Charleston Coliseum,North Charleston,SC,USA,","
 2019-12-06,2019,0,12,2,1,0,0,6,2019 Fall Tour,2019 Fall,The Horse,Horse,1,North Charleston Coliseum,North Charleston,SC,USA,>
 2019-12-06,2019,0,13,2,1,0,0,6,2019 Fall Tour,2019 Fall,Silent in the Morning,Silent,1,North Charleston Coliseum,North Charleston,SC,USA,>
 2019-12-06,2019,0,14,4,1,0,0,12,2019 Fall Tour,2019 Fall,David Bowie,Bowie,1,North Charleston Coliseum,North Charleston,SC,USA,
-2019-12-06,2019,0,15,2,2,0,0,15,2019 Fall Tour,2019 Fall,Axilla,Axilla,1,North Charleston Coliseum,North Charleston,SC,USA,>
-2019-12-06,2019,0,16,2,2,0,0,17,2019 Fall Tour,2019 Fall,Scents and Subtle Sounds,Scents and Subtle Sounds,1,North Charleston Coliseum,North Charleston,SC,USA,>
-2019-12-06,2019,0,17,2,2,0,0,37,2019 Fall Tour,2019 Fall,No Quarter,No Quarter,0,North Charleston Coliseum,North Charleston,SC,USA,>
-2019-12-06,2019,0,18,2,2,0,0,26,2019 Fall Tour,2019 Fall,Your Pet Cat,Your Pet Cat,1,North Charleston Coliseum,North Charleston,SC,USA,>
-2019-12-06,2019,0,19,2,2,0,0,8,2019 Fall Tour,2019 Fall,Mercury,Mercury,1,North Charleston Coliseum,North Charleston,SC,USA,>
-2019-12-06,2019,0,20,2,2,0,0,12,2019 Fall Tour,2019 Fall,Saw It Again,Saw It Again,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2019-12-06,2019,0,15,2,2,0,0,15,2019 Fall Tour,2019 Fall,Axilla,,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2019-12-06,2019,0,16,2,2,0,0,17,2019 Fall Tour,2019 Fall,Scents and Subtle Sounds,,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2019-12-06,2019,0,17,2,2,0,0,37,2019 Fall Tour,2019 Fall,No Quarter,,0,North Charleston Coliseum,North Charleston,SC,USA,>
+2019-12-06,2019,0,18,2,2,0,0,26,2019 Fall Tour,2019 Fall,Your Pet Cat,,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2019-12-06,2019,0,19,2,2,0,0,8,2019 Fall Tour,2019 Fall,Mercury,,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2019-12-06,2019,0,20,2,2,0,0,12,2019 Fall Tour,2019 Fall,Saw It Again,,1,North Charleston Coliseum,North Charleston,SC,USA,>
 2019-12-06,2019,0,21,2,2,0,0,12,2019 Fall Tour,2019 Fall,Limb By Limb,LxL,1,North Charleston Coliseum,North Charleston,SC,USA,>
 2019-12-06,2019,0,22,1,2,0,0,21,2019 Fall Tour,2019 Fall,The Lizards,Lizards,1,North Charleston Coliseum,North Charleston,SC,USA,","
 2019-12-06,2019,0,23,5,2,0,0,14,2019 Fall Tour,2019 Fall,Suzy Greenberg,Suzy,1,North Charleston Coliseum,North Charleston,SC,USA,
-2019-12-06,2019,0,24,2,e,0,0,134,2019 Fall Tour,2019 Fall,Bittersweet Motel,Bittersweet Motel,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2019-12-06,2019,0,24,2,e,0,0,134,2019 Fall Tour,2019 Fall,Bittersweet Motel,,1,North Charleston Coliseum,North Charleston,SC,USA,>
 2019-12-06,2019,0,25,2,e,0,0,9,2019 Fall Tour,2019 Fall,Death Don't Hurt Very Long,DDHVL,1,North Charleston Coliseum,North Charleston,SC,USA,>
-2019-12-06,2019,0,26,6,e,0,0,22,2019 Fall Tour,2019 Fall,Loving Cup,Loving Cup,0,North Charleston Coliseum,North Charleston,SC,USA,
-2019-12-07,2019,0,1,2,1,2,0,17,2019 Fall Tour,2019 Fall,Fluffhead,Fluffhead,1,North Charleston Coliseum,North Charleston,SC,USA,>
-2019-12-07,2019,0,2,1,1,2,0,16,2019 Fall Tour,2019 Fall,Ocelot,Ocelot,1,North Charleston Coliseum,North Charleston,SC,USA,","
-2019-12-07,2019,0,3,2,1,2,0,32,2019 Fall Tour,2019 Fall,Nellie Kane,Nellie Kane,0,North Charleston Coliseum,North Charleston,SC,USA,>
-2019-12-07,2019,0,4,2,1,2,0,23,2019 Fall Tour,2019 Fall,The Dogs,The Dogs,1,North Charleston Coliseum,North Charleston,SC,USA,>
-2019-12-07,2019,0,5,1,1,2,0,15,2019 Fall Tour,2019 Fall,Reba,Reba,1,North Charleston Coliseum,North Charleston,SC,USA,","
-2019-12-07,2019,0,6,2,1,2,0,16,2019 Fall Tour,2019 Fall,Halfway to the Moon,Halfway to the Moon,1,North Charleston Coliseum,North Charleston,SC,USA,>
-2019-12-07,2019,0,7,2,1,2,0,9,2019 Fall Tour,2019 Fall,Train Song,Train Song,1,North Charleston Coliseum,North Charleston,SC,USA,>
-2019-12-07,2019,0,8,1,1,2,0,17,2019 Fall Tour,2019 Fall,Guyute,Guyute,1,North Charleston Coliseum,North Charleston,SC,USA,","
-2019-12-07,2019,0,9,1,1,2,0,10,2019 Fall Tour,2019 Fall,Strange Design,Strange Design,1,North Charleston Coliseum,North Charleston,SC,USA,","
-2019-12-07,2019,0,10,4,1,2,0,46,2019 Fall Tour,2019 Fall,Moonage Daydream,Moonage Daydream,0,North Charleston Coliseum,North Charleston,SC,USA,
-2019-12-07,2019,0,11,1,2,2,0,171,2019 Fall Tour,2019 Fall,The Connection,The Connection,1,North Charleston Coliseum,North Charleston,SC,USA,","
-2019-12-07,2019,0,12,2,2,2,0,19,2019 Fall Tour,2019 Fall,Mr. Completely,Mr. Completely,0,North Charleston Coliseum,North Charleston,SC,USA,>
+2019-12-06,2019,0,26,6,e,0,0,22,2019 Fall Tour,2019 Fall,Loving Cup,,0,North Charleston Coliseum,North Charleston,SC,USA,
+2019-12-07,2019,0,1,2,1,2,0,17,2019 Fall Tour,2019 Fall,Fluffhead,,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2019-12-07,2019,0,2,1,1,2,0,16,2019 Fall Tour,2019 Fall,Ocelot,,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2019-12-07,2019,0,3,2,1,2,0,32,2019 Fall Tour,2019 Fall,Nellie Kane,,0,North Charleston Coliseum,North Charleston,SC,USA,>
+2019-12-07,2019,0,4,2,1,2,0,23,2019 Fall Tour,2019 Fall,The Dogs,,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2019-12-07,2019,0,5,1,1,2,0,15,2019 Fall Tour,2019 Fall,Reba,,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2019-12-07,2019,0,6,2,1,2,0,16,2019 Fall Tour,2019 Fall,Halfway to the Moon,,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2019-12-07,2019,0,7,2,1,2,0,9,2019 Fall Tour,2019 Fall,Train Song,,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2019-12-07,2019,0,8,1,1,2,0,17,2019 Fall Tour,2019 Fall,Guyute,,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2019-12-07,2019,0,9,1,1,2,0,10,2019 Fall Tour,2019 Fall,Strange Design,,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2019-12-07,2019,0,10,4,1,2,0,46,2019 Fall Tour,2019 Fall,Moonage Daydream,,0,North Charleston Coliseum,North Charleston,SC,USA,
+2019-12-07,2019,0,11,1,2,2,0,171,2019 Fall Tour,2019 Fall,The Connection,,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2019-12-07,2019,0,12,2,2,2,0,19,2019 Fall Tour,2019 Fall,Mr. Completely,,0,North Charleston Coliseum,North Charleston,SC,USA,>
 2019-12-07,2019,0,13,2,2,2,0,24,2019 Fall Tour,2019 Fall,Crosseyed and Painless,C&amp;P,0,North Charleston Coliseum,North Charleston,SC,USA,>
-2019-12-07,2019,0,14,1,2,2,0,17,2019 Fall Tour,2019 Fall,Dirt,Dirt,0,North Charleston Coliseum,North Charleston,SC,USA,","
-2019-12-07,2019,0,15,2,2,2,0,18,2019 Fall Tour,2019 Fall,Cool Amber and Mercury,Cool Amber and Mercury,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2019-12-07,2019,0,14,1,2,2,0,17,2019 Fall Tour,2019 Fall,Dirt,,0,North Charleston Coliseum,North Charleston,SC,USA,","
+2019-12-07,2019,0,15,2,2,2,0,18,2019 Fall Tour,2019 Fall,Cool Amber and Mercury,,1,North Charleston Coliseum,North Charleston,SC,USA,>
 2019-12-07,2019,0,16,3,2,2,0,15,2019 Fall Tour,2019 Fall,Split Open and Melt,SOAMelt,1,North Charleston Coliseum,North Charleston,SC,USA,->
 2019-12-07,2019,0,17,3,2,2,0,0,2019 Fall Tour,2019 Fall,Crosseyed and Painless,C&amp;P,0,North Charleston Coliseum,North Charleston,SC,USA,->
 2019-12-07,2019,0,18,1,2,2,0,0,2019 Fall Tour,2019 Fall,Split Open and Melt,SOAMelt,1,North Charleston Coliseum,North Charleston,SC,USA,","
-2019-12-07,2019,0,19,2,2,2,0,7,2019 Fall Tour,2019 Fall,A Life Beyond The Dream,A Life Beyond The Dream,0,North Charleston Coliseum,North Charleston,SC,USA,>
-2019-12-07,2019,0,20,2,2,2,0,15,2019 Fall Tour,2019 Fall,Wilson,Wilson,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2019-12-07,2019,0,19,2,2,2,0,7,2019 Fall Tour,2019 Fall,A Life Beyond The Dream,,0,North Charleston Coliseum,North Charleston,SC,USA,>
+2019-12-07,2019,0,20,2,2,2,0,15,2019 Fall Tour,2019 Fall,Wilson,,1,North Charleston Coliseum,North Charleston,SC,USA,>
 2019-12-07,2019,0,21,5,2,2,0,12,2019 Fall Tour,2019 Fall,The Squirming Coil,Coil,1,North Charleston Coliseum,North Charleston,SC,USA,
-2019-12-07,2019,0,22,1,e,2,0,12,2019 Fall Tour,2019 Fall,Grind,Grind,1,North Charleston Coliseum,North Charleston,SC,USA,","
-2019-12-07,2019,0,23,6,e,2,0,84,2019 Fall Tour,2019 Fall,Frankenstein,Frankenstein,0,North Charleston Coliseum,North Charleston,SC,USA,
-2019-12-08,2019,0,1,1,1,0,0,1859,2019 Fall Tour,2019 Fall,Sigma Oasis,Sigma Oasis,0,North Charleston Coliseum,North Charleston,SC,USA,","
-2019-12-08,2019,0,2,2,1,0,0,14,2019 Fall Tour,2019 Fall,Buried Alive,Buried Alive,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2019-12-07,2019,0,22,1,e,2,0,12,2019 Fall Tour,2019 Fall,Grind,,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2019-12-07,2019,0,23,6,e,2,0,84,2019 Fall Tour,2019 Fall,Frankenstein,,0,North Charleston Coliseum,North Charleston,SC,USA,
+2019-12-08,2019,0,1,1,1,0,0,1859,2019 Fall Tour,2019 Fall,Sigma Oasis,,0,North Charleston Coliseum,North Charleston,SC,USA,","
+2019-12-08,2019,0,2,2,1,0,0,14,2019 Fall Tour,2019 Fall,Buried Alive,,1,North Charleston Coliseum,North Charleston,SC,USA,>
 2019-12-08,2019,0,3,1,1,0,0,21,2019 Fall Tour,2019 Fall,Guelah Papyrus,Guelah,1,North Charleston Coliseum,North Charleston,SC,USA,","
 2019-12-08,2019,0,4,2,1,0,0,26,2019 Fall Tour,2019 Fall,My Sweet One,MSO,1,North Charleston Coliseum,North Charleston,SC,USA,>
-2019-12-08,2019,0,5,1,1,0,0,28,2019 Fall Tour,2019 Fall,Everything is Hollow,Everything is Hollow,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2019-12-08,2019,0,5,1,1,0,0,28,2019 Fall Tour,2019 Fall,Everything is Hollow,,1,North Charleston Coliseum,North Charleston,SC,USA,","
 2019-12-08,2019,0,6,2,1,0,0,270,2019 Fall Tour,2019 Fall,The Curtain,Curtain,1,North Charleston Coliseum,North Charleston,SC,USA,>
-2019-12-08,2019,0,7,1,1,0,0,16,2019 Fall Tour,2019 Fall,Mound,Mound,1,North Charleston Coliseum,North Charleston,SC,USA,","
-2019-12-08,2019,0,8,1,1,0,0,9,2019 Fall Tour,2019 Fall,Brian and Robert,Brian and Robert,1,North Charleston Coliseum,North Charleston,SC,USA,","
-2019-12-08,2019,0,9,2,1,0,0,8,2019 Fall Tour,2019 Fall,Crazy Sometimes,Crazy Sometimes,0,North Charleston Coliseum,North Charleston,SC,USA,>
-2019-12-08,2019,0,10,1,1,0,0,12,2019 Fall Tour,2019 Fall,Frost,Frost,0,North Charleston Coliseum,North Charleston,SC,USA,","
-2019-12-08,2019,0,11,2,1,0,0,59,2019 Fall Tour,2019 Fall,Breath and Burning,Breath and Burning,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2019-12-08,2019,0,7,1,1,0,0,16,2019 Fall Tour,2019 Fall,Mound,,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2019-12-08,2019,0,8,1,1,0,0,9,2019 Fall Tour,2019 Fall,Brian and Robert,,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2019-12-08,2019,0,9,2,1,0,0,8,2019 Fall Tour,2019 Fall,Crazy Sometimes,,0,North Charleston Coliseum,North Charleston,SC,USA,>
+2019-12-08,2019,0,10,1,1,0,0,12,2019 Fall Tour,2019 Fall,Frost,,0,North Charleston Coliseum,North Charleston,SC,USA,","
+2019-12-08,2019,0,11,2,1,0,0,59,2019 Fall Tour,2019 Fall,Breath and Burning,,1,North Charleston Coliseum,North Charleston,SC,USA,>
 2019-12-08,2019,0,12,2,1,0,0,38,2019 Fall Tour,2019 Fall,Alumni Blues,Alumni,1,North Charleston Coliseum,North Charleston,SC,USA,>
 2019-12-08,2019,0,13,2,1,0,0,38,2019 Fall Tour,2019 Fall,Letter to Jimmy Page,LTJP,1,North Charleston Coliseum,North Charleston,SC,USA,>
 2019-12-08,2019,0,14,2,1,0,0,0,2019 Fall Tour,2019 Fall,Alumni Blues,Alumni,1,North Charleston Coliseum,North Charleston,SC,USA,>
-2019-12-08,2019,0,15,2,1,0,0,25,2019 Fall Tour,2019 Fall,It's Ice,It's Ice,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2019-12-08,2019,0,15,2,1,0,0,25,2019 Fall Tour,2019 Fall,It's Ice,,1,North Charleston Coliseum,North Charleston,SC,USA,>
 2019-12-08,2019,0,16,4,1,0,0,19,2019 Fall Tour,2019 Fall,Walls of the Cave,WotC,1,North Charleston Coliseum,North Charleston,SC,USA,
-2019-12-08,2019,0,17,1,2,0,0,153,2019 Fall Tour,2019 Fall,After Midnight,After Midnight,0,North Charleston Coliseum,North Charleston,SC,USA,","
+2019-12-08,2019,0,17,1,2,0,0,153,2019 Fall Tour,2019 Fall,After Midnight,,0,North Charleston Coliseum,North Charleston,SC,USA,","
 2019-12-08,2019,0,18,2,2,0,0,8,2019 Fall Tour,2019 Fall,Stealing Time From the Faulty Plan,STFTFP,1,North Charleston Coliseum,North Charleston,SC,USA,>
-2019-12-08,2019,0,19,3,2,0,0,15,2019 Fall Tour,2019 Fall,Energy,Energy,0,North Charleston Coliseum,North Charleston,SC,USA,->
-2019-12-08,2019,0,20,2,2,0,0,15,2019 Fall Tour,2019 Fall,Soul Planet,Soul Planet,0,North Charleston Coliseum,North Charleston,SC,USA,>
-2019-12-08,2019,0,21,2,2,0,0,10,2019 Fall Tour,2019 Fall,Wingsuit,Wingsuit,1,North Charleston Coliseum,North Charleston,SC,USA,>
-2019-12-08,2019,0,22,1,2,0,0,14,2019 Fall Tour,2019 Fall,I Always Wanted It This Way,I Always Wanted It This Way,1,North Charleston Coliseum,North Charleston,SC,USA,","
-2019-12-08,2019,0,23,2,2,0,0,15,2019 Fall Tour,2019 Fall,Petrichor,Petrichor,0,North Charleston Coliseum,North Charleston,SC,USA,>
+2019-12-08,2019,0,19,3,2,0,0,15,2019 Fall Tour,2019 Fall,Energy,,0,North Charleston Coliseum,North Charleston,SC,USA,->
+2019-12-08,2019,0,20,2,2,0,0,15,2019 Fall Tour,2019 Fall,Soul Planet,,0,North Charleston Coliseum,North Charleston,SC,USA,>
+2019-12-08,2019,0,21,2,2,0,0,10,2019 Fall Tour,2019 Fall,Wingsuit,,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2019-12-08,2019,0,22,1,2,0,0,14,2019 Fall Tour,2019 Fall,I Always Wanted It This Way,,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2019-12-08,2019,0,23,2,2,0,0,15,2019 Fall Tour,2019 Fall,Petrichor,,0,North Charleston Coliseum,North Charleston,SC,USA,>
 2019-12-08,2019,0,24,2,2,0,0,48,2019 Fall Tour,2019 Fall,Boogie On Reggae Woman,Boogie On,0,North Charleston Coliseum,North Charleston,SC,USA,>
-2019-12-08,2019,0,25,5,2,0,0,16,2019 Fall Tour,2019 Fall,Rise/Come Together,Rise/Come Together,0,North Charleston Coliseum,North Charleston,SC,USA,
-2019-12-08,2019,0,26,1,e,0,0,11,2019 Fall Tour,2019 Fall,Pebbles and Marbles,Pebbles and Marbles,0,North Charleston Coliseum,North Charleston,SC,USA,","
-2019-12-08,2019,0,27,1,e,0,0,15,2019 Fall Tour,2019 Fall,Beneath a Sea of Stars Part 1,Beneath a Sea of Stars Part 1,0,North Charleston Coliseum,North Charleston,SC,USA,","
-2019-12-08,2019,0,28,1,e,0,0,83,2019 Fall Tour,2019 Fall,Izabella,Izabella,0,North Charleston Coliseum,North Charleston,SC,USA,","
-2019-12-08,2019,0,29,6,e,0,0,524,2019 Fall Tour,2019 Fall,Chalk Dust Torture Reprise,Chalk Dust Torture Reprise,1,North Charleston Coliseum,North Charleston,SC,USA,
-2019-12-28,2019,0,1,1,1,0,0,1856,2019 NYE Run,2019 NYE,Evening Song,Evening Song,1,Madison Square Garden,New York,NY,USA,","
+2019-12-08,2019,0,25,5,2,0,0,16,2019 Fall Tour,2019 Fall,Rise/Come Together,,0,North Charleston Coliseum,North Charleston,SC,USA,
+2019-12-08,2019,0,26,1,e,0,0,11,2019 Fall Tour,2019 Fall,Pebbles and Marbles,,0,North Charleston Coliseum,North Charleston,SC,USA,","
+2019-12-08,2019,0,27,1,e,0,0,15,2019 Fall Tour,2019 Fall,Beneath a Sea of Stars Part 1,,0,North Charleston Coliseum,North Charleston,SC,USA,","
+2019-12-08,2019,0,28,1,e,0,0,83,2019 Fall Tour,2019 Fall,Izabella,,0,North Charleston Coliseum,North Charleston,SC,USA,","
+2019-12-08,2019,0,29,6,e,0,0,524,2019 Fall Tour,2019 Fall,Chalk Dust Torture Reprise,,1,North Charleston Coliseum,North Charleston,SC,USA,
+2019-12-28,2019,0,1,1,1,0,0,1856,2019 NYE Run,2019 NYE,Evening Song,,1,Madison Square Garden,New York,NY,USA,","
 2019-12-28,2019,0,2,1,1,0,0,8,2019 NYE Run,2019 NYE,No Men In No Man's Land,NMINML,1,Madison Square Garden,New York,NY,USA,","
 2019-12-28,2019,0,3,1,1,0,0,6,2019 NYE Run,2019 NYE,Down with Disease,DwD,1,Madison Square Garden,New York,NY,USA,","
-2019-12-28,2019,0,4,1,1,0,0,1856,2019 NYE Run,2019 NYE,20-20 Vision,20-20 Vision,0,Madison Square Garden,New York,NY,USA,","
-2019-12-28,2019,0,5,1,1,0,0,6,2019 NYE Run,2019 NYE,Ghost,Ghost,1,Madison Square Garden,New York,NY,USA,","
-2019-12-28,2019,0,6,2,1,0,0,8,2019 NYE Run,2019 NYE,Gumbo,Gumbo,1,Madison Square Garden,New York,NY,USA,>
-2019-12-28,2019,0,7,1,1,0,0,6,2019 NYE Run,2019 NYE,Rift,Rift,1,Madison Square Garden,New York,NY,USA,","
-2019-12-28,2019,0,8,2,1,0,0,43,2019 NYE Run,2019 NYE,Weigh,Weigh,1,Madison Square Garden,New York,NY,USA,>
-2019-12-28,2019,0,9,1,1,0,0,114,2019 NYE Run,2019 NYE,Dog Faced Boy,Dog Faced Boy,1,Madison Square Garden,New York,NY,USA,","
-2019-12-28,2019,0,10,2,1,0,0,6,2019 NYE Run,2019 NYE,Twenty Years Later,Twenty Years Later,1,Madison Square Garden,New York,NY,USA,>
-2019-12-28,2019,0,11,2,1,0,0,6,2019 NYE Run,2019 NYE,Tube,Tube,1,Madison Square Garden,New York,NY,USA,>
-2019-12-28,2019,0,12,4,1,0,0,6,2019 NYE Run,2019 NYE,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Madison Square Garden,New York,NY,USA,
-2019-12-28,2019,0,13,2,2,0,0,6,2019 NYE Run,2019 NYE,Everything's Right,Everything's Right,0,Madison Square Garden,New York,NY,USA,>
-2019-12-28,2019,0,14,2,2,0,0,1,2019 NYE Run,2019 NYE,Beneath a Sea of Stars Part 1,Beneath a Sea of Stars Part 1,0,Madison Square Garden,New York,NY,USA,>
-2019-12-28,2019,0,15,3,2,0,0,8,2019 NYE Run,2019 NYE,Set Your Soul Free,Set Your Soul Free,0,Madison Square Garden,New York,NY,USA,->
+2019-12-28,2019,0,4,1,1,0,0,1856,2019 NYE Run,2019 NYE,20-20 Vision,,0,Madison Square Garden,New York,NY,USA,","
+2019-12-28,2019,0,5,1,1,0,0,6,2019 NYE Run,2019 NYE,Ghost,,1,Madison Square Garden,New York,NY,USA,","
+2019-12-28,2019,0,6,2,1,0,0,8,2019 NYE Run,2019 NYE,Gumbo,,1,Madison Square Garden,New York,NY,USA,>
+2019-12-28,2019,0,7,1,1,0,0,6,2019 NYE Run,2019 NYE,Rift,,1,Madison Square Garden,New York,NY,USA,","
+2019-12-28,2019,0,8,2,1,0,0,43,2019 NYE Run,2019 NYE,Weigh,,1,Madison Square Garden,New York,NY,USA,>
+2019-12-28,2019,0,9,1,1,0,0,114,2019 NYE Run,2019 NYE,Dog Faced Boy,,1,Madison Square Garden,New York,NY,USA,","
+2019-12-28,2019,0,10,2,1,0,0,6,2019 NYE Run,2019 NYE,Twenty Years Later,,1,Madison Square Garden,New York,NY,USA,>
+2019-12-28,2019,0,11,2,1,0,0,6,2019 NYE Run,2019 NYE,Tube,,1,Madison Square Garden,New York,NY,USA,>
+2019-12-28,2019,0,12,4,1,0,0,6,2019 NYE Run,2019 NYE,Say It To Me S.A.N.T.O.S.,,1,Madison Square Garden,New York,NY,USA,
+2019-12-28,2019,0,13,2,2,0,0,6,2019 NYE Run,2019 NYE,Everything's Right,,0,Madison Square Garden,New York,NY,USA,>
+2019-12-28,2019,0,14,2,2,0,0,1,2019 NYE Run,2019 NYE,Beneath a Sea of Stars Part 1,,0,Madison Square Garden,New York,NY,USA,>
+2019-12-28,2019,0,15,3,2,0,0,8,2019 NYE Run,2019 NYE,Set Your Soul Free,,0,Madison Square Garden,New York,NY,USA,->
 2019-12-28,2019,0,16,2,2,0,0,7,2019 NYE Run,2019 NYE,Gotta Jibboo,Jibboo,0,Madison Square Garden,New York,NY,USA,>
-2019-12-28,2019,0,17,2,2,0,0,5,2019 NYE Run,2019 NYE,Free,Free,1,Madison Square Garden,New York,NY,USA,>
-2019-12-28,2019,0,18,1,2,0,0,7,2019 NYE Run,2019 NYE,Piper,Piper,1,Madison Square Garden,New York,NY,USA,","
-2019-12-28,2019,0,19,2,2,0,0,61,2019 NYE Run,2019 NYE,Drowned,Drowned,0,Madison Square Garden,New York,NY,USA,>
-2019-12-28,2019,0,20,2,2,0,0,5,2019 NYE Run,2019 NYE,Ass Handed,Ass Handed,1,Madison Square Garden,New York,NY,USA,>
-2019-12-28,2019,0,21,2,2,0,0,1,2019 NYE Run,2019 NYE,Chalk Dust Torture Reprise,Chalk Dust Torture Reprise,1,Madison Square Garden,New York,NY,USA,>
-2019-12-28,2019,0,22,5,2,0,0,6,2019 NYE Run,2019 NYE,Character Zero,Character Zero,1,Madison Square Garden,New York,NY,USA,
-2019-12-28,2019,0,23,1,e,0,0,2,2019 NYE Run,2019 NYE,A Life Beyond The Dream,A Life Beyond The Dream,0,Madison Square Garden,New York,NY,USA,","
-2019-12-28,2019,0,24,6,e,0,0,39,2019 NYE Run,2019 NYE,Rocky Top,Rocky Top,0,Madison Square Garden,New York,NY,USA,
-2019-12-29,2019,0,1,1,1,0,0,8,2019 NYE Run,2019 NYE,Turtle in the Clouds,Turtle in the Clouds,1,Madison Square Garden,New York,NY,USA,","
+2019-12-28,2019,0,17,2,2,0,0,5,2019 NYE Run,2019 NYE,Free,,1,Madison Square Garden,New York,NY,USA,>
+2019-12-28,2019,0,18,1,2,0,0,7,2019 NYE Run,2019 NYE,Piper,,1,Madison Square Garden,New York,NY,USA,","
+2019-12-28,2019,0,19,2,2,0,0,61,2019 NYE Run,2019 NYE,Drowned,,0,Madison Square Garden,New York,NY,USA,>
+2019-12-28,2019,0,20,2,2,0,0,5,2019 NYE Run,2019 NYE,Ass Handed,,1,Madison Square Garden,New York,NY,USA,>
+2019-12-28,2019,0,21,2,2,0,0,1,2019 NYE Run,2019 NYE,Chalk Dust Torture Reprise,,1,Madison Square Garden,New York,NY,USA,>
+2019-12-28,2019,0,22,5,2,0,0,6,2019 NYE Run,2019 NYE,Character Zero,,1,Madison Square Garden,New York,NY,USA,
+2019-12-28,2019,0,23,1,e,0,0,2,2019 NYE Run,2019 NYE,A Life Beyond The Dream,,0,Madison Square Garden,New York,NY,USA,","
+2019-12-28,2019,0,24,6,e,0,0,39,2019 NYE Run,2019 NYE,Rocky Top,,0,Madison Square Garden,New York,NY,USA,
+2019-12-29,2019,0,1,1,1,0,0,8,2019 NYE Run,2019 NYE,Turtle in the Clouds,,1,Madison Square Garden,New York,NY,USA,","
 2019-12-29,2019,0,2,2,1,0,0,6,2019 NYE Run,2019 NYE,The Moma Dance,Moma,1,Madison Square Garden,New York,NY,USA,>
 2019-12-29,2019,0,3,1,1,0,0,6,2019 NYE Run,2019 NYE,Kill Devil Falls,KDF,1,Madison Square Garden,New York,NY,USA,","
-2019-12-29,2019,0,4,1,1,0,0,27,2019 NYE Run,2019 NYE,Yarmouth Road,Yarmouth Road,1,Madison Square Garden,New York,NY,USA,","
+2019-12-29,2019,0,4,1,1,0,0,27,2019 NYE Run,2019 NYE,Yarmouth Road,,1,Madison Square Garden,New York,NY,USA,","
 2019-12-29,2019,0,5,1,1,0,0,7,2019 NYE Run,2019 NYE,The Wedge,Wedge,1,Madison Square Garden,New York,NY,USA,","
-2019-12-29,2019,0,6,1,1,0,0,108,2019 NYE Run,2019 NYE,Beauty of a Broken Heart,Beauty of a Broken Heart,0,Madison Square Garden,New York,NY,USA,","
-2019-12-29,2019,0,7,2,1,0,0,5,2019 NYE Run,2019 NYE,Fuego,Fuego,1,Madison Square Garden,New York,NY,USA,>
+2019-12-29,2019,0,6,1,1,0,0,108,2019 NYE Run,2019 NYE,Beauty of a Broken Heart,,0,Madison Square Garden,New York,NY,USA,","
+2019-12-29,2019,0,7,2,1,0,0,5,2019 NYE Run,2019 NYE,Fuego,,1,Madison Square Garden,New York,NY,USA,>
 2019-12-29,2019,0,8,2,1,0,0,4,2019 NYE Run,2019 NYE,"My Friend, My Friend",My Friend,1,Madison Square Garden,New York,NY,USA,>
 2019-12-29,2019,0,9,1,1,0,0,9,2019 NYE Run,2019 NYE,Birds of a Feather,BOAF,1,Madison Square Garden,New York,NY,USA,","
 2019-12-29,2019,0,10,1,1,0,0,234,2019 NYE Run,2019 NYE,While My Guitar Gently Weeps,WMGGW,0,Madison Square Garden,New York,NY,USA,","
 2019-12-29,2019,0,11,4,1,0,0,2,2019 NYE Run,2019 NYE,Walls of the Cave,WotC,1,Madison Square Garden,New York,NY,USA,
-2019-12-29,2019,0,12,2,2,0,0,7,2019 NYE Run,2019 NYE,Carini,Carini,1,Madison Square Garden,New York,NY,USA,>
+2019-12-29,2019,0,12,2,2,0,0,7,2019 NYE Run,2019 NYE,Carini,,1,Madison Square Garden,New York,NY,USA,>
 2019-12-29,2019,0,13,2,2,0,0,9,2019 NYE Run,2019 NYE,Back on the Train,BOTT,0,Madison Square Garden,New York,NY,USA,>
 2019-12-29,2019,0,14,2,2,0,0,8,2019 NYE Run,2019 NYE,Bathtub Gin,Gin,1,Madison Square Garden,New York,NY,USA,>
-2019-12-29,2019,0,15,2,2,0,0,8,2019 NYE Run,2019 NYE,Golden Age,Golden Age,0,Madison Square Garden,New York,NY,USA,>
+2019-12-29,2019,0,15,2,2,0,0,8,2019 NYE Run,2019 NYE,Golden Age,,0,Madison Square Garden,New York,NY,USA,>
 2019-12-29,2019,0,16,2,2,0,0,6,2019 NYE Run,2019 NYE,Also Sprach Zarathustra,2001,0,Madison Square Garden,New York,NY,USA,>
 2019-12-29,2019,0,17,2,2,0,0,20,2019 NYE Run,2019 NYE,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Madison Square Garden,New York,NY,USA,>
 2019-12-29,2019,0,18,1,2,0,0,6,2019 NYE Run,2019 NYE,Chalk Dust Torture,CDT,1,Madison Square Garden,New York,NY,USA,","
 2019-12-29,2019,0,19,5,2,0,0,8,2019 NYE Run,2019 NYE,Harry Hood,Hood,1,Madison Square Garden,New York,NY,USA,
-2019-12-29,2019,0,20,2,e,0,0,56,2019 NYE Run,2019 NYE,Show of Life,Show of Life,0,Madison Square Garden,New York,NY,USA,>
+2019-12-29,2019,0,20,2,e,0,0,56,2019 NYE Run,2019 NYE,Show of Life,,0,Madison Square Garden,New York,NY,USA,>
 2019-12-29,2019,0,21,6,e,0,0,5,2019 NYE Run,2019 NYE,Run Like an Antelope,Antelope,1,Madison Square Garden,New York,NY,USA,
-2019-12-30,2019,0,1,1,1,0,0,4,2019 NYE Run,2019 NYE,Wilson,Wilson,1,Madison Square Garden,New York,NY,USA,","
-2019-12-30,2019,0,2,2,1,0,0,10,2019 NYE Run,2019 NYE,The Final Hurrah,The Final Hurrah,1,Madison Square Garden,New York,NY,USA,>
-2019-12-30,2019,0,3,1,1,0,0,10,2019 NYE Run,2019 NYE,46 Days,46 Days,1,Madison Square Garden,New York,NY,USA,","
+2019-12-30,2019,0,1,1,1,0,0,4,2019 NYE Run,2019 NYE,Wilson,,1,Madison Square Garden,New York,NY,USA,","
+2019-12-30,2019,0,2,2,1,0,0,10,2019 NYE Run,2019 NYE,The Final Hurrah,,1,Madison Square Garden,New York,NY,USA,>
+2019-12-30,2019,0,3,1,1,0,0,10,2019 NYE Run,2019 NYE,46 Days,,1,Madison Square Garden,New York,NY,USA,","
 2019-12-30,2019,0,4,1,1,0,0,121,2019 NYE Run,2019 NYE,The Ballad of Curtis Loew,Curtis Loew,0,Madison Square Garden,New York,NY,USA,","
-2019-12-30,2019,0,5,1,1,0,0,7,2019 NYE Run,2019 NYE,Blaze On,Blaze On,1,Madison Square Garden,New York,NY,USA,","
-2019-12-30,2019,0,6,1,1,0,0,42,2019 NYE Run,2019 NYE,Corinna,Corinna,0,Madison Square Garden,New York,NY,USA,","
+2019-12-30,2019,0,5,1,1,0,0,7,2019 NYE Run,2019 NYE,Blaze On,,1,Madison Square Garden,New York,NY,USA,","
+2019-12-30,2019,0,6,1,1,0,0,42,2019 NYE Run,2019 NYE,Corinna,,0,Madison Square Garden,New York,NY,USA,","
 2019-12-30,2019,0,7,2,1,0,0,7,2019 NYE Run,2019 NYE,Mike's Song,Mike's,1,Madison Square Garden,New York,NY,USA,>
-2019-12-30,2019,0,8,2,1,0,0,14,2019 NYE Run,2019 NYE,Contact,Contact,1,Madison Square Garden,New York,NY,USA,>
+2019-12-30,2019,0,8,2,1,0,0,14,2019 NYE Run,2019 NYE,Contact,,1,Madison Square Garden,New York,NY,USA,>
 2019-12-30,2019,0,9,1,1,0,0,7,2019 NYE Run,2019 NYE,Weekapaug Groove,Weekapaug,1,Madison Square Garden,New York,NY,USA,","
-2019-12-30,2019,0,10,1,1,0,0,5,2019 NYE Run,2019 NYE,About to Run,About to Run,0,Madison Square Garden,New York,NY,USA,","
-2019-12-30,2019,0,11,4,1,0,0,7,2019 NYE Run,2019 NYE,More,More,1,Madison Square Garden,New York,NY,USA,
-2019-12-30,2019,0,12,1,2,0,0,7,2019 NYE Run,2019 NYE,Tweezer,Tweezer,1,Madison Square Garden,New York,NY,USA,","
-2019-12-30,2019,0,13,2,2,0,0,8,2019 NYE Run,2019 NYE,Ruby Waves,Ruby Waves,0,Madison Square Garden,New York,NY,USA,>
-2019-12-30,2019,0,14,2,2,0,0,10,2019 NYE Run,2019 NYE,Steam,Steam,1,Madison Square Garden,New York,NY,USA,>
-2019-12-30,2019,0,15,2,2,0,0,0,2019 NYE Run,2019 NYE,Tweezer,Tweezer,1,Madison Square Garden,New York,NY,USA,>
-2019-12-30,2019,0,16,2,2,0,0,0,2019 NYE Run,2019 NYE,Ruby Waves,Ruby Waves,0,Madison Square Garden,New York,NY,USA,>
+2019-12-30,2019,0,10,1,1,0,0,5,2019 NYE Run,2019 NYE,About to Run,,0,Madison Square Garden,New York,NY,USA,","
+2019-12-30,2019,0,11,4,1,0,0,7,2019 NYE Run,2019 NYE,More,,1,Madison Square Garden,New York,NY,USA,
+2019-12-30,2019,0,12,1,2,0,0,7,2019 NYE Run,2019 NYE,Tweezer,,1,Madison Square Garden,New York,NY,USA,","
+2019-12-30,2019,0,13,2,2,0,0,8,2019 NYE Run,2019 NYE,Ruby Waves,,0,Madison Square Garden,New York,NY,USA,>
+2019-12-30,2019,0,14,2,2,0,0,10,2019 NYE Run,2019 NYE,Steam,,1,Madison Square Garden,New York,NY,USA,>
+2019-12-30,2019,0,15,2,2,0,0,0,2019 NYE Run,2019 NYE,Tweezer,,1,Madison Square Garden,New York,NY,USA,>
+2019-12-30,2019,0,16,2,2,0,0,0,2019 NYE Run,2019 NYE,Ruby Waves,,0,Madison Square Garden,New York,NY,USA,>
 2019-12-30,2019,0,17,5,2,0,0,8,2019 NYE Run,2019 NYE,Slave to the Traffic Light,Slave,1,Madison Square Garden,New York,NY,USA,
 2019-12-30,2019,0,18,6,e,0,0,21,2019 NYE Run,2019 NYE,Rock and Roll,R&amp;R,0,Madison Square Garden,New York,NY,USA,
-2019-12-31,2019,0,1,2,1,0,0,9,2019 NYE Run,2019 NYE,Martian Monster,Martian Monster,1,Madison Square Garden,New York,NY,USA,>
-2019-12-31,2019,0,2,2,1,0,0,4,2019 NYE Run,2019 NYE,Buried Alive,Buried Alive,1,Madison Square Garden,New York,NY,USA,>
+2019-12-31,2019,0,1,2,1,0,0,9,2019 NYE Run,2019 NYE,Martian Monster,,1,Madison Square Garden,New York,NY,USA,>
+2019-12-31,2019,0,2,2,1,0,0,4,2019 NYE Run,2019 NYE,Buried Alive,,1,Madison Square Garden,New York,NY,USA,>
 2019-12-31,2019,0,3,2,1,0,0,7,2019 NYE Run,2019 NYE,AC/DC Bag,Bag,1,Madison Square Garden,New York,NY,USA,>
 2019-12-31,2019,0,4,2,1,0,0,7,2019 NYE Run,2019 NYE,Halley's Comet,Halley's,1,Madison Square Garden,New York,NY,USA,>
 2019-12-31,2019,0,5,2,1,0,0,7,2019 NYE Run,2019 NYE,Prince Caspian,Caspian,1,Madison Square Garden,New York,NY,USA,>
-2019-12-31,2019,0,6,2,1,0,0,7,2019 NYE Run,2019 NYE,Sparkle,Sparkle,1,Madison Square Garden,New York,NY,USA,>
-2019-12-31,2019,0,7,1,1,0,0,6,2019 NYE Run,2019 NYE,Axilla,Axilla,1,Madison Square Garden,New York,NY,USA,","
-2019-12-31,2019,0,8,2,1,0,0,10,2019 NYE Run,2019 NYE,Maze,Maze,1,Madison Square Garden,New York,NY,USA,>
-2019-12-31,2019,0,9,2,1,0,0,5,2019 NYE Run,2019 NYE,Fluffhead,Fluffhead,1,Madison Square Garden,New York,NY,USA,>
-2019-12-31,2019,0,10,4,1,0,0,3,2019 NYE Run,2019 NYE,Rise/Come Together,Rise/Come Together,0,Madison Square Garden,New York,NY,USA,
+2019-12-31,2019,0,6,2,1,0,0,7,2019 NYE Run,2019 NYE,Sparkle,,1,Madison Square Garden,New York,NY,USA,>
+2019-12-31,2019,0,7,1,1,0,0,6,2019 NYE Run,2019 NYE,Axilla,,1,Madison Square Garden,New York,NY,USA,","
+2019-12-31,2019,0,8,2,1,0,0,10,2019 NYE Run,2019 NYE,Maze,,1,Madison Square Garden,New York,NY,USA,>
+2019-12-31,2019,0,9,2,1,0,0,5,2019 NYE Run,2019 NYE,Fluffhead,,1,Madison Square Garden,New York,NY,USA,>
+2019-12-31,2019,0,10,4,1,0,0,3,2019 NYE Run,2019 NYE,Rise/Come Together,,0,Madison Square Garden,New York,NY,USA,
 2019-12-31,2019,0,11,2,2,0,0,10,2019 NYE Run,2019 NYE,Punch You in the Eye,PYITE,1,Madison Square Garden,New York,NY,USA,>
 2019-12-31,2019,0,12,2,2,0,0,7,2019 NYE Run,2019 NYE,Wolfman's Brother,Wolfman's,1,Madison Square Garden,New York,NY,USA,>
-2019-12-31,2019,0,13,2,2,0,0,11,2019 NYE Run,2019 NYE,Light,Light,0,Madison Square Garden,New York,NY,USA,>
-2019-12-31,2019,0,14,2,2,0,0,8,2019 NYE Run,2019 NYE,Twist,Twist,1,Madison Square Garden,New York,NY,USA,>
-2019-12-31,2019,0,15,2,2,0,0,4,2019 NYE Run,2019 NYE,Soul Planet,Soul Planet,0,Madison Square Garden,New York,NY,USA,>
-2019-12-31,2019,0,16,2,2,0,0,6,2019 NYE Run,2019 NYE,Mercury,Mercury,1,Madison Square Garden,New York,NY,USA,>
-2019-12-31,2019,0,17,4,2,0,0,10,2019 NYE Run,2019 NYE,Possum,Possum,1,Madison Square Garden,New York,NY,USA,
-2019-12-31,2019,0,18,1,3,0,0,0,2019 NYE Run,2019 NYE,Send in the Clowns,Send in the Clowns,0,Madison Square Garden,New York,NY,USA,","
-2019-12-31,2019,0,19,1,3,0,0,11,2019 NYE Run,2019 NYE,First Tube,First Tube,0,Madison Square Garden,New York,NY,USA,","
-2019-12-31,2019,0,20,1,3,0,0,41,2019 NYE Run,2019 NYE,Auld Lang Syne,Auld Lang Syne,0,Madison Square Garden,New York,NY,USA,","
-2019-12-31,2019,0,21,1,3,0,0,11,2019 NYE Run,2019 NYE,Sand,Sand,0,Madison Square Garden,New York,NY,USA,","
-2019-12-31,2019,0,22,1,3,0,0,8,2019 NYE Run,2019 NYE,Drift While You're Sleeping,Drift While You're Sleeping,0,Madison Square Garden,New York,NY,USA,","
+2019-12-31,2019,0,13,2,2,0,0,11,2019 NYE Run,2019 NYE,Light,,0,Madison Square Garden,New York,NY,USA,>
+2019-12-31,2019,0,14,2,2,0,0,8,2019 NYE Run,2019 NYE,Twist,,1,Madison Square Garden,New York,NY,USA,>
+2019-12-31,2019,0,15,2,2,0,0,4,2019 NYE Run,2019 NYE,Soul Planet,,0,Madison Square Garden,New York,NY,USA,>
+2019-12-31,2019,0,16,2,2,0,0,6,2019 NYE Run,2019 NYE,Mercury,,1,Madison Square Garden,New York,NY,USA,>
+2019-12-31,2019,0,17,4,2,0,0,10,2019 NYE Run,2019 NYE,Possum,,1,Madison Square Garden,New York,NY,USA,
+2019-12-31,2019,0,18,1,3,0,0,0,2019 NYE Run,2019 NYE,Send in the Clowns,,0,Madison Square Garden,New York,NY,USA,","
+2019-12-31,2019,0,19,1,3,0,0,11,2019 NYE Run,2019 NYE,First Tube,,0,Madison Square Garden,New York,NY,USA,","
+2019-12-31,2019,0,20,1,3,0,0,41,2019 NYE Run,2019 NYE,Auld Lang Syne,,0,Madison Square Garden,New York,NY,USA,","
+2019-12-31,2019,0,21,1,3,0,0,11,2019 NYE Run,2019 NYE,Sand,,0,Madison Square Garden,New York,NY,USA,","
+2019-12-31,2019,0,22,1,3,0,0,8,2019 NYE Run,2019 NYE,Drift While You're Sleeping,,0,Madison Square Garden,New York,NY,USA,","
 2019-12-31,2019,0,23,1,3,0,0,10,2019 NYE Run,2019 NYE,What's the Use?,WTU?,1,Madison Square Garden,New York,NY,USA,","
 2019-12-31,2019,0,24,5,3,0,0,7,2019 NYE Run,2019 NYE,You Enjoy Myself,YEM,1,Madison Square Garden,New York,NY,USA,
 2019-12-31,2019,0,25,1,e,0,0,8,2019 NYE Run,2019 NYE,Tweezer Reprise,Tweeprise,1,Madison Square Garden,New York,NY,USA,","
-2019-12-31,2019,0,26,6,e,0,0,0,2019 NYE Run,2019 NYE,Rescue Squad,Rescue Squad,1,Madison Square Garden,New York,NY,USA,
+2019-12-31,2019,0,26,6,e,0,0,0,2019 NYE Run,2019 NYE,Rescue Squad,,1,Madison Square Garden,New York,NY,USA,

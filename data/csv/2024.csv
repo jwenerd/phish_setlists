@@ -1,806 +1,806 @@
 showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,tourwhen,song,nickname,is_original,venue,city,state,country,trans_mark
-2024-02-20,2024,1,1,1,1,2,2,341,Not Part of a Tour,No Tour,Jam,Jam,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2024-02-20,2024,1,1,1,1,2,2,341,Not Part of a Tour,No Tour,Jam,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2024-02-20,2024,1,2,1,1,2,2,2,Not Part of a Tour,No Tour,Mountains in the Mist,Mist,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2024-02-20,2024,1,3,6,1,2,2,11,Not Part of a Tour,No Tour,My Soul,My Soul,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,
+2024-02-20,2024,1,3,6,1,2,2,11,Not Part of a Tour,No Tour,My Soul,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,
 2024-02-21,2024,0,1,1,1,0,0,3,2024 Mexico,2024 Mexico,Back on the Train,BOTT,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2024-02-21,2024,0,2,2,1,0,0,3,2024 Mexico,2024 Mexico,The Moma Dance,Moma,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2024-02-21,2024,0,3,2,1,0,0,1,2024 Mexico,2024 Mexico,Down with Disease,DwD,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2024-02-21,2024,0,4,1,1,0,0,35,2024 Mexico,2024 Mexico,If I Could,If I Could,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2024-02-21,2024,0,5,1,1,0,0,1,2024 Mexico,2024 Mexico,Everything's Right,Everything's Right,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2024-02-21,2024,0,6,1,1,0,0,15,2024 Mexico,2024 Mexico,Halfway to the Moon,Halfway to the Moon,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2024-02-21,2024,0,7,1,1,0,0,3,2024 Mexico,2024 Mexico,Stash,Stash,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2024-02-21,2024,0,8,1,1,0,0,81,2024 Mexico,2024 Mexico,Alaska,Alaska,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2024-02-21,2024,0,4,1,1,0,0,35,2024 Mexico,2024 Mexico,If I Could,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2024-02-21,2024,0,5,1,1,0,0,1,2024 Mexico,2024 Mexico,Everything's Right,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2024-02-21,2024,0,6,1,1,0,0,15,2024 Mexico,2024 Mexico,Halfway to the Moon,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2024-02-21,2024,0,7,1,1,0,0,3,2024 Mexico,2024 Mexico,Stash,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2024-02-21,2024,0,8,1,1,0,0,81,2024 Mexico,2024 Mexico,Alaska,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2024-02-21,2024,0,9,1,1,0,0,12,2024 Mexico,2024 Mexico,Destiny Unbound,Destiny,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2024-02-21,2024,0,10,1,1,0,0,5,2024 Mexico,2024 Mexico,Ocelot,Ocelot,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2024-02-21,2024,0,11,1,1,0,0,12,2024 Mexico,2024 Mexico,Julius,Julius,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2024-02-21,2024,0,12,2,1,0,0,3,2024 Mexico,2024 Mexico,Sand,Sand,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2024-02-21,2024,0,13,5,1,0,0,2,2024 Mexico,2024 Mexico,Life Saving Gun,Life Saving Gun,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
+2024-02-21,2024,0,10,1,1,0,0,5,2024 Mexico,2024 Mexico,Ocelot,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2024-02-21,2024,0,11,1,1,0,0,12,2024 Mexico,2024 Mexico,Julius,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2024-02-21,2024,0,12,2,1,0,0,3,2024 Mexico,2024 Mexico,Sand,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2024-02-21,2024,0,13,5,1,0,0,2,2024 Mexico,2024 Mexico,Life Saving Gun,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
 2024-02-21,2024,0,14,1,e,0,0,14,2024 Mexico,2024 Mexico,The Mango Song,Mango,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2024-02-21,2024,0,15,6,e,0,0,3,2024 Mexico,2024 Mexico,Carini,Carini,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
-2024-02-22,2024,0,1,2,1,0,0,2,2024 Mexico,2024 Mexico,First Tube,First Tube,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2024-02-22,2024,0,2,1,1,0,0,4,2024 Mexico,2024 Mexico,Free,Free,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2024-02-22,2024,0,3,1,1,0,0,9,2024 Mexico,2024 Mexico,Roggae,Roggae,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2024-02-22,2024,0,4,1,1,0,0,131,2024 Mexico,2024 Mexico,Driver,Driver,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2024-02-22,2024,0,5,1,1,0,0,11,2024 Mexico,2024 Mexico,Hey Stranger,Hey Stranger,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2024-02-22,2024,0,6,2,1,0,0,12,2024 Mexico,2024 Mexico,Gumbo,Gumbo,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2024-02-22,2024,0,7,1,1,0,0,13,2024 Mexico,2024 Mexico,My Soul,My Soul,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2024-02-21,2024,0,15,6,e,0,0,3,2024 Mexico,2024 Mexico,Carini,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
+2024-02-22,2024,0,1,2,1,0,0,2,2024 Mexico,2024 Mexico,First Tube,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2024-02-22,2024,0,2,1,1,0,0,4,2024 Mexico,2024 Mexico,Free,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2024-02-22,2024,0,3,1,1,0,0,9,2024 Mexico,2024 Mexico,Roggae,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2024-02-22,2024,0,4,1,1,0,0,131,2024 Mexico,2024 Mexico,Driver,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2024-02-22,2024,0,5,1,1,0,0,11,2024 Mexico,2024 Mexico,Hey Stranger,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2024-02-22,2024,0,6,2,1,0,0,12,2024 Mexico,2024 Mexico,Gumbo,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2024-02-22,2024,0,7,1,1,0,0,13,2024 Mexico,2024 Mexico,My Soul,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2024-02-22,2024,0,8,1,1,0,0,11,2024 Mexico,2024 Mexico,Birds of a Feather,BOAF,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2024-02-22,2024,0,9,4,1,0,0,5,2024 Mexico,2024 Mexico,Axilla (Part II),Axilla (Part II),1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
+2024-02-22,2024,0,9,4,1,0,0,5,2024 Mexico,2024 Mexico,Axilla (Part II),,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
 2024-02-22,2024,0,10,2,2,0,0,6,2024 Mexico,2024 Mexico,A Song I Heard the Ocean Sing,ASIHTOS,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2024-02-22,2024,0,11,2,2,0,0,5,2024 Mexico,2024 Mexico,A Wave of Hope,A Wave of Hope,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2024-02-22,2024,0,12,2,2,0,0,4,2024 Mexico,2024 Mexico,Oblivion,Oblivion,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2024-02-22,2024,0,13,2,2,0,0,3,2024 Mexico,2024 Mexico,Tweezer,Tweezer,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2024-02-22,2024,0,14,3,2,0,0,2,2024 Mexico,2024 Mexico,Tube,Tube,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
-2024-02-22,2024,0,15,2,2,0,0,5,2024 Mexico,2024 Mexico,Runaway Jim,Runaway Jim,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2024-02-22,2024,0,16,5,2,0,0,0,2024 Mexico,2024 Mexico,Tube,Tube,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
-2024-02-22,2024,0,17,2,e,0,0,12,2024 Mexico,2024 Mexico,Bug,Bug,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2024-02-22,2024,0,11,2,2,0,0,5,2024 Mexico,2024 Mexico,A Wave of Hope,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2024-02-22,2024,0,12,2,2,0,0,4,2024 Mexico,2024 Mexico,Oblivion,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2024-02-22,2024,0,13,2,2,0,0,3,2024 Mexico,2024 Mexico,Tweezer,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2024-02-22,2024,0,14,3,2,0,0,2,2024 Mexico,2024 Mexico,Tube,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
+2024-02-22,2024,0,15,2,2,0,0,5,2024 Mexico,2024 Mexico,Runaway Jim,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2024-02-22,2024,0,16,5,2,0,0,0,2024 Mexico,2024 Mexico,Tube,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
+2024-02-22,2024,0,17,2,e,0,0,12,2024 Mexico,2024 Mexico,Bug,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2024-02-22,2024,0,18,6,e,2,2,2,2024 Mexico,2024 Mexico,Tweezer Reprise,Tweeprise,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
-2024-02-23,2024,0,1,3,1,0,0,10,2024 Mexico,2024 Mexico,Set Your Soul Free,Set Your Soul Free,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
-2024-02-23,2024,0,2,3,1,0,0,6,2024 Mexico,2024 Mexico,Ghost,Ghost,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
+2024-02-23,2024,0,1,3,1,0,0,10,2024 Mexico,2024 Mexico,Set Your Soul Free,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
+2024-02-23,2024,0,2,3,1,0,0,6,2024 Mexico,2024 Mexico,Ghost,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
 2024-02-23,2024,0,3,1,1,0,0,74,2024 Mexico,2024 Mexico,Fast Enough for You,FEFY,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2024-02-23,2024,0,4,1,1,0,0,5,2024 Mexico,2024 Mexico,Evolve,Evolve,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2024-02-23,2024,0,5,2,1,0,0,13,2024 Mexico,2024 Mexico,Mull,Mull,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2024-02-23,2024,0,6,2,1,0,0,5,2024 Mexico,2024 Mexico,46 Days,46 Days,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2024-02-23,2024,0,4,1,1,0,0,5,2024 Mexico,2024 Mexico,Evolve,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2024-02-23,2024,0,5,2,1,0,0,13,2024 Mexico,2024 Mexico,Mull,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2024-02-23,2024,0,6,2,1,0,0,5,2024 Mexico,2024 Mexico,46 Days,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2024-02-23,2024,0,7,2,1,0,0,4,2024 Mexico,2024 Mexico,Kill Devil Falls,KDF,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2024-02-23,2024,0,8,1,1,0,0,20,2024 Mexico,2024 Mexico,Wading in the Velvet Sea,Velvet Sea,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2024-02-23,2024,0,9,4,1,0,0,4,2024 Mexico,2024 Mexico,Sigma Oasis,Sigma Oasis,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,
-2024-02-23,2024,0,10,2,2,0,0,6,2024 Mexico,2024 Mexico,Blaze On,Blaze On,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2024-02-23,2024,0,9,4,1,0,0,4,2024 Mexico,2024 Mexico,Sigma Oasis,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,
+2024-02-23,2024,0,10,2,2,0,0,6,2024 Mexico,2024 Mexico,Blaze On,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2024-02-23,2024,0,11,2,2,0,0,5,2024 Mexico,2024 Mexico,Chalk Dust Torture,CDT,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2024-02-23,2024,0,12,2,2,0,0,18,2024 Mexico,2024 Mexico,Beneath a Sea of Stars Part 1,Beneath a Sea of Stars Part 1,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2024-02-23,2024,0,12,2,2,0,0,18,2024 Mexico,2024 Mexico,Beneath a Sea of Stars Part 1,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2024-02-23,2024,0,13,2,2,0,0,4,2024 Mexico,2024 Mexico,Backwards Down the Number Line,BDTNL,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2024-02-23,2024,0,14,5,2,0,0,5,2024 Mexico,2024 Mexico,Harry Hood,Hood,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
 2024-02-23,2024,0,15,1,e,2,2,33,2024 Mexico,2024 Mexico,When the Circus Comes,Circus,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2024-02-23,2024,0,16,6,e,2,2,3,2024 Mexico,2024 Mexico,Character Zero,Character Zero,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
-2024-02-24,2024,0,1,3,1,0,0,7,2024 Mexico,2024 Mexico,Simple,Simple,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
-2024-02-24,2024,0,2,1,1,0,0,24,2024 Mexico,2024 Mexico,Sanity,Sanity,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2024-02-24,2024,0,3,1,1,0,0,141,2024 Mexico,2024 Mexico,Chalk Dust Torture Reprise,Chalk Dust Torture Reprise,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2024-02-23,2024,0,16,6,e,2,2,3,2024 Mexico,2024 Mexico,Character Zero,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
+2024-02-24,2024,0,1,3,1,0,0,7,2024 Mexico,2024 Mexico,Simple,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
+2024-02-24,2024,0,2,1,1,0,0,24,2024 Mexico,2024 Mexico,Sanity,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2024-02-24,2024,0,3,1,1,0,0,141,2024 Mexico,2024 Mexico,Chalk Dust Torture Reprise,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2024-02-24,2024,0,4,1,1,0,0,5,2024 Mexico,2024 Mexico,Wolfman's Brother,Wolfman's,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2024-02-24,2024,0,5,1,1,0,0,7,2024 Mexico,2024 Mexico,Mercy,Mercy,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2024-02-24,2024,0,6,1,1,0,0,7,2024 Mexico,2024 Mexico,Rift,Rift,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2024-02-24,2024,0,5,1,1,0,0,7,2024 Mexico,2024 Mexico,Mercy,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2024-02-24,2024,0,6,1,1,0,0,7,2024 Mexico,2024 Mexico,Rift,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2024-02-24,2024,0,7,3,1,0,0,7,2024 Mexico,2024 Mexico,Bathtub Gin,Gin,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
-2024-02-24,2024,0,8,4,1,0,0,4,2024 Mexico,2024 Mexico,Cavern,Cavern,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
-2024-02-24,2024,0,9,2,2,0,0,7,2024 Mexico,2024 Mexico,The Howling,The Howling,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2024-02-24,2024,0,8,4,1,0,0,4,2024 Mexico,2024 Mexico,Cavern,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
+2024-02-24,2024,0,9,2,2,0,0,7,2024 Mexico,2024 Mexico,The Howling,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2024-02-24,2024,0,10,2,2,0,0,7,2024 Mexico,2024 Mexico,No Men In No Man's Land,NMINML,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2024-02-24,2024,0,11,3,2,0,0,4,2024 Mexico,2024 Mexico,Ruby Waves,Ruby Waves,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
-2024-02-24,2024,0,12,3,2,0,0,5,2024 Mexico,2024 Mexico,Golden Age,Golden Age,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
-2024-02-24,2024,0,13,2,2,0,0,0,2024 Mexico,2024 Mexico,Ruby Waves,Ruby Waves,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2024-02-24,2024,0,14,1,2,0,0,4,2024 Mexico,2024 Mexico,Ether Edge,Ether Edge,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2024-02-24,2024,0,15,1,2,0,0,5,2024 Mexico,2024 Mexico,Twist,Twist,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2024-02-24,2024,0,16,1,2,0,0,4,2024 Mexico,2024 Mexico,A Life Beyond The Dream,A Life Beyond The Dream,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2024-02-24,2024,0,17,5,2,0,0,4,2024 Mexico,2024 Mexico,Possum,Possum,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
-2024-02-24,2024,0,18,2,e,0,0,5,2024 Mexico,2024 Mexico,More,More,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2024-02-24,2024,0,11,3,2,0,0,4,2024 Mexico,2024 Mexico,Ruby Waves,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
+2024-02-24,2024,0,12,3,2,0,0,5,2024 Mexico,2024 Mexico,Golden Age,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
+2024-02-24,2024,0,13,2,2,0,0,0,2024 Mexico,2024 Mexico,Ruby Waves,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2024-02-24,2024,0,14,1,2,0,0,4,2024 Mexico,2024 Mexico,Ether Edge,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2024-02-24,2024,0,15,1,2,0,0,5,2024 Mexico,2024 Mexico,Twist,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2024-02-24,2024,0,16,1,2,0,0,4,2024 Mexico,2024 Mexico,A Life Beyond The Dream,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2024-02-24,2024,0,17,5,2,0,0,4,2024 Mexico,2024 Mexico,Possum,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
+2024-02-24,2024,0,18,2,e,0,0,5,2024 Mexico,2024 Mexico,More,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2024-02-24,2024,0,19,2,e,0,0,5,2024 Mexico,2024 Mexico,Also Sprach Zarathustra,2001,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2024-02-24,2024,0,20,6,e,0,0,5,2024 Mexico,2024 Mexico,Slave to the Traffic Light,Slave,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
-2024-04-18,2024,0,1,1,1,0,0,4,2024 Sphere,2024 Sphere,Everything's Right,Everything's Right,0,Sphere,Las Vegas,NV,USA,","
+2024-04-18,2024,0,1,1,1,0,0,4,2024 Sphere,2024 Sphere,Everything's Right,,0,Sphere,Las Vegas,NV,USA,","
 2024-04-18,2024,0,2,1,1,0,0,4,2024 Sphere,2024 Sphere,Back on the Train,BOTT,0,Sphere,Las Vegas,NV,USA,","
 2024-04-18,2024,0,3,1,1,0,0,1,2024 Sphere,2024 Sphere,Wolfman's Brother,Wolfman's,1,Sphere,Las Vegas,NV,USA,","
-2024-04-18,2024,0,4,1,1,0,0,7,2024 Sphere,2024 Sphere,Maze,Maze,1,Sphere,Las Vegas,NV,USA,","
-2024-04-18,2024,0,5,1,1,0,0,9,2024 Sphere,2024 Sphere,Leaves,Leaves,1,Sphere,Las Vegas,NV,USA,","
-2024-04-18,2024,0,6,1,1,0,0,4,2024 Sphere,2024 Sphere,Life Saving Gun,Life Saving Gun,1,Sphere,Las Vegas,NV,USA,","
-2024-04-18,2024,0,7,1,1,0,0,15,2024 Sphere,2024 Sphere,Dirt,Dirt,0,Sphere,Las Vegas,NV,USA,","
-2024-04-18,2024,0,8,4,1,0,0,4,2024 Sphere,2024 Sphere,Carini,Carini,1,Sphere,Las Vegas,NV,USA,
-2024-04-18,2024,0,9,2,2,0,0,4,2024 Sphere,2024 Sphere,Sand,Sand,0,Sphere,Las Vegas,NV,USA,>
-2024-04-18,2024,0,10,3,2,0,0,3,2024 Sphere,2024 Sphere,Tweezer,Tweezer,1,Sphere,Las Vegas,NV,USA,->
+2024-04-18,2024,0,4,1,1,0,0,7,2024 Sphere,2024 Sphere,Maze,,1,Sphere,Las Vegas,NV,USA,","
+2024-04-18,2024,0,5,1,1,0,0,9,2024 Sphere,2024 Sphere,Leaves,,1,Sphere,Las Vegas,NV,USA,","
+2024-04-18,2024,0,6,1,1,0,0,4,2024 Sphere,2024 Sphere,Life Saving Gun,,1,Sphere,Las Vegas,NV,USA,","
+2024-04-18,2024,0,7,1,1,0,0,15,2024 Sphere,2024 Sphere,Dirt,,0,Sphere,Las Vegas,NV,USA,","
+2024-04-18,2024,0,8,4,1,0,0,4,2024 Sphere,2024 Sphere,Carini,,1,Sphere,Las Vegas,NV,USA,
+2024-04-18,2024,0,9,2,2,0,0,4,2024 Sphere,2024 Sphere,Sand,,0,Sphere,Las Vegas,NV,USA,>
+2024-04-18,2024,0,10,3,2,0,0,3,2024 Sphere,2024 Sphere,Tweezer,,1,Sphere,Las Vegas,NV,USA,->
 2024-04-18,2024,0,11,2,2,0,0,7,2024 Sphere,2024 Sphere,"My Friend, My Friend",My Friend,1,Sphere,Las Vegas,NV,USA,>
 2024-04-18,2024,0,12,2,2,0,0,8,2024 Sphere,2024 Sphere,Mike's Song,Mike's,1,Sphere,Las Vegas,NV,USA,>
-2024-04-18,2024,0,13,1,2,0,0,12,2024 Sphere,2024 Sphere,Lifeboy,Lifeboy,1,Sphere,Las Vegas,NV,USA,","
+2024-04-18,2024,0,13,1,2,0,0,12,2024 Sphere,2024 Sphere,Lifeboy,,1,Sphere,Las Vegas,NV,USA,","
 2024-04-18,2024,0,14,1,2,0,0,8,2024 Sphere,2024 Sphere,Weekapaug Groove,Weekapaug,1,Sphere,Las Vegas,NV,USA,","
-2024-04-18,2024,0,15,2,2,0,0,2,2024 Sphere,2024 Sphere,Blaze On,Blaze On,1,Sphere,Las Vegas,NV,USA,>
-2024-04-18,2024,0,16,5,2,0,0,10,2024 Sphere,2024 Sphere,Fluffhead,Fluffhead,1,Sphere,Las Vegas,NV,USA,
-2024-04-18,2024,0,17,1,e,0,0,28,2024 Sphere,2024 Sphere,Farmhouse,Farmhouse,1,Sphere,Las Vegas,NV,USA,","
+2024-04-18,2024,0,15,2,2,0,0,2,2024 Sphere,2024 Sphere,Blaze On,,1,Sphere,Las Vegas,NV,USA,>
+2024-04-18,2024,0,16,5,2,0,0,10,2024 Sphere,2024 Sphere,Fluffhead,,1,Sphere,Las Vegas,NV,USA,
+2024-04-18,2024,0,17,1,e,0,0,28,2024 Sphere,2024 Sphere,Farmhouse,,1,Sphere,Las Vegas,NV,USA,","
 2024-04-18,2024,0,18,6,e,0,0,9,2024 Sphere,2024 Sphere,Run Like an Antelope,Antelope,1,Sphere,Las Vegas,NV,USA,
-2024-04-19,2024,0,1,1,1,0,0,4,2024 Sphere,2024 Sphere,Free,Free,1,Sphere,Las Vegas,NV,USA,","
+2024-04-19,2024,0,1,1,1,0,0,4,2024 Sphere,2024 Sphere,Free,,1,Sphere,Las Vegas,NV,USA,","
 2024-04-19,2024,0,2,1,1,0,0,5,2024 Sphere,2024 Sphere,The Moma Dance,Moma,1,Sphere,Las Vegas,NV,USA,","
-2024-04-19,2024,0,3,1,1,0,0,4,2024 Sphere,2024 Sphere,Axilla (Part II),Axilla (Part II),1,Sphere,Las Vegas,NV,USA,","
-2024-04-19,2024,0,4,1,1,0,0,2,2024 Sphere,2024 Sphere,Mercy,Mercy,0,Sphere,Las Vegas,NV,USA,","
+2024-04-19,2024,0,3,1,1,0,0,4,2024 Sphere,2024 Sphere,Axilla (Part II),,1,Sphere,Las Vegas,NV,USA,","
+2024-04-19,2024,0,4,1,1,0,0,2,2024 Sphere,2024 Sphere,Mercy,,0,Sphere,Las Vegas,NV,USA,","
 2024-04-19,2024,0,5,1,1,0,0,2,2024 Sphere,2024 Sphere,Bathtub Gin,Gin,1,Sphere,Las Vegas,NV,USA,","
 2024-04-19,2024,0,6,2,1,0,0,8,2024 Sphere,2024 Sphere,Theme From the Bottom,Theme,1,Sphere,Las Vegas,NV,USA,>
 2024-04-19,2024,0,7,4,1,0,0,6,2024 Sphere,2024 Sphere,Split Open and Melt,SOAMelt,1,Sphere,Las Vegas,NV,USA,
-2024-04-19,2024,0,8,1,2,0,0,4,2024 Sphere,2024 Sphere,A Wave of Hope,A Wave of Hope,0,Sphere,Las Vegas,NV,USA,","
+2024-04-19,2024,0,8,1,2,0,0,4,2024 Sphere,2024 Sphere,A Wave of Hope,,0,Sphere,Las Vegas,NV,USA,","
 2024-04-19,2024,0,9,2,2,0,0,8,2024 Sphere,2024 Sphere,What's the Use?,WTU?,1,Sphere,Las Vegas,NV,USA,>
-2024-04-19,2024,0,10,1,2,0,0,2,2024 Sphere,2024 Sphere,Ruby Waves,Ruby Waves,0,Sphere,Las Vegas,NV,USA,","
-2024-04-19,2024,0,11,1,2,0,0,8,2024 Sphere,2024 Sphere,Lonely Trip,Lonely Trip,0,Sphere,Las Vegas,NV,USA,","
+2024-04-19,2024,0,10,1,2,0,0,2,2024 Sphere,2024 Sphere,Ruby Waves,,0,Sphere,Las Vegas,NV,USA,","
+2024-04-19,2024,0,11,1,2,0,0,8,2024 Sphere,2024 Sphere,Lonely Trip,,0,Sphere,Las Vegas,NV,USA,","
 2024-04-19,2024,0,12,3,2,0,0,4,2024 Sphere,2024 Sphere,A Song I Heard the Ocean Sing,ASIHTOS,1,Sphere,Las Vegas,NV,USA,->
 2024-04-19,2024,0,13,1,2,0,0,14,2024 Sphere,2024 Sphere,Prince Caspian,Caspian,1,Sphere,Las Vegas,NV,USA,","
 2024-04-19,2024,0,14,5,2,0,0,6,2024 Sphere,2024 Sphere,You Enjoy Myself,YEM,1,Sphere,Las Vegas,NV,USA,
 2024-04-19,2024,0,15,1,e,0,0,3,2024 Sphere,2024 Sphere,Wading in the Velvet Sea,Velvet Sea,1,Sphere,Las Vegas,NV,USA,","
 2024-04-19,2024,0,16,6,e,0,0,3,2024 Sphere,2024 Sphere,Harry Hood,Hood,1,Sphere,Las Vegas,NV,USA,
-2024-04-20,2024,0,1,1,1,0,0,4,2024 Sphere,2024 Sphere,Set Your Soul Free,Set Your Soul Free,0,Sphere,Las Vegas,NV,USA,","
-2024-04-20,2024,0,2,1,1,0,0,5,2024 Sphere,2024 Sphere,Tube,Tube,1,Sphere,Las Vegas,NV,USA,","
-2024-04-20,2024,0,3,1,1,0,0,6,2024 Sphere,2024 Sphere,Stash,Stash,1,Sphere,Las Vegas,NV,USA,","
-2024-04-20,2024,0,4,1,1,0,0,15,2024 Sphere,2024 Sphere,Pillow Jets,Pillow Jets,0,Sphere,Las Vegas,NV,USA,","
-2024-04-20,2024,0,5,1,1,0,0,14,2024 Sphere,2024 Sphere,Steam,Steam,1,Sphere,Las Vegas,NV,USA,","
+2024-04-20,2024,0,1,1,1,0,0,4,2024 Sphere,2024 Sphere,Set Your Soul Free,,0,Sphere,Las Vegas,NV,USA,","
+2024-04-20,2024,0,2,1,1,0,0,5,2024 Sphere,2024 Sphere,Tube,,1,Sphere,Las Vegas,NV,USA,","
+2024-04-20,2024,0,3,1,1,0,0,6,2024 Sphere,2024 Sphere,Stash,,1,Sphere,Las Vegas,NV,USA,","
+2024-04-20,2024,0,4,1,1,0,0,15,2024 Sphere,2024 Sphere,Pillow Jets,,0,Sphere,Las Vegas,NV,USA,","
+2024-04-20,2024,0,5,1,1,0,0,14,2024 Sphere,2024 Sphere,Steam,,1,Sphere,Las Vegas,NV,USA,","
 2024-04-20,2024,0,6,1,1,0,0,9,2024 Sphere,2024 Sphere,Mountains in the Mist,Mist,0,Sphere,Las Vegas,NV,USA,","
-2024-04-20,2024,0,7,1,1,0,0,7,2024 Sphere,2024 Sphere,Taste,Taste,1,Sphere,Las Vegas,NV,USA,","
-2024-04-20,2024,0,8,4,1,0,0,4,2024 Sphere,2024 Sphere,46 Days,46 Days,1,Sphere,Las Vegas,NV,USA,
-2024-04-20,2024,0,9,2,2,0,0,4,2024 Sphere,2024 Sphere,Sigma Oasis,Sigma Oasis,0,Sphere,Las Vegas,NV,USA,>
-2024-04-20,2024,0,10,2,2,0,0,8,2024 Sphere,2024 Sphere,Fuego,Fuego,1,Sphere,Las Vegas,NV,USA,>
-2024-04-20,2024,0,11,3,2,0,0,3,2024 Sphere,2024 Sphere,Golden Age,Golden Age,0,Sphere,Las Vegas,NV,USA,->
-2024-04-20,2024,0,12,1,2,0,0,3,2024 Sphere,2024 Sphere,Twist,Twist,1,Sphere,Las Vegas,NV,USA,","
+2024-04-20,2024,0,7,1,1,0,0,7,2024 Sphere,2024 Sphere,Taste,,1,Sphere,Las Vegas,NV,USA,","
+2024-04-20,2024,0,8,4,1,0,0,4,2024 Sphere,2024 Sphere,46 Days,,1,Sphere,Las Vegas,NV,USA,
+2024-04-20,2024,0,9,2,2,0,0,4,2024 Sphere,2024 Sphere,Sigma Oasis,,0,Sphere,Las Vegas,NV,USA,>
+2024-04-20,2024,0,10,2,2,0,0,8,2024 Sphere,2024 Sphere,Fuego,,1,Sphere,Las Vegas,NV,USA,>
+2024-04-20,2024,0,11,3,2,0,0,3,2024 Sphere,2024 Sphere,Golden Age,,0,Sphere,Las Vegas,NV,USA,->
+2024-04-20,2024,0,12,1,2,0,0,3,2024 Sphere,2024 Sphere,Twist,,1,Sphere,Las Vegas,NV,USA,","
 2024-04-20,2024,0,13,2,2,0,0,32,2024 Sphere,2024 Sphere,I Am Hydrogen,Hydrogen,1,Sphere,Las Vegas,NV,USA,>
 2024-04-20,2024,0,14,2,2,0,0,4,2024 Sphere,2024 Sphere,Chalk Dust Torture,CDT,1,Sphere,Las Vegas,NV,USA,>
-2024-04-20,2024,0,15,5,2,0,0,10,2024 Sphere,2024 Sphere,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Sphere,Las Vegas,NV,USA,
-2024-04-20,2024,0,16,1,e,0,0,3,2024 Sphere,2024 Sphere,A Life Beyond The Dream,A Life Beyond The Dream,0,Sphere,Las Vegas,NV,USA,","
+2024-04-20,2024,0,15,5,2,0,0,10,2024 Sphere,2024 Sphere,Say It To Me S.A.N.T.O.S.,,1,Sphere,Las Vegas,NV,USA,
+2024-04-20,2024,0,16,1,e,0,0,3,2024 Sphere,2024 Sphere,A Life Beyond The Dream,,0,Sphere,Las Vegas,NV,USA,","
 2024-04-20,2024,0,17,6,e,0,0,5,2024 Sphere,2024 Sphere,Tweezer Reprise,Tweeprise,1,Sphere,Las Vegas,NV,USA,
-2024-04-21,2024,0,1,1,1,0,0,12,2024 Sphere,2024 Sphere,Plasma,Plasma,0,Sphere,Las Vegas,NV,USA,","
-2024-04-21,2024,0,2,1,1,0,0,5,2024 Sphere,2024 Sphere,Evolve,Evolve,0,Sphere,Las Vegas,NV,USA,","
-2024-04-21,2024,0,3,1,1,0,0,5,2024 Sphere,2024 Sphere,Ghost,Ghost,1,Sphere,Las Vegas,NV,USA,","
+2024-04-21,2024,0,1,1,1,0,0,12,2024 Sphere,2024 Sphere,Plasma,,0,Sphere,Las Vegas,NV,USA,","
+2024-04-21,2024,0,2,1,1,0,0,5,2024 Sphere,2024 Sphere,Evolve,,0,Sphere,Las Vegas,NV,USA,","
+2024-04-21,2024,0,3,1,1,0,0,5,2024 Sphere,2024 Sphere,Ghost,,1,Sphere,Las Vegas,NV,USA,","
 2024-04-21,2024,0,4,1,1,0,0,8,2024 Sphere,2024 Sphere,Divided Sky,Divided,1,Sphere,Las Vegas,NV,USA,","
-2024-04-21,2024,0,5,1,1,0,0,29,2024 Sphere,2024 Sphere,Shade,Shade,1,Sphere,Las Vegas,NV,USA,","
-2024-04-21,2024,0,6,1,1,0,0,6,2024 Sphere,2024 Sphere,Hey Stranger,Hey Stranger,0,Sphere,Las Vegas,NV,USA,","
-2024-04-21,2024,0,7,4,1,0,0,5,2024 Sphere,2024 Sphere,Character Zero,Character Zero,1,Sphere,Las Vegas,NV,USA,
-2024-04-21,2024,0,8,2,2,0,0,6,2024 Sphere,2024 Sphere,Oblivion,Oblivion,0,Sphere,Las Vegas,NV,USA,>
+2024-04-21,2024,0,5,1,1,0,0,29,2024 Sphere,2024 Sphere,Shade,,1,Sphere,Las Vegas,NV,USA,","
+2024-04-21,2024,0,6,1,1,0,0,6,2024 Sphere,2024 Sphere,Hey Stranger,,0,Sphere,Las Vegas,NV,USA,","
+2024-04-21,2024,0,7,4,1,0,0,5,2024 Sphere,2024 Sphere,Character Zero,,1,Sphere,Las Vegas,NV,USA,
+2024-04-21,2024,0,8,2,2,0,0,6,2024 Sphere,2024 Sphere,Oblivion,,0,Sphere,Las Vegas,NV,USA,>
 2024-04-21,2024,0,9,1,2,0,0,7,2024 Sphere,2024 Sphere,Down with Disease,DwD,1,Sphere,Las Vegas,NV,USA,","
-2024-04-21,2024,0,10,3,2,0,0,5,2024 Sphere,2024 Sphere,Beneath a Sea of Stars Part 1,Beneath a Sea of Stars Part 1,0,Sphere,Las Vegas,NV,USA,->
+2024-04-21,2024,0,10,3,2,0,0,5,2024 Sphere,2024 Sphere,Beneath a Sea of Stars Part 1,,0,Sphere,Las Vegas,NV,USA,->
 2024-04-21,2024,0,11,2,2,0,0,4,2024 Sphere,2024 Sphere,Also Sprach Zarathustra,2001,0,Sphere,Las Vegas,NV,USA,>
-2024-04-21,2024,0,12,2,2,0,0,14,2024 Sphere,2024 Sphere,Light,Light,0,Sphere,Las Vegas,NV,USA,>
-2024-04-21,2024,0,13,2,2,0,0,4,2024 Sphere,2024 Sphere,Ether Edge,Ether Edge,0,Sphere,Las Vegas,NV,USA,>
-2024-04-21,2024,0,14,1,2,0,0,9,2024 Sphere,2024 Sphere,Piper,Piper,1,Sphere,Las Vegas,NV,USA,","
-2024-04-21,2024,0,15,5,2,0,0,6,2024 Sphere,2024 Sphere,First Tube,First Tube,0,Sphere,Las Vegas,NV,USA,
-2024-04-21,2024,0,16,2,e,0,0,4,2024 Sphere,2024 Sphere,More,More,1,Sphere,Las Vegas,NV,USA,>
+2024-04-21,2024,0,12,2,2,0,0,14,2024 Sphere,2024 Sphere,Light,,0,Sphere,Las Vegas,NV,USA,>
+2024-04-21,2024,0,13,2,2,0,0,4,2024 Sphere,2024 Sphere,Ether Edge,,0,Sphere,Las Vegas,NV,USA,>
+2024-04-21,2024,0,14,1,2,0,0,9,2024 Sphere,2024 Sphere,Piper,,1,Sphere,Las Vegas,NV,USA,","
+2024-04-21,2024,0,15,5,2,0,0,6,2024 Sphere,2024 Sphere,First Tube,,0,Sphere,Las Vegas,NV,USA,
+2024-04-21,2024,0,16,2,e,0,0,4,2024 Sphere,2024 Sphere,More,,1,Sphere,Las Vegas,NV,USA,>
 2024-04-21,2024,0,17,6,e,0,0,4,2024 Sphere,2024 Sphere,Slave to the Traffic Light,Slave,1,Sphere,Las Vegas,NV,USA,
-2024-07-11,2024,1,1,6,1,2,2,0,Not Part of a Tour,No Tour,Evolve,Evolve,0,"NBC Television Studios, Studio 6B",New York,NY,USA,
-2024-07-17,2024,1,1,1,1,2,2,1,Not Part of a Tour,No Tour,Sigma Oasis,Sigma Oasis,0,NPR Headquarters,Washington,DC,USA,","
-2024-07-17,2024,1,2,1,1,2,2,0,Not Part of a Tour,No Tour,Evolve,Evolve,0,NPR Headquarters,Washington,DC,USA,","
+2024-07-11,2024,1,1,6,1,2,2,0,Not Part of a Tour,No Tour,Evolve,,0,"NBC Television Studios, Studio 6B",New York,NY,USA,
+2024-07-17,2024,1,1,1,1,2,2,1,Not Part of a Tour,No Tour,Sigma Oasis,,0,NPR Headquarters,Washington,DC,USA,","
+2024-07-17,2024,1,2,1,1,2,2,0,Not Part of a Tour,No Tour,Evolve,,0,NPR Headquarters,Washington,DC,USA,","
 2024-07-17,2024,1,3,5,1,2,2,2,Not Part of a Tour,No Tour,You Enjoy Myself,YEM,1,NPR Headquarters,Washington,DC,USA,
 2024-07-17,2024,1,4,1,e,2,2,11,Not Part of a Tour,No Tour,Sample in a Jar,Sample,1,NPR Headquarters,Washington,DC,USA,","
 2024-07-17,2024,1,5,6,e,2,2,1,Not Part of a Tour,No Tour,Chalk Dust Torture,CDT,1,NPR Headquarters,Washington,DC,USA,
-2024-07-19,2024,0,1,2,1,0,0,17,2024 Summer Tour,2024 Summer,Buried Alive,Buried Alive,1,Xfinity Center,Mansfield,MA,USA,>
-2024-07-19,2024,0,2,1,1,0,0,1,2024 Summer Tour,2024 Summer,Character Zero,Character Zero,1,Xfinity Center,Mansfield,MA,USA,","
-2024-07-19,2024,0,3,1,1,0,0,1,2024 Summer Tour,2024 Summer,Hey Stranger,Hey Stranger,0,Xfinity Center,Mansfield,MA,USA,","
+2024-07-19,2024,0,1,2,1,0,0,17,2024 Summer Tour,2024 Summer,Buried Alive,,1,Xfinity Center,Mansfield,MA,USA,>
+2024-07-19,2024,0,2,1,1,0,0,1,2024 Summer Tour,2024 Summer,Character Zero,,1,Xfinity Center,Mansfield,MA,USA,","
+2024-07-19,2024,0,3,1,1,0,0,1,2024 Summer Tour,2024 Summer,Hey Stranger,,0,Xfinity Center,Mansfield,MA,USA,","
 2024-07-19,2024,0,4,1,1,0,0,1,2024 Summer Tour,2024 Summer,Down with Disease,DwD,1,Xfinity Center,Mansfield,MA,USA,","
-2024-07-19,2024,0,5,2,1,0,0,7,2024 Summer Tour,2024 Summer,Roggae,Roggae,1,Xfinity Center,Mansfield,MA,USA,>
-2024-07-19,2024,0,6,1,1,0,0,14,2024 Summer Tour,2024 Summer,NICU,NICU,1,Xfinity Center,Mansfield,MA,USA,","
-2024-07-19,2024,0,7,1,1,0,0,2,2024 Summer Tour,2024 Summer,Stash,Stash,1,Xfinity Center,Mansfield,MA,USA,","
-2024-07-19,2024,0,8,4,1,0,0,2,2024 Summer Tour,2024 Summer,46 Days,46 Days,1,Xfinity Center,Mansfield,MA,USA,
+2024-07-19,2024,0,5,2,1,0,0,7,2024 Summer Tour,2024 Summer,Roggae,,1,Xfinity Center,Mansfield,MA,USA,>
+2024-07-19,2024,0,6,1,1,0,0,14,2024 Summer Tour,2024 Summer,NICU,,1,Xfinity Center,Mansfield,MA,USA,","
+2024-07-19,2024,0,7,1,1,0,0,2,2024 Summer Tour,2024 Summer,Stash,,1,Xfinity Center,Mansfield,MA,USA,","
+2024-07-19,2024,0,8,4,1,0,0,2,2024 Summer Tour,2024 Summer,46 Days,,1,Xfinity Center,Mansfield,MA,USA,
 2024-07-19,2024,0,9,2,2,0,0,17,2024 Summer Tour,2024 Summer,Suzy Greenberg,Suzy,1,Xfinity Center,Mansfield,MA,USA,>
 2024-07-19,2024,0,10,2,2,0,0,4,2024 Summer Tour,2024 Summer,Run Like an Antelope,Antelope,1,Xfinity Center,Mansfield,MA,USA,>
-2024-07-19,2024,0,11,2,2,0,0,1,2024 Summer Tour,2024 Summer,Ghost,Ghost,1,Xfinity Center,Mansfield,MA,USA,>
-2024-07-19,2024,0,12,2,2,0,0,1,2024 Summer Tour,2024 Summer,Light,Light,0,Xfinity Center,Mansfield,MA,USA,>
-2024-07-19,2024,0,13,2,2,0,0,2,2024 Summer Tour,2024 Summer,Pillow Jets,Pillow Jets,0,Xfinity Center,Mansfield,MA,USA,>
-2024-07-19,2024,0,14,2,2,0,0,1,2024 Summer Tour,2024 Summer,Beneath a Sea of Stars Part 1,Beneath a Sea of Stars Part 1,0,Xfinity Center,Mansfield,MA,USA,>
+2024-07-19,2024,0,11,2,2,0,0,1,2024 Summer Tour,2024 Summer,Ghost,,1,Xfinity Center,Mansfield,MA,USA,>
+2024-07-19,2024,0,12,2,2,0,0,1,2024 Summer Tour,2024 Summer,Light,,0,Xfinity Center,Mansfield,MA,USA,>
+2024-07-19,2024,0,13,2,2,0,0,2,2024 Summer Tour,2024 Summer,Pillow Jets,,0,Xfinity Center,Mansfield,MA,USA,>
+2024-07-19,2024,0,14,2,2,0,0,1,2024 Summer Tour,2024 Summer,Beneath a Sea of Stars Part 1,,0,Xfinity Center,Mansfield,MA,USA,>
 2024-07-19,2024,0,15,5,2,0,0,3,2024 Summer Tour,2024 Summer,Split Open and Melt,SOAMelt,1,Xfinity Center,Mansfield,MA,USA,
 2024-07-19,2024,0,16,6,e,0,0,3,2024 Summer Tour,2024 Summer,Harry Hood,Hood,1,Xfinity Center,Mansfield,MA,USA,
 2024-07-20,2024,0,1,2,1,0,0,4,2024 Summer Tour,2024 Summer,Theme From the Bottom,Theme,1,Xfinity Center,Mansfield,MA,USA,>
 2024-07-20,2024,0,2,1,1,0,0,5,2024 Summer Tour,2024 Summer,Back on the Train,BOTT,0,Xfinity Center,Mansfield,MA,USA,","
-2024-07-20,2024,0,3,2,1,0,0,5,2024 Summer Tour,2024 Summer,Sand,Sand,0,Xfinity Center,Mansfield,MA,USA,>
+2024-07-20,2024,0,3,2,1,0,0,5,2024 Summer Tour,2024 Summer,Sand,,0,Xfinity Center,Mansfield,MA,USA,>
 2024-07-20,2024,0,4,1,1,0,0,13,2024 Summer Tour,2024 Summer,Bouncing Around the Room,Bouncin',1,Xfinity Center,Mansfield,MA,USA,","
 2024-07-20,2024,0,5,1,1,0,0,7,2024 Summer Tour,2024 Summer,Backwards Down the Number Line,BDTNL,0,Xfinity Center,Mansfield,MA,USA,","
-2024-07-20,2024,0,6,2,1,0,0,0,2024 Summer Tour,2024 Summer,Human Nature,Human Nature,1,Xfinity Center,Mansfield,MA,USA,>
-2024-07-20,2024,0,7,2,1,0,0,10,2024 Summer Tour,2024 Summer,It's Ice,It's Ice,1,Xfinity Center,Mansfield,MA,USA,>
+2024-07-20,2024,0,6,2,1,0,0,0,2024 Summer Tour,2024 Summer,Human Nature,,1,Xfinity Center,Mansfield,MA,USA,>
+2024-07-20,2024,0,7,2,1,0,0,10,2024 Summer Tour,2024 Summer,It's Ice,,1,Xfinity Center,Mansfield,MA,USA,>
 2024-07-20,2024,0,8,1,1,0,0,5,2024 Summer Tour,2024 Summer,Wolfman's Brother,Wolfman's,1,Xfinity Center,Mansfield,MA,USA,","
-2024-07-20,2024,0,9,4,1,0,0,12,2024 Summer Tour,2024 Summer,Drift While You're Sleeping,Drift While You're Sleeping,0,Xfinity Center,Mansfield,MA,USA,
+2024-07-20,2024,0,9,4,1,0,0,12,2024 Summer Tour,2024 Summer,Drift While You're Sleeping,,0,Xfinity Center,Mansfield,MA,USA,
 2024-07-20,2024,0,10,2,2,0,0,4,2024 Summer Tour,2024 Summer,You Enjoy Myself,YEM,1,Xfinity Center,Mansfield,MA,USA,>
-2024-07-20,2024,0,11,2,2,0,0,2,2024 Summer Tour,2024 Summer,Oblivion,Oblivion,0,Xfinity Center,Mansfield,MA,USA,>
+2024-07-20,2024,0,11,2,2,0,0,2,2024 Summer Tour,2024 Summer,Oblivion,,0,Xfinity Center,Mansfield,MA,USA,>
 2024-07-20,2024,0,12,2,2,0,0,6,2024 Summer Tour,2024 Summer,No Men In No Man's Land,NMINML,1,Xfinity Center,Mansfield,MA,USA,>
-2024-07-20,2024,0,13,1,2,0,0,14,2024 Summer Tour,2024 Summer,Monsters,Monsters,0,Xfinity Center,Mansfield,MA,USA,","
+2024-07-20,2024,0,13,1,2,0,0,14,2024 Summer Tour,2024 Summer,Monsters,,0,Xfinity Center,Mansfield,MA,USA,","
 2024-07-20,2024,0,14,2,2,0,0,2,2024 Summer Tour,2024 Summer,Also Sprach Zarathustra,2001,0,Xfinity Center,Mansfield,MA,USA,>
 2024-07-20,2024,0,15,5,2,0,0,3,2024 Summer Tour,2024 Summer,Chalk Dust Torture,CDT,1,Xfinity Center,Mansfield,MA,USA,
 2024-07-20,2024,0,16,1,e,0,0,6,2024 Summer Tour,2024 Summer,When the Circus Comes,Circus,0,Xfinity Center,Mansfield,MA,USA,","
 2024-07-20,2024,0,17,2,e,0,0,11,2024 Summer Tour,2024 Summer,David Bowie,Bowie,1,Xfinity Center,Mansfield,MA,USA,>
-2024-07-20,2024,0,18,6,e,0,0,3,2024 Summer Tour,2024 Summer,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Xfinity Center,Mansfield,MA,USA,
-2024-07-21,2024,0,1,1,1,0,0,5,2024 Summer Tour,2024 Summer,Free,Free,1,Xfinity Center,Mansfield,MA,USA,","
-2024-07-21,2024,0,2,1,1,0,0,5,2024 Summer Tour,2024 Summer,A Wave of Hope,A Wave of Hope,0,Xfinity Center,Mansfield,MA,USA,","
+2024-07-20,2024,0,18,6,e,0,0,3,2024 Summer Tour,2024 Summer,Say It To Me S.A.N.T.O.S.,,1,Xfinity Center,Mansfield,MA,USA,
+2024-07-21,2024,0,1,1,1,0,0,5,2024 Summer Tour,2024 Summer,Free,,1,Xfinity Center,Mansfield,MA,USA,","
+2024-07-21,2024,0,2,1,1,0,0,5,2024 Summer Tour,2024 Summer,A Wave of Hope,,0,Xfinity Center,Mansfield,MA,USA,","
 2024-07-21,2024,0,3,2,1,0,0,5,2024 Summer Tour,2024 Summer,Bathtub Gin,Gin,1,Xfinity Center,Mansfield,MA,USA,>
-2024-07-21,2024,0,4,1,1,0,0,11,2024 Summer Tour,2024 Summer,Wilson,Wilson,1,Xfinity Center,Mansfield,MA,USA,","
-2024-07-21,2024,0,5,1,1,0,0,150,2024 Summer Tour,2024 Summer,The Connection,The Connection,1,Xfinity Center,Mansfield,MA,USA,","
-2024-07-21,2024,0,6,1,1,0,0,122,2024 Summer Tour,2024 Summer,Thread,Thread,1,Xfinity Center,Mansfield,MA,USA,","
-2024-07-21,2024,0,7,1,1,0,0,18,2024 Summer Tour,2024 Summer,Joy,Joy,1,Xfinity Center,Mansfield,MA,USA,","
-2024-07-21,2024,0,8,2,1,0,0,9,2024 Summer Tour,2024 Summer,Runaway Jim,Runaway Jim,1,Xfinity Center,Mansfield,MA,USA,>
-2024-07-21,2024,0,9,4,1,0,0,6,2024 Summer Tour,2024 Summer,Life Saving Gun,Life Saving Gun,1,Xfinity Center,Mansfield,MA,USA,
+2024-07-21,2024,0,4,1,1,0,0,11,2024 Summer Tour,2024 Summer,Wilson,,1,Xfinity Center,Mansfield,MA,USA,","
+2024-07-21,2024,0,5,1,1,0,0,150,2024 Summer Tour,2024 Summer,The Connection,,1,Xfinity Center,Mansfield,MA,USA,","
+2024-07-21,2024,0,6,1,1,0,0,122,2024 Summer Tour,2024 Summer,Thread,,1,Xfinity Center,Mansfield,MA,USA,","
+2024-07-21,2024,0,7,1,1,0,0,18,2024 Summer Tour,2024 Summer,Joy,,1,Xfinity Center,Mansfield,MA,USA,","
+2024-07-21,2024,0,8,2,1,0,0,9,2024 Summer Tour,2024 Summer,Runaway Jim,,1,Xfinity Center,Mansfield,MA,USA,>
+2024-07-21,2024,0,9,4,1,0,0,6,2024 Summer Tour,2024 Summer,Life Saving Gun,,1,Xfinity Center,Mansfield,MA,USA,
 2024-07-21,2024,0,10,2,2,0,0,14,2024 Summer Tour,2024 Summer,The Squirming Coil,Coil,1,Xfinity Center,Mansfield,MA,USA,>
-2024-07-21,2024,0,11,2,2,0,0,6,2024 Summer Tour,2024 Summer,Tweezer,Tweezer,1,Xfinity Center,Mansfield,MA,USA,>
-2024-07-21,2024,0,12,2,2,0,0,25,2024 Summer Tour,2024 Summer,Scents and Subtle Sounds,Scents and Subtle Sounds,1,Xfinity Center,Mansfield,MA,USA,>
-2024-07-21,2024,0,13,2,2,0,0,4,2024 Summer Tour,2024 Summer,Twist,Twist,1,Xfinity Center,Mansfield,MA,USA,>
+2024-07-21,2024,0,11,2,2,0,0,6,2024 Summer Tour,2024 Summer,Tweezer,,1,Xfinity Center,Mansfield,MA,USA,>
+2024-07-21,2024,0,12,2,2,0,0,25,2024 Summer Tour,2024 Summer,Scents and Subtle Sounds,,1,Xfinity Center,Mansfield,MA,USA,>
+2024-07-21,2024,0,13,2,2,0,0,4,2024 Summer Tour,2024 Summer,Twist,,1,Xfinity Center,Mansfield,MA,USA,>
 2024-07-21,2024,0,14,2,2,0,0,17,2024 Summer Tour,2024 Summer,Crosseyed and Painless,C&amp;P,0,Xfinity Center,Mansfield,MA,USA,>
 2024-07-21,2024,0,15,5,2,0,0,3,2024 Summer Tour,2024 Summer,Slave to the Traffic Light,Slave,1,Xfinity Center,Mansfield,MA,USA,
-2024-07-21,2024,0,16,2,e,0,0,7,2024 Summer Tour,2024 Summer,Possum,Possum,1,Xfinity Center,Mansfield,MA,USA,>
+2024-07-21,2024,0,16,2,e,0,0,7,2024 Summer Tour,2024 Summer,Possum,,1,Xfinity Center,Mansfield,MA,USA,>
 2024-07-21,2024,0,17,6,e,0,0,4,2024 Summer Tour,2024 Summer,Tweezer Reprise,Tweeprise,1,Xfinity Center,Mansfield,MA,USA,
-2024-07-23,2024,0,1,1,1,0,0,16,2024 Summer Tour,2024 Summer,Martian Monster,Martian Monster,1,Mohegan Sun Arena,Uncasville,CT,USA,","
-2024-07-23,2024,0,2,2,1,0,0,8,2024 Summer Tour,2024 Summer,Rift,Rift,1,Mohegan Sun Arena,Uncasville,CT,USA,>
-2024-07-23,2024,0,3,1,1,0,0,5,2024 Summer Tour,2024 Summer,Golden Age,Golden Age,0,Mohegan Sun Arena,Uncasville,CT,USA,","
-2024-07-23,2024,0,4,1,1,0,0,10,2024 Summer Tour,2024 Summer,Gumbo,Gumbo,1,Mohegan Sun Arena,Uncasville,CT,USA,","
-2024-07-23,2024,0,5,1,1,0,0,15,2024 Summer Tour,2024 Summer,Funky Bitch,Funky Bitch,0,Mohegan Sun Arena,Uncasville,CT,USA,","
-2024-07-23,2024,0,6,1,1,0,0,31,2024 Summer Tour,2024 Summer,Guyute,Guyute,1,Mohegan Sun Arena,Uncasville,CT,USA,","
-2024-07-23,2024,0,7,1,1,0,0,13,2024 Summer Tour,2024 Summer,Undermind,Undermind,0,Mohegan Sun Arena,Uncasville,CT,USA,","
-2024-07-23,2024,0,8,1,1,0,0,4,2024 Summer Tour,2024 Summer,Evolve,Evolve,0,Mohegan Sun Arena,Uncasville,CT,USA,","
-2024-07-23,2024,0,9,2,1,0,0,38,2024 Summer Tour,2024 Summer,Waste,Waste,1,Mohegan Sun Arena,Uncasville,CT,USA,>
+2024-07-23,2024,0,1,1,1,0,0,16,2024 Summer Tour,2024 Summer,Martian Monster,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
+2024-07-23,2024,0,2,2,1,0,0,8,2024 Summer Tour,2024 Summer,Rift,,1,Mohegan Sun Arena,Uncasville,CT,USA,>
+2024-07-23,2024,0,3,1,1,0,0,5,2024 Summer Tour,2024 Summer,Golden Age,,0,Mohegan Sun Arena,Uncasville,CT,USA,","
+2024-07-23,2024,0,4,1,1,0,0,10,2024 Summer Tour,2024 Summer,Gumbo,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
+2024-07-23,2024,0,5,1,1,0,0,15,2024 Summer Tour,2024 Summer,Funky Bitch,,0,Mohegan Sun Arena,Uncasville,CT,USA,","
+2024-07-23,2024,0,6,1,1,0,0,31,2024 Summer Tour,2024 Summer,Guyute,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
+2024-07-23,2024,0,7,1,1,0,0,13,2024 Summer Tour,2024 Summer,Undermind,,0,Mohegan Sun Arena,Uncasville,CT,USA,","
+2024-07-23,2024,0,8,1,1,0,0,4,2024 Summer Tour,2024 Summer,Evolve,,0,Mohegan Sun Arena,Uncasville,CT,USA,","
+2024-07-23,2024,0,9,2,1,0,0,38,2024 Summer Tour,2024 Summer,Waste,,1,Mohegan Sun Arena,Uncasville,CT,USA,>
 2024-07-23,2024,0,10,4,1,0,0,19,2024 Summer Tour,2024 Summer,Walls of the Cave,WotC,1,Mohegan Sun Arena,Uncasville,CT,USA,
-2024-07-23,2024,0,11,2,2,0,0,4,2024 Summer Tour,2024 Summer,Plasma,Plasma,0,Mohegan Sun Arena,Uncasville,CT,USA,>
+2024-07-23,2024,0,11,2,2,0,0,4,2024 Summer Tour,2024 Summer,Plasma,,0,Mohegan Sun Arena,Uncasville,CT,USA,>
 2024-07-23,2024,0,12,2,2,0,0,9,2024 Summer Tour,2024 Summer,Kill Devil Falls,KDF,1,Mohegan Sun Arena,Uncasville,CT,USA,>
-2024-07-23,2024,0,13,2,2,0,0,7,2024 Summer Tour,2024 Summer,Carini,Carini,1,Mohegan Sun Arena,Uncasville,CT,USA,>
-2024-07-23,2024,0,14,2,2,0,0,6,2024 Summer Tour,2024 Summer,Ruby Waves,Ruby Waves,0,Mohegan Sun Arena,Uncasville,CT,USA,>
-2024-07-23,2024,0,15,2,2,0,0,4,2024 Summer Tour,2024 Summer,Piper,Piper,1,Mohegan Sun Arena,Uncasville,CT,USA,>
-2024-07-23,2024,0,16,1,2,0,0,5,2024 Summer Tour,2024 Summer,Mercy,Mercy,0,Mohegan Sun Arena,Uncasville,CT,USA,","
-2024-07-23,2024,0,17,5,2,0,0,7,2024 Summer Tour,2024 Summer,Everything's Right,Everything's Right,0,Mohegan Sun Arena,Uncasville,CT,USA,
-2024-07-23,2024,0,18,1,e,0,0,11,2024 Summer Tour,2024 Summer,Julius,Julius,1,Mohegan Sun Arena,Uncasville,CT,USA,","
-2024-07-23,2024,0,19,6,e,0,0,13,2024 Summer Tour,2024 Summer,About to Run,About to Run,0,Mohegan Sun Arena,Uncasville,CT,USA,
+2024-07-23,2024,0,13,2,2,0,0,7,2024 Summer Tour,2024 Summer,Carini,,1,Mohegan Sun Arena,Uncasville,CT,USA,>
+2024-07-23,2024,0,14,2,2,0,0,6,2024 Summer Tour,2024 Summer,Ruby Waves,,0,Mohegan Sun Arena,Uncasville,CT,USA,>
+2024-07-23,2024,0,15,2,2,0,0,4,2024 Summer Tour,2024 Summer,Piper,,1,Mohegan Sun Arena,Uncasville,CT,USA,>
+2024-07-23,2024,0,16,1,2,0,0,5,2024 Summer Tour,2024 Summer,Mercy,,0,Mohegan Sun Arena,Uncasville,CT,USA,","
+2024-07-23,2024,0,17,5,2,0,0,7,2024 Summer Tour,2024 Summer,Everything's Right,,0,Mohegan Sun Arena,Uncasville,CT,USA,
+2024-07-23,2024,0,18,1,e,0,0,11,2024 Summer Tour,2024 Summer,Julius,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
+2024-07-23,2024,0,19,6,e,0,0,13,2024 Summer Tour,2024 Summer,About to Run,,0,Mohegan Sun Arena,Uncasville,CT,USA,
 2024-07-24,2024,0,1,2,1,0,0,13,2024 Summer Tour,2024 Summer,AC/DC Bag,Bag,1,Mohegan Sun Arena,Uncasville,CT,USA,>
 2024-07-24,2024,0,2,2,1,0,0,54,2024 Summer Tour,2024 Summer,The Curtain With,Curtain With,1,Mohegan Sun Arena,Uncasville,CT,USA,>
-2024-07-24,2024,0,3,1,1,0,0,6,2024 Summer Tour,2024 Summer,Steam,Steam,1,Mohegan Sun Arena,Uncasville,CT,USA,","
-2024-07-24,2024,0,4,1,1,0,0,8,2024 Summer Tour,2024 Summer,Maze,Maze,1,Mohegan Sun Arena,Uncasville,CT,USA,","
-2024-07-24,2024,0,5,1,1,0,0,8,2024 Summer Tour,2024 Summer,Farmhouse,Farmhouse,1,Mohegan Sun Arena,Uncasville,CT,USA,","
-2024-07-24,2024,0,6,1,1,0,0,9,2024 Summer Tour,2024 Summer,Mull,Mull,1,Mohegan Sun Arena,Uncasville,CT,USA,","
-2024-07-24,2024,0,7,1,1,0,0,13,2024 Summer Tour,2024 Summer,Reba,Reba,1,Mohegan Sun Arena,Uncasville,CT,USA,","
-2024-07-24,2024,0,8,4,1,0,0,18,2024 Summer Tour,2024 Summer,Most Events Aren't Planned,Most Events Aren't Planned,0,Mohegan Sun Arena,Uncasville,CT,USA,
-2024-07-24,2024,0,9,2,2,0,0,8,2024 Summer Tour,2024 Summer,Blaze On,Blaze On,1,Mohegan Sun Arena,Uncasville,CT,USA,>
+2024-07-24,2024,0,3,1,1,0,0,6,2024 Summer Tour,2024 Summer,Steam,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
+2024-07-24,2024,0,4,1,1,0,0,8,2024 Summer Tour,2024 Summer,Maze,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
+2024-07-24,2024,0,5,1,1,0,0,8,2024 Summer Tour,2024 Summer,Farmhouse,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
+2024-07-24,2024,0,6,1,1,0,0,9,2024 Summer Tour,2024 Summer,Mull,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
+2024-07-24,2024,0,7,1,1,0,0,13,2024 Summer Tour,2024 Summer,Reba,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
+2024-07-24,2024,0,8,4,1,0,0,18,2024 Summer Tour,2024 Summer,Most Events Aren't Planned,,0,Mohegan Sun Arena,Uncasville,CT,USA,
+2024-07-24,2024,0,9,2,2,0,0,8,2024 Summer Tour,2024 Summer,Blaze On,,1,Mohegan Sun Arena,Uncasville,CT,USA,>
 2024-07-24,2024,0,10,2,2,0,0,8,2024 Summer Tour,2024 Summer,Mike's Song,Mike's,1,Mohegan Sun Arena,Uncasville,CT,USA,>
 2024-07-24,2024,0,11,2,2,0,0,54,2024 Summer Tour,2024 Summer,The Curtain With,Curtain With,1,Mohegan Sun Arena,Uncasville,CT,USA,>
 2024-07-24,2024,0,12,1,2,0,0,8,2024 Summer Tour,2024 Summer,Weekapaug Groove,Weekapaug,1,Mohegan Sun Arena,Uncasville,CT,USA,","
-2024-07-24,2024,0,13,1,2,0,0,7,2024 Summer Tour,2024 Summer,Leaves,Leaves,1,Mohegan Sun Arena,Uncasville,CT,USA,","
-2024-07-24,2024,0,14,2,2,0,0,6,2024 Summer Tour,2024 Summer,Fuego,Fuego,1,Mohegan Sun Arena,Uncasville,CT,USA,>
-2024-07-24,2024,0,15,2,2,0,0,7,2024 Summer Tour,2024 Summer,Lonely Trip,Lonely Trip,0,Mohegan Sun Arena,Uncasville,CT,USA,>
-2024-07-24,2024,0,16,1,2,0,0,5,2024 Summer Tour,2024 Summer,More,More,1,Mohegan Sun Arena,Uncasville,CT,USA,","
-2024-07-24,2024,0,17,5,2,0,0,8,2024 Summer Tour,2024 Summer,Fluffhead,Fluffhead,1,Mohegan Sun Arena,Uncasville,CT,USA,
-2024-07-24,2024,0,18,1,e,0,0,6,2024 Summer Tour,2024 Summer,A Life Beyond The Dream,A Life Beyond The Dream,0,Mohegan Sun Arena,Uncasville,CT,USA,","
-2024-07-24,2024,0,19,6,e,0,0,5,2024 Summer Tour,2024 Summer,First Tube,First Tube,0,Mohegan Sun Arena,Uncasville,CT,USA,
-2024-07-26,2024,0,1,1,1,0,0,5,2024 Summer Tour,2024 Summer,46 Days,46 Days,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2024-07-24,2024,0,13,1,2,0,0,7,2024 Summer Tour,2024 Summer,Leaves,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
+2024-07-24,2024,0,14,2,2,0,0,6,2024 Summer Tour,2024 Summer,Fuego,,1,Mohegan Sun Arena,Uncasville,CT,USA,>
+2024-07-24,2024,0,15,2,2,0,0,7,2024 Summer Tour,2024 Summer,Lonely Trip,,0,Mohegan Sun Arena,Uncasville,CT,USA,>
+2024-07-24,2024,0,16,1,2,0,0,5,2024 Summer Tour,2024 Summer,More,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
+2024-07-24,2024,0,17,5,2,0,0,8,2024 Summer Tour,2024 Summer,Fluffhead,,1,Mohegan Sun Arena,Uncasville,CT,USA,
+2024-07-24,2024,0,18,1,e,0,0,6,2024 Summer Tour,2024 Summer,A Life Beyond The Dream,,0,Mohegan Sun Arena,Uncasville,CT,USA,","
+2024-07-24,2024,0,19,6,e,0,0,5,2024 Summer Tour,2024 Summer,First Tube,,0,Mohegan Sun Arena,Uncasville,CT,USA,
+2024-07-26,2024,0,1,1,1,0,0,5,2024 Summer Tour,2024 Summer,46 Days,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2024-07-26,2024,0,2,1,1,0,0,8,2024 Summer Tour,2024 Summer,The Moma Dance,Moma,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2024-07-26,2024,0,3,1,1,0,0,14,2024 Summer Tour,2024 Summer,The Well,The Well,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2024-07-26,2024,0,3,1,1,0,0,14,2024 Summer Tour,2024 Summer,The Well,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2024-07-26,2024,0,4,3,1,0,0,9,2024 Summer Tour,2024 Summer,"My Friend, My Friend",My Friend,1,Alpine Valley Music Theatre,East Troy,WI,USA,->
-2024-07-26,2024,0,5,1,1,0,0,37,2024 Summer Tour,2024 Summer,Brian and Robert,Brian and Robert,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2024-07-26,2024,0,6,1,1,0,0,14,2024 Summer Tour,2024 Summer,Llama,Llama,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2024-07-26,2024,0,7,2,1,0,0,24,2024 Summer Tour,2024 Summer,Cities,Cities,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2024-07-26,2024,0,8,1,1,0,0,22,2024 Summer Tour,2024 Summer,Ya Mar,Ya Mar,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2024-07-26,2024,0,9,1,1,0,0,5,2024 Summer Tour,2024 Summer,Stash,Stash,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2024-07-26,2024,0,10,4,1,0,0,10,2024 Summer Tour,2024 Summer,Cavern,Cavern,1,Alpine Valley Music Theatre,East Troy,WI,USA,
-2024-07-26,2024,0,11,2,2,0,0,8,2024 Summer Tour,2024 Summer,Axilla (Part II),Axilla (Part II),1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2024-07-26,2024,0,5,1,1,0,0,37,2024 Summer Tour,2024 Summer,Brian and Robert,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2024-07-26,2024,0,6,1,1,0,0,14,2024 Summer Tour,2024 Summer,Llama,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2024-07-26,2024,0,7,2,1,0,0,24,2024 Summer Tour,2024 Summer,Cities,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2024-07-26,2024,0,8,1,1,0,0,22,2024 Summer Tour,2024 Summer,Ya Mar,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2024-07-26,2024,0,9,1,1,0,0,5,2024 Summer Tour,2024 Summer,Stash,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2024-07-26,2024,0,10,4,1,0,0,10,2024 Summer Tour,2024 Summer,Cavern,,1,Alpine Valley Music Theatre,East Troy,WI,USA,
+2024-07-26,2024,0,11,2,2,0,0,8,2024 Summer Tour,2024 Summer,Axilla (Part II),,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2024-07-26,2024,0,12,2,2,0,0,5,2024 Summer Tour,2024 Summer,Down with Disease,DwD,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2024-07-26,2024,0,13,2,2,0,0,18,2024 Summer Tour,2024 Summer,Mercury,Mercury,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2024-07-26,2024,0,14,2,2,0,0,7,2024 Summer Tour,2024 Summer,Taste,Taste,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2024-07-26,2024,0,15,2,2,0,0,5,2024 Summer Tour,2024 Summer,Ghost,Ghost,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2024-07-26,2024,0,13,2,2,0,0,18,2024 Summer Tour,2024 Summer,Mercury,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2024-07-26,2024,0,14,2,2,0,0,7,2024 Summer Tour,2024 Summer,Taste,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2024-07-26,2024,0,15,2,2,0,0,5,2024 Summer Tour,2024 Summer,Ghost,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2024-07-26,2024,0,16,1,2,0,0,39,2024 Summer Tour,2024 Summer,Limb By Limb,LxL,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2024-07-26,2024,0,17,2,2,0,0,86,2024 Summer Tour,2024 Summer,The Horse,Horse,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2024-07-26,2024,0,18,1,2,0,0,86,2024 Summer Tour,2024 Summer,Silent in the Morning,Silent,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2024-07-26,2024,0,19,5,2,0,0,38,2024 Summer Tour,2024 Summer,Good Times Bad Times,GTBT,0,Alpine Valley Music Theatre,East Troy,WI,USA,
-2024-07-26,2024,0,20,2,e,0,0,95,2024 Summer Tour,2024 Summer,Contact,Contact,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2024-07-26,2024,0,20,2,e,0,0,95,2024 Summer Tour,2024 Summer,Contact,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2024-07-26,2024,0,21,6,e,0,0,5,2024 Summer Tour,2024 Summer,Run Like an Antelope,Antelope,1,Alpine Valley Music Theatre,East Troy,WI,USA,
 2024-07-27,2024,0,1,1,1,0,0,18,2024 Summer Tour,2024 Summer,Sample in a Jar,Sample,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2024-07-27,2024,0,2,2,1,0,0,18,2024 Summer Tour,2024 Summer,Halley's Comet,Halley's,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2024-07-27,2024,0,3,1,1,0,0,13,2024 Summer Tour,2024 Summer,Birds of a Feather,BOAF,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2024-07-27,2024,0,4,1,1,0,0,8,2024 Summer Tour,2024 Summer,Mountains in the Mist,Mist,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2024-07-27,2024,0,5,1,1,0,0,21,2024 Summer Tour,2024 Summer,Foam,Foam,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2024-07-27,2024,0,6,1,1,0,0,38,2024 Summer Tour,2024 Summer,Moonage Daydream,Moonage Daydream,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2024-07-27,2024,0,7,1,1,0,0,13,2024 Summer Tour,2024 Summer,My Soul,My Soul,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2024-07-27,2024,0,5,1,1,0,0,21,2024 Summer Tour,2024 Summer,Foam,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2024-07-27,2024,0,6,1,1,0,0,38,2024 Summer Tour,2024 Summer,Moonage Daydream,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2024-07-27,2024,0,7,1,1,0,0,13,2024 Summer Tour,2024 Summer,My Soul,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2024-07-27,2024,0,8,1,1,0,0,15,2024 Summer Tour,2024 Summer,The Lizards,Lizards,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2024-07-27,2024,0,9,4,1,0,0,5,2024 Summer Tour,2024 Summer,David Bowie,Bowie,1,Alpine Valley Music Theatre,East Troy,WI,USA,
-2024-07-27,2024,0,10,3,2,0,0,8,2024 Summer Tour,2024 Summer,Sigma Oasis,Sigma Oasis,0,Alpine Valley Music Theatre,East Troy,WI,USA,->
-2024-07-27,2024,0,11,1,2,0,0,11,2024 Summer Tour,2024 Summer,Simple,Simple,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2024-07-27,2024,0,12,2,2,0,0,11,2024 Summer Tour,2024 Summer,The Howling,The Howling,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2024-07-27,2024,0,13,2,2,0,0,4,2024 Summer Tour,2024 Summer,A Wave of Hope,A Wave of Hope,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2024-07-27,2024,0,14,1,2,0,0,10,2024 Summer Tour,2024 Summer,Lifeboy,Lifeboy,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2024-07-27,2024,0,15,2,2,0,0,5,2024 Summer Tour,2024 Summer,Sand,Sand,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2024-07-27,2024,0,10,3,2,0,0,8,2024 Summer Tour,2024 Summer,Sigma Oasis,,0,Alpine Valley Music Theatre,East Troy,WI,USA,->
+2024-07-27,2024,0,11,1,2,0,0,11,2024 Summer Tour,2024 Summer,Simple,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2024-07-27,2024,0,12,2,2,0,0,11,2024 Summer Tour,2024 Summer,The Howling,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2024-07-27,2024,0,13,2,2,0,0,4,2024 Summer Tour,2024 Summer,A Wave of Hope,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2024-07-27,2024,0,14,1,2,0,0,10,2024 Summer Tour,2024 Summer,Lifeboy,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2024-07-27,2024,0,15,2,2,0,0,5,2024 Summer Tour,2024 Summer,Sand,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2024-07-27,2024,0,16,5,2,0,0,21,2024 Summer Tour,2024 Summer,Golgi Apparatus,Golgi,1,Alpine Valley Music Theatre,East Troy,WI,USA,
-2024-07-27,2024,0,17,1,e,0,0,29,2024 Summer Tour,2024 Summer,Esther,Esther,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2024-07-27,2024,0,18,6,e,0,0,6,2024 Summer Tour,2024 Summer,Character Zero,Character Zero,1,Alpine Valley Music Theatre,East Troy,WI,USA,
+2024-07-27,2024,0,17,1,e,0,0,29,2024 Summer Tour,2024 Summer,Esther,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2024-07-27,2024,0,18,6,e,0,0,6,2024 Summer Tour,2024 Summer,Character Zero,,1,Alpine Valley Music Theatre,East Troy,WI,USA,
 2024-07-28,2024,0,1,1,1,0,0,9,2024 Summer Tour,2024 Summer,A Song I Heard the Ocean Sing,ASIHTOS,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2024-07-28,2024,0,2,1,1,0,0,9,2024 Summer Tour,2024 Summer,Tube,Tube,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2024-07-28,2024,0,3,2,1,0,0,23,2024 Summer Tour,2024 Summer,555,555,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2024-07-28,2024,0,2,1,1,0,0,9,2024 Summer Tour,2024 Summer,Tube,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2024-07-28,2024,0,3,2,1,0,0,23,2024 Summer Tour,2024 Summer,555,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2024-07-28,2024,0,4,1,1,0,0,8,2024 Summer Tour,2024 Summer,Divided Sky,Divided,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2024-07-28,2024,0,5,1,1,0,0,6,2024 Summer Tour,2024 Summer,Wolfman's Brother,Wolfman's,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2024-07-28,2024,0,6,1,1,0,0,5,2024 Summer Tour,2024 Summer,Bathtub Gin,Gin,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2024-07-28,2024,0,7,2,1,0,0,14,2024 Summer Tour,2024 Summer,Bug,Bug,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2024-07-28,2024,0,8,4,1,0,0,5,2024 Summer Tour,2024 Summer,Possum,Possum,1,Alpine Valley Music Theatre,East Troy,WI,USA,
-2024-07-28,2024,0,9,2,2,0,0,9,2024 Summer Tour,2024 Summer,Set Your Soul Free,Set Your Soul Free,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2024-07-28,2024,0,7,2,1,0,0,14,2024 Summer Tour,2024 Summer,Bug,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2024-07-28,2024,0,8,4,1,0,0,5,2024 Summer Tour,2024 Summer,Possum,,1,Alpine Valley Music Theatre,East Troy,WI,USA,
+2024-07-28,2024,0,9,2,2,0,0,9,2024 Summer Tour,2024 Summer,Set Your Soul Free,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2024-07-28,2024,0,10,2,2,0,0,10,2024 Summer Tour,2024 Summer,Prince Caspian,Caspian,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2024-07-28,2024,0,11,2,2,0,0,6,2024 Summer Tour,2024 Summer,Chalk Dust Torture,CDT,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2024-07-28,2024,0,12,1,2,0,0,11,2024 Summer Tour,2024 Summer,Dirt,Dirt,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2024-07-28,2024,0,13,2,2,0,0,6,2024 Summer Tour,2024 Summer,Oblivion,Oblivion,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2024-07-28,2024,0,14,3,2,0,0,7,2024 Summer Tour,2024 Summer,Light,Light,0,Alpine Valley Music Theatre,East Troy,WI,USA,->
-2024-07-28,2024,0,15,2,2,0,0,46,2024 Summer Tour,2024 Summer,Twenty Years Later,Twenty Years Later,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2024-07-28,2024,0,12,1,2,0,0,11,2024 Summer Tour,2024 Summer,Dirt,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2024-07-28,2024,0,13,2,2,0,0,6,2024 Summer Tour,2024 Summer,Oblivion,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2024-07-28,2024,0,14,3,2,0,0,7,2024 Summer Tour,2024 Summer,Light,,0,Alpine Valley Music Theatre,East Troy,WI,USA,->
+2024-07-28,2024,0,15,2,2,0,0,46,2024 Summer Tour,2024 Summer,Twenty Years Later,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2024-07-28,2024,0,16,2,2,0,0,6,2024 Summer Tour,2024 Summer,Also Sprach Zarathustra,2001,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2024-07-28,2024,0,17,5,2,0,0,7,2024 Summer Tour,2024 Summer,Split Open and Melt,SOAMelt,1,Alpine Valley Music Theatre,East Troy,WI,USA,
 2024-07-28,2024,0,18,1,e,0,0,28,2024 Summer Tour,2024 Summer,The Wedge,Wedge,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2024-07-28,2024,0,19,6,e,0,0,4,2024 Summer Tour,2024 Summer,Carini,Carini,1,Alpine Valley Music Theatre,East Troy,WI,USA,
+2024-07-28,2024,0,19,6,e,0,0,4,2024 Summer Tour,2024 Summer,Carini,,1,Alpine Valley Music Theatre,East Troy,WI,USA,
 2024-07-30,2024,0,1,1,1,0,0,47,2024 Summer Tour,2024 Summer,Cars Trucks Buses,CTB,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
 2024-07-30,2024,0,2,1,1,0,0,28,2024 Summer Tour,2024 Summer,Gotta Jibboo,Jibboo,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2024-07-30,2024,0,3,1,1,0,0,8,2024 Summer Tour,2024 Summer,NICU,NICU,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2024-07-30,2024,0,4,1,1,0,0,16,2024 Summer Tour,2024 Summer,Ocelot,Ocelot,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2024-07-30,2024,0,5,1,1,0,0,5,2024 Summer Tour,2024 Summer,Evolve,Evolve,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2024-07-30,2024,0,3,1,1,0,0,8,2024 Summer Tour,2024 Summer,NICU,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2024-07-30,2024,0,4,1,1,0,0,16,2024 Summer Tour,2024 Summer,Ocelot,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2024-07-30,2024,0,5,1,1,0,0,5,2024 Summer Tour,2024 Summer,Evolve,,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
 2024-07-30,2024,0,6,1,1,0,0,7,2024 Summer Tour,2024 Summer,Theme From the Bottom,Theme,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2024-07-30,2024,0,7,1,1,0,0,21,2024 Summer Tour,2024 Summer,Vultures,Vultures,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2024-07-30,2024,0,7,1,1,0,0,21,2024 Summer Tour,2024 Summer,Vultures,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
 2024-07-30,2024,0,8,1,1,0,0,21,2024 Summer Tour,2024 Summer,Timber (Jerry the Mule),Timber Ho,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2024-07-30,2024,0,9,4,1,0,0,5,2024 Summer Tour,2024 Summer,Everything's Right,Everything's Right,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,
-2024-07-30,2024,0,10,1,2,0,0,45,2024 Summer Tour,2024 Summer,I Never Needed You Like This Before,I Never Needed You Like This Before,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2024-07-30,2024,0,11,1,2,0,0,6,2024 Summer Tour,2024 Summer,Tweezer,Tweezer,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2024-07-30,2024,0,12,3,2,0,0,9,2024 Summer Tour,2024 Summer,Ether Edge,Ether Edge,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,->
-2024-07-30,2024,0,13,1,2,0,0,5,2024 Summer Tour,2024 Summer,Piper,Piper,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2024-07-30,2024,0,14,1,2,0,0,23,2024 Summer Tour,2024 Summer,Meat,Meat,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2024-07-30,2024,0,15,5,2,0,0,4,2024 Summer Tour,2024 Summer,Blaze On,Blaze On,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,
-2024-07-30,2024,0,16,2,e,0,0,23,2024 Summer Tour,2024 Summer,Saw It Again,Saw It Again,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
+2024-07-30,2024,0,9,4,1,0,0,5,2024 Summer Tour,2024 Summer,Everything's Right,,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,
+2024-07-30,2024,0,10,1,2,0,0,45,2024 Summer Tour,2024 Summer,I Never Needed You Like This Before,,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2024-07-30,2024,0,11,1,2,0,0,6,2024 Summer Tour,2024 Summer,Tweezer,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2024-07-30,2024,0,12,3,2,0,0,9,2024 Summer Tour,2024 Summer,Ether Edge,,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,->
+2024-07-30,2024,0,13,1,2,0,0,5,2024 Summer Tour,2024 Summer,Piper,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2024-07-30,2024,0,14,1,2,0,0,23,2024 Summer Tour,2024 Summer,Meat,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2024-07-30,2024,0,15,5,2,0,0,4,2024 Summer Tour,2024 Summer,Blaze On,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,
+2024-07-30,2024,0,16,2,e,0,0,23,2024 Summer Tour,2024 Summer,Saw It Again,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
 2024-07-30,2024,0,17,6,e,0,0,6,2024 Summer Tour,2024 Summer,Tweezer Reprise,Tweeprise,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,
-2024-07-31,2024,0,1,1,1,0,0,19,2024 Summer Tour,2024 Summer,Turtle in the Clouds,Turtle in the Clouds,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2024-07-31,2024,0,2,1,1,0,0,9,2024 Summer Tour,2024 Summer,Hey Stranger,Hey Stranger,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2024-07-31,2024,0,1,1,1,0,0,19,2024 Summer Tour,2024 Summer,Turtle in the Clouds,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2024-07-31,2024,0,2,1,1,0,0,9,2024 Summer Tour,2024 Summer,Hey Stranger,,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
 2024-07-31,2024,0,3,1,1,0,0,8,2024 Summer Tour,2024 Summer,Back on the Train,BOTT,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2024-07-31,2024,0,4,1,1,0,0,48,2024 Summer Tour,2024 Summer,Lawn Boy,Lawn Boy,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2024-07-31,2024,0,4,1,1,0,0,48,2024 Summer Tour,2024 Summer,Lawn Boy,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
 2024-07-31,2024,0,5,1,1,0,0,8,2024 Summer Tour,2024 Summer,Backwards Down the Number Line,BDTNL,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2024-07-31,2024,0,6,1,1,0,0,41,2024 Summer Tour,2024 Summer,Horn,Horn,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2024-07-31,2024,0,7,1,1,0,0,22,2024 Summer Tour,2024 Summer,Pebbles and Marbles,Pebbles and Marbles,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2024-07-31,2024,0,6,1,1,0,0,41,2024 Summer Tour,2024 Summer,Horn,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2024-07-31,2024,0,7,1,1,0,0,22,2024 Summer Tour,2024 Summer,Pebbles and Marbles,,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
 2024-07-31,2024,0,8,2,1,0,0,8,2024 Summer Tour,2024 Summer,Bouncing Around the Room,Bouncin',1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
 2024-07-31,2024,0,9,1,1,0,0,43,2024 Summer Tour,2024 Summer,Boogie On Reggae Woman,Boogie On,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
 2024-07-31,2024,0,10,4,1,0,0,7,2024 Summer Tour,2024 Summer,The Squirming Coil,Coil,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,
-2024-07-31,2024,0,11,1,2,0,0,7,2024 Summer Tour,2024 Summer,Free,Free,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2024-07-31,2024,0,12,1,2,0,0,55,2024 Summer Tour,2024 Summer,Mr. Completely,Mr. Completely,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2024-07-31,2024,0,13,2,2,0,0,17,2024 Summer Tour,2024 Summer,If I Could,If I Could,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
-2024-07-31,2024,0,14,2,2,0,0,7,2024 Summer Tour,2024 Summer,Twist,Twist,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
-2024-07-31,2024,0,15,2,2,0,0,6,2024 Summer Tour,2024 Summer,Ruby Waves,Ruby Waves,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
+2024-07-31,2024,0,11,1,2,0,0,7,2024 Summer Tour,2024 Summer,Free,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2024-07-31,2024,0,12,1,2,0,0,55,2024 Summer Tour,2024 Summer,Mr. Completely,,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2024-07-31,2024,0,13,2,2,0,0,17,2024 Summer Tour,2024 Summer,If I Could,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
+2024-07-31,2024,0,14,2,2,0,0,7,2024 Summer Tour,2024 Summer,Twist,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
+2024-07-31,2024,0,15,2,2,0,0,6,2024 Summer Tour,2024 Summer,Ruby Waves,,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
 2024-07-31,2024,0,16,2,2,0,0,8,2024 Summer Tour,2024 Summer,No Men In No Man's Land,NMINML,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
-2024-07-31,2024,0,17,5,2,0,0,5,2024 Summer Tour,2024 Summer,First Tube,First Tube,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,
-2024-07-31,2024,0,18,1,e,0,0,46,2024 Summer Tour,2024 Summer,Grind,Grind,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2024-07-31,2024,0,19,2,e,0,0,45,2024 Summer Tour,2024 Summer,Miss You,Miss You,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
+2024-07-31,2024,0,17,5,2,0,0,5,2024 Summer Tour,2024 Summer,First Tube,,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,
+2024-07-31,2024,0,18,1,e,0,0,46,2024 Summer Tour,2024 Summer,Grind,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
+2024-07-31,2024,0,19,2,e,0,0,45,2024 Summer Tour,2024 Summer,Miss You,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
 2024-07-31,2024,0,20,6,e,0,0,9,2024 Summer Tour,2024 Summer,Harry Hood,Hood,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,
 2024-08-02,2024,0,1,1,1,0,0,18,2024 Summer Tour,2024 Summer,Punch You in the Eye,PYITE,1,Ruoff Music Center,Noblesville,IN,USA,","
 2024-08-02,2024,0,2,1,1,0,0,7,2024 Summer Tour,2024 Summer,Kill Devil Falls,KDF,1,Ruoff Music Center,Noblesville,IN,USA,","
-2024-08-02,2024,0,3,1,1,0,0,17,2024 Summer Tour,2024 Summer,Halfway to the Moon,Halfway to the Moon,1,Ruoff Music Center,Noblesville,IN,USA,","
-2024-08-02,2024,0,4,1,1,0,0,66,2024 Summer Tour,2024 Summer,Heavy Things,Heavy Things,1,Ruoff Music Center,Noblesville,IN,USA,","
-2024-08-02,2024,0,5,1,1,0,0,8,2024 Summer Tour,2024 Summer,Life Saving Gun,Life Saving Gun,1,Ruoff Music Center,Noblesville,IN,USA,","
-2024-08-02,2024,0,6,2,1,0,0,10,2024 Summer Tour,2024 Summer,Shade,Shade,1,Ruoff Music Center,Noblesville,IN,USA,>
+2024-08-02,2024,0,3,1,1,0,0,17,2024 Summer Tour,2024 Summer,Halfway to the Moon,,1,Ruoff Music Center,Noblesville,IN,USA,","
+2024-08-02,2024,0,4,1,1,0,0,66,2024 Summer Tour,2024 Summer,Heavy Things,,1,Ruoff Music Center,Noblesville,IN,USA,","
+2024-08-02,2024,0,5,1,1,0,0,8,2024 Summer Tour,2024 Summer,Life Saving Gun,,1,Ruoff Music Center,Noblesville,IN,USA,","
+2024-08-02,2024,0,6,2,1,0,0,10,2024 Summer Tour,2024 Summer,Shade,,1,Ruoff Music Center,Noblesville,IN,USA,>
 2024-08-02,2024,0,7,1,1,0,0,74,2024 Summer Tour,2024 Summer,Scent of a Mule,SOAMule,1,Ruoff Music Center,Noblesville,IN,USA,","
-2024-08-02,2024,0,8,2,1,0,0,10,2024 Summer Tour,2024 Summer,Pillow Jets,Pillow Jets,0,Ruoff Music Center,Noblesville,IN,USA,>
-2024-08-02,2024,0,9,1,1,0,0,8,2024 Summer Tour,2024 Summer,Runaway Jim,Runaway Jim,1,Ruoff Music Center,Noblesville,IN,USA,","
+2024-08-02,2024,0,8,2,1,0,0,10,2024 Summer Tour,2024 Summer,Pillow Jets,,0,Ruoff Music Center,Noblesville,IN,USA,>
+2024-08-02,2024,0,9,1,1,0,0,8,2024 Summer Tour,2024 Summer,Runaway Jim,,1,Ruoff Music Center,Noblesville,IN,USA,","
 2024-08-02,2024,0,10,4,1,0,0,161,2024 Summer Tour,2024 Summer,A Day in the Life,ADITL,0,Ruoff Music Center,Noblesville,IN,USA,
 2024-08-02,2024,0,11,2,2,0,0,85,2024 Summer Tour,2024 Summer,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Ruoff Music Center,Noblesville,IN,USA,>
-2024-08-02,2024,0,12,2,2,0,0,5,2024 Summer Tour,2024 Summer,Axilla (Part II),Axilla (Part II),1,Ruoff Music Center,Noblesville,IN,USA,>
+2024-08-02,2024,0,12,2,2,0,0,5,2024 Summer Tour,2024 Summer,Axilla (Part II),,1,Ruoff Music Center,Noblesville,IN,USA,>
 2024-08-02,2024,0,13,1,2,0,0,5,2024 Summer Tour,2024 Summer,Down with Disease,DwD,1,Ruoff Music Center,Noblesville,IN,USA,","
-2024-08-02,2024,0,14,3,2,0,0,8,2024 Summer Tour,2024 Summer,Scents and Subtle Sounds,Scents and Subtle Sounds,1,Ruoff Music Center,Noblesville,IN,USA,->
+2024-08-02,2024,0,14,3,2,0,0,8,2024 Summer Tour,2024 Summer,Scents and Subtle Sounds,,1,Ruoff Music Center,Noblesville,IN,USA,->
 2024-08-02,2024,0,15,2,2,0,0,0,2024 Summer Tour,2024 Summer,Down with Disease,DwD,1,Ruoff Music Center,Noblesville,IN,USA,>
 2024-08-02,2024,0,16,2,2,0,0,13,2024 Summer Tour,2024 Summer,What's the Use?,WTU?,1,Ruoff Music Center,Noblesville,IN,USA,>
-2024-08-02,2024,0,17,1,2,0,0,7,2024 Summer Tour,2024 Summer,Golden Age,Golden Age,0,Ruoff Music Center,Noblesville,IN,USA,","
-2024-08-02,2024,0,18,3,2,0,0,29,2024 Summer Tour,2024 Summer,I Always Wanted It This Way,I Always Wanted It This Way,1,Ruoff Music Center,Noblesville,IN,USA,->
+2024-08-02,2024,0,17,1,2,0,0,7,2024 Summer Tour,2024 Summer,Golden Age,,0,Ruoff Music Center,Noblesville,IN,USA,","
+2024-08-02,2024,0,18,3,2,0,0,29,2024 Summer Tour,2024 Summer,I Always Wanted It This Way,,1,Ruoff Music Center,Noblesville,IN,USA,->
 2024-08-02,2024,0,19,5,2,0,0,0,2024 Summer Tour,2024 Summer,Down with Disease,DwD,1,Ruoff Music Center,Noblesville,IN,USA,
 2024-08-02,2024,0,20,3,e,0,0,9,2024 Summer Tour,2024 Summer,You Enjoy Myself,YEM,1,Ruoff Music Center,Noblesville,IN,USA,->
 2024-08-02,2024,0,21,6,e,0,0,0,2024 Summer Tour,2024 Summer,Down with Disease,DwD,1,Ruoff Music Center,Noblesville,IN,USA,
 2024-08-03,2024,0,1,2,1,0,0,7,2024 Summer Tour,2024 Summer,Mike's Song,Mike's,1,Ruoff Music Center,Noblesville,IN,USA,>
 2024-08-03,2024,0,2,2,1,0,0,13,2024 Summer Tour,2024 Summer,I Am Hydrogen,Hydrogen,1,Ruoff Music Center,Noblesville,IN,USA,>
 2024-08-03,2024,0,3,1,1,0,0,7,2024 Summer Tour,2024 Summer,Weekapaug Groove,Weekapaug,1,Ruoff Music Center,Noblesville,IN,USA,","
-2024-08-03,2024,0,4,1,1,0,0,5,2024 Summer Tour,2024 Summer,Character Zero,Character Zero,1,Ruoff Music Center,Noblesville,IN,USA,","
-2024-08-03,2024,0,5,2,1,0,0,9,2024 Summer Tour,2024 Summer,Drift While You're Sleeping,Drift While You're Sleeping,0,Ruoff Music Center,Noblesville,IN,USA,>
-2024-08-03,2024,0,6,1,1,0,0,7,2024 Summer Tour,2024 Summer,Maze,Maze,1,Ruoff Music Center,Noblesville,IN,USA,","
+2024-08-03,2024,0,4,1,1,0,0,5,2024 Summer Tour,2024 Summer,Character Zero,,1,Ruoff Music Center,Noblesville,IN,USA,","
+2024-08-03,2024,0,5,2,1,0,0,9,2024 Summer Tour,2024 Summer,Drift While You're Sleeping,,0,Ruoff Music Center,Noblesville,IN,USA,>
+2024-08-03,2024,0,6,1,1,0,0,7,2024 Summer Tour,2024 Summer,Maze,,1,Ruoff Music Center,Noblesville,IN,USA,","
 2024-08-03,2024,0,7,1,1,0,0,46,2024 Summer Tour,2024 Summer,I Didn't Know,IDK,1,Ruoff Music Center,Noblesville,IN,USA,","
-2024-08-03,2024,0,8,1,1,0,0,7,2024 Summer Tour,2024 Summer,Reba,Reba,1,Ruoff Music Center,Noblesville,IN,USA,","
-2024-08-03,2024,0,9,4,1,0,0,26,2024 Summer Tour,2024 Summer,Izabella,Izabella,0,Ruoff Music Center,Noblesville,IN,USA,
+2024-08-03,2024,0,8,1,1,0,0,7,2024 Summer Tour,2024 Summer,Reba,,1,Ruoff Music Center,Noblesville,IN,USA,","
+2024-08-03,2024,0,9,4,1,0,0,26,2024 Summer Tour,2024 Summer,Izabella,,0,Ruoff Music Center,Noblesville,IN,USA,
 2024-08-03,2024,0,10,3,2,0,0,4,2024 Summer Tour,2024 Summer,Chalk Dust Torture,CDT,1,Ruoff Music Center,Noblesville,IN,USA,->
-2024-08-03,2024,0,11,1,2,0,0,7,2024 Summer Tour,2024 Summer,Plasma,Plasma,0,Ruoff Music Center,Noblesville,IN,USA,","
-2024-08-03,2024,0,12,1,2,0,0,10,2024 Summer Tour,2024 Summer,Monsters,Monsters,0,Ruoff Music Center,Noblesville,IN,USA,","
+2024-08-03,2024,0,11,1,2,0,0,7,2024 Summer Tour,2024 Summer,Plasma,,0,Ruoff Music Center,Noblesville,IN,USA,","
+2024-08-03,2024,0,12,1,2,0,0,10,2024 Summer Tour,2024 Summer,Monsters,,0,Ruoff Music Center,Noblesville,IN,USA,","
 2024-08-03,2024,0,13,3,2,0,0,9,2024 Summer Tour,2024 Summer,Crosseyed and Painless,C&amp;P,0,Ruoff Music Center,Noblesville,IN,USA,->
-2024-08-03,2024,0,14,3,2,0,0,37,2024 Summer Tour,2024 Summer,Guy Forget,Guy Forget,1,Ruoff Music Center,Noblesville,IN,USA,->
+2024-08-03,2024,0,14,3,2,0,0,37,2024 Summer Tour,2024 Summer,Guy Forget,,1,Ruoff Music Center,Noblesville,IN,USA,->
 2024-08-03,2024,0,15,2,2,0,0,0,2024 Summer Tour,2024 Summer,Crosseyed and Painless,C&amp;P,0,Ruoff Music Center,Noblesville,IN,USA,>
-2024-08-03,2024,0,16,5,2,0,0,7,2024 Summer Tour,2024 Summer,Fuego,Fuego,1,Ruoff Music Center,Noblesville,IN,USA,
+2024-08-03,2024,0,16,5,2,0,0,7,2024 Summer Tour,2024 Summer,Fuego,,1,Ruoff Music Center,Noblesville,IN,USA,
 2024-08-03,2024,0,17,6,e,0,0,36,2024 Summer Tour,2024 Summer,Rock and Roll,R&amp;R,0,Ruoff Music Center,Noblesville,IN,USA,
-2024-08-04,2024,0,1,1,1,0,0,49,2024 Summer Tour,2024 Summer,Party Time,Party Time,1,Ruoff Music Center,Noblesville,IN,USA,","
-2024-08-04,2024,0,2,1,1,0,0,49,2024 Summer Tour,2024 Summer,The Final Hurrah,The Final Hurrah,1,Ruoff Music Center,Noblesville,IN,USA,","
+2024-08-04,2024,0,1,1,1,0,0,49,2024 Summer Tour,2024 Summer,Party Time,,1,Ruoff Music Center,Noblesville,IN,USA,","
+2024-08-04,2024,0,2,1,1,0,0,49,2024 Summer Tour,2024 Summer,The Final Hurrah,,1,Ruoff Music Center,Noblesville,IN,USA,","
 2024-08-04,2024,0,3,1,1,0,0,102,2024 Summer Tour,2024 Summer,Knuckle Bone Broth Avenue,KBBA,1,Ruoff Music Center,Noblesville,IN,USA,","
 2024-08-04,2024,0,4,1,1,0,0,47,2024 Summer Tour,2024 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Ruoff Music Center,Noblesville,IN,USA,","
-2024-08-04,2024,0,5,1,1,0,0,43,2024 Summer Tour,2024 Summer,The Dogs,The Dogs,1,Ruoff Music Center,Noblesville,IN,USA,","
+2024-08-04,2024,0,5,1,1,0,0,43,2024 Summer Tour,2024 Summer,The Dogs,,1,Ruoff Music Center,Noblesville,IN,USA,","
 2024-08-04,2024,0,6,2,1,0,0,19,2024 Summer Tour,2024 Summer,Destiny Unbound,Destiny,1,Ruoff Music Center,Noblesville,IN,USA,>
-2024-08-04,2024,0,7,1,1,0,0,7,2024 Summer Tour,2024 Summer,46 Days,46 Days,1,Ruoff Music Center,Noblesville,IN,USA,","
+2024-08-04,2024,0,7,1,1,0,0,7,2024 Summer Tour,2024 Summer,46 Days,,1,Ruoff Music Center,Noblesville,IN,USA,","
 2024-08-04,2024,0,8,1,1,0,0,20,2024 Summer Tour,2024 Summer,McGrupp and the Watchful Hosemasters,McGrupp,1,Ruoff Music Center,Noblesville,IN,USA,","
-2024-08-04,2024,0,9,1,1,0,0,43,2024 Summer Tour,2024 Summer,Wingsuit,Wingsuit,1,Ruoff Music Center,Noblesville,IN,USA,","
-2024-08-04,2024,0,10,2,1,0,0,41,2024 Summer Tour,2024 Summer,Meatstick,Meatstick,1,Ruoff Music Center,Noblesville,IN,USA,>
+2024-08-04,2024,0,9,1,1,0,0,43,2024 Summer Tour,2024 Summer,Wingsuit,,1,Ruoff Music Center,Noblesville,IN,USA,","
+2024-08-04,2024,0,10,2,1,0,0,41,2024 Summer Tour,2024 Summer,Meatstick,,1,Ruoff Music Center,Noblesville,IN,USA,>
 2024-08-04,2024,0,11,4,1,0,0,7,2024 Summer Tour,2024 Summer,Run Like an Antelope,Antelope,1,Ruoff Music Center,Noblesville,IN,USA,
-2024-08-04,2024,0,12,1,2,0,0,7,2024 Summer Tour,2024 Summer,Ghost,Ghost,1,Ruoff Music Center,Noblesville,IN,USA,","
-2024-08-04,2024,0,13,2,2,0,0,48,2024 Summer Tour,2024 Summer,Soul Planet,Soul Planet,0,Ruoff Music Center,Noblesville,IN,USA,>
-2024-08-04,2024,0,14,1,2,0,0,128,2024 Summer Tour,2024 Summer,Billy Breathes,Billy Breathes,1,Ruoff Music Center,Noblesville,IN,USA,","
+2024-08-04,2024,0,12,1,2,0,0,7,2024 Summer Tour,2024 Summer,Ghost,,1,Ruoff Music Center,Noblesville,IN,USA,","
+2024-08-04,2024,0,13,2,2,0,0,48,2024 Summer Tour,2024 Summer,Soul Planet,,0,Ruoff Music Center,Noblesville,IN,USA,>
+2024-08-04,2024,0,14,1,2,0,0,128,2024 Summer Tour,2024 Summer,Billy Breathes,,1,Ruoff Music Center,Noblesville,IN,USA,","
 2024-08-04,2024,0,15,5,2,0,0,5,2024 Summer Tour,2024 Summer,Split Open and Melt,SOAMelt,1,Ruoff Music Center,Noblesville,IN,USA,
 2024-08-04,2024,0,16,6,e,2,2,10,2024 Summer Tour,2024 Summer,Slave to the Traffic Light,Slave,1,Ruoff Music Center,Noblesville,IN,USA,
-2024-08-06,2024,0,1,2,1,0,0,47,2024 Summer Tour,2024 Summer,Strawberry Letter 23,Strawberry Letter 23,0,Van Andel Arena,Grand Rapids,MI,USA,>
-2024-08-06,2024,0,2,1,1,0,0,7,2024 Summer Tour,2024 Summer,Sigma Oasis,Sigma Oasis,0,Van Andel Arena,Grand Rapids,MI,USA,","
+2024-08-06,2024,0,1,2,1,0,0,47,2024 Summer Tour,2024 Summer,Strawberry Letter 23,,0,Van Andel Arena,Grand Rapids,MI,USA,>
+2024-08-06,2024,0,2,1,1,0,0,7,2024 Summer Tour,2024 Summer,Sigma Oasis,,0,Van Andel Arena,Grand Rapids,MI,USA,","
 2024-08-06,2024,0,3,1,1,0,0,116,2024 Summer Tour,2024 Summer,Peaches en Regalia,Peaches,0,Van Andel Arena,Grand Rapids,MI,USA,","
-2024-08-06,2024,0,4,1,1,0,0,6,2024 Summer Tour,2024 Summer,Tube,Tube,1,Van Andel Arena,Grand Rapids,MI,USA,","
+2024-08-06,2024,0,4,1,1,0,0,6,2024 Summer Tour,2024 Summer,Tube,,1,Van Andel Arena,Grand Rapids,MI,USA,","
 2024-08-06,2024,0,5,2,1,0,0,5,2024 Summer Tour,2024 Summer,Theme From the Bottom,Theme,1,Van Andel Arena,Grand Rapids,MI,USA,>
-2024-08-06,2024,0,6,1,1,0,0,8,2024 Summer Tour,2024 Summer,Stash,Stash,1,Van Andel Arena,Grand Rapids,MI,USA,","
-2024-08-06,2024,0,7,1,1,0,0,22,2024 Summer Tour,2024 Summer,Train Song,Train Song,1,Van Andel Arena,Grand Rapids,MI,USA,","
-2024-08-06,2024,0,8,2,1,0,0,9,2024 Summer Tour,2024 Summer,Steam,Steam,1,Van Andel Arena,Grand Rapids,MI,USA,>
-2024-08-06,2024,0,9,2,1,0,0,10,2024 Summer Tour,2024 Summer,Rift,Rift,1,Van Andel Arena,Grand Rapids,MI,USA,>
+2024-08-06,2024,0,6,1,1,0,0,8,2024 Summer Tour,2024 Summer,Stash,,1,Van Andel Arena,Grand Rapids,MI,USA,","
+2024-08-06,2024,0,7,1,1,0,0,22,2024 Summer Tour,2024 Summer,Train Song,,1,Van Andel Arena,Grand Rapids,MI,USA,","
+2024-08-06,2024,0,8,2,1,0,0,9,2024 Summer Tour,2024 Summer,Steam,,1,Van Andel Arena,Grand Rapids,MI,USA,>
+2024-08-06,2024,0,9,2,1,0,0,10,2024 Summer Tour,2024 Summer,Rift,,1,Van Andel Arena,Grand Rapids,MI,USA,>
 2024-08-06,2024,0,10,4,1,0,0,6,2024 Summer Tour,2024 Summer,Bathtub Gin,Gin,1,Van Andel Arena,Grand Rapids,MI,USA,
-2024-08-06,2024,0,11,1,2,0,0,4,2024 Summer Tour,2024 Summer,Free,Free,1,Van Andel Arena,Grand Rapids,MI,USA,","
-2024-08-06,2024,0,12,2,2,0,0,7,2024 Summer Tour,2024 Summer,Sand,Sand,0,Van Andel Arena,Grand Rapids,MI,USA,>
-2024-08-06,2024,0,13,2,2,0,0,4,2024 Summer Tour,2024 Summer,Ruby Waves,Ruby Waves,0,Van Andel Arena,Grand Rapids,MI,USA,>
+2024-08-06,2024,0,11,1,2,0,0,4,2024 Summer Tour,2024 Summer,Free,,1,Van Andel Arena,Grand Rapids,MI,USA,","
+2024-08-06,2024,0,12,2,2,0,0,7,2024 Summer Tour,2024 Summer,Sand,,0,Van Andel Arena,Grand Rapids,MI,USA,>
+2024-08-06,2024,0,13,2,2,0,0,4,2024 Summer Tour,2024 Summer,Ruby Waves,,0,Van Andel Arena,Grand Rapids,MI,USA,>
 2024-08-06,2024,0,14,1,2,0,0,4,2024 Summer Tour,2024 Summer,Harry Hood,Hood,1,Van Andel Arena,Grand Rapids,MI,USA,","
 2024-08-06,2024,0,15,1,2,0,0,8,2024 Summer Tour,2024 Summer,The Moma Dance,Moma,1,Van Andel Arena,Grand Rapids,MI,USA,","
-2024-08-06,2024,0,16,1,2,0,0,6,2024 Summer Tour,2024 Summer,Possum,Possum,1,Van Andel Arena,Grand Rapids,MI,USA,","
-2024-08-06,2024,0,17,5,2,0,0,5,2024 Summer Tour,2024 Summer,Everything's Right,Everything's Right,0,Van Andel Arena,Grand Rapids,MI,USA,
-2024-08-06,2024,0,18,1,e,0,0,145,2024 Summer Tour,2024 Summer,Nellie Kane,Nellie Kane,0,Van Andel Arena,Grand Rapids,MI,USA,","
-2024-08-06,2024,0,19,1,e,0,0,31,2024 Summer Tour,2024 Summer,Beauty of My Dreams,Beauty of My Dreams,0,Van Andel Arena,Grand Rapids,MI,USA,","
-2024-08-06,2024,0,20,6,e,0,0,6,2024 Summer Tour,2024 Summer,Carini,Carini,1,Van Andel Arena,Grand Rapids,MI,USA,
-2024-08-07,2024,0,1,1,1,0,0,7,2024 Summer Tour,2024 Summer,My Soul,My Soul,0,Van Andel Arena,Grand Rapids,MI,USA,","
-2024-08-07,2024,0,2,2,1,0,0,11,2024 Summer Tour,2024 Summer,Undermind,Undermind,0,Van Andel Arena,Grand Rapids,MI,USA,>
-2024-08-07,2024,0,3,1,1,0,0,7,2024 Summer Tour,2024 Summer,Oblivion,Oblivion,0,Van Andel Arena,Grand Rapids,MI,USA,","
-2024-08-07,2024,0,4,1,1,0,0,21,2024 Summer Tour,2024 Summer,Driver,Driver,1,Van Andel Arena,Grand Rapids,MI,USA,","
-2024-08-07,2024,0,5,1,1,0,0,6,2024 Summer Tour,2024 Summer,555,555,1,Van Andel Arena,Grand Rapids,MI,USA,","
+2024-08-06,2024,0,16,1,2,0,0,6,2024 Summer Tour,2024 Summer,Possum,,1,Van Andel Arena,Grand Rapids,MI,USA,","
+2024-08-06,2024,0,17,5,2,0,0,5,2024 Summer Tour,2024 Summer,Everything's Right,,0,Van Andel Arena,Grand Rapids,MI,USA,
+2024-08-06,2024,0,18,1,e,0,0,145,2024 Summer Tour,2024 Summer,Nellie Kane,,0,Van Andel Arena,Grand Rapids,MI,USA,","
+2024-08-06,2024,0,19,1,e,0,0,31,2024 Summer Tour,2024 Summer,Beauty of My Dreams,,0,Van Andel Arena,Grand Rapids,MI,USA,","
+2024-08-06,2024,0,20,6,e,0,0,6,2024 Summer Tour,2024 Summer,Carini,,1,Van Andel Arena,Grand Rapids,MI,USA,
+2024-08-07,2024,0,1,1,1,0,0,7,2024 Summer Tour,2024 Summer,My Soul,,0,Van Andel Arena,Grand Rapids,MI,USA,","
+2024-08-07,2024,0,2,2,1,0,0,11,2024 Summer Tour,2024 Summer,Undermind,,0,Van Andel Arena,Grand Rapids,MI,USA,>
+2024-08-07,2024,0,3,1,1,0,0,7,2024 Summer Tour,2024 Summer,Oblivion,,0,Van Andel Arena,Grand Rapids,MI,USA,","
+2024-08-07,2024,0,4,1,1,0,0,21,2024 Summer Tour,2024 Summer,Driver,,1,Van Andel Arena,Grand Rapids,MI,USA,","
+2024-08-07,2024,0,5,1,1,0,0,6,2024 Summer Tour,2024 Summer,555,,1,Van Andel Arena,Grand Rapids,MI,USA,","
 2024-08-07,2024,0,6,1,1,0,0,7,2024 Summer Tour,2024 Summer,Birds of a Feather,BOAF,1,Van Andel Arena,Grand Rapids,MI,USA,","
-2024-08-07,2024,0,7,3,1,0,0,6,2024 Summer Tour,2024 Summer,Ether Edge,Ether Edge,0,Van Andel Arena,Grand Rapids,MI,USA,->
-2024-08-07,2024,0,8,1,1,0,0,12,2024 Summer Tour,2024 Summer,It's Ice,It's Ice,1,Van Andel Arena,Grand Rapids,MI,USA,","
-2024-08-07,2024,0,9,1,1,0,0,10,2024 Summer Tour,2024 Summer,About to Run,About to Run,0,Van Andel Arena,Grand Rapids,MI,USA,","
+2024-08-07,2024,0,7,3,1,0,0,6,2024 Summer Tour,2024 Summer,Ether Edge,,0,Van Andel Arena,Grand Rapids,MI,USA,->
+2024-08-07,2024,0,8,1,1,0,0,12,2024 Summer Tour,2024 Summer,It's Ice,,1,Van Andel Arena,Grand Rapids,MI,USA,","
+2024-08-07,2024,0,9,1,1,0,0,10,2024 Summer Tour,2024 Summer,About to Run,,0,Van Andel Arena,Grand Rapids,MI,USA,","
 2024-08-07,2024,0,10,4,1,0,0,11,2024 Summer Tour,2024 Summer,Walls of the Cave,WotC,1,Van Andel Arena,Grand Rapids,MI,USA,
-2024-08-07,2024,0,11,2,2,0,0,13,2024 Summer Tour,2024 Summer,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Van Andel Arena,Grand Rapids,MI,USA,>
-2024-08-07,2024,0,12,2,2,0,0,8,2024 Summer Tour,2024 Summer,A Wave of Hope,A Wave of Hope,0,Van Andel Arena,Grand Rapids,MI,USA,>
+2024-08-07,2024,0,11,2,2,0,0,13,2024 Summer Tour,2024 Summer,Say It To Me S.A.N.T.O.S.,,1,Van Andel Arena,Grand Rapids,MI,USA,>
+2024-08-07,2024,0,12,2,2,0,0,8,2024 Summer Tour,2024 Summer,A Wave of Hope,,0,Van Andel Arena,Grand Rapids,MI,USA,>
 2024-08-07,2024,0,13,2,2,0,0,7,2024 Summer Tour,2024 Summer,Prince Caspian,Caspian,1,Van Andel Arena,Grand Rapids,MI,USA,>
-2024-08-07,2024,0,14,2,2,0,0,7,2024 Summer Tour,2024 Summer,Light,Light,0,Van Andel Arena,Grand Rapids,MI,USA,>
-2024-08-07,2024,0,15,1,2,0,0,23,2024 Summer Tour,2024 Summer,Loving Cup,Loving Cup,0,Van Andel Arena,Grand Rapids,MI,USA,","
+2024-08-07,2024,0,14,2,2,0,0,7,2024 Summer Tour,2024 Summer,Light,,0,Van Andel Arena,Grand Rapids,MI,USA,>
+2024-08-07,2024,0,15,1,2,0,0,23,2024 Summer Tour,2024 Summer,Loving Cup,,0,Van Andel Arena,Grand Rapids,MI,USA,","
 2024-08-07,2024,0,16,2,2,0,0,2021,2024 Summer Tour,2024 Summer,What's Going Through Your Mind,WGTYM,0,Van Andel Arena,Grand Rapids,MI,USA,>
 2024-08-07,2024,0,17,2,2,0,0,7,2024 Summer Tour,2024 Summer,Wolfman's Brother,Wolfman's,1,Van Andel Arena,Grand Rapids,MI,USA,>
 2024-08-07,2024,0,18,1,2,0,0,82,2024 Summer Tour,2024 Summer,Death Don't Hurt Very Long,DDHVL,1,Van Andel Arena,Grand Rapids,MI,USA,","
-2024-08-07,2024,0,19,1,2,0,0,6,2024 Summer Tour,2024 Summer,Evolve,Evolve,0,Van Andel Arena,Grand Rapids,MI,USA,","
+2024-08-07,2024,0,19,1,2,0,0,6,2024 Summer Tour,2024 Summer,Evolve,,0,Van Andel Arena,Grand Rapids,MI,USA,","
 2024-08-07,2024,0,20,1,2,0,0,8,2024 Summer Tour,2024 Summer,Mountains in the Mist,Mist,0,Van Andel Arena,Grand Rapids,MI,USA,","
-2024-08-07,2024,0,21,5,2,0,0,6,2024 Summer Tour,2024 Summer,Blaze On,Blaze On,1,Van Andel Arena,Grand Rapids,MI,USA,
+2024-08-07,2024,0,21,5,2,0,0,6,2024 Summer Tour,2024 Summer,Blaze On,,1,Van Andel Arena,Grand Rapids,MI,USA,
 2024-08-07,2024,0,22,1,e,0,0,188,2024 Summer Tour,2024 Summer,Ginseng Sullivan,Ginseng,0,Van Andel Arena,Grand Rapids,MI,USA,","
-2024-08-07,2024,0,23,1,e,0,0,46,2024 Summer Tour,2024 Summer,The Old Home Place,The Old Home Place,0,Van Andel Arena,Grand Rapids,MI,USA,","
-2024-08-07,2024,0,24,6,e,0,0,42,2024 Summer Tour,2024 Summer,Frankenstein,Frankenstein,0,Van Andel Arena,Grand Rapids,MI,USA,
-2024-08-09,2024,0,1,1,1,0,0,6,2024 Summer Tour,2024 Summer,First Tube,First Tube,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2024-08-07,2024,0,23,1,e,0,0,46,2024 Summer Tour,2024 Summer,The Old Home Place,,0,Van Andel Arena,Grand Rapids,MI,USA,","
+2024-08-07,2024,0,24,6,e,0,0,42,2024 Summer Tour,2024 Summer,Frankenstein,,0,Van Andel Arena,Grand Rapids,MI,USA,
+2024-08-09,2024,0,1,1,1,0,0,6,2024 Summer Tour,2024 Summer,First Tube,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
 2024-08-09,2024,0,2,1,1,0,0,6,2024 Summer Tour,2024 Summer,No Men In No Man's Land,NMINML,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2024-08-09,2024,0,3,1,1,0,0,10,2024 Summer Tour,2024 Summer,Cavern,Cavern,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2024-08-09,2024,0,3,1,1,0,0,10,2024 Summer Tour,2024 Summer,Cavern,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
 2024-08-09,2024,0,4,1,1,0,0,10,2024 Summer Tour,2024 Summer,"My Friend, My Friend",My Friend,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2024-08-09,2024,0,5,1,1,0,0,8,2024 Summer Tour,2024 Summer,Bug,Bug,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2024-08-09,2024,0,6,1,1,0,0,11,2024 Summer Tour,2024 Summer,Julius,Julius,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2024-08-09,2024,0,5,1,1,0,0,8,2024 Summer Tour,2024 Summer,Bug,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2024-08-09,2024,0,6,1,1,0,0,11,2024 Summer Tour,2024 Summer,Julius,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
 2024-08-09,2024,0,7,2,1,0,0,8,2024 Summer Tour,2024 Summer,Also Sprach Zarathustra,2001,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2024-08-09,2024,0,8,1,1,0,0,10,2024 Summer Tour,2024 Summer,Taste,Taste,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2024-08-09,2024,0,9,4,1,0,0,4,2024 Summer Tour,2024 Summer,Character Zero,Character Zero,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
+2024-08-09,2024,0,8,1,1,0,0,10,2024 Summer Tour,2024 Summer,Taste,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2024-08-09,2024,0,9,4,1,0,0,4,2024 Summer Tour,2024 Summer,Character Zero,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
 2024-08-09,2024,0,10,1,2,0,0,8,2024 Summer Tour,2024 Summer,The Wedge,Wedge,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2024-08-09,2024,0,11,2,2,0,0,7,2024 Summer Tour,2024 Summer,Tweezer,Tweezer,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2024-08-09,2024,0,12,3,2,0,0,5,2024 Summer Tour,2024 Summer,Pillow Jets,Pillow Jets,0,Bethel Woods Center for the Arts,Bethel,NY,USA,->
-2024-08-09,2024,0,13,3,2,0,0,0,2024 Summer Tour,2024 Summer,Tweezer,Tweezer,1,Bethel Woods Center for the Arts,Bethel,NY,USA,->
-2024-08-09,2024,0,14,3,2,0,0,7,2024 Summer Tour,2024 Summer,Piper,Piper,1,Bethel Woods Center for the Arts,Bethel,NY,USA,->
-2024-08-09,2024,0,15,2,2,0,0,0,2024 Summer Tour,2024 Summer,Tweezer,Tweezer,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2024-08-09,2024,0,16,1,2,0,0,37,2024 Summer Tour,2024 Summer,Shine a Light,Shine a Light,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2024-08-09,2024,0,11,2,2,0,0,7,2024 Summer Tour,2024 Summer,Tweezer,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2024-08-09,2024,0,12,3,2,0,0,5,2024 Summer Tour,2024 Summer,Pillow Jets,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,->
+2024-08-09,2024,0,13,3,2,0,0,0,2024 Summer Tour,2024 Summer,Tweezer,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,->
+2024-08-09,2024,0,14,3,2,0,0,7,2024 Summer Tour,2024 Summer,Piper,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,->
+2024-08-09,2024,0,15,2,2,0,0,0,2024 Summer Tour,2024 Summer,Tweezer,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2024-08-09,2024,0,16,1,2,0,0,37,2024 Summer Tour,2024 Summer,Shine a Light,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
 2024-08-09,2024,0,17,5,2,0,0,4,2024 Summer Tour,2024 Summer,Chalk Dust Torture,CDT,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
 2024-08-09,2024,0,18,1,e,0,0,56,2024 Summer Tour,2024 Summer,Big Black Furry Creature from Mars,BBFCFM,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
 2024-08-09,2024,0,19,2,e,0,0,7,2024 Summer Tour,2024 Summer,Gotta Jibboo,Jibboo,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2024-08-09,2024,0,20,6,e,0,0,11,2024 Summer Tour,2024 Summer,More,More,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
+2024-08-09,2024,0,20,6,e,0,0,11,2024 Summer Tour,2024 Summer,More,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
 2024-08-10,2024,0,1,1,1,0,0,7,2024 Summer Tour,2024 Summer,Back on the Train,BOTT,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
 2024-08-10,2024,0,2,1,1,0,0,10,2024 Summer Tour,2024 Summer,Sample in a Jar,Sample,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2024-08-10,2024,0,3,1,1,0,0,7,2024 Summer Tour,2024 Summer,Hey Stranger,Hey Stranger,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2024-08-10,2024,0,4,1,1,0,0,71,2024 Summer Tour,2024 Summer,Dinner and a Movie,Dinner and a Movie,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2024-08-10,2024,0,3,1,1,0,0,7,2024 Summer Tour,2024 Summer,Hey Stranger,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2024-08-10,2024,0,4,1,1,0,0,71,2024 Summer Tour,2024 Summer,Dinner and a Movie,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
 2024-08-10,2024,0,5,2,1,0,0,9,2024 Summer Tour,2024 Summer,Halley's Comet,Halley's,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2024-08-10,2024,0,6,1,1,0,0,3,2024 Summer Tour,2024 Summer,Sand,Sand,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2024-08-10,2024,0,7,2,1,0,0,12,2024 Summer Tour,2024 Summer,Gumbo,Gumbo,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2024-08-10,2024,0,8,1,1,0,0,5,2024 Summer Tour,2024 Summer,Maze,Maze,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2024-08-10,2024,0,9,1,1,0,0,29,2024 Summer Tour,2024 Summer,Weigh,Weigh,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2024-08-10,2024,0,10,2,1,0,0,11,2024 Summer Tour,2024 Summer,Cities,Cities,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2024-08-10,2024,0,6,1,1,0,0,3,2024 Summer Tour,2024 Summer,Sand,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2024-08-10,2024,0,7,2,1,0,0,12,2024 Summer Tour,2024 Summer,Gumbo,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2024-08-10,2024,0,8,1,1,0,0,5,2024 Summer Tour,2024 Summer,Maze,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2024-08-10,2024,0,9,1,1,0,0,29,2024 Summer Tour,2024 Summer,Weigh,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2024-08-10,2024,0,10,2,1,0,0,11,2024 Summer Tour,2024 Summer,Cities,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2024-08-10,2024,0,11,4,1,0,0,4,2024 Summer Tour,2024 Summer,Run Like an Antelope,Antelope,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
-2024-08-10,2024,0,12,2,2,0,0,13,2024 Summer Tour,2024 Summer,Wilson,Wilson,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2024-08-10,2024,0,12,2,2,0,0,13,2024 Summer Tour,2024 Summer,Wilson,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2024-08-10,2024,0,13,3,2,0,0,6,2024 Summer Tour,2024 Summer,Down with Disease,DwD,1,Bethel Woods Center for the Arts,Bethel,NY,USA,->
-2024-08-10,2024,0,14,2,2,0,0,30,2024 Summer Tour,2024 Summer,Waves,Waves,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2024-08-10,2024,0,15,2,2,0,0,7,2024 Summer Tour,2024 Summer,Twist,Twist,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2024-08-10,2024,0,14,2,2,0,0,30,2024 Summer Tour,2024 Summer,Waves,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2024-08-10,2024,0,15,2,2,0,0,7,2024 Summer Tour,2024 Summer,Twist,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2024-08-10,2024,0,16,2,2,0,0,6,2024 Summer Tour,2024 Summer,Kill Devil Falls,KDF,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2024-08-10,2024,0,17,3,2,0,0,16,2024 Summer Tour,2024 Summer,Beneath a Sea of Stars Part 1,Beneath a Sea of Stars Part 1,0,Bethel Woods Center for the Arts,Bethel,NY,USA,->
+2024-08-10,2024,0,17,3,2,0,0,16,2024 Summer Tour,2024 Summer,Beneath a Sea of Stars Part 1,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,->
 2024-08-10,2024,0,18,2,2,0,0,7,2024 Summer Tour,2024 Summer,Backwards Down the Number Line,BDTNL,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2024-08-10,2024,0,19,2,2,0,0,4,2024 Summer Tour,2024 Summer,Ghost,Ghost,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2024-08-10,2024,0,19,2,2,0,0,4,2024 Summer Tour,2024 Summer,Ghost,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2024-08-10,2024,0,20,5,2,0,0,8,2024 Summer Tour,2024 Summer,Tweezer Reprise,Tweeprise,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
 2024-08-10,2024,0,21,2,e,0,0,19,2024 Summer Tour,2024 Summer,Wading in the Velvet Sea,Velvet Sea,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2024-08-10,2024,0,22,6,e,0,0,6,2024 Summer Tour,2024 Summer,Runaway Jim,Runaway Jim,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
-2024-08-11,2024,0,1,1,1,0,0,8,2024 Summer Tour,2024 Summer,I Never Needed You Like This Before,I Never Needed You Like This Before,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2024-08-11,2024,0,2,1,1,0,0,5,2024 Summer Tour,2024 Summer,46 Days,46 Days,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2024-08-10,2024,0,22,6,e,0,0,6,2024 Summer Tour,2024 Summer,Runaway Jim,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
+2024-08-11,2024,0,1,1,1,0,0,8,2024 Summer Tour,2024 Summer,I Never Needed You Like This Before,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2024-08-11,2024,0,2,1,1,0,0,5,2024 Summer Tour,2024 Summer,46 Days,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
 2024-08-11,2024,0,3,1,1,0,0,4,2024 Summer Tour,2024 Summer,Bathtub Gin,Gin,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2024-08-11,2024,0,4,1,1,0,0,800,2024 Summer Tour,2024 Summer,Fikus,Fikus,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2024-08-11,2024,0,4,1,1,0,0,800,2024 Summer Tour,2024 Summer,Fikus,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
 2024-08-11,2024,0,5,2,1,0,0,4,2024 Summer Tour,2024 Summer,Theme From the Bottom,Theme,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2024-08-11,2024,0,6,1,1,0,0,8,2024 Summer Tour,2024 Summer,Timber (Jerry the Mule),Timber Ho,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2024-08-11,2024,0,7,1,1,0,0,15,2024 Summer Tour,2024 Summer,Human Nature,Human Nature,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2024-08-11,2024,0,7,1,1,0,0,15,2024 Summer Tour,2024 Summer,Human Nature,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
 2024-08-11,2024,0,8,1,1,0,0,12,2024 Summer Tour,2024 Summer,Limb By Limb,LxL,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2024-08-11,2024,0,9,2,1,0,0,36,2024 Summer Tour,2024 Summer,Axilla,Axilla,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2024-08-11,2024,0,10,4,1,0,0,4,2024 Summer Tour,2024 Summer,Sigma Oasis,Sigma Oasis,0,Bethel Woods Center for the Arts,Bethel,NY,USA,
-2024-08-11,2024,0,11,2,2,0,0,16,2024 Summer Tour,2024 Summer,Buried Alive,Buried Alive,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2024-08-11,2024,0,9,2,1,0,0,36,2024 Summer Tour,2024 Summer,Axilla,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2024-08-11,2024,0,10,4,1,0,0,4,2024 Summer Tour,2024 Summer,Sigma Oasis,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,
+2024-08-11,2024,0,11,2,2,0,0,16,2024 Summer Tour,2024 Summer,Buried Alive,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2024-08-11,2024,0,12,2,2,0,0,13,2024 Summer Tour,2024 Summer,AC/DC Bag,Bag,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2024-08-11,2024,0,13,2,2,0,0,6,2024 Summer Tour,2024 Summer,Fuego,Fuego,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2024-08-11,2024,0,14,3,2,0,0,7,2024 Summer Tour,2024 Summer,Golden Age,Golden Age,0,Bethel Woods Center for the Arts,Bethel,NY,USA,->
-2024-08-11,2024,0,15,1,2,0,0,11,2024 Summer Tour,2024 Summer,Simple,Simple,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2024-08-11,2024,0,16,1,2,0,0,7,2024 Summer Tour,2024 Summer,Life Saving Gun,Life Saving Gun,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2024-08-11,2024,0,13,2,2,0,0,6,2024 Summer Tour,2024 Summer,Fuego,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2024-08-11,2024,0,14,3,2,0,0,7,2024 Summer Tour,2024 Summer,Golden Age,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,->
+2024-08-11,2024,0,15,1,2,0,0,11,2024 Summer Tour,2024 Summer,Simple,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2024-08-11,2024,0,16,1,2,0,0,7,2024 Summer Tour,2024 Summer,Life Saving Gun,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
 2024-08-11,2024,0,17,5,2,0,0,4,2024 Summer Tour,2024 Summer,Harry Hood,Hood,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
-2024-08-11,2024,0,18,1,e,0,0,13,2024 Summer Tour,2024 Summer,A Life Beyond The Dream,A Life Beyond The Dream,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2024-08-11,2024,0,19,6,e,0,0,3,2024 Summer Tour,2024 Summer,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
-2024-08-14,2024,1,1,3,1,0,0,367,Not Part of a Tour,No Tour,Jam,Jam,0,The Woodlands,Dover,DE,USA,->
-2024-08-14,2024,1,2,3,1,0,0,0,Not Part of a Tour,No Tour,Mystery Achievement,Mystery Achievement,0,The Woodlands,Dover,DE,USA,->
-2024-08-14,2024,1,3,2,1,0,0,0,Not Part of a Tour,No Tour,My Sharona,My Sharona,0,The Woodlands,Dover,DE,USA,>
-2024-08-14,2024,1,4,2,1,0,0,0,Not Part of a Tour,No Tour,Slow Ride,Slow Ride,0,The Woodlands,Dover,DE,USA,>
-2024-08-14,2024,1,5,3,1,0,0,0,Not Part of a Tour,No Tour,Day Tripper,Day Tripper,0,The Woodlands,Dover,DE,USA,->
-2024-08-14,2024,1,6,2,1,0,0,1147,Not Part of a Tour,No Tour,Midnight Rider,Midnight Rider,0,The Woodlands,Dover,DE,USA,>
-2024-08-14,2024,1,7,2,1,0,0,0,Not Part of a Tour,No Tour,Starship Trooper,Starship Trooper,0,The Woodlands,Dover,DE,USA,>
-2024-08-14,2024,1,8,6,1,0,0,508,Not Part of a Tour,No Tour,Stairway to Heaven,Stairway to Heaven,0,The Woodlands,Dover,DE,USA,
+2024-08-11,2024,0,18,1,e,0,0,13,2024 Summer Tour,2024 Summer,A Life Beyond The Dream,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2024-08-11,2024,0,19,6,e,0,0,3,2024 Summer Tour,2024 Summer,Say It To Me S.A.N.T.O.S.,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
+2024-08-14,2024,1,1,3,1,0,0,367,Not Part of a Tour,No Tour,Jam,,0,The Woodlands,Dover,DE,USA,->
+2024-08-14,2024,1,2,3,1,0,0,0,Not Part of a Tour,No Tour,Mystery Achievement,,0,The Woodlands,Dover,DE,USA,->
+2024-08-14,2024,1,3,2,1,0,0,0,Not Part of a Tour,No Tour,My Sharona,,0,The Woodlands,Dover,DE,USA,>
+2024-08-14,2024,1,4,2,1,0,0,0,Not Part of a Tour,No Tour,Slow Ride,,0,The Woodlands,Dover,DE,USA,>
+2024-08-14,2024,1,5,3,1,0,0,0,Not Part of a Tour,No Tour,Day Tripper,,0,The Woodlands,Dover,DE,USA,->
+2024-08-14,2024,1,6,2,1,0,0,1147,Not Part of a Tour,No Tour,Midnight Rider,,0,The Woodlands,Dover,DE,USA,>
+2024-08-14,2024,1,7,2,1,0,0,0,Not Part of a Tour,No Tour,Starship Trooper,,0,The Woodlands,Dover,DE,USA,>
+2024-08-14,2024,1,8,6,1,0,0,508,Not Part of a Tour,No Tour,Stairway to Heaven,,0,The Woodlands,Dover,DE,USA,
 2024-08-15,2024,0,1,1,1,0,0,5,2024 Summer Tour,2024 Summer,The Moma Dance,Moma,1,The Woodlands,Dover,DE,USA,","
 2024-08-15,2024,0,2,1,1,0,0,2,2024 Summer Tour,2024 Summer,Back on the Train,BOTT,0,The Woodlands,Dover,DE,USA,","
 2024-08-15,2024,0,3,1,1,0,0,4,2024 Summer Tour,2024 Summer,Wolfman's Brother,Wolfman's,1,The Woodlands,Dover,DE,USA,","
-2024-08-15,2024,0,4,1,1,0,0,14,2024 Summer Tour,2024 Summer,Funky Bitch,Funky Bitch,0,The Woodlands,Dover,DE,USA,","
-2024-08-15,2024,0,5,1,1,0,0,17,2024 Summer Tour,2024 Summer,Roggae,Roggae,1,The Woodlands,Dover,DE,USA,","
-2024-08-15,2024,0,6,1,1,0,0,9,2024 Summer Tour,2024 Summer,NICU,NICU,1,The Woodlands,Dover,DE,USA,","
-2024-08-15,2024,0,7,1,1,0,0,4,2024 Summer Tour,2024 Summer,A Wave of Hope,A Wave of Hope,0,The Woodlands,Dover,DE,USA,","
-2024-08-15,2024,0,8,4,1,0,0,2,2024 Summer Tour,2024 Summer,Sand,Sand,0,The Woodlands,Dover,DE,USA,
+2024-08-15,2024,0,4,1,1,0,0,14,2024 Summer Tour,2024 Summer,Funky Bitch,,0,The Woodlands,Dover,DE,USA,","
+2024-08-15,2024,0,5,1,1,0,0,17,2024 Summer Tour,2024 Summer,Roggae,,1,The Woodlands,Dover,DE,USA,","
+2024-08-15,2024,0,6,1,1,0,0,9,2024 Summer Tour,2024 Summer,NICU,,1,The Woodlands,Dover,DE,USA,","
+2024-08-15,2024,0,7,1,1,0,0,4,2024 Summer Tour,2024 Summer,A Wave of Hope,,0,The Woodlands,Dover,DE,USA,","
+2024-08-15,2024,0,8,4,1,0,0,2,2024 Summer Tour,2024 Summer,Sand,,0,The Woodlands,Dover,DE,USA,
 2024-08-15,2024,0,9,3,2,0,0,4,2024 Summer Tour,2024 Summer,What's Going Through Your Mind,WGTYM,0,The Woodlands,Dover,DE,USA,->
 2024-08-15,2024,0,10,3,2,0,0,3,2024 Summer Tour,2024 Summer,Chalk Dust Torture,CDT,1,The Woodlands,Dover,DE,USA,->
-2024-08-15,2024,0,11,2,2,0,0,4,2024 Summer Tour,2024 Summer,Light,Light,0,The Woodlands,Dover,DE,USA,>
+2024-08-15,2024,0,11,2,2,0,0,4,2024 Summer Tour,2024 Summer,Light,,0,The Woodlands,Dover,DE,USA,>
 2024-08-15,2024,0,12,1,2,0,0,4,2024 Summer Tour,2024 Summer,Prince Caspian,Caspian,1,The Woodlands,Dover,DE,USA,","
 2024-08-15,2024,0,13,1,2,0,0,7,2024 Summer Tour,2024 Summer,Crosseyed and Painless,C&amp;P,0,The Woodlands,Dover,DE,USA,","
-2024-08-15,2024,0,14,1,2,0,0,14,2024 Summer Tour,2024 Summer,Lonely Trip,Lonely Trip,0,The Woodlands,Dover,DE,USA,","
-2024-08-15,2024,0,15,5,2,0,0,5,2024 Summer Tour,2024 Summer,Everything's Right,Everything's Right,0,The Woodlands,Dover,DE,USA,
-2024-08-15,2024,0,16,2,e,0,0,10,2024 Summer Tour,2024 Summer,Saw It Again,Saw It Again,1,The Woodlands,Dover,DE,USA,>
-2024-08-15,2024,0,17,1,e,0,0,5,2024 Summer Tour,2024 Summer,Possum,Possum,1,The Woodlands,Dover,DE,USA,","
+2024-08-15,2024,0,14,1,2,0,0,14,2024 Summer Tour,2024 Summer,Lonely Trip,,0,The Woodlands,Dover,DE,USA,","
+2024-08-15,2024,0,15,5,2,0,0,5,2024 Summer Tour,2024 Summer,Everything's Right,,0,The Woodlands,Dover,DE,USA,
+2024-08-15,2024,0,16,2,e,0,0,10,2024 Summer Tour,2024 Summer,Saw It Again,,1,The Woodlands,Dover,DE,USA,>
+2024-08-15,2024,0,17,1,e,0,0,5,2024 Summer Tour,2024 Summer,Possum,,1,The Woodlands,Dover,DE,USA,","
 2024-08-15,2024,0,18,6,e,0,0,6,2024 Summer Tour,2024 Summer,Slave to the Traffic Light,Slave,1,The Woodlands,Dover,DE,USA,
 2024-08-16,2024,0,1,1,1,0,0,10,2024 Summer Tour,2024 Summer,Bouncing Around the Room,Bouncin',1,The Woodlands,Dover,DE,USA,","
 2024-08-16,2024,0,2,2,1,0,0,3,2024 Summer Tour,2024 Summer,Kill Devil Falls,KDF,1,The Woodlands,Dover,DE,USA,>
 2024-08-16,2024,0,3,1,1,0,0,5,2024 Summer Tour,2024 Summer,Peaches en Regalia,Peaches,0,The Woodlands,Dover,DE,USA,","
-2024-08-16,2024,0,4,1,1,0,0,6,2024 Summer Tour,2024 Summer,Free,Free,1,The Woodlands,Dover,DE,USA,","
+2024-08-16,2024,0,4,1,1,0,0,6,2024 Summer Tour,2024 Summer,Free,,1,The Woodlands,Dover,DE,USA,","
 2024-08-16,2024,0,5,1,1,0,0,12,2024 Summer Tour,2024 Summer,Divided Sky,Divided,1,The Woodlands,Dover,DE,USA,","
-2024-08-16,2024,0,6,1,1,0,0,6,2024 Summer Tour,2024 Summer,Tube,Tube,1,The Woodlands,Dover,DE,USA,","
+2024-08-16,2024,0,6,1,1,0,0,6,2024 Summer Tour,2024 Summer,Tube,,1,The Woodlands,Dover,DE,USA,","
 2024-08-16,2024,0,7,1,1,0,0,5,2024 Summer Tour,2024 Summer,Mountains in the Mist,Mist,0,The Woodlands,Dover,DE,USA,","
-2024-08-16,2024,0,8,1,1,0,0,8,2024 Summer Tour,2024 Summer,Reba,Reba,1,The Woodlands,Dover,DE,USA,","
-2024-08-16,2024,0,9,2,1,0,0,3,2024 Summer Tour,2024 Summer,Twist,Twist,1,The Woodlands,Dover,DE,USA,>
-2024-08-16,2024,0,10,4,1,0,0,4,2024 Summer Tour,2024 Summer,Character Zero,Character Zero,1,The Woodlands,Dover,DE,USA,
+2024-08-16,2024,0,8,1,1,0,0,8,2024 Summer Tour,2024 Summer,Reba,,1,The Woodlands,Dover,DE,USA,","
+2024-08-16,2024,0,9,2,1,0,0,3,2024 Summer Tour,2024 Summer,Twist,,1,The Woodlands,Dover,DE,USA,>
+2024-08-16,2024,0,10,4,1,0,0,4,2024 Summer Tour,2024 Summer,Character Zero,,1,The Woodlands,Dover,DE,USA,
 2024-08-16,2024,0,11,2,2,0,0,4,2024 Summer Tour,2024 Summer,"My Friend, My Friend",My Friend,1,The Woodlands,Dover,DE,USA,>
 2024-08-16,2024,0,12,2,2,0,0,4,2024 Summer Tour,2024 Summer,No Men In No Man's Land,NMINML,1,The Woodlands,Dover,DE,USA,>
-2024-08-16,2024,0,13,2,2,0,0,6,2024 Summer Tour,2024 Summer,Ruby Waves,Ruby Waves,0,The Woodlands,Dover,DE,USA,>
-2024-08-16,2024,0,14,3,2,0,0,4,2024 Summer Tour,2024 Summer,Pillow Jets,Pillow Jets,0,The Woodlands,Dover,DE,USA,->
-2024-08-16,2024,0,15,3,2,0,0,78,2024 Summer Tour,2024 Summer,Your Pet Cat,Your Pet Cat,1,The Woodlands,Dover,DE,USA,->
-2024-08-16,2024,0,16,2,2,0,0,0,2024 Summer Tour,2024 Summer,Ruby Waves,Ruby Waves,0,The Woodlands,Dover,DE,USA,>
-2024-08-16,2024,0,17,3,2,0,0,3,2024 Summer Tour,2024 Summer,Ghost,Ghost,1,The Woodlands,Dover,DE,USA,->
+2024-08-16,2024,0,13,2,2,0,0,6,2024 Summer Tour,2024 Summer,Ruby Waves,,0,The Woodlands,Dover,DE,USA,>
+2024-08-16,2024,0,14,3,2,0,0,4,2024 Summer Tour,2024 Summer,Pillow Jets,,0,The Woodlands,Dover,DE,USA,->
+2024-08-16,2024,0,15,3,2,0,0,78,2024 Summer Tour,2024 Summer,Your Pet Cat,,1,The Woodlands,Dover,DE,USA,->
+2024-08-16,2024,0,16,2,2,0,0,0,2024 Summer Tour,2024 Summer,Ruby Waves,,0,The Woodlands,Dover,DE,USA,>
+2024-08-16,2024,0,17,3,2,0,0,3,2024 Summer Tour,2024 Summer,Ghost,,1,The Woodlands,Dover,DE,USA,->
 2024-08-16,2024,0,18,2,2,0,0,0,2024 Summer Tour,2024 Summer,No Men In No Man's Land,NMINML,1,The Woodlands,Dover,DE,USA,>
-2024-08-16,2024,0,19,5,2,0,0,15,2024 Summer Tour,2024 Summer,Fluffhead,Fluffhead,1,The Woodlands,Dover,DE,USA,
+2024-08-16,2024,0,19,5,2,0,0,15,2024 Summer Tour,2024 Summer,Fluffhead,,1,The Woodlands,Dover,DE,USA,
 2024-08-16,2024,0,20,2,e,0,0,2,2024 Summer Tour,2024 Summer,Harry Hood,Hood,1,The Woodlands,Dover,DE,USA,>
-2024-08-16,2024,0,21,7,e,0,0,4,2024 Summer Tour,2024 Summer,First Tube,First Tube,0,The Woodlands,Dover,DE,USA,
-2024-08-16,2024,0,22,6,3,0,0,0,2024 Summer Tour,2024 Summer,Woodlands Jam,Woodlands Jam,1,The Woodlands,Dover,DE,USA,
+2024-08-16,2024,0,21,7,e,0,0,4,2024 Summer Tour,2024 Summer,First Tube,,0,The Woodlands,Dover,DE,USA,
+2024-08-16,2024,0,22,6,3,0,0,0,2024 Summer Tour,2024 Summer,Woodlands Jam,,1,The Woodlands,Dover,DE,USA,
 2024-08-17,2024,0,1,2,1,0,0,9,2024 Summer Tour,2024 Summer,Mike's Song,Mike's,1,The Woodlands,Dover,DE,USA,>
 2024-08-17,2024,0,2,2,1,0,0,9,2024 Summer Tour,2024 Summer,I Am Hydrogen,Hydrogen,1,The Woodlands,Dover,DE,USA,>
 2024-08-17,2024,0,3,1,1,0,0,9,2024 Summer Tour,2024 Summer,Weekapaug Groove,Weekapaug,1,The Woodlands,Dover,DE,USA,","
 2024-08-17,2024,0,4,2,1,0,0,3,2024 Summer Tour,2024 Summer,Theme From the Bottom,Theme,1,The Woodlands,Dover,DE,USA,>
-2024-08-17,2024,0,5,1,1,0,0,6,2024 Summer Tour,2024 Summer,Blaze On,Blaze On,1,The Woodlands,Dover,DE,USA,","
+2024-08-17,2024,0,5,1,1,0,0,6,2024 Summer Tour,2024 Summer,Blaze On,,1,The Woodlands,Dover,DE,USA,","
 2024-08-17,2024,0,6,1,1,0,0,5,2024 Summer Tour,2024 Summer,Gotta Jibboo,Jibboo,0,The Woodlands,Dover,DE,USA,","
-2024-08-17,2024,0,7,1,1,0,0,3,2024 Summer Tour,2024 Summer,46 Days,46 Days,1,The Woodlands,Dover,DE,USA,","
-2024-08-17,2024,0,8,1,1,0,0,6,2024 Summer Tour,2024 Summer,Evolve,Evolve,0,The Woodlands,Dover,DE,USA,","
-2024-08-17,2024,0,9,2,1,0,0,7,2024 Summer Tour,2024 Summer,Meatstick,Meatstick,1,The Woodlands,Dover,DE,USA,>
+2024-08-17,2024,0,7,1,1,0,0,3,2024 Summer Tour,2024 Summer,46 Days,,1,The Woodlands,Dover,DE,USA,","
+2024-08-17,2024,0,8,1,1,0,0,6,2024 Summer Tour,2024 Summer,Evolve,,0,The Woodlands,Dover,DE,USA,","
+2024-08-17,2024,0,9,2,1,0,0,7,2024 Summer Tour,2024 Summer,Meatstick,,1,The Woodlands,Dover,DE,USA,>
 2024-08-17,2024,0,10,4,1,0,0,14,2024 Summer Tour,2024 Summer,David Bowie,Bowie,1,The Woodlands,Dover,DE,USA,
 2024-08-17,2024,0,11,2,2,0,0,5,2024 Summer Tour,2024 Summer,Also Sprach Zarathustra,2001,0,The Woodlands,Dover,DE,USA,>
-2024-08-17,2024,0,12,1,2,0,0,6,2024 Summer Tour,2024 Summer,Oblivion,Oblivion,0,The Woodlands,Dover,DE,USA,","
+2024-08-17,2024,0,12,1,2,0,0,6,2024 Summer Tour,2024 Summer,Oblivion,,0,The Woodlands,Dover,DE,USA,","
 2024-08-17,2024,0,13,2,2,0,0,4,2024 Summer Tour,2024 Summer,Down with Disease,DwD,1,The Woodlands,Dover,DE,USA,>
-2024-08-17,2024,0,14,2,2,0,0,5,2024 Summer Tour,2024 Summer,Tweezer,Tweezer,1,The Woodlands,Dover,DE,USA,>
-2024-08-17,2024,0,15,2,2,0,0,10,2024 Summer Tour,2024 Summer,Scents and Subtle Sounds,Scents and Subtle Sounds,1,The Woodlands,Dover,DE,USA,>
+2024-08-17,2024,0,14,2,2,0,0,5,2024 Summer Tour,2024 Summer,Tweezer,,1,The Woodlands,Dover,DE,USA,>
+2024-08-17,2024,0,15,2,2,0,0,10,2024 Summer Tour,2024 Summer,Scents and Subtle Sounds,,1,The Woodlands,Dover,DE,USA,>
 2024-08-17,2024,0,16,1,2,0,0,11,2024 Summer Tour,2024 Summer,Boogie On Reggae Woman,Boogie On,0,The Woodlands,Dover,DE,USA,","
-2024-08-17,2024,0,17,5,2,0,0,7,2024 Summer Tour,2024 Summer,Carini,Carini,1,The Woodlands,Dover,DE,USA,
+2024-08-17,2024,0,17,5,2,0,0,7,2024 Summer Tour,2024 Summer,Carini,,1,The Woodlands,Dover,DE,USA,
 2024-08-17,2024,0,18,1,e,0,0,4,2024 Summer Tour,2024 Summer,Backwards Down the Number Line,BDTNL,0,The Woodlands,Dover,DE,USA,","
 2024-08-17,2024,0,19,1,e,0,0,10,2024 Summer Tour,2024 Summer,You Enjoy Myself,YEM,1,The Woodlands,Dover,DE,USA,","
 2024-08-17,2024,0,20,6,e,0,0,4,2024 Summer Tour,2024 Summer,Tweezer Reprise,Tweeprise,1,The Woodlands,Dover,DE,USA,
-2024-08-18,2024,0,1,1,1,0,0,8,2024 Summer Tour,2024 Summer,Party Time,Party Time,1,The Woodlands,Dover,DE,USA,","
-2024-08-18,2024,0,2,3,1,0,0,3,2024 Summer Tour,2024 Summer,Axilla,Axilla,1,The Woodlands,Dover,DE,USA,->
-2024-08-18,2024,0,3,1,1,0,0,5,2024 Summer Tour,2024 Summer,Maze,Maze,1,The Woodlands,Dover,DE,USA,","
-2024-08-18,2024,0,4,1,1,0,0,8,2024 Summer Tour,2024 Summer,Steam,Steam,1,The Woodlands,Dover,DE,USA,","
-2024-08-18,2024,0,5,1,1,0,0,17,2024 Summer Tour,2024 Summer,Martian Monster,Martian Monster,1,The Woodlands,Dover,DE,USA,","
+2024-08-18,2024,0,1,1,1,0,0,8,2024 Summer Tour,2024 Summer,Party Time,,1,The Woodlands,Dover,DE,USA,","
+2024-08-18,2024,0,2,3,1,0,0,3,2024 Summer Tour,2024 Summer,Axilla,,1,The Woodlands,Dover,DE,USA,->
+2024-08-18,2024,0,3,1,1,0,0,5,2024 Summer Tour,2024 Summer,Maze,,1,The Woodlands,Dover,DE,USA,","
+2024-08-18,2024,0,4,1,1,0,0,8,2024 Summer Tour,2024 Summer,Steam,,1,The Woodlands,Dover,DE,USA,","
+2024-08-18,2024,0,5,1,1,0,0,17,2024 Summer Tour,2024 Summer,Martian Monster,,1,The Woodlands,Dover,DE,USA,","
 2024-08-18,2024,0,6,1,1,0,0,4,2024 Summer Tour,2024 Summer,AC/DC Bag,Bag,1,The Woodlands,Dover,DE,USA,","
-2024-08-18,2024,0,7,3,1,0,0,4,2024 Summer Tour,2024 Summer,Sigma Oasis,Sigma Oasis,0,The Woodlands,Dover,DE,USA,->
-2024-08-18,2024,0,8,1,1,0,0,8,2024 Summer Tour,2024 Summer,Rift,Rift,1,The Woodlands,Dover,DE,USA,","
-2024-08-18,2024,0,9,1,1,0,0,8,2024 Summer Tour,2024 Summer,Stash,Stash,1,The Woodlands,Dover,DE,USA,","
-2024-08-18,2024,0,10,1,1,0,0,15,2024 Summer Tour,2024 Summer,Ya Mar,Ya Mar,0,The Woodlands,Dover,DE,USA,","
+2024-08-18,2024,0,7,3,1,0,0,4,2024 Summer Tour,2024 Summer,Sigma Oasis,,0,The Woodlands,Dover,DE,USA,->
+2024-08-18,2024,0,8,1,1,0,0,8,2024 Summer Tour,2024 Summer,Rift,,1,The Woodlands,Dover,DE,USA,","
+2024-08-18,2024,0,9,1,1,0,0,8,2024 Summer Tour,2024 Summer,Stash,,1,The Woodlands,Dover,DE,USA,","
+2024-08-18,2024,0,10,1,1,0,0,15,2024 Summer Tour,2024 Summer,Ya Mar,,0,The Woodlands,Dover,DE,USA,","
 2024-08-18,2024,0,11,1,1,0,0,3,2024 Summer Tour,2024 Summer,Timber (Jerry the Mule),Timber Ho,0,The Woodlands,Dover,DE,USA,","
 2024-08-18,2024,0,12,2,1,0,0,4,2024 Summer Tour,2024 Summer,Bathtub Gin,Gin,1,The Woodlands,Dover,DE,USA,>
-2024-08-18,2024,0,13,2,1,0,0,9,2024 Summer Tour,2024 Summer,Izabella,Izabella,0,The Woodlands,Dover,DE,USA,>
-2024-08-18,2024,0,14,2,1,0,0,4,2024 Summer Tour,2024 Summer,Simple,Simple,1,The Woodlands,Dover,DE,USA,>
-2024-08-18,2024,0,15,5,1,0,0,4,2024 Summer Tour,2024 Summer,Golden Age,Golden Age,0,The Woodlands,Dover,DE,USA,
-2024-08-18,2024,0,16,6,e,0,0,4,2024 Summer Tour,2024 Summer,Fuego,Fuego,1,The Woodlands,Dover,DE,USA,
-2024-08-29,2024,0,1,2,1,0,0,5,2024 Summer Tour,2024 Summer,Cities,Cities,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2024-08-18,2024,0,13,2,1,0,0,9,2024 Summer Tour,2024 Summer,Izabella,,0,The Woodlands,Dover,DE,USA,>
+2024-08-18,2024,0,14,2,1,0,0,4,2024 Summer Tour,2024 Summer,Simple,,1,The Woodlands,Dover,DE,USA,>
+2024-08-18,2024,0,15,5,1,0,0,4,2024 Summer Tour,2024 Summer,Golden Age,,0,The Woodlands,Dover,DE,USA,
+2024-08-18,2024,0,16,6,e,0,0,4,2024 Summer Tour,2024 Summer,Fuego,,1,The Woodlands,Dover,DE,USA,
+2024-08-29,2024,0,1,2,1,0,0,5,2024 Summer Tour,2024 Summer,Cities,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2024-08-29,2024,0,2,1,1,0,0,2,2024 Summer Tour,2024 Summer,Down with Disease,DwD,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-08-29,2024,0,3,2,1,0,0,7,2024 Summer Tour,2024 Summer,Ether Edge,Ether Edge,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2024-08-29,2024,0,4,1,1,0,0,17,2024 Summer Tour,2024 Summer,Llama,Llama,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-29,2024,0,3,2,1,0,0,7,2024 Summer Tour,2024 Summer,Ether Edge,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2024-08-29,2024,0,4,1,1,0,0,17,2024 Summer Tour,2024 Summer,Llama,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2024-08-29,2024,0,5,1,1,0,0,2,2024 Summer Tour,2024 Summer,Theme From the Bottom,Theme,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-08-29,2024,0,6,1,1,0,0,53,2024 Summer Tour,2024 Summer,Sugar Shack,Sugar Shack,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-08-29,2024,0,7,1,1,0,0,13,2024 Summer Tour,2024 Summer,Ocelot,Ocelot,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-29,2024,0,6,1,1,0,0,53,2024 Summer Tour,2024 Summer,Sugar Shack,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-29,2024,0,7,1,1,0,0,13,2024 Summer Tour,2024 Summer,Ocelot,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2024-08-29,2024,0,8,2,1,0,0,16,2024 Summer Tour,2024 Summer,Golgi Apparatus,Golgi,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2024-08-29,2024,0,9,4,1,0,0,2,2024 Summer Tour,2024 Summer,Blaze On,Blaze On,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2024-08-29,2024,0,10,1,2,0,0,3,2024 Summer Tour,2024 Summer,Ghost,Ghost,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-08-29,2024,0,11,2,2,0,0,4,2024 Summer Tour,2024 Summer,A Wave of Hope,A Wave of Hope,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2024-08-29,2024,0,12,1,2,0,0,1,2024 Summer Tour,2024 Summer,Sigma Oasis,Sigma Oasis,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-08-29,2024,0,13,2,2,0,0,3,2024 Summer Tour,2024 Summer,Pillow Jets,Pillow Jets,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2024-08-29,2024,0,9,4,1,0,0,2,2024 Summer Tour,2024 Summer,Blaze On,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2024-08-29,2024,0,10,1,2,0,0,3,2024 Summer Tour,2024 Summer,Ghost,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-29,2024,0,11,2,2,0,0,4,2024 Summer Tour,2024 Summer,A Wave of Hope,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2024-08-29,2024,0,12,1,2,0,0,1,2024 Summer Tour,2024 Summer,Sigma Oasis,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-29,2024,0,13,2,2,0,0,3,2024 Summer Tour,2024 Summer,Pillow Jets,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2024-08-29,2024,0,14,2,2,0,0,2,2024 Summer Tour,2024 Summer,Also Sprach Zarathustra,2001,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2024-08-29,2024,0,15,5,2,0,0,3,2024 Summer Tour,2024 Summer,Harry Hood,Hood,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2024-08-29,2024,0,16,6,e,0,0,5,2024 Summer Tour,2024 Summer,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2024-08-29,2024,0,16,6,e,0,0,5,2024 Summer Tour,2024 Summer,Say It To Me S.A.N.T.O.S.,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2024-08-30,2024,0,1,1,1,0,0,5,2024 Summer Tour,2024 Summer,Back on the Train,BOTT,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2024-08-30,2024,0,2,1,1,0,0,5,2024 Summer Tour,2024 Summer,Wolfman's Brother,Wolfman's,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-08-30,2024,0,3,1,1,0,0,7,2024 Summer Tour,2024 Summer,Hey Stranger,Hey Stranger,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-30,2024,0,3,1,1,0,0,7,2024 Summer Tour,2024 Summer,Hey Stranger,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2024-08-30,2024,0,4,1,1,0,0,104,2024 Summer Tour,2024 Summer,Guelah Papyrus,Guelah,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2024-08-30,2024,0,5,1,1,0,0,4,2024 Summer Tour,2024 Summer,No Men In No Man's Land,NMINML,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-08-30,2024,0,6,1,1,0,0,2,2024 Summer Tour,2024 Summer,Steam,Steam,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-08-30,2024,0,7,1,1,0,0,3,2024 Summer Tour,2024 Summer,Evolve,Evolve,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-08-30,2024,0,8,1,1,0,0,99,2024 Summer Tour,2024 Summer,Strange Design,Strange Design,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-30,2024,0,6,1,1,0,0,2,2024 Summer Tour,2024 Summer,Steam,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-30,2024,0,7,1,1,0,0,3,2024 Summer Tour,2024 Summer,Evolve,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-30,2024,0,8,1,1,0,0,99,2024 Summer Tour,2024 Summer,Strange Design,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2024-08-30,2024,0,9,4,1,0,0,7,2024 Summer Tour,2024 Summer,Run Like an Antelope,Antelope,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2024-08-30,2024,0,10,1,2,0,0,5,2024 Summer Tour,2024 Summer,Chalk Dust Torture,CDT,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-08-30,2024,0,11,1,2,0,0,5,2024 Summer Tour,2024 Summer,Sand,Sand,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-08-30,2024,0,12,2,2,0,0,4,2024 Summer Tour,2024 Summer,Ruby Waves,Ruby Waves,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2024-08-30,2024,0,11,1,2,0,0,5,2024 Summer Tour,2024 Summer,Sand,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-30,2024,0,12,2,2,0,0,4,2024 Summer Tour,2024 Summer,Ruby Waves,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2024-08-30,2024,0,13,2,2,0,0,13,2024 Summer Tour,2024 Summer,What's the Use?,WTU?,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2024-08-30,2024,0,14,1,2,0,0,5,2024 Summer Tour,2024 Summer,Possum,Possum,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-08-30,2024,0,15,5,2,0,0,5,2024 Summer Tour,2024 Summer,Everything's Right,Everything's Right,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2024-08-30,2024,0,16,1,e,0,0,77,2024 Summer Tour,2024 Summer,Fee,Fee,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-30,2024,0,14,1,2,0,0,5,2024 Summer Tour,2024 Summer,Possum,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-30,2024,0,15,5,2,0,0,5,2024 Summer Tour,2024 Summer,Everything's Right,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2024-08-30,2024,0,16,1,e,0,0,77,2024 Summer Tour,2024 Summer,Fee,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2024-08-30,2024,0,17,6,e,0,0,3,2024 Summer Tour,2024 Summer,You Enjoy Myself,YEM,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2024-08-31,2024,0,1,1,1,0,0,4,2024 Summer Tour,2024 Summer,46 Days,46 Days,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-08-31,2024,0,2,1,1,0,0,4,2024 Summer Tour,2024 Summer,Oblivion,Oblivion,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-08-31,2024,0,3,3,1,0,0,14,2024 Summer Tour,2024 Summer,Axilla (Part II),Axilla (Part II),1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2024-08-31,2024,0,1,1,1,0,0,4,2024 Summer Tour,2024 Summer,46 Days,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-31,2024,0,2,1,1,0,0,4,2024 Summer Tour,2024 Summer,Oblivion,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-31,2024,0,3,3,1,0,0,14,2024 Summer Tour,2024 Summer,Axilla (Part II),,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
 2024-08-31,2024,0,4,1,1,0,0,3,2024 Summer Tour,2024 Summer,Bathtub Gin,Gin,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-08-31,2024,0,5,1,1,0,0,10,2024 Summer Tour,2024 Summer,Undermind,Undermind,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-08-31,2024,0,6,1,1,0,0,3,2024 Summer Tour,2024 Summer,Maze,Maze,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-08-31,2024,0,7,1,1,0,0,5,2024 Summer Tour,2024 Summer,Free,Free,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-08-31,2024,0,8,4,1,0,0,20,2024 Summer Tour,2024 Summer,Most Events Aren't Planned,Most Events Aren't Planned,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2024-08-31,2024,0,9,2,2,0,0,10,2024 Summer Tour,2024 Summer,Loving Cup,Loving Cup,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2024-08-31,2024,0,5,1,1,0,0,10,2024 Summer Tour,2024 Summer,Undermind,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-31,2024,0,6,1,1,0,0,3,2024 Summer Tour,2024 Summer,Maze,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-31,2024,0,7,1,1,0,0,5,2024 Summer Tour,2024 Summer,Free,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-31,2024,0,8,4,1,0,0,20,2024 Summer Tour,2024 Summer,Most Events Aren't Planned,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2024-08-31,2024,0,9,2,2,0,0,10,2024 Summer Tour,2024 Summer,Loving Cup,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2024-08-31,2024,0,10,3,2,0,0,5,2024 Summer Tour,2024 Summer,Kill Devil Falls,KDF,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
 2024-08-31,2024,0,11,2,2,0,0,6,2024 Summer Tour,2024 Summer,What's Going Through Your Mind,WGTYM,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2024-08-31,2024,0,12,1,2,0,0,6,2024 Summer Tour,2024 Summer,Crosseyed and Painless,C&amp;P,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2024-08-31,2024,0,13,1,2,0,0,12,2024 Summer Tour,2024 Summer,Split Open and Melt,SOAMelt,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-08-31,2024,0,14,1,2,0,0,13,2024 Summer Tour,2024 Summer,Monsters,Monsters,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-08-31,2024,0,15,5,2,0,0,4,2024 Summer Tour,2024 Summer,Carini,Carini,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2024-08-31,2024,0,16,1,e,0,0,9,2024 Summer Tour,2024 Summer,Bug,Bug,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-08-31,2024,0,17,6,e,0,0,5,2024 Summer Tour,2024 Summer,First Tube,First Tube,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2024-09-01,2024,0,1,1,1,0,0,464,2024 Summer Tour,2024 Summer,Dog Log,Dog Log,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-09-01,2024,0,2,1,1,0,0,9,2024 Summer Tour,2024 Summer,Runaway Jim,Runaway Jim,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-31,2024,0,14,1,2,0,0,13,2024 Summer Tour,2024 Summer,Monsters,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-31,2024,0,15,5,2,0,0,4,2024 Summer Tour,2024 Summer,Carini,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2024-08-31,2024,0,16,1,e,0,0,9,2024 Summer Tour,2024 Summer,Bug,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-31,2024,0,17,6,e,0,0,5,2024 Summer Tour,2024 Summer,First Tube,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2024-09-01,2024,0,1,1,1,0,0,464,2024 Summer Tour,2024 Summer,Dog Log,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-09-01,2024,0,2,1,1,0,0,9,2024 Summer Tour,2024 Summer,Runaway Jim,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2024-09-01,2024,0,3,2,1,0,0,7,2024 Summer Tour,2024 Summer,The Moma Dance,Moma,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2024-09-01,2024,0,4,1,1,0,0,6,2024 Summer Tour,2024 Summer,"My Friend, My Friend",My Friend,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-09-01,2024,0,5,2,1,0,0,6,2024 Summer Tour,2024 Summer,Tube,Tube,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2024-09-01,2024,0,6,1,1,0,0,6,2024 Summer Tour,2024 Summer,Fluffhead,Fluffhead,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-09-01,2024,0,7,1,1,0,0,4,2024 Summer Tour,2024 Summer,Stash,Stash,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-09-01,2024,0,8,4,1,0,0,8,2024 Summer Tour,2024 Summer,Life Saving Gun,Life Saving Gun,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2024-09-01,2024,0,5,2,1,0,0,6,2024 Summer Tour,2024 Summer,Tube,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2024-09-01,2024,0,6,1,1,0,0,6,2024 Summer Tour,2024 Summer,Fluffhead,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-09-01,2024,0,7,1,1,0,0,4,2024 Summer Tour,2024 Summer,Stash,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-09-01,2024,0,8,4,1,0,0,8,2024 Summer Tour,2024 Summer,Life Saving Gun,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2024-09-01,2024,0,9,2,2,0,0,7,2024 Summer Tour,2024 Summer,Prince Caspian,Caspian,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2024-09-01,2024,0,10,2,2,0,0,18,2024 Summer Tour,2024 Summer,Set Your Soul Free,Set Your Soul Free,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2024-09-01,2024,0,11,2,2,0,0,5,2024 Summer Tour,2024 Summer,Tweezer,Tweezer,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2024-09-01,2024,0,12,2,2,0,0,7,2024 Summer Tour,2024 Summer,Light,Light,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2024-09-01,2024,0,13,1,2,0,0,8,2024 Summer Tour,2024 Summer,A Life Beyond The Dream,A Life Beyond The Dream,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-09-01,2024,0,14,2,2,0,0,19,2024 Summer Tour,2024 Summer,The Howling,The Howling,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2024-09-01,2024,0,15,2,2,0,0,10,2024 Summer Tour,2024 Summer,More,More,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2024-09-01,2024,0,16,1,2,0,0,6,2024 Summer Tour,2024 Summer,Character Zero,Character Zero,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-09-01,2024,0,10,2,2,0,0,18,2024 Summer Tour,2024 Summer,Set Your Soul Free,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2024-09-01,2024,0,11,2,2,0,0,5,2024 Summer Tour,2024 Summer,Tweezer,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2024-09-01,2024,0,12,2,2,0,0,7,2024 Summer Tour,2024 Summer,Light,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2024-09-01,2024,0,13,1,2,0,0,8,2024 Summer Tour,2024 Summer,A Life Beyond The Dream,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-09-01,2024,0,14,2,2,0,0,19,2024 Summer Tour,2024 Summer,The Howling,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2024-09-01,2024,0,15,2,2,0,0,10,2024 Summer Tour,2024 Summer,More,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2024-09-01,2024,0,16,1,2,0,0,6,2024 Summer Tour,2024 Summer,Character Zero,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2024-09-01,2024,0,17,5,2,0,0,7,2024 Summer Tour,2024 Summer,Slave to the Traffic Light,Slave,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2024-09-01,2024,0,18,2,e,0,0,453,2024 Summer Tour,2024 Summer,Sabotage,Sabotage,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2024-09-01,2024,0,18,2,e,0,0,453,2024 Summer Tour,2024 Summer,Sabotage,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2024-09-01,2024,0,19,6,e,0,0,5,2024 Summer Tour,2024 Summer,Tweezer Reprise,Tweeprise,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2024-10-25,2024,0,1,1,1,0,0,0,Not Part of a Tour,No Tour,Box of Rain,Box of Rain,0,MVP Arena,Albany,NY,USA,","
+2024-10-25,2024,0,1,1,1,0,0,0,Not Part of a Tour,No Tour,Box of Rain,,0,MVP Arena,Albany,NY,USA,","
 2024-10-25,2024,0,2,2,1,0,0,1,Not Part of a Tour,No Tour,The Moma Dance,Moma,1,MVP Arena,Albany,NY,USA,>
-2024-10-25,2024,0,3,1,1,0,0,2,Not Part of a Tour,No Tour,Free,Free,1,MVP Arena,Albany,NY,USA,","
-2024-10-25,2024,0,4,1,1,0,0,18,Not Part of a Tour,No Tour,Dirt,Dirt,0,MVP Arena,Albany,NY,USA,","
+2024-10-25,2024,0,3,1,1,0,0,2,Not Part of a Tour,No Tour,Free,,1,MVP Arena,Albany,NY,USA,","
+2024-10-25,2024,0,4,1,1,0,0,18,Not Part of a Tour,No Tour,Dirt,,0,MVP Arena,Albany,NY,USA,","
 2024-10-25,2024,0,5,1,1,0,0,3,Not Part of a Tour,No Tour,Wolfman's Brother,Wolfman's,1,MVP Arena,Albany,NY,USA,","
 2024-10-25,2024,0,6,1,1,0,0,3,Not Part of a Tour,No Tour,No Men In No Man's Land,NMINML,1,MVP Arena,Albany,NY,USA,","
 2024-10-25,2024,0,7,1,1,0,0,4,Not Part of a Tour,No Tour,Theme From the Bottom,Theme,1,MVP Arena,Albany,NY,USA,","
-2024-10-25,2024,0,8,1,1,0,0,2,Not Part of a Tour,No Tour,Steam,Steam,1,MVP Arena,Albany,NY,USA,","
-2024-10-25,2024,0,9,4,1,0,0,3,Not Part of a Tour,No Tour,Sand,Sand,0,MVP Arena,Albany,NY,USA,
-2024-10-25,2024,0,10,3,2,0,0,4,Not Part of a Tour,No Tour,Blaze On,Blaze On,1,MVP Arena,Albany,NY,USA,->
-2024-10-25,2024,0,11,3,2,0,0,11,Not Part of a Tour,No Tour,Piper,Piper,1,MVP Arena,Albany,NY,USA,->
-2024-10-25,2024,0,12,3,2,0,0,0,Not Part of a Tour,No Tour,Light,Light,0,MVP Arena,Albany,NY,USA,->
-2024-10-25,2024,0,13,3,2,0,0,1,Not Part of a Tour,No Tour,Tweezer,Tweezer,1,MVP Arena,Albany,NY,USA,->
+2024-10-25,2024,0,8,1,1,0,0,2,Not Part of a Tour,No Tour,Steam,,1,MVP Arena,Albany,NY,USA,","
+2024-10-25,2024,0,9,4,1,0,0,3,Not Part of a Tour,No Tour,Sand,,0,MVP Arena,Albany,NY,USA,
+2024-10-25,2024,0,10,3,2,0,0,4,Not Part of a Tour,No Tour,Blaze On,,1,MVP Arena,Albany,NY,USA,->
+2024-10-25,2024,0,11,3,2,0,0,11,Not Part of a Tour,No Tour,Piper,,1,MVP Arena,Albany,NY,USA,->
+2024-10-25,2024,0,12,3,2,0,0,0,Not Part of a Tour,No Tour,Light,,0,MVP Arena,Albany,NY,USA,->
+2024-10-25,2024,0,13,3,2,0,0,1,Not Part of a Tour,No Tour,Tweezer,,1,MVP Arena,Albany,NY,USA,->
 2024-10-25,2024,0,14,1,2,0,0,10,Not Part of a Tour,No Tour,The Wedge,Wedge,1,MVP Arena,Albany,NY,USA,","
-2024-10-25,2024,0,15,1,2,0,0,0,Not Part of a Tour,No Tour,The Howling,The Howling,1,MVP Arena,Albany,NY,USA,","
-2024-10-25,2024,0,16,1,2,0,0,2,Not Part of a Tour,No Tour,Monsters,Monsters,0,MVP Arena,Albany,NY,USA,","
+2024-10-25,2024,0,15,1,2,0,0,0,Not Part of a Tour,No Tour,The Howling,,1,MVP Arena,Albany,NY,USA,","
+2024-10-25,2024,0,16,1,2,0,0,2,Not Part of a Tour,No Tour,Monsters,,0,MVP Arena,Albany,NY,USA,","
 2024-10-25,2024,0,17,2,2,0,0,6,Not Part of a Tour,No Tour,Backwards Down the Number Line,BDTNL,0,MVP Arena,Albany,NY,USA,>
-2024-10-25,2024,0,18,5,2,0,0,2,Not Part of a Tour,No Tour,Carini,Carini,1,MVP Arena,Albany,NY,USA,
-2024-10-25,2024,0,19,2,e,0,0,97,Not Part of a Tour,No Tour,Sleeping Monkey,Sleeping Monkey,1,MVP Arena,Albany,NY,USA,>
-2024-10-25,2024,0,20,3,e,0,0,4,Not Part of a Tour,No Tour,Ghost,Ghost,1,MVP Arena,Albany,NY,USA,->
+2024-10-25,2024,0,18,5,2,0,0,2,Not Part of a Tour,No Tour,Carini,,1,MVP Arena,Albany,NY,USA,
+2024-10-25,2024,0,19,2,e,0,0,97,Not Part of a Tour,No Tour,Sleeping Monkey,,1,MVP Arena,Albany,NY,USA,>
+2024-10-25,2024,0,20,3,e,0,0,4,Not Part of a Tour,No Tour,Ghost,,1,MVP Arena,Albany,NY,USA,->
 2024-10-25,2024,0,21,6,e,0,0,1,Not Part of a Tour,No Tour,Tweezer Reprise,Tweeprise,1,MVP Arena,Albany,NY,USA,
-2024-10-26,2024,0,1,1,1,0,0,4,Not Part of a Tour,No Tour,Possum,Possum,1,MVP Arena,Albany,NY,USA,","
-2024-10-26,2024,0,1,1,1,0,0,0,Not Part of a Tour,No Tour,Little Crazy Too,Little Crazy Too,1,Empire Live Underground,Albany,NY,USA,","
-2024-10-26,2024,0,2,2,1,0,0,5,Not Part of a Tour,No Tour,Sigma Oasis,Sigma Oasis,0,MVP Arena,Albany,NY,USA,>
-2024-10-26,2024,0,2,1,1,0,0,0,Not Part of a Tour,No Tour,Get Funky,Get Funky,1,Empire Live Underground,Albany,NY,USA,","
+2024-10-26,2024,0,1,1,1,0,0,4,Not Part of a Tour,No Tour,Possum,,1,MVP Arena,Albany,NY,USA,","
+2024-10-26,2024,0,1,1,1,0,0,0,Not Part of a Tour,No Tour,Little Crazy Too,,1,Empire Live Underground,Albany,NY,USA,","
+2024-10-26,2024,0,2,2,1,0,0,5,Not Part of a Tour,No Tour,Sigma Oasis,,0,MVP Arena,Albany,NY,USA,>
+2024-10-26,2024,0,2,1,1,0,0,0,Not Part of a Tour,No Tour,Get Funky,,1,Empire Live Underground,Albany,NY,USA,","
 2024-10-26,2024,0,3,1,1,0,0,4,Not Part of a Tour,No Tour,Back on the Train,BOTT,0,MVP Arena,Albany,NY,USA,","
-2024-10-26,2024,0,3,1,1,0,0,0,Not Part of a Tour,No Tour,Nobody Finer,Nobody Finer,1,Empire Live Underground,Albany,NY,USA,","
-2024-10-26,2024,0,4,1,1,0,0,117,Not Part of a Tour,No Tour,Nothing,Nothing,0,MVP Arena,Albany,NY,USA,","
-2024-10-26,2024,0,4,1,1,0,0,0,Not Part of a Tour,No Tour,Carnival,Carnival,0,Empire Live Underground,Albany,NY,USA,","
-2024-10-26,2024,0,5,1,1,0,0,2,Not Part of a Tour,No Tour,Stash,Stash,1,MVP Arena,Albany,NY,USA,","
-2024-10-26,2024,0,5,1,1,0,0,0,Not Part of a Tour,No Tour,Lesser Charge,Lesser Charge,0,Empire Live Underground,Albany,NY,USA,","
+2024-10-26,2024,0,3,1,1,0,0,0,Not Part of a Tour,No Tour,Nobody Finer,,1,Empire Live Underground,Albany,NY,USA,","
+2024-10-26,2024,0,4,1,1,0,0,117,Not Part of a Tour,No Tour,Nothing,,0,MVP Arena,Albany,NY,USA,","
+2024-10-26,2024,0,4,1,1,0,0,0,Not Part of a Tour,No Tour,Carnival,,0,Empire Live Underground,Albany,NY,USA,","
+2024-10-26,2024,0,5,1,1,0,0,2,Not Part of a Tour,No Tour,Stash,,1,MVP Arena,Albany,NY,USA,","
+2024-10-26,2024,0,5,1,1,0,0,0,Not Part of a Tour,No Tour,Lesser Charge,,0,Empire Live Underground,Albany,NY,USA,","
 2024-10-26,2024,0,6,1,1,0,0,7,Not Part of a Tour,No Tour,Bouncing Around the Room,Bouncin',1,MVP Arena,Albany,NY,USA,","
-2024-10-26,2024,0,6,1,1,0,0,303,Not Part of a Tour,No Tour,Crimes of the Mind,Crimes of the Mind,0,Empire Live Underground,Albany,NY,USA,","
-2024-10-26,2024,0,7,2,1,0,0,2,Not Part of a Tour,No Tour,Tube,Tube,1,MVP Arena,Albany,NY,USA,>
-2024-10-26,2024,0,7,1,1,0,0,0,Not Part of a Tour,No Tour,Show of Life,Show of Life,0,Empire Live Underground,Albany,NY,USA,","
+2024-10-26,2024,0,6,1,1,0,0,303,Not Part of a Tour,No Tour,Crimes of the Mind,,0,Empire Live Underground,Albany,NY,USA,","
+2024-10-26,2024,0,7,2,1,0,0,2,Not Part of a Tour,No Tour,Tube,,1,MVP Arena,Albany,NY,USA,>
+2024-10-26,2024,0,7,1,1,0,0,0,Not Part of a Tour,No Tour,Show of Life,,0,Empire Live Underground,Albany,NY,USA,","
 2024-10-26,2024,0,8,1,1,0,0,3,Not Part of a Tour,No Tour,Bathtub Gin,Gin,1,MVP Arena,Albany,NY,USA,","
-2024-10-26,2024,0,8,1,1,0,0,0,Not Part of a Tour,No Tour,Mississippi Blues,Mississippi Blues,1,Empire Live Underground,Albany,NY,USA,","
-2024-10-26,2024,0,9,4,1,0,0,2,Not Part of a Tour,No Tour,More,More,1,MVP Arena,Albany,NY,USA,
-2024-10-26,2024,0,9,1,1,0,0,0,Not Part of a Tour,No Tour,Tourmaline,Tourmaline,1,Empire Live Underground,Albany,NY,USA,","
+2024-10-26,2024,0,8,1,1,0,0,0,Not Part of a Tour,No Tour,Mississippi Blues,,1,Empire Live Underground,Albany,NY,USA,","
+2024-10-26,2024,0,9,4,1,0,0,2,Not Part of a Tour,No Tour,More,,1,MVP Arena,Albany,NY,USA,
+2024-10-26,2024,0,9,1,1,0,0,0,Not Part of a Tour,No Tour,Tourmaline,,1,Empire Live Underground,Albany,NY,USA,","
 2024-10-26,2024,0,10,2,2,0,0,2,Not Part of a Tour,No Tour,Prince Caspian,Caspian,1,MVP Arena,Albany,NY,USA,>
-2024-10-26,2024,0,10,1,1,0,0,0,Not Part of a Tour,No Tour,Crooked Piece of Time,Crooked Piece of Time,1,Empire Live Underground,Albany,NY,USA,","
+2024-10-26,2024,0,10,1,1,0,0,0,Not Part of a Tour,No Tour,Crooked Piece of Time,,1,Empire Live Underground,Albany,NY,USA,","
 2024-10-26,2024,0,11,2,2,0,0,5,Not Part of a Tour,No Tour,Down with Disease,DwD,1,MVP Arena,Albany,NY,USA,>
-2024-10-26,2024,0,11,1,1,0,0,0,Not Part of a Tour,No Tour,Moonstone,Moonstone,1,Empire Live Underground,Albany,NY,USA,","
-2024-10-26,2024,0,12,2,2,0,0,4,Not Part of a Tour,No Tour,Ruby Waves,Ruby Waves,0,MVP Arena,Albany,NY,USA,>
-2024-10-26,2024,0,12,1,1,0,0,0,Not Part of a Tour,No Tour,Can't Always Listen,Can't Always Listen,1,Empire Live Underground,Albany,NY,USA,","
-2024-10-26,2024,0,13,2,2,0,0,6,Not Part of a Tour,No Tour,Fuego,Fuego,1,MVP Arena,Albany,NY,USA,>
-2024-10-26,2024,0,13,1,1,0,0,0,Not Part of a Tour,No Tour,Dancin' Plague,Dancin' Plague,1,Empire Live Underground,Albany,NY,USA,","
+2024-10-26,2024,0,11,1,1,0,0,0,Not Part of a Tour,No Tour,Moonstone,,1,Empire Live Underground,Albany,NY,USA,","
+2024-10-26,2024,0,12,2,2,0,0,4,Not Part of a Tour,No Tour,Ruby Waves,,0,MVP Arena,Albany,NY,USA,>
+2024-10-26,2024,0,12,1,1,0,0,0,Not Part of a Tour,No Tour,Can't Always Listen,,1,Empire Live Underground,Albany,NY,USA,","
+2024-10-26,2024,0,13,2,2,0,0,6,Not Part of a Tour,No Tour,Fuego,,1,MVP Arena,Albany,NY,USA,>
+2024-10-26,2024,0,13,1,1,0,0,0,Not Part of a Tour,No Tour,Dancin' Plague,,1,Empire Live Underground,Albany,NY,USA,","
 2024-10-26,2024,0,14,2,2,0,0,4,Not Part of a Tour,No Tour,What's the Use?,WTU?,1,MVP Arena,Albany,NY,USA,>
-2024-10-26,2024,0,14,1,1,0,0,0,Not Part of a Tour,No Tour,Space,Space,1,Empire Live Underground,Albany,NY,USA,","
-2024-10-26,2024,0,15,1,1,0,0,0,Not Part of a Tour,No Tour,Automatic Pilot,Automatic Pilot,1,Empire Live Underground,Albany,NY,USA,","
-2024-10-26,2024,0,15,2,2,0,0,6,Not Part of a Tour,No Tour,Golden Age,Golden Age,0,MVP Arena,Albany,NY,USA,>
-2024-10-26,2024,0,16,1,1,0,0,0,Not Part of a Tour,No Tour,Dilaudid Nurse,Dilaudid Nurse,1,Empire Live Underground,Albany,NY,USA,","
-2024-10-26,2024,0,16,1,2,0,0,9,Not Part of a Tour,No Tour,Lonely Trip,Lonely Trip,0,MVP Arena,Albany,NY,USA,","
+2024-10-26,2024,0,14,1,1,0,0,0,Not Part of a Tour,No Tour,Space,,1,Empire Live Underground,Albany,NY,USA,","
+2024-10-26,2024,0,15,1,1,0,0,0,Not Part of a Tour,No Tour,Automatic Pilot,,1,Empire Live Underground,Albany,NY,USA,","
+2024-10-26,2024,0,15,2,2,0,0,6,Not Part of a Tour,No Tour,Golden Age,,0,MVP Arena,Albany,NY,USA,>
+2024-10-26,2024,0,16,1,1,0,0,0,Not Part of a Tour,No Tour,Dilaudid Nurse,,1,Empire Live Underground,Albany,NY,USA,","
+2024-10-26,2024,0,16,1,2,0,0,9,Not Part of a Tour,No Tour,Lonely Trip,,0,MVP Arena,Albany,NY,USA,","
 2024-10-26,2024,0,17,5,2,0,0,5,Not Part of a Tour,No Tour,Harry Hood,Hood,1,MVP Arena,Albany,NY,USA,
-2024-10-26,2024,0,17,1,1,0,0,0,Not Part of a Tour,No Tour,Doghouse,Doghouse,1,Empire Live Underground,Albany,NY,USA,","
-2024-10-26,2024,0,18,6,1,0,0,0,Not Part of a Tour,No Tour,Lost Moments in Time,Lost Moments in Time,1,Empire Live Underground,Albany,NY,USA,
+2024-10-26,2024,0,17,1,1,0,0,0,Not Part of a Tour,No Tour,Doghouse,,1,Empire Live Underground,Albany,NY,USA,","
+2024-10-26,2024,0,18,6,1,0,0,0,Not Part of a Tour,No Tour,Lost Moments in Time,,1,Empire Live Underground,Albany,NY,USA,
 2024-10-26,2024,0,18,2,e,0,0,5,Not Part of a Tour,No Tour,Golgi Apparatus,Golgi,1,MVP Arena,Albany,NY,USA,>
 2024-10-26,2024,0,19,6,e,0,0,2,Not Part of a Tour,No Tour,Slave to the Traffic Light,Slave,1,MVP Arena,Albany,NY,USA,
-2024-10-27,2024,0,1,1,1,0,0,18,Not Part of a Tour,No Tour,Heavy Things,Heavy Things,1,MVP Arena,Albany,NY,USA,","
+2024-10-27,2024,0,1,1,1,0,0,18,Not Part of a Tour,No Tour,Heavy Things,,1,MVP Arena,Albany,NY,USA,","
 2024-10-27,2024,0,2,1,1,0,0,4,Not Part of a Tour,No Tour,What's Going Through Your Mind,WGTYM,0,MVP Arena,Albany,NY,USA,","
-2024-10-27,2024,0,3,1,1,0,0,185,Not Part of a Tour,No Tour,Access Me,Access Me,1,MVP Arena,Albany,NY,USA,","
+2024-10-27,2024,0,3,1,1,0,0,185,Not Part of a Tour,No Tour,Access Me,,1,MVP Arena,Albany,NY,USA,","
 2024-10-27,2024,0,4,1,1,0,0,3,Not Part of a Tour,No Tour,"My Friend, My Friend",My Friend,1,MVP Arena,Albany,NY,USA,","
 2024-10-27,2024,0,5,1,1,0,0,97,Not Part of a Tour,No Tour,My Sweet One,MSO,1,MVP Arena,Albany,NY,USA,","
 2024-10-27,2024,0,6,1,1,0,0,11,Not Part of a Tour,No Tour,Limb By Limb,LxL,1,MVP Arena,Albany,NY,USA,","
 2024-10-27,2024,0,7,1,1,0,0,9,Not Part of a Tour,No Tour,Mountains in the Mist,Mist,0,MVP Arena,Albany,NY,USA,","
 2024-10-27,2024,0,8,1,1,0,0,4,Not Part of a Tour,No Tour,Kill Devil Falls,KDF,1,MVP Arena,Albany,NY,USA,","
 2024-10-27,2024,0,9,4,1,0,0,14,Not Part of a Tour,No Tour,Walls of the Cave,WotC,1,MVP Arena,Albany,NY,USA,
-2024-10-27,2024,0,10,2,2,0,0,5,Not Part of a Tour,No Tour,Everything's Right,Everything's Right,0,MVP Arena,Albany,NY,USA,>
+2024-10-27,2024,0,10,2,2,0,0,5,Not Part of a Tour,No Tour,Everything's Right,,0,MVP Arena,Albany,NY,USA,>
 2024-10-27,2024,0,11,1,2,0,0,5,Not Part of a Tour,No Tour,Chalk Dust Torture,CDT,1,MVP Arena,Albany,NY,USA,","
-2024-10-27,2024,0,12,1,2,0,0,23,Not Part of a Tour,No Tour,Mercury,Mercury,1,MVP Arena,Albany,NY,USA,","
+2024-10-27,2024,0,12,1,2,0,0,23,Not Part of a Tour,No Tour,Mercury,,1,MVP Arena,Albany,NY,USA,","
 2024-10-27,2024,0,13,1,2,0,0,12,Not Part of a Tour,No Tour,Wading in the Velvet Sea,Velvet Sea,1,MVP Arena,Albany,NY,USA,","
-2024-10-27,2024,0,14,5,2,0,0,4,Not Part of a Tour,No Tour,Most Events Aren't Planned,Most Events Aren't Planned,0,MVP Arena,Albany,NY,USA,
+2024-10-27,2024,0,14,5,2,0,0,4,Not Part of a Tour,No Tour,Most Events Aren't Planned,,0,MVP Arena,Albany,NY,USA,
 2024-10-27,2024,0,15,1,e,0,0,8,Not Part of a Tour,No Tour,Gotta Jibboo,Jibboo,0,MVP Arena,Albany,NY,USA,","
-2024-10-27,2024,0,16,2,e,0,0,25,Not Part of a Tour,No Tour,Waste,Waste,1,MVP Arena,Albany,NY,USA,>
-2024-10-27,2024,0,17,2,e,0,0,4,Not Part of a Tour,No Tour,Bug,Bug,0,MVP Arena,Albany,NY,USA,>
-2024-10-27,2024,0,18,6,e,0,0,3,Not Part of a Tour,No Tour,Character Zero,Character Zero,1,MVP Arena,Albany,NY,USA,
-2024-12-28,2024,0,1,1,1,0,0,7,2024 NYE Run,2024 NYE,Simple,Simple,1,Madison Square Garden,New York,NY,USA,","
-2024-12-28,2024,0,2,1,1,0,0,2,2024 NYE Run,2024 NYE,Free,Free,1,Madison Square Garden,New York,NY,USA,","
-2024-12-28,2024,0,3,1,1,0,0,24,2024 NYE Run,2024 NYE,Farmhouse,Farmhouse,1,Madison Square Garden,New York,NY,USA,","
-2024-12-28,2024,0,4,1,1,0,0,68,2024 NYE Run,2024 NYE,Poor Heart,Poor Heart,1,Madison Square Garden,New York,NY,USA,","
-2024-12-28,2024,0,5,1,1,0,0,2,2024 NYE Run,2024 NYE,Tube,Tube,1,Madison Square Garden,New York,NY,USA,","
+2024-10-27,2024,0,16,2,e,0,0,25,Not Part of a Tour,No Tour,Waste,,1,MVP Arena,Albany,NY,USA,>
+2024-10-27,2024,0,17,2,e,0,0,4,Not Part of a Tour,No Tour,Bug,,0,MVP Arena,Albany,NY,USA,>
+2024-10-27,2024,0,18,6,e,0,0,3,Not Part of a Tour,No Tour,Character Zero,,1,MVP Arena,Albany,NY,USA,
+2024-12-28,2024,0,1,1,1,0,0,7,2024 NYE Run,2024 NYE,Simple,,1,Madison Square Garden,New York,NY,USA,","
+2024-12-28,2024,0,2,1,1,0,0,2,2024 NYE Run,2024 NYE,Free,,1,Madison Square Garden,New York,NY,USA,","
+2024-12-28,2024,0,3,1,1,0,0,24,2024 NYE Run,2024 NYE,Farmhouse,,1,Madison Square Garden,New York,NY,USA,","
+2024-12-28,2024,0,4,1,1,0,0,68,2024 NYE Run,2024 NYE,Poor Heart,,1,Madison Square Garden,New York,NY,USA,","
+2024-12-28,2024,0,5,1,1,0,0,2,2024 NYE Run,2024 NYE,Tube,,1,Madison Square Garden,New York,NY,USA,","
 2024-12-28,2024,0,6,1,1,0,0,0,2024 NYE Run,2024 NYE,Kill Devil Falls,KDF,1,Madison Square Garden,New York,NY,USA,","
-2024-12-28,2024,0,7,1,1,0,0,14,2024 NYE Run,2024 NYE,Driver,Driver,1,Madison Square Garden,New York,NY,USA,","
-2024-12-28,2024,0,8,1,1,0,0,9,2024 NYE Run,2024 NYE,Reba,Reba,1,Madison Square Garden,New York,NY,USA,","
-2024-12-28,2024,0,9,2,1,0,0,5,2024 NYE Run,2024 NYE,Oblivion,Oblivion,0,Madison Square Garden,New York,NY,USA,>
+2024-12-28,2024,0,7,1,1,0,0,14,2024 NYE Run,2024 NYE,Driver,,1,Madison Square Garden,New York,NY,USA,","
+2024-12-28,2024,0,8,1,1,0,0,9,2024 NYE Run,2024 NYE,Reba,,1,Madison Square Garden,New York,NY,USA,","
+2024-12-28,2024,0,9,2,1,0,0,5,2024 NYE Run,2024 NYE,Oblivion,,0,Madison Square Garden,New York,NY,USA,>
 2024-12-28,2024,0,10,4,1,0,0,6,2024 NYE Run,2024 NYE,Run Like an Antelope,Antelope,1,Madison Square Garden,New York,NY,USA,
 2024-12-28,2024,0,11,1,2,0,0,2,2024 NYE Run,2024 NYE,Back on the Train,BOTT,0,Madison Square Garden,New York,NY,USA,","
-2024-12-28,2024,0,12,2,2,0,0,5,2024 NYE Run,2024 NYE,Axilla (Part II),Axilla (Part II),1,Madison Square Garden,New York,NY,USA,>
-2024-12-28,2024,0,13,2,2,0,0,7,2024 NYE Run,2024 NYE,A Wave of Hope,A Wave of Hope,0,Madison Square Garden,New York,NY,USA,>
-2024-12-28,2024,0,14,1,2,0,0,322,2024 NYE Run,2024 NYE,Round Room,Round Room,1,Madison Square Garden,New York,NY,USA,","
-2024-12-28,2024,0,15,2,2,0,0,19,2024 NYE Run,2024 NYE,I Always Wanted It This Way,I Always Wanted It This Way,1,Madison Square Garden,New York,NY,USA,>
-2024-12-28,2024,0,16,2,2,0,0,10,2024 NYE Run,2024 NYE,Twist,Twist,1,Madison Square Garden,New York,NY,USA,>
+2024-12-28,2024,0,12,2,2,0,0,5,2024 NYE Run,2024 NYE,Axilla (Part II),,1,Madison Square Garden,New York,NY,USA,>
+2024-12-28,2024,0,13,2,2,0,0,7,2024 NYE Run,2024 NYE,A Wave of Hope,,0,Madison Square Garden,New York,NY,USA,>
+2024-12-28,2024,0,14,1,2,0,0,322,2024 NYE Run,2024 NYE,Round Room,,1,Madison Square Garden,New York,NY,USA,","
+2024-12-28,2024,0,15,2,2,0,0,19,2024 NYE Run,2024 NYE,I Always Wanted It This Way,,1,Madison Square Garden,New York,NY,USA,>
+2024-12-28,2024,0,16,2,2,0,0,10,2024 NYE Run,2024 NYE,Twist,,1,Madison Square Garden,New York,NY,USA,>
 2024-12-28,2024,0,17,2,2,0,0,37,2024 NYE Run,2024 NYE,The Mango Song,Mango,1,Madison Square Garden,New York,NY,USA,>
-2024-12-28,2024,0,18,2,2,0,0,3,2024 NYE Run,2024 NYE,Blaze On,Blaze On,1,Madison Square Garden,New York,NY,USA,>
-2024-12-28,2024,0,19,2,2,0,0,14,2024 NYE Run,2024 NYE,Cavern,Cavern,1,Madison Square Garden,New York,NY,USA,>
+2024-12-28,2024,0,18,2,2,0,0,3,2024 NYE Run,2024 NYE,Blaze On,,1,Madison Square Garden,New York,NY,USA,>
+2024-12-28,2024,0,19,2,2,0,0,14,2024 NYE Run,2024 NYE,Cavern,,1,Madison Square Garden,New York,NY,USA,>
 2024-12-28,2024,0,20,5,2,0,0,9,2024 NYE Run,2024 NYE,David Bowie,Bowie,1,Madison Square Garden,New York,NY,USA,
 2024-12-28,2024,0,21,1,e,0,0,1,2024 NYE Run,2024 NYE,Mountains in the Mist,Mist,0,Madison Square Garden,New York,NY,USA,","
 2024-12-28,2024,0,22,2,e,0,0,74,2024 NYE Run,2024 NYE,Fuck Your Face,FYF,1,Madison Square Garden,New York,NY,USA,>
-2024-12-28,2024,0,23,6,e,0,0,5,2024 NYE Run,2024 NYE,46 Days,46 Days,1,Madison Square Garden,New York,NY,USA,
+2024-12-28,2024,0,23,6,e,0,0,5,2024 NYE Run,2024 NYE,46 Days,,1,Madison Square Garden,New York,NY,USA,
 2024-12-29,2024,0,1,1,1,0,0,13,2024 NYE Run,2024 NYE,Sample in a Jar,Sample,1,Madison Square Garden,New York,NY,USA,","
 2024-12-29,2024,0,2,2,1,0,0,8,2024 NYE Run,2024 NYE,AC/DC Bag,Bag,1,Madison Square Garden,New York,NY,USA,>
 2024-12-29,2024,0,3,2,1,0,0,4,2024 NYE Run,2024 NYE,The Moma Dance,Moma,1,Madison Square Garden,New York,NY,USA,>
-2024-12-29,2024,0,4,2,1,0,0,8,2024 NYE Run,2024 NYE,Rift,Rift,1,Madison Square Garden,New York,NY,USA,>
+2024-12-29,2024,0,4,2,1,0,0,8,2024 NYE Run,2024 NYE,Rift,,1,Madison Square Garden,New York,NY,USA,>
 2024-12-29,2024,0,5,1,1,0,0,3,2024 NYE Run,2024 NYE,Prince Caspian,Caspian,1,Madison Square Garden,New York,NY,USA,","
-2024-12-29,2024,0,6,1,1,0,0,3,2024 NYE Run,2024 NYE,Monsters,Monsters,0,Madison Square Garden,New York,NY,USA,","
-2024-12-29,2024,0,7,1,1,0,0,4,2024 NYE Run,2024 NYE,Runaway Jim,Runaway Jim,1,Madison Square Garden,New York,NY,USA,","
+2024-12-29,2024,0,6,1,1,0,0,3,2024 NYE Run,2024 NYE,Monsters,,0,Madison Square Garden,New York,NY,USA,","
+2024-12-29,2024,0,7,1,1,0,0,4,2024 NYE Run,2024 NYE,Runaway Jim,,1,Madison Square Garden,New York,NY,USA,","
 2024-12-29,2024,0,8,3,1,0,0,6,2024 NYE Run,2024 NYE,You Enjoy Myself,YEM,1,Madison Square Garden,New York,NY,USA,->
-2024-12-29,2024,0,9,4,1,0,0,3,2024 NYE Run,2024 NYE,Ghost,Ghost,1,Madison Square Garden,New York,NY,USA,
+2024-12-29,2024,0,9,4,1,0,0,3,2024 NYE Run,2024 NYE,Ghost,,1,Madison Square Garden,New York,NY,USA,
 2024-12-29,2024,0,10,2,2,0,0,2,2024 NYE Run,2024 NYE,Bathtub Gin,Gin,1,Madison Square Garden,New York,NY,USA,>
-2024-12-29,2024,0,11,1,2,0,0,2,2024 NYE Run,2024 NYE,Ruby Waves,Ruby Waves,0,Madison Square Garden,New York,NY,USA,","
-2024-12-29,2024,0,12,2,2,0,0,1,2024 NYE Run,2024 NYE,Waste,Waste,1,Madison Square Garden,New York,NY,USA,>
-2024-12-29,2024,0,13,2,2,0,0,3,2024 NYE Run,2024 NYE,Fuego,Fuego,1,Madison Square Garden,New York,NY,USA,>
+2024-12-29,2024,0,11,1,2,0,0,2,2024 NYE Run,2024 NYE,Ruby Waves,,0,Madison Square Garden,New York,NY,USA,","
+2024-12-29,2024,0,12,2,2,0,0,1,2024 NYE Run,2024 NYE,Waste,,1,Madison Square Garden,New York,NY,USA,>
+2024-12-29,2024,0,13,2,2,0,0,3,2024 NYE Run,2024 NYE,Fuego,,1,Madison Square Garden,New York,NY,USA,>
 2024-12-29,2024,0,14,5,2,0,0,5,2024 NYE Run,2024 NYE,Crosseyed and Painless,C&amp;P,0,Madison Square Garden,New York,NY,USA,
-2024-12-29,2024,0,15,6,e,0,0,149,2024 NYE Run,2024 NYE,Bold As Love,Bold As Love,0,Madison Square Garden,New York,NY,USA,
-2024-12-30,2024,0,1,1,1,0,0,4,2024 NYE Run,2024 NYE,Possum,Possum,1,Madison Square Garden,New York,NY,USA,","
+2024-12-29,2024,0,15,6,e,0,0,149,2024 NYE Run,2024 NYE,Bold As Love,,0,Madison Square Garden,New York,NY,USA,
+2024-12-30,2024,0,1,1,1,0,0,4,2024 NYE Run,2024 NYE,Possum,,1,Madison Square Garden,New York,NY,USA,","
 2024-12-30,2024,0,2,1,1,0,0,5,2024 NYE Run,2024 NYE,Wolfman's Brother,Wolfman's,1,Madison Square Garden,New York,NY,USA,","
-2024-12-30,2024,0,3,3,1,0,0,193,2024 NYE Run,2024 NYE,Lengthwise,Lengthwise,1,Madison Square Garden,New York,NY,USA,->
-2024-12-30,2024,0,4,1,1,0,0,7,2024 NYE Run,2024 NYE,Maze,Maze,1,Madison Square Garden,New York,NY,USA,","
+2024-12-30,2024,0,3,3,1,0,0,193,2024 NYE Run,2024 NYE,Lengthwise,,1,Madison Square Garden,New York,NY,USA,->
+2024-12-30,2024,0,4,1,1,0,0,7,2024 NYE Run,2024 NYE,Maze,,1,Madison Square Garden,New York,NY,USA,","
 2024-12-30,2024,0,5,1,1,0,0,4,2024 NYE Run,2024 NYE,Theme From the Bottom,Theme,1,Madison Square Garden,New York,NY,USA,","
-2024-12-30,2024,0,6,1,1,0,0,3,2024 NYE Run,2024 NYE,More,More,1,Madison Square Garden,New York,NY,USA,","
+2024-12-30,2024,0,6,1,1,0,0,3,2024 NYE Run,2024 NYE,More,,1,Madison Square Garden,New York,NY,USA,","
 2024-12-30,2024,0,7,1,1,0,0,11,2024 NYE Run,2024 NYE,Divided Sky,Divided,1,Madison Square Garden,New York,NY,USA,","
 2024-12-30,2024,0,8,1,1,0,0,4,2024 NYE Run,2024 NYE,No Men In No Man's Land,NMINML,1,Madison Square Garden,New York,NY,USA,","
-2024-12-30,2024,0,9,2,1,0,0,3,2024 NYE Run,2024 NYE,Most Events Aren't Planned,Most Events Aren't Planned,0,Madison Square Garden,New York,NY,USA,>
-2024-12-30,2024,0,10,4,1,0,0,5,2024 NYE Run,2024 NYE,Fluffhead,Fluffhead,1,Madison Square Garden,New York,NY,USA,
-2024-12-30,2024,0,11,2,2,0,0,7,2024 NYE Run,2024 NYE,Hey Stranger,Hey Stranger,0,Madison Square Garden,New York,NY,USA,>
+2024-12-30,2024,0,9,2,1,0,0,3,2024 NYE Run,2024 NYE,Most Events Aren't Planned,,0,Madison Square Garden,New York,NY,USA,>
+2024-12-30,2024,0,10,4,1,0,0,5,2024 NYE Run,2024 NYE,Fluffhead,,1,Madison Square Garden,New York,NY,USA,
+2024-12-30,2024,0,11,2,2,0,0,7,2024 NYE Run,2024 NYE,Hey Stranger,,0,Madison Square Garden,New York,NY,USA,>
 2024-12-30,2024,0,12,2,2,0,0,3,2024 NYE Run,2024 NYE,Down with Disease,DwD,1,Madison Square Garden,New York,NY,USA,>
-2024-12-30,2024,0,13,1,2,0,0,80,2024 NYE Run,2024 NYE,Winterqueen,Winterqueen,0,Madison Square Garden,New York,NY,USA,","
-2024-12-30,2024,0,14,3,2,0,0,5,2024 NYE Run,2024 NYE,Tweezer,Tweezer,1,Madison Square Garden,New York,NY,USA,->
-2024-12-30,2024,0,15,2,2,0,0,81,2024 NYE Run,2024 NYE,Seven Below,Seven Below,1,Madison Square Garden,New York,NY,USA,>
-2024-12-30,2024,0,16,2,2,0,0,5,2024 NYE Run,2024 NYE,Piper,Piper,1,Madison Square Garden,New York,NY,USA,>
+2024-12-30,2024,0,13,1,2,0,0,80,2024 NYE Run,2024 NYE,Winterqueen,,0,Madison Square Garden,New York,NY,USA,","
+2024-12-30,2024,0,14,3,2,0,0,5,2024 NYE Run,2024 NYE,Tweezer,,1,Madison Square Garden,New York,NY,USA,->
+2024-12-30,2024,0,15,2,2,0,0,81,2024 NYE Run,2024 NYE,Seven Below,,1,Madison Square Garden,New York,NY,USA,>
+2024-12-30,2024,0,16,2,2,0,0,5,2024 NYE Run,2024 NYE,Piper,,1,Madison Square Garden,New York,NY,USA,>
 2024-12-30,2024,0,17,1,2,0,0,9,2024 NYE Run,2024 NYE,Also Sprach Zarathustra,2001,0,Madison Square Garden,New York,NY,USA,","
-2024-12-30,2024,0,18,5,2,0,0,3,2024 NYE Run,2024 NYE,Everything's Right,Everything's Right,0,Madison Square Garden,New York,NY,USA,
-2024-12-30,2024,0,19,1,e,0,0,6,2024 NYE Run,2024 NYE,A Life Beyond The Dream,A Life Beyond The Dream,0,Madison Square Garden,New York,NY,USA,","
+2024-12-30,2024,0,18,5,2,0,0,3,2024 NYE Run,2024 NYE,Everything's Right,,0,Madison Square Garden,New York,NY,USA,
+2024-12-30,2024,0,19,1,e,0,0,6,2024 NYE Run,2024 NYE,A Life Beyond The Dream,,0,Madison Square Garden,New York,NY,USA,","
 2024-12-30,2024,0,20,6,e,0,0,4,2024 NYE Run,2024 NYE,Harry Hood,Hood,1,Madison Square Garden,New York,NY,USA,
 2024-12-31,2024,0,1,2,1,0,0,11,2024 NYE Run,2024 NYE,Mike's Song,Mike's,1,Madison Square Garden,New York,NY,USA,>
 2024-12-31,2024,0,2,2,1,0,0,4,2024 NYE Run,2024 NYE,Bouncing Around the Room,Bouncin',1,Madison Square Garden,New York,NY,USA,>
 2024-12-31,2024,0,3,1,1,0,0,11,2024 NYE Run,2024 NYE,Weekapaug Groove,Weekapaug,1,Madison Square Garden,New York,NY,USA,","
-2024-12-31,2024,0,4,1,1,0,0,4,2024 NYE Run,2024 NYE,Stash,Stash,1,Madison Square Garden,New York,NY,USA,","
-2024-12-31,2024,0,5,1,1,0,0,8,2024 NYE Run,2024 NYE,Evolve,Evolve,0,Madison Square Garden,New York,NY,USA,","
-2024-12-31,2024,0,6,1,1,0,0,9,2024 NYE Run,2024 NYE,Llama,Llama,1,Madison Square Garden,New York,NY,USA,","
+2024-12-31,2024,0,4,1,1,0,0,4,2024 NYE Run,2024 NYE,Stash,,1,Madison Square Garden,New York,NY,USA,","
+2024-12-31,2024,0,5,1,1,0,0,8,2024 NYE Run,2024 NYE,Evolve,,0,Madison Square Garden,New York,NY,USA,","
+2024-12-31,2024,0,6,1,1,0,0,9,2024 NYE Run,2024 NYE,Llama,,1,Madison Square Garden,New York,NY,USA,","
 2024-12-31,2024,0,7,1,1,0,0,7,2024 NYE Run,2024 NYE,Split Open and Melt,SOAMelt,1,Madison Square Garden,New York,NY,USA,","
 2024-12-31,2024,0,8,2,1,0,0,5,2024 NYE Run,2024 NYE,Backwards Down the Number Line,BDTNL,0,Madison Square Garden,New York,NY,USA,>
-2024-12-31,2024,0,9,1,1,0,0,5,2024 NYE Run,2024 NYE,Carini,Carini,1,Madison Square Garden,New York,NY,USA,","
+2024-12-31,2024,0,9,1,1,0,0,5,2024 NYE Run,2024 NYE,Carini,,1,Madison Square Garden,New York,NY,USA,","
 2024-12-31,2024,0,10,4,1,0,0,22,2024 NYE Run,2024 NYE,The Squirming Coil,Coil,1,Madison Square Garden,New York,NY,USA,
-2024-12-31,2024,0,11,2,2,0,0,5,2024 NYE Run,2024 NYE,Sigma Oasis,Sigma Oasis,0,Madison Square Garden,New York,NY,USA,>
+2024-12-31,2024,0,11,2,2,0,0,5,2024 NYE Run,2024 NYE,Sigma Oasis,,0,Madison Square Garden,New York,NY,USA,>
 2024-12-31,2024,0,12,2,2,0,0,3,2024 NYE Run,2024 NYE,"My Friend, My Friend",My Friend,1,Madison Square Garden,New York,NY,USA,>
-2024-12-31,2024,0,13,1,2,0,0,5,2024 NYE Run,2024 NYE,Sand,Sand,0,Madison Square Garden,New York,NY,USA,","
-2024-12-31,2024,0,14,2,2,0,0,4,2024 NYE Run,2024 NYE,Golden Age,Golden Age,0,Madison Square Garden,New York,NY,USA,>
+2024-12-31,2024,0,13,1,2,0,0,5,2024 NYE Run,2024 NYE,Sand,,0,Madison Square Garden,New York,NY,USA,","
+2024-12-31,2024,0,14,2,2,0,0,4,2024 NYE Run,2024 NYE,Golden Age,,0,Madison Square Garden,New York,NY,USA,>
 2024-12-31,2024,0,15,2,2,0,0,4,2024 NYE Run,2024 NYE,What's the Use?,WTU?,1,Madison Square Garden,New York,NY,USA,>
-2024-12-31,2024,0,16,1,2,0,0,16,2024 NYE Run,2024 NYE,Taste,Taste,1,Madison Square Garden,New York,NY,USA,","
+2024-12-31,2024,0,16,1,2,0,0,16,2024 NYE Run,2024 NYE,Taste,,1,Madison Square Garden,New York,NY,USA,","
 2024-12-31,2024,0,17,1,2,0,0,4,2024 NYE Run,2024 NYE,Golgi Apparatus,Golgi,1,Madison Square Garden,New York,NY,USA,","
-2024-12-31,2024,0,18,4,2,0,0,7,2024 NYE Run,2024 NYE,First Tube,First Tube,0,Madison Square Garden,New York,NY,USA,
-2024-12-31,2024,0,19,1,3,0,0,3,2024 NYE Run,2024 NYE,Character Zero,Character Zero,1,Madison Square Garden,New York,NY,USA,","
-2024-12-31,2024,0,20,2,3,0,0,9,2024 NYE Run,2024 NYE,Pillow Jets,Pillow Jets,0,Madison Square Garden,New York,NY,USA,>
-2024-12-31,2024,0,21,2,3,0,0,40,2024 NYE Run,2024 NYE,Auld Lang Syne,Auld Lang Syne,0,Madison Square Garden,New York,NY,USA,>
+2024-12-31,2024,0,18,4,2,0,0,7,2024 NYE Run,2024 NYE,First Tube,,0,Madison Square Garden,New York,NY,USA,
+2024-12-31,2024,0,19,1,3,0,0,3,2024 NYE Run,2024 NYE,Character Zero,,1,Madison Square Garden,New York,NY,USA,","
+2024-12-31,2024,0,20,2,3,0,0,9,2024 NYE Run,2024 NYE,Pillow Jets,,0,Madison Square Garden,New York,NY,USA,>
+2024-12-31,2024,0,21,2,3,0,0,40,2024 NYE Run,2024 NYE,Auld Lang Syne,,0,Madison Square Garden,New York,NY,USA,>
 2024-12-31,2024,0,22,3,3,0,0,3,2024 NYE Run,2024 NYE,What's Going Through Your Mind,WGTYM,0,Madison Square Garden,New York,NY,USA,->
 2024-12-31,2024,0,23,2,3,0,0,4,2024 NYE Run,2024 NYE,Chalk Dust Torture,CDT,1,Madison Square Garden,New York,NY,USA,>
 2024-12-31,2024,0,24,1,3,0,0,4,2024 NYE Run,2024 NYE,Slave to the Traffic Light,Slave,1,Madison Square Garden,New York,NY,USA,","
-2024-12-31,2024,0,25,2,3,0,0,6,2024 NYE Run,2024 NYE,Life Saving Gun,Life Saving Gun,1,Madison Square Garden,New York,NY,USA,>
-2024-12-31,2024,0,26,5,3,0,0,10,2024 NYE Run,2024 NYE,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Madison Square Garden,New York,NY,USA,
-2024-12-31,2024,0,27,1,e,0,0,22,2024 NYE Run,2024 NYE,Grind,Grind,1,Madison Square Garden,New York,NY,USA,","
-2024-12-31,2024,0,28,1,e,0,0,76,2024 NYE Run,2024 NYE,Icculus,Icculus,1,Madison Square Garden,New York,NY,USA,","
+2024-12-31,2024,0,25,2,3,0,0,6,2024 NYE Run,2024 NYE,Life Saving Gun,,1,Madison Square Garden,New York,NY,USA,>
+2024-12-31,2024,0,26,5,3,0,0,10,2024 NYE Run,2024 NYE,Say It To Me S.A.N.T.O.S.,,1,Madison Square Garden,New York,NY,USA,
+2024-12-31,2024,0,27,1,e,0,0,22,2024 NYE Run,2024 NYE,Grind,,1,Madison Square Garden,New York,NY,USA,","
+2024-12-31,2024,0,28,1,e,0,0,76,2024 NYE Run,2024 NYE,Icculus,,1,Madison Square Garden,New York,NY,USA,","
 2024-12-31,2024,0,29,6,e,0,0,5,2024 NYE Run,2024 NYE,Tweezer Reprise,Tweeprise,1,Madison Square Garden,New York,NY,USA,

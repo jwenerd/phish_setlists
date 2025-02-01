@@ -1,473 +1,473 @@
 showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,tourwhen,song,nickname,is_original,venue,city,state,country,trans_mark
 2014-04-26,2014,0,1,1,1,0,0,2,Not Part of a Tour,No Tour,Kill Devil Falls,KDF,1,New Orleans Fairgrounds,New Orleans,LA,USA,","
 2014-04-26,2014,0,2,2,1,0,0,3,Not Part of a Tour,No Tour,The Moma Dance,Moma,1,New Orleans Fairgrounds,New Orleans,LA,USA,>
-2014-04-26,2014,0,3,1,1,0,0,3,Not Part of a Tour,No Tour,Rift,Rift,1,New Orleans Fairgrounds,New Orleans,LA,USA,","
+2014-04-26,2014,0,3,1,1,0,0,3,Not Part of a Tour,No Tour,Rift,,1,New Orleans Fairgrounds,New Orleans,LA,USA,","
 2014-04-26,2014,0,4,1,1,0,0,4,Not Part of a Tour,No Tour,Wolfman's Brother,Wolfman's,1,New Orleans Fairgrounds,New Orleans,LA,USA,","
-2014-04-26,2014,0,5,1,1,0,0,2,Not Part of a Tour,No Tour,Lawn Boy,Lawn Boy,1,New Orleans Fairgrounds,New Orleans,LA,USA,","
-2014-04-26,2014,0,6,1,1,0,0,10,Not Part of a Tour,No Tour,Party Time,Party Time,1,New Orleans Fairgrounds,New Orleans,LA,USA,","
-2014-04-26,2014,0,7,1,1,0,0,1,Not Part of a Tour,No Tour,Ocelot,Ocelot,1,New Orleans Fairgrounds,New Orleans,LA,USA,","
-2014-04-26,2014,0,8,1,1,0,0,5,Not Part of a Tour,No Tour,Funky Bitch,Funky Bitch,0,New Orleans Fairgrounds,New Orleans,LA,USA,","
-2014-04-26,2014,0,9,1,1,0,0,2,Not Part of a Tour,No Tour,46 Days,46 Days,1,New Orleans Fairgrounds,New Orleans,LA,USA,","
-2014-04-26,2014,0,10,2,1,0,0,3,Not Part of a Tour,No Tour,The Line,The Line,1,New Orleans Fairgrounds,New Orleans,LA,USA,>
-2014-04-26,2014,0,11,4,1,0,0,1,Not Part of a Tour,No Tour,Character Zero,Character Zero,1,New Orleans Fairgrounds,New Orleans,LA,USA,
+2014-04-26,2014,0,5,1,1,0,0,2,Not Part of a Tour,No Tour,Lawn Boy,,1,New Orleans Fairgrounds,New Orleans,LA,USA,","
+2014-04-26,2014,0,6,1,1,0,0,10,Not Part of a Tour,No Tour,Party Time,,1,New Orleans Fairgrounds,New Orleans,LA,USA,","
+2014-04-26,2014,0,7,1,1,0,0,1,Not Part of a Tour,No Tour,Ocelot,,1,New Orleans Fairgrounds,New Orleans,LA,USA,","
+2014-04-26,2014,0,8,1,1,0,0,5,Not Part of a Tour,No Tour,Funky Bitch,,0,New Orleans Fairgrounds,New Orleans,LA,USA,","
+2014-04-26,2014,0,9,1,1,0,0,2,Not Part of a Tour,No Tour,46 Days,,1,New Orleans Fairgrounds,New Orleans,LA,USA,","
+2014-04-26,2014,0,10,2,1,0,0,3,Not Part of a Tour,No Tour,The Line,,1,New Orleans Fairgrounds,New Orleans,LA,USA,>
+2014-04-26,2014,0,11,4,1,0,0,1,Not Part of a Tour,No Tour,Character Zero,,1,New Orleans Fairgrounds,New Orleans,LA,USA,
 2014-04-26,2014,0,12,2,2,0,0,3,Not Part of a Tour,No Tour,Down with Disease,DwD,1,New Orleans Fairgrounds,New Orleans,LA,USA,>
 2014-04-26,2014,0,13,2,2,0,0,4,Not Part of a Tour,No Tour,Birds of a Feather,BOAF,1,New Orleans Fairgrounds,New Orleans,LA,USA,>
-2014-04-26,2014,0,14,2,2,0,0,3,Not Part of a Tour,No Tour,Twist,Twist,1,New Orleans Fairgrounds,New Orleans,LA,USA,>
-2014-04-26,2014,0,15,2,2,0,0,3,Not Part of a Tour,No Tour,Sparkle,Sparkle,1,New Orleans Fairgrounds,New Orleans,LA,USA,>
-2014-04-26,2014,0,16,2,2,0,0,4,Not Part of a Tour,No Tour,Free,Free,1,New Orleans Fairgrounds,New Orleans,LA,USA,>
-2014-04-26,2014,0,17,1,2,0,0,1,Not Part of a Tour,No Tour,Light,Light,0,New Orleans Fairgrounds,New Orleans,LA,USA,","
-2014-04-26,2014,0,18,1,2,0,0,4,Not Part of a Tour,No Tour,Sand,Sand,0,New Orleans Fairgrounds,New Orleans,LA,USA,","
+2014-04-26,2014,0,14,2,2,0,0,3,Not Part of a Tour,No Tour,Twist,,1,New Orleans Fairgrounds,New Orleans,LA,USA,>
+2014-04-26,2014,0,15,2,2,0,0,3,Not Part of a Tour,No Tour,Sparkle,,1,New Orleans Fairgrounds,New Orleans,LA,USA,>
+2014-04-26,2014,0,16,2,2,0,0,4,Not Part of a Tour,No Tour,Free,,1,New Orleans Fairgrounds,New Orleans,LA,USA,>
+2014-04-26,2014,0,17,1,2,0,0,1,Not Part of a Tour,No Tour,Light,,0,New Orleans Fairgrounds,New Orleans,LA,USA,","
+2014-04-26,2014,0,18,1,2,0,0,4,Not Part of a Tour,No Tour,Sand,,0,New Orleans Fairgrounds,New Orleans,LA,USA,","
 2014-04-26,2014,0,19,2,2,0,0,2,Not Part of a Tour,No Tour,Harry Hood,Hood,1,New Orleans Fairgrounds,New Orleans,LA,USA,>
-2014-04-26,2014,0,20,1,2,0,0,2,Not Part of a Tour,No Tour,Cavern,Cavern,1,New Orleans Fairgrounds,New Orleans,LA,USA,","
-2014-04-26,2014,0,21,5,2,0,0,1,Not Part of a Tour,No Tour,Grind,Grind,1,New Orleans Fairgrounds,New Orleans,LA,USA,
-2014-04-26,2014,0,22,6,e,0,0,4,Not Part of a Tour,No Tour,Julius,Julius,1,New Orleans Fairgrounds,New Orleans,LA,USA,
-2014-06-24,2014,1,1,6,1,0,0,2,Not Part of a Tour,No Tour,The Line,The Line,1,Ed Sullivan Theater,New York,NY,USA,
-2014-06-24,2014,0,1,1,1,0,0,1,Not Part of a Tour,No Tour,46 Days,46 Days,1,Ed Sullivan Theater,New York,NY,USA,","
-2014-06-24,2014,1,1,6,1,0,0,2,Not Part of a Tour,No Tour,The Line,The Line,1,Ed Sullivan Theater,New York,NY,USA,
-2014-06-24,2014,0,1,1,1,0,0,1,Not Part of a Tour,No Tour,46 Days,46 Days,1,Ed Sullivan Theater,New York,NY,USA,","
-2014-06-24,2014,0,2,1,1,0,0,13,Not Part of a Tour,No Tour,Undermind,Undermind,0,Ed Sullivan Theater,New York,NY,USA,","
-2014-06-24,2014,0,2,1,1,0,0,13,Not Part of a Tour,No Tour,Undermind,Undermind,0,Ed Sullivan Theater,New York,NY,USA,","
-2014-06-24,2014,0,3,1,1,0,0,2,Not Part of a Tour,No Tour,Halfway to the Moon,Halfway to the Moon,1,Ed Sullivan Theater,New York,NY,USA,","
-2014-06-24,2014,0,3,1,1,0,0,2,Not Part of a Tour,No Tour,Halfway to the Moon,Halfway to the Moon,1,Ed Sullivan Theater,New York,NY,USA,","
-2014-06-24,2014,0,4,1,1,0,0,4,Not Part of a Tour,No Tour,Carini,Carini,1,Ed Sullivan Theater,New York,NY,USA,","
-2014-06-24,2014,0,4,1,1,0,0,4,Not Part of a Tour,No Tour,Carini,Carini,1,Ed Sullivan Theater,New York,NY,USA,","
-2014-06-24,2014,0,5,1,1,0,0,3,Not Part of a Tour,No Tour,Devotion To a Dream,Devotion To a Dream,1,Ed Sullivan Theater,New York,NY,USA,","
-2014-06-24,2014,0,5,1,1,0,0,3,Not Part of a Tour,No Tour,Devotion To a Dream,Devotion To a Dream,1,Ed Sullivan Theater,New York,NY,USA,","
-2014-06-24,2014,0,6,1,1,0,0,4,Not Part of a Tour,No Tour,555,555,1,Ed Sullivan Theater,New York,NY,USA,","
-2014-06-24,2014,0,6,1,1,0,0,4,Not Part of a Tour,No Tour,555,555,1,Ed Sullivan Theater,New York,NY,USA,","
-2014-06-24,2014,0,7,5,1,0,0,1,Not Part of a Tour,No Tour,Twist,Twist,1,Ed Sullivan Theater,New York,NY,USA,
-2014-06-24,2014,0,7,5,1,0,0,1,Not Part of a Tour,No Tour,Twist,Twist,1,Ed Sullivan Theater,New York,NY,USA,
-2014-06-24,2014,0,8,6,e,0,0,1,Not Part of a Tour,No Tour,Character Zero,Character Zero,1,Ed Sullivan Theater,New York,NY,USA,
-2014-06-24,2014,0,8,6,e,0,0,1,Not Part of a Tour,No Tour,Character Zero,Character Zero,1,Ed Sullivan Theater,New York,NY,USA,
+2014-04-26,2014,0,20,1,2,0,0,2,Not Part of a Tour,No Tour,Cavern,,1,New Orleans Fairgrounds,New Orleans,LA,USA,","
+2014-04-26,2014,0,21,5,2,0,0,1,Not Part of a Tour,No Tour,Grind,,1,New Orleans Fairgrounds,New Orleans,LA,USA,
+2014-04-26,2014,0,22,6,e,0,0,4,Not Part of a Tour,No Tour,Julius,,1,New Orleans Fairgrounds,New Orleans,LA,USA,
+2014-06-24,2014,1,1,6,1,0,0,2,Not Part of a Tour,No Tour,The Line,,1,Ed Sullivan Theater,New York,NY,USA,
+2014-06-24,2014,0,1,1,1,0,0,1,Not Part of a Tour,No Tour,46 Days,,1,Ed Sullivan Theater,New York,NY,USA,","
+2014-06-24,2014,1,1,6,1,0,0,2,Not Part of a Tour,No Tour,The Line,,1,Ed Sullivan Theater,New York,NY,USA,
+2014-06-24,2014,0,1,1,1,0,0,1,Not Part of a Tour,No Tour,46 Days,,1,Ed Sullivan Theater,New York,NY,USA,","
+2014-06-24,2014,0,2,1,1,0,0,13,Not Part of a Tour,No Tour,Undermind,,0,Ed Sullivan Theater,New York,NY,USA,","
+2014-06-24,2014,0,2,1,1,0,0,13,Not Part of a Tour,No Tour,Undermind,,0,Ed Sullivan Theater,New York,NY,USA,","
+2014-06-24,2014,0,3,1,1,0,0,2,Not Part of a Tour,No Tour,Halfway to the Moon,,1,Ed Sullivan Theater,New York,NY,USA,","
+2014-06-24,2014,0,3,1,1,0,0,2,Not Part of a Tour,No Tour,Halfway to the Moon,,1,Ed Sullivan Theater,New York,NY,USA,","
+2014-06-24,2014,0,4,1,1,0,0,4,Not Part of a Tour,No Tour,Carini,,1,Ed Sullivan Theater,New York,NY,USA,","
+2014-06-24,2014,0,4,1,1,0,0,4,Not Part of a Tour,No Tour,Carini,,1,Ed Sullivan Theater,New York,NY,USA,","
+2014-06-24,2014,0,5,1,1,0,0,3,Not Part of a Tour,No Tour,Devotion To a Dream,,1,Ed Sullivan Theater,New York,NY,USA,","
+2014-06-24,2014,0,5,1,1,0,0,3,Not Part of a Tour,No Tour,Devotion To a Dream,,1,Ed Sullivan Theater,New York,NY,USA,","
+2014-06-24,2014,0,6,1,1,0,0,4,Not Part of a Tour,No Tour,555,,1,Ed Sullivan Theater,New York,NY,USA,","
+2014-06-24,2014,0,6,1,1,0,0,4,Not Part of a Tour,No Tour,555,,1,Ed Sullivan Theater,New York,NY,USA,","
+2014-06-24,2014,0,7,5,1,0,0,1,Not Part of a Tour,No Tour,Twist,,1,Ed Sullivan Theater,New York,NY,USA,
+2014-06-24,2014,0,7,5,1,0,0,1,Not Part of a Tour,No Tour,Twist,,1,Ed Sullivan Theater,New York,NY,USA,
+2014-06-24,2014,0,8,6,e,0,0,1,Not Part of a Tour,No Tour,Character Zero,,1,Ed Sullivan Theater,New York,NY,USA,
+2014-06-24,2014,0,8,6,e,0,0,1,Not Part of a Tour,No Tour,Character Zero,,1,Ed Sullivan Theater,New York,NY,USA,
 2014-07-01,2014,0,1,1,1,0,0,6,2014 Summer,2014 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Xfinity Center,Mansfield,MA,USA,","
-2014-07-01,2014,0,2,1,1,0,0,3,2014 Summer,2014 Summer,Fuego,Fuego,1,Xfinity Center,Mansfield,MA,USA,","
+2014-07-01,2014,0,2,1,1,0,0,3,2014 Summer,2014 Summer,Fuego,,1,Xfinity Center,Mansfield,MA,USA,","
 2014-07-01,2014,0,3,1,1,0,0,6,2014 Summer,2014 Summer,Back on the Train,BOTT,0,Xfinity Center,Mansfield,MA,USA,","
-2014-07-01,2014,0,4,1,1,0,0,1,2014 Summer,2014 Summer,Halfway to the Moon,Halfway to the Moon,1,Xfinity Center,Mansfield,MA,USA,","
+2014-07-01,2014,0,4,1,1,0,0,1,2014 Summer,2014 Summer,Halfway to the Moon,,1,Xfinity Center,Mansfield,MA,USA,","
 2014-07-01,2014,0,5,1,1,0,0,6,2014 Summer,2014 Summer,The Wedge,Wedge,1,Xfinity Center,Mansfield,MA,USA,","
-2014-07-01,2014,0,6,1,1,0,0,1,2014 Summer,2014 Summer,555,555,1,Xfinity Center,Mansfield,MA,USA,","
-2014-07-01,2014,0,7,1,1,0,0,5,2014 Summer,2014 Summer,Stash,Stash,1,Xfinity Center,Mansfield,MA,USA,","
+2014-07-01,2014,0,6,1,1,0,0,1,2014 Summer,2014 Summer,555,,1,Xfinity Center,Mansfield,MA,USA,","
+2014-07-01,2014,0,7,1,1,0,0,5,2014 Summer,2014 Summer,Stash,,1,Xfinity Center,Mansfield,MA,USA,","
 2014-07-01,2014,0,8,1,1,0,0,3,2014 Summer,2014 Summer,Bouncing Around the Room,Bouncin',1,Xfinity Center,Mansfield,MA,USA,","
 2014-07-01,2014,0,9,1,1,0,0,2,2014 Summer,2014 Summer,Birds of a Feather,BOAF,1,Xfinity Center,Mansfield,MA,USA,","
-2014-07-01,2014,0,10,4,1,0,0,9,2014 Summer,2014 Summer,Wingsuit,Wingsuit,1,Xfinity Center,Mansfield,MA,USA,
+2014-07-01,2014,0,10,4,1,0,0,9,2014 Summer,2014 Summer,Wingsuit,,1,Xfinity Center,Mansfield,MA,USA,
 2014-07-01,2014,0,11,2,2,0,0,4,2014 Summer,2014 Summer,Mike's Song,Mike's,1,Xfinity Center,Mansfield,MA,USA,>
-2014-07-01,2014,0,12,2,2,0,0,4,2014 Summer,2014 Summer,Simple,Simple,1,Xfinity Center,Mansfield,MA,USA,>
-2014-07-01,2014,0,13,1,2,0,0,2,2014 Summer,2014 Summer,Free,Free,1,Xfinity Center,Mansfield,MA,USA,","
-2014-07-01,2014,0,14,2,2,0,0,6,2014 Summer,2014 Summer,Waiting All Night,Waiting All Night,1,Xfinity Center,Mansfield,MA,USA,>
-2014-07-01,2014,0,15,3,2,0,0,4,2014 Summer,2014 Summer,Ghost,Ghost,1,Xfinity Center,Mansfield,MA,USA,->
+2014-07-01,2014,0,12,2,2,0,0,4,2014 Summer,2014 Summer,Simple,,1,Xfinity Center,Mansfield,MA,USA,>
+2014-07-01,2014,0,13,1,2,0,0,2,2014 Summer,2014 Summer,Free,,1,Xfinity Center,Mansfield,MA,USA,","
+2014-07-01,2014,0,14,2,2,0,0,6,2014 Summer,2014 Summer,Waiting All Night,,1,Xfinity Center,Mansfield,MA,USA,>
+2014-07-01,2014,0,15,3,2,0,0,4,2014 Summer,2014 Summer,Ghost,,1,Xfinity Center,Mansfield,MA,USA,->
 2014-07-01,2014,0,16,1,2,0,0,4,2014 Summer,2014 Summer,Weekapaug Groove,Weekapaug,1,Xfinity Center,Mansfield,MA,USA,","
 2014-07-01,2014,0,17,1,2,0,0,2,2014 Summer,2014 Summer,Harry Hood,Hood,1,Xfinity Center,Mansfield,MA,USA,","
-2014-07-01,2014,0,18,5,2,0,0,2,2014 Summer,2014 Summer,Cavern,Cavern,1,Xfinity Center,Mansfield,MA,USA,
-2014-07-01,2014,0,19,6,e,0,0,2,2014 Summer,2014 Summer,Julius,Julius,1,Xfinity Center,Mansfield,MA,USA,
-2014-07-03,2014,0,1,1,1,0,0,26,2014 Summer,2014 Summer,Farmhouse,Farmhouse,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2014-07-01,2014,0,18,5,2,0,0,2,2014 Summer,2014 Summer,Cavern,,1,Xfinity Center,Mansfield,MA,USA,
+2014-07-01,2014,0,19,6,e,0,0,2,2014 Summer,2014 Summer,Julius,,1,Xfinity Center,Mansfield,MA,USA,
+2014-07-03,2014,0,1,1,1,0,0,26,2014 Summer,2014 Summer,Farmhouse,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2014-07-03,2014,0,2,1,1,0,0,3,2014 Summer,2014 Summer,Wolfman's Brother,Wolfman's,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2014-07-03,2014,0,3,1,1,0,0,12,2014 Summer,2014 Summer,Maze,Maze,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2014-07-03,2014,0,4,1,1,0,0,5,2014 Summer,2014 Summer,Yarmouth Road,Yarmouth Road,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2014-07-03,2014,0,5,1,1,0,0,33,2014 Summer,2014 Summer,Strange Design,Strange Design,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2014-07-03,2014,0,6,1,1,0,0,2,2014 Summer,2014 Summer,Devotion To a Dream,Devotion To a Dream,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2014-07-03,2014,0,7,2,1,0,0,3,2014 Summer,2014 Summer,Ocelot,Ocelot,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2014-07-03,2014,0,3,1,1,0,0,12,2014 Summer,2014 Summer,Maze,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2014-07-03,2014,0,4,1,1,0,0,5,2014 Summer,2014 Summer,Yarmouth Road,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2014-07-03,2014,0,5,1,1,0,0,33,2014 Summer,2014 Summer,Strange Design,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2014-07-03,2014,0,6,1,1,0,0,2,2014 Summer,2014 Summer,Devotion To a Dream,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2014-07-03,2014,0,7,2,1,0,0,3,2014 Summer,2014 Summer,Ocelot,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2014-07-03,2014,0,8,1,1,0,0,5,2014 Summer,2014 Summer,Chalk Dust Torture,CDT,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2014-07-03,2014,0,9,2,1,0,0,7,2014 Summer,2014 Summer,Mound,Mound,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2014-07-03,2014,0,10,2,1,0,0,6,2014 Summer,2014 Summer,Roggae,Roggae,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2014-07-03,2014,0,11,4,1,0,0,6,2014 Summer,2014 Summer,Possum,Possum,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
+2014-07-03,2014,0,9,2,1,0,0,7,2014 Summer,2014 Summer,Mound,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2014-07-03,2014,0,10,2,1,0,0,6,2014 Summer,2014 Summer,Roggae,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2014-07-03,2014,0,11,4,1,0,0,6,2014 Summer,2014 Summer,Possum,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
 2014-07-03,2014,0,12,2,2,0,0,5,2014 Summer,2014 Summer,Bathtub Gin,Gin,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2014-07-03,2014,0,13,2,2,0,0,8,2014 Summer,2014 Summer,Limb By Limb,LxL,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2014-07-03,2014,0,14,1,2,0,0,10,2014 Summer,2014 Summer,Winterqueen,Winterqueen,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2014-07-03,2014,0,15,1,2,0,0,3,2014 Summer,2014 Summer,The Line,The Line,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2014-07-03,2014,0,16,2,2,0,0,7,2014 Summer,2014 Summer,Tweezer,Tweezer,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2014-07-03,2014,0,14,1,2,0,0,10,2014 Summer,2014 Summer,Winterqueen,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2014-07-03,2014,0,15,1,2,0,0,3,2014 Summer,2014 Summer,The Line,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2014-07-03,2014,0,16,2,2,0,0,7,2014 Summer,2014 Summer,Tweezer,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2014-07-03,2014,0,17,2,2,0,0,14,2014 Summer,2014 Summer,Prince Caspian,Caspian,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2014-07-03,2014,0,18,2,2,0,0,3,2014 Summer,2014 Summer,Sparkle,Sparkle,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2014-07-03,2014,0,18,2,2,0,0,3,2014 Summer,2014 Summer,Sparkle,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2014-07-03,2014,0,19,5,2,0,0,7,2014 Summer,2014 Summer,Run Like an Antelope,Antelope,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
-2014-07-03,2014,0,20,2,e,0,0,7,2014 Summer,2014 Summer,Sing Monica,Sing Monica,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2014-07-03,2014,0,20,2,e,0,0,7,2014 Summer,2014 Summer,Sing Monica,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2014-07-03,2014,0,21,6,e,0,0,7,2014 Summer,2014 Summer,Tweezer Reprise,Tweeprise,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
 2014-07-04,2014,0,1,1,1,0,0,66,2014 Summer,2014 Summer,The Star-Spangled Banner,Star Spangled Banner,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2014-07-04,2014,0,2,1,1,0,0,2,2014 Summer,2014 Summer,555,555,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2014-07-04,2014,0,2,1,1,0,0,2,2014 Summer,2014 Summer,555,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2014-07-04,2014,0,3,1,1,0,0,4,2014 Summer,2014 Summer,Kill Devil Falls,KDF,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2014-07-04,2014,0,4,2,1,0,0,4,2014 Summer,2014 Summer,The Moma Dance,Moma,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2014-07-04,2014,0,5,1,1,0,0,5,2014 Summer,2014 Summer,Reba,Reba,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2014-07-04,2014,0,6,1,1,0,0,2,2014 Summer,2014 Summer,Waiting All Night,Waiting All Night,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2014-07-04,2014,0,7,2,1,0,0,10,2014 Summer,2014 Summer,Runaway Jim,Runaway Jim,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2014-07-04,2014,0,8,1,1,0,0,3,2014 Summer,2014 Summer,46 Days,46 Days,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2014-07-04,2014,0,9,1,1,0,0,4,2014 Summer,2014 Summer,Rift,Rift,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2014-07-04,2014,0,5,1,1,0,0,5,2014 Summer,2014 Summer,Reba,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2014-07-04,2014,0,6,1,1,0,0,2,2014 Summer,2014 Summer,Waiting All Night,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2014-07-04,2014,0,7,2,1,0,0,10,2014 Summer,2014 Summer,Runaway Jim,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2014-07-04,2014,0,8,1,1,0,0,3,2014 Summer,2014 Summer,46 Days,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2014-07-04,2014,0,9,1,1,0,0,4,2014 Summer,2014 Summer,Rift,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2014-07-04,2014,0,10,1,1,0,0,5,2014 Summer,2014 Summer,Split Open and Melt,SOAMelt,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2014-07-04,2014,0,11,4,1,0,0,27,2014 Summer,2014 Summer,The Squirming Coil,Coil,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
-2014-07-04,2014,0,12,2,2,0,0,2,2014 Summer,2014 Summer,Fuego,Fuego,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2014-07-04,2014,0,12,2,2,0,0,2,2014 Summer,2014 Summer,Fuego,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2014-07-04,2014,0,13,2,2,0,0,4,2014 Summer,2014 Summer,Down with Disease,DwD,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2014-07-04,2014,0,14,2,2,0,0,3,2014 Summer,2014 Summer,Twist,Twist,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2014-07-04,2014,0,15,2,2,0,0,4,2014 Summer,2014 Summer,Light,Light,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2014-07-04,2014,0,14,2,2,0,0,3,2014 Summer,2014 Summer,Twist,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2014-07-04,2014,0,15,2,2,0,0,4,2014 Summer,2014 Summer,Light,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2014-07-04,2014,0,16,1,2,0,0,9,2014 Summer,2014 Summer,Theme From the Bottom,Theme,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2014-07-04,2014,0,17,1,2,0,0,8,2014 Summer,2014 Summer,Backwards Down the Number Line,BDTNL,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2014-07-04,2014,0,18,5,2,0,0,6,2014 Summer,2014 Summer,First Tube,First Tube,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
-2014-07-04,2014,0,19,6,e,0,0,3,2014 Summer,2014 Summer,Character Zero,Character Zero,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
-2014-07-05,2014,0,1,2,1,0,0,25,2014 Summer,2014 Summer,Crowd Control,Crowd Control,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2014-07-04,2014,0,18,5,2,0,0,6,2014 Summer,2014 Summer,First Tube,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
+2014-07-04,2014,0,19,6,e,0,0,3,2014 Summer,2014 Summer,Character Zero,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
+2014-07-05,2014,0,1,2,1,0,0,25,2014 Summer,2014 Summer,Crowd Control,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2014-07-05,2014,0,2,2,1,0,0,18,2014 Summer,2014 Summer,"My Friend, My Friend",My Friend,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2014-07-05,2014,0,3,1,1,0,0,18,2014 Summer,2014 Summer,Scent of a Mule,SOAMule,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2014-07-05,2014,0,4,1,1,0,0,4,2014 Summer,2014 Summer,Undermind,Undermind,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2014-07-05,2014,0,4,1,1,0,0,4,2014 Summer,2014 Summer,Undermind,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2014-07-05,2014,0,5,1,1,0,0,6,2014 Summer,2014 Summer,A Song I Heard the Ocean Sing,ASIHTOS,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2014-07-05,2014,0,6,1,1,0,0,17,2014 Summer,2014 Summer,I Didn't Know,IDK,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2014-07-05,2014,0,7,1,1,0,0,26,2014 Summer,2014 Summer,Foam,Foam,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2014-07-05,2014,0,8,1,1,0,0,6,2014 Summer,2014 Summer,Wombat,Wombat,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2014-07-05,2014,0,7,1,1,0,0,26,2014 Summer,2014 Summer,Foam,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2014-07-05,2014,0,8,1,1,0,0,6,2014 Summer,2014 Summer,Wombat,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2014-07-05,2014,0,9,1,1,0,0,6,2014 Summer,2014 Summer,Divided Sky,Divided,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2014-07-05,2014,0,10,2,1,0,0,17,2014 Summer,2014 Summer,Wading in the Velvet Sea,Velvet Sea,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2014-07-05,2014,0,11,4,1,0,0,8,2014 Summer,2014 Summer,David Bowie,Bowie,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
-2014-07-05,2014,0,12,3,2,0,0,4,2014 Summer,2014 Summer,Carini,Carini,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
-2014-07-05,2014,0,13,1,2,0,0,8,2014 Summer,2014 Summer,Waves,Waves,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2014-07-05,2014,0,14,2,2,0,0,3,2014 Summer,2014 Summer,Wingsuit,Wingsuit,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2014-07-05,2014,0,15,2,2,0,0,9,2014 Summer,2014 Summer,Piper,Piper,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-2014-07-05,2014,0,16,1,2,0,0,6,2014 Summer,2014 Summer,Fluffhead,Fluffhead,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-2014-07-05,2014,0,17,2,2,0,0,7,2014 Summer,2014 Summer,Heavy Things,Heavy Things,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2014-07-05,2014,0,12,3,2,0,0,4,2014 Summer,2014 Summer,Carini,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
+2014-07-05,2014,0,13,1,2,0,0,8,2014 Summer,2014 Summer,Waves,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2014-07-05,2014,0,14,2,2,0,0,3,2014 Summer,2014 Summer,Wingsuit,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2014-07-05,2014,0,15,2,2,0,0,9,2014 Summer,2014 Summer,Piper,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
+2014-07-05,2014,0,16,1,2,0,0,6,2014 Summer,2014 Summer,Fluffhead,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+2014-07-05,2014,0,17,2,2,0,0,7,2014 Summer,2014 Summer,Heavy Things,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2014-07-05,2014,0,18,1,2,0,0,7,2014 Summer,2014 Summer,Slave to the Traffic Light,Slave,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2014-07-05,2014,0,19,5,2,0,0,6,2014 Summer,2014 Summer,You Enjoy Myself,YEM,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
 2014-07-05,2014,0,20,6,e,0,0,9,2014 Summer,2014 Summer,Suzy Greenberg,Suzy,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
-2014-07-08,2014,0,1,1,1,0,0,10,2014 Summer,2014 Summer,Axilla,Axilla,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
-2014-07-08,2014,0,2,2,1,0,0,9,2014 Summer,2014 Summer,Gumbo,Gumbo,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
-2014-07-08,2014,0,3,1,1,0,0,14,2014 Summer,2014 Summer,Taste,Taste,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
-2014-07-08,2014,0,4,1,1,0,0,2,2014 Summer,2014 Summer,555,555,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
-2014-07-08,2014,0,5,1,1,0,0,10,2014 Summer,2014 Summer,Tube,Tube,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
-2014-07-08,2014,0,6,1,1,0,0,4,2014 Summer,2014 Summer,Halfway to the Moon,Halfway to the Moon,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
-2014-07-08,2014,0,7,1,1,0,0,13,2014 Summer,2014 Summer,Camel Walk,Camel Walk,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
-2014-07-08,2014,0,8,1,1,0,0,3,2014 Summer,2014 Summer,Sparkle,Sparkle,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2014-07-08,2014,0,1,1,1,0,0,10,2014 Summer,2014 Summer,Axilla,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2014-07-08,2014,0,2,2,1,0,0,9,2014 Summer,2014 Summer,Gumbo,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
+2014-07-08,2014,0,3,1,1,0,0,14,2014 Summer,2014 Summer,Taste,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2014-07-08,2014,0,4,1,1,0,0,2,2014 Summer,2014 Summer,555,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2014-07-08,2014,0,5,1,1,0,0,10,2014 Summer,2014 Summer,Tube,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2014-07-08,2014,0,6,1,1,0,0,4,2014 Summer,2014 Summer,Halfway to the Moon,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2014-07-08,2014,0,7,1,1,0,0,13,2014 Summer,2014 Summer,Camel Walk,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2014-07-08,2014,0,8,1,1,0,0,3,2014 Summer,2014 Summer,Sparkle,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
 2014-07-08,2014,0,9,2,1,0,0,12,2014 Summer,2014 Summer,Halley's Comet,Halley's,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
-2014-07-08,2014,0,10,1,1,0,0,9,2014 Summer,2014 Summer,It's Ice,It's Ice,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
-2014-07-08,2014,0,11,1,1,0,0,3,2014 Summer,2014 Summer,Ocelot,Ocelot,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2014-07-08,2014,0,10,1,1,0,0,9,2014 Summer,2014 Summer,It's Ice,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2014-07-08,2014,0,11,1,1,0,0,3,2014 Summer,2014 Summer,Ocelot,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
 2014-07-08,2014,0,12,4,1,0,0,9,2014 Summer,2014 Summer,Walls of the Cave,WotC,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,
-2014-07-08,2014,0,13,2,2,0,0,2,2014 Summer,2014 Summer,46 Days,46 Days,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
-2014-07-08,2014,0,14,2,2,0,0,2,2014 Summer,2014 Summer,Fuego,Fuego,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
-2014-07-08,2014,0,15,1,2,0,0,3,2014 Summer,2014 Summer,The Line,The Line,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2014-07-08,2014,0,13,2,2,0,0,2,2014 Summer,2014 Summer,46 Days,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
+2014-07-08,2014,0,14,2,2,0,0,2,2014 Summer,2014 Summer,Fuego,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
+2014-07-08,2014,0,15,1,2,0,0,3,2014 Summer,2014 Summer,The Line,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
 2014-07-08,2014,0,16,2,2,0,0,2,2014 Summer,2014 Summer,Backwards Down the Number Line,BDTNL,0,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
-2014-07-08,2014,0,17,3,2,0,0,3,2014 Summer,2014 Summer,Tweezer,Tweezer,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,->
-2014-07-08,2014,0,18,2,2,0,0,4,2014 Summer,2014 Summer,Ghost,Ghost,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
+2014-07-08,2014,0,17,3,2,0,0,3,2014 Summer,2014 Summer,Tweezer,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,->
+2014-07-08,2014,0,18,2,2,0,0,4,2014 Summer,2014 Summer,Ghost,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
 2014-07-08,2014,0,19,2,2,0,0,15,2014 Summer,2014 Summer,Also Sprach Zarathustra,2001,0,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
 2014-07-08,2014,0,20,2,2,0,0,4,2014 Summer,2014 Summer,Harry Hood,Hood,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
 2014-07-08,2014,0,21,5,2,0,0,3,2014 Summer,2014 Summer,Tweezer Reprise,Tweeprise,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,
-2014-07-08,2014,0,22,6,e,0,0,3,2014 Summer,2014 Summer,Possum,Possum,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,
-2014-07-09,2014,0,1,1,1,0,0,8,2014 Summer,2014 Summer,Glide,Glide,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
-2014-07-09,2014,0,2,1,1,0,0,4,2014 Summer,2014 Summer,Sing Monica,Sing Monica,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2014-07-08,2014,0,22,6,e,0,0,3,2014 Summer,2014 Summer,Possum,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,
+2014-07-09,2014,0,1,1,1,0,0,8,2014 Summer,2014 Summer,Glide,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2014-07-09,2014,0,2,1,1,0,0,4,2014 Summer,2014 Summer,Sing Monica,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
 2014-07-09,2014,0,3,1,1,0,0,5,2014 Summer,2014 Summer,Birds of a Feather,BOAF,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
 2014-07-09,2014,0,4,1,1,0,0,4,2014 Summer,2014 Summer,Wolfman's Brother,Wolfman's,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
-2014-07-09,2014,0,5,1,1,0,0,8,2014 Summer,2014 Summer,Sugar Shack,Sugar Shack,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
-2014-07-09,2014,0,6,1,1,0,0,19,2014 Summer,2014 Summer,Alaska,Alaska,0,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2014-07-09,2014,0,5,1,1,0,0,8,2014 Summer,2014 Summer,Sugar Shack,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2014-07-09,2014,0,6,1,1,0,0,19,2014 Summer,2014 Summer,Alaska,,0,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
 2014-07-09,2014,0,7,1,1,0,0,34,2014 Summer,2014 Summer,McGrupp and the Watchful Hosemasters,McGrupp,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
 2014-07-09,2014,0,8,1,1,0,0,5,2014 Summer,2014 Summer,Stealing Time From the Faulty Plan,STFTFP,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
-2014-07-09,2014,0,9,1,1,0,0,19,2014 Summer,2014 Summer,Horn,Horn,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
-2014-07-09,2014,0,10,1,1,0,0,4,2014 Summer,2014 Summer,Devotion To a Dream,Devotion To a Dream,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2014-07-09,2014,0,9,1,1,0,0,19,2014 Summer,2014 Summer,Horn,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2014-07-09,2014,0,10,1,1,0,0,4,2014 Summer,2014 Summer,Devotion To a Dream,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
 2014-07-09,2014,0,11,2,1,0,0,11,2014 Summer,2014 Summer,Silent in the Morning,Silent,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
 2014-07-09,2014,0,12,4,1,0,0,4,2014 Summer,2014 Summer,Run Like an Antelope,Antelope,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,
 2014-07-09,2014,0,13,2,2,0,0,4,2014 Summer,2014 Summer,Chalk Dust Torture,CDT,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
-2014-07-09,2014,0,14,2,2,0,0,2,2014 Summer,2014 Summer,Wingsuit,Wingsuit,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
-2014-07-09,2014,0,15,2,2,0,0,4,2014 Summer,2014 Summer,Winterqueen,Winterqueen,0,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
-2014-07-09,2014,0,16,2,2,0,0,3,2014 Summer,2014 Summer,Twist,Twist,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
+2014-07-09,2014,0,14,2,2,0,0,2,2014 Summer,2014 Summer,Wingsuit,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
+2014-07-09,2014,0,15,2,2,0,0,4,2014 Summer,2014 Summer,Winterqueen,,0,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
+2014-07-09,2014,0,16,2,2,0,0,3,2014 Summer,2014 Summer,Twist,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
 2014-07-09,2014,0,17,2,2,0,0,20,2014 Summer,2014 Summer,Crosseyed and Painless,C&amp;P,0,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
-2014-07-09,2014,0,18,2,2,0,0,29,2014 Summer,2014 Summer,Waste,Waste,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
+2014-07-09,2014,0,18,2,2,0,0,29,2014 Summer,2014 Summer,Waste,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
 2014-07-09,2014,0,19,2,2,0,0,5,2014 Summer,2014 Summer,Mike's Song,Mike's,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
 2014-07-09,2014,0,20,5,2,0,0,13,2014 Summer,2014 Summer,Sneakin' Sally Through the Alley,Sneakin' Sally,0,The Mann Center for the Performing Arts,Philadelphia,PA,USA,
-2014-07-09,2014,0,21,2,e,0,0,5,2014 Summer,2014 Summer,Julius,Julius,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
+2014-07-09,2014,0,21,2,e,0,0,5,2014 Summer,2014 Summer,Julius,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
 2014-07-09,2014,0,22,6,e,0,0,5,2014 Summer,2014 Summer,Weekapaug Groove,Weekapaug,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,
 2014-07-11,2014,0,1,1,1,0,0,4,2014 Summer,2014 Summer,The Moma Dance,Moma,1,Randall's Island,New York,NY,USA,","
 2014-07-11,2014,0,2,2,1,0,0,4,2014 Summer,2014 Summer,Kill Devil Falls,KDF,1,Randall's Island,New York,NY,USA,>
-2014-07-11,2014,0,3,1,1,0,0,23,2014 Summer,2014 Summer,Ya Mar,Ya Mar,0,Randall's Island,New York,NY,USA,","
+2014-07-11,2014,0,3,1,1,0,0,23,2014 Summer,2014 Summer,Ya Mar,,0,Randall's Island,New York,NY,USA,","
 2014-07-11,2014,0,4,1,1,0,0,5,2014 Summer,2014 Summer,Bathtub Gin,Gin,1,Randall's Island,New York,NY,USA,","
-2014-07-11,2014,0,5,2,1,0,0,2,2014 Summer,2014 Summer,555,555,1,Randall's Island,New York,NY,USA,>
-2014-07-11,2014,0,6,2,1,0,0,4,2014 Summer,2014 Summer,Rift,Rift,1,Randall's Island,New York,NY,USA,>
+2014-07-11,2014,0,5,2,1,0,0,2,2014 Summer,2014 Summer,555,,1,Randall's Island,New York,NY,USA,>
+2014-07-11,2014,0,6,2,1,0,0,4,2014 Summer,2014 Summer,Rift,,1,Randall's Island,New York,NY,USA,>
 2014-07-11,2014,0,7,2,1,0,0,10,2014 Summer,2014 Summer,Sample in a Jar,Sample,1,Randall's Island,New York,NY,USA,>
 2014-07-11,2014,0,8,1,1,0,0,6,2014 Summer,2014 Summer,The Wedge,Wedge,1,Randall's Island,New York,NY,USA,","
-2014-07-11,2014,0,9,1,1,0,0,4,2014 Summer,2014 Summer,Waiting All Night,Waiting All Night,1,Randall's Island,New York,NY,USA,","
-2014-07-11,2014,0,10,4,1,0,0,6,2014 Summer,2014 Summer,Stash,Stash,1,Randall's Island,New York,NY,USA,
-2014-07-11,2014,0,11,2,2,0,0,12,2014 Summer,2014 Summer,Steam,Steam,1,Randall's Island,New York,NY,USA,>
+2014-07-11,2014,0,9,1,1,0,0,4,2014 Summer,2014 Summer,Waiting All Night,,1,Randall's Island,New York,NY,USA,","
+2014-07-11,2014,0,10,4,1,0,0,6,2014 Summer,2014 Summer,Stash,,1,Randall's Island,New York,NY,USA,
+2014-07-11,2014,0,11,2,2,0,0,12,2014 Summer,2014 Summer,Steam,,1,Randall's Island,New York,NY,USA,>
 2014-07-11,2014,0,12,3,2,0,0,4,2014 Summer,2014 Summer,Down with Disease,DwD,1,Randall's Island,New York,NY,USA,->
-2014-07-11,2014,0,13,2,2,0,0,17,2014 Summer,2014 Summer,Golden Age,Golden Age,0,Randall's Island,New York,NY,USA,>
+2014-07-11,2014,0,13,2,2,0,0,17,2014 Summer,2014 Summer,Golden Age,,0,Randall's Island,New York,NY,USA,>
 2014-07-11,2014,0,14,2,2,0,0,5,2014 Summer,2014 Summer,Limb By Limb,LxL,1,Randall's Island,New York,NY,USA,>
-2014-07-11,2014,0,15,2,2,0,0,2,2014 Summer,2014 Summer,Fuego,Fuego,1,Randall's Island,New York,NY,USA,>
+2014-07-11,2014,0,15,2,2,0,0,2,2014 Summer,2014 Summer,Fuego,,1,Randall's Island,New York,NY,USA,>
 2014-07-11,2014,0,16,1,2,0,0,3,2014 Summer,2014 Summer,David Bowie,Bowie,1,Randall's Island,New York,NY,USA,","
-2014-07-11,2014,0,17,5,2,0,0,6,2014 Summer,2014 Summer,Cavern,Cavern,1,Randall's Island,New York,NY,USA,
-2014-07-11,2014,0,18,6,e,0,0,4,2014 Summer,2014 Summer,Character Zero,Character Zero,1,Randall's Island,New York,NY,USA,
+2014-07-11,2014,0,17,5,2,0,0,6,2014 Summer,2014 Summer,Cavern,,1,Randall's Island,New York,NY,USA,
+2014-07-11,2014,0,18,6,e,0,0,4,2014 Summer,2014 Summer,Character Zero,,1,Randall's Island,New York,NY,USA,
 2014-07-12,2014,0,1,2,1,0,0,10,2014 Summer,2014 Summer,AC/DC Bag,Bag,1,Randall's Island,New York,NY,USA,>
-2014-07-12,2014,0,2,1,1,0,0,3,2014 Summer,2014 Summer,46 Days,46 Days,1,Randall's Island,New York,NY,USA,","
-2014-07-12,2014,0,3,1,1,0,0,6,2014 Summer,2014 Summer,Yarmouth Road,Yarmouth Road,1,Randall's Island,New York,NY,USA,","
-2014-07-12,2014,0,4,1,1,0,0,2,2014 Summer,2014 Summer,Devotion To a Dream,Devotion To a Dream,1,Randall's Island,New York,NY,USA,","
-2014-07-12,2014,0,5,1,1,0,0,7,2014 Summer,2014 Summer,Free,Free,1,Randall's Island,New York,NY,USA,","
+2014-07-12,2014,0,2,1,1,0,0,3,2014 Summer,2014 Summer,46 Days,,1,Randall's Island,New York,NY,USA,","
+2014-07-12,2014,0,3,1,1,0,0,6,2014 Summer,2014 Summer,Yarmouth Road,,1,Randall's Island,New York,NY,USA,","
+2014-07-12,2014,0,4,1,1,0,0,2,2014 Summer,2014 Summer,Devotion To a Dream,,1,Randall's Island,New York,NY,USA,","
+2014-07-12,2014,0,5,1,1,0,0,7,2014 Summer,2014 Summer,Free,,1,Randall's Island,New York,NY,USA,","
 2014-07-12,2014,0,6,2,1,0,0,24,2014 Summer,2014 Summer,My Sweet One,MSO,1,Randall's Island,New York,NY,USA,>
 2014-07-12,2014,0,7,1,1,0,0,7,2014 Summer,2014 Summer,Back on the Train,BOTT,0,Randall's Island,New York,NY,USA,","
-2014-07-12,2014,0,8,2,1,0,0,3,2014 Summer,2014 Summer,Halfway to the Moon,Halfway to the Moon,1,Randall's Island,New York,NY,USA,>
-2014-07-12,2014,0,9,1,1,0,0,3,2014 Summer,2014 Summer,Sparkle,Sparkle,1,Randall's Island,New York,NY,USA,","
+2014-07-12,2014,0,8,2,1,0,0,3,2014 Summer,2014 Summer,Halfway to the Moon,,1,Randall's Island,New York,NY,USA,>
+2014-07-12,2014,0,9,1,1,0,0,3,2014 Summer,2014 Summer,Sparkle,,1,Randall's Island,New York,NY,USA,","
 2014-07-12,2014,0,10,1,1,0,0,4,2014 Summer,2014 Summer,A Song I Heard the Ocean Sing,ASIHTOS,1,Randall's Island,New York,NY,USA,","
-2014-07-12,2014,0,11,1,1,0,0,3,2014 Summer,2014 Summer,The Line,The Line,1,Randall's Island,New York,NY,USA,","
+2014-07-12,2014,0,11,1,1,0,0,3,2014 Summer,2014 Summer,The Line,,1,Randall's Island,New York,NY,USA,","
 2014-07-12,2014,0,12,4,1,0,0,2,2014 Summer,2014 Summer,Run Like an Antelope,Antelope,1,Randall's Island,New York,NY,USA,
 2014-07-12,2014,0,13,2,2,0,0,11,2014 Summer,2014 Summer,Punch You in the Eye,PYITE,1,Randall's Island,New York,NY,USA,>
-2014-07-12,2014,0,14,2,2,0,0,4,2014 Summer,2014 Summer,Carini,Carini,1,Randall's Island,New York,NY,USA,>
-2014-07-12,2014,0,15,2,2,0,0,3,2014 Summer,2014 Summer,Ghost,Ghost,1,Randall's Island,New York,NY,USA,>
-2014-07-12,2014,0,16,2,2,0,0,2,2014 Summer,2014 Summer,Wingsuit,Wingsuit,1,Randall's Island,New York,NY,USA,>
+2014-07-12,2014,0,14,2,2,0,0,4,2014 Summer,2014 Summer,Carini,,1,Randall's Island,New York,NY,USA,>
+2014-07-12,2014,0,15,2,2,0,0,3,2014 Summer,2014 Summer,Ghost,,1,Randall's Island,New York,NY,USA,>
+2014-07-12,2014,0,16,2,2,0,0,2,2014 Summer,2014 Summer,Wingsuit,,1,Randall's Island,New York,NY,USA,>
 2014-07-12,2014,0,17,2,2,0,0,18,2014 Summer,2014 Summer,Rock and Roll,R&amp;R,0,Randall's Island,New York,NY,USA,>
 2014-07-12,2014,0,18,5,2,0,0,3,2014 Summer,2014 Summer,Harry Hood,Hood,1,Randall's Island,New York,NY,USA,
-2014-07-12,2014,0,19,2,e,0,0,3,2014 Summer,2014 Summer,Tube,Tube,1,Randall's Island,New York,NY,USA,>
-2014-07-12,2014,0,20,1,e,0,0,22,2014 Summer,2014 Summer,Joy,Joy,1,Randall's Island,New York,NY,USA,","
-2014-07-12,2014,0,21,6,e,0,0,5,2014 Summer,2014 Summer,First Tube,First Tube,0,Randall's Island,New York,NY,USA,
-2014-07-13,2014,0,1,1,1,0,0,10,2014 Summer,2014 Summer,Sand,Sand,0,Randall's Island,New York,NY,USA,","
-2014-07-13,2014,0,2,1,1,0,0,3,2014 Summer,2014 Summer,Winterqueen,Winterqueen,0,Randall's Island,New York,NY,USA,","
-2014-07-13,2014,0,3,1,1,0,0,6,2014 Summer,2014 Summer,Reba,Reba,1,Randall's Island,New York,NY,USA,","
+2014-07-12,2014,0,19,2,e,0,0,3,2014 Summer,2014 Summer,Tube,,1,Randall's Island,New York,NY,USA,>
+2014-07-12,2014,0,20,1,e,0,0,22,2014 Summer,2014 Summer,Joy,,1,Randall's Island,New York,NY,USA,","
+2014-07-12,2014,0,21,6,e,0,0,5,2014 Summer,2014 Summer,First Tube,,0,Randall's Island,New York,NY,USA,
+2014-07-13,2014,0,1,1,1,0,0,10,2014 Summer,2014 Summer,Sand,,0,Randall's Island,New York,NY,USA,","
+2014-07-13,2014,0,2,1,1,0,0,3,2014 Summer,2014 Summer,Winterqueen,,0,Randall's Island,New York,NY,USA,","
+2014-07-13,2014,0,3,1,1,0,0,6,2014 Summer,2014 Summer,Reba,,1,Randall's Island,New York,NY,USA,","
 2014-07-13,2014,0,4,1,1,0,0,3,2014 Summer,2014 Summer,Birds of a Feather,BOAF,1,Randall's Island,New York,NY,USA,","
-2014-07-13,2014,0,5,2,1,0,0,15,2014 Summer,2014 Summer,Water in the Sky,Water in the Sky,1,Randall's Island,New York,NY,USA,>
-2014-07-13,2014,0,6,2,1,0,0,4,2014 Summer,2014 Summer,Possum,Possum,1,Randall's Island,New York,NY,USA,>
-2014-07-13,2014,0,7,1,1,0,0,6,2014 Summer,2014 Summer,Runaway Jim,Runaway Jim,1,Randall's Island,New York,NY,USA,","
+2014-07-13,2014,0,5,2,1,0,0,15,2014 Summer,2014 Summer,Water in the Sky,,1,Randall's Island,New York,NY,USA,>
+2014-07-13,2014,0,6,2,1,0,0,4,2014 Summer,2014 Summer,Possum,,1,Randall's Island,New York,NY,USA,>
+2014-07-13,2014,0,7,1,1,0,0,6,2014 Summer,2014 Summer,Runaway Jim,,1,Randall's Island,New York,NY,USA,","
 2014-07-13,2014,0,8,1,1,0,0,8,2014 Summer,2014 Summer,Bouncing Around the Room,Bouncin',1,Randall's Island,New York,NY,USA,","
-2014-07-13,2014,0,9,1,1,0,0,7,2014 Summer,2014 Summer,Maze,Maze,1,Randall's Island,New York,NY,USA,","
+2014-07-13,2014,0,9,1,1,0,0,7,2014 Summer,2014 Summer,Maze,,1,Randall's Island,New York,NY,USA,","
 2014-07-13,2014,0,10,4,1,0,0,6,2014 Summer,2014 Summer,Split Open and Melt,SOAMelt,1,Randall's Island,New York,NY,USA,
 2014-07-13,2014,0,11,2,2,0,0,3,2014 Summer,2014 Summer,Chalk Dust Torture,CDT,1,Randall's Island,New York,NY,USA,>
-2014-07-13,2014,0,12,2,2,0,0,6,2014 Summer,2014 Summer,Light,Light,0,Randall's Island,New York,NY,USA,>
-2014-07-13,2014,0,13,1,2,0,0,4,2014 Summer,2014 Summer,Tweezer,Tweezer,1,Randall's Island,New York,NY,USA,","
+2014-07-13,2014,0,12,2,2,0,0,6,2014 Summer,2014 Summer,Light,,0,Randall's Island,New York,NY,USA,>
+2014-07-13,2014,0,13,1,2,0,0,4,2014 Summer,2014 Summer,Tweezer,,1,Randall's Island,New York,NY,USA,","
 2014-07-13,2014,0,14,1,2,0,0,5,2014 Summer,2014 Summer,Wading in the Velvet Sea,Velvet Sea,1,Randall's Island,New York,NY,USA,","
-2014-07-13,2014,0,15,1,2,0,0,3,2014 Summer,2014 Summer,Sing Monica,Sing Monica,1,Randall's Island,New York,NY,USA,","
+2014-07-13,2014,0,15,1,2,0,0,3,2014 Summer,2014 Summer,Sing Monica,,1,Randall's Island,New York,NY,USA,","
 2014-07-13,2014,0,16,5,2,0,0,5,2014 Summer,2014 Summer,Slave to the Traffic Light,Slave,1,Randall's Island,New York,NY,USA,
 2014-07-13,2014,0,17,2,e,0,0,4,2014 Summer,2014 Summer,Backwards Down the Number Line,BDTNL,0,Randall's Island,New York,NY,USA,>
 2014-07-13,2014,0,18,6,e,0,0,4,2014 Summer,2014 Summer,Tweezer Reprise,Tweeprise,1,Randall's Island,New York,NY,USA,
-2014-07-14,2014,1,1,1,1,0,0,0,Not Part of a Tour,No Tour,Waiting All Night,Waiting All Night,1,NBC Studios,New York,NY,USA,","
-2014-07-14,2014,1,2,6,1,0,0,0,Not Part of a Tour,No Tour,Fuego,Fuego,1,NBC Studios,New York,NY,USA,
-2014-07-15,2014,0,1,2,1,0,0,29,2014 Summer,2014 Summer,Buried Alive,Buried Alive,1,CMAC Performing Arts Center,Canandaigua,NY,USA,>
-2014-07-15,2014,0,2,1,1,0,0,4,2014 Summer,2014 Summer,Twist,Twist,1,CMAC Performing Arts Center,Canandaigua,NY,USA,","
-2014-07-15,2014,0,3,1,1,0,0,6,2014 Summer,2014 Summer,Heavy Things,Heavy Things,1,CMAC Performing Arts Center,Canandaigua,NY,USA,","
-2014-07-15,2014,0,4,1,1,0,0,3,2014 Summer,2014 Summer,555,555,1,CMAC Performing Arts Center,Canandaigua,NY,USA,","
+2014-07-14,2014,1,1,1,1,0,0,0,Not Part of a Tour,No Tour,Waiting All Night,,1,NBC Studios,New York,NY,USA,","
+2014-07-14,2014,1,2,6,1,0,0,0,Not Part of a Tour,No Tour,Fuego,,1,NBC Studios,New York,NY,USA,
+2014-07-15,2014,0,1,2,1,0,0,29,2014 Summer,2014 Summer,Buried Alive,,1,CMAC Performing Arts Center,Canandaigua,NY,USA,>
+2014-07-15,2014,0,2,1,1,0,0,4,2014 Summer,2014 Summer,Twist,,1,CMAC Performing Arts Center,Canandaigua,NY,USA,","
+2014-07-15,2014,0,3,1,1,0,0,6,2014 Summer,2014 Summer,Heavy Things,,1,CMAC Performing Arts Center,Canandaigua,NY,USA,","
+2014-07-15,2014,0,4,1,1,0,0,3,2014 Summer,2014 Summer,555,,1,CMAC Performing Arts Center,Canandaigua,NY,USA,","
 2014-07-15,2014,0,5,2,1,0,0,5,2014 Summer,2014 Summer,Halley's Comet,Halley's,1,CMAC Performing Arts Center,Canandaigua,NY,USA,>
 2014-07-15,2014,0,6,1,1,0,0,3,2014 Summer,2014 Summer,Bathtub Gin,Gin,1,CMAC Performing Arts Center,Canandaigua,NY,USA,","
-2014-07-15,2014,0,7,1,1,0,0,2,2014 Summer,2014 Summer,Wingsuit,Wingsuit,1,CMAC Performing Arts Center,Canandaigua,NY,USA,","
+2014-07-15,2014,0,7,1,1,0,0,2,2014 Summer,2014 Summer,Wingsuit,,1,CMAC Performing Arts Center,Canandaigua,NY,USA,","
 2014-07-15,2014,0,8,1,1,0,0,6,2014 Summer,2014 Summer,Divided Sky,Divided,1,CMAC Performing Arts Center,Canandaigua,NY,USA,","
-2014-07-15,2014,0,9,1,1,0,0,6,2014 Summer,2014 Summer,Wombat,Wombat,1,CMAC Performing Arts Center,Canandaigua,NY,USA,","
+2014-07-15,2014,0,9,1,1,0,0,6,2014 Summer,2014 Summer,Wombat,,1,CMAC Performing Arts Center,Canandaigua,NY,USA,","
 2014-07-15,2014,0,10,4,1,0,0,3,2014 Summer,2014 Summer,David Bowie,Bowie,1,CMAC Performing Arts Center,Canandaigua,NY,USA,
 2014-07-15,2014,0,11,2,2,0,0,3,2014 Summer,2014 Summer,Down with Disease,DwD,1,CMAC Performing Arts Center,Canandaigua,NY,USA,>
 2014-07-15,2014,0,12,2,2,0,0,2,2014 Summer,2014 Summer,Back on the Train,BOTT,0,CMAC Performing Arts Center,Canandaigua,NY,USA,>
-2014-07-15,2014,0,13,2,2,0,0,20,2014 Summer,2014 Summer,NICU,NICU,1,CMAC Performing Arts Center,Canandaigua,NY,USA,>
+2014-07-15,2014,0,13,2,2,0,0,20,2014 Summer,2014 Summer,NICU,,1,CMAC Performing Arts Center,Canandaigua,NY,USA,>
 2014-07-15,2014,0,14,2,2,0,0,13,2014 Summer,2014 Summer,Gotta Jibboo,Jibboo,0,CMAC Performing Arts Center,Canandaigua,NY,USA,>
 2014-07-15,2014,0,15,2,2,0,0,7,2014 Summer,2014 Summer,Theme From the Bottom,Theme,1,CMAC Performing Arts Center,Canandaigua,NY,USA,>
-2014-07-15,2014,0,16,2,2,0,0,17,2014 Summer,2014 Summer,Meatstick,Meatstick,1,CMAC Performing Arts Center,Canandaigua,NY,USA,>
-2014-07-15,2014,0,17,2,2,0,0,3,2014 Summer,2014 Summer,Fuego,Fuego,1,CMAC Performing Arts Center,Canandaigua,NY,USA,>
+2014-07-15,2014,0,16,2,2,0,0,17,2014 Summer,2014 Summer,Meatstick,,1,CMAC Performing Arts Center,Canandaigua,NY,USA,>
+2014-07-15,2014,0,17,2,2,0,0,3,2014 Summer,2014 Summer,Fuego,,1,CMAC Performing Arts Center,Canandaigua,NY,USA,>
 2014-07-15,2014,0,18,2,2,0,0,3,2014 Summer,2014 Summer,The Wedge,Wedge,1,CMAC Performing Arts Center,Canandaigua,NY,USA,>
 2014-07-15,2014,0,19,5,2,0,0,2,2014 Summer,2014 Summer,Run Like an Antelope,Antelope,1,CMAC Performing Arts Center,Canandaigua,NY,USA,
-2014-07-15,2014,0,20,6,e,0,0,3,2014 Summer,2014 Summer,Character Zero,Character Zero,1,CMAC Performing Arts Center,Canandaigua,NY,USA,
+2014-07-15,2014,0,20,6,e,0,0,3,2014 Summer,2014 Summer,Character Zero,,1,CMAC Performing Arts Center,Canandaigua,NY,USA,
 2014-07-16,2014,0,1,1,1,0,0,5,2014 Summer,2014 Summer,Wolfman's Brother,Wolfman's,1,DTE Energy Music Theatre,Clarkston,MI,USA,","
-2014-07-16,2014,0,2,1,1,0,0,3,2014 Summer,2014 Summer,Devotion To a Dream,Devotion To a Dream,1,DTE Energy Music Theatre,Clarkston,MI,USA,","
-2014-07-16,2014,0,3,2,1,0,0,13,2014 Summer,2014 Summer,Wilson,Wilson,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
-2014-07-16,2014,0,4,2,1,0,0,19,2014 Summer,2014 Summer,Poor Heart,Poor Heart,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
+2014-07-16,2014,0,2,1,1,0,0,3,2014 Summer,2014 Summer,Devotion To a Dream,,1,DTE Energy Music Theatre,Clarkston,MI,USA,","
+2014-07-16,2014,0,3,2,1,0,0,13,2014 Summer,2014 Summer,Wilson,,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
+2014-07-16,2014,0,4,2,1,0,0,19,2014 Summer,2014 Summer,Poor Heart,,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
 2014-07-16,2014,0,5,1,1,0,0,4,2014 Summer,2014 Summer,The Moma Dance,Moma,1,DTE Energy Music Theatre,Clarkston,MI,USA,","
 2014-07-16,2014,0,6,1,1,0,0,5,2014 Summer,2014 Summer,Stealing Time From the Faulty Plan,STFTFP,1,DTE Energy Music Theatre,Clarkston,MI,USA,","
-2014-07-16,2014,0,7,1,1,0,0,12,2014 Summer,2014 Summer,Lawn Boy,Lawn Boy,1,DTE Energy Music Theatre,Clarkston,MI,USA,","
-2014-07-16,2014,0,8,2,1,0,0,3,2014 Summer,2014 Summer,Yarmouth Road,Yarmouth Road,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
-2014-07-16,2014,0,9,1,1,0,0,4,2014 Summer,2014 Summer,Rift,Rift,1,DTE Energy Music Theatre,Clarkston,MI,USA,","
-2014-07-16,2014,0,10,1,1,0,0,3,2014 Summer,2014 Summer,The Line,The Line,1,DTE Energy Music Theatre,Clarkston,MI,USA,","
-2014-07-16,2014,0,11,2,1,0,0,6,2014 Summer,2014 Summer,It's Ice,It's Ice,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
-2014-07-16,2014,0,12,4,1,0,0,3,2014 Summer,2014 Summer,46 Days,46 Days,1,DTE Energy Music Theatre,Clarkston,MI,USA,
+2014-07-16,2014,0,7,1,1,0,0,12,2014 Summer,2014 Summer,Lawn Boy,,1,DTE Energy Music Theatre,Clarkston,MI,USA,","
+2014-07-16,2014,0,8,2,1,0,0,3,2014 Summer,2014 Summer,Yarmouth Road,,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
+2014-07-16,2014,0,9,1,1,0,0,4,2014 Summer,2014 Summer,Rift,,1,DTE Energy Music Theatre,Clarkston,MI,USA,","
+2014-07-16,2014,0,10,1,1,0,0,3,2014 Summer,2014 Summer,The Line,,1,DTE Energy Music Theatre,Clarkston,MI,USA,","
+2014-07-16,2014,0,11,2,1,0,0,6,2014 Summer,2014 Summer,It's Ice,,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
+2014-07-16,2014,0,12,4,1,0,0,3,2014 Summer,2014 Summer,46 Days,,1,DTE Energy Music Theatre,Clarkston,MI,USA,
 2014-07-16,2014,0,13,2,2,0,0,5,2014 Summer,2014 Summer,Mike's Song,Mike's,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
-2014-07-16,2014,0,14,2,2,0,0,3,2014 Summer,2014 Summer,Ghost,Ghost,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
+2014-07-16,2014,0,14,2,2,0,0,3,2014 Summer,2014 Summer,Ghost,,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
 2014-07-16,2014,0,15,2,2,0,0,9,2014 Summer,2014 Summer,Prince Caspian,Caspian,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
 2014-07-16,2014,0,16,2,2,0,0,2,2014 Summer,2014 Summer,Backwards Down the Number Line,BDTNL,0,DTE Energy Music Theatre,Clarkston,MI,USA,>
 2014-07-16,2014,0,17,2,2,0,0,5,2014 Summer,2014 Summer,Weekapaug Groove,Weekapaug,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
-2014-07-16,2014,0,18,2,2,0,0,4,2014 Summer,2014 Summer,Cavern,Cavern,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
-2014-07-16,2014,0,19,2,2,0,0,7,2014 Summer,2014 Summer,Piper,Piper,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
-2014-07-16,2014,0,20,2,2,0,0,4,2014 Summer,2014 Summer,Waiting All Night,Waiting All Night,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
-2014-07-16,2014,0,21,2,2,0,0,2,2014 Summer,2014 Summer,Tweezer,Tweezer,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
-2014-07-16,2014,0,22,2,2,0,0,1,2014 Summer,2014 Summer,Fuego,Fuego,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
+2014-07-16,2014,0,18,2,2,0,0,4,2014 Summer,2014 Summer,Cavern,,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
+2014-07-16,2014,0,19,2,2,0,0,7,2014 Summer,2014 Summer,Piper,,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
+2014-07-16,2014,0,20,2,2,0,0,4,2014 Summer,2014 Summer,Waiting All Night,,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
+2014-07-16,2014,0,21,2,2,0,0,2,2014 Summer,2014 Summer,Tweezer,,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
+2014-07-16,2014,0,22,2,2,0,0,1,2014 Summer,2014 Summer,Fuego,,1,DTE Energy Music Theatre,Clarkston,MI,USA,>
 2014-07-16,2014,0,23,5,2,0,0,2,2014 Summer,2014 Summer,Tweezer Reprise,Tweeprise,1,DTE Energy Music Theatre,Clarkston,MI,USA,
 2014-07-16,2014,0,24,2,e,0,0,6,2014 Summer,2014 Summer,Also Sprach Zarathustra,2001,0,DTE Energy Music Theatre,Clarkston,MI,USA,>
-2014-07-16,2014,0,25,6,e,0,0,2,2014 Summer,2014 Summer,Possum,Possum,1,DTE Energy Music Theatre,Clarkston,MI,USA,
-2014-07-18,2014,0,1,1,1,0,0,2,2014 Summer,2014 Summer,555,555,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2014-07-16,2014,0,25,6,e,0,0,2,2014 Summer,2014 Summer,Possum,,1,DTE Energy Music Theatre,Clarkston,MI,USA,
+2014-07-18,2014,0,1,1,1,0,0,2,2014 Summer,2014 Summer,555,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
 2014-07-18,2014,0,2,1,1,0,0,5,2014 Summer,2014 Summer,Kill Devil Falls,KDF,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
 2014-07-18,2014,0,3,2,1,0,0,3,2014 Summer,2014 Summer,Bouncing Around the Room,Bouncin',1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-18,2014,0,4,1,1,0,0,3,2014 Summer,2014 Summer,Reba,Reba,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-18,2014,0,5,1,1,0,0,1,2014 Summer,2014 Summer,Waiting All Night,Waiting All Night,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2014-07-18,2014,0,4,1,1,0,0,3,2014 Summer,2014 Summer,Reba,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2014-07-18,2014,0,5,1,1,0,0,1,2014 Summer,2014 Summer,Waiting All Night,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
 2014-07-18,2014,0,6,1,1,0,0,3,2014 Summer,2014 Summer,Birds of a Feather,BOAF,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-18,2014,0,7,2,1,0,0,4,2014 Summer,2014 Summer,Halfway to the Moon,Halfway to the Moon,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-18,2014,0,8,2,1,0,0,4,2014 Summer,2014 Summer,Sparkle,Sparkle,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2014-07-18,2014,0,7,2,1,0,0,4,2014 Summer,2014 Summer,Halfway to the Moon,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2014-07-18,2014,0,8,2,1,0,0,4,2014 Summer,2014 Summer,Sparkle,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2014-07-18,2014,0,9,1,1,0,0,5,2014 Summer,2014 Summer,Sample in a Jar,Sample,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
 2014-07-18,2014,0,10,2,1,0,0,4,2014 Summer,2014 Summer,A Song I Heard the Ocean Sing,ASIHTOS,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-18,2014,0,11,1,1,0,0,5,2014 Summer,2014 Summer,Stash,Stash,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2014-07-18,2014,0,11,1,1,0,0,5,2014 Summer,2014 Summer,Stash,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
 2014-07-18,2014,0,12,4,1,0,0,9,2014 Summer,2014 Summer,The Squirming Coil,Coil,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,
-2014-07-18,2014,0,13,2,2,0,0,5,2014 Summer,2014 Summer,Golden Age,Golden Age,0,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2014-07-18,2014,0,13,2,2,0,0,5,2014 Summer,2014 Summer,Golden Age,,0,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2014-07-18,2014,0,14,1,2,0,0,40,2014 Summer,2014 Summer,The Mango Song,Mango,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-18,2014,0,15,3,2,0,0,3,2014 Summer,2014 Summer,Sand,Sand,0,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,->
-2014-07-18,2014,0,16,3,2,0,0,1,2014 Summer,2014 Summer,Piper,Piper,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,->
+2014-07-18,2014,0,15,3,2,0,0,3,2014 Summer,2014 Summer,Sand,,0,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,->
+2014-07-18,2014,0,16,3,2,0,0,1,2014 Summer,2014 Summer,Piper,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,->
 2014-07-18,2014,0,17,3,2,0,0,2,2014 Summer,2014 Summer,Halley's Comet,Halley's,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,->
-2014-07-18,2014,0,18,2,2,0,0,2,2014 Summer,2014 Summer,Wombat,Wombat,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2014-07-18,2014,0,18,2,2,0,0,2,2014 Summer,2014 Summer,Wombat,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2014-07-18,2014,0,19,2,2,0,0,3,2014 Summer,2014 Summer,Chalk Dust Torture,CDT,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2014-07-18,2014,0,20,5,2,0,0,3,2014 Summer,2014 Summer,Slave to the Traffic Light,Slave,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,
-2014-07-18,2014,0,21,6,e,0,0,6,2014 Summer,2014 Summer,Julius,Julius,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,
+2014-07-18,2014,0,21,6,e,0,0,6,2014 Summer,2014 Summer,Julius,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,
 2014-07-19,2014,0,1,1,1,0,0,2,2014 Summer,2014 Summer,The Moma Dance,Moma,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
 2014-07-19,2014,0,2,1,1,0,0,2,2014 Summer,2014 Summer,Wolfman's Brother,Wolfman's,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-19,2014,0,3,1,1,0,0,2,2014 Summer,2014 Summer,Devotion To a Dream,Devotion To a Dream,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-19,2014,0,4,1,1,0,0,2,2014 Summer,2014 Summer,46 Days,46 Days,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-19,2014,0,5,1,1,0,0,2,2014 Summer,2014 Summer,Yarmouth Road,Yarmouth Road,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-19,2014,0,6,1,1,0,0,38,2014 Summer,2014 Summer,Brian and Robert,Brian and Robert,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-19,2014,0,7,1,1,0,0,3,2014 Summer,2014 Summer,Wingsuit,Wingsuit,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-19,2014,0,8,2,1,0,0,5,2014 Summer,2014 Summer,Tube,Tube,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-19,2014,0,9,2,1,0,0,5,2014 Summer,2014 Summer,Free,Free,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-19,2014,0,10,1,1,0,0,11,2014 Summer,2014 Summer,Roggae,Roggae,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-19,2014,0,11,2,1,0,0,3,2014 Summer,2014 Summer,Heavy Things,Heavy Things,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2014-07-19,2014,0,3,1,1,0,0,2,2014 Summer,2014 Summer,Devotion To a Dream,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2014-07-19,2014,0,4,1,1,0,0,2,2014 Summer,2014 Summer,46 Days,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2014-07-19,2014,0,5,1,1,0,0,2,2014 Summer,2014 Summer,Yarmouth Road,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2014-07-19,2014,0,6,1,1,0,0,38,2014 Summer,2014 Summer,Brian and Robert,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2014-07-19,2014,0,7,1,1,0,0,3,2014 Summer,2014 Summer,Wingsuit,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2014-07-19,2014,0,8,2,1,0,0,5,2014 Summer,2014 Summer,Tube,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2014-07-19,2014,0,9,2,1,0,0,5,2014 Summer,2014 Summer,Free,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2014-07-19,2014,0,10,1,1,0,0,11,2014 Summer,2014 Summer,Roggae,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2014-07-19,2014,0,11,2,1,0,0,3,2014 Summer,2014 Summer,Heavy Things,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2014-07-19,2014,0,12,4,1,0,0,3,2014 Summer,2014 Summer,Run Like an Antelope,Antelope,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,
-2014-07-19,2014,0,13,3,2,0,0,5,2014 Summer,2014 Summer,Carini,Carini,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,->
-2014-07-19,2014,0,14,2,2,0,0,9,2014 Summer,2014 Summer,Waves,Waves,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-19,2014,0,15,2,2,0,0,2,2014 Summer,2014 Summer,Fuego,Fuego,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-19,2014,0,16,2,2,0,0,3,2014 Summer,2014 Summer,Twist,Twist,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-19,2014,0,17,2,2,0,0,4,2014 Summer,2014 Summer,Light,Light,0,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-19,2014,0,18,2,2,0,0,15,2014 Summer,2014 Summer,Twenty Years Later,Twenty Years Later,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2014-07-19,2014,0,13,3,2,0,0,5,2014 Summer,2014 Summer,Carini,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,->
+2014-07-19,2014,0,14,2,2,0,0,9,2014 Summer,2014 Summer,Waves,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2014-07-19,2014,0,15,2,2,0,0,2,2014 Summer,2014 Summer,Fuego,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2014-07-19,2014,0,16,2,2,0,0,3,2014 Summer,2014 Summer,Twist,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2014-07-19,2014,0,17,2,2,0,0,4,2014 Summer,2014 Summer,Light,,0,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2014-07-19,2014,0,18,2,2,0,0,15,2014 Summer,2014 Summer,Twenty Years Later,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2014-07-19,2014,0,19,2,2,0,0,5,2014 Summer,2014 Summer,Harry Hood,Hood,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-19,2014,0,20,5,2,0,0,2,2014 Summer,2014 Summer,Cavern,Cavern,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,
-2014-07-19,2014,0,21,1,e,0,0,14,2014 Summer,2014 Summer,Grind,Grind,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-19,2014,0,22,1,e,0,0,21,2014 Summer,2014 Summer,Bug,Bug,0,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2014-07-19,2014,0,20,5,2,0,0,2,2014 Summer,2014 Summer,Cavern,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,
+2014-07-19,2014,0,21,1,e,0,0,14,2014 Summer,2014 Summer,Grind,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2014-07-19,2014,0,22,1,e,0,0,21,2014 Summer,2014 Summer,Bug,,0,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
 2014-07-19,2014,0,23,6,e,0,0,9,2014 Summer,2014 Summer,Suzy Greenberg,Suzy,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,
-2014-07-20,2014,0,1,2,1,0,0,9,2014 Summer,2014 Summer,Gumbo,Gumbo,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-20,2014,0,2,1,1,0,0,5,2014 Summer,2014 Summer,Runaway Jim,Runaway Jim,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-20,2014,0,3,1,1,0,0,39,2014 Summer,2014 Summer,Tela,Tela,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-20,2014,0,4,1,1,0,0,3,2014 Summer,2014 Summer,The Line,The Line,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2014-07-20,2014,0,1,2,1,0,0,9,2014 Summer,2014 Summer,Gumbo,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2014-07-20,2014,0,2,1,1,0,0,5,2014 Summer,2014 Summer,Runaway Jim,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2014-07-20,2014,0,3,1,1,0,0,39,2014 Summer,2014 Summer,Tela,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2014-07-20,2014,0,4,1,1,0,0,3,2014 Summer,2014 Summer,The Line,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
 2014-07-20,2014,0,5,2,1,0,0,10,2014 Summer,2014 Summer,Scent of a Mule,SOAMule,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2014-07-20,2014,0,6,2,1,0,0,4,2014 Summer,2014 Summer,Bathtub Gin,Gin,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2014-07-20,2014,0,7,2,1,0,0,8,2014 Summer,2014 Summer,Silent in the Morning,Silent,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-20,2014,0,8,2,1,0,0,5,2014 Summer,2014 Summer,Maze,Maze,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-20,2014,0,9,2,1,0,0,9,2014 Summer,2014 Summer,Ocelot,Ocelot,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2014-07-20,2014,0,8,2,1,0,0,5,2014 Summer,2014 Summer,Maze,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2014-07-20,2014,0,9,2,1,0,0,9,2014 Summer,2014 Summer,Ocelot,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2014-07-20,2014,0,10,4,1,0,0,9,2014 Summer,2014 Summer,Walls of the Cave,WotC,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,
 2014-07-20,2014,0,11,2,2,0,0,4,2014 Summer,2014 Summer,Down with Disease,DwD,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-20,2014,0,12,2,2,0,0,5,2014 Summer,2014 Summer,Winterqueen,Winterqueen,0,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2014-07-20,2014,0,12,2,2,0,0,5,2014 Summer,2014 Summer,Winterqueen,,0,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2014-07-20,2014,0,13,2,2,0,0,4,2014 Summer,2014 Summer,Theme From the Bottom,Theme,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2014-07-20,2014,0,14,2,2,0,0,3,2014 Summer,2014 Summer,Mike's Song,Mike's,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2014-07-20,2014,0,15,1,2,0,0,4,2014 Summer,2014 Summer,The Wedge,Wedge,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-20,2014,0,16,3,2,0,0,3,2014 Summer,2014 Summer,Ghost,Ghost,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,->
+2014-07-20,2014,0,16,3,2,0,0,3,2014 Summer,2014 Summer,Ghost,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,->
 2014-07-20,2014,0,17,1,2,0,0,3,2014 Summer,2014 Summer,Weekapaug Groove,Weekapaug,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-20,2014,0,18,5,2,0,0,6,2014 Summer,2014 Summer,First Tube,First Tube,0,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,
-2014-07-20,2014,0,19,6,e,0,0,4,2014 Summer,2014 Summer,Character Zero,Character Zero,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,
+2014-07-20,2014,0,18,5,2,0,0,6,2014 Summer,2014 Summer,First Tube,,0,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,
+2014-07-20,2014,0,19,6,e,0,0,4,2014 Summer,2014 Summer,Character Zero,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,
 2014-07-25,2014,0,1,2,1,0,0,1,2014 Summer,2014 Summer,Mike's Song,Mike's,1,PNC Music Pavilion,Charlotte,NC,USA,>
 2014-07-25,2014,0,2,2,1,0,0,5,2014 Summer,2014 Summer,Back on the Train,BOTT,0,PNC Music Pavilion,Charlotte,NC,USA,>
 2014-07-25,2014,0,3,1,1,0,0,1,2014 Summer,2014 Summer,Weekapaug Groove,Weekapaug,1,PNC Music Pavilion,Charlotte,NC,USA,","
-2014-07-25,2014,0,4,2,1,0,0,2,2014 Summer,2014 Summer,Wingsuit,Wingsuit,1,PNC Music Pavilion,Charlotte,NC,USA,>
-2014-07-25,2014,0,5,1,1,0,0,4,2014 Summer,2014 Summer,Possum,Possum,1,PNC Music Pavilion,Charlotte,NC,USA,","
-2014-07-25,2014,0,6,2,1,0,0,2,2014 Summer,2014 Summer,Tube,Tube,1,PNC Music Pavilion,Charlotte,NC,USA,>
+2014-07-25,2014,0,4,2,1,0,0,2,2014 Summer,2014 Summer,Wingsuit,,1,PNC Music Pavilion,Charlotte,NC,USA,>
+2014-07-25,2014,0,5,1,1,0,0,4,2014 Summer,2014 Summer,Possum,,1,PNC Music Pavilion,Charlotte,NC,USA,","
+2014-07-25,2014,0,6,2,1,0,0,2,2014 Summer,2014 Summer,Tube,,1,PNC Music Pavilion,Charlotte,NC,USA,>
 2014-07-25,2014,0,7,1,1,0,0,11,2014 Summer,2014 Summer,"My Friend, My Friend",My Friend,1,PNC Music Pavilion,Charlotte,NC,USA,","
-2014-07-25,2014,0,8,1,1,0,0,1,2014 Summer,2014 Summer,Winterqueen,Winterqueen,0,PNC Music Pavilion,Charlotte,NC,USA,","
-2014-07-25,2014,0,9,1,1,0,0,42,2014 Summer,2014 Summer,Beauty of a Broken Heart,Beauty of a Broken Heart,0,PNC Music Pavilion,Charlotte,NC,USA,","
+2014-07-25,2014,0,8,1,1,0,0,1,2014 Summer,2014 Summer,Winterqueen,,0,PNC Music Pavilion,Charlotte,NC,USA,","
+2014-07-25,2014,0,9,1,1,0,0,42,2014 Summer,2014 Summer,Beauty of a Broken Heart,,0,PNC Music Pavilion,Charlotte,NC,USA,","
 2014-07-25,2014,0,10,1,1,0,0,5,2014 Summer,2014 Summer,David Bowie,Bowie,1,PNC Music Pavilion,Charlotte,NC,USA,","
 2014-07-25,2014,0,11,4,1,0,0,19,2014 Summer,2014 Summer,Golgi Apparatus,Golgi,1,PNC Music Pavilion,Charlotte,NC,USA,
-2014-07-25,2014,0,12,2,2,0,0,3,2014 Summer,2014 Summer,555,555,1,PNC Music Pavilion,Charlotte,NC,USA,>
+2014-07-25,2014,0,12,2,2,0,0,3,2014 Summer,2014 Summer,555,,1,PNC Music Pavilion,Charlotte,NC,USA,>
 2014-07-25,2014,0,13,2,2,0,0,3,2014 Summer,2014 Summer,Chalk Dust Torture,CDT,1,PNC Music Pavilion,Charlotte,NC,USA,>
-2014-07-25,2014,0,14,3,2,0,0,2,2014 Summer,2014 Summer,Fuego,Fuego,1,PNC Music Pavilion,Charlotte,NC,USA,->
-2014-07-25,2014,0,15,3,2,0,0,2,2014 Summer,2014 Summer,Twist,Twist,1,PNC Music Pavilion,Charlotte,NC,USA,->
+2014-07-25,2014,0,14,3,2,0,0,2,2014 Summer,2014 Summer,Fuego,,1,PNC Music Pavilion,Charlotte,NC,USA,->
+2014-07-25,2014,0,15,3,2,0,0,2,2014 Summer,2014 Summer,Twist,,1,PNC Music Pavilion,Charlotte,NC,USA,->
 2014-07-25,2014,0,16,2,2,0,0,22,2014 Summer,2014 Summer,When the Circus Comes,Circus,0,PNC Music Pavilion,Charlotte,NC,USA,>
-2014-07-25,2014,0,17,3,2,0,0,3,2014 Summer,2014 Summer,Piper,Piper,1,PNC Music Pavilion,Charlotte,NC,USA,->
-2014-07-25,2014,0,18,1,2,0,0,4,2014 Summer,2014 Summer,Rift,Rift,1,PNC Music Pavilion,Charlotte,NC,USA,","
-2014-07-25,2014,0,19,2,2,0,0,3,2014 Summer,2014 Summer,Waiting All Night,Waiting All Night,1,PNC Music Pavilion,Charlotte,NC,USA,>
-2014-07-25,2014,0,20,2,2,0,0,3,2014 Summer,2014 Summer,Reba,Reba,1,PNC Music Pavilion,Charlotte,NC,USA,>
-2014-07-25,2014,0,21,5,2,0,0,1,2014 Summer,2014 Summer,Character Zero,Character Zero,1,PNC Music Pavilion,Charlotte,NC,USA,
-2014-07-25,2014,0,22,6,e,0,0,25,2014 Summer,2014 Summer,Loving Cup,Loving Cup,0,PNC Music Pavilion,Charlotte,NC,USA,
+2014-07-25,2014,0,17,3,2,0,0,3,2014 Summer,2014 Summer,Piper,,1,PNC Music Pavilion,Charlotte,NC,USA,->
+2014-07-25,2014,0,18,1,2,0,0,4,2014 Summer,2014 Summer,Rift,,1,PNC Music Pavilion,Charlotte,NC,USA,","
+2014-07-25,2014,0,19,2,2,0,0,3,2014 Summer,2014 Summer,Waiting All Night,,1,PNC Music Pavilion,Charlotte,NC,USA,>
+2014-07-25,2014,0,20,2,2,0,0,3,2014 Summer,2014 Summer,Reba,,1,PNC Music Pavilion,Charlotte,NC,USA,>
+2014-07-25,2014,0,21,5,2,0,0,1,2014 Summer,2014 Summer,Character Zero,,1,PNC Music Pavilion,Charlotte,NC,USA,
+2014-07-25,2014,0,22,6,e,0,0,25,2014 Summer,2014 Summer,Loving Cup,,0,PNC Music Pavilion,Charlotte,NC,USA,
 2014-07-26,2014,0,1,1,1,0,0,4,2014 Summer,2014 Summer,Sample in a Jar,Sample,1,Merriweather Post Pavilion,Columbia,MD,USA,","
 2014-07-26,2014,0,2,1,1,0,0,3,2014 Summer,2014 Summer,The Moma Dance,Moma,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2014-07-26,2014,0,3,1,1,0,0,4,2014 Summer,2014 Summer,Wombat,Wombat,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2014-07-26,2014,0,3,1,1,0,0,4,2014 Summer,2014 Summer,Wombat,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
 2014-07-26,2014,0,4,1,1,0,0,5,2014 Summer,2014 Summer,Backwards Down the Number Line,BDTNL,0,Merriweather Post Pavilion,Columbia,MD,USA,","
-2014-07-26,2014,0,5,1,1,0,0,3,2014 Summer,2014 Summer,Roggae,Roggae,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2014-07-26,2014,0,5,1,1,0,0,3,2014 Summer,2014 Summer,Roggae,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
 2014-07-26,2014,0,6,1,1,0,0,2,2014 Summer,2014 Summer,The Wedge,Wedge,1,Merriweather Post Pavilion,Columbia,MD,USA,","
 2014-07-26,2014,0,7,1,1,0,0,3,2014 Summer,2014 Summer,Wolfman's Brother,Wolfman's,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2014-07-26,2014,0,8,1,1,0,0,26,2014 Summer,2014 Summer,Nellie Kane,Nellie Kane,0,Merriweather Post Pavilion,Columbia,MD,USA,","
-2014-07-26,2014,0,9,1,1,0,0,5,2014 Summer,2014 Summer,Lawn Boy,Lawn Boy,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2014-07-26,2014,0,10,1,1,0,0,2,2014 Summer,2014 Summer,The Line,The Line,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2014-07-26,2014,0,11,1,1,0,0,4,2014 Summer,2014 Summer,Stash,Stash,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2014-07-26,2014,0,8,1,1,0,0,26,2014 Summer,2014 Summer,Nellie Kane,,0,Merriweather Post Pavilion,Columbia,MD,USA,","
+2014-07-26,2014,0,9,1,1,0,0,5,2014 Summer,2014 Summer,Lawn Boy,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2014-07-26,2014,0,10,1,1,0,0,2,2014 Summer,2014 Summer,The Line,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2014-07-26,2014,0,11,1,1,0,0,4,2014 Summer,2014 Summer,Stash,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
 2014-07-26,2014,0,12,4,1,0,0,3,2014 Summer,2014 Summer,Suzy Greenberg,Suzy,1,Merriweather Post Pavilion,Columbia,MD,USA,
-2014-07-26,2014,0,13,3,2,0,0,3,2014 Summer,2014 Summer,Carini,Carini,1,Merriweather Post Pavilion,Columbia,MD,USA,->
-2014-07-26,2014,0,14,2,2,0,0,2,2014 Summer,2014 Summer,Ghost,Ghost,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2014-07-26,2014,0,15,3,2,0,0,9,2014 Summer,2014 Summer,Steam,Steam,1,Merriweather Post Pavilion,Columbia,MD,USA,->
+2014-07-26,2014,0,13,3,2,0,0,3,2014 Summer,2014 Summer,Carini,,1,Merriweather Post Pavilion,Columbia,MD,USA,->
+2014-07-26,2014,0,14,2,2,0,0,2,2014 Summer,2014 Summer,Ghost,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2014-07-26,2014,0,15,3,2,0,0,9,2014 Summer,2014 Summer,Steam,,1,Merriweather Post Pavilion,Columbia,MD,USA,->
 2014-07-26,2014,0,16,2,2,0,0,4,2014 Summer,2014 Summer,The Mango Song,Mango,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2014-07-26,2014,0,17,2,2,0,0,7,2014 Summer,2014 Summer,Sing Monica,Sing Monica,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2014-07-26,2014,0,18,3,2,0,0,3,2014 Summer,2014 Summer,Light,Light,0,Merriweather Post Pavilion,Columbia,MD,USA,->
+2014-07-26,2014,0,17,2,2,0,0,7,2014 Summer,2014 Summer,Sing Monica,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2014-07-26,2014,0,18,3,2,0,0,3,2014 Summer,2014 Summer,Light,,0,Merriweather Post Pavilion,Columbia,MD,USA,->
 2014-07-26,2014,0,19,2,2,0,0,5,2014 Summer,2014 Summer,Also Sprach Zarathustra,2001,0,Merriweather Post Pavilion,Columbia,MD,USA,>
 2014-07-26,2014,0,20,5,2,0,0,3,2014 Summer,2014 Summer,Harry Hood,Hood,1,Merriweather Post Pavilion,Columbia,MD,USA,
-2014-07-26,2014,0,21,6,e,0,0,4,2014 Summer,2014 Summer,Julius,Julius,1,Merriweather Post Pavilion,Columbia,MD,USA,
-2014-07-27,2014,0,1,1,1,0,0,27,2014 Summer,2014 Summer,Fee,Fee,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2014-07-26,2014,0,21,6,e,0,0,4,2014 Summer,2014 Summer,Julius,,1,Merriweather Post Pavilion,Columbia,MD,USA,
+2014-07-27,2014,0,1,1,1,0,0,27,2014 Summer,2014 Summer,Fee,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
 2014-07-27,2014,0,2,1,1,0,0,29,2014 Summer,2014 Summer,The Curtain With,Curtain With,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2014-07-27,2014,0,3,1,1,0,0,4,2014 Summer,2014 Summer,46 Days,46 Days,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2014-07-27,2014,0,4,1,1,0,0,2,2014 Summer,2014 Summer,555,555,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2014-07-27,2014,0,3,1,1,0,0,4,2014 Summer,2014 Summer,46 Days,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2014-07-27,2014,0,4,1,1,0,0,2,2014 Summer,2014 Summer,555,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
 2014-07-27,2014,0,5,1,1,0,0,9,2014 Summer,2014 Summer,My Sweet One,MSO,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2014-07-27,2014,0,6,1,1,0,0,5,2014 Summer,2014 Summer,Sand,Sand,0,Merriweather Post Pavilion,Columbia,MD,USA,","
+2014-07-27,2014,0,6,1,1,0,0,5,2014 Summer,2014 Summer,Sand,,0,Merriweather Post Pavilion,Columbia,MD,USA,","
 2014-07-27,2014,0,7,1,1,0,0,5,2014 Summer,2014 Summer,Bouncing Around the Room,Bouncin',1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2014-07-27,2014,0,8,2,1,0,0,35,2014 Summer,2014 Summer,Saw It Again,Saw It Again,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2014-07-27,2014,0,9,1,1,0,0,2,2014 Summer,2014 Summer,Fuego,Fuego,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2014-07-27,2014,0,8,2,1,0,0,35,2014 Summer,2014 Summer,Saw It Again,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2014-07-27,2014,0,9,1,1,0,0,2,2014 Summer,2014 Summer,Fuego,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
 2014-07-27,2014,0,10,4,1,0,0,13,2014 Summer,2014 Summer,You Enjoy Myself,YEM,1,Merriweather Post Pavilion,Columbia,MD,USA,
-2014-07-27,2014,0,11,2,2,0,0,6,2014 Summer,2014 Summer,Wilson,Wilson,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2014-07-27,2014,0,12,3,2,0,0,6,2014 Summer,2014 Summer,Tweezer,Tweezer,1,Merriweather Post Pavilion,Columbia,MD,USA,->
+2014-07-27,2014,0,11,2,2,0,0,6,2014 Summer,2014 Summer,Wilson,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2014-07-27,2014,0,12,3,2,0,0,6,2014 Summer,2014 Summer,Tweezer,,1,Merriweather Post Pavilion,Columbia,MD,USA,->
 2014-07-27,2014,0,13,3,2,0,0,2,2014 Summer,2014 Summer,Back on the Train,BOTT,0,Merriweather Post Pavilion,Columbia,MD,USA,->
-2014-07-27,2014,0,14,3,2,0,0,0,2014 Summer,2014 Summer,Tweezer,Tweezer,1,Merriweather Post Pavilion,Columbia,MD,USA,->
+2014-07-27,2014,0,14,3,2,0,0,0,2014 Summer,2014 Summer,Tweezer,,1,Merriweather Post Pavilion,Columbia,MD,USA,->
 2014-07-27,2014,0,15,3,2,0,0,0,2014 Summer,2014 Summer,Back on the Train,BOTT,0,Merriweather Post Pavilion,Columbia,MD,USA,->
-2014-07-27,2014,0,16,2,2,0,0,0,2014 Summer,2014 Summer,Tweezer,Tweezer,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2014-07-27,2014,0,17,1,2,0,0,2,2014 Summer,2014 Summer,Waiting All Night,Waiting All Night,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2014-07-27,2014,0,18,3,2,0,0,4,2014 Summer,2014 Summer,Free,Free,1,Merriweather Post Pavilion,Columbia,MD,USA,->
-2014-07-27,2014,0,19,3,2,0,0,0,2014 Summer,2014 Summer,Tweezer,Tweezer,1,Merriweather Post Pavilion,Columbia,MD,USA,->
-2014-07-27,2014,0,20,3,2,0,0,16,2014 Summer,2014 Summer,Simple,Simple,1,Merriweather Post Pavilion,Columbia,MD,USA,->
-2014-07-27,2014,0,21,3,2,0,0,0,2014 Summer,2014 Summer,Tweezer,Tweezer,1,Merriweather Post Pavilion,Columbia,MD,USA,->
-2014-07-27,2014,0,22,2,2,0,0,0,2014 Summer,2014 Summer,Free,Free,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2014-07-27,2014,0,23,2,2,0,0,206,2014 Summer,2014 Summer,Catapult,Catapult,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2014-07-27,2014,0,16,2,2,0,0,0,2014 Summer,2014 Summer,Tweezer,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2014-07-27,2014,0,17,1,2,0,0,2,2014 Summer,2014 Summer,Waiting All Night,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2014-07-27,2014,0,18,3,2,0,0,4,2014 Summer,2014 Summer,Free,,1,Merriweather Post Pavilion,Columbia,MD,USA,->
+2014-07-27,2014,0,19,3,2,0,0,0,2014 Summer,2014 Summer,Tweezer,,1,Merriweather Post Pavilion,Columbia,MD,USA,->
+2014-07-27,2014,0,20,3,2,0,0,16,2014 Summer,2014 Summer,Simple,,1,Merriweather Post Pavilion,Columbia,MD,USA,->
+2014-07-27,2014,0,21,3,2,0,0,0,2014 Summer,2014 Summer,Tweezer,,1,Merriweather Post Pavilion,Columbia,MD,USA,->
+2014-07-27,2014,0,22,2,2,0,0,0,2014 Summer,2014 Summer,Free,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2014-07-27,2014,0,23,2,2,0,0,206,2014 Summer,2014 Summer,Catapult,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2014-07-27,2014,0,24,3,2,0,0,5,2014 Summer,2014 Summer,Slave to the Traffic Light,Slave,1,Merriweather Post Pavilion,Columbia,MD,USA,->
 2014-07-27,2014,0,25,3,2,0,0,3,2014 Summer,2014 Summer,Down with Disease,DwD,1,Merriweather Post Pavilion,Columbia,MD,USA,->
-2014-07-27,2014,0,26,3,2,0,0,7,2014 Summer,2014 Summer,NICU,NICU,1,Merriweather Post Pavilion,Columbia,MD,USA,->
-2014-07-27,2014,0,27,3,2,0,0,116,2014 Summer,2014 Summer,Jam,Jam,0,Merriweather Post Pavilion,Columbia,MD,USA,->
+2014-07-27,2014,0,26,3,2,0,0,7,2014 Summer,2014 Summer,NICU,,1,Merriweather Post Pavilion,Columbia,MD,USA,->
+2014-07-27,2014,0,27,3,2,0,0,116,2014 Summer,2014 Summer,Jam,,0,Merriweather Post Pavilion,Columbia,MD,USA,->
 2014-07-27,2014,0,28,3,2,0,0,79,2014 Summer,2014 Summer,Hold Your Head Up,HYHU,0,Merriweather Post Pavilion,Columbia,MD,USA,->
-2014-07-27,2014,0,29,3,2,0,0,354,2014 Summer,2014 Summer,Jennifer Dances,Jennifer Dances,1,Merriweather Post Pavilion,Columbia,MD,USA,->
+2014-07-27,2014,0,29,3,2,0,0,354,2014 Summer,2014 Summer,Jennifer Dances,,1,Merriweather Post Pavilion,Columbia,MD,USA,->
 2014-07-27,2014,0,30,1,2,0,0,0,2014 Summer,2014 Summer,Hold Your Head Up,HYHU,0,Merriweather Post Pavilion,Columbia,MD,USA,","
-2014-07-27,2014,0,31,5,2,0,0,149,2014 Summer,2014 Summer,I Been Around,I Been Around,1,Merriweather Post Pavilion,Columbia,MD,USA,
+2014-07-27,2014,0,31,5,2,0,0,149,2014 Summer,2014 Summer,I Been Around,,1,Merriweather Post Pavilion,Columbia,MD,USA,
 2014-07-27,2014,0,32,2,e,0,0,24,2014 Summer,2014 Summer,Boogie On Reggae Woman,Boogie On,0,Merriweather Post Pavilion,Columbia,MD,USA,>
 2014-07-27,2014,0,33,6,e,0,0,6,2014 Summer,2014 Summer,Tweezer Reprise,Tweeprise,1,Merriweather Post Pavilion,Columbia,MD,USA,
 2014-07-29,2014,0,1,2,1,0,0,32,2014 Summer,2014 Summer,Timber (Jerry the Mule),Timber Ho,0,nTelos Pavilion,Portsmouth,VA,USA,>
-2014-07-29,2014,0,2,2,1,0,0,14,2014 Summer,2014 Summer,Undermind,Undermind,0,nTelos Pavilion,Portsmouth,VA,USA,>
+2014-07-29,2014,0,2,2,1,0,0,14,2014 Summer,2014 Summer,Undermind,,0,nTelos Pavilion,Portsmouth,VA,USA,>
 2014-07-29,2014,0,3,1,1,0,0,10,2014 Summer,2014 Summer,AC/DC Bag,Bag,1,nTelos Pavilion,Portsmouth,VA,USA,","
-2014-07-29,2014,0,4,2,1,0,0,1,2014 Summer,2014 Summer,555,555,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2014-07-29,2014,0,4,2,1,0,0,1,2014 Summer,2014 Summer,555,,1,nTelos Pavilion,Portsmouth,VA,USA,>
 2014-07-29,2014,0,5,1,1,0,0,8,2014 Summer,2014 Summer,Divided Sky,Divided,1,nTelos Pavilion,Portsmouth,VA,USA,","
-2014-07-29,2014,0,6,1,1,0,0,4,2014 Summer,2014 Summer,Ocelot,Ocelot,1,nTelos Pavilion,Portsmouth,VA,USA,","
-2014-07-29,2014,0,7,1,1,0,0,6,2014 Summer,2014 Summer,Halfway to the Moon,Halfway to the Moon,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2014-07-29,2014,0,6,1,1,0,0,4,2014 Summer,2014 Summer,Ocelot,,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2014-07-29,2014,0,7,1,1,0,0,6,2014 Summer,2014 Summer,Halfway to the Moon,,1,nTelos Pavilion,Portsmouth,VA,USA,","
 2014-07-29,2014,0,8,1,1,0,0,6,2014 Summer,2014 Summer,Kill Devil Falls,KDF,1,nTelos Pavilion,Portsmouth,VA,USA,","
 2014-07-29,2014,0,9,1,1,0,0,9,2014 Summer,2014 Summer,Split Open and Melt,SOAMelt,1,nTelos Pavilion,Portsmouth,VA,USA,","
 2014-07-29,2014,0,10,4,1,0,0,27,2014 Summer,2014 Summer,Good Times Bad Times,GTBT,0,nTelos Pavilion,Portsmouth,VA,USA,
 2014-07-29,2014,0,11,2,2,0,0,3,2014 Summer,2014 Summer,Chalk Dust Torture,CDT,1,nTelos Pavilion,Portsmouth,VA,USA,>
-2014-07-29,2014,0,12,1,2,0,0,68,2014 Summer,2014 Summer,If I Could,If I Could,1,nTelos Pavilion,Portsmouth,VA,USA,","
-2014-07-29,2014,0,13,2,2,0,0,2,2014 Summer,2014 Summer,The Line,The Line,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2014-07-29,2014,0,12,1,2,0,0,68,2014 Summer,2014 Summer,If I Could,,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2014-07-29,2014,0,13,2,2,0,0,2,2014 Summer,2014 Summer,The Line,,1,nTelos Pavilion,Portsmouth,VA,USA,>
 2014-07-29,2014,0,14,1,2,0,0,6,2014 Summer,2014 Summer,Birds of a Feather,BOAF,1,nTelos Pavilion,Portsmouth,VA,USA,","
 2014-07-29,2014,0,15,2,2,0,0,6,2014 Summer,2014 Summer,A Song I Heard the Ocean Sing,ASIHTOS,1,nTelos Pavilion,Portsmouth,VA,USA,>
 2014-07-29,2014,0,16,2,2,0,0,3,2014 Summer,2014 Summer,Mike's Song,Mike's,1,nTelos Pavilion,Portsmouth,VA,USA,>
 2014-07-29,2014,0,17,2,2,0,0,7,2014 Summer,2014 Summer,Prince Caspian,Caspian,1,nTelos Pavilion,Portsmouth,VA,USA,>
-2014-07-29,2014,0,18,2,2,0,0,5,2014 Summer,2014 Summer,Waves,Waves,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2014-07-29,2014,0,18,2,2,0,0,5,2014 Summer,2014 Summer,Waves,,1,nTelos Pavilion,Portsmouth,VA,USA,>
 2014-07-29,2014,0,19,1,2,0,0,3,2014 Summer,2014 Summer,Weekapaug Groove,Weekapaug,1,nTelos Pavilion,Portsmouth,VA,USA,","
-2014-07-29,2014,0,20,2,2,0,0,5,2014 Summer,2014 Summer,Cavern,Cavern,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2014-07-29,2014,0,20,2,2,0,0,5,2014 Summer,2014 Summer,Cavern,,1,nTelos Pavilion,Portsmouth,VA,USA,>
 2014-07-29,2014,0,21,2,2,0,0,3,2014 Summer,2014 Summer,Golgi Apparatus,Golgi,1,nTelos Pavilion,Portsmouth,VA,USA,>
 2014-07-29,2014,0,22,5,2,0,0,5,2014 Summer,2014 Summer,Run Like an Antelope,Antelope,1,nTelos Pavilion,Portsmouth,VA,USA,
-2014-07-29,2014,0,23,2,e,0,0,3,2014 Summer,2014 Summer,Wingsuit,Wingsuit,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2014-07-29,2014,0,23,2,e,0,0,3,2014 Summer,2014 Summer,Wingsuit,,1,nTelos Pavilion,Portsmouth,VA,USA,>
 2014-07-29,2014,0,24,6,e,0,0,6,2014 Summer,2014 Summer,The Squirming Coil,Coil,1,nTelos Pavilion,Portsmouth,VA,USA,
 2014-07-30,2014,0,1,1,1,0,0,5,2014 Summer,2014 Summer,Bathtub Gin,Gin,1,nTelos Pavilion,Portsmouth,VA,USA,","
-2014-07-30,2014,0,2,1,1,0,0,6,2014 Summer,2014 Summer,Devotion To a Dream,Devotion To a Dream,1,nTelos Pavilion,Portsmouth,VA,USA,","
-2014-07-30,2014,0,3,1,1,0,0,6,2014 Summer,2014 Summer,Yarmouth Road,Yarmouth Road,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2014-07-30,2014,0,2,1,1,0,0,6,2014 Summer,2014 Summer,Devotion To a Dream,,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2014-07-30,2014,0,3,1,1,0,0,6,2014 Summer,2014 Summer,Yarmouth Road,,1,nTelos Pavilion,Portsmouth,VA,USA,","
 2014-07-30,2014,0,4,1,1,0,0,37,2014 Summer,2014 Summer,Guelah Papyrus,Guelah,1,nTelos Pavilion,Portsmouth,VA,USA,","
-2014-07-30,2014,0,5,1,1,0,0,13,2014 Summer,2014 Summer,Alaska,Alaska,0,nTelos Pavilion,Portsmouth,VA,USA,","
-2014-07-30,2014,0,6,2,1,0,0,8,2014 Summer,2014 Summer,It's Ice,It's Ice,1,nTelos Pavilion,Portsmouth,VA,USA,>
-2014-07-30,2014,0,7,1,1,0,0,8,2014 Summer,2014 Summer,Poor Heart,Poor Heart,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2014-07-30,2014,0,5,1,1,0,0,13,2014 Summer,2014 Summer,Alaska,,0,nTelos Pavilion,Portsmouth,VA,USA,","
+2014-07-30,2014,0,6,2,1,0,0,8,2014 Summer,2014 Summer,It's Ice,,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2014-07-30,2014,0,7,1,1,0,0,8,2014 Summer,2014 Summer,Poor Heart,,1,nTelos Pavilion,Portsmouth,VA,USA,","
 2014-07-30,2014,0,8,1,1,0,0,141,2014 Summer,2014 Summer,Mountains in the Mist,Mist,0,nTelos Pavilion,Portsmouth,VA,USA,","
-2014-07-30,2014,0,9,1,1,0,0,37,2014 Summer,2014 Summer,Meat,Meat,1,nTelos Pavilion,Portsmouth,VA,USA,","
+2014-07-30,2014,0,9,1,1,0,0,37,2014 Summer,2014 Summer,Meat,,1,nTelos Pavilion,Portsmouth,VA,USA,","
 2014-07-30,2014,0,10,2,1,0,0,8,2014 Summer,2014 Summer,Stealing Time From the Faulty Plan,STFTFP,1,nTelos Pavilion,Portsmouth,VA,USA,>
 2014-07-30,2014,0,11,4,1,0,0,4,2014 Summer,2014 Summer,David Bowie,Bowie,1,nTelos Pavilion,Portsmouth,VA,USA,
-2014-07-30,2014,0,12,2,2,0,0,2,2014 Summer,2014 Summer,Fuego,Fuego,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2014-07-30,2014,0,12,2,2,0,0,2,2014 Summer,2014 Summer,Fuego,,1,nTelos Pavilion,Portsmouth,VA,USA,>
 2014-07-30,2014,0,13,2,2,0,0,9,2014 Summer,2014 Summer,Gotta Jibboo,Jibboo,0,nTelos Pavilion,Portsmouth,VA,USA,>
-2014-07-30,2014,0,14,2,2,0,0,9,2014 Summer,2014 Summer,Meatstick,Meatstick,1,nTelos Pavilion,Portsmouth,VA,USA,>
-2014-07-30,2014,0,15,2,2,0,0,4,2014 Summer,2014 Summer,Piper,Piper,1,nTelos Pavilion,Portsmouth,VA,USA,>
-2014-07-30,2014,0,16,2,2,0,0,95,2014 Summer,2014 Summer,Billy Breathes,Billy Breathes,1,nTelos Pavilion,Portsmouth,VA,USA,>
-2014-07-30,2014,0,17,2,2,0,0,24,2014 Summer,2014 Summer,Seven Below,Seven Below,1,nTelos Pavilion,Portsmouth,VA,USA,>
-2014-07-30,2014,0,18,2,2,0,0,13,2014 Summer,2014 Summer,Waste,Waste,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2014-07-30,2014,0,14,2,2,0,0,9,2014 Summer,2014 Summer,Meatstick,,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2014-07-30,2014,0,15,2,2,0,0,4,2014 Summer,2014 Summer,Piper,,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2014-07-30,2014,0,16,2,2,0,0,95,2014 Summer,2014 Summer,Billy Breathes,,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2014-07-30,2014,0,17,2,2,0,0,24,2014 Summer,2014 Summer,Seven Below,,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2014-07-30,2014,0,18,2,2,0,0,13,2014 Summer,2014 Summer,Waste,,1,nTelos Pavilion,Portsmouth,VA,USA,>
 2014-07-30,2014,0,19,1,2,0,0,3,2014 Summer,2014 Summer,Backwards Down the Number Line,BDTNL,0,nTelos Pavilion,Portsmouth,VA,USA,","
-2014-07-30,2014,0,20,5,2,0,0,5,2014 Summer,2014 Summer,First Tube,First Tube,0,nTelos Pavilion,Portsmouth,VA,USA,
+2014-07-30,2014,0,20,5,2,0,0,5,2014 Summer,2014 Summer,First Tube,,0,nTelos Pavilion,Portsmouth,VA,USA,
 2014-07-30,2014,0,21,6,e,0,0,21,2014 Summer,2014 Summer,The Lizards,Lizards,1,nTelos Pavilion,Portsmouth,VA,USA,
 2014-08-01,2014,0,1,1,1,0,0,2,2014 Summer,2014 Summer,Chalk Dust Torture,CDT,1,Amphitheater at the Wharf,Orange Beach,AL,USA,","
 2014-08-01,2014,0,2,1,1,0,0,4,2014 Summer,2014 Summer,The Moma Dance,Moma,1,Amphitheater at the Wharf,Orange Beach,AL,USA,","
-2014-08-01,2014,0,3,1,1,0,0,7,2014 Summer,2014 Summer,Heavy Things,Heavy Things,1,Amphitheater at the Wharf,Orange Beach,AL,USA,","
-2014-08-01,2014,0,4,1,1,0,0,2,2014 Summer,2014 Summer,555,555,1,Amphitheater at the Wharf,Orange Beach,AL,USA,","
-2014-08-01,2014,0,5,2,1,0,0,5,2014 Summer,2014 Summer,Rift,Rift,1,Amphitheater at the Wharf,Orange Beach,AL,USA,>
-2014-08-01,2014,0,6,1,1,0,0,3,2014 Summer,2014 Summer,46 Days,46 Days,1,Amphitheater at the Wharf,Orange Beach,AL,USA,","
-2014-08-01,2014,0,7,1,1,0,0,5,2014 Summer,2014 Summer,Tube,Tube,1,Amphitheater at the Wharf,Orange Beach,AL,USA,","
-2014-08-01,2014,0,8,1,1,0,0,1,2014 Summer,2014 Summer,Devotion To a Dream,Devotion To a Dream,1,Amphitheater at the Wharf,Orange Beach,AL,USA,","
+2014-08-01,2014,0,3,1,1,0,0,7,2014 Summer,2014 Summer,Heavy Things,,1,Amphitheater at the Wharf,Orange Beach,AL,USA,","
+2014-08-01,2014,0,4,1,1,0,0,2,2014 Summer,2014 Summer,555,,1,Amphitheater at the Wharf,Orange Beach,AL,USA,","
+2014-08-01,2014,0,5,2,1,0,0,5,2014 Summer,2014 Summer,Rift,,1,Amphitheater at the Wharf,Orange Beach,AL,USA,>
+2014-08-01,2014,0,6,1,1,0,0,3,2014 Summer,2014 Summer,46 Days,,1,Amphitheater at the Wharf,Orange Beach,AL,USA,","
+2014-08-01,2014,0,7,1,1,0,0,5,2014 Summer,2014 Summer,Tube,,1,Amphitheater at the Wharf,Orange Beach,AL,USA,","
+2014-08-01,2014,0,8,1,1,0,0,1,2014 Summer,2014 Summer,Devotion To a Dream,,1,Amphitheater at the Wharf,Orange Beach,AL,USA,","
 2014-08-01,2014,0,9,1,1,0,0,4,2014 Summer,2014 Summer,Wolfman's Brother,Wolfman's,1,Amphitheater at the Wharf,Orange Beach,AL,USA,","
 2014-08-01,2014,0,10,1,1,0,0,36,2014 Summer,2014 Summer,The Ballad of Curtis Loew,Curtis Loew,0,Amphitheater at the Wharf,Orange Beach,AL,USA,","
-2014-08-01,2014,0,11,2,1,0,0,3,2014 Summer,2014 Summer,Free,Free,1,Amphitheater at the Wharf,Orange Beach,AL,USA,>
-2014-08-01,2014,0,12,4,1,0,0,5,2014 Summer,2014 Summer,Character Zero,Character Zero,1,Amphitheater at the Wharf,Orange Beach,AL,USA,
+2014-08-01,2014,0,11,2,1,0,0,3,2014 Summer,2014 Summer,Free,,1,Amphitheater at the Wharf,Orange Beach,AL,USA,>
+2014-08-01,2014,0,12,4,1,0,0,5,2014 Summer,2014 Summer,Character Zero,,1,Amphitheater at the Wharf,Orange Beach,AL,USA,
 2014-08-01,2014,0,13,2,2,0,0,3,2014 Summer,2014 Summer,Down with Disease,DwD,1,Amphitheater at the Wharf,Orange Beach,AL,USA,>
 2014-08-01,2014,0,14,2,2,0,0,6,2014 Summer,2014 Summer,Theme From the Bottom,Theme,1,Amphitheater at the Wharf,Orange Beach,AL,USA,>
-2014-08-01,2014,0,15,2,2,0,0,3,2014 Summer,2014 Summer,Tweezer,Tweezer,1,Amphitheater at the Wharf,Orange Beach,AL,USA,>
+2014-08-01,2014,0,15,2,2,0,0,3,2014 Summer,2014 Summer,Tweezer,,1,Amphitheater at the Wharf,Orange Beach,AL,USA,>
 2014-08-01,2014,0,16,2,2,0,0,2,2014 Summer,2014 Summer,Prince Caspian,Caspian,1,Amphitheater at the Wharf,Orange Beach,AL,USA,>
-2014-08-01,2014,0,17,2,2,0,0,3,2014 Summer,2014 Summer,Waiting All Night,Waiting All Night,1,Amphitheater at the Wharf,Orange Beach,AL,USA,>
-2014-08-01,2014,0,18,2,2,0,0,1,2014 Summer,2014 Summer,Fuego,Fuego,1,Amphitheater at the Wharf,Orange Beach,AL,USA,>
+2014-08-01,2014,0,17,2,2,0,0,3,2014 Summer,2014 Summer,Waiting All Night,,1,Amphitheater at the Wharf,Orange Beach,AL,USA,>
+2014-08-01,2014,0,18,2,2,0,0,1,2014 Summer,2014 Summer,Fuego,,1,Amphitheater at the Wharf,Orange Beach,AL,USA,>
 2014-08-01,2014,0,19,2,2,0,0,3,2014 Summer,2014 Summer,Slave to the Traffic Light,Slave,1,Amphitheater at the Wharf,Orange Beach,AL,USA,>
 2014-08-01,2014,0,20,2,2,0,0,4,2014 Summer,2014 Summer,Also Sprach Zarathustra,2001,0,Amphitheater at the Wharf,Orange Beach,AL,USA,>
 2014-08-01,2014,0,21,3,2,0,0,3,2014 Summer,2014 Summer,Boogie On Reggae Woman,Boogie On,0,Amphitheater at the Wharf,Orange Beach,AL,USA,->
@@ -475,426 +475,426 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2014-08-01,2014,0,23,2,e,0,0,3,2014 Summer,2014 Summer,Bouncing Around the Room,Bouncin',1,Amphitheater at the Wharf,Orange Beach,AL,USA,>
 2014-08-01,2014,0,24,6,e,0,0,3,2014 Summer,2014 Summer,Tweezer Reprise,Tweeprise,1,Amphitheater at the Wharf,Orange Beach,AL,USA,
 2014-08-02,2014,0,1,2,1,0,0,3,2014 Summer,2014 Summer,AC/DC Bag,Bag,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
-2014-08-02,2014,0,2,1,1,0,0,2,2014 Summer,2014 Summer,Poor Heart,Poor Heart,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
-2014-08-02,2014,0,3,1,1,0,0,33,2014 Summer,2014 Summer,Cities,Cities,0,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+2014-08-02,2014,0,2,1,1,0,0,2,2014 Summer,2014 Summer,Poor Heart,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+2014-08-02,2014,0,3,1,1,0,0,33,2014 Summer,2014 Summer,Cities,,0,Oak Mountain Amphitheatre,Pelham,AL,USA,","
 2014-08-02,2014,0,4,1,1,0,0,3,2014 Summer,2014 Summer,Kill Devil Falls,KDF,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
-2014-08-02,2014,0,5,2,1,0,0,6,2014 Summer,2014 Summer,Reba,Reba,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
-2014-08-02,2014,0,6,1,1,0,0,6,2014 Summer,2014 Summer,Possum,Possum,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+2014-08-02,2014,0,5,2,1,0,0,6,2014 Summer,2014 Summer,Reba,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
+2014-08-02,2014,0,6,1,1,0,0,6,2014 Summer,2014 Summer,Possum,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
 2014-08-02,2014,0,7,1,1,0,0,5,2014 Summer,2014 Summer,Sample in a Jar,Sample,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
-2014-08-02,2014,0,8,2,1,0,0,22,2014 Summer,2014 Summer,Funky Bitch,Funky Bitch,0,Oak Mountain Amphitheatre,Pelham,AL,USA,>
-2014-08-02,2014,0,9,1,1,0,0,7,2014 Summer,2014 Summer,Maze,Maze,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
-2014-08-02,2014,0,10,2,1,0,0,3,2014 Summer,2014 Summer,Ocelot,Ocelot,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
-2014-08-02,2014,0,11,2,1,0,0,9,2014 Summer,2014 Summer,Sparkle,Sparkle,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
-2014-08-02,2014,0,12,1,1,0,0,3,2014 Summer,2014 Summer,Cavern,Cavern,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
-2014-08-02,2014,0,13,4,1,0,0,3,2014 Summer,2014 Summer,Wingsuit,Wingsuit,1,Oak Mountain Amphitheatre,Pelham,AL,USA,
-2014-08-02,2014,0,14,2,2,0,0,5,2014 Summer,2014 Summer,Carini,Carini,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
-2014-08-02,2014,0,15,2,2,0,0,5,2014 Summer,2014 Summer,Ghost,Ghost,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
+2014-08-02,2014,0,8,2,1,0,0,22,2014 Summer,2014 Summer,Funky Bitch,,0,Oak Mountain Amphitheatre,Pelham,AL,USA,>
+2014-08-02,2014,0,9,1,1,0,0,7,2014 Summer,2014 Summer,Maze,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+2014-08-02,2014,0,10,2,1,0,0,3,2014 Summer,2014 Summer,Ocelot,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
+2014-08-02,2014,0,11,2,1,0,0,9,2014 Summer,2014 Summer,Sparkle,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
+2014-08-02,2014,0,12,1,1,0,0,3,2014 Summer,2014 Summer,Cavern,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+2014-08-02,2014,0,13,4,1,0,0,3,2014 Summer,2014 Summer,Wingsuit,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,
+2014-08-02,2014,0,14,2,2,0,0,5,2014 Summer,2014 Summer,Carini,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
+2014-08-02,2014,0,15,2,2,0,0,5,2014 Summer,2014 Summer,Ghost,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
 2014-08-02,2014,0,16,2,2,0,0,3,2014 Summer,2014 Summer,Mike's Song,Mike's,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
-2014-08-02,2014,0,17,2,2,0,0,4,2014 Summer,2014 Summer,Simple,Simple,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
-2014-08-02,2014,0,18,1,2,0,0,13,2014 Summer,2014 Summer,Joy,Joy,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+2014-08-02,2014,0,17,2,2,0,0,4,2014 Summer,2014 Summer,Simple,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
+2014-08-02,2014,0,18,1,2,0,0,13,2014 Summer,2014 Summer,Joy,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
 2014-08-02,2014,0,19,2,2,0,0,3,2014 Summer,2014 Summer,Weekapaug Groove,Weekapaug,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
-2014-08-02,2014,0,20,1,2,0,0,5,2014 Summer,2014 Summer,Julius,Julius,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
-2014-08-02,2014,0,21,2,2,0,0,4,2014 Summer,2014 Summer,Sand,Sand,0,Oak Mountain Amphitheatre,Pelham,AL,USA,>
+2014-08-02,2014,0,20,1,2,0,0,5,2014 Summer,2014 Summer,Julius,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+2014-08-02,2014,0,21,2,2,0,0,4,2014 Summer,2014 Summer,Sand,,0,Oak Mountain Amphitheatre,Pelham,AL,USA,>
 2014-08-02,2014,0,22,1,2,0,0,12,2014 Summer,2014 Summer,Wading in the Velvet Sea,Velvet Sea,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
 2014-08-02,2014,0,23,5,2,0,0,4,2014 Summer,2014 Summer,You Enjoy Myself,YEM,1,Oak Mountain Amphitheatre,Pelham,AL,USA,
 2014-08-02,2014,0,24,6,e,0,0,29,2014 Summer,2014 Summer,Quinn the Eskimo (The Mighty Quinn),Quinn,0,Oak Mountain Amphitheatre,Pelham,AL,USA,
-2014-08-03,2014,0,1,2,1,0,0,33,2014 Summer,2014 Summer,My Soul,My Soul,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2014-08-03,2014,0,1,2,1,0,0,33,2014 Summer,2014 Summer,My Soul,,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
 2014-08-03,2014,0,2,1,1,0,0,3,2014 Summer,2014 Summer,Bathtub Gin,Gin,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
-2014-08-03,2014,0,3,1,1,0,0,2,2014 Summer,2014 Summer,555,555,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
-2014-08-03,2014,0,4,1,1,0,0,44,2014 Summer,2014 Summer,Pebbles and Marbles,Pebbles and Marbles,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
-2014-08-03,2014,0,5,1,1,0,0,4,2014 Summer,2014 Summer,The Line,The Line,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
-2014-08-03,2014,0,6,1,1,0,0,34,2014 Summer,2014 Summer,Vultures,Vultures,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,3,1,1,0,0,2,2014 Summer,2014 Summer,555,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,4,1,1,0,0,44,2014 Summer,2014 Summer,Pebbles and Marbles,,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,5,1,1,0,0,4,2014 Summer,2014 Summer,The Line,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,6,1,1,0,0,34,2014 Summer,2014 Summer,Vultures,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
 2014-08-03,2014,0,7,1,1,0,0,38,2014 Summer,2014 Summer,Fast Enough for You,FEFY,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
 2014-08-03,2014,0,8,2,1,0,0,5,2014 Summer,2014 Summer,Back on the Train,BOTT,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
-2014-08-03,2014,0,9,1,1,0,0,17,2014 Summer,2014 Summer,Taste,Taste,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
-2014-08-03,2014,0,10,1,1,0,0,8,2014 Summer,2014 Summer,Gumbo,Gumbo,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
-2014-08-03,2014,0,11,1,1,0,0,4,2014 Summer,2014 Summer,Halfway to the Moon,Halfway to the Moon,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,9,1,1,0,0,17,2014 Summer,2014 Summer,Taste,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,10,1,1,0,0,8,2014 Summer,2014 Summer,Gumbo,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,11,1,1,0,0,4,2014 Summer,2014 Summer,Halfway to the Moon,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
 2014-08-03,2014,0,12,1,1,0,0,3,2014 Summer,2014 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
 2014-08-03,2014,0,13,4,1,0,0,6,2014 Summer,2014 Summer,Suzy Greenberg,Suzy,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
 2014-08-03,2014,0,14,3,2,0,0,2,2014 Summer,2014 Summer,Chalk Dust Torture,CDT,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,->
-2014-08-03,2014,0,15,2,2,0,0,109,2014 Summer,2014 Summer,Scents and Subtle Sounds,Scents and Subtle Sounds,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
-2014-08-03,2014,0,16,2,2,0,0,7,2014 Summer,2014 Summer,Twist,Twist,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
-2014-08-03,2014,0,17,2,2,0,0,2,2014 Summer,2014 Summer,Fuego,Fuego,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2014-08-03,2014,0,15,2,2,0,0,109,2014 Summer,2014 Summer,Scents and Subtle Sounds,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2014-08-03,2014,0,16,2,2,0,0,7,2014 Summer,2014 Summer,Twist,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2014-08-03,2014,0,17,2,2,0,0,2,2014 Summer,2014 Summer,Fuego,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
 2014-08-03,2014,0,18,2,2,0,0,6,2014 Summer,2014 Summer,The Wedge,Wedge,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
-2014-08-03,2014,0,19,2,2,0,0,6,2014 Summer,2014 Summer,Light,Light,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2014-08-03,2014,0,19,2,2,0,0,6,2014 Summer,2014 Summer,Light,,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
 2014-08-03,2014,0,20,2,2,0,0,6,2014 Summer,2014 Summer,Harry Hood,Hood,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
-2014-08-03,2014,0,21,5,2,0,0,3,2014 Summer,2014 Summer,First Tube,First Tube,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
-2014-08-03,2014,0,22,6,e,0,0,18,2014 Summer,2014 Summer,Fluffhead,Fluffhead,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
-2014-08-29,2014,0,1,1,1,0,0,25,2014 Summer,2014 Summer,Llama,Llama,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2014-08-29,2014,0,2,1,1,0,0,5,2014 Summer,2014 Summer,Undermind,Undermind,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2014-08-29,2014,0,3,1,1,0,0,7,2014 Summer,2014 Summer,Stash,Stash,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2014-08-29,2014,0,4,2,1,0,0,1,2014 Summer,2014 Summer,Halfway to the Moon,Halfway to the Moon,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2014-08-03,2014,0,21,5,2,0,0,3,2014 Summer,2014 Summer,First Tube,,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
+2014-08-03,2014,0,22,6,e,0,0,18,2014 Summer,2014 Summer,Fluffhead,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
+2014-08-29,2014,0,1,1,1,0,0,25,2014 Summer,2014 Summer,Llama,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2014-08-29,2014,0,2,1,1,0,0,5,2014 Summer,2014 Summer,Undermind,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2014-08-29,2014,0,3,1,1,0,0,7,2014 Summer,2014 Summer,Stash,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2014-08-29,2014,0,4,2,1,0,0,1,2014 Summer,2014 Summer,Halfway to the Moon,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2014-08-29,2014,0,5,1,1,0,0,19,2014 Summer,2014 Summer,I Didn't Know,IDK,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2014-08-29,2014,0,6,1,1,0,0,7,2014 Summer,2014 Summer,Nellie Kane,Nellie Kane,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2014-08-29,2014,0,7,1,1,0,0,56,2014 Summer,2014 Summer,Guyute,Guyute,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2014-08-29,2014,0,8,1,1,0,0,0,2014 Summer,2014 Summer,The Line,The Line,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2014-08-29,2014,0,9,2,1,0,0,2,2014 Summer,2014 Summer,Ocelot,Ocelot,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2014-08-29,2014,0,10,1,1,0,0,34,2014 Summer,2014 Summer,No Quarter,No Quarter,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2014-08-29,2014,0,11,1,1,0,0,54,2014 Summer,2014 Summer,Ha Ha Ha,Ha Ha Ha,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2014-08-29,2014,0,6,1,1,0,0,7,2014 Summer,2014 Summer,Nellie Kane,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2014-08-29,2014,0,7,1,1,0,0,56,2014 Summer,2014 Summer,Guyute,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2014-08-29,2014,0,8,1,1,0,0,0,2014 Summer,2014 Summer,The Line,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2014-08-29,2014,0,9,2,1,0,0,2,2014 Summer,2014 Summer,Ocelot,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2014-08-29,2014,0,10,1,1,0,0,34,2014 Summer,2014 Summer,No Quarter,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2014-08-29,2014,0,11,1,1,0,0,54,2014 Summer,2014 Summer,Ha Ha Ha,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2014-08-29,2014,0,12,4,1,0,0,1,2014 Summer,2014 Summer,Suzy Greenberg,Suzy,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2014-08-29,2014,0,13,2,2,0,0,3,2014 Summer,2014 Summer,46 Days,46 Days,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2014-08-29,2014,0,13,2,2,0,0,3,2014 Summer,2014 Summer,46 Days,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2014-08-29,2014,0,14,2,2,0,0,1,2014 Summer,2014 Summer,Back on the Train,BOTT,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2014-08-29,2014,0,15,2,2,0,0,2,2014 Summer,2014 Summer,Simple,Simple,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2014-08-29,2014,0,16,2,2,0,0,2,2014 Summer,2014 Summer,Ghost,Ghost,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2014-08-29,2014,0,15,2,2,0,0,2,2014 Summer,2014 Summer,Simple,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2014-08-29,2014,0,16,2,2,0,0,2,2014 Summer,2014 Summer,Ghost,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2014-08-29,2014,0,17,2,2,0,0,4,2014 Summer,2014 Summer,Backwards Down the Number Line,BDTNL,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2014-08-29,2014,0,18,2,2,0,0,1,2014 Summer,2014 Summer,Harry Hood,Hood,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2014-08-29,2014,0,19,2,2,0,0,2,2014 Summer,2014 Summer,Wading in the Velvet Sea,Velvet Sea,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2014-08-29,2014,0,20,5,2,0,0,3,2014 Summer,2014 Summer,Run Like an Antelope,Antelope,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2014-08-29,2014,0,21,6,e,0,0,3,2014 Summer,2014 Summer,Character Zero,Character Zero,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2014-08-30,2014,0,1,1,1,0,0,4,2014 Summer,2014 Summer,Free,Free,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2014-08-29,2014,0,21,6,e,0,0,3,2014 Summer,2014 Summer,Character Zero,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2014-08-30,2014,0,1,1,1,0,0,4,2014 Summer,2014 Summer,Free,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2014-08-30,2014,0,2,1,1,0,0,4,2014 Summer,2014 Summer,The Moma Dance,Moma,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2014-08-30,2014,0,3,2,1,0,0,12,2014 Summer,2014 Summer,Halley's Comet,Halley's,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2014-08-30,2014,0,4,1,1,0,0,2,2014 Summer,2014 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2014-08-30,2014,0,5,2,1,0,0,2,2014 Summer,2014 Summer,555,555,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2014-08-30,2014,0,6,2,1,0,0,4,2014 Summer,2014 Summer,Rift,Rift,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2014-08-30,2014,0,5,2,1,0,0,2,2014 Summer,2014 Summer,555,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2014-08-30,2014,0,6,2,1,0,0,4,2014 Summer,2014 Summer,Rift,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2014-08-30,2014,0,7,1,1,0,0,3,2014 Summer,2014 Summer,Sample in a Jar,Sample,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2014-08-30,2014,0,8,1,1,0,0,3,2014 Summer,2014 Summer,Devotion To a Dream,Devotion To a Dream,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2014-08-30,2014,0,9,2,1,0,0,4,2014 Summer,2014 Summer,Yarmouth Road,Yarmouth Road,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2014-08-30,2014,0,10,1,1,0,0,2,2014 Summer,2014 Summer,Sparkle,Sparkle,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2014-08-30,2014,0,11,2,1,0,0,3,2014 Summer,2014 Summer,Wingsuit,Wingsuit,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2014-08-30,2014,0,8,1,1,0,0,3,2014 Summer,2014 Summer,Devotion To a Dream,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2014-08-30,2014,0,9,2,1,0,0,4,2014 Summer,2014 Summer,Yarmouth Road,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2014-08-30,2014,0,10,1,1,0,0,2,2014 Summer,2014 Summer,Sparkle,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2014-08-30,2014,0,11,2,1,0,0,3,2014 Summer,2014 Summer,Wingsuit,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2014-08-30,2014,0,12,1,1,0,0,5,2014 Summer,2014 Summer,David Bowie,Bowie,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2014-08-30,2014,0,13,4,1,0,0,3,2014 Summer,2014 Summer,Cavern,Cavern,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2014-08-30,2014,0,13,4,1,0,0,3,2014 Summer,2014 Summer,Cavern,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2014-08-30,2014,0,14,3,2,0,0,4,2014 Summer,2014 Summer,Down with Disease,DwD,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
 2014-08-30,2014,0,15,2,2,0,0,77,2014 Summer,2014 Summer,What's the Use?,WTU?,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2014-08-30,2014,0,16,2,2,0,0,3,2014 Summer,2014 Summer,Carini,Carini,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2014-08-30,2014,0,17,2,2,0,0,2,2014 Summer,2014 Summer,Light,Light,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2014-08-30,2014,0,18,2,2,0,0,2,2014 Summer,2014 Summer,Fuego,Fuego,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2014-08-30,2014,0,16,2,2,0,0,3,2014 Summer,2014 Summer,Carini,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2014-08-30,2014,0,17,2,2,0,0,2,2014 Summer,2014 Summer,Light,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2014-08-30,2014,0,18,2,2,0,0,2,2014 Summer,2014 Summer,Fuego,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2014-08-30,2014,0,19,2,2,0,0,4,2014 Summer,2014 Summer,Slave to the Traffic Light,Slave,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2014-08-30,2014,0,20,2,2,0,0,5,2014 Summer,2014 Summer,Meatstick,Meatstick,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2014-08-30,2014,0,21,5,2,0,0,39,2014 Summer,2014 Summer,Bold As Love,Bold As Love,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2014-08-30,2014,0,20,2,2,0,0,5,2014 Summer,2014 Summer,Meatstick,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2014-08-30,2014,0,21,5,2,0,0,39,2014 Summer,2014 Summer,Bold As Love,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2014-08-30,2014,0,22,1,e,0,0,67,2014 Summer,2014 Summer,The Horse,Horse,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2014-08-30,2014,0,23,1,e,0,0,10,2014 Summer,2014 Summer,Silent in the Morning,Silent,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2014-08-30,2014,0,24,6,e,0,0,2,2014 Summer,2014 Summer,Fluffhead,Fluffhead,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2014-08-30,2014,0,24,6,e,0,0,2,2014 Summer,2014 Summer,Fluffhead,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2014-08-31,2014,0,1,1,1,0,0,8,2014 Summer,2014 Summer,The Curtain With,Curtain With,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2014-08-31,2014,0,1,6,1,0,0,11,Not Part of a Tour,No Tour,Oh Atlanta,Oh Atlanta,1,Cervantes,Denver,CO,USA,
-2014-08-31,2014,0,2,1,1,0,0,9,2014 Summer,2014 Summer,Wombat,Wombat,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2014-08-31,2014,0,1,6,1,0,0,11,Not Part of a Tour,No Tour,Oh Atlanta,,1,Cervantes,Denver,CO,USA,
+2014-08-31,2014,0,2,1,1,0,0,9,2014 Summer,2014 Summer,Wombat,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2014-08-31,2014,0,3,1,1,0,0,4,2014 Summer,2014 Summer,Kill Devil Falls,KDF,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2014-08-31,2014,0,4,2,1,0,0,5,2014 Summer,2014 Summer,Bouncing Around the Room,Bouncin',1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2014-08-31,2014,0,5,1,1,0,0,4,2014 Summer,2014 Summer,Poor Heart,Poor Heart,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2014-08-31,2014,0,5,1,1,0,0,4,2014 Summer,2014 Summer,Poor Heart,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2014-08-31,2014,0,6,1,1,0,0,7,2014 Summer,2014 Summer,A Song I Heard the Ocean Sing,ASIHTOS,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2014-08-31,2014,0,7,1,1,0,0,9,2014 Summer,2014 Summer,Lawn Boy,Lawn Boy,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2014-08-31,2014,0,7,1,1,0,0,9,2014 Summer,2014 Summer,Lawn Boy,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2014-08-31,2014,0,8,1,1,0,0,5,2014 Summer,2014 Summer,Wolfman's Brother,Wolfman's,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2014-08-31,2014,0,9,1,1,0,0,5,2014 Summer,2014 Summer,Waiting All Night,Waiting All Night,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2014-08-31,2014,0,10,1,1,0,0,10,2014 Summer,2014 Summer,Winterqueen,Winterqueen,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2014-08-31,2014,0,11,1,1,0,0,4,2014 Summer,2014 Summer,Funky Bitch,Funky Bitch,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2014-08-31,2014,0,12,2,1,0,0,5,2014 Summer,2014 Summer,Tube,Tube,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2014-08-31,2014,0,13,4,1,0,0,4,2014 Summer,2014 Summer,Possum,Possum,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2014-08-31,2014,0,9,1,1,0,0,5,2014 Summer,2014 Summer,Waiting All Night,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2014-08-31,2014,0,10,1,1,0,0,10,2014 Summer,2014 Summer,Winterqueen,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2014-08-31,2014,0,11,1,1,0,0,4,2014 Summer,2014 Summer,Funky Bitch,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2014-08-31,2014,0,12,2,1,0,0,5,2014 Summer,2014 Summer,Tube,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2014-08-31,2014,0,13,4,1,0,0,4,2014 Summer,2014 Summer,Possum,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2014-08-31,2014,0,14,2,2,0,0,3,2014 Summer,2014 Summer,Chalk Dust Torture,CDT,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2014-08-31,2014,0,15,2,2,0,0,3,2014 Summer,2014 Summer,Twist,Twist,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2014-08-31,2014,0,15,2,2,0,0,3,2014 Summer,2014 Summer,Twist,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2014-08-31,2014,0,16,2,2,0,0,3,2014 Summer,2014 Summer,The Wedge,Wedge,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2014-08-31,2014,0,17,3,2,0,0,5,2014 Summer,2014 Summer,Tweezer,Tweezer,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
-2014-08-31,2014,0,18,2,2,0,0,4,2014 Summer,2014 Summer,Sand,Sand,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2014-08-31,2014,0,19,3,2,0,0,6,2014 Summer,2014 Summer,Piper,Piper,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
-2014-08-31,2014,0,20,2,2,0,0,4,2014 Summer,2014 Summer,Joy,Joy,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2014-08-31,2014,0,17,3,2,0,0,5,2014 Summer,2014 Summer,Tweezer,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2014-08-31,2014,0,18,2,2,0,0,4,2014 Summer,2014 Summer,Sand,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2014-08-31,2014,0,19,3,2,0,0,6,2014 Summer,2014 Summer,Piper,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2014-08-31,2014,0,20,2,2,0,0,4,2014 Summer,2014 Summer,Joy,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2014-08-31,2014,0,21,2,2,0,0,4,2014 Summer,2014 Summer,Mike's Song,Mike's,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2014-08-31,2014,0,22,2,2,0,0,19,2014 Summer,2014 Summer,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2014-08-31,2014,0,23,5,2,0,0,4,2014 Summer,2014 Summer,Weekapaug Groove,Weekapaug,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2014-08-31,2014,0,24,2,e,0,0,10,2014 Summer,2014 Summer,Loving Cup,Loving Cup,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2014-08-31,2014,0,24,2,e,0,0,10,2014 Summer,2014 Summer,Loving Cup,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2014-08-31,2014,0,25,6,e,0,0,5,2014 Summer,2014 Summer,Tweezer Reprise,Tweeprise,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2014-10-17,2014,0,1,1,1,0,0,1,2014 Fall Tour,2014 Fall,Waiting All Night,Waiting All Night,1,Matthew Knight Arena,Eugene,OR,USA,","
-2014-10-17,2014,0,2,2,1,0,0,2,2014 Fall Tour,2014 Fall,Free,Free,1,Matthew Knight Arena,Eugene,OR,USA,>
-2014-10-17,2014,0,3,2,1,0,0,1,2014 Fall Tour,2014 Fall,Poor Heart,Poor Heart,1,Matthew Knight Arena,Eugene,OR,USA,>
+2014-10-17,2014,0,1,1,1,0,0,1,2014 Fall Tour,2014 Fall,Waiting All Night,,1,Matthew Knight Arena,Eugene,OR,USA,","
+2014-10-17,2014,0,2,2,1,0,0,2,2014 Fall Tour,2014 Fall,Free,,1,Matthew Knight Arena,Eugene,OR,USA,>
+2014-10-17,2014,0,3,2,1,0,0,1,2014 Fall Tour,2014 Fall,Poor Heart,,1,Matthew Knight Arena,Eugene,OR,USA,>
 2014-10-17,2014,0,4,1,1,0,0,2,2014 Fall Tour,2014 Fall,Sample in a Jar,Sample,1,Matthew Knight Arena,Eugene,OR,USA,","
-2014-10-17,2014,0,5,1,1,0,0,24,2014 Fall Tour,2014 Fall,Strange Design,Strange Design,1,Matthew Knight Arena,Eugene,OR,USA,","
-2014-10-17,2014,0,6,1,1,0,0,2,2014 Fall Tour,2014 Fall,555,555,1,Matthew Knight Arena,Eugene,OR,USA,","
+2014-10-17,2014,0,5,1,1,0,0,24,2014 Fall Tour,2014 Fall,Strange Design,,1,Matthew Knight Arena,Eugene,OR,USA,","
+2014-10-17,2014,0,6,1,1,0,0,2,2014 Fall Tour,2014 Fall,555,,1,Matthew Knight Arena,Eugene,OR,USA,","
 2014-10-17,2014,0,7,2,1,0,0,1,2014 Fall Tour,2014 Fall,Bouncing Around the Room,Bouncin',1,Matthew Knight Arena,Eugene,OR,USA,>
-2014-10-17,2014,0,8,1,1,0,0,5,2014 Fall Tour,2014 Fall,Reba,Reba,1,Matthew Knight Arena,Eugene,OR,USA,","
-2014-10-17,2014,0,9,1,1,0,0,10,2014 Fall Tour,2014 Fall,Roggae,Roggae,1,Matthew Knight Arena,Eugene,OR,USA,","
-2014-10-17,2014,0,10,3,1,0,0,3,2014 Fall Tour,2014 Fall,Simple,Simple,1,Matthew Knight Arena,Eugene,OR,USA,->
-2014-10-17,2014,0,11,1,1,0,0,5,2014 Fall Tour,2014 Fall,Maze,Maze,1,Matthew Knight Arena,Eugene,OR,USA,","
+2014-10-17,2014,0,8,1,1,0,0,5,2014 Fall Tour,2014 Fall,Reba,,1,Matthew Knight Arena,Eugene,OR,USA,","
+2014-10-17,2014,0,9,1,1,0,0,10,2014 Fall Tour,2014 Fall,Roggae,,1,Matthew Knight Arena,Eugene,OR,USA,","
+2014-10-17,2014,0,10,3,1,0,0,3,2014 Fall Tour,2014 Fall,Simple,,1,Matthew Knight Arena,Eugene,OR,USA,->
+2014-10-17,2014,0,11,1,1,0,0,5,2014 Fall Tour,2014 Fall,Maze,,1,Matthew Knight Arena,Eugene,OR,USA,","
 2014-10-17,2014,0,12,4,1,0,0,8,2014 Fall Tour,2014 Fall,The Squirming Coil,Coil,1,Matthew Knight Arena,Eugene,OR,USA,
-2014-10-17,2014,0,13,3,2,0,0,2,2014 Fall Tour,2014 Fall,Carini,Carini,1,Matthew Knight Arena,Eugene,OR,USA,->
-2014-10-17,2014,0,14,1,2,0,0,1666,2014 Fall Tour,2014 Fall,Plasma,Plasma,0,Matthew Knight Arena,Eugene,OR,USA,","
-2014-10-17,2014,0,15,1,2,0,0,24,2014 Fall Tour,2014 Fall,Farmhouse,Farmhouse,1,Matthew Knight Arena,Eugene,OR,USA,","
-2014-10-17,2014,0,16,2,2,0,0,3,2014 Fall Tour,2014 Fall,Halfway to the Moon,Halfway to the Moon,1,Matthew Knight Arena,Eugene,OR,USA,>
-2014-10-17,2014,0,17,1,2,0,0,1,2014 Fall Tour,2014 Fall,Twist,Twist,1,Matthew Knight Arena,Eugene,OR,USA,","
+2014-10-17,2014,0,13,3,2,0,0,2,2014 Fall Tour,2014 Fall,Carini,,1,Matthew Knight Arena,Eugene,OR,USA,->
+2014-10-17,2014,0,14,1,2,0,0,1666,2014 Fall Tour,2014 Fall,Plasma,,0,Matthew Knight Arena,Eugene,OR,USA,","
+2014-10-17,2014,0,15,1,2,0,0,24,2014 Fall Tour,2014 Fall,Farmhouse,,1,Matthew Knight Arena,Eugene,OR,USA,","
+2014-10-17,2014,0,16,2,2,0,0,3,2014 Fall Tour,2014 Fall,Halfway to the Moon,,1,Matthew Knight Arena,Eugene,OR,USA,>
+2014-10-17,2014,0,17,1,2,0,0,1,2014 Fall Tour,2014 Fall,Twist,,1,Matthew Knight Arena,Eugene,OR,USA,","
 2014-10-17,2014,0,18,2,2,0,0,20,2014 Fall Tour,2014 Fall,Crosseyed and Painless,C&amp;P,0,Matthew Knight Arena,Eugene,OR,USA,>
 2014-10-17,2014,0,19,2,2,0,0,3,2014 Fall Tour,2014 Fall,Harry Hood,Hood,1,Matthew Knight Arena,Eugene,OR,USA,>
-2014-10-17,2014,0,20,5,2,0,0,38,2014 Fall Tour,2014 Fall,Rocky Top,Rocky Top,0,Matthew Knight Arena,Eugene,OR,USA,
-2014-10-17,2014,0,21,1,e,0,0,2,2014 Fall Tour,2014 Fall,Wingsuit,Wingsuit,1,Matthew Knight Arena,Eugene,OR,USA,","
-2014-10-17,2014,0,22,2,e,0,0,32,2014 Fall Tour,2014 Fall,Sleeping Monkey,Sleeping Monkey,1,Matthew Knight Arena,Eugene,OR,USA,>
+2014-10-17,2014,0,20,5,2,0,0,38,2014 Fall Tour,2014 Fall,Rocky Top,,0,Matthew Knight Arena,Eugene,OR,USA,
+2014-10-17,2014,0,21,1,e,0,0,2,2014 Fall Tour,2014 Fall,Wingsuit,,1,Matthew Knight Arena,Eugene,OR,USA,","
+2014-10-17,2014,0,22,2,e,0,0,32,2014 Fall Tour,2014 Fall,Sleeping Monkey,,1,Matthew Knight Arena,Eugene,OR,USA,>
 2014-10-17,2014,0,23,6,e,0,0,5,2014 Fall Tour,2014 Fall,Quinn the Eskimo (The Mighty Quinn),Quinn,0,Matthew Knight Arena,Eugene,OR,USA,
-2014-10-18,2014,0,1,1,1,0,0,3,2014 Fall Tour,2014 Fall,Cavern,Cavern,1,Key Arena,Seattle,WA,USA,","
-2014-10-18,2014,0,2,2,1,0,0,10,2014 Fall Tour,2014 Fall,Wilson,Wilson,1,Key Arena,Seattle,WA,USA,>
-2014-10-18,2014,0,3,1,1,0,0,3,2014 Fall Tour,2014 Fall,Rift,Rift,1,Key Arena,Seattle,WA,USA,","
+2014-10-18,2014,0,1,1,1,0,0,3,2014 Fall Tour,2014 Fall,Cavern,,1,Key Arena,Seattle,WA,USA,","
+2014-10-18,2014,0,2,2,1,0,0,10,2014 Fall Tour,2014 Fall,Wilson,,1,Key Arena,Seattle,WA,USA,>
+2014-10-18,2014,0,3,1,1,0,0,3,2014 Fall Tour,2014 Fall,Rift,,1,Key Arena,Seattle,WA,USA,","
 2014-10-18,2014,0,4,1,1,0,0,3,2014 Fall Tour,2014 Fall,The Moma Dance,Moma,1,Key Arena,Seattle,WA,USA,","
-2014-10-18,2014,0,5,1,1,0,0,4,2014 Fall Tour,2014 Fall,The Line,The Line,1,Key Arena,Seattle,WA,USA,","
-2014-10-18,2014,0,6,1,1,0,0,21,2014 Fall Tour,2014 Fall,Sugar Shack,Sugar Shack,1,Key Arena,Seattle,WA,USA,","
-2014-10-18,2014,0,7,1,1,0,0,2,2014 Fall Tour,2014 Fall,Lawn Boy,Lawn Boy,1,Key Arena,Seattle,WA,USA,","
+2014-10-18,2014,0,5,1,1,0,0,4,2014 Fall Tour,2014 Fall,The Line,,1,Key Arena,Seattle,WA,USA,","
+2014-10-18,2014,0,6,1,1,0,0,21,2014 Fall Tour,2014 Fall,Sugar Shack,,1,Key Arena,Seattle,WA,USA,","
+2014-10-18,2014,0,7,1,1,0,0,2,2014 Fall Tour,2014 Fall,Lawn Boy,,1,Key Arena,Seattle,WA,USA,","
 2014-10-18,2014,0,8,1,1,0,0,2,2014 Fall Tour,2014 Fall,Kill Devil Falls,KDF,1,Key Arena,Seattle,WA,USA,","
 2014-10-18,2014,0,9,1,1,0,0,2,2014 Fall Tour,2014 Fall,Wolfman's Brother,Wolfman's,1,Key Arena,Seattle,WA,USA,","
-2014-10-18,2014,0,10,2,1,0,0,3,2014 Fall Tour,2014 Fall,Sparkle,Sparkle,1,Key Arena,Seattle,WA,USA,>
+2014-10-18,2014,0,10,2,1,0,0,3,2014 Fall Tour,2014 Fall,Sparkle,,1,Key Arena,Seattle,WA,USA,>
 2014-10-18,2014,0,11,4,1,0,0,5,2014 Fall Tour,2014 Fall,Bathtub Gin,Gin,1,Key Arena,Seattle,WA,USA,
 2014-10-18,2014,0,12,2,2,0,0,3,2014 Fall Tour,2014 Fall,Down with Disease,DwD,1,Key Arena,Seattle,WA,USA,>
-2014-10-18,2014,0,13,2,2,0,0,15,2014 Fall Tour,2014 Fall,Golden Age,Golden Age,0,Key Arena,Seattle,WA,USA,>
-2014-10-18,2014,0,14,2,2,0,0,3,2014 Fall Tour,2014 Fall,Fuego,Fuego,1,Key Arena,Seattle,WA,USA,>
-2014-10-18,2014,0,15,3,2,0,0,3,2014 Fall Tour,2014 Fall,Light,Light,0,Key Arena,Seattle,WA,USA,->
-2014-10-18,2014,0,16,3,2,0,0,6,2014 Fall Tour,2014 Fall,Cities,Cities,0,Key Arena,Seattle,WA,USA,->
-2014-10-18,2014,0,17,2,2,0,0,4,2014 Fall Tour,2014 Fall,46 Days,46 Days,1,Key Arena,Seattle,WA,USA,>
-2014-10-18,2014,0,18,2,2,0,0,2,2014 Fall Tour,2014 Fall,Sand,Sand,0,Key Arena,Seattle,WA,USA,>
+2014-10-18,2014,0,13,2,2,0,0,15,2014 Fall Tour,2014 Fall,Golden Age,,0,Key Arena,Seattle,WA,USA,>
+2014-10-18,2014,0,14,2,2,0,0,3,2014 Fall Tour,2014 Fall,Fuego,,1,Key Arena,Seattle,WA,USA,>
+2014-10-18,2014,0,15,3,2,0,0,3,2014 Fall Tour,2014 Fall,Light,,0,Key Arena,Seattle,WA,USA,->
+2014-10-18,2014,0,16,3,2,0,0,6,2014 Fall Tour,2014 Fall,Cities,,0,Key Arena,Seattle,WA,USA,->
+2014-10-18,2014,0,17,2,2,0,0,4,2014 Fall Tour,2014 Fall,46 Days,,1,Key Arena,Seattle,WA,USA,>
+2014-10-18,2014,0,18,2,2,0,0,2,2014 Fall Tour,2014 Fall,Sand,,0,Key Arena,Seattle,WA,USA,>
 2014-10-18,2014,0,19,1,2,0,0,4,2014 Fall Tour,2014 Fall,Backwards Down the Number Line,BDTNL,0,Key Arena,Seattle,WA,USA,","
-2014-10-18,2014,0,20,5,2,0,0,3,2014 Fall Tour,2014 Fall,Bold As Love,Bold As Love,0,Key Arena,Seattle,WA,USA,
-2014-10-18,2014,0,21,2,e,0,0,3,2014 Fall Tour,2014 Fall,Meatstick,Meatstick,1,Key Arena,Seattle,WA,USA,>
-2014-10-18,2014,0,22,6,e,0,0,4,2014 Fall Tour,2014 Fall,Character Zero,Character Zero,1,Key Arena,Seattle,WA,USA,
-2014-10-21,2014,0,1,1,1,0,0,5,2014 Fall Tour,2014 Fall,Stash,Stash,1,Santa Barbara Bowl,Santa Barbara,CA,USA,","
-2014-10-21,2014,0,2,1,1,0,0,3,2014 Fall Tour,2014 Fall,Possum,Possum,1,Santa Barbara Bowl,Santa Barbara,CA,USA,","
-2014-10-21,2014,0,3,2,1,0,0,5,2014 Fall Tour,2014 Fall,Ocelot,Ocelot,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
-2014-10-21,2014,0,4,2,1,0,0,11,2014 Fall Tour,2014 Fall,NICU,NICU,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
+2014-10-18,2014,0,20,5,2,0,0,3,2014 Fall Tour,2014 Fall,Bold As Love,,0,Key Arena,Seattle,WA,USA,
+2014-10-18,2014,0,21,2,e,0,0,3,2014 Fall Tour,2014 Fall,Meatstick,,1,Key Arena,Seattle,WA,USA,>
+2014-10-18,2014,0,22,6,e,0,0,4,2014 Fall Tour,2014 Fall,Character Zero,,1,Key Arena,Seattle,WA,USA,
+2014-10-21,2014,0,1,1,1,0,0,5,2014 Fall Tour,2014 Fall,Stash,,1,Santa Barbara Bowl,Santa Barbara,CA,USA,","
+2014-10-21,2014,0,2,1,1,0,0,3,2014 Fall Tour,2014 Fall,Possum,,1,Santa Barbara Bowl,Santa Barbara,CA,USA,","
+2014-10-21,2014,0,3,2,1,0,0,5,2014 Fall Tour,2014 Fall,Ocelot,,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
+2014-10-21,2014,0,4,2,1,0,0,11,2014 Fall Tour,2014 Fall,NICU,,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
 2014-10-21,2014,0,5,1,1,0,0,5,2014 Fall Tour,2014 Fall,Back on the Train,BOTT,0,Santa Barbara Bowl,Santa Barbara,CA,USA,","
 2014-10-21,2014,0,6,1,1,0,0,21,2014 Fall Tour,2014 Fall,Limb By Limb,LxL,1,Santa Barbara Bowl,Santa Barbara,CA,USA,","
-2014-10-21,2014,0,7,1,1,0,0,2,2014 Fall Tour,2014 Fall,Waiting All Night,Waiting All Night,1,Santa Barbara Bowl,Santa Barbara,CA,USA,","
-2014-10-21,2014,0,8,1,1,0,0,4,2014 Fall Tour,2014 Fall,Yarmouth Road,Yarmouth Road,1,Santa Barbara Bowl,Santa Barbara,CA,USA,","
+2014-10-21,2014,0,7,1,1,0,0,2,2014 Fall Tour,2014 Fall,Waiting All Night,,1,Santa Barbara Bowl,Santa Barbara,CA,USA,","
+2014-10-21,2014,0,8,1,1,0,0,4,2014 Fall Tour,2014 Fall,Yarmouth Road,,1,Santa Barbara Bowl,Santa Barbara,CA,USA,","
 2014-10-21,2014,0,9,1,1,0,0,13,2014 Fall Tour,2014 Fall,When the Circus Comes,Circus,0,Santa Barbara Bowl,Santa Barbara,CA,USA,","
-2014-10-21,2014,0,10,1,1,0,0,8,2014 Fall Tour,2014 Fall,Heavy Things,Heavy Things,1,Santa Barbara Bowl,Santa Barbara,CA,USA,","
+2014-10-21,2014,0,10,1,1,0,0,8,2014 Fall Tour,2014 Fall,Heavy Things,,1,Santa Barbara Bowl,Santa Barbara,CA,USA,","
 2014-10-21,2014,0,11,4,1,0,0,4,2014 Fall Tour,2014 Fall,Stealing Time From the Faulty Plan,STFTFP,1,Santa Barbara Bowl,Santa Barbara,CA,USA,
 2014-10-21,2014,0,12,3,2,0,0,3,2014 Fall Tour,2014 Fall,Chalk Dust Torture,CDT,1,Santa Barbara Bowl,Santa Barbara,CA,USA,->
-2014-10-21,2014,0,13,2,2,0,0,5,2014 Fall Tour,2014 Fall,Ghost,Ghost,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
+2014-10-21,2014,0,13,2,2,0,0,5,2014 Fall Tour,2014 Fall,Ghost,,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
 2014-10-21,2014,0,14,1,2,0,0,10,2014 Fall Tour,2014 Fall,Birds of a Feather,BOAF,1,Santa Barbara Bowl,Santa Barbara,CA,USA,","
-2014-10-21,2014,0,15,1,2,0,0,3,2014 Fall Tour,2014 Fall,Wombat,Wombat,1,Santa Barbara Bowl,Santa Barbara,CA,USA,","
-2014-10-21,2014,0,16,3,2,0,0,3,2014 Fall Tour,2014 Fall,Tweezer,Tweezer,1,Santa Barbara Bowl,Santa Barbara,CA,USA,->
-2014-10-21,2014,0,17,2,2,0,0,7,2014 Fall Tour,2014 Fall,Julius,Julius,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
-2014-10-21,2014,0,18,2,2,0,0,3,2014 Fall Tour,2014 Fall,Piper,Piper,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
+2014-10-21,2014,0,15,1,2,0,0,3,2014 Fall Tour,2014 Fall,Wombat,,1,Santa Barbara Bowl,Santa Barbara,CA,USA,","
+2014-10-21,2014,0,16,3,2,0,0,3,2014 Fall Tour,2014 Fall,Tweezer,,1,Santa Barbara Bowl,Santa Barbara,CA,USA,->
+2014-10-21,2014,0,17,2,2,0,0,7,2014 Fall Tour,2014 Fall,Julius,,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
+2014-10-21,2014,0,18,2,2,0,0,3,2014 Fall Tour,2014 Fall,Piper,,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
 2014-10-21,2014,0,19,2,2,0,0,5,2014 Fall Tour,2014 Fall,Wading in the Velvet Sea,Velvet Sea,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
 2014-10-21,2014,0,20,5,2,0,0,5,2014 Fall Tour,2014 Fall,Suzy Greenberg,Suzy,1,Santa Barbara Bowl,Santa Barbara,CA,USA,
 2014-10-21,2014,0,21,2,e,0,0,8,2014 Fall Tour,2014 Fall,Boogie On Reggae Woman,Boogie On,0,Santa Barbara Bowl,Santa Barbara,CA,USA,>
 2014-10-21,2014,0,22,6,e,0,0,3,2014 Fall Tour,2014 Fall,Tweezer Reprise,Tweeprise,1,Santa Barbara Bowl,Santa Barbara,CA,USA,
-2014-10-22,2014,0,1,1,1,0,0,94,2014 Fall Tour,2014 Fall,Soul Shakedown Party,Soul Shakedown Party,0,Santa Barbara Bowl,Santa Barbara,CA,USA,","
+2014-10-22,2014,0,1,1,1,0,0,94,2014 Fall Tour,2014 Fall,Soul Shakedown Party,,0,Santa Barbara Bowl,Santa Barbara,CA,USA,","
 2014-10-22,2014,0,2,1,1,0,0,4,2014 Fall Tour,2014 Fall,The Wedge,Wedge,1,Santa Barbara Bowl,Santa Barbara,CA,USA,","
-2014-10-22,2014,0,3,1,1,0,0,6,2014 Fall Tour,2014 Fall,Undermind,Undermind,0,Santa Barbara Bowl,Santa Barbara,CA,USA,","
-2014-10-22,2014,0,4,2,1,0,0,23,2014 Fall Tour,2014 Fall,Horn,Horn,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
-2014-10-22,2014,0,5,1,1,0,0,22,2014 Fall Tour,2014 Fall,Ya Mar,Ya Mar,0,Santa Barbara Bowl,Santa Barbara,CA,USA,","
+2014-10-22,2014,0,3,1,1,0,0,6,2014 Fall Tour,2014 Fall,Undermind,,0,Santa Barbara Bowl,Santa Barbara,CA,USA,","
+2014-10-22,2014,0,4,2,1,0,0,23,2014 Fall Tour,2014 Fall,Horn,,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
+2014-10-22,2014,0,5,1,1,0,0,22,2014 Fall Tour,2014 Fall,Ya Mar,,0,Santa Barbara Bowl,Santa Barbara,CA,USA,","
 2014-10-22,2014,0,6,1,1,0,0,36,2014 Fall Tour,2014 Fall,Jesus Just Left Chicago,JJLC,0,Santa Barbara Bowl,Santa Barbara,CA,USA,","
 2014-10-22,2014,0,7,1,1,0,0,4,2014 Fall Tour,2014 Fall,A Song I Heard the Ocean Sing,ASIHTOS,1,Santa Barbara Bowl,Santa Barbara,CA,USA,","
-2014-10-22,2014,0,8,2,1,0,0,4,2014 Fall Tour,2014 Fall,Winterqueen,Winterqueen,0,Santa Barbara Bowl,Santa Barbara,CA,USA,>
+2014-10-22,2014,0,8,2,1,0,0,4,2014 Fall Tour,2014 Fall,Winterqueen,,0,Santa Barbara Bowl,Santa Barbara,CA,USA,>
 2014-10-22,2014,0,9,1,1,0,0,14,2014 Fall Tour,2014 Fall,"My Friend, My Friend",My Friend,1,Santa Barbara Bowl,Santa Barbara,CA,USA,","
 2014-10-22,2014,0,10,1,1,0,0,11,2014 Fall Tour,2014 Fall,Split Open and Melt,SOAMelt,1,Santa Barbara Bowl,Santa Barbara,CA,USA,","
 2014-10-22,2014,0,11,4,1,0,0,15,2014 Fall Tour,2014 Fall,Walls of the Cave,WotC,1,Santa Barbara Bowl,Santa Barbara,CA,USA,
-2014-10-22,2014,0,12,2,2,0,0,40,2014 Fall Tour,2014 Fall,Drowned,Drowned,0,Santa Barbara Bowl,Santa Barbara,CA,USA,>
+2014-10-22,2014,0,12,2,2,0,0,40,2014 Fall Tour,2014 Fall,Drowned,,0,Santa Barbara Bowl,Santa Barbara,CA,USA,>
 2014-10-22,2014,0,13,3,2,0,0,9,2014 Fall Tour,2014 Fall,Theme From the Bottom,Theme,1,Santa Barbara Bowl,Santa Barbara,CA,USA,->
-2014-10-22,2014,0,14,2,2,0,0,13,2014 Fall Tour,2014 Fall,Steam,Steam,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
-2014-10-22,2014,0,15,2,2,0,0,11,2014 Fall Tour,2014 Fall,Waves,Waves,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
-2014-10-22,2014,0,16,2,2,0,0,16,2014 Fall Tour,2014 Fall,Twenty Years Later,Twenty Years Later,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
+2014-10-22,2014,0,14,2,2,0,0,13,2014 Fall Tour,2014 Fall,Steam,,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
+2014-10-22,2014,0,15,2,2,0,0,11,2014 Fall Tour,2014 Fall,Waves,,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
+2014-10-22,2014,0,16,2,2,0,0,16,2014 Fall Tour,2014 Fall,Twenty Years Later,,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
 2014-10-22,2014,0,17,1,2,0,0,15,2014 Fall Tour,2014 Fall,Scent of a Mule,SOAMule,1,Santa Barbara Bowl,Santa Barbara,CA,USA,","
 2014-10-22,2014,0,18,2,2,0,0,9,2014 Fall Tour,2014 Fall,Also Sprach Zarathustra,2001,0,Santa Barbara Bowl,Santa Barbara,CA,USA,>
 2014-10-22,2014,0,19,2,2,0,0,4,2014 Fall Tour,2014 Fall,Mike's Song,Mike's,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
-2014-10-22,2014,0,20,2,2,0,0,15,2014 Fall Tour,2014 Fall,Runaway Jim,Runaway Jim,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
+2014-10-22,2014,0,20,2,2,0,0,15,2014 Fall Tour,2014 Fall,Runaway Jim,,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
 2014-10-22,2014,0,21,5,2,0,0,4,2014 Fall Tour,2014 Fall,Weekapaug Groove,Weekapaug,1,Santa Barbara Bowl,Santa Barbara,CA,USA,
 2014-10-22,2014,0,22,2,e,0,0,5,2014 Fall Tour,2014 Fall,The Horse,Horse,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
 2014-10-22,2014,0,23,2,e,0,0,5,2014 Fall Tour,2014 Fall,Silent in the Morning,Silent,1,Santa Barbara Bowl,Santa Barbara,CA,USA,>
 2014-10-22,2014,0,24,6,e,0,0,6,2014 Fall Tour,2014 Fall,Run Like an Antelope,Antelope,1,Santa Barbara Bowl,Santa Barbara,CA,USA,
-2014-10-24,2014,0,1,1,1,0,0,3,2014 Fall Tour,2014 Fall,46 Days,46 Days,1,The Forum,Inglewood,CA,USA,","
-2014-10-24,2014,0,2,1,1,0,0,5,2014 Fall Tour,2014 Fall,Tube,Tube,1,The Forum,Inglewood,CA,USA,","
-2014-10-24,2014,0,3,1,1,0,0,52,2014 Fall Tour,2014 Fall,Train Song,Train Song,1,The Forum,Inglewood,CA,USA,","
-2014-10-24,2014,0,4,2,1,0,0,2,2014 Fall Tour,2014 Fall,Ghost,Ghost,1,The Forum,Inglewood,CA,USA,>
-2014-10-24,2014,0,5,2,1,0,0,3,2014 Fall Tour,2014 Fall,Sparkle,Sparkle,1,The Forum,Inglewood,CA,USA,>
+2014-10-24,2014,0,1,1,1,0,0,3,2014 Fall Tour,2014 Fall,46 Days,,1,The Forum,Inglewood,CA,USA,","
+2014-10-24,2014,0,2,1,1,0,0,5,2014 Fall Tour,2014 Fall,Tube,,1,The Forum,Inglewood,CA,USA,","
+2014-10-24,2014,0,3,1,1,0,0,52,2014 Fall Tour,2014 Fall,Train Song,,1,The Forum,Inglewood,CA,USA,","
+2014-10-24,2014,0,4,2,1,0,0,2,2014 Fall Tour,2014 Fall,Ghost,,1,The Forum,Inglewood,CA,USA,>
+2014-10-24,2014,0,5,2,1,0,0,3,2014 Fall Tour,2014 Fall,Sparkle,,1,The Forum,Inglewood,CA,USA,>
 2014-10-24,2014,0,6,1,1,0,0,4,2014 Fall Tour,2014 Fall,Sample in a Jar,Sample,1,The Forum,Inglewood,CA,USA,","
 2014-10-24,2014,0,7,1,1,0,0,12,2014 Fall Tour,2014 Fall,Divided Sky,Divided,1,The Forum,Inglewood,CA,USA,","
-2014-10-24,2014,0,8,1,1,0,0,3,2014 Fall Tour,2014 Fall,The Line,The Line,1,The Forum,Inglewood,CA,USA,","
-2014-10-24,2014,0,9,2,1,0,0,11,2014 Fall Tour,2014 Fall,It's Ice,It's Ice,1,The Forum,Inglewood,CA,USA,>
+2014-10-24,2014,0,8,1,1,0,0,3,2014 Fall Tour,2014 Fall,The Line,,1,The Forum,Inglewood,CA,USA,","
+2014-10-24,2014,0,9,2,1,0,0,11,2014 Fall Tour,2014 Fall,It's Ice,,1,The Forum,Inglewood,CA,USA,>
 2014-10-24,2014,0,10,2,1,0,0,3,2014 Fall Tour,2014 Fall,Kill Devil Falls,KDF,1,The Forum,Inglewood,CA,USA,>
 2014-10-24,2014,0,11,4,1,0,0,3,2014 Fall Tour,2014 Fall,Bathtub Gin,Gin,1,The Forum,Inglewood,CA,USA,
-2014-10-24,2014,0,12,2,2,0,0,4,2014 Fall Tour,2014 Fall,555,555,1,The Forum,Inglewood,CA,USA,>
+2014-10-24,2014,0,12,2,2,0,0,4,2014 Fall Tour,2014 Fall,555,,1,The Forum,Inglewood,CA,USA,>
 2014-10-24,2014,0,13,2,2,0,0,3,2014 Fall Tour,2014 Fall,Backwards Down the Number Line,BDTNL,0,The Forum,Inglewood,CA,USA,>
 2014-10-24,2014,0,14,2,2,0,0,3,2014 Fall Tour,2014 Fall,Down with Disease,DwD,1,The Forum,Inglewood,CA,USA,>
-2014-10-24,2014,0,15,2,2,0,0,3,2014 Fall Tour,2014 Fall,Fuego,Fuego,1,The Forum,Inglewood,CA,USA,>
-2014-10-24,2014,0,16,2,2,0,0,4,2014 Fall Tour,2014 Fall,Twist,Twist,1,The Forum,Inglewood,CA,USA,>
+2014-10-24,2014,0,15,2,2,0,0,3,2014 Fall Tour,2014 Fall,Fuego,,1,The Forum,Inglewood,CA,USA,>
+2014-10-24,2014,0,16,2,2,0,0,4,2014 Fall Tour,2014 Fall,Twist,,1,The Forum,Inglewood,CA,USA,>
 2014-10-24,2014,0,17,1,2,0,0,4,2014 Fall Tour,2014 Fall,Bouncing Around the Room,Bouncin',1,The Forum,Inglewood,CA,USA,","
 2014-10-24,2014,0,18,1,2,0,0,6,2014 Fall Tour,2014 Fall,David Bowie,Bowie,1,The Forum,Inglewood,CA,USA,","
-2014-10-24,2014,0,19,5,2,0,0,3,2014 Fall Tour,2014 Fall,Character Zero,Character Zero,1,The Forum,Inglewood,CA,USA,
+2014-10-24,2014,0,19,5,2,0,0,3,2014 Fall Tour,2014 Fall,Character Zero,,1,The Forum,Inglewood,CA,USA,
 2014-10-24,2014,0,20,1,e,0,0,4,2014 Fall Tour,2014 Fall,Harry Hood,Hood,1,The Forum,Inglewood,CA,USA,","
-2014-10-24,2014,0,21,6,e,0,0,17,2014 Fall Tour,2014 Fall,Grind,Grind,1,The Forum,Inglewood,CA,USA,
-2014-10-25,2014,0,1,1,1,0,0,7,2014 Fall Tour,2014 Fall,Devotion To a Dream,Devotion To a Dream,1,Sleep Train Amphitheatre,Chula Vista,CA,USA,","
+2014-10-24,2014,0,21,6,e,0,0,17,2014 Fall Tour,2014 Fall,Grind,,1,The Forum,Inglewood,CA,USA,
+2014-10-25,2014,0,1,1,1,0,0,7,2014 Fall Tour,2014 Fall,Devotion To a Dream,,1,Sleep Train Amphitheatre,Chula Vista,CA,USA,","
 2014-10-25,2014,0,2,2,1,0,0,10,2014 Fall Tour,2014 Fall,AC/DC Bag,Bag,1,Sleep Train Amphitheatre,Chula Vista,CA,USA,>
 2014-10-25,2014,0,3,1,1,0,0,14,2014 Fall Tour,2014 Fall,My Sweet One,MSO,1,Sleep Train Amphitheatre,Chula Vista,CA,USA,","
 2014-10-25,2014,0,4,1,1,0,0,4,2014 Fall Tour,2014 Fall,The Moma Dance,Moma,1,Sleep Train Amphitheatre,Chula Vista,CA,USA,","
 2014-10-25,2014,0,5,1,1,0,0,7,2014 Fall Tour,2014 Fall,Halley's Comet,Halley's,1,Sleep Train Amphitheatre,Chula Vista,CA,USA,","
-2014-10-25,2014,0,6,1,1,0,0,6,2014 Fall Tour,2014 Fall,Funky Bitch,Funky Bitch,0,Sleep Train Amphitheatre,Chula Vista,CA,USA,","
+2014-10-25,2014,0,6,1,1,0,0,6,2014 Fall Tour,2014 Fall,Funky Bitch,,0,Sleep Train Amphitheatre,Chula Vista,CA,USA,","
 2014-10-25,2014,0,7,1,1,0,0,4,2014 Fall Tour,2014 Fall,Wolfman's Brother,Wolfman's,1,Sleep Train Amphitheatre,Chula Vista,CA,USA,","
 2014-10-25,2014,0,8,2,1,0,0,62,2014 Fall Tour,2014 Fall,Destiny Unbound,Destiny,1,Sleep Train Amphitheatre,Chula Vista,CA,USA,>
 2014-10-25,2014,0,9,1,1,0,0,13,2014 Fall Tour,2014 Fall,Timber (Jerry the Mule),Timber Ho,0,Sleep Train Amphitheatre,Chula Vista,CA,USA,","
-2014-10-25,2014,0,10,2,1,0,0,17,2014 Fall Tour,2014 Fall,Tela,Tela,1,Sleep Train Amphitheatre,Chula Vista,CA,USA,>
-2014-10-25,2014,0,11,4,1,0,0,5,2014 Fall Tour,2014 Fall,Wingsuit,Wingsuit,1,Sleep Train Amphitheatre,Chula Vista,CA,USA,
-2014-10-25,2014,0,12,2,2,0,0,5,2014 Fall Tour,2014 Fall,Free,Free,1,Sleep Train Amphitheatre,Chula Vista,CA,USA,>
-2014-10-25,2014,0,13,2,2,0,0,4,2014 Fall Tour,2014 Fall,Golden Age,Golden Age,0,Sleep Train Amphitheatre,Chula Vista,CA,USA,>
+2014-10-25,2014,0,10,2,1,0,0,17,2014 Fall Tour,2014 Fall,Tela,,1,Sleep Train Amphitheatre,Chula Vista,CA,USA,>
+2014-10-25,2014,0,11,4,1,0,0,5,2014 Fall Tour,2014 Fall,Wingsuit,,1,Sleep Train Amphitheatre,Chula Vista,CA,USA,
+2014-10-25,2014,0,12,2,2,0,0,5,2014 Fall Tour,2014 Fall,Free,,1,Sleep Train Amphitheatre,Chula Vista,CA,USA,>
+2014-10-25,2014,0,13,2,2,0,0,4,2014 Fall Tour,2014 Fall,Golden Age,,0,Sleep Train Amphitheatre,Chula Vista,CA,USA,>
 2014-10-25,2014,0,14,2,2,0,0,12,2014 Fall Tour,2014 Fall,Gotta Jibboo,Jibboo,0,Sleep Train Amphitheatre,Chula Vista,CA,USA,>
-2014-10-25,2014,0,15,2,2,0,0,5,2014 Fall Tour,2014 Fall,Carini,Carini,1,Sleep Train Amphitheatre,Chula Vista,CA,USA,>
-2014-10-25,2014,0,16,2,2,0,0,3,2014 Fall Tour,2014 Fall,Piper,Piper,1,Sleep Train Amphitheatre,Chula Vista,CA,USA,>
+2014-10-25,2014,0,15,2,2,0,0,5,2014 Fall Tour,2014 Fall,Carini,,1,Sleep Train Amphitheatre,Chula Vista,CA,USA,>
+2014-10-25,2014,0,16,2,2,0,0,3,2014 Fall Tour,2014 Fall,Piper,,1,Sleep Train Amphitheatre,Chula Vista,CA,USA,>
 2014-10-25,2014,0,17,2,2,0,0,11,2014 Fall Tour,2014 Fall,Prince Caspian,Caspian,1,Sleep Train Amphitheatre,Chula Vista,CA,USA,>
-2014-10-25,2014,0,18,3,2,0,0,3,2014 Fall Tour,2014 Fall,Tweezer,Tweezer,1,Sleep Train Amphitheatre,Chula Vista,CA,USA,->
+2014-10-25,2014,0,18,3,2,0,0,3,2014 Fall Tour,2014 Fall,Tweezer,,1,Sleep Train Amphitheatre,Chula Vista,CA,USA,->
 2014-10-25,2014,0,19,2,2,0,0,23,2014 Fall Tour,2014 Fall,Rock and Roll,R&amp;R,0,Sleep Train Amphitheatre,Chula Vista,CA,USA,>
 2014-10-25,2014,0,20,5,2,0,0,10,2014 Fall Tour,2014 Fall,You Enjoy Myself,YEM,1,Sleep Train Amphitheatre,Chula Vista,CA,USA,
 2014-10-25,2014,0,21,2,e,0,0,3,2014 Fall Tour,2014 Fall,Suzy Greenberg,Suzy,1,Sleep Train Amphitheatre,Chula Vista,CA,USA,>
 2014-10-25,2014,0,22,6,e,0,0,3,2014 Fall Tour,2014 Fall,Tweezer Reprise,Tweeprise,1,Sleep Train Amphitheatre,Chula Vista,CA,USA,
-2014-10-27,2014,0,1,1,1,0,0,186,2014 Fall Tour,2014 Fall,Walfredo,Walfredo,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2014-10-27,2014,0,2,2,1,0,0,4,2014 Fall Tour,2014 Fall,Ocelot,Ocelot,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2014-10-27,2014,0,3,1,1,0,0,27,2014 Fall Tour,2014 Fall,Camel Walk,Camel Walk,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2014-10-27,2014,0,4,1,1,0,0,27,2014 Fall Tour,2014 Fall,Axilla,Axilla,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2014-10-27,2014,0,5,1,1,0,0,5,2014 Fall Tour,2014 Fall,Rift,Rift,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2014-10-27,2014,0,6,1,1,0,0,2,2014 Fall Tour,2014 Fall,555,555,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2014-10-27,2014,0,7,1,1,0,0,6,2014 Fall Tour,2014 Fall,Maze,Maze,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2014-10-27,2014,0,8,1,1,0,0,19,2014 Fall Tour,2014 Fall,Brian and Robert,Brian and Robert,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2014-10-27,2014,0,9,1,1,0,0,4,2014 Fall Tour,2014 Fall,Stash,Stash,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2014-10-27,2014,0,10,1,1,0,0,33,2014 Fall Tour,2014 Fall,Party Time,Party Time,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2014-10-27,2014,0,11,4,1,0,0,2,2014 Fall Tour,2014 Fall,46 Days,46 Days,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,
-2014-10-27,2014,0,12,2,2,0,0,5,2014 Fall Tour,2014 Fall,Sand,Sand,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2014-10-27,2014,0,1,1,1,0,0,186,2014 Fall Tour,2014 Fall,Walfredo,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2014-10-27,2014,0,2,2,1,0,0,4,2014 Fall Tour,2014 Fall,Ocelot,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2014-10-27,2014,0,3,1,1,0,0,27,2014 Fall Tour,2014 Fall,Camel Walk,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2014-10-27,2014,0,4,1,1,0,0,27,2014 Fall Tour,2014 Fall,Axilla,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2014-10-27,2014,0,5,1,1,0,0,5,2014 Fall Tour,2014 Fall,Rift,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2014-10-27,2014,0,6,1,1,0,0,2,2014 Fall Tour,2014 Fall,555,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2014-10-27,2014,0,7,1,1,0,0,6,2014 Fall Tour,2014 Fall,Maze,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2014-10-27,2014,0,8,1,1,0,0,19,2014 Fall Tour,2014 Fall,Brian and Robert,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2014-10-27,2014,0,9,1,1,0,0,4,2014 Fall Tour,2014 Fall,Stash,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2014-10-27,2014,0,10,1,1,0,0,33,2014 Fall Tour,2014 Fall,Party Time,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2014-10-27,2014,0,11,4,1,0,0,2,2014 Fall Tour,2014 Fall,46 Days,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,
+2014-10-27,2014,0,12,2,2,0,0,5,2014 Fall Tour,2014 Fall,Sand,,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2014-10-27,2014,0,13,1,2,0,0,4,2014 Fall Tour,2014 Fall,Birds of a Feather,BOAF,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2014-10-27,2014,0,14,1,2,0,0,4,2014 Fall Tour,2014 Fall,Waiting All Night,Waiting All Night,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2014-10-27,2014,0,15,2,2,0,0,2,2014 Fall Tour,2014 Fall,Ghost,Ghost,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2014-10-27,2014,0,16,2,2,0,0,19,2014 Fall Tour,2014 Fall,Bug,Bug,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2014-10-27,2014,0,17,2,2,0,0,13,2014 Fall Tour,2014 Fall,Seven Below,Seven Below,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2014-10-27,2014,0,14,1,2,0,0,4,2014 Fall Tour,2014 Fall,Waiting All Night,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2014-10-27,2014,0,15,2,2,0,0,2,2014 Fall Tour,2014 Fall,Ghost,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2014-10-27,2014,0,16,2,2,0,0,19,2014 Fall Tour,2014 Fall,Bug,,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2014-10-27,2014,0,17,2,2,0,0,13,2014 Fall Tour,2014 Fall,Seven Below,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2014-10-27,2014,0,18,1,2,0,0,9,2014 Fall Tour,2014 Fall,I Didn't Know,IDK,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
 2014-10-27,2014,0,19,1,2,0,0,4,2014 Fall Tour,2014 Fall,Chalk Dust Torture,CDT,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
 2014-10-27,2014,0,20,2,2,0,0,3,2014 Fall Tour,2014 Fall,Also Sprach Zarathustra,2001,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2014-10-27,2014,0,21,5,2,0,0,8,2014 Fall Tour,2014 Fall,Slave to the Traffic Light,Slave,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,
-2014-10-27,2014,0,22,1,e,0,0,1668,2014 Fall Tour,2014 Fall,Take Me Out to the Ballgame,Take Me Out to the Ballgame,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2014-10-27,2014,0,23,1,e,0,0,3,2014 Fall Tour,2014 Fall,Winterqueen,Winterqueen,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2014-10-27,2014,0,22,1,e,0,0,1668,2014 Fall Tour,2014 Fall,Take Me Out to the Ballgame,,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2014-10-27,2014,0,23,1,e,0,0,3,2014 Fall Tour,2014 Fall,Winterqueen,,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
 2014-10-27,2014,0,24,6,e,0,0,47,2014 Fall Tour,2014 Fall,A Day in the Life,ADITL,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,
-2014-10-28,2014,0,1,1,1,0,0,29,2014 Fall Tour,2014 Fall,Crowd Control,Crowd Control,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2014-10-28,2014,0,1,1,1,0,0,29,2014 Fall Tour,2014 Fall,Crowd Control,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
 2014-10-28,2014,0,2,2,1,0,0,4,2014 Fall Tour,2014 Fall,Mike's Song,Mike's,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2014-10-28,2014,0,3,2,1,0,0,39,2014 Fall Tour,2014 Fall,I Am Hydrogen,Hydrogen,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2014-10-28,2014,0,4,1,1,0,0,4,2014 Fall Tour,2014 Fall,Weekapaug Groove,Weekapaug,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2014-10-28,2014,0,5,1,1,0,0,2,2014 Fall Tour,2014 Fall,Wingsuit,Wingsuit,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2014-10-28,2014,0,6,1,1,0,0,24,2014 Fall Tour,2014 Fall,Water in the Sky,Water in the Sky,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2014-10-28,2014,0,7,1,1,0,0,7,2014 Fall Tour,2014 Fall,Plasma,Plasma,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2014-10-28,2014,0,8,2,1,0,0,7,2014 Fall Tour,2014 Fall,Halfway to the Moon,Halfway to the Moon,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2014-10-28,2014,0,9,1,1,0,0,7,2014 Fall Tour,2014 Fall,Poor Heart,Poor Heart,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2014-10-28,2014,0,10,3,1,0,0,11,2014 Fall Tour,2014 Fall,Gumbo,Gumbo,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,->
-2014-10-28,2014,0,11,2,1,0,0,55,2014 Fall Tour,2014 Fall,Sanity,Sanity,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2014-10-28,2014,0,5,1,1,0,0,2,2014 Fall Tour,2014 Fall,Wingsuit,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2014-10-28,2014,0,6,1,1,0,0,24,2014 Fall Tour,2014 Fall,Water in the Sky,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2014-10-28,2014,0,7,1,1,0,0,7,2014 Fall Tour,2014 Fall,Plasma,,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2014-10-28,2014,0,8,2,1,0,0,7,2014 Fall Tour,2014 Fall,Halfway to the Moon,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2014-10-28,2014,0,9,1,1,0,0,7,2014 Fall Tour,2014 Fall,Poor Heart,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2014-10-28,2014,0,10,3,1,0,0,11,2014 Fall Tour,2014 Fall,Gumbo,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,->
+2014-10-28,2014,0,11,2,1,0,0,55,2014 Fall Tour,2014 Fall,Sanity,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2014-10-28,2014,0,12,4,1,0,0,4,2014 Fall Tour,2014 Fall,Run Like an Antelope,Antelope,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,
 2014-10-28,2014,0,13,2,2,0,0,3,2014 Fall Tour,2014 Fall,Kill Devil Falls,KDF,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2014-10-28,2014,0,14,1,2,0,0,14,2014 Fall Tour,2014 Fall,Mountains in the Mist,Mist,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2014-10-28,2014,0,15,2,2,0,0,3,2014 Fall Tour,2014 Fall,Fuego,Fuego,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2014-10-28,2014,0,16,1,2,0,0,5,2014 Fall Tour,2014 Fall,Julius,Julius,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2014-10-28,2014,0,17,2,2,0,0,3,2014 Fall Tour,2014 Fall,Twist,Twist,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2014-10-28,2014,0,18,2,2,0,0,4,2014 Fall Tour,2014 Fall,Runaway Jim,Runaway Jim,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2014-10-28,2014,0,15,2,2,0,0,3,2014 Fall Tour,2014 Fall,Fuego,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2014-10-28,2014,0,16,1,2,0,0,5,2014 Fall Tour,2014 Fall,Julius,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2014-10-28,2014,0,17,2,2,0,0,3,2014 Fall Tour,2014 Fall,Twist,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2014-10-28,2014,0,18,2,2,0,0,4,2014 Fall Tour,2014 Fall,Runaway Jim,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2014-10-28,2014,0,19,5,2,0,0,3,2014 Fall Tour,2014 Fall,Harry Hood,Hood,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,
-2014-10-28,2014,0,20,6,e,0,0,8,2014 Fall Tour,2014 Fall,Loving Cup,Loving Cup,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,
+2014-10-28,2014,0,20,6,e,0,0,8,2014 Fall Tour,2014 Fall,Loving Cup,,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,
 2014-10-29,2014,0,1,1,1,0,0,5,2014 Fall Tour,2014 Fall,Stealing Time From the Faulty Plan,STFTFP,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
 2014-10-29,2014,0,2,2,1,0,0,3,2014 Fall Tour,2014 Fall,The Moma Dance,Moma,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2014-10-29,2014,0,3,2,1,1,0,0,2014 Fall Tour,2014 Fall,We Are the Champions,We Are the Champions,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2014-10-29,2014,0,3,2,1,1,0,0,2014 Fall Tour,2014 Fall,We Are the Champions,,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2014-10-29,2014,0,4,2,1,0,0,0,2014 Fall Tour,2014 Fall,The Moma Dance,Moma,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2014-10-29,2014,0,5,1,1,0,0,3,2014 Fall Tour,2014 Fall,Free,Free,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2014-10-29,2014,0,5,1,1,0,0,3,2014 Fall Tour,2014 Fall,Free,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
 2014-10-29,2014,0,6,1,1,0,0,6,2014 Fall Tour,2014 Fall,Back on the Train,BOTT,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2014-10-29,2014,0,7,1,1,0,0,5,2014 Fall Tour,2014 Fall,Yarmouth Road,Yarmouth Road,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2014-10-29,2014,0,8,2,1,0,0,7,2014 Fall Tour,2014 Fall,Strange Design,Strange Design,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2014-10-29,2014,0,9,1,1,0,0,12,2014 Fall Tour,2014 Fall,Taste,Taste,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2014-10-29,2014,0,7,1,1,0,0,5,2014 Fall Tour,2014 Fall,Yarmouth Road,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2014-10-29,2014,0,8,2,1,0,0,7,2014 Fall Tour,2014 Fall,Strange Design,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2014-10-29,2014,0,9,1,1,0,0,12,2014 Fall Tour,2014 Fall,Taste,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
 2014-10-29,2014,0,10,1,1,0,0,5,2014 Fall Tour,2014 Fall,The Wedge,Wedge,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2014-10-29,2014,0,11,1,1,0,0,3,2014 Fall Tour,2014 Fall,The Line,The Line,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2014-10-29,2014,0,11,1,1,0,0,3,2014 Fall Tour,2014 Fall,The Line,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
 2014-10-29,2014,0,12,4,1,0,0,3,2014 Fall Tour,2014 Fall,Wolfman's Brother,Wolfman's,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,
-2014-10-29,2014,0,13,2,2,0,0,12,2014 Fall Tour,2014 Fall,First Tube,First Tube,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2014-10-29,2014,0,13,2,2,0,0,12,2014 Fall Tour,2014 Fall,First Tube,,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2014-10-29,2014,0,14,2,2,0,0,4,2014 Fall Tour,2014 Fall,Down with Disease,DwD,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2014-10-29,2014,0,15,2,2,0,0,5,2014 Fall Tour,2014 Fall,Theme From the Bottom,Theme,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2014-10-29,2014,0,16,1,2,0,0,5,2014 Fall Tour,2014 Fall,Split Open and Melt,SOAMelt,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2014-10-29,2014,0,17,2,2,0,0,6,2014 Fall Tour,2014 Fall,Heavy Things,Heavy Things,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2014-10-29,2014,0,18,3,2,0,0,7,2014 Fall Tour,2014 Fall,Light,Light,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,->
-2014-10-29,2014,0,19,5,2,0,0,6,2014 Fall Tour,2014 Fall,Possum,Possum,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,
-2014-10-29,2014,0,20,1,e,0,0,45,2014 Fall Tour,2014 Fall,Contact,Contact,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
-2014-10-29,2014,0,21,2,e,0,0,6,2014 Fall Tour,2014 Fall,Meatstick,Meatstick,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2014-10-29,2014,0,22,6,e,0,0,4,2014 Fall Tour,2014 Fall,Character Zero,Character Zero,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,
-2014-10-31,2014,0,1,2,1,0,0,25,2014 Fall Tour,2014 Fall,Buried Alive,Buried Alive,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
-2014-10-31,2014,0,2,2,1,0,0,3,2014 Fall Tour,2014 Fall,Ghost,Ghost,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2014-10-29,2014,0,17,2,2,0,0,6,2014 Fall Tour,2014 Fall,Heavy Things,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2014-10-29,2014,0,18,3,2,0,0,7,2014 Fall Tour,2014 Fall,Light,,0,Bill Graham Civic Auditorium,San Francisco,CA,USA,->
+2014-10-29,2014,0,19,5,2,0,0,6,2014 Fall Tour,2014 Fall,Possum,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,
+2014-10-29,2014,0,20,1,e,0,0,45,2014 Fall Tour,2014 Fall,Contact,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
+2014-10-29,2014,0,21,2,e,0,0,6,2014 Fall Tour,2014 Fall,Meatstick,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2014-10-29,2014,0,22,6,e,0,0,4,2014 Fall Tour,2014 Fall,Character Zero,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,
+2014-10-31,2014,0,1,2,1,0,0,25,2014 Fall Tour,2014 Fall,Buried Alive,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2014-10-31,2014,0,2,2,1,0,0,3,2014 Fall Tour,2014 Fall,Ghost,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
 2014-10-31,2014,0,3,1,1,0,0,6,2014 Fall Tour,2014 Fall,Scent of a Mule,SOAMule,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
 2014-10-31,2014,0,4,2,1,0,0,5,2014 Fall Tour,2014 Fall,Sample in a Jar,Sample,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
-2014-10-31,2014,0,5,1,1,0,0,9,2014 Fall Tour,2014 Fall,Reba,Reba,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-10-31,2014,0,6,1,1,0,0,3,2014 Fall Tour,2014 Fall,46 Days,46 Days,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-10-31,2014,0,5,1,1,0,0,9,2014 Fall Tour,2014 Fall,Reba,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-10-31,2014,0,6,1,1,0,0,3,2014 Fall Tour,2014 Fall,46 Days,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
 2014-10-31,2014,0,7,1,1,0,0,87,2014 Fall Tour,2014 Fall,Big Black Furry Creature from Mars,BBFCFM,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-10-31,2014,0,8,1,1,0,0,8,2014 Fall Tour,2014 Fall,Lawn Boy,Lawn Boy,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-10-31,2014,0,9,2,1,0,0,18,2014 Fall Tour,2014 Fall,Saw It Again,Saw It Again,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
-2014-10-31,2014,0,10,2,1,0,0,5,2014 Fall Tour,2014 Fall,Tube,Tube,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2014-10-31,2014,0,8,1,1,0,0,8,2014 Fall Tour,2014 Fall,Lawn Boy,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-10-31,2014,0,9,2,1,0,0,18,2014 Fall Tour,2014 Fall,Saw It Again,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2014-10-31,2014,0,10,2,1,0,0,5,2014 Fall Tour,2014 Fall,Tube,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
 2014-10-31,2014,0,11,4,1,0,0,1,2014 Fall Tour,2014 Fall,Wolfman's Brother,Wolfman's,1,MGM Grand Garden Arena,Las Vegas,NV,USA,
-2014-10-31,2014,0,12,1,2,0,0,1671,2014 Fall Tour,2014 Fall,Intro,Intro,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-10-31,2014,0,13,1,2,0,0,1671,2014 Fall Tour,2014 Fall,The Haunted House,The Haunted House,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-10-31,2014,0,14,1,2,0,0,1671,2014 Fall Tour,2014 Fall,The Very Long Fuse,The Very Long Fuse,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-10-31,2014,0,15,1,2,0,0,1675,2014 Fall Tour,2014 Fall,The Dogs,The Dogs,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-10-31,2014,0,16,1,2,0,0,1671,2014 Fall Tour,2014 Fall,Timber,Timber,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-10-31,2014,0,17,1,2,0,0,1675,2014 Fall Tour,2014 Fall,Your Pet Cat,Your Pet Cat,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-10-31,2014,0,18,1,2,0,0,1679,2014 Fall Tour,2014 Fall,Shipwreck,Shipwreck,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-10-31,2014,0,19,1,2,0,0,1671,2014 Fall Tour,2014 Fall,The Unsafe Bridge,The Unsafe Bridge,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-10-31,2014,0,20,1,2,0,0,1671,2014 Fall Tour,2014 Fall,The Chinese Water Torture,The Chinese Water Torture,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-10-31,2014,0,21,1,2,0,0,1671,2014 Fall Tour,2014 Fall,The Birds,The Birds,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-10-31,2014,0,22,4,2,0,0,1675,2014 Fall Tour,2014 Fall,Martian Monster,Martian Monster,1,MGM Grand Garden Arena,Las Vegas,NV,USA,
+2014-10-31,2014,0,12,1,2,0,0,1671,2014 Fall Tour,2014 Fall,Intro,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-10-31,2014,0,13,1,2,0,0,1671,2014 Fall Tour,2014 Fall,The Haunted House,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-10-31,2014,0,14,1,2,0,0,1671,2014 Fall Tour,2014 Fall,The Very Long Fuse,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-10-31,2014,0,15,1,2,0,0,1675,2014 Fall Tour,2014 Fall,The Dogs,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-10-31,2014,0,16,1,2,0,0,1671,2014 Fall Tour,2014 Fall,Timber,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-10-31,2014,0,17,1,2,0,0,1675,2014 Fall Tour,2014 Fall,Your Pet Cat,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-10-31,2014,0,18,1,2,0,0,1679,2014 Fall Tour,2014 Fall,Shipwreck,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-10-31,2014,0,19,1,2,0,0,1671,2014 Fall Tour,2014 Fall,The Unsafe Bridge,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-10-31,2014,0,20,1,2,0,0,1671,2014 Fall Tour,2014 Fall,The Chinese Water Torture,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-10-31,2014,0,21,1,2,0,0,1671,2014 Fall Tour,2014 Fall,The Birds,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-10-31,2014,0,22,4,2,0,0,1675,2014 Fall Tour,2014 Fall,Martian Monster,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,
 2014-10-31,2014,0,23,2,3,0,0,27,2014 Fall Tour,2014 Fall,Punch You in the Eye,PYITE,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
-2014-10-31,2014,0,24,2,3,0,0,4,2014 Fall Tour,2014 Fall,Golden Age,Golden Age,0,MGM Grand Garden Arena,Las Vegas,NV,USA,>
-2014-10-31,2014,0,25,3,3,0,0,4,2014 Fall Tour,2014 Fall,Tweezer,Tweezer,1,MGM Grand Garden Arena,Las Vegas,NV,USA,->
-2014-10-31,2014,0,26,1,3,0,0,1,2014 Fall Tour,2014 Fall,Heavy Things,Heavy Things,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-10-31,2014,0,27,1,3,0,0,12,2014 Fall Tour,2014 Fall,Guyute,Guyute,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-10-31,2014,0,28,3,3,0,0,3,2014 Fall Tour,2014 Fall,Sand,Sand,0,MGM Grand Garden Arena,Las Vegas,NV,USA,->
+2014-10-31,2014,0,24,2,3,0,0,4,2014 Fall Tour,2014 Fall,Golden Age,,0,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2014-10-31,2014,0,25,3,3,0,0,4,2014 Fall Tour,2014 Fall,Tweezer,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,->
+2014-10-31,2014,0,26,1,3,0,0,1,2014 Fall Tour,2014 Fall,Heavy Things,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-10-31,2014,0,27,1,3,0,0,12,2014 Fall Tour,2014 Fall,Guyute,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-10-31,2014,0,28,3,3,0,0,3,2014 Fall Tour,2014 Fall,Sand,,0,MGM Grand Garden Arena,Las Vegas,NV,USA,->
 2014-10-31,2014,0,29,5,3,0,0,4,2014 Fall Tour,2014 Fall,Tweezer Reprise,Tweeprise,1,MGM Grand Garden Arena,Las Vegas,NV,USA,
-2014-10-31,2014,0,30,1,e,0,0,1671,2014 Fall Tour,2014 Fall,Is This What You Wanted,Is This What You Wanted,0,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-10-31,2014,0,31,6,e,0,0,100,2014 Fall Tour,2014 Fall,Frankenstein,Frankenstein,0,MGM Grand Garden Arena,Las Vegas,NV,USA,
-2014-11-01,2014,0,1,1,1,0,0,3,2014 Fall Tour,2014 Fall,Fuego,Fuego,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-11-01,2014,0,2,1,1,0,0,14,2014 Fall Tour,2014 Fall,My Soul,My Soul,0,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-10-31,2014,0,30,1,e,0,0,1671,2014 Fall Tour,2014 Fall,Is This What You Wanted,,0,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-10-31,2014,0,31,6,e,0,0,100,2014 Fall Tour,2014 Fall,Frankenstein,,0,MGM Grand Garden Arena,Las Vegas,NV,USA,
+2014-11-01,2014,0,1,1,1,0,0,3,2014 Fall Tour,2014 Fall,Fuego,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-11-01,2014,0,2,1,1,0,0,14,2014 Fall Tour,2014 Fall,My Soul,,0,MGM Grand Garden Arena,Las Vegas,NV,USA,","
 2014-11-01,2014,0,3,1,1,0,0,2,2014 Fall Tour,2014 Fall,Back on the Train,BOTT,0,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-11-01,2014,0,4,1,1,0,0,4,2014 Fall Tour,2014 Fall,555,555,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-11-01,2014,0,5,1,1,0,0,144,2014 Fall Tour,2014 Fall,Dog Faced Boy,Dog Faced Boy,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-11-01,2014,0,4,1,1,0,0,4,2014 Fall Tour,2014 Fall,555,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-11-01,2014,0,5,1,1,0,0,144,2014 Fall Tour,2014 Fall,Dog Faced Boy,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
 2014-11-01,2014,0,6,1,1,0,0,38,2014 Fall Tour,2014 Fall,Fuck Your Face,FYF,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-11-01,2014,0,7,2,1,0,0,7,2014 Fall Tour,2014 Fall,Horn,Horn,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
-2014-11-01,2014,0,8,2,1,0,0,87,2014 Fall Tour,2014 Fall,Frankie Says,Frankie Says,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2014-11-01,2014,0,7,2,1,0,0,7,2014 Fall Tour,2014 Fall,Horn,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2014-11-01,2014,0,8,2,1,0,0,87,2014 Fall Tour,2014 Fall,Frankie Says,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
 2014-11-01,2014,0,9,1,1,0,0,7,2014 Fall Tour,2014 Fall,"My Friend, My Friend",My Friend,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
 2014-11-01,2014,0,10,1,1,0,0,51,2014 Fall Tour,2014 Fall,Roses Are Free,Roses,0,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-11-01,2014,0,11,1,1,0,0,10,2014 Fall Tour,2014 Fall,Roggae,Roggae,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-11-01,2014,0,11,1,1,0,0,10,2014 Fall Tour,2014 Fall,Roggae,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
 2014-11-01,2014,0,12,1,1,0,0,4,2014 Fall Tour,2014 Fall,Birds of a Feather,BOAF,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-11-01,2014,0,13,4,1,0,0,3,2014 Fall Tour,2014 Fall,Wingsuit,Wingsuit,1,MGM Grand Garden Arena,Las Vegas,NV,USA,
-2014-11-01,2014,0,14,1,2,0,0,2,2014 Fall Tour,2014 Fall,Possum,Possum,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-11-01,2014,0,13,4,1,0,0,3,2014 Fall Tour,2014 Fall,Wingsuit,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,
+2014-11-01,2014,0,14,1,2,0,0,2,2014 Fall Tour,2014 Fall,Possum,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
 2014-11-01,2014,0,15,2,2,0,0,10,2014 Fall Tour,2014 Fall,Crosseyed and Painless,C&amp;P,0,MGM Grand Garden Arena,Las Vegas,NV,USA,>
-2014-11-01,2014,0,16,3,2,0,0,2,2014 Fall Tour,2014 Fall,Light,Light,0,MGM Grand Garden Arena,Las Vegas,NV,USA,->
-2014-11-01,2014,0,17,3,2,0,0,1,2014 Fall Tour,2014 Fall,The Dogs,The Dogs,1,MGM Grand Garden Arena,Las Vegas,NV,USA,->
-2014-11-01,2014,0,18,2,2,0,0,59,2014 Fall Tour,2014 Fall,Lengthwise,Lengthwise,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
-2014-11-01,2014,0,19,2,2,0,0,3,2014 Fall Tour,2014 Fall,Twist,Twist,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2014-11-01,2014,0,16,3,2,0,0,2,2014 Fall Tour,2014 Fall,Light,,0,MGM Grand Garden Arena,Las Vegas,NV,USA,->
+2014-11-01,2014,0,17,3,2,0,0,1,2014 Fall Tour,2014 Fall,The Dogs,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,->
+2014-11-01,2014,0,18,2,2,0,0,59,2014 Fall Tour,2014 Fall,Lengthwise,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2014-11-01,2014,0,19,2,2,0,0,3,2014 Fall Tour,2014 Fall,Twist,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
 2014-11-01,2014,0,20,2,2,0,0,8,2014 Fall Tour,2014 Fall,Wading in the Velvet Sea,Velvet Sea,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
 2014-11-01,2014,0,21,2,2,0,0,3,2014 Fall Tour,2014 Fall,Harry Hood,Hood,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
 2014-11-01,2014,0,22,2,2,0,0,18,2014 Fall Tour,2014 Fall,Golgi Apparatus,Golgi,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
 2014-11-01,2014,0,23,5,2,0,0,6,2014 Fall Tour,2014 Fall,Backwards Down the Number Line,BDTNL,0,MGM Grand Garden Arena,Las Vegas,NV,USA,
-2014-11-01,2014,0,24,1,e,0,0,4,2014 Fall Tour,2014 Fall,Waiting All Night,Waiting All Night,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-11-01,2014,0,25,1,e,0,0,20,2014 Fall Tour,2014 Fall,Sing Monica,Sing Monica,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-11-01,2014,0,24,1,e,0,0,4,2014 Fall Tour,2014 Fall,Waiting All Night,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-11-01,2014,0,25,1,e,0,0,20,2014 Fall Tour,2014 Fall,Sing Monica,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
 2014-11-01,2014,0,26,6,e,0,0,33,2014 Fall Tour,2014 Fall,The Star-Spangled Banner,Star Spangled Banner,0,MGM Grand Garden Arena,Las Vegas,NV,USA,
-2014-11-02,2014,0,1,1,1,0,0,4,2014 Fall Tour,2014 Fall,Runaway Jim,Runaway Jim,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-11-02,2014,0,2,1,1,0,0,33,2014 Fall Tour,2014 Fall,Foam,Foam,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-11-02,2014,0,3,1,1,0,0,110,2014 Fall Tour,2014 Fall,Mexican Cousin,Mexican Cousin,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-11-02,2014,0,4,1,1,0,0,5,2014 Fall Tour,2014 Fall,Ocelot,Ocelot,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-11-02,2014,0,5,1,1,0,0,10,2014 Fall Tour,2014 Fall,Sugar Shack,Sugar Shack,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-11-02,2014,0,1,1,1,0,0,4,2014 Fall Tour,2014 Fall,Runaway Jim,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-11-02,2014,0,2,1,1,0,0,33,2014 Fall Tour,2014 Fall,Foam,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-11-02,2014,0,3,1,1,0,0,110,2014 Fall Tour,2014 Fall,Mexican Cousin,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-11-02,2014,0,4,1,1,0,0,5,2014 Fall Tour,2014 Fall,Ocelot,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-11-02,2014,0,5,1,1,0,0,10,2014 Fall Tour,2014 Fall,Sugar Shack,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
 2014-11-02,2014,0,6,1,1,0,0,8,2014 Fall Tour,2014 Fall,A Song I Heard the Ocean Sing,ASIHTOS,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-11-02,2014,0,7,1,1,0,0,4,2014 Fall Tour,2014 Fall,Halfway to the Moon,Halfway to the Moon,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-11-02,2014,0,7,1,1,0,0,4,2014 Fall Tour,2014 Fall,Halfway to the Moon,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
 2014-11-02,2014,0,8,2,1,0,0,7,2014 Fall Tour,2014 Fall,Bathtub Gin,Gin,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
-2014-11-02,2014,0,9,1,1,0,0,3,2014 Fall Tour,2014 Fall,Free,Free,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-11-02,2014,0,9,1,1,0,0,3,2014 Fall Tour,2014 Fall,Free,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
 2014-11-02,2014,0,10,4,1,0,0,8,2014 Fall Tour,2014 Fall,Walls of the Cave,WotC,1,MGM Grand Garden Arena,Las Vegas,NV,USA,
 2014-11-02,2014,0,11,2,2,0,0,5,2014 Fall Tour,2014 Fall,Chalk Dust Torture,CDT,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
-2014-11-02,2014,0,12,2,2,0,0,6,2014 Fall Tour,2014 Fall,Piper,Piper,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2014-11-02,2014,0,12,2,2,0,0,6,2014 Fall Tour,2014 Fall,Piper,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
 2014-11-02,2014,0,13,2,2,0,0,3,2014 Fall Tour,2014 Fall,Theme From the Bottom,Theme,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
-2014-11-02,2014,0,14,1,2,0,0,9,2014 Fall Tour,2014 Fall,Wombat,Wombat,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-11-02,2014,0,14,1,2,0,0,9,2014 Fall Tour,2014 Fall,Wombat,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
 2014-11-02,2014,0,15,1,2,0,0,7,2014 Fall Tour,2014 Fall,David Bowie,Bowie,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2014-11-02,2014,0,16,1,2,0,0,3,2014 Fall Tour,2014 Fall,The Line,The Line,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2014-11-02,2014,0,16,1,2,0,0,3,2014 Fall Tour,2014 Fall,The Line,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
 2014-11-02,2014,0,17,5,2,0,0,6,2014 Fall Tour,2014 Fall,You Enjoy Myself,YEM,1,MGM Grand Garden Arena,Las Vegas,NV,USA,
 2014-11-02,2014,0,18,2,e,0,0,3,2014 Fall Tour,2014 Fall,The Moma Dance,Moma,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
 2014-11-02,2014,0,19,6,e,0,0,5,2014 Fall Tour,2014 Fall,Slave to the Traffic Light,Slave,1,MGM Grand Garden Arena,Las Vegas,NV,USA,
 2014-12-31,2014,0,1,1,1,0,0,3,2014/2015 NYE Run,2014-2015 NYE,Sample in a Jar,Sample,1,American Airlines Arena,Miami,FL,USA,","
 2014-12-31,2014,0,2,1,1,0,0,4,2014/2015 NYE Run,2014-2015 NYE,The Wedge,Wedge,1,American Airlines Arena,Miami,FL,USA,","
-2014-12-31,2014,0,3,1,1,0,0,2,2014/2015 NYE Run,2014-2015 NYE,555,555,1,American Airlines Arena,Miami,FL,USA,","
-2014-12-31,2014,0,4,1,1,0,0,3,2014/2015 NYE Run,2014-2015 NYE,Heavy Things,Heavy Things,1,American Airlines Arena,Miami,FL,USA,","
+2014-12-31,2014,0,3,1,1,0,0,2,2014/2015 NYE Run,2014-2015 NYE,555,,1,American Airlines Arena,Miami,FL,USA,","
+2014-12-31,2014,0,4,1,1,0,0,3,2014/2015 NYE Run,2014-2015 NYE,Heavy Things,,1,American Airlines Arena,Miami,FL,USA,","
 2014-12-31,2014,0,5,1,1,0,0,3,2014/2015 NYE Run,2014-2015 NYE,Wolfman's Brother,Wolfman's,1,American Airlines Arena,Miami,FL,USA,","
-2014-12-31,2014,0,6,1,1,0,0,1,2014/2015 NYE Run,2014-2015 NYE,Halfway to the Moon,Halfway to the Moon,1,American Airlines Arena,Miami,FL,USA,","
+2014-12-31,2014,0,6,1,1,0,0,1,2014/2015 NYE Run,2014-2015 NYE,Halfway to the Moon,,1,American Airlines Arena,Miami,FL,USA,","
 2014-12-31,2014,0,7,1,1,0,0,8,2014/2015 NYE Run,2014-2015 NYE,Bouncing Around the Room,Bouncin',1,American Airlines Arena,Miami,FL,USA,","
 2014-12-31,2014,0,8,1,1,0,0,5,2014/2015 NYE Run,2014-2015 NYE,Kill Devil Falls,KDF,1,American Airlines Arena,Miami,FL,USA,","
-2014-12-31,2014,0,9,1,1,0,0,8,2014/2015 NYE Run,2014-2015 NYE,Train Song,Train Song,1,American Airlines Arena,Miami,FL,USA,","
-2014-12-31,2014,0,10,1,1,0,0,2,2014/2015 NYE Run,2014-2015 NYE,Waiting All Night,Waiting All Night,1,American Airlines Arena,Miami,FL,USA,","
-2014-12-31,2014,0,11,1,1,0,0,6,2014/2015 NYE Run,2014-2015 NYE,Axilla,Axilla,1,American Airlines Arena,Miami,FL,USA,","
+2014-12-31,2014,0,9,1,1,0,0,8,2014/2015 NYE Run,2014-2015 NYE,Train Song,,1,American Airlines Arena,Miami,FL,USA,","
+2014-12-31,2014,0,10,1,1,0,0,2,2014/2015 NYE Run,2014-2015 NYE,Waiting All Night,,1,American Airlines Arena,Miami,FL,USA,","
+2014-12-31,2014,0,11,1,1,0,0,6,2014/2015 NYE Run,2014-2015 NYE,Axilla,,1,American Airlines Arena,Miami,FL,USA,","
 2014-12-31,2014,0,12,4,1,0,0,1,2014/2015 NYE Run,2014-2015 NYE,A Song I Heard the Ocean Sing,ASIHTOS,1,American Airlines Arena,Miami,FL,USA,
 2014-12-31,2014,0,13,1,2,0,0,2,2014/2015 NYE Run,2014-2015 NYE,Birds of a Feather,BOAF,1,American Airlines Arena,Miami,FL,USA,","
-2014-12-31,2014,0,14,2,2,0,0,3,2014/2015 NYE Run,2014-2015 NYE,Ghost,Ghost,1,American Airlines Arena,Miami,FL,USA,>
+2014-12-31,2014,0,14,2,2,0,0,3,2014/2015 NYE Run,2014-2015 NYE,Ghost,,1,American Airlines Arena,Miami,FL,USA,>
 2014-12-31,2014,0,15,3,2,0,0,1,2014/2015 NYE Run,2014-2015 NYE,Theme From the Bottom,Theme,1,American Airlines Arena,Miami,FL,USA,->
-2014-12-31,2014,0,16,2,2,0,0,11,2014/2015 NYE Run,2014-2015 NYE,Cities,Cities,0,American Airlines Arena,Miami,FL,USA,>
+2014-12-31,2014,0,16,2,2,0,0,11,2014/2015 NYE Run,2014-2015 NYE,Cities,,0,American Airlines Arena,Miami,FL,USA,>
 2014-12-31,2014,0,17,1,2,0,0,1,2014/2015 NYE Run,2014-2015 NYE,Chalk Dust Torture,CDT,1,American Airlines Arena,Miami,FL,USA,","
-2014-12-31,2014,0,18,4,2,0,0,3,2014/2015 NYE Run,2014-2015 NYE,Martian Monster,Martian Monster,1,American Airlines Arena,Miami,FL,USA,
-2014-12-31,2014,0,19,2,3,0,0,1674,2014/2015 NYE Run,2014-2015 NYE,Dem Bones,Dem Bones,0,American Airlines Arena,Miami,FL,USA,>
-2014-12-31,2014,0,20,2,3,0,0,40,2014/2015 NYE Run,2014-2015 NYE,Auld Lang Syne,Auld Lang Syne,0,American Airlines Arena,Miami,FL,USA,>
-2014-12-31,2014,0,21,2,3,0,0,2,2014/2015 NYE Run,2014-2015 NYE,The Dogs,The Dogs,1,American Airlines Arena,Miami,FL,USA,>
-2014-12-31,2014,0,22,2,3,0,0,3,2014/2015 NYE Run,2014-2015 NYE,Tweezer,Tweezer,1,American Airlines Arena,Miami,FL,USA,>
-2014-12-31,2014,0,23,2,3,0,0,12,2014/2015 NYE Run,2014-2015 NYE,Simple,Simple,1,American Airlines Arena,Miami,FL,USA,>
+2014-12-31,2014,0,18,4,2,0,0,3,2014/2015 NYE Run,2014-2015 NYE,Martian Monster,,1,American Airlines Arena,Miami,FL,USA,
+2014-12-31,2014,0,19,2,3,0,0,1674,2014/2015 NYE Run,2014-2015 NYE,Dem Bones,,0,American Airlines Arena,Miami,FL,USA,>
+2014-12-31,2014,0,20,2,3,0,0,40,2014/2015 NYE Run,2014-2015 NYE,Auld Lang Syne,,0,American Airlines Arena,Miami,FL,USA,>
+2014-12-31,2014,0,21,2,3,0,0,2,2014/2015 NYE Run,2014-2015 NYE,The Dogs,,1,American Airlines Arena,Miami,FL,USA,>
+2014-12-31,2014,0,22,2,3,0,0,3,2014/2015 NYE Run,2014-2015 NYE,Tweezer,,1,American Airlines Arena,Miami,FL,USA,>
+2014-12-31,2014,0,23,2,3,0,0,12,2014/2015 NYE Run,2014-2015 NYE,Simple,,1,American Airlines Arena,Miami,FL,USA,>
 2014-12-31,2014,0,24,1,3,0,0,10,2014/2015 NYE Run,2014-2015 NYE,Limb By Limb,LxL,1,American Airlines Arena,Miami,FL,USA,","
-2014-12-31,2014,0,25,2,3,0,0,6,2014/2015 NYE Run,2014-2015 NYE,Bug,Bug,0,American Airlines Arena,Miami,FL,USA,>
+2014-12-31,2014,0,25,2,3,0,0,6,2014/2015 NYE Run,2014-2015 NYE,Bug,,0,American Airlines Arena,Miami,FL,USA,>
 2014-12-31,2014,0,26,1,3,0,0,2,2014/2015 NYE Run,2014-2015 NYE,Backwards Down the Number Line,BDTNL,0,American Airlines Arena,Miami,FL,USA,","
 2014-12-31,2014,0,27,2,3,0,0,9,2014/2015 NYE Run,2014-2015 NYE,The Horse,Horse,1,American Airlines Arena,Miami,FL,USA,>
 2014-12-31,2014,0,28,2,3,0,0,9,2014/2015 NYE Run,2014-2015 NYE,Silent in the Morning,Silent,1,American Airlines Arena,Miami,FL,USA,>
-2014-12-31,2014,0,29,5,3,0,0,5,2014/2015 NYE Run,2014-2015 NYE,Julius,Julius,1,American Airlines Arena,Miami,FL,USA,
+2014-12-31,2014,0,29,5,3,0,0,5,2014/2015 NYE Run,2014-2015 NYE,Julius,,1,American Airlines Arena,Miami,FL,USA,
 2014-12-31,2014,0,30,2,e,0,0,2,2014/2015 NYE Run,2014-2015 NYE,Golgi Apparatus,Golgi,1,American Airlines Arena,Miami,FL,USA,>
 2014-12-31,2014,0,31,6,e,0,0,3,2014/2015 NYE Run,2014-2015 NYE,Tweezer Reprise,Tweeprise,1,American Airlines Arena,Miami,FL,USA,

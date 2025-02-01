@@ -1,528 +1,528 @@
 showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,tourwhen,song,nickname,is_original,venue,city,state,country,trans_mark
-2017-01-12,2017,1,1,1,1,0,0,0,Not Part of a Tour,No Tour,Jam,Jam,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2017-01-12,2017,1,2,1,1,0,0,0,Not Part of a Tour,No Tour,Jam,Jam,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2017-01-12,2017,1,3,1,1,0,0,0,Not Part of a Tour,No Tour,Sugar Shack,Sugar Shack,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2017-01-12,2017,1,4,6,1,0,0,0,Not Part of a Tour,No Tour,My Soul,My Soul,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
-2017-01-13,2017,0,1,1,1,0,0,4,2017 Mexico,2017 Mexico,Free,Free,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2017-01-13,2017,0,2,1,1,0,0,24,2017 Mexico,2017 Mexico,Yarmouth Road,Yarmouth Road,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2017-01-13,2017,0,3,1,1,0,0,1,2017 Mexico,2017 Mexico,Sand,Sand,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2017-01-12,2017,1,1,1,1,0,0,0,Not Part of a Tour,No Tour,Jam,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2017-01-12,2017,1,2,1,1,0,0,0,Not Part of a Tour,No Tour,Jam,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2017-01-12,2017,1,3,1,1,0,0,0,Not Part of a Tour,No Tour,Sugar Shack,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2017-01-12,2017,1,4,6,1,0,0,0,Not Part of a Tour,No Tour,My Soul,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
+2017-01-13,2017,0,1,1,1,0,0,4,2017 Mexico,2017 Mexico,Free,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2017-01-13,2017,0,2,1,1,0,0,24,2017 Mexico,2017 Mexico,Yarmouth Road,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2017-01-13,2017,0,3,1,1,0,0,1,2017 Mexico,2017 Mexico,Sand,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
 2017-01-13,2017,0,4,2,1,0,0,3,2017 Mexico,2017 Mexico,Theme From the Bottom,Theme,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2017-01-13,2017,0,5,1,1,0,0,4,2017 Mexico,2017 Mexico,Funky Bitch,Funky Bitch,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2017-01-13,2017,0,6,2,1,0,0,15,2017 Mexico,2017 Mexico,Undermind,Undermind,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2017-01-13,2017,0,7,2,1,0,0,10,2017 Mexico,2017 Mexico,NICU,NICU,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2017-01-13,2017,0,8,1,1,0,0,17,2017 Mexico,2017 Mexico,Horn,Horn,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2017-01-13,2017,0,5,1,1,0,0,4,2017 Mexico,2017 Mexico,Funky Bitch,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2017-01-13,2017,0,6,2,1,0,0,15,2017 Mexico,2017 Mexico,Undermind,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2017-01-13,2017,0,7,2,1,0,0,10,2017 Mexico,2017 Mexico,NICU,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2017-01-13,2017,0,8,1,1,0,0,17,2017 Mexico,2017 Mexico,Horn,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
 2017-01-13,2017,0,9,4,1,0,0,4,2017 Mexico,2017 Mexico,Wolfman's Brother,Wolfman's,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
 2017-01-13,2017,0,10,2,2,0,0,12,2017 Mexico,2017 Mexico,A Song I Heard the Ocean Sing,ASIHTOS,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
 2017-01-13,2017,0,11,2,2,0,0,8,2017 Mexico,2017 Mexico,The Wedge,Wedge,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2017-01-13,2017,0,12,2,2,0,0,3,2017 Mexico,2017 Mexico,Fuego,Fuego,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2017-01-13,2017,0,12,2,2,0,0,3,2017 Mexico,2017 Mexico,Fuego,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
 2017-01-13,2017,0,13,3,2,0,0,4,2017 Mexico,2017 Mexico,Prince Caspian,Caspian,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,->
-2017-01-13,2017,0,14,3,2,0,0,1,2017 Mexico,2017 Mexico,Twist,Twist,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,->
-2017-01-13,2017,0,15,2,2,0,0,10,2017 Mexico,2017 Mexico,Seven Below,Seven Below,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2017-01-13,2017,0,14,3,2,0,0,1,2017 Mexico,2017 Mexico,Twist,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,->
+2017-01-13,2017,0,15,2,2,0,0,10,2017 Mexico,2017 Mexico,Seven Below,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
 2017-01-13,2017,0,16,2,2,0,0,7,2017 Mexico,2017 Mexico,Golgi Apparatus,Golgi,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
 2017-01-13,2017,0,17,5,2,0,0,5,2017 Mexico,2017 Mexico,Run Like an Antelope,Antelope,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
-2017-01-13,2017,0,18,1,e,0,0,33,2017 Mexico,2017 Mexico,Contact,Contact,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2017-01-13,2017,0,19,6,e,0,0,10,2017 Mexico,2017 Mexico,Bug,Bug,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
+2017-01-13,2017,0,18,1,e,0,0,33,2017 Mexico,2017 Mexico,Contact,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2017-01-13,2017,0,19,6,e,0,0,10,2017 Mexico,2017 Mexico,Bug,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
 2017-01-14,2017,0,1,1,1,0,0,26,2017 Mexico,2017 Mexico,The Curtain With,Curtain With,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
 2017-01-14,2017,0,2,2,1,0,0,6,2017 Mexico,2017 Mexico,AC/DC Bag,Bag,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2017-01-14,2017,0,3,1,1,0,0,2,2017 Mexico,2017 Mexico,Breath and Burning,Breath and Burning,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2017-01-14,2017,0,4,1,1,0,0,4,2017 Mexico,2017 Mexico,Poor Heart,Poor Heart,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2017-01-14,2017,0,5,1,1,0,0,5,2017 Mexico,2017 Mexico,Halfway to the Moon,Halfway to the Moon,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2017-01-14,2017,0,6,1,1,0,0,10,2017 Mexico,2017 Mexico,The Line,The Line,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2017-01-14,2017,0,7,1,1,0,0,10,2017 Mexico,2017 Mexico,Waking Up Dead,Waking Up Dead,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2017-01-14,2017,0,8,2,1,0,0,6,2017 Mexico,2017 Mexico,Tube,Tube,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2017-01-14,2017,0,3,1,1,0,0,2,2017 Mexico,2017 Mexico,Breath and Burning,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2017-01-14,2017,0,4,1,1,0,0,4,2017 Mexico,2017 Mexico,Poor Heart,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2017-01-14,2017,0,5,1,1,0,0,5,2017 Mexico,2017 Mexico,Halfway to the Moon,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2017-01-14,2017,0,6,1,1,0,0,10,2017 Mexico,2017 Mexico,The Line,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2017-01-14,2017,0,7,1,1,0,0,10,2017 Mexico,2017 Mexico,Waking Up Dead,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2017-01-14,2017,0,8,2,1,0,0,6,2017 Mexico,2017 Mexico,Tube,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
 2017-01-14,2017,0,9,1,1,0,0,33,2017 Mexico,2017 Mexico,Fast Enough for You,FEFY,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2017-01-14,2017,0,10,2,1,0,0,2,2017 Mexico,2017 Mexico,Ocelot,Ocelot,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2017-01-14,2017,0,10,2,1,0,0,2,2017 Mexico,2017 Mexico,Ocelot,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
 2017-01-14,2017,0,11,4,1,0,0,5,2017 Mexico,2017 Mexico,Chalk Dust Torture,CDT,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
 2017-01-14,2017,0,12,2,2,0,0,16,2017 Mexico,2017 Mexico,Crosseyed and Painless,C&amp;P,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2017-01-14,2017,0,13,2,2,0,0,3,2017 Mexico,2017 Mexico,Blaze On,Blaze On,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2017-01-14,2017,0,14,2,2,0,0,4,2017 Mexico,2017 Mexico,Meatstick,Meatstick,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2017-01-14,2017,0,15,1,2,0,0,13,2017 Mexico,2017 Mexico,Winterqueen,Winterqueen,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2017-01-14,2017,0,16,2,2,0,0,8,2017 Mexico,2017 Mexico,Mercury,Mercury,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2017-01-14,2017,0,17,2,2,0,0,3,2017 Mexico,2017 Mexico,Light,Light,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2017-01-14,2017,0,13,2,2,0,0,3,2017 Mexico,2017 Mexico,Blaze On,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2017-01-14,2017,0,14,2,2,0,0,4,2017 Mexico,2017 Mexico,Meatstick,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2017-01-14,2017,0,15,1,2,0,0,13,2017 Mexico,2017 Mexico,Winterqueen,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2017-01-14,2017,0,16,2,2,0,0,8,2017 Mexico,2017 Mexico,Mercury,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2017-01-14,2017,0,17,2,2,0,0,3,2017 Mexico,2017 Mexico,Light,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
 2017-01-14,2017,0,18,5,2,0,0,3,2017 Mexico,2017 Mexico,Wading in the Velvet Sea,Velvet Sea,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
-2017-01-14,2017,0,19,1,e,0,0,31,2017 Mexico,2017 Mexico,Drowned,Drowned,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2017-01-14,2017,0,20,6,e,0,0,3,2017 Mexico,2017 Mexico,Rocky Top,Rocky Top,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
+2017-01-14,2017,0,19,1,e,0,0,31,2017 Mexico,2017 Mexico,Drowned,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2017-01-14,2017,0,20,6,e,0,0,3,2017 Mexico,2017 Mexico,Rocky Top,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
 2017-01-15,2017,0,1,2,1,0,0,19,2017 Mexico,2017 Mexico,Boogie On Reggae Woman,Boogie On,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2017-01-15,2017,0,2,3,1,0,0,6,2017 Mexico,2017 Mexico,Simple,Simple,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,->
-2017-01-15,2017,0,3,2,1,0,0,4,2017 Mexico,2017 Mexico,Tweezer,Tweezer,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2017-01-15,2017,0,4,1,1,0,0,6,2017 Mexico,2017 Mexico,Roggae,Roggae,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2017-01-15,2017,0,5,1,1,0,0,58,2017 Mexico,2017 Mexico,Nothing,Nothing,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2017-01-15,2017,0,6,2,1,0,0,4,2017 Mexico,2017 Mexico,Ghost,Ghost,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2017-01-15,2017,0,7,1,1,0,0,3,2017 Mexico,2017 Mexico,Ya Mar,Ya Mar,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2017-01-15,2017,0,2,3,1,0,0,6,2017 Mexico,2017 Mexico,Simple,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,->
+2017-01-15,2017,0,3,2,1,0,0,4,2017 Mexico,2017 Mexico,Tweezer,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2017-01-15,2017,0,4,1,1,0,0,6,2017 Mexico,2017 Mexico,Roggae,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2017-01-15,2017,0,5,1,1,0,0,58,2017 Mexico,2017 Mexico,Nothing,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
+2017-01-15,2017,0,6,2,1,0,0,4,2017 Mexico,2017 Mexico,Ghost,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2017-01-15,2017,0,7,1,1,0,0,3,2017 Mexico,2017 Mexico,Ya Mar,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
 2017-01-15,2017,0,8,1,1,0,0,6,2017 Mexico,2017 Mexico,Stealing Time From the Faulty Plan,STFTFP,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2017-01-15,2017,0,9,2,1,0,0,13,2017 Mexico,2017 Mexico,Rift,Rift,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2017-01-15,2017,0,10,4,1,0,0,28,2017 Mexico,2017 Mexico,Fluffhead,Fluffhead,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
+2017-01-15,2017,0,9,2,1,0,0,13,2017 Mexico,2017 Mexico,Rift,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2017-01-15,2017,0,10,4,1,0,0,28,2017 Mexico,2017 Mexico,Fluffhead,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
 2017-01-15,2017,0,11,3,2,0,0,5,2017 Mexico,2017 Mexico,Down with Disease,DwD,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,->
 2017-01-15,2017,0,12,2,2,0,0,3,2017 Mexico,2017 Mexico,No Men In No Man's Land,NMINML,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
 2017-01-15,2017,0,13,3,2,0,0,13,2017 Mexico,2017 Mexico,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,->
-2017-01-15,2017,0,14,2,2,0,0,6,2017 Mexico,2017 Mexico,Possum,Possum,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2017-01-15,2017,0,15,2,2,0,0,3,2017 Mexico,2017 Mexico,Carini,Carini,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2017-01-15,2017,0,14,2,2,0,0,6,2017 Mexico,2017 Mexico,Possum,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2017-01-15,2017,0,15,2,2,0,0,3,2017 Mexico,2017 Mexico,Carini,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
 2017-01-15,2017,0,16,1,2,0,0,12,2017 Mexico,2017 Mexico,David Bowie,Bowie,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
 2017-01-15,2017,0,17,5,2,0,0,5,2017 Mexico,2017 Mexico,Harry Hood,Hood,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
 2017-01-15,2017,0,18,2,e,0,0,3,2017 Mexico,2017 Mexico,Slave to the Traffic Light,Slave,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
 2017-01-15,2017,0,19,6,e,0,0,4,2017 Mexico,2017 Mexico,Tweezer Reprise,Tweeprise,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
 2017-07-14,2017,0,1,2,1,0,0,6,2017 Summer Tour,2017 Summer,What's the Use?,WTU?,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2017-07-14,2017,0,2,2,1,0,0,2,2017 Summer Tour,2017 Summer,Breath and Burning,Breath and Burning,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2017-07-14,2017,0,2,2,1,0,0,2,2017 Summer Tour,2017 Summer,Breath and Burning,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2017-07-14,2017,0,3,1,1,0,0,3,2017 Summer Tour,2017 Summer,Wolfman's Brother,Wolfman's,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2017-07-14,2017,0,4,1,1,0,0,1755,2017 Summer Tour,2017 Summer,In The Good Old Summer Time,In The Good Old Summer Time,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2017-07-14,2017,0,5,2,1,0,0,1759,2017 Summer Tour,2017 Summer,Everything's Right,Everything's Right,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2017-07-14,2017,0,4,1,1,0,0,1755,2017 Summer Tour,2017 Summer,In The Good Old Summer Time,,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2017-07-14,2017,0,5,2,1,0,0,1759,2017 Summer Tour,2017 Summer,Everything's Right,,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2017-07-14,2017,0,6,2,1,0,0,11,2017 Summer Tour,2017 Summer,Limb By Limb,LxL,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2017-07-14,2017,0,7,2,1,0,0,18,2017 Summer Tour,2017 Summer,Nellie Kane,Nellie Kane,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2017-07-14,2017,0,7,2,1,0,0,18,2017 Summer Tour,2017 Summer,Nellie Kane,,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2017-07-14,2017,0,8,2,1,0,0,3,2017 Summer Tour,2017 Summer,Theme From the Bottom,Theme,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2017-07-14,2017,0,9,4,1,0,0,2,2017 Summer Tour,2017 Summer,Blaze On,Blaze On,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,
+2017-07-14,2017,0,9,4,1,0,0,2,2017 Summer Tour,2017 Summer,Blaze On,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,
 2017-07-14,2017,0,10,2,2,0,0,1,2017 Summer Tour,2017 Summer,No Men In No Man's Land,NMINML,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2017-07-14,2017,0,11,2,2,0,0,3,2017 Summer Tour,2017 Summer,Fuego,Fuego,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2017-07-14,2017,0,11,2,2,0,0,3,2017 Summer Tour,2017 Summer,Fuego,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2017-07-14,2017,0,12,2,2,0,0,5,2017 Summer Tour,2017 Summer,"My Friend, My Friend",My Friend,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2017-07-14,2017,0,13,3,2,0,0,4,2017 Summer Tour,2017 Summer,Your Pet Cat,Your Pet Cat,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,->
-2017-07-14,2017,0,14,3,2,0,0,7,2017 Summer Tour,2017 Summer,Golden Age,Golden Age,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,->
-2017-07-14,2017,0,15,2,2,0,0,0,2017 Summer Tour,2017 Summer,Your Pet Cat,Your Pet Cat,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2017-07-14,2017,0,16,1,2,0,0,1759,2017 Summer Tour,2017 Summer,Leaves,Leaves,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2017-07-14,2017,0,13,3,2,0,0,4,2017 Summer Tour,2017 Summer,Your Pet Cat,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,->
+2017-07-14,2017,0,14,3,2,0,0,7,2017 Summer Tour,2017 Summer,Golden Age,,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,->
+2017-07-14,2017,0,15,2,2,0,0,0,2017 Summer Tour,2017 Summer,Your Pet Cat,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2017-07-14,2017,0,16,1,2,0,0,1759,2017 Summer Tour,2017 Summer,Leaves,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
 2017-07-14,2017,0,17,2,2,0,0,1,2017 Summer Tour,2017 Summer,Harry Hood,Hood,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2017-07-14,2017,0,18,2,2,0,0,10,2017 Summer Tour,2017 Summer,Shine a Light,Shine a Light,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2017-07-14,2017,0,19,5,2,0,0,6,2017 Summer Tour,2017 Summer,Julius,Julius,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,
-2017-07-14,2017,0,20,1,e,0,0,1755,2017 Summer Tour,2017 Summer,Love Is What We Are,Love Is What We Are,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2017-07-14,2017,0,18,2,2,0,0,10,2017 Summer Tour,2017 Summer,Shine a Light,,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2017-07-14,2017,0,19,5,2,0,0,6,2017 Summer Tour,2017 Summer,Julius,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,
+2017-07-14,2017,0,20,1,e,0,0,1755,2017 Summer Tour,2017 Summer,Love Is What We Are,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
 2017-07-14,2017,0,21,6,e,0,0,3,2017 Summer Tour,2017 Summer,Golgi Apparatus,Golgi,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,
 2017-07-15,2017,0,1,2,1,0,0,2,2017 Summer Tour,2017 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2017-07-15,2017,0,2,2,1,0,0,6,2017 Summer Tour,2017 Summer,The Moma Dance,Moma,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2017-07-15,2017,0,3,1,1,0,0,4,2017 Summer Tour,2017 Summer,The Wedge,Wedge,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2017-07-15,2017,0,4,2,1,0,0,3,2017 Summer Tour,2017 Summer,Halfway to the Moon,Halfway to the Moon,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2017-07-15,2017,0,5,1,1,0,0,2,2017 Summer Tour,2017 Summer,Ya Mar,Ya Mar,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2017-07-15,2017,0,6,1,1,0,0,8,2017 Summer Tour,2017 Summer,Martian Monster,Martian Monster,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2017-07-15,2017,0,7,1,1,0,0,22,2017 Summer Tour,2017 Summer,Party Time,Party Time,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2017-07-15,2017,0,8,2,1,0,0,8,2017 Summer Tour,2017 Summer,Wingsuit,Wingsuit,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2017-07-15,2017,0,4,2,1,0,0,3,2017 Summer Tour,2017 Summer,Halfway to the Moon,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2017-07-15,2017,0,5,1,1,0,0,2,2017 Summer Tour,2017 Summer,Ya Mar,,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2017-07-15,2017,0,6,1,1,0,0,8,2017 Summer Tour,2017 Summer,Martian Monster,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2017-07-15,2017,0,7,1,1,0,0,22,2017 Summer Tour,2017 Summer,Party Time,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2017-07-15,2017,0,8,2,1,0,0,8,2017 Summer Tour,2017 Summer,Wingsuit,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2017-07-15,2017,0,9,1,1,0,0,12,2017 Summer Tour,2017 Summer,Bouncing Around the Room,Bouncin',1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2017-07-15,2017,0,10,4,1,0,0,5,2017 Summer Tour,2017 Summer,More,More,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,
-2017-07-15,2017,0,11,2,2,0,0,1756,2017 Summer Tour,2017 Summer,Corona,Corona,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2017-07-15,2017,0,12,2,2,0,0,2,2017 Summer Tour,2017 Summer,Simple,Simple,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2017-07-15,2017,0,13,2,2,0,0,3,2017 Summer Tour,2017 Summer,Winterqueen,Winterqueen,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2017-07-15,2017,0,14,3,2,0,0,3,2017 Summer Tour,2017 Summer,Light,Light,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,->
-2017-07-15,2017,0,15,3,2,0,0,11,2017 Summer Tour,2017 Summer,Scents and Subtle Sounds,Scents and Subtle Sounds,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,->
-2017-07-15,2017,0,16,2,2,0,0,6,2017 Summer Tour,2017 Summer,Cities,Cities,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2017-07-15,2017,0,10,4,1,0,0,5,2017 Summer Tour,2017 Summer,More,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,
+2017-07-15,2017,0,11,2,2,0,0,1756,2017 Summer Tour,2017 Summer,Corona,,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2017-07-15,2017,0,12,2,2,0,0,2,2017 Summer Tour,2017 Summer,Simple,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2017-07-15,2017,0,13,2,2,0,0,3,2017 Summer Tour,2017 Summer,Winterqueen,,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2017-07-15,2017,0,14,3,2,0,0,3,2017 Summer Tour,2017 Summer,Light,,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,->
+2017-07-15,2017,0,15,3,2,0,0,11,2017 Summer Tour,2017 Summer,Scents and Subtle Sounds,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,->
+2017-07-15,2017,0,16,2,2,0,0,6,2017 Summer Tour,2017 Summer,Cities,,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2017-07-15,2017,0,17,5,2,0,0,2,2017 Summer Tour,2017 Summer,Slave to the Traffic Light,Slave,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,
-2017-07-15,2017,0,18,6,e,0,0,5,2017 Summer Tour,2017 Summer,Loving Cup,Loving Cup,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,
-2017-07-16,2017,0,1,1,1,0,0,3,2017 Summer Tour,2017 Summer,Possum,Possum,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2017-07-16,2017,0,2,1,1,0,0,6,2017 Summer Tour,2017 Summer,555,555,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2017-07-16,2017,0,3,1,1,0,0,4,2017 Summer Tour,2017 Summer,Tube,Tube,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2017-07-16,2017,0,4,1,1,0,0,4,2017 Summer Tour,2017 Summer,Ocelot,Ocelot,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2017-07-16,2017,0,5,1,1,0,0,6,2017 Summer Tour,2017 Summer,Lawn Boy,Lawn Boy,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2017-07-16,2017,0,6,1,1,0,0,9,2017 Summer Tour,2017 Summer,Stash,Stash,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2017-07-16,2017,0,7,2,1,0,0,4,2017 Summer Tour,2017 Summer,The Line,The Line,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2017-07-15,2017,0,18,6,e,0,0,5,2017 Summer Tour,2017 Summer,Loving Cup,,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,
+2017-07-16,2017,0,1,1,1,0,0,3,2017 Summer Tour,2017 Summer,Possum,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2017-07-16,2017,0,2,1,1,0,0,6,2017 Summer Tour,2017 Summer,555,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2017-07-16,2017,0,3,1,1,0,0,4,2017 Summer Tour,2017 Summer,Tube,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2017-07-16,2017,0,4,1,1,0,0,4,2017 Summer Tour,2017 Summer,Ocelot,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2017-07-16,2017,0,5,1,1,0,0,6,2017 Summer Tour,2017 Summer,Lawn Boy,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2017-07-16,2017,0,6,1,1,0,0,9,2017 Summer Tour,2017 Summer,Stash,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2017-07-16,2017,0,7,2,1,0,0,4,2017 Summer Tour,2017 Summer,The Line,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2017-07-16,2017,0,8,1,1,0,0,11,2017 Summer Tour,2017 Summer,Birds of a Feather,BOAF,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2017-07-16,2017,0,9,2,1,0,0,5,2017 Summer Tour,2017 Summer,Funky Bitch,Funky Bitch,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2017-07-16,2017,0,9,2,1,0,0,5,2017 Summer Tour,2017 Summer,Funky Bitch,,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2017-07-16,2017,0,10,4,1,0,0,5,2017 Summer Tour,2017 Summer,Run Like an Antelope,Antelope,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,
-2017-07-16,2017,0,11,2,2,0,0,3,2017 Summer Tour,2017 Summer,Carini,Carini,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2017-07-16,2017,0,12,2,2,0,0,8,2017 Summer Tour,2017 Summer,Twenty Years Later,Twenty Years Later,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2017-07-16,2017,0,13,2,2,0,0,6,2017 Summer Tour,2017 Summer,Piper,Piper,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2017-07-16,2017,0,14,1,2,0,0,1761,2017 Summer Tour,2017 Summer,Thread,Thread,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
+2017-07-16,2017,0,11,2,2,0,0,3,2017 Summer Tour,2017 Summer,Carini,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2017-07-16,2017,0,12,2,2,0,0,8,2017 Summer Tour,2017 Summer,Twenty Years Later,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2017-07-16,2017,0,13,2,2,0,0,6,2017 Summer Tour,2017 Summer,Piper,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2017-07-16,2017,0,14,1,2,0,0,1761,2017 Summer Tour,2017 Summer,Thread,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,","
 2017-07-16,2017,0,15,2,2,0,0,7,2017 Summer Tour,2017 Summer,Bathtub Gin,Gin,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2017-07-16,2017,0,16,2,2,0,0,6,2017 Summer Tour,2017 Summer,Also Sprach Zarathustra,2001,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2017-07-16,2017,0,17,5,2,0,0,9,2017 Summer Tour,2017 Summer,Cavern,Cavern,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,
-2017-07-16,2017,0,18,2,e,0,0,7,2017 Summer Tour,2017 Summer,Wilson,Wilson,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2017-07-16,2017,0,19,6,e,0,0,6,2017 Summer Tour,2017 Summer,Character Zero,Character Zero,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,
-2017-07-18,2017,0,1,1,1,0,0,1758,2017 Summer Tour,2017 Summer,Tuesday,Tuesday,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
+2017-07-16,2017,0,17,5,2,0,0,9,2017 Summer Tour,2017 Summer,Cavern,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,
+2017-07-16,2017,0,18,2,e,0,0,7,2017 Summer Tour,2017 Summer,Wilson,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2017-07-16,2017,0,19,6,e,0,0,6,2017 Summer Tour,2017 Summer,Character Zero,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,
+2017-07-18,2017,0,1,1,1,0,0,1758,2017 Summer Tour,2017 Summer,Tuesday,,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
 2017-07-18,2017,0,2,2,1,0,0,9,2017 Summer Tour,2017 Summer,Peaches en Regalia,Peaches,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
-2017-07-18,2017,0,3,1,1,0,0,6,2017 Summer Tour,2017 Summer,Free,Free,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
-2017-07-18,2017,0,4,1,1,0,0,4,2017 Summer Tour,2017 Summer,Roggae,Roggae,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
-2017-07-18,2017,0,5,1,1,0,0,8,2017 Summer Tour,2017 Summer,Sugar Shack,Sugar Shack,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
-2017-07-18,2017,0,6,1,1,0,0,13,2017 Summer Tour,2017 Summer,Maze,Maze,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
-2017-07-18,2017,0,7,1,1,0,0,6,2017 Summer Tour,2017 Summer,Horn,Horn,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
-2017-07-18,2017,0,8,2,1,0,0,1766,2017 Summer Tour,2017 Summer,Crazy Sometimes,Crazy Sometimes,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
-2017-07-18,2017,0,9,2,1,0,0,9,2017 Summer Tour,2017 Summer,46 Days,46 Days,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
-2017-07-18,2017,0,10,4,1,0,0,17,2017 Summer Tour,2017 Summer,Runaway Jim,Runaway Jim,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,
+2017-07-18,2017,0,3,1,1,0,0,6,2017 Summer Tour,2017 Summer,Free,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
+2017-07-18,2017,0,4,1,1,0,0,4,2017 Summer Tour,2017 Summer,Roggae,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
+2017-07-18,2017,0,5,1,1,0,0,8,2017 Summer Tour,2017 Summer,Sugar Shack,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
+2017-07-18,2017,0,6,1,1,0,0,13,2017 Summer Tour,2017 Summer,Maze,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
+2017-07-18,2017,0,7,1,1,0,0,6,2017 Summer Tour,2017 Summer,Horn,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
+2017-07-18,2017,0,8,2,1,0,0,1766,2017 Summer Tour,2017 Summer,Crazy Sometimes,,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
+2017-07-18,2017,0,9,2,1,0,0,9,2017 Summer Tour,2017 Summer,46 Days,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
+2017-07-18,2017,0,10,4,1,0,0,17,2017 Summer Tour,2017 Summer,Runaway Jim,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,
 2017-07-18,2017,0,11,2,2,0,0,4,2017 Summer Tour,2017 Summer,Down with Disease,DwD,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
 2017-07-18,2017,0,12,2,2,0,0,89,2017 Summer Tour,2017 Summer,Mountains in the Mist,Mist,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
-2017-07-18,2017,0,13,2,2,0,0,15,2017 Summer Tour,2017 Summer,Waves,Waves,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
-2017-07-18,2017,0,14,2,2,0,0,4,2017 Summer Tour,2017 Summer,Ghost,Ghost,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
-2017-07-18,2017,0,15,2,2,0,0,11,2017 Summer Tour,2017 Summer,Wombat,Wombat,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
+2017-07-18,2017,0,13,2,2,0,0,15,2017 Summer Tour,2017 Summer,Waves,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
+2017-07-18,2017,0,14,2,2,0,0,4,2017 Summer Tour,2017 Summer,Ghost,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
+2017-07-18,2017,0,15,2,2,0,0,11,2017 Summer Tour,2017 Summer,Wombat,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
 2017-07-18,2017,0,16,5,2,0,0,5,2017 Summer Tour,2017 Summer,Chalk Dust Torture,CDT,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,
 2017-07-18,2017,0,17,6,e,0,0,14,2017 Summer Tour,2017 Summer,The Squirming Coil,Coil,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,
-2017-07-19,2017,0,1,1,1,0,0,8,2017 Summer Tour,2017 Summer,My Soul,My Soul,0,Petersen Events Center,Pittsburgh,PA,USA,","
-2017-07-19,2017,0,2,1,1,0,0,7,2017 Summer Tour,2017 Summer,NICU,NICU,1,Petersen Events Center,Pittsburgh,PA,USA,","
+2017-07-19,2017,0,1,1,1,0,0,8,2017 Summer Tour,2017 Summer,My Soul,,0,Petersen Events Center,Pittsburgh,PA,USA,","
+2017-07-19,2017,0,2,1,1,0,0,7,2017 Summer Tour,2017 Summer,NICU,,1,Petersen Events Center,Pittsburgh,PA,USA,","
 2017-07-19,2017,0,3,2,1,0,0,21,2017 Summer Tour,2017 Summer,Halley's Comet,Halley's,1,Petersen Events Center,Pittsburgh,PA,USA,>
-2017-07-19,2017,0,4,1,1,0,0,7,2017 Summer Tour,2017 Summer,Undermind,Undermind,0,Petersen Events Center,Pittsburgh,PA,USA,","
+2017-07-19,2017,0,4,1,1,0,0,7,2017 Summer Tour,2017 Summer,Undermind,,0,Petersen Events Center,Pittsburgh,PA,USA,","
 2017-07-19,2017,0,5,1,1,0,0,8,2017 Summer Tour,2017 Summer,Divided Sky,Divided,1,Petersen Events Center,Pittsburgh,PA,USA,","
-2017-07-19,2017,0,6,1,1,0,0,1759,2017 Summer Tour,2017 Summer,Marissa,Marissa,0,Petersen Events Center,Pittsburgh,PA,USA,","
-2017-07-19,2017,0,7,2,1,0,0,15,2017 Summer Tour,2017 Summer,Home,Home,1,Petersen Events Center,Pittsburgh,PA,USA,>
+2017-07-19,2017,0,6,1,1,0,0,1759,2017 Summer Tour,2017 Summer,Marissa,,0,Petersen Events Center,Pittsburgh,PA,USA,","
+2017-07-19,2017,0,7,2,1,0,0,15,2017 Summer Tour,2017 Summer,Home,,1,Petersen Events Center,Pittsburgh,PA,USA,>
 2017-07-19,2017,0,8,4,1,0,0,7,2017 Summer Tour,2017 Summer,Prince Caspian,Caspian,1,Petersen Events Center,Pittsburgh,PA,USA,
 2017-07-19,2017,0,9,2,2,0,0,29,2017 Summer Tour,2017 Summer,Punch You in the Eye,PYITE,1,Petersen Events Center,Pittsburgh,PA,USA,>
-2017-07-19,2017,0,10,2,2,0,0,380,2017 Summer Tour,2017 Summer,Mr. Completely,Mr. Completely,0,Petersen Events Center,Pittsburgh,PA,USA,>
-2017-07-19,2017,0,11,3,2,0,0,6,2017 Summer Tour,2017 Summer,Mercury,Mercury,1,Petersen Events Center,Pittsburgh,PA,USA,->
-2017-07-19,2017,0,12,1,2,0,0,1759,2017 Summer Tour,2017 Summer,Rise/Come Together,Rise/Come Together,0,Petersen Events Center,Pittsburgh,PA,USA,","
-2017-07-19,2017,0,13,1,2,0,0,7,2017 Summer Tour,2017 Summer,Contact,Contact,1,Petersen Events Center,Pittsburgh,PA,USA,","
-2017-07-19,2017,0,14,2,2,0,0,28,2017 Summer Tour,2017 Summer,Axilla,Axilla,1,Petersen Events Center,Pittsburgh,PA,USA,>
-2017-07-19,2017,0,15,2,2,0,0,15,2017 Summer Tour,2017 Summer,Steam,Steam,1,Petersen Events Center,Pittsburgh,PA,USA,>
+2017-07-19,2017,0,10,2,2,0,0,380,2017 Summer Tour,2017 Summer,Mr. Completely,,0,Petersen Events Center,Pittsburgh,PA,USA,>
+2017-07-19,2017,0,11,3,2,0,0,6,2017 Summer Tour,2017 Summer,Mercury,,1,Petersen Events Center,Pittsburgh,PA,USA,->
+2017-07-19,2017,0,12,1,2,0,0,1759,2017 Summer Tour,2017 Summer,Rise/Come Together,,0,Petersen Events Center,Pittsburgh,PA,USA,","
+2017-07-19,2017,0,13,1,2,0,0,7,2017 Summer Tour,2017 Summer,Contact,,1,Petersen Events Center,Pittsburgh,PA,USA,","
+2017-07-19,2017,0,14,2,2,0,0,28,2017 Summer Tour,2017 Summer,Axilla,,1,Petersen Events Center,Pittsburgh,PA,USA,>
+2017-07-19,2017,0,15,2,2,0,0,15,2017 Summer Tour,2017 Summer,Steam,,1,Petersen Events Center,Pittsburgh,PA,USA,>
 2017-07-19,2017,0,16,5,2,0,0,12,2017 Summer Tour,2017 Summer,Backwards Down the Number Line,BDTNL,0,Petersen Events Center,Pittsburgh,PA,USA,
-2017-07-19,2017,0,17,1,e,0,0,9,2017 Summer Tour,2017 Summer,Things People Do,Things People Do,1,Petersen Events Center,Pittsburgh,PA,USA,","
-2017-07-19,2017,0,18,2,e,0,0,7,2017 Summer Tour,2017 Summer,Bug,Bug,0,Petersen Events Center,Pittsburgh,PA,USA,>
-2017-07-19,2017,0,19,6,e,0,0,6,2017 Summer Tour,2017 Summer,Rocky Top,Rocky Top,0,Petersen Events Center,Pittsburgh,PA,USA,
-2017-07-21,2017,0,1,1,1,0,0,1768,2017 Summer Tour,2017 Summer,Shake Your Coconuts,Shake Your Coconuts,0,Madison Square Garden,New York,NY,USA,","
-2017-07-21,2017,0,2,1,1,0,0,4,2017 Summer Tour,2017 Summer,Martian Monster,Martian Monster,1,Madison Square Garden,New York,NY,USA,","
+2017-07-19,2017,0,17,1,e,0,0,9,2017 Summer Tour,2017 Summer,Things People Do,,1,Petersen Events Center,Pittsburgh,PA,USA,","
+2017-07-19,2017,0,18,2,e,0,0,7,2017 Summer Tour,2017 Summer,Bug,,0,Petersen Events Center,Pittsburgh,PA,USA,>
+2017-07-19,2017,0,19,6,e,0,0,6,2017 Summer Tour,2017 Summer,Rocky Top,,0,Petersen Events Center,Pittsburgh,PA,USA,
+2017-07-21,2017,0,1,1,1,0,0,1768,2017 Summer Tour,2017 Summer,Shake Your Coconuts,,0,Madison Square Garden,New York,NY,USA,","
+2017-07-21,2017,0,2,1,1,0,0,4,2017 Summer Tour,2017 Summer,Martian Monster,,1,Madison Square Garden,New York,NY,USA,","
 2017-07-21,2017,0,3,2,1,0,0,24,2017 Summer Tour,2017 Summer,Timber (Jerry the Mule),Timber Ho,0,Madison Square Garden,New York,NY,USA,>
-2017-07-21,2017,0,4,1,1,0,0,3,2017 Summer Tour,2017 Summer,555,555,1,Madison Square Garden,New York,NY,USA,","
-2017-07-21,2017,0,5,1,1,0,0,39,2017 Summer Tour,2017 Summer,Pigtail,Pigtail,1,Madison Square Garden,New York,NY,USA,","
-2017-07-21,2017,0,6,1,1,0,0,4,2017 Summer Tour,2017 Summer,Halfway to the Moon,Halfway to the Moon,1,Madison Square Garden,New York,NY,USA,","
-2017-07-21,2017,0,7,1,1,0,0,31,2017 Summer Tour,2017 Summer,Reba,Reba,1,Madison Square Garden,New York,NY,USA,","
-2017-07-21,2017,0,8,1,1,0,0,13,2017 Summer Tour,2017 Summer,Moonage Daydream,Moonage Daydream,0,Madison Square Garden,New York,NY,USA,","
+2017-07-21,2017,0,4,1,1,0,0,3,2017 Summer Tour,2017 Summer,555,,1,Madison Square Garden,New York,NY,USA,","
+2017-07-21,2017,0,5,1,1,0,0,39,2017 Summer Tour,2017 Summer,Pigtail,,1,Madison Square Garden,New York,NY,USA,","
+2017-07-21,2017,0,6,1,1,0,0,4,2017 Summer Tour,2017 Summer,Halfway to the Moon,,1,Madison Square Garden,New York,NY,USA,","
+2017-07-21,2017,0,7,1,1,0,0,31,2017 Summer Tour,2017 Summer,Reba,,1,Madison Square Garden,New York,NY,USA,","
+2017-07-21,2017,0,8,1,1,0,0,13,2017 Summer Tour,2017 Summer,Moonage Daydream,,0,Madison Square Garden,New York,NY,USA,","
 2017-07-21,2017,0,9,4,1,0,0,9,2017 Summer Tour,2017 Summer,Walls of the Cave,WotC,1,Madison Square Garden,New York,NY,USA,
-2017-07-21,2017,0,10,2,2,0,0,6,2017 Summer Tour,2017 Summer,Tweezer,Tweezer,1,Madison Square Garden,New York,NY,USA,>
-2017-07-21,2017,0,11,2,2,0,0,8,2017 Summer Tour,2017 Summer,Seven Below,Seven Below,1,Madison Square Garden,New York,NY,USA,>
-2017-07-21,2017,0,12,2,2,0,0,41,2017 Summer Tour,2017 Summer,Billy Breathes,Billy Breathes,1,Madison Square Garden,New York,NY,USA,>
-2017-07-21,2017,0,13,1,2,0,0,23,2017 Summer Tour,2017 Summer,Sparkle,Sparkle,1,Madison Square Garden,New York,NY,USA,","
-2017-07-21,2017,0,14,2,2,0,0,5,2017 Summer Tour,2017 Summer,Everything's Right,Everything's Right,0,Madison Square Garden,New York,NY,USA,>
+2017-07-21,2017,0,10,2,2,0,0,6,2017 Summer Tour,2017 Summer,Tweezer,,1,Madison Square Garden,New York,NY,USA,>
+2017-07-21,2017,0,11,2,2,0,0,8,2017 Summer Tour,2017 Summer,Seven Below,,1,Madison Square Garden,New York,NY,USA,>
+2017-07-21,2017,0,12,2,2,0,0,41,2017 Summer Tour,2017 Summer,Billy Breathes,,1,Madison Square Garden,New York,NY,USA,>
+2017-07-21,2017,0,13,1,2,0,0,23,2017 Summer Tour,2017 Summer,Sparkle,,1,Madison Square Garden,New York,NY,USA,","
+2017-07-21,2017,0,14,2,2,0,0,5,2017 Summer Tour,2017 Summer,Everything's Right,,0,Madison Square Garden,New York,NY,USA,>
 2017-07-21,2017,0,15,2,2,0,0,4,2017 Summer Tour,2017 Summer,Slave to the Traffic Light,Slave,1,Madison Square Garden,New York,NY,USA,>
 2017-07-21,2017,0,16,1,2,0,0,9,2017 Summer Tour,2017 Summer,Suzy Greenberg,Suzy,1,Madison Square Garden,New York,NY,USA,","
-2017-07-21,2017,0,17,5,2,0,0,1760,2017 Summer Tour,2017 Summer,Coconut,Coconut,0,Madison Square Garden,New York,NY,USA,
+2017-07-21,2017,0,17,5,2,0,0,1760,2017 Summer Tour,2017 Summer,Coconut,,0,Madison Square Garden,New York,NY,USA,
 2017-07-21,2017,0,18,2,e,0,0,38,2017 Summer Tour,2017 Summer,The Mango Song,Mango,1,Madison Square Garden,New York,NY,USA,>
 2017-07-21,2017,0,19,6,e,0,0,12,2017 Summer Tour,2017 Summer,Good Times Bad Times,GTBT,0,Madison Square Garden,New York,NY,USA,
-2017-07-22,2017,0,1,1,1,0,0,1769,2017 Summer Tour,2017 Summer,Strawberry Fields Forever,Strawberry Fields Forever,0,Madison Square Garden,New York,NY,USA,","
+2017-07-22,2017,0,1,1,1,0,0,1769,2017 Summer Tour,2017 Summer,Strawberry Fields Forever,,0,Madison Square Garden,New York,NY,USA,","
 2017-07-22,2017,0,2,2,1,0,0,2,2017 Summer Tour,2017 Summer,Halley's Comet,Halley's,1,Madison Square Garden,New York,NY,USA,>
 2017-07-22,2017,0,3,2,1,0,0,5,2017 Summer Tour,2017 Summer,The Moma Dance,Moma,1,Madison Square Garden,New York,NY,USA,>
-2017-07-22,2017,0,4,2,1,0,0,6,2017 Summer Tour,2017 Summer,Breath and Burning,Breath and Burning,1,Madison Square Garden,New York,NY,USA,>
-2017-07-22,2017,0,5,1,1,0,0,4,2017 Summer Tour,2017 Summer,Funky Bitch,Funky Bitch,0,Madison Square Garden,New York,NY,USA,","
-2017-07-22,2017,0,6,1,1,0,0,39,2017 Summer Tour,2017 Summer,Mound,Mound,1,Madison Square Garden,New York,NY,USA,","
-2017-07-22,2017,0,7,1,1,0,0,18,2017 Summer Tour,2017 Summer,Foam,Foam,1,Madison Square Garden,New York,NY,USA,","
-2017-07-22,2017,0,8,1,1,0,0,3,2017 Summer Tour,2017 Summer,Roggae,Roggae,1,Madison Square Garden,New York,NY,USA,","
+2017-07-22,2017,0,4,2,1,0,0,6,2017 Summer Tour,2017 Summer,Breath and Burning,,1,Madison Square Garden,New York,NY,USA,>
+2017-07-22,2017,0,5,1,1,0,0,4,2017 Summer Tour,2017 Summer,Funky Bitch,,0,Madison Square Garden,New York,NY,USA,","
+2017-07-22,2017,0,6,1,1,0,0,39,2017 Summer Tour,2017 Summer,Mound,,1,Madison Square Garden,New York,NY,USA,","
+2017-07-22,2017,0,7,1,1,0,0,18,2017 Summer Tour,2017 Summer,Foam,,1,Madison Square Garden,New York,NY,USA,","
+2017-07-22,2017,0,8,1,1,0,0,3,2017 Summer Tour,2017 Summer,Roggae,,1,Madison Square Garden,New York,NY,USA,","
 2017-07-22,2017,0,9,4,1,0,0,3,2017 Summer Tour,2017 Summer,The Squirming Coil,Coil,1,Madison Square Garden,New York,NY,USA,
 2017-07-22,2017,0,10,2,2,0,0,3,2017 Summer Tour,2017 Summer,Down with Disease,DwD,1,Madison Square Garden,New York,NY,USA,>
-2017-07-22,2017,0,11,2,2,0,0,1761,2017 Summer Tour,2017 Summer,Strawberry Letter 23,Strawberry Letter 23,0,Madison Square Garden,New York,NY,USA,>
+2017-07-22,2017,0,11,2,2,0,0,1761,2017 Summer Tour,2017 Summer,Strawberry Letter 23,,0,Madison Square Garden,New York,NY,USA,>
 2017-07-22,2017,0,12,1,2,0,0,4,2017 Summer Tour,2017 Summer,Birds of a Feather,BOAF,1,Madison Square Garden,New York,NY,USA,","
-2017-07-22,2017,0,13,2,2,0,0,16,2017 Summer Tour,2017 Summer,I Always Wanted It This Way,I Always Wanted It This Way,1,Madison Square Garden,New York,NY,USA,>
-2017-07-22,2017,0,14,1,2,0,0,251,2017 Summer Tour,2017 Summer,All of These Dreams,All of These Dreams,1,Madison Square Garden,New York,NY,USA,","
+2017-07-22,2017,0,13,2,2,0,0,16,2017 Summer Tour,2017 Summer,I Always Wanted It This Way,,1,Madison Square Garden,New York,NY,USA,>
+2017-07-22,2017,0,14,1,2,0,0,251,2017 Summer Tour,2017 Summer,All of These Dreams,,1,Madison Square Garden,New York,NY,USA,","
 2017-07-22,2017,0,15,2,2,0,0,12,2017 Summer Tour,2017 Summer,Split Open and Melt,SOAMelt,1,Madison Square Garden,New York,NY,USA,>
 2017-07-22,2017,0,16,2,2,0,0,0,2017 Summer Tour,2017 Summer,Down with Disease,DwD,1,Madison Square Garden,New York,NY,USA,>
-2017-07-22,2017,0,17,5,2,0,0,6,2017 Summer Tour,2017 Summer,Shine a Light,Shine a Light,0,Madison Square Garden,New York,NY,USA,
+2017-07-22,2017,0,17,5,2,0,0,6,2017 Summer Tour,2017 Summer,Shine a Light,,0,Madison Square Garden,New York,NY,USA,
 2017-07-22,2017,0,18,2,e,0,0,3,2017 Summer Tour,2017 Summer,Peaches en Regalia,Peaches,0,Madison Square Garden,New York,NY,USA,>
-2017-07-22,2017,0,19,1,e,0,0,5,2017 Summer Tour,2017 Summer,Cities,Cities,0,Madison Square Garden,New York,NY,USA,","
+2017-07-22,2017,0,19,1,e,0,0,5,2017 Summer Tour,2017 Summer,Cities,,0,Madison Square Garden,New York,NY,USA,","
 2017-07-22,2017,0,20,6,e,0,0,22,2017 Summer Tour,2017 Summer,My Sweet One,MSO,1,Madison Square Garden,New York,NY,USA,
-2017-07-23,2017,0,1,1,1,0,0,1762,2017 Summer Tour,2017 Summer,Sunday Morning,Sunday Morning,0,Madison Square Garden,New York,NY,USA,","
-2017-07-23,2017,0,2,1,1,0,0,3,2017 Summer Tour,2017 Summer,Axilla,Axilla,1,Madison Square Garden,New York,NY,USA,","
-2017-07-23,2017,0,3,2,1,0,0,7,2017 Summer Tour,2017 Summer,Your Pet Cat,Your Pet Cat,1,Madison Square Garden,New York,NY,USA,>
+2017-07-23,2017,0,1,1,1,0,0,1762,2017 Summer Tour,2017 Summer,Sunday Morning,,0,Madison Square Garden,New York,NY,USA,","
+2017-07-23,2017,0,2,1,1,0,0,3,2017 Summer Tour,2017 Summer,Axilla,,1,Madison Square Garden,New York,NY,USA,","
+2017-07-23,2017,0,3,2,1,0,0,7,2017 Summer Tour,2017 Summer,Your Pet Cat,,1,Madison Square Garden,New York,NY,USA,>
 2017-07-23,2017,0,4,1,1,0,0,11,2017 Summer Tour,2017 Summer,Back on the Train,BOTT,0,Madison Square Garden,New York,NY,USA,","
-2017-07-23,2017,0,5,1,1,0,0,16,2017 Summer Tour,2017 Summer,How Many People Are You,How Many People Are You,0,Madison Square Garden,New York,NY,USA,","
-2017-07-23,2017,0,6,1,1,0,0,67,2017 Summer Tour,2017 Summer,Glide,Glide,1,Madison Square Garden,New York,NY,USA,","
+2017-07-23,2017,0,5,1,1,0,0,16,2017 Summer Tour,2017 Summer,How Many People Are You,,0,Madison Square Garden,New York,NY,USA,","
+2017-07-23,2017,0,6,1,1,0,0,67,2017 Summer Tour,2017 Summer,Glide,,1,Madison Square Garden,New York,NY,USA,","
 2017-07-23,2017,0,7,2,1,0,0,7,2017 Summer Tour,2017 Summer,Theme From the Bottom,Theme,1,Madison Square Garden,New York,NY,USA,>
-2017-07-23,2017,0,8,2,1,0,0,20,2017 Summer Tour,2017 Summer,It's Ice,It's Ice,1,Madison Square Garden,New York,NY,USA,>
-2017-07-23,2017,0,9,4,1,0,0,6,2017 Summer Tour,2017 Summer,More,More,1,Madison Square Garden,New York,NY,USA,
+2017-07-23,2017,0,8,2,1,0,0,20,2017 Summer Tour,2017 Summer,It's Ice,,1,Madison Square Garden,New York,NY,USA,>
+2017-07-23,2017,0,9,4,1,0,0,6,2017 Summer Tour,2017 Summer,More,,1,Madison Square Garden,New York,NY,USA,
 2017-07-23,2017,0,10,2,2,0,0,9,2017 Summer Tour,2017 Summer,AC/DC Bag,Bag,1,Madison Square Garden,New York,NY,USA,>
 2017-07-23,2017,0,11,2,2,0,0,7,2017 Summer Tour,2017 Summer,Wolfman's Brother,Wolfman's,1,Madison Square Garden,New York,NY,USA,>
-2017-07-23,2017,0,12,2,2,0,0,10,2017 Summer Tour,2017 Summer,Twist,Twist,1,Madison Square Garden,New York,NY,USA,>
-2017-07-23,2017,0,13,2,2,0,0,4,2017 Summer Tour,2017 Summer,Waves,Waves,1,Madison Square Garden,New York,NY,USA,>
-2017-07-23,2017,0,14,1,2,0,0,16,2017 Summer Tour,2017 Summer,Miss You,Miss You,1,Madison Square Garden,New York,NY,USA,","
+2017-07-23,2017,0,12,2,2,0,0,10,2017 Summer Tour,2017 Summer,Twist,,1,Madison Square Garden,New York,NY,USA,>
+2017-07-23,2017,0,13,2,2,0,0,4,2017 Summer Tour,2017 Summer,Waves,,1,Madison Square Garden,New York,NY,USA,>
+2017-07-23,2017,0,14,1,2,0,0,16,2017 Summer Tour,2017 Summer,Miss You,,1,Madison Square Garden,New York,NY,USA,","
 2017-07-23,2017,0,15,1,2,0,0,8,2017 Summer Tour,2017 Summer,Boogie On Reggae Woman,Boogie On,0,Madison Square Garden,New York,NY,USA,","
 2017-07-23,2017,0,16,5,2,0,0,9,2017 Summer Tour,2017 Summer,Wading in the Velvet Sea,Velvet Sea,1,Madison Square Garden,New York,NY,USA,
-2017-07-23,2017,0,17,6,e,0,0,193,2017 Summer Tour,2017 Summer,Sweet Jane,Sweet Jane,0,Madison Square Garden,New York,NY,USA,
+2017-07-23,2017,0,17,6,e,0,0,193,2017 Summer Tour,2017 Summer,Sweet Jane,,0,Madison Square Garden,New York,NY,USA,
 2017-07-25,2017,0,1,1,1,0,0,22,2017 Summer Tour,2017 Summer,Sample in a Jar,Sample,1,Madison Square Garden,New York,NY,USA,","
-2017-07-25,2017,0,2,2,1,0,0,6,2017 Summer Tour,2017 Summer,Lawn Boy,Lawn Boy,1,Madison Square Garden,New York,NY,USA,>
+2017-07-25,2017,0,2,2,1,0,0,6,2017 Summer Tour,2017 Summer,Lawn Boy,,1,Madison Square Garden,New York,NY,USA,>
 2017-07-25,2017,0,3,2,1,0,0,8,2017 Summer Tour,2017 Summer,"My Friend, My Friend",My Friend,1,Madison Square Garden,New York,NY,USA,>
-2017-07-25,2017,0,4,1,1,0,0,6,2017 Summer Tour,2017 Summer,Stash,Stash,1,Madison Square Garden,New York,NY,USA,","
+2017-07-25,2017,0,4,1,1,0,0,6,2017 Summer Tour,2017 Summer,Stash,,1,Madison Square Garden,New York,NY,USA,","
 2017-07-25,2017,0,5,4,1,0,0,6,2017 Summer Tour,2017 Summer,Bathtub Gin,Gin,1,Madison Square Garden,New York,NY,USA,
-2017-07-25,2017,0,6,2,2,0,0,8,2017 Summer Tour,2017 Summer,Fuego,Fuego,1,Madison Square Garden,New York,NY,USA,>
-2017-07-25,2017,0,7,2,2,0,0,6,2017 Summer Tour,2017 Summer,Thread,Thread,1,Madison Square Garden,New York,NY,USA,>
+2017-07-25,2017,0,6,2,2,0,0,8,2017 Summer Tour,2017 Summer,Fuego,,1,Madison Square Garden,New York,NY,USA,>
+2017-07-25,2017,0,7,2,2,0,0,6,2017 Summer Tour,2017 Summer,Thread,,1,Madison Square Garden,New York,NY,USA,>
 2017-07-25,2017,0,8,2,2,0,0,10,2017 Summer Tour,2017 Summer,Crosseyed and Painless,C&amp;P,0,Madison Square Garden,New York,NY,USA,>
 2017-07-25,2017,0,9,3,2,0,0,14,2017 Summer Tour,2017 Summer,Makisupa Policeman,Makisupa,1,Madison Square Garden,New York,NY,USA,->
-2017-07-25,2017,0,10,2,2,0,0,1771,2017 Summer Tour,2017 Summer,End of Session,End of Session,1,Madison Square Garden,New York,NY,USA,>
-2017-07-25,2017,0,11,2,2,0,0,5,2017 Summer Tour,2017 Summer,Tuesday,Tuesday,0,Madison Square Garden,New York,NY,USA,>
-2017-07-25,2017,0,12,5,2,0,0,6,2017 Summer Tour,2017 Summer,Cavern,Cavern,1,Madison Square Garden,New York,NY,USA,
-2017-07-25,2017,0,13,2,e,0,0,8,2017 Summer Tour,2017 Summer,Julius,Julius,1,Madison Square Garden,New York,NY,USA,>
-2017-07-25,2017,0,14,6,e,0,0,0,2017 Summer Tour,2017 Summer,Lawn Boy,Lawn Boy,1,Madison Square Garden,New York,NY,USA,
-2017-07-26,2017,0,1,1,1,0,0,1764,2017 Summer Tour,2017 Summer,White Winter Hymnal,White Winter Hymnal,0,Madison Square Garden,New York,NY,USA,","
+2017-07-25,2017,0,10,2,2,0,0,1771,2017 Summer Tour,2017 Summer,End of Session,,1,Madison Square Garden,New York,NY,USA,>
+2017-07-25,2017,0,11,2,2,0,0,5,2017 Summer Tour,2017 Summer,Tuesday,,0,Madison Square Garden,New York,NY,USA,>
+2017-07-25,2017,0,12,5,2,0,0,6,2017 Summer Tour,2017 Summer,Cavern,,1,Madison Square Garden,New York,NY,USA,
+2017-07-25,2017,0,13,2,e,0,0,8,2017 Summer Tour,2017 Summer,Julius,,1,Madison Square Garden,New York,NY,USA,>
+2017-07-25,2017,0,14,6,e,0,0,0,2017 Summer Tour,2017 Summer,Lawn Boy,,1,Madison Square Garden,New York,NY,USA,
+2017-07-26,2017,0,1,1,1,0,0,1764,2017 Summer Tour,2017 Summer,White Winter Hymnal,,0,Madison Square Garden,New York,NY,USA,","
 2017-07-26,2017,0,2,1,1,0,0,45,2017 Summer Tour,2017 Summer,Cars Trucks Buses,CTB,1,Madison Square Garden,New York,NY,USA,","
-2017-07-26,2017,0,3,1,1,0,0,5,2017 Summer Tour,2017 Summer,My Soul,My Soul,0,Madison Square Garden,New York,NY,USA,","
+2017-07-26,2017,0,3,1,1,0,0,5,2017 Summer Tour,2017 Summer,My Soul,,0,Madison Square Garden,New York,NY,USA,","
 2017-07-26,2017,0,4,2,1,0,0,15,2017 Summer Tour,2017 Summer,Roses Are Free,Roses,0,Madison Square Garden,New York,NY,USA,>
-2017-07-26,2017,0,5,1,1,0,0,37,2017 Summer Tour,2017 Summer,The Very Long Fuse,The Very Long Fuse,1,Madison Square Garden,New York,NY,USA,","
-2017-07-26,2017,0,6,1,1,0,0,14,2017 Summer Tour,2017 Summer,Gumbo,Gumbo,1,Madison Square Garden,New York,NY,USA,","
-2017-07-26,2017,0,7,1,1,0,0,12,2017 Summer Tour,2017 Summer,Yarmouth Road,Yarmouth Road,1,Madison Square Garden,New York,NY,USA,","
-2017-07-26,2017,0,8,1,1,0,0,106,2017 Summer Tour,2017 Summer,Pebbles and Marbles,Pebbles and Marbles,0,Madison Square Garden,New York,NY,USA,","
-2017-07-26,2017,0,9,1,1,0,0,31,2017 Summer Tour,2017 Summer,Farmhouse,Farmhouse,1,Madison Square Garden,New York,NY,USA,","
-2017-07-26,2017,0,10,4,1,0,0,7,2017 Summer Tour,2017 Summer,Tube,Tube,1,Madison Square Garden,New York,NY,USA,
-2017-07-26,2017,0,11,3,2,0,0,7,2017 Summer Tour,2017 Summer,Carini,Carini,1,Madison Square Garden,New York,NY,USA,->
-2017-07-26,2017,0,12,2,2,0,0,5,2017 Summer Tour,2017 Summer,Mr. Completely,Mr. Completely,0,Madison Square Garden,New York,NY,USA,>
-2017-07-26,2017,0,13,3,2,0,0,524,2017 Summer Tour,2017 Summer,1999,1999,0,Madison Square Garden,New York,NY,USA,->
-2017-07-26,2017,0,14,2,2,0,0,5,2017 Summer Tour,2017 Summer,Steam,Steam,1,Madison Square Garden,New York,NY,USA,>
-2017-07-26,2017,0,15,1,2,0,0,23,2017 Summer Tour,2017 Summer,No Quarter,No Quarter,0,Madison Square Garden,New York,NY,USA,","
-2017-07-26,2017,0,16,5,2,0,0,7,2017 Summer Tour,2017 Summer,Character Zero,Character Zero,1,Madison Square Garden,New York,NY,USA,
-2017-07-26,2017,0,17,6,e,0,0,1764,2017 Summer Tour,2017 Summer,Powderfinger,Powderfinger,0,Madison Square Garden,New York,NY,USA,
-2017-07-28,2017,0,1,1,1,0,0,1765,2017 Summer Tour,2017 Summer,Chocolate Rain,Chocolate Rain,0,Madison Square Garden,New York,NY,USA,","
-2017-07-28,2017,0,2,1,1,0,0,14,2017 Summer Tour,2017 Summer,Ass Handed,Ass Handed,1,Madison Square Garden,New York,NY,USA,","
-2017-07-28,2017,0,3,1,1,0,0,7,2017 Summer Tour,2017 Summer,Free,Free,1,Madison Square Garden,New York,NY,USA,","
-2017-07-28,2017,0,4,2,1,0,0,74,2017 Summer Tour,2017 Summer,Weigh,Weigh,1,Madison Square Garden,New York,NY,USA,>
-2017-07-28,2017,0,5,2,1,0,0,6,2017 Summer Tour,2017 Summer,Undermind,Undermind,0,Madison Square Garden,New York,NY,USA,>
+2017-07-26,2017,0,5,1,1,0,0,37,2017 Summer Tour,2017 Summer,The Very Long Fuse,,1,Madison Square Garden,New York,NY,USA,","
+2017-07-26,2017,0,6,1,1,0,0,14,2017 Summer Tour,2017 Summer,Gumbo,,1,Madison Square Garden,New York,NY,USA,","
+2017-07-26,2017,0,7,1,1,0,0,12,2017 Summer Tour,2017 Summer,Yarmouth Road,,1,Madison Square Garden,New York,NY,USA,","
+2017-07-26,2017,0,8,1,1,0,0,106,2017 Summer Tour,2017 Summer,Pebbles and Marbles,,0,Madison Square Garden,New York,NY,USA,","
+2017-07-26,2017,0,9,1,1,0,0,31,2017 Summer Tour,2017 Summer,Farmhouse,,1,Madison Square Garden,New York,NY,USA,","
+2017-07-26,2017,0,10,4,1,0,0,7,2017 Summer Tour,2017 Summer,Tube,,1,Madison Square Garden,New York,NY,USA,
+2017-07-26,2017,0,11,3,2,0,0,7,2017 Summer Tour,2017 Summer,Carini,,1,Madison Square Garden,New York,NY,USA,->
+2017-07-26,2017,0,12,2,2,0,0,5,2017 Summer Tour,2017 Summer,Mr. Completely,,0,Madison Square Garden,New York,NY,USA,>
+2017-07-26,2017,0,13,3,2,0,0,524,2017 Summer Tour,2017 Summer,1999,,0,Madison Square Garden,New York,NY,USA,->
+2017-07-26,2017,0,14,2,2,0,0,5,2017 Summer Tour,2017 Summer,Steam,,1,Madison Square Garden,New York,NY,USA,>
+2017-07-26,2017,0,15,1,2,0,0,23,2017 Summer Tour,2017 Summer,No Quarter,,0,Madison Square Garden,New York,NY,USA,","
+2017-07-26,2017,0,16,5,2,0,0,7,2017 Summer Tour,2017 Summer,Character Zero,,1,Madison Square Garden,New York,NY,USA,
+2017-07-26,2017,0,17,6,e,0,0,1764,2017 Summer Tour,2017 Summer,Powderfinger,,0,Madison Square Garden,New York,NY,USA,
+2017-07-28,2017,0,1,1,1,0,0,1765,2017 Summer Tour,2017 Summer,Chocolate Rain,,0,Madison Square Garden,New York,NY,USA,","
+2017-07-28,2017,0,2,1,1,0,0,14,2017 Summer Tour,2017 Summer,Ass Handed,,1,Madison Square Garden,New York,NY,USA,","
+2017-07-28,2017,0,3,1,1,0,0,7,2017 Summer Tour,2017 Summer,Free,,1,Madison Square Garden,New York,NY,USA,","
+2017-07-28,2017,0,4,2,1,0,0,74,2017 Summer Tour,2017 Summer,Weigh,,1,Madison Square Garden,New York,NY,USA,>
+2017-07-28,2017,0,5,2,1,0,0,6,2017 Summer Tour,2017 Summer,Undermind,,0,Madison Square Garden,New York,NY,USA,>
 2017-07-28,2017,0,6,1,1,0,0,38,2017 Summer Tour,2017 Summer,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Madison Square Garden,New York,NY,USA,","
-2017-07-28,2017,0,7,2,1,0,0,19,2017 Summer Tour,2017 Summer,The Dogs,The Dogs,1,Madison Square Garden,New York,NY,USA,>
+2017-07-28,2017,0,7,2,1,0,0,19,2017 Summer Tour,2017 Summer,The Dogs,,1,Madison Square Garden,New York,NY,USA,>
 2017-07-28,2017,0,8,1,1,0,0,21,2017 Summer Tour,2017 Summer,Destiny Unbound,Destiny,1,Madison Square Garden,New York,NY,USA,","
 2017-07-28,2017,0,9,1,1,0,0,6,2017 Summer Tour,2017 Summer,Divided Sky,Divided,1,Madison Square Garden,New York,NY,USA,","
-2017-07-28,2017,0,10,1,1,0,0,6,2017 Summer Tour,2017 Summer,Things People Do,Things People Do,1,Madison Square Garden,New York,NY,USA,","
-2017-07-28,2017,0,11,4,1,0,0,13,2017 Summer Tour,2017 Summer,Sand,Sand,0,Madison Square Garden,New York,NY,USA,
-2017-07-28,2017,0,12,1,2,0,0,19,2017 Summer Tour,2017 Summer,Have Mercy,Have Mercy,0,Madison Square Garden,New York,NY,USA,","
+2017-07-28,2017,0,10,1,1,0,0,6,2017 Summer Tour,2017 Summer,Things People Do,,1,Madison Square Garden,New York,NY,USA,","
+2017-07-28,2017,0,11,4,1,0,0,13,2017 Summer Tour,2017 Summer,Sand,,0,Madison Square Garden,New York,NY,USA,
+2017-07-28,2017,0,12,1,2,0,0,19,2017 Summer Tour,2017 Summer,Have Mercy,,0,Madison Square Garden,New York,NY,USA,","
 2017-07-28,2017,0,13,1,2,0,0,7,2017 Summer Tour,2017 Summer,Chalk Dust Torture,CDT,1,Madison Square Garden,New York,NY,USA,","
-2017-07-28,2017,0,14,2,2,0,0,1765,2017 Summer Tour,2017 Summer,You Sexy Thing,You Sexy Thing,0,Madison Square Garden,New York,NY,USA,>
-2017-07-28,2017,0,15,3,2,0,0,6,2017 Summer Tour,2017 Summer,Mercury,Mercury,1,Madison Square Garden,New York,NY,USA,->
-2017-07-28,2017,0,16,2,2,0,0,0,2017 Summer Tour,2017 Summer,You Sexy Thing,You Sexy Thing,0,Madison Square Garden,New York,NY,USA,>
+2017-07-28,2017,0,14,2,2,0,0,1765,2017 Summer Tour,2017 Summer,You Sexy Thing,,0,Madison Square Garden,New York,NY,USA,>
+2017-07-28,2017,0,15,3,2,0,0,6,2017 Summer Tour,2017 Summer,Mercury,,1,Madison Square Garden,New York,NY,USA,->
+2017-07-28,2017,0,16,2,2,0,0,0,2017 Summer Tour,2017 Summer,You Sexy Thing,,0,Madison Square Garden,New York,NY,USA,>
 2017-07-28,2017,0,17,2,2,0,0,6,2017 Summer Tour,2017 Summer,Backwards Down the Number Line,BDTNL,0,Madison Square Garden,New York,NY,USA,>
 2017-07-28,2017,0,18,5,2,0,0,15,2017 Summer Tour,2017 Summer,Rock and Roll,R&amp;R,0,Madison Square Garden,New York,NY,USA,
-2017-07-28,2017,0,19,1,e,0,0,38,2017 Summer Tour,2017 Summer,Fee,Fee,1,Madison Square Garden,New York,NY,USA,","
-2017-07-28,2017,0,20,6,e,0,0,18,2017 Summer Tour,2017 Summer,Space Oddity,Space Oddity,0,Madison Square Garden,New York,NY,USA,
-2017-07-29,2017,0,1,1,1,0,0,51,2017 Summer Tour,2017 Summer,Llama,Llama,1,Madison Square Garden,New York,NY,USA,","
-2017-07-29,2017,0,2,2,1,0,0,9,2017 Summer Tour,2017 Summer,Wilson,Wilson,1,Madison Square Garden,New York,NY,USA,>
+2017-07-28,2017,0,19,1,e,0,0,38,2017 Summer Tour,2017 Summer,Fee,,1,Madison Square Garden,New York,NY,USA,","
+2017-07-28,2017,0,20,6,e,0,0,18,2017 Summer Tour,2017 Summer,Space Oddity,,0,Madison Square Garden,New York,NY,USA,
+2017-07-29,2017,0,1,1,1,0,0,51,2017 Summer Tour,2017 Summer,Llama,,1,Madison Square Garden,New York,NY,USA,","
+2017-07-29,2017,0,2,2,1,0,0,9,2017 Summer Tour,2017 Summer,Wilson,,1,Madison Square Garden,New York,NY,USA,>
 2017-07-29,2017,0,3,2,1,0,0,10,2017 Summer Tour,2017 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Madison Square Garden,New York,NY,USA,>
-2017-07-29,2017,0,4,1,1,0,0,10,2017 Summer Tour,2017 Summer,Ya Mar,Ya Mar,0,Madison Square Garden,New York,NY,USA,","
-2017-07-29,2017,0,5,1,1,0,0,45,2017 Summer Tour,2017 Summer,Tela,Tela,1,Madison Square Garden,New York,NY,USA,","
-2017-07-29,2017,0,6,2,1,0,0,21,2017 Summer Tour,2017 Summer,The Birds,The Birds,1,Madison Square Garden,New York,NY,USA,>
-2017-07-29,2017,0,7,1,1,0,0,9,2017 Summer Tour,2017 Summer,The Line,The Line,1,Madison Square Garden,New York,NY,USA,","
-2017-07-29,2017,0,8,1,1,0,0,24,2017 Summer Tour,2017 Summer,Water in the Sky,Water in the Sky,1,Madison Square Garden,New York,NY,USA,","
-2017-07-29,2017,0,9,2,1,0,0,45,2017 Summer Tour,2017 Summer,Vultures,Vultures,1,Madison Square Garden,New York,NY,USA,>
-2017-07-29,2017,0,10,2,1,0,0,18,2017 Summer Tour,2017 Summer,Train Song,Train Song,1,Madison Square Garden,New York,NY,USA,>
-2017-07-29,2017,0,11,1,1,0,0,8,2017 Summer Tour,2017 Summer,Horn,Horn,1,Madison Square Garden,New York,NY,USA,","
-2017-07-29,2017,0,12,4,1,0,0,46,2017 Summer Tour,2017 Summer,I Am the Walrus,I Am the Walrus,0,Madison Square Garden,New York,NY,USA,
-2017-07-29,2017,0,13,2,2,0,0,11,2017 Summer Tour,2017 Summer,Blaze On,Blaze On,1,Madison Square Garden,New York,NY,USA,>
-2017-07-29,2017,0,14,2,2,0,0,9,2017 Summer Tour,2017 Summer,Twenty Years Later,Twenty Years Later,1,Madison Square Garden,New York,NY,USA,>
+2017-07-29,2017,0,4,1,1,0,0,10,2017 Summer Tour,2017 Summer,Ya Mar,,0,Madison Square Garden,New York,NY,USA,","
+2017-07-29,2017,0,5,1,1,0,0,45,2017 Summer Tour,2017 Summer,Tela,,1,Madison Square Garden,New York,NY,USA,","
+2017-07-29,2017,0,6,2,1,0,0,21,2017 Summer Tour,2017 Summer,The Birds,,1,Madison Square Garden,New York,NY,USA,>
+2017-07-29,2017,0,7,1,1,0,0,9,2017 Summer Tour,2017 Summer,The Line,,1,Madison Square Garden,New York,NY,USA,","
+2017-07-29,2017,0,8,1,1,0,0,24,2017 Summer Tour,2017 Summer,Water in the Sky,,1,Madison Square Garden,New York,NY,USA,","
+2017-07-29,2017,0,9,2,1,0,0,45,2017 Summer Tour,2017 Summer,Vultures,,1,Madison Square Garden,New York,NY,USA,>
+2017-07-29,2017,0,10,2,1,0,0,18,2017 Summer Tour,2017 Summer,Train Song,,1,Madison Square Garden,New York,NY,USA,>
+2017-07-29,2017,0,11,1,1,0,0,8,2017 Summer Tour,2017 Summer,Horn,,1,Madison Square Garden,New York,NY,USA,","
+2017-07-29,2017,0,12,4,1,0,0,46,2017 Summer Tour,2017 Summer,I Am the Walrus,,0,Madison Square Garden,New York,NY,USA,
+2017-07-29,2017,0,13,2,2,0,0,11,2017 Summer Tour,2017 Summer,Blaze On,,1,Madison Square Garden,New York,NY,USA,>
+2017-07-29,2017,0,14,2,2,0,0,9,2017 Summer Tour,2017 Summer,Twenty Years Later,,1,Madison Square Garden,New York,NY,USA,>
 2017-07-29,2017,0,15,2,2,0,0,39,2017 Summer Tour,2017 Summer,Alumni Blues,Alumni,1,Madison Square Garden,New York,NY,USA,>
 2017-07-29,2017,0,16,2,2,0,0,39,2017 Summer Tour,2017 Summer,Letter to Jimmy Page,LTJP,1,Madison Square Garden,New York,NY,USA,>
 2017-07-29,2017,0,17,2,2,0,0,0,2017 Summer Tour,2017 Summer,Alumni Blues,Alumni,1,Madison Square Garden,New York,NY,USA,>
-2017-07-29,2017,0,18,2,2,0,0,13,2017 Summer Tour,2017 Summer,Meatstick,Meatstick,1,Madison Square Garden,New York,NY,USA,>
-2017-07-29,2017,0,19,2,2,0,0,24,2017 Summer Tour,2017 Summer,Dirt,Dirt,0,Madison Square Garden,New York,NY,USA,>
+2017-07-29,2017,0,18,2,2,0,0,13,2017 Summer Tour,2017 Summer,Meatstick,,1,Madison Square Garden,New York,NY,USA,>
+2017-07-29,2017,0,19,2,2,0,0,24,2017 Summer Tour,2017 Summer,Dirt,,0,Madison Square Garden,New York,NY,USA,>
 2017-07-29,2017,0,20,5,2,0,0,11,2017 Summer Tour,2017 Summer,Harry Hood,Hood,1,Madison Square Garden,New York,NY,USA,
-2017-07-29,2017,0,21,6,e,0,0,631,2017 Summer Tour,2017 Summer,Cinnamon Girl,Cinnamon Girl,0,Madison Square Garden,New York,NY,USA,
+2017-07-29,2017,0,21,6,e,0,0,631,2017 Summer Tour,2017 Summer,Cinnamon Girl,,0,Madison Square Garden,New York,NY,USA,
 2017-07-30,2017,0,1,2,1,0,0,14,2017 Summer Tour,2017 Summer,The Curtain With,Curtain With,1,Madison Square Garden,New York,NY,USA,>
-2017-07-30,2017,0,2,1,1,0,0,9,2017 Summer Tour,2017 Summer,Runaway Jim,Runaway Jim,1,Madison Square Garden,New York,NY,USA,","
-2017-07-30,2017,0,3,1,1,0,0,14,2017 Summer Tour,2017 Summer,Waking Up Dead,Waking Up Dead,1,Madison Square Garden,New York,NY,USA,","
-2017-07-30,2017,0,4,1,1,0,0,76,2017 Summer Tour,2017 Summer,Esther,Esther,1,Madison Square Garden,New York,NY,USA,","
-2017-07-30,2017,0,5,1,1,0,0,8,2017 Summer Tour,2017 Summer,Home,Home,1,Madison Square Garden,New York,NY,USA,","
-2017-07-30,2017,0,6,1,1,0,0,18,2017 Summer Tour,2017 Summer,Brian and Robert,Brian and Robert,1,Madison Square Garden,New York,NY,USA,","
-2017-07-30,2017,0,7,1,1,0,0,12,2017 Summer Tour,2017 Summer,Nellie Kane,Nellie Kane,0,Madison Square Garden,New York,NY,USA,","
+2017-07-30,2017,0,2,1,1,0,0,9,2017 Summer Tour,2017 Summer,Runaway Jim,,1,Madison Square Garden,New York,NY,USA,","
+2017-07-30,2017,0,3,1,1,0,0,14,2017 Summer Tour,2017 Summer,Waking Up Dead,,1,Madison Square Garden,New York,NY,USA,","
+2017-07-30,2017,0,4,1,1,0,0,76,2017 Summer Tour,2017 Summer,Esther,,1,Madison Square Garden,New York,NY,USA,","
+2017-07-30,2017,0,5,1,1,0,0,8,2017 Summer Tour,2017 Summer,Home,,1,Madison Square Garden,New York,NY,USA,","
+2017-07-30,2017,0,6,1,1,0,0,18,2017 Summer Tour,2017 Summer,Brian and Robert,,1,Madison Square Garden,New York,NY,USA,","
+2017-07-30,2017,0,7,1,1,0,0,12,2017 Summer Tour,2017 Summer,Nellie Kane,,0,Madison Square Garden,New York,NY,USA,","
 2017-07-30,2017,0,8,2,1,0,0,76,2017 Summer Tour,2017 Summer,Colonel Forbin's Ascent,Forbin's,1,Madison Square Garden,New York,NY,USA,>
 2017-07-30,2017,0,9,2,1,0,0,76,2017 Summer Tour,2017 Summer,Fly Famous Mockingbird,Mockingbird,1,Madison Square Garden,New York,NY,USA,>
 2017-07-30,2017,0,10,4,1,0,0,13,2017 Summer Tour,2017 Summer,David Bowie,Bowie,1,Madison Square Garden,New York,NY,USA,
-2017-07-30,2017,0,11,2,2,0,0,14,2017 Summer Tour,2017 Summer,Drowned,Drowned,0,Madison Square Garden,New York,NY,USA,>
+2017-07-30,2017,0,11,2,2,0,0,14,2017 Summer Tour,2017 Summer,Drowned,,0,Madison Square Garden,New York,NY,USA,>
 2017-07-30,2017,0,12,1,2,0,0,15,2017 Summer Tour,2017 Summer,A Song I Heard the Ocean Sing,ASIHTOS,1,Madison Square Garden,New York,NY,USA,","
-2017-07-30,2017,0,13,2,2,0,0,65,2017 Summer Tour,2017 Summer,Harpua,Harpua,1,Madison Square Garden,New York,NY,USA,>
+2017-07-30,2017,0,13,2,2,0,0,65,2017 Summer Tour,2017 Summer,Harpua,,1,Madison Square Garden,New York,NY,USA,>
 2017-07-30,2017,0,14,2,2,0,0,10,2017 Summer Tour,2017 Summer,Also Sprach Zarathustra,2001,0,Madison Square Garden,New York,NY,USA,>
 2017-07-30,2017,0,15,1,2,0,0,12,2017 Summer Tour,2017 Summer,Golgi Apparatus,Golgi,1,Madison Square Garden,New York,NY,USA,","
-2017-07-30,2017,0,16,5,2,0,0,12,2017 Summer Tour,2017 Summer,In The Good Old Summer Time,In The Good Old Summer Time,0,Madison Square Garden,New York,NY,USA,
-2017-07-30,2017,0,17,6,e,0,0,1767,2017 Summer Tour,2017 Summer,The Wind Cries Mary,The Wind Cries Mary,0,Madison Square Garden,New York,NY,USA,
-2017-08-01,2017,0,1,2,1,0,0,1768,2017 Summer Tour,2017 Summer,O Canada,O Canada,0,Madison Square Garden,New York,NY,USA,>
-2017-08-01,2017,0,2,1,1,0,0,51,2017 Summer Tour,2017 Summer,Crowd Control,Crowd Control,1,Madison Square Garden,New York,NY,USA,","
-2017-08-01,2017,0,3,1,1,0,0,10,2017 Summer Tour,2017 Summer,Sugar Shack,Sugar Shack,1,Madison Square Garden,New York,NY,USA,","
+2017-07-30,2017,0,16,5,2,0,0,12,2017 Summer Tour,2017 Summer,In The Good Old Summer Time,,0,Madison Square Garden,New York,NY,USA,
+2017-07-30,2017,0,17,6,e,0,0,1767,2017 Summer Tour,2017 Summer,The Wind Cries Mary,,0,Madison Square Garden,New York,NY,USA,
+2017-08-01,2017,0,1,2,1,0,0,1768,2017 Summer Tour,2017 Summer,O Canada,,0,Madison Square Garden,New York,NY,USA,>
+2017-08-01,2017,0,2,1,1,0,0,51,2017 Summer Tour,2017 Summer,Crowd Control,,1,Madison Square Garden,New York,NY,USA,","
+2017-08-01,2017,0,3,1,1,0,0,10,2017 Summer Tour,2017 Summer,Sugar Shack,,1,Madison Square Garden,New York,NY,USA,","
 2017-08-01,2017,0,4,1,1,0,0,24,2017 Summer Tour,2017 Summer,When the Circus Comes,Circus,0,Madison Square Garden,New York,NY,USA,","
-2017-08-01,2017,0,5,1,1,0,0,25,2017 Summer Tour,2017 Summer,Daniel Saw the Stone,Daniel Saw the Stone,0,Madison Square Garden,New York,NY,USA,","
-2017-08-01,2017,0,6,1,1,0,0,22,2017 Summer Tour,2017 Summer,Army of One,Army of One,1,Madison Square Garden,New York,NY,USA,","
+2017-08-01,2017,0,5,1,1,0,0,25,2017 Summer Tour,2017 Summer,Daniel Saw the Stone,,0,Madison Square Garden,New York,NY,USA,","
+2017-08-01,2017,0,6,1,1,0,0,22,2017 Summer Tour,2017 Summer,Army of One,,1,Madison Square Garden,New York,NY,USA,","
 2017-08-01,2017,0,7,1,1,0,0,12,2017 Summer Tour,2017 Summer,The Wedge,Wedge,1,Madison Square Garden,New York,NY,USA,","
 2017-08-01,2017,0,8,1,1,0,0,50,2017 Summer Tour,2017 Summer,Guelah Papyrus,Guelah,1,Madison Square Garden,New York,NY,USA,","
-2017-08-01,2017,0,9,1,1,0,0,1768,2017 Summer Tour,2017 Summer,Maple Leaf Rag,Maple Leaf Rag,0,Madison Square Garden,New York,NY,USA,","
+2017-08-01,2017,0,9,1,1,0,0,1768,2017 Summer Tour,2017 Summer,Maple Leaf Rag,,0,Madison Square Garden,New York,NY,USA,","
 2017-08-01,2017,0,10,1,1,0,0,0,2017 Summer Tour,2017 Summer,Guelah Papyrus,Guelah,1,Madison Square Garden,New York,NY,USA,","
 2017-08-01,2017,0,11,2,1,0,0,41,2017 Summer Tour,2017 Summer,McGrupp and the Watchful Hosemasters,McGrupp,1,Madison Square Garden,New York,NY,USA,>
 2017-08-01,2017,0,12,2,1,0,0,13,2017 Summer Tour,2017 Summer,Limb By Limb,LxL,1,Madison Square Garden,New York,NY,USA,>
-2017-08-01,2017,0,13,4,1,0,0,25,2017 Summer Tour,2017 Summer,Walk Away,Walk Away,0,Madison Square Garden,New York,NY,USA,
-2017-08-01,2017,0,14,1,2,0,0,13,2017 Summer Tour,2017 Summer,Golden Age,Golden Age,0,Madison Square Garden,New York,NY,USA,","
-2017-08-01,2017,0,15,1,2,0,0,13,2017 Summer Tour,2017 Summer,Leaves,Leaves,1,Madison Square Garden,New York,NY,USA,","
-2017-08-01,2017,0,16,2,2,0,0,192,2017 Summer Tour,2017 Summer,Swept Away,Swept Away,1,Madison Square Garden,New York,NY,USA,>
-2017-08-01,2017,0,17,2,2,0,0,192,2017 Summer Tour,2017 Summer,Steep,Steep,1,Madison Square Garden,New York,NY,USA,>
-2017-08-01,2017,0,18,2,2,0,0,10,2017 Summer Tour,2017 Summer,46 Days,46 Days,1,Madison Square Garden,New York,NY,USA,>
-2017-08-01,2017,0,19,2,2,0,0,11,2017 Summer Tour,2017 Summer,Piper,Piper,1,Madison Square Garden,New York,NY,USA,>
-2017-08-01,2017,0,20,5,2,0,0,11,2017 Summer Tour,2017 Summer,Possum,Possum,1,Madison Square Garden,New York,NY,USA,
-2017-08-01,2017,0,21,6,e,0,0,21,2017 Summer Tour,2017 Summer,Rock 'n' Roll Suicide,Rock 'n' Roll Suicide,0,Madison Square Garden,New York,NY,USA,
-2017-08-02,2017,0,1,1,1,0,0,1769,2017 Summer Tour,2017 Summer,Way Down in the Hole,Way Down in the Hole,0,Madison Square Garden,New York,NY,USA,","
-2017-08-02,2017,0,2,1,1,0,0,45,2017 Summer Tour,2017 Summer,Buried Alive,Buried Alive,1,Madison Square Garden,New York,NY,USA,","
+2017-08-01,2017,0,13,4,1,0,0,25,2017 Summer Tour,2017 Summer,Walk Away,,0,Madison Square Garden,New York,NY,USA,
+2017-08-01,2017,0,14,1,2,0,0,13,2017 Summer Tour,2017 Summer,Golden Age,,0,Madison Square Garden,New York,NY,USA,","
+2017-08-01,2017,0,15,1,2,0,0,13,2017 Summer Tour,2017 Summer,Leaves,,1,Madison Square Garden,New York,NY,USA,","
+2017-08-01,2017,0,16,2,2,0,0,192,2017 Summer Tour,2017 Summer,Swept Away,,1,Madison Square Garden,New York,NY,USA,>
+2017-08-01,2017,0,17,2,2,0,0,192,2017 Summer Tour,2017 Summer,Steep,,1,Madison Square Garden,New York,NY,USA,>
+2017-08-01,2017,0,18,2,2,0,0,10,2017 Summer Tour,2017 Summer,46 Days,,1,Madison Square Garden,New York,NY,USA,>
+2017-08-01,2017,0,19,2,2,0,0,11,2017 Summer Tour,2017 Summer,Piper,,1,Madison Square Garden,New York,NY,USA,>
+2017-08-01,2017,0,20,5,2,0,0,11,2017 Summer Tour,2017 Summer,Possum,,1,Madison Square Garden,New York,NY,USA,
+2017-08-01,2017,0,21,6,e,0,0,21,2017 Summer Tour,2017 Summer,Rock 'n' Roll Suicide,,0,Madison Square Garden,New York,NY,USA,
+2017-08-02,2017,0,1,1,1,0,0,1769,2017 Summer Tour,2017 Summer,Way Down in the Hole,,0,Madison Square Garden,New York,NY,USA,","
+2017-08-02,2017,0,2,1,1,0,0,45,2017 Summer Tour,2017 Summer,Buried Alive,,1,Madison Square Garden,New York,NY,USA,","
 2017-08-02,2017,0,3,1,1,0,0,18,2017 Summer Tour,2017 Summer,Kill Devil Falls,KDF,1,Madison Square Garden,New York,NY,USA,","
-2017-08-02,2017,0,4,1,1,0,0,50,2017 Summer Tour,2017 Summer,Guyute,Guyute,1,Madison Square Garden,New York,NY,USA,","
+2017-08-02,2017,0,4,1,1,0,0,50,2017 Summer Tour,2017 Summer,Guyute,,1,Madison Square Garden,New York,NY,USA,","
 2017-08-02,2017,0,5,1,1,0,0,26,2017 Summer Tour,2017 Summer,I Didn't Know,IDK,1,Madison Square Garden,New York,NY,USA,","
-2017-08-02,2017,0,6,1,1,0,0,10,2017 Summer Tour,2017 Summer,NICU,NICU,1,Madison Square Garden,New York,NY,USA,","
-2017-08-02,2017,0,7,2,1,0,0,48,2017 Summer Tour,2017 Summer,Meat,Meat,1,Madison Square Garden,New York,NY,USA,>
-2017-08-02,2017,0,8,1,1,0,0,11,2017 Summer Tour,2017 Summer,Maze,Maze,1,Madison Square Garden,New York,NY,USA,","
+2017-08-02,2017,0,6,1,1,0,0,10,2017 Summer Tour,2017 Summer,NICU,,1,Madison Square Garden,New York,NY,USA,","
+2017-08-02,2017,0,7,2,1,0,0,48,2017 Summer Tour,2017 Summer,Meat,,1,Madison Square Garden,New York,NY,USA,>
+2017-08-02,2017,0,8,1,1,0,0,11,2017 Summer Tour,2017 Summer,Maze,,1,Madison Square Garden,New York,NY,USA,","
 2017-08-02,2017,0,9,1,1,0,0,80,2017 Summer Tour,2017 Summer,Ginseng Sullivan,Ginseng,0,Madison Square Garden,New York,NY,USA,","
-2017-08-02,2017,0,10,1,1,0,0,28,2017 Summer Tour,2017 Summer,Waiting All Night,Waiting All Night,1,Madison Square Garden,New York,NY,USA,","
-2017-08-02,2017,0,11,1,1,0,0,23,2017 Summer Tour,2017 Summer,Heavy Things,Heavy Things,1,Madison Square Garden,New York,NY,USA,","
+2017-08-02,2017,0,10,1,1,0,0,28,2017 Summer Tour,2017 Summer,Waiting All Night,,1,Madison Square Garden,New York,NY,USA,","
+2017-08-02,2017,0,11,1,1,0,0,23,2017 Summer Tour,2017 Summer,Heavy Things,,1,Madison Square Garden,New York,NY,USA,","
 2017-08-02,2017,0,12,4,1,0,0,12,2017 Summer Tour,2017 Summer,Run Like an Antelope,Antelope,1,Madison Square Garden,New York,NY,USA,
 2017-08-02,2017,0,13,2,2,0,0,20,2017 Summer Tour,2017 Summer,Mike's Song,Mike's,1,Madison Square Garden,New York,NY,USA,>
-2017-08-02,2017,0,14,2,2,0,0,1769,2017 Summer Tour,2017 Summer,O Holy Night,O Holy Night,0,Madison Square Garden,New York,NY,USA,>
-2017-08-02,2017,0,15,2,2,0,0,26,2017 Summer Tour,2017 Summer,Taste,Taste,1,Madison Square Garden,New York,NY,USA,>
-2017-08-02,2017,0,16,2,2,0,0,13,2017 Summer Tour,2017 Summer,Wingsuit,Wingsuit,1,Madison Square Garden,New York,NY,USA,>
+2017-08-02,2017,0,14,2,2,0,0,1769,2017 Summer Tour,2017 Summer,O Holy Night,,0,Madison Square Garden,New York,NY,USA,>
+2017-08-02,2017,0,15,2,2,0,0,26,2017 Summer Tour,2017 Summer,Taste,,1,Madison Square Garden,New York,NY,USA,>
+2017-08-02,2017,0,16,2,2,0,0,13,2017 Summer Tour,2017 Summer,Wingsuit,,1,Madison Square Garden,New York,NY,USA,>
 2017-08-02,2017,0,17,2,2,0,0,15,2017 Summer Tour,2017 Summer,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Madison Square Garden,New York,NY,USA,>
 2017-08-02,2017,0,18,5,2,0,0,20,2017 Summer Tour,2017 Summer,Weekapaug Groove,Weekapaug,1,Madison Square Garden,New York,NY,USA,
 2017-08-02,2017,0,19,6,e,0,0,23,2017 Summer Tour,2017 Summer,A Day in the Life,ADITL,0,Madison Square Garden,New York,NY,USA,
-2017-08-04,2017,0,1,1,1,0,0,1770,2017 Summer Tour,2017 Summer,See That My Grave Is Kept Clean,See That My Grave Is Kept Clean,0,Madison Square Garden,New York,NY,USA,","
+2017-08-04,2017,0,1,1,1,0,0,1770,2017 Summer Tour,2017 Summer,See That My Grave Is Kept Clean,,0,Madison Square Garden,New York,NY,USA,","
 2017-08-04,2017,0,2,2,1,0,0,11,2017 Summer Tour,2017 Summer,Punch You in the Eye,PYITE,1,Madison Square Garden,New York,NY,USA,>
-2017-08-04,2017,0,3,1,1,0,0,14,2017 Summer Tour,2017 Summer,Party Time,Party Time,1,Madison Square Garden,New York,NY,USA,","
+2017-08-04,2017,0,3,1,1,0,0,14,2017 Summer Tour,2017 Summer,Party Time,,1,Madison Square Garden,New York,NY,USA,","
 2017-08-04,2017,0,4,1,1,0,0,43,2017 Summer Tour,2017 Summer,Big Black Furry Creature from Mars,BBFCFM,1,Madison Square Garden,New York,NY,USA,","
-2017-08-04,2017,0,5,1,1,0,0,164,2017 Summer Tour,2017 Summer,Dinner and a Movie,Dinner and a Movie,1,Madison Square Garden,New York,NY,USA,","
-2017-08-04,2017,0,6,1,1,0,0,13,2017 Summer Tour,2017 Summer,Ocelot,Ocelot,1,Madison Square Garden,New York,NY,USA,","
-2017-08-04,2017,0,7,1,1,0,0,17,2017 Summer Tour,2017 Summer,Poor Heart,Poor Heart,1,Madison Square Garden,New York,NY,USA,","
-2017-08-04,2017,0,8,1,1,0,0,14,2017 Summer Tour,2017 Summer,Winterqueen,Winterqueen,0,Madison Square Garden,New York,NY,USA,","
-2017-08-04,2017,0,9,2,1,0,0,26,2017 Summer Tour,2017 Summer,Bold As Love,Bold As Love,0,Madison Square Garden,New York,NY,USA,>
-2017-08-04,2017,0,10,4,1,0,0,19,2017 Summer Tour,2017 Summer,First Tube,First Tube,0,Madison Square Garden,New York,NY,USA,
-2017-08-04,2017,0,11,1,2,0,0,55,2017 Summer Tour,2017 Summer,Dem Bones,Dem Bones,0,Madison Square Garden,New York,NY,USA,","
+2017-08-04,2017,0,5,1,1,0,0,164,2017 Summer Tour,2017 Summer,Dinner and a Movie,,1,Madison Square Garden,New York,NY,USA,","
+2017-08-04,2017,0,6,1,1,0,0,13,2017 Summer Tour,2017 Summer,Ocelot,,1,Madison Square Garden,New York,NY,USA,","
+2017-08-04,2017,0,7,1,1,0,0,17,2017 Summer Tour,2017 Summer,Poor Heart,,1,Madison Square Garden,New York,NY,USA,","
+2017-08-04,2017,0,8,1,1,0,0,14,2017 Summer Tour,2017 Summer,Winterqueen,,0,Madison Square Garden,New York,NY,USA,","
+2017-08-04,2017,0,9,2,1,0,0,26,2017 Summer Tour,2017 Summer,Bold As Love,,0,Madison Square Garden,New York,NY,USA,>
+2017-08-04,2017,0,10,4,1,0,0,19,2017 Summer Tour,2017 Summer,First Tube,,0,Madison Square Garden,New York,NY,USA,
+2017-08-04,2017,0,11,1,2,0,0,55,2017 Summer Tour,2017 Summer,Dem Bones,,0,Madison Square Garden,New York,NY,USA,","
 2017-08-04,2017,0,12,2,2,0,0,15,2017 Summer Tour,2017 Summer,No Men In No Man's Land,NMINML,1,Madison Square Garden,New York,NY,USA,>
-2017-08-04,2017,0,13,1,2,0,0,1770,2017 Summer Tour,2017 Summer,Everything In Its Right Place,Everything In Its Right Place,0,Madison Square Garden,New York,NY,USA,","
+2017-08-04,2017,0,13,1,2,0,0,1770,2017 Summer Tour,2017 Summer,Everything In Its Right Place,,0,Madison Square Garden,New York,NY,USA,","
 2017-08-04,2017,0,14,2,2,0,0,15,2017 Summer Tour,2017 Summer,What's the Use?,WTU?,1,Madison Square Garden,New York,NY,USA,>
-2017-08-04,2017,0,15,2,2,0,0,14,2017 Summer Tour,2017 Summer,Scents and Subtle Sounds,Scents and Subtle Sounds,1,Madison Square Garden,New York,NY,USA,>
+2017-08-04,2017,0,15,2,2,0,0,14,2017 Summer Tour,2017 Summer,Scents and Subtle Sounds,,1,Madison Square Garden,New York,NY,USA,>
 2017-08-04,2017,0,16,2,2,0,0,11,2017 Summer Tour,2017 Summer,Prince Caspian,Caspian,1,Madison Square Garden,New York,NY,USA,>
-2017-08-04,2017,0,17,5,2,0,0,16,2017 Summer Tour,2017 Summer,Fluffhead,Fluffhead,1,Madison Square Garden,New York,NY,USA,
-2017-08-04,2017,0,18,6,e,0,0,48,2017 Summer Tour,2017 Summer,Frankenstein,Frankenstein,0,Madison Square Garden,New York,NY,USA,
-2017-08-05,2017,0,1,1,1,0,0,53,2017 Summer Tour,2017 Summer,Soul Shakedown Party,Soul Shakedown Party,0,Madison Square Garden,New York,NY,USA,","
-2017-08-05,2017,0,2,1,1,0,0,47,2017 Summer Tour,2017 Summer,Uncle Pen,Uncle Pen,0,Madison Square Garden,New York,NY,USA,","
+2017-08-04,2017,0,17,5,2,0,0,16,2017 Summer Tour,2017 Summer,Fluffhead,,1,Madison Square Garden,New York,NY,USA,
+2017-08-04,2017,0,18,6,e,0,0,48,2017 Summer Tour,2017 Summer,Frankenstein,,0,Madison Square Garden,New York,NY,USA,
+2017-08-05,2017,0,1,1,1,0,0,53,2017 Summer Tour,2017 Summer,Soul Shakedown Party,,0,Madison Square Garden,New York,NY,USA,","
+2017-08-05,2017,0,2,1,1,0,0,47,2017 Summer Tour,2017 Summer,Uncle Pen,,0,Madison Square Garden,New York,NY,USA,","
 2017-08-05,2017,0,3,1,1,0,0,42,2017 Summer Tour,2017 Summer,The Sloth,Sloth,1,Madison Square Garden,New York,NY,USA,","
 2017-08-05,2017,0,4,1,1,0,0,44,2017 Summer Tour,2017 Summer,Gotta Jibboo,Jibboo,0,Madison Square Garden,New York,NY,USA,","
 2017-08-05,2017,0,5,1,1,0,0,29,2017 Summer Tour,2017 Summer,Fuck Your Face,FYF,1,Madison Square Garden,New York,NY,USA,","
-2017-08-05,2017,0,6,1,1,0,0,1771,2017 Summer Tour,2017 Summer,Sunshine of Your Feeling,Sunshine of Your Feeling,1,Madison Square Garden,New York,NY,USA,","
-2017-08-05,2017,0,7,2,1,0,0,168,2017 Summer Tour,2017 Summer,Frost,Frost,0,Madison Square Garden,New York,NY,USA,>
+2017-08-05,2017,0,6,1,1,0,0,1771,2017 Summer Tour,2017 Summer,Sunshine of Your Feeling,,1,Madison Square Garden,New York,NY,USA,","
+2017-08-05,2017,0,7,2,1,0,0,168,2017 Summer Tour,2017 Summer,Frost,,0,Madison Square Garden,New York,NY,USA,>
 2017-08-05,2017,0,8,1,1,0,0,43,2017 Summer Tour,2017 Summer,Scent of a Mule,SOAMule,1,Madison Square Garden,New York,NY,USA,","
-2017-08-05,2017,0,9,1,1,0,0,55,2017 Summer Tour,2017 Summer,Fire,Fire,0,Madison Square Garden,New York,NY,USA,","
-2017-08-05,2017,0,10,2,1,0,0,31,2017 Summer Tour,2017 Summer,Alaska,Alaska,0,Madison Square Garden,New York,NY,USA,>
-2017-08-05,2017,0,11,4,1,0,0,32,2017 Summer Tour,2017 Summer,Plasma,Plasma,0,Madison Square Garden,New York,NY,USA,
-2017-08-05,2017,0,12,2,2,0,0,13,2017 Summer Tour,2017 Summer,Ghost,Ghost,1,Madison Square Garden,New York,NY,USA,>
-2017-08-05,2017,0,13,2,2,0,0,20,2017 Summer Tour,2017 Summer,Petrichor,Petrichor,0,Madison Square Garden,New York,NY,USA,>
-2017-08-05,2017,0,14,2,2,0,0,15,2017 Summer Tour,2017 Summer,Light,Light,0,Madison Square Garden,New York,NY,USA,>
+2017-08-05,2017,0,9,1,1,0,0,55,2017 Summer Tour,2017 Summer,Fire,,0,Madison Square Garden,New York,NY,USA,","
+2017-08-05,2017,0,10,2,1,0,0,31,2017 Summer Tour,2017 Summer,Alaska,,0,Madison Square Garden,New York,NY,USA,>
+2017-08-05,2017,0,11,4,1,0,0,32,2017 Summer Tour,2017 Summer,Plasma,,0,Madison Square Garden,New York,NY,USA,
+2017-08-05,2017,0,12,2,2,0,0,13,2017 Summer Tour,2017 Summer,Ghost,,1,Madison Square Garden,New York,NY,USA,>
+2017-08-05,2017,0,13,2,2,0,0,20,2017 Summer Tour,2017 Summer,Petrichor,,0,Madison Square Garden,New York,NY,USA,>
+2017-08-05,2017,0,14,2,2,0,0,15,2017 Summer Tour,2017 Summer,Light,,0,Madison Square Garden,New York,NY,USA,>
 2017-08-05,2017,0,15,1,2,0,0,37,2017 Summer Tour,2017 Summer,The Lizards,Lizards,1,Madison Square Garden,New York,NY,USA,","
 2017-08-05,2017,0,16,2,2,0,0,26,2017 Summer Tour,2017 Summer,The Horse,Horse,1,Madison Square Garden,New York,NY,USA,>
 2017-08-05,2017,0,17,2,2,0,0,26,2017 Summer Tour,2017 Summer,Silent in the Morning,Silent,1,Madison Square Garden,New York,NY,USA,>
 2017-08-05,2017,0,18,2,2,0,0,33,2017 Summer Tour,2017 Summer,Quinn the Eskimo (The Mighty Quinn),Quinn,0,Madison Square Garden,New York,NY,USA,>
-2017-08-05,2017,0,19,5,2,0,0,12,2017 Summer Tour,2017 Summer,Rocky Top,Rocky Top,0,Madison Square Garden,New York,NY,USA,
-2017-08-05,2017,0,20,6,e,0,0,35,2017 Summer Tour,2017 Summer,Joy,Joy,1,Madison Square Garden,New York,NY,USA,
-2017-08-06,2017,0,1,1,1,0,0,28,2017 Summer Tour,2017 Summer,Dogs Stole Things,Dogs Stole Things,1,Madison Square Garden,New York,NY,USA,","
-2017-08-06,2017,0,2,1,1,0,0,18,2017 Summer Tour,2017 Summer,Rift,Rift,1,Madison Square Garden,New York,NY,USA,","
-2017-08-06,2017,0,3,1,1,0,0,50,2017 Summer Tour,2017 Summer,Ha Ha Ha,Ha Ha Ha,1,Madison Square Garden,New York,NY,USA,","
-2017-08-06,2017,0,4,1,1,0,0,33,2017 Summer Tour,2017 Summer,Camel Walk,Camel Walk,1,Madison Square Garden,New York,NY,USA,","
-2017-08-06,2017,0,5,2,1,0,0,14,2017 Summer Tour,2017 Summer,Crazy Sometimes,Crazy Sometimes,0,Madison Square Garden,New York,NY,USA,>
-2017-08-06,2017,0,6,2,1,0,0,30,2017 Summer Tour,2017 Summer,Saw It Again,Saw It Again,1,Madison Square Garden,New York,NY,USA,>
-2017-08-06,2017,0,7,2,1,0,0,45,2017 Summer Tour,2017 Summer,Sanity,Sanity,1,Madison Square Garden,New York,NY,USA,>
+2017-08-05,2017,0,19,5,2,0,0,12,2017 Summer Tour,2017 Summer,Rocky Top,,0,Madison Square Garden,New York,NY,USA,
+2017-08-05,2017,0,20,6,e,0,0,35,2017 Summer Tour,2017 Summer,Joy,,1,Madison Square Garden,New York,NY,USA,
+2017-08-06,2017,0,1,1,1,0,0,28,2017 Summer Tour,2017 Summer,Dogs Stole Things,,1,Madison Square Garden,New York,NY,USA,","
+2017-08-06,2017,0,2,1,1,0,0,18,2017 Summer Tour,2017 Summer,Rift,,1,Madison Square Garden,New York,NY,USA,","
+2017-08-06,2017,0,3,1,1,0,0,50,2017 Summer Tour,2017 Summer,Ha Ha Ha,,1,Madison Square Garden,New York,NY,USA,","
+2017-08-06,2017,0,4,1,1,0,0,33,2017 Summer Tour,2017 Summer,Camel Walk,,1,Madison Square Garden,New York,NY,USA,","
+2017-08-06,2017,0,5,2,1,0,0,14,2017 Summer Tour,2017 Summer,Crazy Sometimes,,0,Madison Square Garden,New York,NY,USA,>
+2017-08-06,2017,0,6,2,1,0,0,30,2017 Summer Tour,2017 Summer,Saw It Again,,1,Madison Square Garden,New York,NY,USA,>
+2017-08-06,2017,0,7,2,1,0,0,45,2017 Summer Tour,2017 Summer,Sanity,,1,Madison Square Garden,New York,NY,USA,>
 2017-08-06,2017,0,8,1,1,0,0,16,2017 Summer Tour,2017 Summer,Bouncing Around the Room,Bouncin',1,Madison Square Garden,New York,NY,USA,","
-2017-08-06,2017,0,9,1,1,0,0,1776,2017 Summer Tour,2017 Summer,Most Events Aren't Planned,Most Events Aren't Planned,0,Madison Square Garden,New York,NY,USA,","
-2017-08-06,2017,0,10,1,1,0,0,13,2017 Summer Tour,2017 Summer,Bug,Bug,0,Madison Square Garden,New York,NY,USA,","
-2017-08-06,2017,0,11,1,1,0,0,119,2017 Summer Tour,2017 Summer,I Been Around,I Been Around,1,Madison Square Garden,New York,NY,USA,","
-2017-08-06,2017,0,12,4,1,0,0,576,2017 Summer Tour,2017 Summer,Izabella,Izabella,0,Madison Square Garden,New York,NY,USA,
-2017-08-06,2017,0,13,2,2,0,0,16,2017 Summer Tour,2017 Summer,Simple,Simple,1,Madison Square Garden,New York,NY,USA,>
-2017-08-06,2017,0,14,2,2,0,0,13,2017 Summer Tour,2017 Summer,Rise/Come Together,Rise/Come Together,0,Madison Square Garden,New York,NY,USA,>
-2017-08-06,2017,0,15,1,2,0,0,25,2017 Summer Tour,2017 Summer,Starman,Starman,0,Madison Square Garden,New York,NY,USA,","
+2017-08-06,2017,0,9,1,1,0,0,1776,2017 Summer Tour,2017 Summer,Most Events Aren't Planned,,0,Madison Square Garden,New York,NY,USA,","
+2017-08-06,2017,0,10,1,1,0,0,13,2017 Summer Tour,2017 Summer,Bug,,0,Madison Square Garden,New York,NY,USA,","
+2017-08-06,2017,0,11,1,1,0,0,119,2017 Summer Tour,2017 Summer,I Been Around,,1,Madison Square Garden,New York,NY,USA,","
+2017-08-06,2017,0,12,4,1,0,0,576,2017 Summer Tour,2017 Summer,Izabella,,0,Madison Square Garden,New York,NY,USA,
+2017-08-06,2017,0,13,2,2,0,0,16,2017 Summer Tour,2017 Summer,Simple,,1,Madison Square Garden,New York,NY,USA,>
+2017-08-06,2017,0,14,2,2,0,0,13,2017 Summer Tour,2017 Summer,Rise/Come Together,,0,Madison Square Garden,New York,NY,USA,>
+2017-08-06,2017,0,15,1,2,0,0,25,2017 Summer Tour,2017 Summer,Starman,,0,Madison Square Garden,New York,NY,USA,","
 2017-08-06,2017,0,16,1,2,0,0,22,2017 Summer Tour,2017 Summer,You Enjoy Myself,YEM,1,Madison Square Garden,New York,NY,USA,","
-2017-08-06,2017,0,17,5,2,0,0,16,2017 Summer Tour,2017 Summer,Loving Cup,Loving Cup,0,Madison Square Garden,New York,NY,USA,
-2017-08-06,2017,0,18,2,e,0,0,155,2017 Summer Tour,2017 Summer,On the Road Again,On the Road Again,0,Madison Square Garden,New York,NY,USA,>
-2017-08-06,2017,0,19,2,e,0,1,9,2017 Summer Tour,2017 Summer,Lawn Boy,Lawn Boy,1,Madison Square Garden,New York,NY,USA,>
+2017-08-06,2017,0,17,5,2,0,0,16,2017 Summer Tour,2017 Summer,Loving Cup,,0,Madison Square Garden,New York,NY,USA,
+2017-08-06,2017,0,18,2,e,0,0,155,2017 Summer Tour,2017 Summer,On the Road Again,,0,Madison Square Garden,New York,NY,USA,>
+2017-08-06,2017,0,19,2,e,0,1,9,2017 Summer Tour,2017 Summer,Lawn Boy,,1,Madison Square Garden,New York,NY,USA,>
 2017-08-06,2017,0,20,6,e,0,0,18,2017 Summer Tour,2017 Summer,Tweezer Reprise,Tweeprise,1,Madison Square Garden,New York,NY,USA,
-2017-09-01,2017,0,1,1,1,0,0,7,2017 Summer Tour,2017 Summer,Blaze On,Blaze On,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2017-09-01,2017,0,2,1,1,0,0,13,2017 Summer Tour,2017 Summer,555,555,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2017-09-01,2017,0,3,1,1,0,0,12,2017 Summer Tour,2017 Summer,Breath and Burning,Breath and Burning,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2017-09-01,2017,0,1,1,1,0,0,7,2017 Summer Tour,2017 Summer,Blaze On,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2017-09-01,2017,0,2,1,1,0,0,13,2017 Summer Tour,2017 Summer,555,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2017-09-01,2017,0,3,1,1,0,0,12,2017 Summer Tour,2017 Summer,Breath and Burning,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2017-09-01,2017,0,4,2,1,0,0,11,2017 Summer Tour,2017 Summer,Theme From the Bottom,Theme,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2017-09-01,2017,0,5,1,1,0,0,8,2017 Summer Tour,2017 Summer,Free,Free,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2017-09-01,2017,0,6,2,1,0,0,9,2017 Summer Tour,2017 Summer,Tube,Tube,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2017-09-01,2017,0,7,2,1,0,0,12,2017 Summer Tour,2017 Summer,Roggae,Roggae,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2017-09-01,2017,0,8,4,1,0,0,11,2017 Summer Tour,2017 Summer,More,More,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2017-09-01,2017,0,5,1,1,0,0,8,2017 Summer Tour,2017 Summer,Free,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2017-09-01,2017,0,6,2,1,0,0,9,2017 Summer Tour,2017 Summer,Tube,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2017-09-01,2017,0,7,2,1,0,0,12,2017 Summer Tour,2017 Summer,Roggae,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2017-09-01,2017,0,8,4,1,0,0,11,2017 Summer Tour,2017 Summer,More,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2017-09-01,2017,0,9,2,2,0,0,3,2017 Summer Tour,2017 Summer,No Men In No Man's Land,NMINML,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2017-09-01,2017,0,10,2,2,0,0,9,2017 Summer Tour,2017 Summer,Carini,Carini,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2017-09-01,2017,0,11,2,2,0,0,2,2017 Summer Tour,2017 Summer,Ghost,Ghost,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2017-09-01,2017,0,10,2,2,0,0,9,2017 Summer Tour,2017 Summer,Carini,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2017-09-01,2017,0,11,2,2,0,0,2,2017 Summer Tour,2017 Summer,Ghost,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2017-09-01,2017,0,12,2,2,0,0,7,2017 Summer Tour,2017 Summer,Harry Hood,Hood,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2017-09-01,2017,0,13,5,2,0,0,10,2017 Summer Tour,2017 Summer,Cavern,Cavern,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2017-09-01,2017,0,13,5,2,0,0,10,2017 Summer Tour,2017 Summer,Cavern,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2017-09-01,2017,0,14,2,e,0,0,2,2017 Summer Tour,2017 Summer,The Horse,Horse,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2017-09-01,2017,0,15,2,e,0,0,2,2017 Summer Tour,2017 Summer,Silent in the Morning,Silent,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2017-09-01,2017,0,16,6,e,0,0,9,2017 Summer Tour,2017 Summer,Character Zero,Character Zero,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2017-09-02,2017,0,1,2,1,0,0,2,2017 Summer Tour,2017 Summer,Simple,Simple,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2017-09-02,2017,0,2,2,1,0,0,14,2017 Summer Tour,2017 Summer,Martian Monster,Martian Monster,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2017-09-02,2017,0,3,1,1,0,0,14,2017 Summer Tour,2017 Summer,Reba,Reba,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2017-09-02,2017,0,4,1,1,0,0,9,2017 Summer Tour,2017 Summer,Sand,Sand,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2017-09-02,2017,0,5,2,1,0,0,2,2017 Summer Tour,2017 Summer,Crazy Sometimes,Crazy Sometimes,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2017-09-01,2017,0,16,6,e,0,0,9,2017 Summer Tour,2017 Summer,Character Zero,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2017-09-02,2017,0,1,2,1,0,0,2,2017 Summer Tour,2017 Summer,Simple,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2017-09-02,2017,0,2,2,1,0,0,14,2017 Summer Tour,2017 Summer,Martian Monster,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2017-09-02,2017,0,3,1,1,0,0,14,2017 Summer Tour,2017 Summer,Reba,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2017-09-02,2017,0,4,1,1,0,0,9,2017 Summer Tour,2017 Summer,Sand,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2017-09-02,2017,0,5,2,1,0,0,2,2017 Summer Tour,2017 Summer,Crazy Sometimes,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2017-09-02,2017,0,6,2,1,0,0,6,2017 Summer Tour,2017 Summer,Limb By Limb,LxL,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2017-09-02,2017,0,7,1,1,0,0,12,2017 Summer Tour,2017 Summer,Wolfman's Brother,Wolfman's,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2017-09-02,2017,0,8,4,1,0,0,14,2017 Summer Tour,2017 Summer,Walls of the Cave,WotC,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2017-09-02,2017,0,9,2,2,0,0,14,2017 Summer Tour,2017 Summer,Everything's Right,Everything's Right,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2017-09-02,2017,0,10,2,2,0,0,11,2017 Summer Tour,2017 Summer,Fuego,Fuego,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2017-09-02,2017,0,11,2,2,0,0,10,2017 Summer Tour,2017 Summer,Steam,Steam,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2017-09-02,2017,0,9,2,2,0,0,14,2017 Summer Tour,2017 Summer,Everything's Right,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2017-09-02,2017,0,10,2,2,0,0,11,2017 Summer Tour,2017 Summer,Fuego,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2017-09-02,2017,0,11,2,2,0,0,10,2017 Summer Tour,2017 Summer,Steam,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2017-09-02,2017,0,12,2,2,0,0,9,2017 Summer Tour,2017 Summer,Chalk Dust Torture,CDT,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2017-09-02,2017,0,13,2,2,0,0,5,2017 Summer Tour,2017 Summer,Mike's Song,Mike's,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2017-09-02,2017,0,14,2,2,0,0,4,2017 Summer Tour,2017 Summer,Winterqueen,Winterqueen,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2017-09-02,2017,0,14,2,2,0,0,4,2017 Summer Tour,2017 Summer,Winterqueen,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2017-09-02,2017,0,15,2,2,0,0,4,2017 Summer Tour,2017 Summer,What's the Use?,WTU?,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2017-09-02,2017,0,16,1,2,0,0,5,2017 Summer Tour,2017 Summer,Weekapaug Groove,Weekapaug,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2017-09-02,2017,0,17,5,2,0,0,14,2017 Summer Tour,2017 Summer,Slave to the Traffic Light,Slave,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2017-09-02,2017,0,18,1,e,0,0,3,2017 Summer Tour,2017 Summer,The Lizards,Lizards,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2017-09-02,2017,0,19,6,e,0,0,5,2017 Summer Tour,2017 Summer,Run Like an Antelope,Antelope,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2017-09-03,2017,0,1,1,1,0,0,33,2017 Summer Tour,2017 Summer,Buffalo Bill,Buffalo Bill,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2017-09-03,2017,0,1,1,1,0,0,33,2017 Summer Tour,2017 Summer,Buffalo Bill,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2017-09-03,2017,0,2,1,1,0,0,14,2017 Summer Tour,2017 Summer,The Moma Dance,Moma,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2017-09-03,2017,0,3,1,1,0,0,14,2017 Summer Tour,2017 Summer,Birds of a Feather,BOAF,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2017-09-03,2017,0,4,1,1,0,0,7,2017 Summer Tour,2017 Summer,Sugar Shack,Sugar Shack,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2017-09-03,2017,0,5,1,1,0,0,3,2017 Summer Tour,2017 Summer,Most Events Aren't Planned,Most Events Aren't Planned,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2017-09-03,2017,0,4,1,1,0,0,7,2017 Summer Tour,2017 Summer,Sugar Shack,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2017-09-03,2017,0,5,1,1,0,0,3,2017 Summer Tour,2017 Summer,Most Events Aren't Planned,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2017-09-03,2017,0,6,1,1,0,0,13,2017 Summer Tour,2017 Summer,Back on the Train,BOTT,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2017-09-03,2017,0,7,1,1,0,0,7,2017 Summer Tour,2017 Summer,Leaves,Leaves,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2017-09-03,2017,0,7,1,1,0,0,7,2017 Summer Tour,2017 Summer,Leaves,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2017-09-03,2017,0,8,1,1,0,0,7,2017 Summer Tour,2017 Summer,The Wedge,Wedge,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2017-09-03,2017,0,9,1,1,0,0,7,2017 Summer Tour,2017 Summer,46 Days,46 Days,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2017-09-03,2017,0,9,1,1,0,0,7,2017 Summer Tour,2017 Summer,46 Days,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2017-09-03,2017,0,10,4,1,0,0,12,2017 Summer Tour,2017 Summer,Bathtub Gin,Gin,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2017-09-03,2017,0,11,2,2,0,0,14,2017 Summer Tour,2017 Summer,Down with Disease,DwD,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2017-09-03,2017,0,12,3,2,0,0,4,2017 Summer Tour,2017 Summer,Light,Light,0,Dick's Sporting Goods Park,Commerce City,CO,USA,->
-2017-09-03,2017,0,13,2,2,0,0,3,2017 Summer Tour,2017 Summer,Rise/Come Together,Rise/Come Together,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2017-09-03,2017,0,14,2,2,0,0,7,2017 Summer Tour,2017 Summer,Piper,Piper,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2017-09-03,2017,0,15,1,2,0,0,9,2017 Summer Tour,2017 Summer,Meatstick,Meatstick,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2017-09-03,2017,0,12,3,2,0,0,4,2017 Summer Tour,2017 Summer,Light,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2017-09-03,2017,0,13,2,2,0,0,3,2017 Summer Tour,2017 Summer,Rise/Come Together,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2017-09-03,2017,0,14,2,2,0,0,7,2017 Summer Tour,2017 Summer,Piper,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2017-09-03,2017,0,15,1,2,0,0,9,2017 Summer Tour,2017 Summer,Meatstick,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2017-09-03,2017,0,16,2,2,0,0,8,2017 Summer Tour,2017 Summer,Also Sprach Zarathustra,2001,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2017-09-03,2017,0,17,2,2,0,0,7,2017 Summer Tour,2017 Summer,Possum,Possum,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2017-09-03,2017,0,17,2,2,0,0,7,2017 Summer Tour,2017 Summer,Possum,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2017-09-03,2017,0,18,5,2,0,0,15,2017 Summer Tour,2017 Summer,Suzy Greenberg,Suzy,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2017-09-03,2017,0,19,2,e,0,0,53,2017 Summer Tour,2017 Summer,Waste,Waste,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2017-09-03,2017,0,20,6,e,0,0,5,2017 Summer Tour,2017 Summer,First Tube,First Tube,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2017-09-03,2017,0,19,2,e,0,0,53,2017 Summer Tour,2017 Summer,Waste,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2017-09-03,2017,0,20,6,e,0,0,5,2017 Summer Tour,2017 Summer,First Tube,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2017-12-28,2017,0,1,2,1,0,0,14,2017 NYE Run,2017 NYE,AC/DC Bag,Bag,1,Madison Square Garden,New York,NY,USA,>
 2017-12-28,2017,0,2,1,1,0,0,2,2017 NYE Run,2017 NYE,Wolfman's Brother,Wolfman's,1,Madison Square Garden,New York,NY,USA,","
-2017-12-28,2017,0,3,1,1,0,0,3,2017 NYE Run,2017 NYE,Roggae,Roggae,1,Madison Square Garden,New York,NY,USA,","
-2017-12-28,2017,0,4,2,1,0,0,3,2017 NYE Run,2017 NYE,Tube,Tube,1,Madison Square Garden,New York,NY,USA,>
+2017-12-28,2017,0,3,1,1,0,0,3,2017 NYE Run,2017 NYE,Roggae,,1,Madison Square Garden,New York,NY,USA,","
+2017-12-28,2017,0,4,2,1,0,0,3,2017 NYE Run,2017 NYE,Tube,,1,Madison Square Garden,New York,NY,USA,>
 2017-12-28,2017,0,5,1,1,0,0,4,2017 NYE Run,2017 NYE,Bouncing Around the Room,Bouncin',1,Madison Square Garden,New York,NY,USA,","
 2017-12-28,2017,0,6,1,1,0,0,1,2017 NYE Run,2017 NYE,Back on the Train,BOTT,0,Madison Square Garden,New York,NY,USA,","
-2017-12-28,2017,0,7,2,1,0,0,14,2017 NYE Run,2017 NYE,Your Pet Cat,Your Pet Cat,1,Madison Square Garden,New York,NY,USA,>
-2017-12-28,2017,0,8,2,1,0,0,9,2017 NYE Run,2017 NYE,Waking Up Dead,Waking Up Dead,1,Madison Square Garden,New York,NY,USA,>
+2017-12-28,2017,0,7,2,1,0,0,14,2017 NYE Run,2017 NYE,Your Pet Cat,,1,Madison Square Garden,New York,NY,USA,>
+2017-12-28,2017,0,8,2,1,0,0,9,2017 NYE Run,2017 NYE,Waking Up Dead,,1,Madison Square Garden,New York,NY,USA,>
 2017-12-28,2017,0,9,4,1,0,0,3,2017 NYE Run,2017 NYE,Theme From the Bottom,Theme,1,Madison Square Garden,New York,NY,USA,
-2017-12-28,2017,0,10,2,2,0,0,10,2017 NYE Run,2017 NYE,Wilson,Wilson,1,Madison Square Garden,New York,NY,USA,>
+2017-12-28,2017,0,10,2,2,0,0,10,2017 NYE Run,2017 NYE,Wilson,,1,Madison Square Garden,New York,NY,USA,>
 2017-12-28,2017,0,11,2,2,0,0,3,2017 NYE Run,2017 NYE,No Men In No Man's Land,NMINML,1,Madison Square Garden,New York,NY,USA,>
-2017-12-28,2017,0,12,2,2,0,0,14,2017 NYE Run,2017 NYE,Twist,Twist,1,Madison Square Garden,New York,NY,USA,>
-2017-12-28,2017,0,13,2,2,0,0,2,2017 NYE Run,2017 NYE,Everything's Right,Everything's Right,0,Madison Square Garden,New York,NY,USA,>
+2017-12-28,2017,0,12,2,2,0,0,14,2017 NYE Run,2017 NYE,Twist,,1,Madison Square Garden,New York,NY,USA,>
+2017-12-28,2017,0,13,2,2,0,0,2,2017 NYE Run,2017 NYE,Everything's Right,,0,Madison Square Garden,New York,NY,USA,>
 2017-12-28,2017,0,14,2,2,0,0,1,2017 NYE Run,2017 NYE,Also Sprach Zarathustra,2001,0,Madison Square Garden,New York,NY,USA,>
 2017-12-28,2017,0,15,5,2,0,0,3,2017 NYE Run,2017 NYE,Harry Hood,Hood,1,Madison Square Garden,New York,NY,USA,
 2017-12-28,2017,0,16,1,e,0,0,1,2017 NYE Run,2017 NYE,The Wedge,Wedge,1,Madison Square Garden,New York,NY,USA,","
 2017-12-28,2017,0,17,6,e,0,0,2,2017 NYE Run,2017 NYE,Slave to the Traffic Light,Slave,1,Madison Square Garden,New York,NY,USA,
-2017-12-29,2017,0,1,2,1,0,0,4,2017 NYE Run,2017 NYE,Cavern,Cavern,1,Madison Square Garden,New York,NY,USA,>
-2017-12-29,2017,0,2,1,1,0,0,4,2017 NYE Run,2017 NYE,Blaze On,Blaze On,1,Madison Square Garden,New York,NY,USA,","
-2017-12-29,2017,0,3,1,1,0,0,4,2017 NYE Run,2017 NYE,555,555,1,Madison Square Garden,New York,NY,USA,","
-2017-12-29,2017,0,4,2,1,0,0,16,2017 NYE Run,2017 NYE,I Always Wanted It This Way,I Always Wanted It This Way,1,Madison Square Garden,New York,NY,USA,>
-2017-12-29,2017,0,5,1,1,0,0,3,2017 NYE Run,2017 NYE,Martian Monster,Martian Monster,1,Madison Square Garden,New York,NY,USA,","
-2017-12-29,2017,0,6,1,1,0,0,8,2017 NYE Run,2017 NYE,Heavy Things,Heavy Things,1,Madison Square Garden,New York,NY,USA,","
+2017-12-29,2017,0,1,2,1,0,0,4,2017 NYE Run,2017 NYE,Cavern,,1,Madison Square Garden,New York,NY,USA,>
+2017-12-29,2017,0,2,1,1,0,0,4,2017 NYE Run,2017 NYE,Blaze On,,1,Madison Square Garden,New York,NY,USA,","
+2017-12-29,2017,0,3,1,1,0,0,4,2017 NYE Run,2017 NYE,555,,1,Madison Square Garden,New York,NY,USA,","
+2017-12-29,2017,0,4,2,1,0,0,16,2017 NYE Run,2017 NYE,I Always Wanted It This Way,,1,Madison Square Garden,New York,NY,USA,>
+2017-12-29,2017,0,5,1,1,0,0,3,2017 NYE Run,2017 NYE,Martian Monster,,1,Madison Square Garden,New York,NY,USA,","
+2017-12-29,2017,0,6,1,1,0,0,8,2017 NYE Run,2017 NYE,Heavy Things,,1,Madison Square Garden,New York,NY,USA,","
 2017-12-29,2017,0,7,1,1,0,0,12,2017 NYE Run,2017 NYE,Destiny Unbound,Destiny,1,Madison Square Garden,New York,NY,USA,","
-2017-12-29,2017,0,8,1,1,0,0,7,2017 NYE Run,2017 NYE,Ocelot,Ocelot,1,Madison Square Garden,New York,NY,USA,","
+2017-12-29,2017,0,8,1,1,0,0,7,2017 NYE Run,2017 NYE,Ocelot,,1,Madison Square Garden,New York,NY,USA,","
 2017-12-29,2017,0,9,4,1,0,0,3,2017 NYE Run,2017 NYE,Walls of the Cave,WotC,1,Madison Square Garden,New York,NY,USA,
-2017-12-29,2017,0,10,2,2,0,0,3,2017 NYE Run,2017 NYE,Sand,Sand,0,Madison Square Garden,New York,NY,USA,>
+2017-12-29,2017,0,10,2,2,0,0,3,2017 NYE Run,2017 NYE,Sand,,0,Madison Square Garden,New York,NY,USA,>
 2017-12-29,2017,0,11,2,2,0,0,3,2017 NYE Run,2017 NYE,Chalk Dust Torture,CDT,1,Madison Square Garden,New York,NY,USA,>
-2017-12-29,2017,0,12,2,2,0,0,4,2017 NYE Run,2017 NYE,Ghost,Ghost,1,Madison Square Garden,New York,NY,USA,>
+2017-12-29,2017,0,12,2,2,0,0,4,2017 NYE Run,2017 NYE,Ghost,,1,Madison Square Garden,New York,NY,USA,>
 2017-12-29,2017,0,13,2,2,0,0,12,2017 NYE Run,2017 NYE,Backwards Down the Number Line,BDTNL,0,Madison Square Garden,New York,NY,USA,>
-2017-12-29,2017,0,14,2,2,0,0,3,2017 NYE Run,2017 NYE,Simple,Simple,1,Madison Square Garden,New York,NY,USA,>
+2017-12-29,2017,0,14,2,2,0,0,3,2017 NYE Run,2017 NYE,Simple,,1,Madison Square Garden,New York,NY,USA,>
 2017-12-29,2017,0,15,5,2,0,0,16,2017 NYE Run,2017 NYE,Split Open and Melt,SOAMelt,1,Madison Square Garden,New York,NY,USA,
-2017-12-29,2017,0,16,6,e,0,0,14,2017 NYE Run,2017 NYE,Julius,Julius,1,Madison Square Garden,New York,NY,USA,
+2017-12-29,2017,0,16,6,e,0,0,14,2017 NYE Run,2017 NYE,Julius,,1,Madison Square Garden,New York,NY,USA,
 2017-12-30,2017,0,1,2,1,0,0,4,2017 NYE Run,2017 NYE,Mike's Song,Mike's,1,Madison Square Garden,New York,NY,USA,>
 2017-12-30,2017,0,2,2,1,0,0,68,2017 NYE Run,2017 NYE,I Am Hydrogen,Hydrogen,1,Madison Square Garden,New York,NY,USA,>
 2017-12-30,2017,0,3,1,1,0,0,4,2017 NYE Run,2017 NYE,Weekapaug Groove,Weekapaug,1,Madison Square Garden,New York,NY,USA,","
-2017-12-30,2017,0,4,2,1,0,0,18,2017 NYE Run,2017 NYE,Tweezer,Tweezer,1,Madison Square Garden,New York,NY,USA,>
-2017-12-30,2017,0,5,1,1,0,0,13,2017 NYE Run,2017 NYE,Ass Handed,Ass Handed,1,Madison Square Garden,New York,NY,USA,","
+2017-12-30,2017,0,4,2,1,0,0,18,2017 NYE Run,2017 NYE,Tweezer,,1,Madison Square Garden,New York,NY,USA,>
+2017-12-30,2017,0,5,1,1,0,0,13,2017 NYE Run,2017 NYE,Ass Handed,,1,Madison Square Garden,New York,NY,USA,","
 2017-12-30,2017,0,6,2,1,0,0,9,2017 NYE Run,2017 NYE,Kill Devil Falls,KDF,1,Madison Square Garden,New York,NY,USA,>
 2017-12-30,2017,0,7,1,1,0,0,3,2017 NYE Run,2017 NYE,Bathtub Gin,Gin,1,Madison Square Garden,New York,NY,USA,","
-2017-12-30,2017,0,8,1,1,0,0,216,2017 NYE Run,2017 NYE,Brother,Brother,1,Madison Square Garden,New York,NY,USA,","
-2017-12-30,2017,0,9,4,1,0,0,5,2017 NYE Run,2017 NYE,More,More,1,Madison Square Garden,New York,NY,USA,
+2017-12-30,2017,0,8,1,1,0,0,216,2017 NYE Run,2017 NYE,Brother,,1,Madison Square Garden,New York,NY,USA,","
+2017-12-30,2017,0,9,4,1,0,0,5,2017 NYE Run,2017 NYE,More,,1,Madison Square Garden,New York,NY,USA,
 2017-12-30,2017,0,10,3,2,0,0,3,2017 NYE Run,2017 NYE,Down with Disease,DwD,1,Madison Square Garden,New York,NY,USA,->
-2017-12-30,2017,0,11,2,2,0,0,4,2017 NYE Run,2017 NYE,Steam,Steam,1,Madison Square Garden,New York,NY,USA,>
-2017-12-30,2017,0,12,2,2,0,0,3,2017 NYE Run,2017 NYE,Light,Light,0,Madison Square Garden,New York,NY,USA,>
-2017-12-30,2017,0,13,1,2,0,0,14,2017 NYE Run,2017 NYE,Farmhouse,Farmhouse,1,Madison Square Garden,New York,NY,USA,","
+2017-12-30,2017,0,11,2,2,0,0,4,2017 NYE Run,2017 NYE,Steam,,1,Madison Square Garden,New York,NY,USA,>
+2017-12-30,2017,0,12,2,2,0,0,3,2017 NYE Run,2017 NYE,Light,,0,Madison Square Garden,New York,NY,USA,>
+2017-12-30,2017,0,13,1,2,0,0,14,2017 NYE Run,2017 NYE,Farmhouse,,1,Madison Square Garden,New York,NY,USA,","
 2017-12-30,2017,0,14,5,2,0,0,4,2017 NYE Run,2017 NYE,Run Like an Antelope,Antelope,1,Madison Square Garden,New York,NY,USA,
-2017-12-30,2017,0,15,2,e,0,0,49,2017 NYE Run,2017 NYE,Sleeping Monkey,Sleeping Monkey,1,Madison Square Garden,New York,NY,USA,>
+2017-12-30,2017,0,15,2,e,0,0,49,2017 NYE Run,2017 NYE,Sleeping Monkey,,1,Madison Square Garden,New York,NY,USA,>
 2017-12-30,2017,0,16,6,e,0,0,6,2017 NYE Run,2017 NYE,Tweezer Reprise,Tweeprise,1,Madison Square Garden,New York,NY,USA,
-2017-12-31,2017,0,1,2,1,0,0,6,2017 NYE Run,2017 NYE,Carini,Carini,1,Madison Square Garden,New York,NY,USA,>
+2017-12-31,2017,0,1,2,1,0,0,6,2017 NYE Run,2017 NYE,Carini,,1,Madison Square Garden,New York,NY,USA,>
 2017-12-31,2017,0,2,2,1,0,0,4,2017 NYE Run,2017 NYE,Suzy Greenberg,Suzy,1,Madison Square Garden,New York,NY,USA,>
 2017-12-31,2017,0,3,1,1,0,0,16,2017 NYE Run,2017 NYE,"My Friend, My Friend",My Friend,1,Madison Square Garden,New York,NY,USA,","
-2017-12-31,2017,0,4,1,1,0,0,9,2017 NYE Run,2017 NYE,Fluffhead,Fluffhead,1,Madison Square Garden,New York,NY,USA,","
-2017-12-31,2017,0,5,1,1,0,0,5,2017 NYE Run,2017 NYE,Reba,Reba,1,Madison Square Garden,New York,NY,USA,","
-2017-12-31,2017,0,6,2,1,0,0,9,2017 NYE Run,2017 NYE,Poor Heart,Poor Heart,1,Madison Square Garden,New York,NY,USA,>
-2017-12-31,2017,0,7,2,1,0,0,4,2017 NYE Run,2017 NYE,46 Days,46 Days,1,Madison Square Garden,New York,NY,USA,>
-2017-12-31,2017,0,8,2,1,0,0,10,2017 NYE Run,2017 NYE,Maze,Maze,1,Madison Square Garden,New York,NY,USA,>
-2017-12-31,2017,0,9,4,1,0,0,6,2017 NYE Run,2017 NYE,Character Zero,Character Zero,1,Madison Square Garden,New York,NY,USA,
-2017-12-31,2017,0,10,2,2,0,0,4,2017 NYE Run,2017 NYE,Possum,Possum,1,Madison Square Garden,New York,NY,USA,>
-2017-12-31,2017,0,11,2,2,0,0,5,2017 NYE Run,2017 NYE,Fuego,Fuego,1,Madison Square Garden,New York,NY,USA,>
+2017-12-31,2017,0,4,1,1,0,0,9,2017 NYE Run,2017 NYE,Fluffhead,,1,Madison Square Garden,New York,NY,USA,","
+2017-12-31,2017,0,5,1,1,0,0,5,2017 NYE Run,2017 NYE,Reba,,1,Madison Square Garden,New York,NY,USA,","
+2017-12-31,2017,0,6,2,1,0,0,9,2017 NYE Run,2017 NYE,Poor Heart,,1,Madison Square Garden,New York,NY,USA,>
+2017-12-31,2017,0,7,2,1,0,0,4,2017 NYE Run,2017 NYE,46 Days,,1,Madison Square Garden,New York,NY,USA,>
+2017-12-31,2017,0,8,2,1,0,0,10,2017 NYE Run,2017 NYE,Maze,,1,Madison Square Garden,New York,NY,USA,>
+2017-12-31,2017,0,9,4,1,0,0,6,2017 NYE Run,2017 NYE,Character Zero,,1,Madison Square Garden,New York,NY,USA,
+2017-12-31,2017,0,10,2,2,0,0,4,2017 NYE Run,2017 NYE,Possum,,1,Madison Square Garden,New York,NY,USA,>
+2017-12-31,2017,0,11,2,2,0,0,5,2017 NYE Run,2017 NYE,Fuego,,1,Madison Square Garden,New York,NY,USA,>
 2017-12-31,2017,0,12,2,2,0,0,8,2017 NYE Run,2017 NYE,Gotta Jibboo,Jibboo,0,Madison Square Garden,New York,NY,USA,>
 2017-12-31,2017,0,13,2,2,0,0,12,2017 NYE Run,2017 NYE,Golgi Apparatus,Golgi,1,Madison Square Garden,New York,NY,USA,>
 2017-12-31,2017,0,14,2,2,0,0,5,2017 NYE Run,2017 NYE,What's the Use?,WTU?,1,Madison Square Garden,New York,NY,USA,>
 2017-12-31,2017,0,15,4,2,0,0,7,2017 NYE Run,2017 NYE,You Enjoy Myself,YEM,1,Madison Square Garden,New York,NY,USA,
-2017-12-31,2017,0,16,2,3,0,0,1783,2017 NYE Run,2017 NYE,Soul Planet,Soul Planet,0,Madison Square Garden,New York,NY,USA,>
-2017-12-31,2017,0,17,2,3,0,0,28,2017 NYE Run,2017 NYE,Auld Lang Syne,Auld Lang Syne,0,Madison Square Garden,New York,NY,USA,>
-2017-12-31,2017,0,18,1,3,0,0,6,2017 NYE Run,2017 NYE,Free,Free,1,Madison Square Garden,New York,NY,USA,","
+2017-12-31,2017,0,16,2,3,0,0,1783,2017 NYE Run,2017 NYE,Soul Planet,,0,Madison Square Garden,New York,NY,USA,>
+2017-12-31,2017,0,17,2,3,0,0,28,2017 NYE Run,2017 NYE,Auld Lang Syne,,0,Madison Square Garden,New York,NY,USA,>
+2017-12-31,2017,0,18,1,3,0,0,6,2017 NYE Run,2017 NYE,Free,,1,Madison Square Garden,New York,NY,USA,","
 2017-12-31,2017,0,19,2,3,0,0,12,2017 NYE Run,2017 NYE,A Song I Heard the Ocean Sing,ASIHTOS,1,Madison Square Garden,New York,NY,USA,>
 2017-12-31,2017,0,20,2,3,0,0,4,2017 NYE Run,2017 NYE,The Moma Dance,Moma,1,Madison Square Garden,New York,NY,USA,>
 2017-12-31,2017,0,21,2,3,0,0,9,2017 NYE Run,2017 NYE,Prince Caspian,Caspian,1,Madison Square Garden,New York,NY,USA,>
 2017-12-31,2017,0,22,2,3,0,0,17,2017 NYE Run,2017 NYE,Wading in the Velvet Sea,Velvet Sea,1,Madison Square Garden,New York,NY,USA,>
-2017-12-31,2017,0,23,5,3,0,0,4,2017 NYE Run,2017 NYE,First Tube,First Tube,0,Madison Square Garden,New York,NY,USA,
-2017-12-31,2017,0,24,6,e,0,0,7,2017 NYE Run,2017 NYE,Loving Cup,Loving Cup,0,Madison Square Garden,New York,NY,USA,
+2017-12-31,2017,0,23,5,3,0,0,4,2017 NYE Run,2017 NYE,First Tube,,0,Madison Square Garden,New York,NY,USA,
+2017-12-31,2017,0,24,6,e,0,0,7,2017 NYE Run,2017 NYE,Loving Cup,,0,Madison Square Garden,New York,NY,USA,

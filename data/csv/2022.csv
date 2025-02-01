@@ -1,869 +1,869 @@
 showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,tourwhen,song,nickname,is_original,venue,city,state,country,trans_mark
-2022-02-23,2022,1,1,1,1,2,0,246,Not Part of a Tour,No Tour,Jam,Jam,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2022-02-23,2022,1,1,1,1,2,0,246,Not Part of a Tour,No Tour,Jam,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2022-02-23,2022,1,2,1,1,2,0,5,Not Part of a Tour,No Tour,Sample in a Jar,Sample,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2022-02-23,2022,1,3,1,1,2,0,335,Not Part of a Tour,No Tour,Dog Log,Dog Log,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2022-02-23,2022,1,4,6,1,2,0,0,Not Part of a Tour,No Tour,Ghost,Ghost,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
+2022-02-23,2022,1,3,1,1,2,0,335,Not Part of a Tour,No Tour,Dog Log,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2022-02-23,2022,1,4,6,1,2,0,0,Not Part of a Tour,No Tour,Ghost,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
 2022-02-24,2022,0,1,1,1,2,0,3,2022 Mexico,2022 Mexico,The Lizards,Lizards,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2022-02-24,2022,0,2,2,1,2,0,1,2022 Mexico,2022 Mexico,The Moma Dance,Moma,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2022-02-24,2022,0,3,1,1,2,0,139,2022 Mexico,2022 Mexico,Peaches en Regalia,Peaches,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2022-02-24,2022,0,4,1,1,2,0,12,2022 Mexico,2022 Mexico,I Never Needed You Like This Before,I Never Needed You Like This Before,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2022-02-24,2022,0,5,2,1,2,0,4,2022 Mexico,2022 Mexico,Funky Bitch,Funky Bitch,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2022-02-24,2022,0,6,3,1,2,0,4,2022 Mexico,2022 Mexico,Tweezer,Tweezer,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
-2022-02-24,2022,0,7,3,1,2,0,3,2022 Mexico,2022 Mexico,Piper,Piper,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
-2022-02-24,2022,0,8,3,1,2,0,2,2022 Mexico,2022 Mexico,Soul Planet,Soul Planet,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
-2022-02-24,2022,0,9,2,1,2,0,13,2022 Mexico,2022 Mexico,Meat,Meat,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2022-02-24,2022,0,10,2,1,2,0,2,2022 Mexico,2022 Mexico,The Howling,The Howling,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2022-02-24,2022,0,11,1,1,2,0,4,2022 Mexico,2022 Mexico,Shade,Shade,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2022-02-24,2022,0,12,1,1,2,0,12,2022 Mexico,2022 Mexico,Evolve,Evolve,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2022-02-24,2022,0,13,2,1,2,0,1,2022 Mexico,2022 Mexico,Tube,Tube,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2022-02-24,2022,0,14,1,1,2,0,1,2022 Mexico,2022 Mexico,Sigma Oasis,Sigma Oasis,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2022-02-24,2022,0,15,5,1,2,0,4,2022 Mexico,2022 Mexico,Sand,Sand,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,
-2022-02-24,2022,0,16,1,e,2,0,1900,2022 Mexico,2022 Mexico,So Damn Lucky,So Damn Lucky,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2022-02-24,2022,0,17,1,e,2,0,1001,2022 Mexico,2022 Mexico,The Maker,The Maker,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2022-02-24,2022,0,4,1,1,2,0,12,2022 Mexico,2022 Mexico,I Never Needed You Like This Before,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2022-02-24,2022,0,5,2,1,2,0,4,2022 Mexico,2022 Mexico,Funky Bitch,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2022-02-24,2022,0,6,3,1,2,0,4,2022 Mexico,2022 Mexico,Tweezer,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
+2022-02-24,2022,0,7,3,1,2,0,3,2022 Mexico,2022 Mexico,Piper,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
+2022-02-24,2022,0,8,3,1,2,0,2,2022 Mexico,2022 Mexico,Soul Planet,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
+2022-02-24,2022,0,9,2,1,2,0,13,2022 Mexico,2022 Mexico,Meat,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2022-02-24,2022,0,10,2,1,2,0,2,2022 Mexico,2022 Mexico,The Howling,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2022-02-24,2022,0,11,1,1,2,0,4,2022 Mexico,2022 Mexico,Shade,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2022-02-24,2022,0,12,1,1,2,0,12,2022 Mexico,2022 Mexico,Evolve,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2022-02-24,2022,0,13,2,1,2,0,1,2022 Mexico,2022 Mexico,Tube,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2022-02-24,2022,0,14,1,1,2,0,1,2022 Mexico,2022 Mexico,Sigma Oasis,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2022-02-24,2022,0,15,5,1,2,0,4,2022 Mexico,2022 Mexico,Sand,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,
+2022-02-24,2022,0,16,1,e,2,0,1900,2022 Mexico,2022 Mexico,So Damn Lucky,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2022-02-24,2022,0,17,1,e,2,0,1001,2022 Mexico,2022 Mexico,The Maker,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2022-02-24,2022,0,18,6,e,2,0,4,2022 Mexico,2022 Mexico,Tweezer Reprise,Tweeprise,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
-2022-02-25,2022,0,1,1,1,2,0,8,2022 Mexico,2022 Mexico,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2022-02-25,2022,0,2,2,1,2,0,2,2022 Mexico,2022 Mexico,Ghost,Ghost,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2022-02-25,2022,0,3,1,1,2,0,2,2022 Mexico,2022 Mexico,Free,Free,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2022-02-25,2022,0,1,1,1,2,0,8,2022 Mexico,2022 Mexico,Say It To Me S.A.N.T.O.S.,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2022-02-25,2022,0,2,2,1,2,0,2,2022 Mexico,2022 Mexico,Ghost,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2022-02-25,2022,0,3,1,1,2,0,2,2022 Mexico,2022 Mexico,Free,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2022-02-25,2022,0,4,1,1,2,0,13,2022 Mexico,2022 Mexico,Back on the Train,BOTT,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2022-02-25,2022,0,5,3,1,2,0,7,2022 Mexico,2022 Mexico,Halley's Comet,Halley's,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
-2022-02-25,2022,0,6,3,1,2,0,0,2022 Mexico,2022 Mexico,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
-2022-02-25,2022,0,7,2,1,2,0,1901,2022 Mexico,2022 Mexico,(I Can't Get No) Satisfaction,(I Can't Get No) Satisfaction,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2022-02-25,2022,0,6,3,1,2,0,0,2022 Mexico,2022 Mexico,Say It To Me S.A.N.T.O.S.,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
+2022-02-25,2022,0,7,2,1,2,0,1901,2022 Mexico,2022 Mexico,(I Can't Get No) Satisfaction,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2022-02-25,2022,0,8,2,1,2,0,6,2022 Mexico,2022 Mexico,Also Sprach Zarathustra,2001,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2022-02-25,2022,0,9,4,1,2,0,8,2022 Mexico,2022 Mexico,Chalk Dust Torture,CDT,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
 2022-02-25,2022,0,10,2,2,2,0,2,2022 Mexico,2022 Mexico,Down with Disease,DwD,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2022-02-25,2022,0,11,2,2,2,0,6,2022 Mexico,2022 Mexico,Backwards Down the Number Line,BDTNL,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2022-02-25,2022,0,12,1,2,2,0,3,2022 Mexico,2022 Mexico,Carini,Carini,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2022-02-25,2022,0,12,1,2,2,0,3,2022 Mexico,2022 Mexico,Carini,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2022-02-25,2022,0,13,5,2,2,0,18,2022 Mexico,2022 Mexico,A Song I Heard the Ocean Sing,ASIHTOS,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
 2022-02-25,2022,0,14,1,e,2,0,30,2022 Mexico,2022 Mexico,Wading in the Velvet Sea,Velvet Sea,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2022-02-25,2022,0,15,6,e,2,0,4,2022 Mexico,2022 Mexico,Run Like an Antelope,Antelope,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
-2022-02-26,2022,0,1,1,1,2,0,29,2022 Mexico,2022 Mexico,Axilla,Axilla,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2022-02-26,2022,0,2,3,1,2,0,3,2022 Mexico,2022 Mexico,Twist,Twist,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
-2022-02-26,2022,0,3,2,1,2,0,5,2022 Mexico,2022 Mexico,Your Pet Cat,Your Pet Cat,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2022-02-26,2022,0,1,1,1,2,0,29,2022 Mexico,2022 Mexico,Axilla,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2022-02-26,2022,0,2,3,1,2,0,3,2022 Mexico,2022 Mexico,Twist,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
+2022-02-26,2022,0,3,2,1,2,0,5,2022 Mexico,2022 Mexico,Your Pet Cat,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2022-02-26,2022,0,4,1,1,2,0,12,2022 Mexico,2022 Mexico,Divided Sky,Divided,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2022-02-26,2022,0,5,1,1,2,0,8,2022 Mexico,2022 Mexico,Mull,Mull,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2022-02-26,2022,0,5,1,1,2,0,8,2022 Mexico,2022 Mexico,Mull,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2022-02-26,2022,0,6,2,1,2,0,4,2022 Mexico,2022 Mexico,Wolfman's Brother,Wolfman's,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2022-02-26,2022,0,7,4,1,2,0,3,2022 Mexico,2022 Mexico,Cavern,Cavern,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
-2022-02-26,2022,0,8,2,2,2,0,8,2022 Mexico,2022 Mexico,Set Your Soul Free,Set Your Soul Free,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2022-02-26,2022,0,9,3,2,2,0,9,2022 Mexico,2022 Mexico,Simple,Simple,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
-2022-02-26,2022,0,10,2,2,2,0,10,2022 Mexico,2022 Mexico,Scents and Subtle Sounds,Scents and Subtle Sounds,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2022-02-26,2022,0,7,4,1,2,0,3,2022 Mexico,2022 Mexico,Cavern,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
+2022-02-26,2022,0,8,2,2,2,0,8,2022 Mexico,2022 Mexico,Set Your Soul Free,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2022-02-26,2022,0,9,3,2,2,0,9,2022 Mexico,2022 Mexico,Simple,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
+2022-02-26,2022,0,10,2,2,2,0,10,2022 Mexico,2022 Mexico,Scents and Subtle Sounds,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2022-02-26,2022,0,11,3,2,2,0,22,2022 Mexico,2022 Mexico,Crosseyed and Painless,C&amp;P,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
-2022-02-26,2022,0,12,2,2,2,0,19,2022 Mexico,2022 Mexico,Waste,Waste,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2022-02-26,2022,0,13,5,2,2,0,3,2022 Mexico,2022 Mexico,Blaze On,Blaze On,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
+2022-02-26,2022,0,12,2,2,2,0,19,2022 Mexico,2022 Mexico,Waste,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2022-02-26,2022,0,13,5,2,2,0,3,2022 Mexico,2022 Mexico,Blaze On,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
 2022-02-26,2022,0,14,1,e,2,0,15,2022 Mexico,2022 Mexico,The Wedge,Wedge,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2022-02-26,2022,0,15,2,e,2,0,5,2022 Mexico,2022 Mexico,Sleeping Monkey,Sleeping Monkey,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2022-02-26,2022,0,15,2,e,2,0,5,2022 Mexico,2022 Mexico,Sleeping Monkey,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2022-02-26,2022,0,16,6,e,2,0,3,2022 Mexico,2022 Mexico,Slave to the Traffic Light,Slave,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
-2022-02-27,2022,0,1,1,1,2,0,387,2022 Mexico,2022 Mexico,Fat Man in the Bathtub,Fat Man in the Bathtub,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2022-02-27,2022,0,1,1,1,2,0,387,2022 Mexico,2022 Mexico,Fat Man in the Bathtub,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2022-02-27,2022,0,2,2,1,2,0,7,2022 Mexico,2022 Mexico,Mike's Song,Mike's,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2022-02-27,2022,0,3,2,1,2,0,7,2022 Mexico,2022 Mexico,I Am Hydrogen,Hydrogen,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2022-02-27,2022,0,4,1,1,2,0,7,2022 Mexico,2022 Mexico,Weekapaug Groove,Weekapaug,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2022-02-27,2022,0,5,1,1,2,0,4,2022 Mexico,2022 Mexico,46 Days,46 Days,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2022-02-27,2022,0,6,1,1,2,0,14,2022 Mexico,2022 Mexico,Rift,Rift,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2022-02-27,2022,0,7,2,1,2,0,9,2022 Mexico,2022 Mexico,If I Could,If I Could,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2022-02-27,2022,0,5,1,1,2,0,4,2022 Mexico,2022 Mexico,46 Days,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2022-02-27,2022,0,6,1,1,2,0,14,2022 Mexico,2022 Mexico,Rift,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2022-02-27,2022,0,7,2,1,2,0,9,2022 Mexico,2022 Mexico,If I Could,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2022-02-27,2022,0,8,2,1,2,0,12,2022 Mexico,2022 Mexico,"My Friend, My Friend",My Friend,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2022-02-27,2022,0,9,2,1,2,0,5,2022 Mexico,2022 Mexico,Clear Your Mind,Clear Your Mind,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2022-02-27,2022,0,9,2,1,2,0,5,2022 Mexico,2022 Mexico,Clear Your Mind,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2022-02-27,2022,0,10,1,1,2,0,13,2022 Mexico,2022 Mexico,Split Open and Melt,SOAMelt,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2022-02-27,2022,0,11,4,1,2,0,12,2022 Mexico,2022 Mexico,Suzy Greenberg,Suzy,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
 2022-02-27,2022,0,12,2,2,2,0,11,2022 Mexico,2022 Mexico,No Men In No Man's Land,NMINML,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2022-02-27,2022,0,13,2,2,2,0,4,2022 Mexico,2022 Mexico,Everything's Right,Everything's Right,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2022-02-27,2022,0,13,2,2,2,0,4,2022 Mexico,2022 Mexico,Everything's Right,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2022-02-27,2022,0,14,2,2,2,0,24,2022 Mexico,2022 Mexico,Prince Caspian,Caspian,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2022-02-27,2022,0,15,2,2,2,0,9,2022 Mexico,2022 Mexico,Beneath a Sea of Stars Part 1,Beneath a Sea of Stars Part 1,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2022-02-27,2022,0,16,2,2,2,0,13,2022 Mexico,2022 Mexico,Golden Age,Golden Age,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2022-02-27,2022,0,17,1,2,2,0,5,2022 Mexico,2022 Mexico,Lonely Trip,Lonely Trip,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2022-02-27,2022,0,15,2,2,2,0,9,2022 Mexico,2022 Mexico,Beneath a Sea of Stars Part 1,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2022-02-27,2022,0,16,2,2,2,0,13,2022 Mexico,2022 Mexico,Golden Age,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2022-02-27,2022,0,17,1,2,2,0,5,2022 Mexico,2022 Mexico,Lonely Trip,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2022-02-27,2022,0,18,5,2,2,0,4,2022 Mexico,2022 Mexico,Harry Hood,Hood,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
-2022-02-27,2022,0,19,1,e,2,0,4,2022 Mexico,2022 Mexico,A Life Beyond The Dream,A Life Beyond The Dream,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2022-02-27,2022,0,20,6,e,2,0,8,2022 Mexico,2022 Mexico,First Tube,First Tube,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,
-2022-04-20,2022,0,1,2,1,2,0,3,2022 Madison Square Garden Spring Run,2022 Spring,Carini,Carini,1,Madison Square Garden,New York,NY,USA,>
-2022-04-20,2022,0,2,1,1,2,0,5,2022 Madison Square Garden Spring Run,2022 Spring,Possum,Possum,1,Madison Square Garden,New York,NY,USA,","
+2022-02-27,2022,0,19,1,e,2,0,4,2022 Mexico,2022 Mexico,A Life Beyond The Dream,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2022-02-27,2022,0,20,6,e,2,0,8,2022 Mexico,2022 Mexico,First Tube,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,
+2022-04-20,2022,0,1,2,1,2,0,3,2022 Madison Square Garden Spring Run,2022 Spring,Carini,,1,Madison Square Garden,New York,NY,USA,>
+2022-04-20,2022,0,2,1,1,2,0,5,2022 Madison Square Garden Spring Run,2022 Spring,Possum,,1,Madison Square Garden,New York,NY,USA,","
 2022-04-20,2022,0,3,2,1,2,0,4,2022 Madison Square Garden Spring Run,2022 Spring,The Moma Dance,Moma,1,Madison Square Garden,New York,NY,USA,>
-2022-04-20,2022,0,4,1,1,2,0,15,2022 Madison Square Garden Spring Run,2022 Spring,Leaves,Leaves,1,Madison Square Garden,New York,NY,USA,","
-2022-04-20,2022,0,5,1,1,2,0,50,2022 Madison Square Garden Spring Run,2022 Spring,Strange Design,Strange Design,1,Madison Square Garden,New York,NY,USA,","
-2022-04-20,2022,0,6,1,1,2,0,15,2022 Madison Square Garden Spring Run,2022 Spring,Stash,Stash,1,Madison Square Garden,New York,NY,USA,","
-2022-04-20,2022,0,7,4,1,2,0,2,2022 Madison Square Garden Spring Run,2022 Spring,Blaze On,Blaze On,1,Madison Square Garden,New York,NY,USA,
-2022-04-20,2022,0,8,2,2,2,0,4,2022 Madison Square Garden Spring Run,2022 Spring,Sigma Oasis,Sigma Oasis,0,Madison Square Garden,New York,NY,USA,>
+2022-04-20,2022,0,4,1,1,2,0,15,2022 Madison Square Garden Spring Run,2022 Spring,Leaves,,1,Madison Square Garden,New York,NY,USA,","
+2022-04-20,2022,0,5,1,1,2,0,50,2022 Madison Square Garden Spring Run,2022 Spring,Strange Design,,1,Madison Square Garden,New York,NY,USA,","
+2022-04-20,2022,0,6,1,1,2,0,15,2022 Madison Square Garden Spring Run,2022 Spring,Stash,,1,Madison Square Garden,New York,NY,USA,","
+2022-04-20,2022,0,7,4,1,2,0,2,2022 Madison Square Garden Spring Run,2022 Spring,Blaze On,,1,Madison Square Garden,New York,NY,USA,
+2022-04-20,2022,0,8,2,2,2,0,4,2022 Madison Square Garden Spring Run,2022 Spring,Sigma Oasis,,0,Madison Square Garden,New York,NY,USA,>
 2022-04-20,2022,0,9,2,2,2,0,3,2022 Madison Square Garden Spring Run,2022 Spring,Down with Disease,DwD,1,Madison Square Garden,New York,NY,USA,>
-2022-04-20,2022,0,10,3,2,2,0,4,2022 Madison Square Garden Spring Run,2022 Spring,The Howling,The Howling,1,Madison Square Garden,New York,NY,USA,->
-2022-04-20,2022,0,11,2,2,2,0,2,2022 Madison Square Garden Spring Run,2022 Spring,Twist,Twist,1,Madison Square Garden,New York,NY,USA,>
+2022-04-20,2022,0,10,3,2,2,0,4,2022 Madison Square Garden Spring Run,2022 Spring,The Howling,,1,Madison Square Garden,New York,NY,USA,->
+2022-04-20,2022,0,11,2,2,2,0,2,2022 Madison Square Garden Spring Run,2022 Spring,Twist,,1,Madison Square Garden,New York,NY,USA,>
 2022-04-20,2022,0,12,1,2,2,0,10,2022 Madison Square Garden Spring Run,2022 Spring,Mountains in the Mist,Mist,0,Madison Square Garden,New York,NY,USA,","
-2022-04-20,2022,0,13,1,2,2,0,8,2022 Madison Square Garden Spring Run,2022 Spring,Reba,Reba,1,Madison Square Garden,New York,NY,USA,","
-2022-04-20,2022,0,14,5,2,2,0,6,2022 Madison Square Garden Spring Run,2022 Spring,Drift While You're Sleeping,Drift While You're Sleeping,0,Madison Square Garden,New York,NY,USA,
-2022-04-20,2022,0,15,1,e,2,0,31,2022 Madison Square Garden Spring Run,2022 Spring,Gumbo,Gumbo,1,Madison Square Garden,New York,NY,USA,","
+2022-04-20,2022,0,13,1,2,2,0,8,2022 Madison Square Garden Spring Run,2022 Spring,Reba,,1,Madison Square Garden,New York,NY,USA,","
+2022-04-20,2022,0,14,5,2,2,0,6,2022 Madison Square Garden Spring Run,2022 Spring,Drift While You're Sleeping,,0,Madison Square Garden,New York,NY,USA,
+2022-04-20,2022,0,15,1,e,2,0,31,2022 Madison Square Garden Spring Run,2022 Spring,Gumbo,,1,Madison Square Garden,New York,NY,USA,","
 2022-04-20,2022,0,16,6,e,2,0,2,2022 Madison Square Garden Spring Run,2022 Spring,Slave to the Traffic Light,Slave,1,Madison Square Garden,New York,NY,USA,
 2022-04-21,2022,0,1,2,1,0,0,2,2022 Madison Square Garden Spring Run,2022 Spring,Suzy Greenberg,Suzy,1,Madison Square Garden,New York,NY,USA,>
-2022-04-21,2022,0,2,1,1,0,0,2,2022 Madison Square Garden Spring Run,2022 Spring,46 Days,46 Days,1,Madison Square Garden,New York,NY,USA,","
-2022-04-21,2022,0,3,1,1,0,0,16,2022 Madison Square Garden Spring Run,2022 Spring,Plasma,Plasma,0,Madison Square Garden,New York,NY,USA,","
+2022-04-21,2022,0,2,1,1,0,0,2,2022 Madison Square Garden Spring Run,2022 Spring,46 Days,,1,Madison Square Garden,New York,NY,USA,","
+2022-04-21,2022,0,3,1,1,0,0,16,2022 Madison Square Garden Spring Run,2022 Spring,Plasma,,0,Madison Square Garden,New York,NY,USA,","
 2022-04-21,2022,0,4,2,1,0,0,23,2022 Madison Square Garden Spring Run,2022 Spring,The Man Who Stepped Into Yesterday,TMWSIY,1,Madison Square Garden,New York,NY,USA,>
-2022-04-21,2022,0,5,2,1,0,0,23,2022 Madison Square Garden Spring Run,2022 Spring,Avenu Malkenu,Avenu Malkenu,0,Madison Square Garden,New York,NY,USA,>
+2022-04-21,2022,0,5,2,1,0,0,23,2022 Madison Square Garden Spring Run,2022 Spring,Avenu Malkenu,,0,Madison Square Garden,New York,NY,USA,>
 2022-04-21,2022,0,6,1,1,0,0,0,2022 Madison Square Garden Spring Run,2022 Spring,The Man Who Stepped Into Yesterday,TMWSIY,1,Madison Square Garden,New York,NY,USA,","
 2022-04-21,2022,0,7,1,1,0,0,3,2022 Madison Square Garden Spring Run,2022 Spring,Wolfman's Brother,Wolfman's,1,Madison Square Garden,New York,NY,USA,","
-2022-04-21,2022,0,8,1,1,0,0,26,2022 Madison Square Garden Spring Run,2022 Spring,Esther,Esther,1,Madison Square Garden,New York,NY,USA,","
-2022-04-21,2022,0,9,4,1,0,0,4,2022 Madison Square Garden Spring Run,2022 Spring,Ghost,Ghost,1,Madison Square Garden,New York,NY,USA,
+2022-04-21,2022,0,8,1,1,0,0,26,2022 Madison Square Garden Spring Run,2022 Spring,Esther,,1,Madison Square Garden,New York,NY,USA,","
+2022-04-21,2022,0,9,4,1,0,0,4,2022 Madison Square Garden Spring Run,2022 Spring,Ghost,,1,Madison Square Garden,New York,NY,USA,
 2022-04-21,2022,0,10,3,2,0,0,4,2022 Madison Square Garden Spring Run,2022 Spring,Chalk Dust Torture,CDT,1,Madison Square Garden,New York,NY,USA,->
-2022-04-21,2022,0,11,2,2,0,0,5,2022 Madison Square Garden Spring Run,2022 Spring,Tweezer,Tweezer,1,Madison Square Garden,New York,NY,USA,>
+2022-04-21,2022,0,11,2,2,0,0,5,2022 Madison Square Garden Spring Run,2022 Spring,Tweezer,,1,Madison Square Garden,New York,NY,USA,>
 2022-04-21,2022,0,12,2,2,0,0,4,2022 Madison Square Garden Spring Run,2022 Spring,Also Sprach Zarathustra,2001,0,Madison Square Garden,New York,NY,USA,>
-2022-04-21,2022,0,13,1,2,0,0,12,2022 Madison Square Garden Spring Run,2022 Spring,Maze,Maze,1,Madison Square Garden,New York,NY,USA,","
-2022-04-21,2022,0,14,1,2,0,0,11,2022 Madison Square Garden Spring Run,2022 Spring,About to Run,About to Run,0,Madison Square Garden,New York,NY,USA,","
+2022-04-21,2022,0,13,1,2,0,0,12,2022 Madison Square Garden Spring Run,2022 Spring,Maze,,1,Madison Square Garden,New York,NY,USA,","
+2022-04-21,2022,0,14,1,2,0,0,11,2022 Madison Square Garden Spring Run,2022 Spring,About to Run,,0,Madison Square Garden,New York,NY,USA,","
 2022-04-21,2022,0,15,2,2,0,0,25,2022 Madison Square Garden Spring Run,2022 Spring,The Mango Song,Mango,1,Madison Square Garden,New York,NY,USA,>
 2022-04-21,2022,0,16,2,2,0,0,2,2022 Madison Square Garden Spring Run,2022 Spring,Harry Hood,Hood,1,Madison Square Garden,New York,NY,USA,>
-2022-04-21,2022,0,17,3,2,0,0,10,2022 Madison Square Garden Spring Run,2022 Spring,Character Zero,Character Zero,1,Madison Square Garden,New York,NY,USA,->
-2022-04-21,2022,0,18,3,2,0,0,0,2022 Madison Square Garden Spring Run,2022 Spring,Tweezer,Tweezer,1,Madison Square Garden,New York,NY,USA,->
-2022-04-21,2022,0,19,5,2,0,0,0,2022 Madison Square Garden Spring Run,2022 Spring,Character Zero,Character Zero,1,Madison Square Garden,New York,NY,USA,
-2022-04-21,2022,0,20,1,e,0,0,2,2022 Madison Square Garden Spring Run,2022 Spring,A Life Beyond The Dream,A Life Beyond The Dream,0,Madison Square Garden,New York,NY,USA,","
+2022-04-21,2022,0,17,3,2,0,0,10,2022 Madison Square Garden Spring Run,2022 Spring,Character Zero,,1,Madison Square Garden,New York,NY,USA,->
+2022-04-21,2022,0,18,3,2,0,0,0,2022 Madison Square Garden Spring Run,2022 Spring,Tweezer,,1,Madison Square Garden,New York,NY,USA,->
+2022-04-21,2022,0,19,5,2,0,0,0,2022 Madison Square Garden Spring Run,2022 Spring,Character Zero,,1,Madison Square Garden,New York,NY,USA,
+2022-04-21,2022,0,20,1,e,0,0,2,2022 Madison Square Garden Spring Run,2022 Spring,A Life Beyond The Dream,,0,Madison Square Garden,New York,NY,USA,","
 2022-04-21,2022,0,21,6,e,0,0,5,2022 Madison Square Garden Spring Run,2022 Spring,Tweezer Reprise,Tweeprise,1,Madison Square Garden,New York,NY,USA,
-2022-04-22,2022,0,1,2,1,2,0,3,2022 Madison Square Garden Spring Run,2022 Spring,Everything's Right,Everything's Right,0,Madison Square Garden,New York,NY,USA,>
-2022-04-22,2022,0,2,1,1,2,0,6,2022 Madison Square Garden Spring Run,2022 Spring,Tube,Tube,1,Madison Square Garden,New York,NY,USA,","
-2022-04-22,2022,0,3,2,1,2,0,11,2022 Madison Square Garden Spring Run,2022 Spring,555,555,1,Madison Square Garden,New York,NY,USA,>
+2022-04-22,2022,0,1,2,1,2,0,3,2022 Madison Square Garden Spring Run,2022 Spring,Everything's Right,,0,Madison Square Garden,New York,NY,USA,>
+2022-04-22,2022,0,2,1,1,2,0,6,2022 Madison Square Garden Spring Run,2022 Spring,Tube,,1,Madison Square Garden,New York,NY,USA,","
+2022-04-22,2022,0,3,2,1,2,0,11,2022 Madison Square Garden Spring Run,2022 Spring,555,,1,Madison Square Garden,New York,NY,USA,>
 2022-04-22,2022,0,4,1,1,2,0,5,2022 Madison Square Garden Spring Run,2022 Spring,Back on the Train,BOTT,0,Madison Square Garden,New York,NY,USA,","
-2022-04-22,2022,0,5,1,1,2,0,11,2022 Madison Square Garden Spring Run,2022 Spring,Army of One,Army of One,1,Madison Square Garden,New York,NY,USA,","
-2022-04-22,2022,0,6,2,1,2,0,10,2022 Madison Square Garden Spring Run,2022 Spring,Axilla (Part II),Axilla (Part II),1,Madison Square Garden,New York,NY,USA,>
+2022-04-22,2022,0,5,1,1,2,0,11,2022 Madison Square Garden Spring Run,2022 Spring,Army of One,,1,Madison Square Garden,New York,NY,USA,","
+2022-04-22,2022,0,6,2,1,2,0,10,2022 Madison Square Garden Spring Run,2022 Spring,Axilla (Part II),,1,Madison Square Garden,New York,NY,USA,>
 2022-04-22,2022,0,7,2,1,2,0,13,2022 Madison Square Garden Spring Run,2022 Spring,Bathtub Gin,Gin,1,Madison Square Garden,New York,NY,USA,>
-2022-04-22,2022,0,8,4,1,2,0,5,2022 Madison Square Garden Spring Run,2022 Spring,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Madison Square Garden,New York,NY,USA,
-2022-04-22,2022,0,9,2,2,2,0,4,2022 Madison Square Garden Spring Run,2022 Spring,Set Your Soul Free,Set Your Soul Free,0,Madison Square Garden,New York,NY,USA,>
-2022-04-22,2022,0,10,2,2,2,0,23,2022 Madison Square Garden Spring Run,2022 Spring,Light,Light,0,Madison Square Garden,New York,NY,USA,>
-2022-04-22,2022,0,11,2,2,2,0,22,2022 Madison Square Garden Spring Run,2022 Spring,Fuego,Fuego,1,Madison Square Garden,New York,NY,USA,>
+2022-04-22,2022,0,8,4,1,2,0,5,2022 Madison Square Garden Spring Run,2022 Spring,Say It To Me S.A.N.T.O.S.,,1,Madison Square Garden,New York,NY,USA,
+2022-04-22,2022,0,9,2,2,2,0,4,2022 Madison Square Garden Spring Run,2022 Spring,Set Your Soul Free,,0,Madison Square Garden,New York,NY,USA,>
+2022-04-22,2022,0,10,2,2,2,0,23,2022 Madison Square Garden Spring Run,2022 Spring,Light,,0,Madison Square Garden,New York,NY,USA,>
+2022-04-22,2022,0,11,2,2,2,0,22,2022 Madison Square Garden Spring Run,2022 Spring,Fuego,,1,Madison Square Garden,New York,NY,USA,>
 2022-04-22,2022,0,12,2,2,2,0,7,2022 Madison Square Garden Spring Run,2022 Spring,What's the Use?,WTU?,1,Madison Square Garden,New York,NY,USA,>
 2022-04-22,2022,0,13,4,2,2,0,5,2022 Madison Square Garden Spring Run,2022 Spring,Backwards Down the Number Line,BDTNL,0,Madison Square Garden,New York,NY,USA,
-2022-04-22,2022,0,14,1,3,2,0,5,2022 Madison Square Garden Spring Run,2022 Spring,Free,Free,1,Madison Square Garden,New York,NY,USA,","
-2022-04-22,2022,0,15,1,3,2,0,13,2022 Madison Square Garden Spring Run,2022 Spring,A Wave of Hope,A Wave of Hope,0,Madison Square Garden,New York,NY,USA,","
-2022-04-22,2022,0,16,2,3,2,0,29,2022 Madison Square Garden Spring Run,2022 Spring,Waves,Waves,1,Madison Square Garden,New York,NY,USA,>
-2022-04-22,2022,0,17,1,3,2,0,6,2022 Madison Square Garden Spring Run,2022 Spring,Sand,Sand,0,Madison Square Garden,New York,NY,USA,","
+2022-04-22,2022,0,14,1,3,2,0,5,2022 Madison Square Garden Spring Run,2022 Spring,Free,,1,Madison Square Garden,New York,NY,USA,","
+2022-04-22,2022,0,15,1,3,2,0,13,2022 Madison Square Garden Spring Run,2022 Spring,A Wave of Hope,,0,Madison Square Garden,New York,NY,USA,","
+2022-04-22,2022,0,16,2,3,2,0,29,2022 Madison Square Garden Spring Run,2022 Spring,Waves,,1,Madison Square Garden,New York,NY,USA,>
+2022-04-22,2022,0,17,1,3,2,0,6,2022 Madison Square Garden Spring Run,2022 Spring,Sand,,0,Madison Square Garden,New York,NY,USA,","
 2022-04-22,2022,0,18,5,3,2,0,3,2022 Madison Square Garden Spring Run,2022 Spring,Split Open and Melt,SOAMelt,1,Madison Square Garden,New York,NY,USA,
-2022-04-22,2022,0,19,6,e,2,0,38,2022 Madison Square Garden Spring Run,2022 Spring,It's Ice,It's Ice,1,Madison Square Garden,New York,NY,USA,
-2022-04-23,2022,0,1,1,1,2,0,15,2022 Madison Square Garden Spring Run,2022 Spring,Fluffhead,Fluffhead,1,Madison Square Garden,New York,NY,USA,","
+2022-04-22,2022,0,19,6,e,2,0,38,2022 Madison Square Garden Spring Run,2022 Spring,It's Ice,,1,Madison Square Garden,New York,NY,USA,
+2022-04-23,2022,0,1,1,1,2,0,15,2022 Madison Square Garden Spring Run,2022 Spring,Fluffhead,,1,Madison Square Garden,New York,NY,USA,","
 2022-04-23,2022,0,2,2,1,2,0,4,2022 Madison Square Garden Spring Run,2022 Spring,Mike's Song,Mike's,1,Madison Square Garden,New York,NY,USA,>
 2022-04-23,2022,0,3,2,1,2,0,4,2022 Madison Square Garden Spring Run,2022 Spring,I Am Hydrogen,Hydrogen,1,Madison Square Garden,New York,NY,USA,>
 2022-04-23,2022,0,4,1,1,2,0,4,2022 Madison Square Garden Spring Run,2022 Spring,Weekapaug Groove,Weekapaug,1,Madison Square Garden,New York,NY,USA,","
-2022-04-23,2022,0,5,3,1,2,0,5,2022 Madison Square Garden Spring Run,2022 Spring,Simple,Simple,1,Madison Square Garden,New York,NY,USA,->
-2022-04-23,2022,0,6,3,1,1,0,9,2022 Madison Square Garden Spring Run,2022 Spring,Egg in a Hole,Egg in a Hole,1,Madison Square Garden,New York,NY,USA,->
-2022-04-23,2022,0,7,1,1,2,0,0,2022 Madison Square Garden Spring Run,2022 Spring,Simple,Simple,1,Madison Square Garden,New York,NY,USA,","
+2022-04-23,2022,0,5,3,1,2,0,5,2022 Madison Square Garden Spring Run,2022 Spring,Simple,,1,Madison Square Garden,New York,NY,USA,->
+2022-04-23,2022,0,6,3,1,1,0,9,2022 Madison Square Garden Spring Run,2022 Spring,Egg in a Hole,,1,Madison Square Garden,New York,NY,USA,->
+2022-04-23,2022,0,7,1,1,2,0,0,2022 Madison Square Garden Spring Run,2022 Spring,Simple,,1,Madison Square Garden,New York,NY,USA,","
 2022-04-23,2022,0,8,1,1,2,0,5,2022 Madison Square Garden Spring Run,2022 Spring,Divided Sky,Divided,1,Madison Square Garden,New York,NY,USA,","
-2022-04-23,2022,0,9,4,1,2,0,4,2022 Madison Square Garden Spring Run,2022 Spring,First Tube,First Tube,0,Madison Square Garden,New York,NY,USA,
+2022-04-23,2022,0,9,4,1,2,0,4,2022 Madison Square Garden Spring Run,2022 Spring,First Tube,,0,Madison Square Garden,New York,NY,USA,
 2022-04-23,2022,0,10,3,2,2,0,4,2022 Madison Square Garden Spring Run,2022 Spring,No Men In No Man's Land,NMINML,1,Madison Square Garden,New York,NY,USA,->
 2022-04-23,2022,0,11,2,2,2,0,4,2022 Madison Square Garden Spring Run,2022 Spring,Prince Caspian,Caspian,1,Madison Square Garden,New York,NY,USA,>
-2022-04-23,2022,0,12,2,2,2,0,7,2022 Madison Square Garden Spring Run,2022 Spring,Piper,Piper,1,Madison Square Garden,New York,NY,USA,>
+2022-04-23,2022,0,12,2,2,2,0,7,2022 Madison Square Garden Spring Run,2022 Spring,Piper,,1,Madison Square Garden,New York,NY,USA,>
 2022-04-23,2022,0,13,1,2,2,0,26,2022 Madison Square Garden Spring Run,2022 Spring,Gotta Jibboo,Jibboo,0,Madison Square Garden,New York,NY,USA,","
-2022-04-23,2022,0,14,2,2,2,0,11,2022 Madison Square Garden Spring Run,2022 Spring,I Always Wanted It This Way,I Always Wanted It This Way,1,Madison Square Garden,New York,NY,USA,>
-2022-04-23,2022,0,15,1,2,2,0,4,2022 Madison Square Garden Spring Run,2022 Spring,Lonely Trip,Lonely Trip,0,Madison Square Garden,New York,NY,USA,","
+2022-04-23,2022,0,14,2,2,2,0,11,2022 Madison Square Garden Spring Run,2022 Spring,I Always Wanted It This Way,,1,Madison Square Garden,New York,NY,USA,>
+2022-04-23,2022,0,15,1,2,2,0,4,2022 Madison Square Garden Spring Run,2022 Spring,Lonely Trip,,0,Madison Square Garden,New York,NY,USA,","
 2022-04-23,2022,0,16,5,2,2,0,18,2022 Madison Square Garden Spring Run,2022 Spring,Walls of the Cave,WotC,1,Madison Square Garden,New York,NY,USA,
-2022-04-23,2022,0,17,2,e,2,0,17,2022 Madison Square Garden Spring Run,2022 Spring,Wilson,Wilson,1,Madison Square Garden,New York,NY,USA,>
+2022-04-23,2022,0,17,2,e,2,0,17,2022 Madison Square Garden Spring Run,2022 Spring,Wilson,,1,Madison Square Garden,New York,NY,USA,>
 2022-04-23,2022,0,18,1,e,2,0,9,2022 Madison Square Garden Spring Run,2022 Spring,David Bowie,Bowie,1,Madison Square Garden,New York,NY,USA,","
-2022-04-23,2022,0,19,6,e,2,0,16,2022 Madison Square Garden Spring Run,2022 Spring,More,More,1,Madison Square Garden,New York,NY,USA,
-2022-05-27,2022,0,1,2,1,0,0,4,2022 Spring Tour,2022 Spring,Twist,Twist,1,The Wharf Amphitheater,Orange Beach,AL,USA,>
+2022-04-23,2022,0,19,6,e,2,0,16,2022 Madison Square Garden Spring Run,2022 Spring,More,,1,Madison Square Garden,New York,NY,USA,
+2022-05-27,2022,0,1,2,1,0,0,4,2022 Spring Tour,2022 Spring,Twist,,1,The Wharf Amphitheater,Orange Beach,AL,USA,>
 2022-05-27,2022,0,2,2,1,0,0,7,2022 Spring Tour,2022 Spring,Halley's Comet,Halley's,1,The Wharf Amphitheater,Orange Beach,AL,USA,>
-2022-05-27,2022,0,3,1,1,0,0,2,2022 Spring Tour,2022 Spring,Sand,Sand,0,The Wharf Amphitheater,Orange Beach,AL,USA,","
-2022-05-27,2022,0,4,1,1,0,0,59,2022 Spring Tour,2022 Spring,The Old Home Place,The Old Home Place,0,The Wharf Amphitheater,Orange Beach,AL,USA,","
-2022-05-27,2022,0,5,1,1,0,0,17,2022 Spring Tour,2022 Spring,Martian Monster,Martian Monster,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
-2022-05-27,2022,0,6,1,1,0,0,11,2022 Spring Tour,2022 Spring,Dogs Stole Things,Dogs Stole Things,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
-2022-05-27,2022,0,7,1,1,0,0,39,2022 Spring Tour,2022 Spring,Halfway to the Moon,Halfway to the Moon,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
-2022-05-27,2022,0,8,1,1,0,0,4,2022 Spring Tour,2022 Spring,Stash,Stash,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
-2022-05-27,2022,0,9,1,1,0,0,8,2022 Spring Tour,2022 Spring,Shade,Shade,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
-2022-05-27,2022,0,10,1,1,0,0,8,2022 Spring Tour,2022 Spring,I Never Needed You Like This Before,I Never Needed You Like This Before,0,The Wharf Amphitheater,Orange Beach,AL,USA,","
+2022-05-27,2022,0,3,1,1,0,0,2,2022 Spring Tour,2022 Spring,Sand,,0,The Wharf Amphitheater,Orange Beach,AL,USA,","
+2022-05-27,2022,0,4,1,1,0,0,59,2022 Spring Tour,2022 Spring,The Old Home Place,,0,The Wharf Amphitheater,Orange Beach,AL,USA,","
+2022-05-27,2022,0,5,1,1,0,0,17,2022 Spring Tour,2022 Spring,Martian Monster,,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
+2022-05-27,2022,0,6,1,1,0,0,11,2022 Spring Tour,2022 Spring,Dogs Stole Things,,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
+2022-05-27,2022,0,7,1,1,0,0,39,2022 Spring Tour,2022 Spring,Halfway to the Moon,,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
+2022-05-27,2022,0,8,1,1,0,0,4,2022 Spring Tour,2022 Spring,Stash,,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
+2022-05-27,2022,0,9,1,1,0,0,8,2022 Spring Tour,2022 Spring,Shade,,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
+2022-05-27,2022,0,10,1,1,0,0,8,2022 Spring Tour,2022 Spring,I Never Needed You Like This Before,,0,The Wharf Amphitheater,Orange Beach,AL,USA,","
 2022-05-27,2022,0,11,4,1,0,0,2,2022 Spring Tour,2022 Spring,Bathtub Gin,Gin,1,The Wharf Amphitheater,Orange Beach,AL,USA,
-2022-05-27,2022,0,12,1,2,0,0,11,2022 Spring Tour,2022 Spring,Llama,Llama,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
-2022-05-27,2022,0,13,3,2,0,0,8,2022 Spring Tour,2022 Spring,Soul Planet,Soul Planet,0,The Wharf Amphitheater,Orange Beach,AL,USA,->
-2022-05-27,2022,0,14,3,2,0,0,606,2022 Spring Tour,2022 Spring,Quadrophonic Toppling,Quadrophonic Toppling,1,The Wharf Amphitheater,Orange Beach,AL,USA,->
-2022-05-27,2022,0,15,2,2,0,0,0,2022 Spring Tour,2022 Spring,Soul Planet,Soul Planet,0,The Wharf Amphitheater,Orange Beach,AL,USA,>
-2022-05-27,2022,0,16,3,2,0,0,3,2022 Spring Tour,2022 Spring,Ghost,Ghost,1,The Wharf Amphitheater,Orange Beach,AL,USA,->
-2022-05-27,2022,0,17,3,2,0,0,6,2022 Spring Tour,2022 Spring,Scents and Subtle Sounds,Scents and Subtle Sounds,1,The Wharf Amphitheater,Orange Beach,AL,USA,->
+2022-05-27,2022,0,12,1,2,0,0,11,2022 Spring Tour,2022 Spring,Llama,,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
+2022-05-27,2022,0,13,3,2,0,0,8,2022 Spring Tour,2022 Spring,Soul Planet,,0,The Wharf Amphitheater,Orange Beach,AL,USA,->
+2022-05-27,2022,0,14,3,2,0,0,606,2022 Spring Tour,2022 Spring,Quadrophonic Toppling,,1,The Wharf Amphitheater,Orange Beach,AL,USA,->
+2022-05-27,2022,0,15,2,2,0,0,0,2022 Spring Tour,2022 Spring,Soul Planet,,0,The Wharf Amphitheater,Orange Beach,AL,USA,>
+2022-05-27,2022,0,16,3,2,0,0,3,2022 Spring Tour,2022 Spring,Ghost,,1,The Wharf Amphitheater,Orange Beach,AL,USA,->
+2022-05-27,2022,0,17,3,2,0,0,6,2022 Spring Tour,2022 Spring,Scents and Subtle Sounds,,1,The Wharf Amphitheater,Orange Beach,AL,USA,->
 2022-05-27,2022,0,18,1,2,0,0,3,2022 Spring Tour,2022 Spring,Chalk Dust Torture,CDT,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
-2022-05-27,2022,0,19,5,2,0,0,17,2022 Spring Tour,2022 Spring,Loving Cup,Loving Cup,0,The Wharf Amphitheater,Orange Beach,AL,USA,
-2022-05-27,2022,0,20,1,e,2,2,6,2022 Spring Tour,2022 Spring,Waste,Waste,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
-2022-05-27,2022,0,21,6,e,2,2,2,2022 Spring Tour,2022 Spring,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,The Wharf Amphitheater,Orange Beach,AL,USA,
-2022-05-28,2022,0,1,1,1,2,0,5,2022 Spring Tour,2022 Spring,Sigma Oasis,Sigma Oasis,0,The Wharf Amphitheater,Orange Beach,AL,USA,","
-2022-05-28,2022,0,2,1,1,2,0,5,2022 Spring Tour,2022 Spring,Possum,Possum,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
+2022-05-27,2022,0,19,5,2,0,0,17,2022 Spring Tour,2022 Spring,Loving Cup,,0,The Wharf Amphitheater,Orange Beach,AL,USA,
+2022-05-27,2022,0,20,1,e,2,2,6,2022 Spring Tour,2022 Spring,Waste,,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
+2022-05-27,2022,0,21,6,e,2,2,2,2022 Spring Tour,2022 Spring,Say It To Me S.A.N.T.O.S.,,1,The Wharf Amphitheater,Orange Beach,AL,USA,
+2022-05-28,2022,0,1,1,1,2,0,5,2022 Spring Tour,2022 Spring,Sigma Oasis,,0,The Wharf Amphitheater,Orange Beach,AL,USA,","
+2022-05-28,2022,0,2,1,1,2,0,5,2022 Spring Tour,2022 Spring,Possum,,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
 2022-05-28,2022,0,3,2,1,2,0,19,2022 Spring Tour,2022 Spring,AC/DC Bag,Bag,1,The Wharf Amphitheater,Orange Beach,AL,USA,>
-2022-05-28,2022,0,4,1,1,2,0,5,2022 Spring Tour,2022 Spring,Reba,Reba,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
-2022-05-28,2022,0,5,1,1,2,0,32,2022 Spring Tour,2022 Spring,Roggae,Roggae,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
+2022-05-28,2022,0,4,1,1,2,0,5,2022 Spring Tour,2022 Spring,Reba,,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
+2022-05-28,2022,0,5,1,1,2,0,32,2022 Spring Tour,2022 Spring,Roggae,,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
 2022-05-28,2022,0,6,2,1,2,0,285,2022 Spring Tour,2022 Spring,My Mind's Got a Mind of its Own,MMGAMOIO,0,The Wharf Amphitheater,Orange Beach,AL,USA,>
-2022-05-28,2022,0,7,2,1,2,0,23,2022 Spring Tour,2022 Spring,The Final Hurrah,The Final Hurrah,1,The Wharf Amphitheater,Orange Beach,AL,USA,>
-2022-05-28,2022,0,8,4,1,2,0,3,2022 Spring Tour,2022 Spring,Free,Free,1,The Wharf Amphitheater,Orange Beach,AL,USA,
-2022-05-28,2022,0,9,2,2,2,0,3,2022 Spring Tour,2022 Spring,A Wave of Hope,A Wave of Hope,0,The Wharf Amphitheater,Orange Beach,AL,USA,>
-2022-05-28,2022,0,10,2,2,2,0,16,2022 Spring Tour,2022 Spring,Mr. Completely,Mr. Completely,0,The Wharf Amphitheater,Orange Beach,AL,USA,>
-2022-05-28,2022,0,11,1,2,2,0,13,2022 Spring Tour,2022 Spring,Walk Away,Walk Away,0,The Wharf Amphitheater,Orange Beach,AL,USA,","
-2022-05-28,2022,0,12,2,2,2,0,6,2022 Spring Tour,2022 Spring,Golden Age,Golden Age,0,The Wharf Amphitheater,Orange Beach,AL,USA,>
+2022-05-28,2022,0,7,2,1,2,0,23,2022 Spring Tour,2022 Spring,The Final Hurrah,,1,The Wharf Amphitheater,Orange Beach,AL,USA,>
+2022-05-28,2022,0,8,4,1,2,0,3,2022 Spring Tour,2022 Spring,Free,,1,The Wharf Amphitheater,Orange Beach,AL,USA,
+2022-05-28,2022,0,9,2,2,2,0,3,2022 Spring Tour,2022 Spring,A Wave of Hope,,0,The Wharf Amphitheater,Orange Beach,AL,USA,>
+2022-05-28,2022,0,10,2,2,2,0,16,2022 Spring Tour,2022 Spring,Mr. Completely,,0,The Wharf Amphitheater,Orange Beach,AL,USA,>
+2022-05-28,2022,0,11,1,2,2,0,13,2022 Spring Tour,2022 Spring,Walk Away,,0,The Wharf Amphitheater,Orange Beach,AL,USA,","
+2022-05-28,2022,0,12,2,2,2,0,6,2022 Spring Tour,2022 Spring,Golden Age,,0,The Wharf Amphitheater,Orange Beach,AL,USA,>
 2022-05-28,2022,0,13,2,2,2,0,3,2022 Spring Tour,2022 Spring,What's the Use?,WTU?,1,The Wharf Amphitheater,Orange Beach,AL,USA,>
 2022-05-28,2022,0,14,1,2,2,0,5,2022 Spring Tour,2022 Spring,The Moma Dance,Moma,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
-2022-05-28,2022,0,15,2,2,2,0,6,2022 Spring Tour,2022 Spring,If I Could,If I Could,1,The Wharf Amphitheater,Orange Beach,AL,USA,>
+2022-05-28,2022,0,15,2,2,2,0,6,2022 Spring Tour,2022 Spring,If I Could,,1,The Wharf Amphitheater,Orange Beach,AL,USA,>
 2022-05-28,2022,0,16,5,2,2,0,8,2022 Spring Tour,2022 Spring,Run Like an Antelope,Antelope,1,The Wharf Amphitheater,Orange Beach,AL,USA,
-2022-05-28,2022,0,17,1,e,2,0,11,2022 Spring Tour,2022 Spring,I Am in Miami,I Am in Miami,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
-2022-05-28,2022,0,18,6,e,2,0,54,2022 Spring Tour,2022 Spring,Izabella,Izabella,0,The Wharf Amphitheater,Orange Beach,AL,USA,
-2022-05-29,2022,0,1,2,1,2,0,5,2022 Spring Tour,2022 Spring,Character Zero,Character Zero,1,The Wharf Amphitheater,Orange Beach,AL,USA,>
+2022-05-28,2022,0,17,1,e,2,0,11,2022 Spring Tour,2022 Spring,I Am in Miami,,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
+2022-05-28,2022,0,18,6,e,2,0,54,2022 Spring Tour,2022 Spring,Izabella,,0,The Wharf Amphitheater,Orange Beach,AL,USA,
+2022-05-29,2022,0,1,2,1,2,0,5,2022 Spring Tour,2022 Spring,Character Zero,,1,The Wharf Amphitheater,Orange Beach,AL,USA,>
 2022-05-29,2022,0,2,2,1,2,0,3,2022 Spring Tour,2022 Spring,Mike's Song,Mike's,1,The Wharf Amphitheater,Orange Beach,AL,USA,>
 2022-05-29,2022,0,3,1,1,2,0,19,2022 Spring Tour,2022 Spring,Bouncing Around the Room,Bouncin',1,The Wharf Amphitheater,Orange Beach,AL,USA,","
 2022-05-29,2022,0,4,1,1,2,0,12,2022 Spring Tour,2022 Spring,Kill Devil Falls,KDF,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
-2022-05-29,2022,0,5,1,1,2,0,23,2022 Spring Tour,2022 Spring,Winterqueen,Winterqueen,0,The Wharf Amphitheater,Orange Beach,AL,USA,","
-2022-05-29,2022,0,6,1,1,2,0,10,2022 Spring Tour,2022 Spring,Funky Bitch,Funky Bitch,0,The Wharf Amphitheater,Orange Beach,AL,USA,","
-2022-05-29,2022,0,7,2,1,2,0,18,2022 Spring Tour,2022 Spring,NICU,NICU,1,The Wharf Amphitheater,Orange Beach,AL,USA,>
-2022-05-29,2022,0,8,3,1,2,0,6,2022 Spring Tour,2022 Spring,Carini,Carini,1,The Wharf Amphitheater,Orange Beach,AL,USA,->
+2022-05-29,2022,0,5,1,1,2,0,23,2022 Spring Tour,2022 Spring,Winterqueen,,0,The Wharf Amphitheater,Orange Beach,AL,USA,","
+2022-05-29,2022,0,6,1,1,2,0,10,2022 Spring Tour,2022 Spring,Funky Bitch,,0,The Wharf Amphitheater,Orange Beach,AL,USA,","
+2022-05-29,2022,0,7,2,1,2,0,18,2022 Spring Tour,2022 Spring,NICU,,1,The Wharf Amphitheater,Orange Beach,AL,USA,>
+2022-05-29,2022,0,8,3,1,2,0,6,2022 Spring Tour,2022 Spring,Carini,,1,The Wharf Amphitheater,Orange Beach,AL,USA,->
 2022-05-29,2022,0,9,4,1,2,0,3,2022 Spring Tour,2022 Spring,Weekapaug Groove,Weekapaug,1,The Wharf Amphitheater,Orange Beach,AL,USA,
 2022-05-29,2022,0,10,1,2,2,0,33,2022 Spring Tour,2022 Spring,The Landlady,Landlady,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
-2022-05-29,2022,0,11,2,2,2,0,5,2022 Spring Tour,2022 Spring,Tweezer,Tweezer,1,The Wharf Amphitheater,Orange Beach,AL,USA,>
-2022-05-29,2022,0,12,2,2,2,0,5,2022 Spring Tour,2022 Spring,Plasma,Plasma,0,The Wharf Amphitheater,Orange Beach,AL,USA,>
+2022-05-29,2022,0,11,2,2,2,0,5,2022 Spring Tour,2022 Spring,Tweezer,,1,The Wharf Amphitheater,Orange Beach,AL,USA,>
+2022-05-29,2022,0,12,2,2,2,0,5,2022 Spring Tour,2022 Spring,Plasma,,0,The Wharf Amphitheater,Orange Beach,AL,USA,>
 2022-05-29,2022,0,13,1,2,2,0,5,2022 Spring Tour,2022 Spring,Wolfman's Brother,Wolfman's,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
-2022-05-29,2022,0,14,2,2,2,0,11,2022 Spring Tour,2022 Spring,Miss You,Miss You,1,The Wharf Amphitheater,Orange Beach,AL,USA,>
-2022-05-29,2022,0,15,1,2,2,0,5,2022 Spring Tour,2022 Spring,Maze,Maze,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
+2022-05-29,2022,0,14,2,2,2,0,11,2022 Spring Tour,2022 Spring,Miss You,,1,The Wharf Amphitheater,Orange Beach,AL,USA,>
+2022-05-29,2022,0,15,1,2,2,0,5,2022 Spring Tour,2022 Spring,Maze,,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
 2022-05-29,2022,0,16,5,2,2,0,5,2022 Spring Tour,2022 Spring,Harry Hood,Hood,1,The Wharf Amphitheater,Orange Beach,AL,USA,
-2022-05-29,2022,0,17,1,e,2,0,5,2022 Spring Tour,2022 Spring,A Life Beyond The Dream,A Life Beyond The Dream,0,The Wharf Amphitheater,Orange Beach,AL,USA,","
+2022-05-29,2022,0,17,1,e,2,0,5,2022 Spring Tour,2022 Spring,A Life Beyond The Dream,,0,The Wharf Amphitheater,Orange Beach,AL,USA,","
 2022-05-29,2022,0,18,6,e,2,0,5,2022 Spring Tour,2022 Spring,Tweezer Reprise,Tweeprise,1,The Wharf Amphitheater,Orange Beach,AL,USA,
-2022-05-31,2022,0,1,1,1,2,0,5,2022 Spring Tour,2022 Spring,Set Your Soul Free,Set Your Soul Free,0,Credit One Stadium,Charleston,SC,USA,","
+2022-05-31,2022,0,1,1,1,2,0,5,2022 Spring Tour,2022 Spring,Set Your Soul Free,,0,Credit One Stadium,Charleston,SC,USA,","
 2022-05-31,2022,0,2,1,1,2,0,4,2022 Spring Tour,2022 Spring,Walls of the Cave,WotC,1,Credit One Stadium,Charleston,SC,USA,","
 2022-05-31,2022,0,3,1,1,2,0,17,2022 Spring Tour,2022 Spring,Sample in a Jar,Sample,1,Credit One Stadium,Charleston,SC,USA,","
-2022-05-31,2022,0,4,1,1,2,0,18,2022 Spring Tour,2022 Spring,Steam,Steam,1,Credit One Stadium,Charleston,SC,USA,","
+2022-05-31,2022,0,4,1,1,2,0,18,2022 Spring Tour,2022 Spring,Steam,,1,Credit One Stadium,Charleston,SC,USA,","
 2022-05-31,2022,0,5,2,1,2,0,8,2022 Spring Tour,2022 Spring,"My Friend, My Friend",My Friend,1,Credit One Stadium,Charleston,SC,USA,>
-2022-05-31,2022,0,6,1,1,2,0,22,2022 Spring Tour,2022 Spring,Sparkle,Sparkle,1,Credit One Stadium,Charleston,SC,USA,","
-2022-05-31,2022,0,7,1,1,2,0,14,2022 Spring Tour,2022 Spring,Ocelot,Ocelot,1,Credit One Stadium,Charleston,SC,USA,","
-2022-05-31,2022,0,8,1,1,2,0,7,2022 Spring Tour,2022 Spring,Leaves,Leaves,1,Credit One Stadium,Charleston,SC,USA,","
+2022-05-31,2022,0,6,1,1,2,0,22,2022 Spring Tour,2022 Spring,Sparkle,,1,Credit One Stadium,Charleston,SC,USA,","
+2022-05-31,2022,0,7,1,1,2,0,14,2022 Spring Tour,2022 Spring,Ocelot,,1,Credit One Stadium,Charleston,SC,USA,","
+2022-05-31,2022,0,8,1,1,2,0,7,2022 Spring Tour,2022 Spring,Leaves,,1,Credit One Stadium,Charleston,SC,USA,","
 2022-05-31,2022,0,9,4,1,2,0,25,2022 Spring Tour,2022 Spring,The Squirming Coil,Coil,1,Credit One Stadium,Charleston,SC,USA,
-2022-05-31,2022,0,10,2,2,2,0,5,2022 Spring Tour,2022 Spring,Axilla (Part II),Axilla (Part II),1,Credit One Stadium,Charleston,SC,USA,>
+2022-05-31,2022,0,10,2,2,2,0,5,2022 Spring Tour,2022 Spring,Axilla (Part II),,1,Credit One Stadium,Charleston,SC,USA,>
 2022-05-31,2022,0,11,2,2,2,0,6,2022 Spring Tour,2022 Spring,Also Sprach Zarathustra,2001,0,Credit One Stadium,Charleston,SC,USA,>
-2022-05-31,2022,0,12,2,2,2,0,5,2022 Spring Tour,2022 Spring,Light,Light,0,Credit One Stadium,Charleston,SC,USA,>
+2022-05-31,2022,0,12,2,2,2,0,5,2022 Spring Tour,2022 Spring,Light,,0,Credit One Stadium,Charleston,SC,USA,>
 2022-05-31,2022,0,13,1,2,2,0,7,2022 Spring Tour,2022 Spring,Mountains in the Mist,Mist,0,Credit One Stadium,Charleston,SC,USA,","
-2022-05-31,2022,0,14,1,2,2,0,11,2022 Spring Tour,2022 Spring,Meat,Meat,1,Credit One Stadium,Charleston,SC,USA,","
+2022-05-31,2022,0,14,1,2,2,0,11,2022 Spring Tour,2022 Spring,Meat,,1,Credit One Stadium,Charleston,SC,USA,","
 2022-05-31,2022,0,15,2,2,2,0,25,2022 Spring Tour,2022 Spring,Golgi Apparatus,Golgi,1,Credit One Stadium,Charleston,SC,USA,>
 2022-05-31,2022,0,16,2,2,2,0,7,2022 Spring Tour,2022 Spring,Slave to the Traffic Light,Slave,1,Credit One Stadium,Charleston,SC,USA,>
-2022-05-31,2022,0,17,5,2,2,0,9,2022 Spring Tour,2022 Spring,Cavern,Cavern,1,Credit One Stadium,Charleston,SC,USA,
-2022-05-31,2022,0,18,2,e,2,0,6,2022 Spring Tour,2022 Spring,46 Days,46 Days,1,Credit One Stadium,Charleston,SC,USA,>
-2022-05-31,2022,0,19,6,e,2,0,5,2022 Spring Tour,2022 Spring,Tube,Tube,1,Credit One Stadium,Charleston,SC,USA,
-2022-06-01,2022,0,1,1,1,2,0,28,2022 Spring Tour,2022 Spring,Cool It Down,Cool It Down,0,Credit One Stadium,Charleston,SC,USA,","
-2022-06-01,2022,0,2,1,1,2,0,29,2022 Spring Tour,2022 Spring,Foam,Foam,1,Credit One Stadium,Charleston,SC,USA,","
+2022-05-31,2022,0,17,5,2,2,0,9,2022 Spring Tour,2022 Spring,Cavern,,1,Credit One Stadium,Charleston,SC,USA,
+2022-05-31,2022,0,18,2,e,2,0,6,2022 Spring Tour,2022 Spring,46 Days,,1,Credit One Stadium,Charleston,SC,USA,>
+2022-05-31,2022,0,19,6,e,2,0,5,2022 Spring Tour,2022 Spring,Tube,,1,Credit One Stadium,Charleston,SC,USA,
+2022-06-01,2022,0,1,1,1,2,0,28,2022 Spring Tour,2022 Spring,Cool It Down,,0,Credit One Stadium,Charleston,SC,USA,","
+2022-06-01,2022,0,2,1,1,2,0,29,2022 Spring Tour,2022 Spring,Foam,,1,Credit One Stadium,Charleston,SC,USA,","
 2022-06-01,2022,0,3,1,1,2,0,14,2022 Spring Tour,2022 Spring,Knuckle Bone Broth Avenue,KBBA,1,Credit One Stadium,Charleston,SC,USA,","
-2022-06-01,2022,0,4,1,1,2,0,47,2022 Spring Tour,2022 Spring,Dirt,Dirt,0,Credit One Stadium,Charleston,SC,USA,","
-2022-06-01,2022,0,5,2,1,2,0,6,2022 Spring Tour,2022 Spring,555,555,1,Credit One Stadium,Charleston,SC,USA,>
-2022-06-01,2022,0,6,2,1,2,0,8,2022 Spring Tour,2022 Spring,Gumbo,Gumbo,1,Credit One Stadium,Charleston,SC,USA,>
+2022-06-01,2022,0,4,1,1,2,0,47,2022 Spring Tour,2022 Spring,Dirt,,0,Credit One Stadium,Charleston,SC,USA,","
+2022-06-01,2022,0,5,2,1,2,0,6,2022 Spring Tour,2022 Spring,555,,1,Credit One Stadium,Charleston,SC,USA,>
+2022-06-01,2022,0,6,2,1,2,0,8,2022 Spring Tour,2022 Spring,Gumbo,,1,Credit One Stadium,Charleston,SC,USA,>
 2022-06-01,2022,0,7,2,1,2,0,6,2022 Spring Tour,2022 Spring,Backwards Down the Number Line,BDTNL,0,Credit One Stadium,Charleston,SC,USA,>
 2022-06-01,2022,0,8,1,1,2,0,10,2022 Spring Tour,2022 Spring,The Wedge,Wedge,1,Credit One Stadium,Charleston,SC,USA,","
-2022-06-01,2022,0,9,1,1,2,0,7,2022 Spring Tour,2022 Spring,About to Run,About to Run,0,Credit One Stadium,Charleston,SC,USA,","
+2022-06-01,2022,0,9,1,1,2,0,7,2022 Spring Tour,2022 Spring,About to Run,,0,Credit One Stadium,Charleston,SC,USA,","
 2022-06-01,2022,0,10,4,1,2,0,5,2022 Spring Tour,2022 Spring,Divided Sky,Divided,1,Credit One Stadium,Charleston,SC,USA,
-2022-06-01,2022,0,11,2,2,2,0,5,2022 Spring Tour,2022 Spring,Wilson,Wilson,1,Credit One Stadium,Charleston,SC,USA,>
-2022-06-01,2022,0,12,1,2,2,0,5,2022 Spring Tour,2022 Spring,Simple,Simple,1,Credit One Stadium,Charleston,SC,USA,","
+2022-06-01,2022,0,11,2,2,2,0,5,2022 Spring Tour,2022 Spring,Wilson,,1,Credit One Stadium,Charleston,SC,USA,>
+2022-06-01,2022,0,12,1,2,2,0,5,2022 Spring Tour,2022 Spring,Simple,,1,Credit One Stadium,Charleston,SC,USA,","
 2022-06-01,2022,0,13,3,2,2,0,5,2022 Spring Tour,2022 Spring,Prince Caspian,Caspian,1,Credit One Stadium,Charleston,SC,USA,->
-2022-06-01,2022,0,14,2,2,2,0,5,2022 Spring Tour,2022 Spring,Egg in a Hole,Egg in a Hole,1,Credit One Stadium,Charleston,SC,USA,>
-2022-06-01,2022,0,15,2,2,2,0,5,2022 Spring Tour,2022 Spring,Piper,Piper,1,Credit One Stadium,Charleston,SC,USA,>
+2022-06-01,2022,0,14,2,2,2,0,5,2022 Spring Tour,2022 Spring,Egg in a Hole,,1,Credit One Stadium,Charleston,SC,USA,>
+2022-06-01,2022,0,15,2,2,2,0,5,2022 Spring Tour,2022 Spring,Piper,,1,Credit One Stadium,Charleston,SC,USA,>
 2022-06-01,2022,0,16,1,2,2,0,0,2022 Spring Tour,2022 Spring,Prince Caspian,Caspian,1,Credit One Stadium,Charleston,SC,USA,","
-2022-06-01,2022,0,17,2,2,2,0,5,2022 Spring Tour,2022 Spring,Lonely Trip,Lonely Trip,0,Credit One Stadium,Charleston,SC,USA,>
+2022-06-01,2022,0,17,2,2,2,0,5,2022 Spring Tour,2022 Spring,Lonely Trip,,0,Credit One Stadium,Charleston,SC,USA,>
 2022-06-01,2022,0,18,1,2,2,0,6,2022 Spring Tour,2022 Spring,Back on the Train,BOTT,0,Credit One Stadium,Charleston,SC,USA,","
-2022-06-01,2022,0,19,1,2,2,0,27,2022 Spring Tour,2022 Spring,Most Events Aren't Planned,Most Events Aren't Planned,0,Credit One Stadium,Charleston,SC,USA,","
-2022-06-01,2022,0,20,5,2,2,0,8,2022 Spring Tour,2022 Spring,Blaze On,Blaze On,1,Credit One Stadium,Charleston,SC,USA,
-2022-06-01,2022,0,21,2,e,2,0,158,2022 Spring Tour,2022 Spring,Nothing,Nothing,0,Credit One Stadium,Charleston,SC,USA,>
+2022-06-01,2022,0,19,1,2,2,0,27,2022 Spring Tour,2022 Spring,Most Events Aren't Planned,,0,Credit One Stadium,Charleston,SC,USA,","
+2022-06-01,2022,0,20,5,2,2,0,8,2022 Spring Tour,2022 Spring,Blaze On,,1,Credit One Stadium,Charleston,SC,USA,
+2022-06-01,2022,0,21,2,e,2,0,158,2022 Spring Tour,2022 Spring,Nothing,,0,Credit One Stadium,Charleston,SC,USA,>
 2022-06-01,2022,0,22,1,e,2,0,26,2022 Spring Tour,2022 Spring,When the Circus Comes,Circus,0,Credit One Stadium,Charleston,SC,USA,","
 2022-06-01,2022,0,23,2,e,2,0,108,2022 Spring Tour,2022 Spring,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Credit One Stadium,Charleston,SC,USA,>
 2022-06-01,2022,0,24,6,e,2,0,7,2022 Spring Tour,2022 Spring,Suzy Greenberg,Suzy,1,Credit One Stadium,Charleston,SC,USA,
 2022-06-03,2022,0,1,1,1,2,0,32,2022 Spring Tour,2022 Spring,Theme From the Bottom,Theme,1,Ruoff Music Center,Noblesville,IN,USA,","
 2022-06-03,2022,0,2,1,1,2,0,20,2022 Spring Tour,2022 Spring,Boogie On Reggae Woman,Boogie On,0,Ruoff Music Center,Noblesville,IN,USA,","
-2022-06-03,2022,0,3,1,1,2,0,7,2022 Spring Tour,2022 Spring,Everything's Right,Everything's Right,0,Ruoff Music Center,Noblesville,IN,USA,","
-2022-06-03,2022,0,4,2,1,2,0,8,2022 Spring Tour,2022 Spring,Esther,Esther,1,Ruoff Music Center,Noblesville,IN,USA,>
-2022-06-03,2022,0,5,1,1,2,0,15,2022 Spring Tour,2022 Spring,Buried Alive,Buried Alive,1,Ruoff Music Center,Noblesville,IN,USA,","
-2022-06-03,2022,0,6,1,1,2,0,35,2022 Spring Tour,2022 Spring,Alaska,Alaska,0,Ruoff Music Center,Noblesville,IN,USA,","
-2022-06-03,2022,0,7,1,1,2,0,11,2022 Spring Tour,2022 Spring,Mull,Mull,1,Ruoff Music Center,Noblesville,IN,USA,","
+2022-06-03,2022,0,3,1,1,2,0,7,2022 Spring Tour,2022 Spring,Everything's Right,,0,Ruoff Music Center,Noblesville,IN,USA,","
+2022-06-03,2022,0,4,2,1,2,0,8,2022 Spring Tour,2022 Spring,Esther,,1,Ruoff Music Center,Noblesville,IN,USA,>
+2022-06-03,2022,0,5,1,1,2,0,15,2022 Spring Tour,2022 Spring,Buried Alive,,1,Ruoff Music Center,Noblesville,IN,USA,","
+2022-06-03,2022,0,6,1,1,2,0,35,2022 Spring Tour,2022 Spring,Alaska,,0,Ruoff Music Center,Noblesville,IN,USA,","
+2022-06-03,2022,0,7,1,1,2,0,11,2022 Spring Tour,2022 Spring,Mull,,1,Ruoff Music Center,Noblesville,IN,USA,","
 2022-06-03,2022,0,8,1,1,2,0,16,2022 Spring Tour,2022 Spring,Birds of a Feather,BOAF,1,Ruoff Music Center,Noblesville,IN,USA,","
-2022-06-03,2022,0,9,4,1,2,0,2,2022 Spring Tour,2022 Spring,Cavern,Cavern,1,Ruoff Music Center,Noblesville,IN,USA,
+2022-06-03,2022,0,9,4,1,2,0,2,2022 Spring Tour,2022 Spring,Cavern,,1,Ruoff Music Center,Noblesville,IN,USA,
 2022-06-03,2022,0,10,2,2,2,0,6,2022 Spring Tour,2022 Spring,No Men In No Man's Land,NMINML,1,Ruoff Music Center,Noblesville,IN,USA,>
 2022-06-03,2022,0,11,2,2,2,0,9,2022 Spring Tour,2022 Spring,Down with Disease,DwD,1,Ruoff Music Center,Noblesville,IN,USA,>
-2022-06-03,2022,0,12,2,2,2,0,21,2022 Spring Tour,2022 Spring,Joy,Joy,1,Ruoff Music Center,Noblesville,IN,USA,>
-2022-06-03,2022,0,13,2,2,2,0,23,2022 Spring Tour,2022 Spring,Ruby Waves,Ruby Waves,0,Ruoff Music Center,Noblesville,IN,USA,>
+2022-06-03,2022,0,12,2,2,2,0,21,2022 Spring Tour,2022 Spring,Joy,,1,Ruoff Music Center,Noblesville,IN,USA,>
+2022-06-03,2022,0,13,2,2,2,0,23,2022 Spring Tour,2022 Spring,Ruby Waves,,0,Ruoff Music Center,Noblesville,IN,USA,>
 2022-06-03,2022,0,14,1,2,2,0,13,2022 Spring Tour,2022 Spring,The Lizards,Lizards,1,Ruoff Music Center,Noblesville,IN,USA,","
-2022-06-03,2022,0,15,2,2,2,0,6,2022 Spring Tour,2022 Spring,Fluffhead,Fluffhead,1,Ruoff Music Center,Noblesville,IN,USA,>
+2022-06-03,2022,0,15,2,2,2,0,6,2022 Spring Tour,2022 Spring,Fluffhead,,1,Ruoff Music Center,Noblesville,IN,USA,>
 2022-06-03,2022,0,16,5,2,2,0,5,2022 Spring Tour,2022 Spring,Chalk Dust Torture,CDT,1,Ruoff Music Center,Noblesville,IN,USA,
-2022-06-03,2022,0,17,2,e,2,0,41,2022 Spring Tour,2022 Spring,Contact,Contact,1,Ruoff Music Center,Noblesville,IN,USA,>
-2022-06-03,2022,0,18,6,e,2,0,6,2022 Spring Tour,2022 Spring,First Tube,First Tube,0,Ruoff Music Center,Noblesville,IN,USA,
-2022-06-04,2022,0,1,1,1,2,0,17,2022 Spring Tour,2022 Spring,Turtle in the Clouds,Turtle in the Clouds,1,Ruoff Music Center,Noblesville,IN,USA,","
-2022-06-04,2022,0,2,2,1,2,0,30,2022 Spring Tour,2022 Spring,Undermind,Undermind,0,Ruoff Music Center,Noblesville,IN,USA,>
-2022-06-04,2022,0,3,1,1,2,0,10,2022 Spring Tour,2022 Spring,Drift While You're Sleeping,Drift While You're Sleeping,0,Ruoff Music Center,Noblesville,IN,USA,","
-2022-06-04,2022,0,4,1,1,2,0,19,2022 Spring Tour,2022 Spring,Strawberry Letter 23,Strawberry Letter 23,0,Ruoff Music Center,Noblesville,IN,USA,","
+2022-06-03,2022,0,17,2,e,2,0,41,2022 Spring Tour,2022 Spring,Contact,,1,Ruoff Music Center,Noblesville,IN,USA,>
+2022-06-03,2022,0,18,6,e,2,0,6,2022 Spring Tour,2022 Spring,First Tube,,0,Ruoff Music Center,Noblesville,IN,USA,
+2022-06-04,2022,0,1,1,1,2,0,17,2022 Spring Tour,2022 Spring,Turtle in the Clouds,,1,Ruoff Music Center,Noblesville,IN,USA,","
+2022-06-04,2022,0,2,2,1,2,0,30,2022 Spring Tour,2022 Spring,Undermind,,0,Ruoff Music Center,Noblesville,IN,USA,>
+2022-06-04,2022,0,3,1,1,2,0,10,2022 Spring Tour,2022 Spring,Drift While You're Sleeping,,0,Ruoff Music Center,Noblesville,IN,USA,","
+2022-06-04,2022,0,4,1,1,2,0,19,2022 Spring Tour,2022 Spring,Strawberry Letter 23,,0,Ruoff Music Center,Noblesville,IN,USA,","
 2022-06-04,2022,0,5,2,1,2,0,59,2022 Spring Tour,2022 Spring,Stealing Time From the Faulty Plan,STFTFP,1,Ruoff Music Center,Noblesville,IN,USA,>
-2022-06-04,2022,0,6,2,1,2,0,17,2022 Spring Tour,2022 Spring,Runaway Jim,Runaway Jim,1,Ruoff Music Center,Noblesville,IN,USA,>
-2022-06-04,2022,0,7,2,1,2,0,17,2022 Spring Tour,2022 Spring,Camel Walk,Camel Walk,1,Ruoff Music Center,Noblesville,IN,USA,>
+2022-06-04,2022,0,6,2,1,2,0,17,2022 Spring Tour,2022 Spring,Runaway Jim,,1,Ruoff Music Center,Noblesville,IN,USA,>
+2022-06-04,2022,0,7,2,1,2,0,17,2022 Spring Tour,2022 Spring,Camel Walk,,1,Ruoff Music Center,Noblesville,IN,USA,>
 2022-06-04,2022,0,8,2,1,2,0,24,2022 Spring Tour,2022 Spring,Timber (Jerry the Mule),Timber Ho,0,Ruoff Music Center,Noblesville,IN,USA,>
-2022-06-04,2022,0,9,1,1,2,0,18,2022 Spring Tour,2022 Spring,Julius,Julius,1,Ruoff Music Center,Noblesville,IN,USA,","
+2022-06-04,2022,0,9,1,1,2,0,18,2022 Spring Tour,2022 Spring,Julius,,1,Ruoff Music Center,Noblesville,IN,USA,","
 2022-06-04,2022,0,10,4,1,2,0,8,2022 Spring Tour,2022 Spring,Split Open and Melt,SOAMelt,1,Ruoff Music Center,Noblesville,IN,USA,
 2022-06-04,2022,0,11,2,2,2,0,15,2022 Spring Tour,2022 Spring,You Enjoy Myself,YEM,1,Ruoff Music Center,Noblesville,IN,USA,>
-2022-06-04,2022,0,12,1,2,2,0,5,2022 Spring Tour,2022 Spring,A Wave of Hope,A Wave of Hope,0,Ruoff Music Center,Noblesville,IN,USA,","
-2022-06-04,2022,0,13,2,2,2,0,17,2022 Spring Tour,2022 Spring,Bug,Bug,0,Ruoff Music Center,Noblesville,IN,USA,>
+2022-06-04,2022,0,12,1,2,2,0,5,2022 Spring Tour,2022 Spring,A Wave of Hope,,0,Ruoff Music Center,Noblesville,IN,USA,","
+2022-06-04,2022,0,13,2,2,2,0,17,2022 Spring Tour,2022 Spring,Bug,,0,Ruoff Music Center,Noblesville,IN,USA,>
 2022-06-04,2022,0,14,2,2,2,0,7,2022 Spring Tour,2022 Spring,Gotta Jibboo,Jibboo,0,Ruoff Music Center,Noblesville,IN,USA,>
-2022-06-04,2022,0,15,2,2,2,0,10,2022 Spring Tour,2022 Spring,The Howling,The Howling,1,Ruoff Music Center,Noblesville,IN,USA,>
+2022-06-04,2022,0,15,2,2,2,0,10,2022 Spring Tour,2022 Spring,The Howling,,1,Ruoff Music Center,Noblesville,IN,USA,>
 2022-06-04,2022,0,16,5,2,2,0,31,2022 Spring Tour,2022 Spring,Good Times Bad Times,GTBT,0,Ruoff Music Center,Noblesville,IN,USA,
-2022-06-04,2022,0,17,6,e,2,0,4,2022 Spring Tour,2022 Spring,Maze,Maze,1,Ruoff Music Center,Noblesville,IN,USA,
+2022-06-04,2022,0,17,6,e,2,0,4,2022 Spring Tour,2022 Spring,Maze,,1,Ruoff Music Center,Noblesville,IN,USA,
 2022-06-05,2022,0,1,1,1,2,0,58,2022 Spring Tour,2022 Spring,While My Guitar Gently Weeps,WMGGW,0,Ruoff Music Center,Noblesville,IN,USA,","
-2022-06-05,2022,0,2,1,1,2,0,27,2022 Spring Tour,2022 Spring,My Soul,My Soul,0,Ruoff Music Center,Noblesville,IN,USA,","
-2022-06-05,2022,0,3,1,1,2,0,12,2022 Spring Tour,2022 Spring,Rift,Rift,1,Ruoff Music Center,Noblesville,IN,USA,","
-2022-06-05,2022,0,4,1,1,2,0,26,2022 Spring Tour,2022 Spring,Horn,Horn,1,Ruoff Music Center,Noblesville,IN,USA,","
-2022-06-05,2022,0,5,1,1,2,0,18,2022 Spring Tour,2022 Spring,Wombat,Wombat,1,Ruoff Music Center,Noblesville,IN,USA,","
-2022-06-05,2022,0,6,1,1,2,0,15,2022 Spring Tour,2022 Spring,Evolve,Evolve,0,Ruoff Music Center,Noblesville,IN,USA,","
-2022-06-05,2022,0,7,1,1,2,0,18,2022 Spring Tour,2022 Spring,Guyute,Guyute,1,Ruoff Music Center,Noblesville,IN,USA,","
+2022-06-05,2022,0,2,1,1,2,0,27,2022 Spring Tour,2022 Spring,My Soul,,0,Ruoff Music Center,Noblesville,IN,USA,","
+2022-06-05,2022,0,3,1,1,2,0,12,2022 Spring Tour,2022 Spring,Rift,,1,Ruoff Music Center,Noblesville,IN,USA,","
+2022-06-05,2022,0,4,1,1,2,0,26,2022 Spring Tour,2022 Spring,Horn,,1,Ruoff Music Center,Noblesville,IN,USA,","
+2022-06-05,2022,0,5,1,1,2,0,18,2022 Spring Tour,2022 Spring,Wombat,,1,Ruoff Music Center,Noblesville,IN,USA,","
+2022-06-05,2022,0,6,1,1,2,0,15,2022 Spring Tour,2022 Spring,Evolve,,0,Ruoff Music Center,Noblesville,IN,USA,","
+2022-06-05,2022,0,7,1,1,2,0,18,2022 Spring Tour,2022 Spring,Guyute,,1,Ruoff Music Center,Noblesville,IN,USA,","
 2022-06-05,2022,0,8,1,1,2,0,45,2022 Spring Tour,2022 Spring,Limb By Limb,LxL,1,Ruoff Music Center,Noblesville,IN,USA,","
-2022-06-05,2022,0,9,1,1,2,0,16,2022 Spring Tour,2022 Spring,Mercury,Mercury,1,Ruoff Music Center,Noblesville,IN,USA,","
+2022-06-05,2022,0,9,1,1,2,0,16,2022 Spring Tour,2022 Spring,Mercury,,1,Ruoff Music Center,Noblesville,IN,USA,","
 2022-06-05,2022,0,10,4,1,2,0,6,2022 Spring Tour,2022 Spring,The Moma Dance,Moma,1,Ruoff Music Center,Noblesville,IN,USA,
-2022-06-05,2022,0,11,1,2,2,0,7,2022 Spring Tour,2022 Spring,Sand,Sand,0,Ruoff Music Center,Noblesville,IN,USA,","
-2022-06-05,2022,0,12,3,2,2,0,6,2022 Spring Tour,2022 Spring,Sigma Oasis,Sigma Oasis,0,Ruoff Music Center,Noblesville,IN,USA,->
-2022-06-05,2022,0,13,1,2,2,0,0,2022 Spring Tour,2022 Spring,Sand,Sand,0,Ruoff Music Center,Noblesville,IN,USA,","
-2022-06-05,2022,0,14,2,2,2,0,20,2022 Spring Tour,2022 Spring,Twenty Years Later,Twenty Years Later,1,Ruoff Music Center,Noblesville,IN,USA,>
+2022-06-05,2022,0,11,1,2,2,0,7,2022 Spring Tour,2022 Spring,Sand,,0,Ruoff Music Center,Noblesville,IN,USA,","
+2022-06-05,2022,0,12,3,2,2,0,6,2022 Spring Tour,2022 Spring,Sigma Oasis,,0,Ruoff Music Center,Noblesville,IN,USA,->
+2022-06-05,2022,0,13,1,2,2,0,0,2022 Spring Tour,2022 Spring,Sand,,0,Ruoff Music Center,Noblesville,IN,USA,","
+2022-06-05,2022,0,14,2,2,2,0,20,2022 Spring Tour,2022 Spring,Twenty Years Later,,1,Ruoff Music Center,Noblesville,IN,USA,>
 2022-06-05,2022,0,15,1,2,2,0,10,2022 Spring Tour,2022 Spring,The Mango Song,Mango,1,Ruoff Music Center,Noblesville,IN,USA,","
-2022-06-05,2022,0,16,1,2,2,0,23,2022 Spring Tour,2022 Spring,Rise/Come Together,Rise/Come Together,0,Ruoff Music Center,Noblesville,IN,USA,","
-2022-06-05,2022,0,17,5,2,2,0,6,2022 Spring Tour,2022 Spring,Free,Free,1,Ruoff Music Center,Noblesville,IN,USA,
-2022-06-05,2022,0,18,1,e,2,0,20,2022 Spring Tour,2022 Spring,Grind,Grind,1,Ruoff Music Center,Noblesville,IN,USA,","
+2022-06-05,2022,0,16,1,2,2,0,23,2022 Spring Tour,2022 Spring,Rise/Come Together,,0,Ruoff Music Center,Noblesville,IN,USA,","
+2022-06-05,2022,0,17,5,2,2,0,6,2022 Spring Tour,2022 Spring,Free,,1,Ruoff Music Center,Noblesville,IN,USA,
+2022-06-05,2022,0,18,1,e,2,0,20,2022 Spring Tour,2022 Spring,Grind,,1,Ruoff Music Center,Noblesville,IN,USA,","
 2022-06-05,2022,0,19,6,e,2,0,4,2022 Spring Tour,2022 Spring,Slave to the Traffic Light,Slave,1,Ruoff Music Center,Noblesville,IN,USA,
-2022-07-14,2022,0,1,3,1,2,0,8,2022 Summer Tour,2022 Summer,Ghost,Ghost,1,Xfinity Center,Mansfield,MA,USA,->
-2022-07-14,2022,0,2,3,1,2,0,5,2022 Summer Tour,2022 Summer,Set Your Soul Free,Set Your Soul Free,0,Xfinity Center,Mansfield,MA,USA,->
-2022-07-14,2022,0,3,1,1,2,0,0,2022 Summer Tour,2022 Summer,Ghost,Ghost,1,Xfinity Center,Mansfield,MA,USA,","
+2022-07-14,2022,0,1,3,1,2,0,8,2022 Summer Tour,2022 Summer,Ghost,,1,Xfinity Center,Mansfield,MA,USA,->
+2022-07-14,2022,0,2,3,1,2,0,5,2022 Summer Tour,2022 Summer,Set Your Soul Free,,0,Xfinity Center,Mansfield,MA,USA,->
+2022-07-14,2022,0,3,1,1,2,0,0,2022 Summer Tour,2022 Summer,Ghost,,1,Xfinity Center,Mansfield,MA,USA,","
 2022-07-14,2022,0,4,1,1,2,0,4,2022 Summer Tour,2022 Summer,The Wedge,Wedge,1,Xfinity Center,Mansfield,MA,USA,","
-2022-07-14,2022,0,5,1,1,2,0,61,2022 Summer Tour,2022 Summer,Mound,Mound,1,Xfinity Center,Mansfield,MA,USA,","
+2022-07-14,2022,0,5,1,1,2,0,61,2022 Summer Tour,2022 Summer,Mound,,1,Xfinity Center,Mansfield,MA,USA,","
 2022-07-14,2022,0,6,1,1,2,0,5,2022 Summer Tour,2022 Summer,Mountains in the Mist,Mist,0,Xfinity Center,Mansfield,MA,USA,","
 2022-07-14,2022,0,7,2,1,2,0,4,2022 Summer Tour,2022 Summer,Back on the Train,BOTT,0,Xfinity Center,Mansfield,MA,USA,>
-2022-07-14,2022,0,8,1,1,2,0,3,2022 Summer Tour,2022 Summer,Ruby Waves,Ruby Waves,0,Xfinity Center,Mansfield,MA,USA,","
-2022-07-14,2022,0,9,1,1,2,0,38,2022 Summer Tour,2022 Summer,I Been Around,I Been Around,1,Xfinity Center,Mansfield,MA,USA,","
-2022-07-14,2022,0,10,2,1,2,0,5,2022 Summer Tour,2022 Summer,Tube,Tube,1,Xfinity Center,Mansfield,MA,USA,>
-2022-07-14,2022,0,11,4,1,2,0,4,2022 Summer Tour,2022 Summer,About to Run,About to Run,0,Xfinity Center,Mansfield,MA,USA,
+2022-07-14,2022,0,8,1,1,2,0,3,2022 Summer Tour,2022 Summer,Ruby Waves,,0,Xfinity Center,Mansfield,MA,USA,","
+2022-07-14,2022,0,9,1,1,2,0,38,2022 Summer Tour,2022 Summer,I Been Around,,1,Xfinity Center,Mansfield,MA,USA,","
+2022-07-14,2022,0,10,2,1,2,0,5,2022 Summer Tour,2022 Summer,Tube,,1,Xfinity Center,Mansfield,MA,USA,>
+2022-07-14,2022,0,11,4,1,2,0,4,2022 Summer Tour,2022 Summer,About to Run,,0,Xfinity Center,Mansfield,MA,USA,
 2022-07-14,2022,0,12,3,2,2,0,3,2022 Summer Tour,2022 Summer,Chalk Dust Torture,CDT,1,Xfinity Center,Mansfield,MA,USA,->
-2022-07-14,2022,0,13,3,2,2,0,6,2022 Summer Tour,2022 Summer,Plasma,Plasma,0,Xfinity Center,Mansfield,MA,USA,->
+2022-07-14,2022,0,13,3,2,2,0,6,2022 Summer Tour,2022 Summer,Plasma,,0,Xfinity Center,Mansfield,MA,USA,->
 2022-07-14,2022,0,14,3,2,2,0,6,2022 Summer Tour,2022 Summer,Weekapaug Groove,Weekapaug,1,Xfinity Center,Mansfield,MA,USA,->
-2022-07-14,2022,0,15,3,2,2,0,36,2022 Summer Tour,2022 Summer,Saw It Again,Saw It Again,1,Xfinity Center,Mansfield,MA,USA,->
+2022-07-14,2022,0,15,3,2,2,0,36,2022 Summer Tour,2022 Summer,Saw It Again,,1,Xfinity Center,Mansfield,MA,USA,->
 2022-07-14,2022,0,16,2,2,2,0,4,2022 Summer Tour,2022 Summer,Prince Caspian,Caspian,1,Xfinity Center,Mansfield,MA,USA,>
 2022-07-14,2022,0,17,2,2,2,0,4,2022 Summer Tour,2022 Summer,Backwards Down the Number Line,BDTNL,0,Xfinity Center,Mansfield,MA,USA,>
-2022-07-14,2022,0,18,2,2,2,0,2,2022 Summer Tour,2022 Summer,Bug,Bug,0,Xfinity Center,Mansfield,MA,USA,>
-2022-07-14,2022,0,19,5,2,2,0,1,2022 Summer Tour,2022 Summer,Sand,Sand,0,Xfinity Center,Mansfield,MA,USA,
+2022-07-14,2022,0,18,2,2,2,0,2,2022 Summer Tour,2022 Summer,Bug,,0,Xfinity Center,Mansfield,MA,USA,>
+2022-07-14,2022,0,19,5,2,2,0,1,2022 Summer Tour,2022 Summer,Sand,,0,Xfinity Center,Mansfield,MA,USA,
 2022-07-14,2022,0,20,2,e,2,0,48,2022 Summer Tour,2022 Summer,Punch You in the Eye,PYITE,1,Xfinity Center,Mansfield,MA,USA,>
-2022-07-14,2022,0,21,6,e,2,0,8,2022 Summer Tour,2022 Summer,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Xfinity Center,Mansfield,MA,USA,
-2022-07-15,2022,0,1,1,1,2,0,6,2022 Summer Tour,2022 Summer,46 Days,46 Days,1,Xfinity Center,Mansfield,MA,USA,","
-2022-07-15,2022,0,2,1,1,2,0,48,2022 Summer Tour,2022 Summer,Water in the Sky,Water in the Sky,1,Xfinity Center,Mansfield,MA,USA,","
-2022-07-15,2022,0,3,3,1,2,0,4,2022 Summer Tour,2022 Summer,Everything's Right,Everything's Right,0,Xfinity Center,Mansfield,MA,USA,->
-2022-07-15,2022,0,4,1,1,2,0,2,2022 Summer Tour,2022 Summer,Rift,Rift,1,Xfinity Center,Mansfield,MA,USA,","
+2022-07-14,2022,0,21,6,e,2,0,8,2022 Summer Tour,2022 Summer,Say It To Me S.A.N.T.O.S.,,1,Xfinity Center,Mansfield,MA,USA,
+2022-07-15,2022,0,1,1,1,2,0,6,2022 Summer Tour,2022 Summer,46 Days,,1,Xfinity Center,Mansfield,MA,USA,","
+2022-07-15,2022,0,2,1,1,2,0,48,2022 Summer Tour,2022 Summer,Water in the Sky,,1,Xfinity Center,Mansfield,MA,USA,","
+2022-07-15,2022,0,3,3,1,2,0,4,2022 Summer Tour,2022 Summer,Everything's Right,,0,Xfinity Center,Mansfield,MA,USA,->
+2022-07-15,2022,0,4,1,1,2,0,2,2022 Summer Tour,2022 Summer,Rift,,1,Xfinity Center,Mansfield,MA,USA,","
 2022-07-15,2022,0,5,1,1,2,0,7,2022 Summer Tour,2022 Summer,Wolfman's Brother,Wolfman's,1,Xfinity Center,Mansfield,MA,USA,","
-2022-07-15,2022,0,6,2,1,2,0,3,2022 Summer Tour,2022 Summer,Maze,Maze,1,Xfinity Center,Mansfield,MA,USA,>
+2022-07-15,2022,0,6,2,1,2,0,3,2022 Summer Tour,2022 Summer,Maze,,1,Xfinity Center,Mansfield,MA,USA,>
 2022-07-15,2022,0,7,2,1,2,0,9,2022 Summer Tour,2022 Summer,Bathtub Gin,Gin,1,Xfinity Center,Mansfield,MA,USA,>
 2022-07-15,2022,0,8,4,1,2,0,44,2022 Summer Tour,2022 Summer,Rock and Roll,R&amp;R,0,Xfinity Center,Mansfield,MA,USA,
 2022-07-15,2022,0,9,2,2,2,0,7,2022 Summer Tour,2022 Summer,Mike's Song,Mike's,1,Xfinity Center,Mansfield,MA,USA,>
 2022-07-15,2022,0,10,2,2,2,0,10,2022 Summer Tour,2022 Summer,I Am Hydrogen,Hydrogen,1,Xfinity Center,Mansfield,MA,USA,>
-2022-07-15,2022,0,11,3,2,2,0,7,2022 Summer Tour,2022 Summer,Carini,Carini,1,Xfinity Center,Mansfield,MA,USA,->
-2022-07-15,2022,0,12,3,2,2,0,5,2022 Summer Tour,2022 Summer,Blaze On,Blaze On,1,Xfinity Center,Mansfield,MA,USA,->
-2022-07-15,2022,0,13,2,2,2,0,8,2022 Summer Tour,2022 Summer,Golden Age,Golden Age,0,Xfinity Center,Mansfield,MA,USA,>
-2022-07-15,2022,0,14,2,2,2,0,3,2022 Summer Tour,2022 Summer,The Howling,The Howling,1,Xfinity Center,Mansfield,MA,USA,>
-2022-07-15,2022,0,15,2,2,2,0,3,2022 Summer Tour,2022 Summer,A Wave of Hope,A Wave of Hope,0,Xfinity Center,Mansfield,MA,USA,>
+2022-07-15,2022,0,11,3,2,2,0,7,2022 Summer Tour,2022 Summer,Carini,,1,Xfinity Center,Mansfield,MA,USA,->
+2022-07-15,2022,0,12,3,2,2,0,5,2022 Summer Tour,2022 Summer,Blaze On,,1,Xfinity Center,Mansfield,MA,USA,->
+2022-07-15,2022,0,13,2,2,2,0,8,2022 Summer Tour,2022 Summer,Golden Age,,0,Xfinity Center,Mansfield,MA,USA,>
+2022-07-15,2022,0,14,2,2,2,0,3,2022 Summer Tour,2022 Summer,The Howling,,1,Xfinity Center,Mansfield,MA,USA,>
+2022-07-15,2022,0,15,2,2,2,0,3,2022 Summer Tour,2022 Summer,A Wave of Hope,,0,Xfinity Center,Mansfield,MA,USA,>
 2022-07-15,2022,0,16,5,2,2,0,7,2022 Summer Tour,2022 Summer,Harry Hood,Hood,1,Xfinity Center,Mansfield,MA,USA,
 2022-07-15,2022,0,17,1,e,2,0,7,2022 Summer Tour,2022 Summer,Bouncing Around the Room,Bouncin',1,Xfinity Center,Mansfield,MA,USA,","
-2022-07-15,2022,0,18,2,e,2,0,7,2022 Summer Tour,2022 Summer,NICU,NICU,1,Xfinity Center,Mansfield,MA,USA,>
+2022-07-15,2022,0,18,2,e,2,0,7,2022 Summer Tour,2022 Summer,NICU,,1,Xfinity Center,Mansfield,MA,USA,>
 2022-07-15,2022,0,19,6,e,2,0,2,2022 Summer Tour,2022 Summer,Slave to the Traffic Light,Slave,1,Xfinity Center,Mansfield,MA,USA,
-2022-07-16,2022,0,1,2,1,2,0,3,2022 Summer Tour,2022 Summer,Free,Free,1,Maine Savings Amphitheater,Bangor,ME,USA,>
-2022-07-16,2022,0,2,1,1,2,0,10,2022 Summer Tour,2022 Summer,I Never Needed You Like This Before,I Never Needed You Like This Before,0,Maine Savings Amphitheater,Bangor,ME,USA,","
-2022-07-16,2022,0,3,2,1,2,0,6,2022 Summer Tour,2022 Summer,555,555,1,Maine Savings Amphitheater,Bangor,ME,USA,>
-2022-07-16,2022,0,4,1,1,2,0,9,2022 Summer Tour,2022 Summer,Possum,Possum,1,Maine Savings Amphitheater,Bangor,ME,USA,","
+2022-07-16,2022,0,1,2,1,2,0,3,2022 Summer Tour,2022 Summer,Free,,1,Maine Savings Amphitheater,Bangor,ME,USA,>
+2022-07-16,2022,0,2,1,1,2,0,10,2022 Summer Tour,2022 Summer,I Never Needed You Like This Before,,0,Maine Savings Amphitheater,Bangor,ME,USA,","
+2022-07-16,2022,0,3,2,1,2,0,6,2022 Summer Tour,2022 Summer,555,,1,Maine Savings Amphitheater,Bangor,ME,USA,>
+2022-07-16,2022,0,4,1,1,2,0,9,2022 Summer Tour,2022 Summer,Possum,,1,Maine Savings Amphitheater,Bangor,ME,USA,","
 2022-07-16,2022,0,5,2,1,2,0,5,2022 Summer Tour,2022 Summer,No Men In No Man's Land,NMINML,1,Maine Savings Amphitheater,Bangor,ME,USA,>
-2022-07-16,2022,0,6,2,1,2,0,7,2022 Summer Tour,2022 Summer,Ocelot,Ocelot,1,Maine Savings Amphitheater,Bangor,ME,USA,>
-2022-07-16,2022,0,7,1,1,2,0,9,2022 Summer Tour,2022 Summer,Reba,Reba,1,Maine Savings Amphitheater,Bangor,ME,USA,","
-2022-07-16,2022,0,8,2,1,2,0,7,2022 Summer Tour,2022 Summer,Axilla (Part II),Axilla (Part II),1,Maine Savings Amphitheater,Bangor,ME,USA,>
+2022-07-16,2022,0,6,2,1,2,0,7,2022 Summer Tour,2022 Summer,Ocelot,,1,Maine Savings Amphitheater,Bangor,ME,USA,>
+2022-07-16,2022,0,7,1,1,2,0,9,2022 Summer Tour,2022 Summer,Reba,,1,Maine Savings Amphitheater,Bangor,ME,USA,","
+2022-07-16,2022,0,8,2,1,2,0,7,2022 Summer Tour,2022 Summer,Axilla (Part II),,1,Maine Savings Amphitheater,Bangor,ME,USA,>
 2022-07-16,2022,0,9,4,1,2,0,9,2022 Summer Tour,2022 Summer,Run Like an Antelope,Antelope,1,Maine Savings Amphitheater,Bangor,ME,USA,
-2022-07-16,2022,0,10,2,2,2,0,3,2022 Summer Tour,2022 Summer,Sigma Oasis,Sigma Oasis,0,Maine Savings Amphitheater,Bangor,ME,USA,>
+2022-07-16,2022,0,10,2,2,2,0,3,2022 Summer Tour,2022 Summer,Sigma Oasis,,0,Maine Savings Amphitheater,Bangor,ME,USA,>
 2022-07-16,2022,0,11,2,2,2,0,5,2022 Summer Tour,2022 Summer,Down with Disease,DwD,1,Maine Savings Amphitheater,Bangor,ME,USA,>
 2022-07-16,2022,0,12,2,2,2,0,9,2022 Summer Tour,2022 Summer,What's the Use?,WTU?,1,Maine Savings Amphitheater,Bangor,ME,USA,>
-2022-07-16,2022,0,13,2,2,2,0,5,2022 Summer Tour,2022 Summer,Fluffhead,Fluffhead,1,Maine Savings Amphitheater,Bangor,ME,USA,>
-2022-07-16,2022,0,14,3,2,2,0,10,2022 Summer Tour,2022 Summer,Twist,Twist,1,Maine Savings Amphitheater,Bangor,ME,USA,->
-2022-07-16,2022,0,15,5,2,2,0,0,2022 Summer Tour,2022 Summer,Sigma Oasis,Sigma Oasis,0,Maine Savings Amphitheater,Bangor,ME,USA,
+2022-07-16,2022,0,13,2,2,2,0,5,2022 Summer Tour,2022 Summer,Fluffhead,,1,Maine Savings Amphitheater,Bangor,ME,USA,>
+2022-07-16,2022,0,14,3,2,2,0,10,2022 Summer Tour,2022 Summer,Twist,,1,Maine Savings Amphitheater,Bangor,ME,USA,->
+2022-07-16,2022,0,15,5,2,2,0,0,2022 Summer Tour,2022 Summer,Sigma Oasis,,0,Maine Savings Amphitheater,Bangor,ME,USA,
 2022-07-16,2022,0,16,2,e,2,0,20,2022 Summer Tour,2022 Summer,Roses Are Free,Roses,0,Maine Savings Amphitheater,Bangor,ME,USA,>
-2022-07-16,2022,0,17,6,e,2,0,5,2022 Summer Tour,2022 Summer,First Tube,First Tube,0,Maine Savings Amphitheater,Bangor,ME,USA,
-2022-07-19,2022,0,1,1,1,2,0,154,2022 Summer Tour,2022 Summer,Space Oddity,Space Oddity,0,TD Pavilion at the Mann,Philadelphia,PA,USA,","
-2022-07-19,2022,0,2,1,1,2,0,11,2022 Summer Tour,2022 Summer,Martian Monster,Martian Monster,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
+2022-07-16,2022,0,17,6,e,2,0,5,2022 Summer Tour,2022 Summer,First Tube,,0,Maine Savings Amphitheater,Bangor,ME,USA,
+2022-07-19,2022,0,1,1,1,2,0,154,2022 Summer Tour,2022 Summer,Space Oddity,,0,TD Pavilion at the Mann,Philadelphia,PA,USA,","
+2022-07-19,2022,0,2,1,1,2,0,11,2022 Summer Tour,2022 Summer,Martian Monster,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
 2022-07-19,2022,0,3,2,1,2,0,11,2022 Summer Tour,2022 Summer,Halley's Comet,Halley's,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
-2022-07-19,2022,0,4,1,1,2,0,11,2022 Summer Tour,2022 Summer,Stash,Stash,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
+2022-07-19,2022,0,4,1,1,2,0,11,2022 Summer Tour,2022 Summer,Stash,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
 2022-07-19,2022,0,5,2,1,2,0,4,2022 Summer Tour,2022 Summer,The Moma Dance,Moma,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
 2022-07-19,2022,0,6,1,1,2,0,5,2022 Summer Tour,2022 Summer,Gotta Jibboo,Jibboo,0,TD Pavilion at the Mann,Philadelphia,PA,USA,","
-2022-07-19,2022,0,7,1,1,2,0,11,2022 Summer Tour,2022 Summer,Shade,Shade,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
-2022-07-19,2022,0,8,1,1,2,0,11,2022 Summer Tour,2022 Summer,The Old Home Place,The Old Home Place,0,TD Pavilion at the Mann,Philadelphia,PA,USA,","
+2022-07-19,2022,0,7,1,1,2,0,11,2022 Summer Tour,2022 Summer,Shade,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
+2022-07-19,2022,0,8,1,1,2,0,11,2022 Summer Tour,2022 Summer,The Old Home Place,,0,TD Pavilion at the Mann,Philadelphia,PA,USA,","
 2022-07-19,2022,0,9,4,1,2,0,8,2022 Summer Tour,2022 Summer,Walls of the Cave,WotC,1,TD Pavilion at the Mann,Philadelphia,PA,USA,
-2022-07-19,2022,0,10,2,2,2,0,12,2022 Summer Tour,2022 Summer,More,More,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
-2022-07-19,2022,0,11,3,2,2,0,9,2022 Summer Tour,2022 Summer,Tweezer,Tweezer,1,TD Pavilion at the Mann,Philadelphia,PA,USA,->
-2022-07-19,2022,0,12,3,2,2,0,28,2022 Summer Tour,2022 Summer,Cities,Cities,0,TD Pavilion at the Mann,Philadelphia,PA,USA,->
-2022-07-19,2022,0,13,3,2,2,0,0,2022 Summer Tour,2022 Summer,Tweezer,Tweezer,1,TD Pavilion at the Mann,Philadelphia,PA,USA,->
-2022-07-19,2022,0,14,2,2,2,0,37,2022 Summer Tour,2022 Summer,Passing Through,Passing Through,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
-2022-07-19,2022,0,15,2,2,2,0,10,2022 Summer Tour,2022 Summer,Izabella,Izabella,0,TD Pavilion at the Mann,Philadelphia,PA,USA,>
-2022-07-19,2022,0,16,2,2,2,0,0,2022 Summer Tour,2022 Summer,Tweezer,Tweezer,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
-2022-07-19,2022,0,17,2,2,2,0,4,2022 Summer Tour,2022 Summer,Mercury,Mercury,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
-2022-07-19,2022,0,18,2,2,2,0,7,2022 Summer Tour,2022 Summer,Piper,Piper,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
-2022-07-19,2022,0,19,2,2,2,0,0,2022 Summer Tour,2022 Summer,Tweezer,Tweezer,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
+2022-07-19,2022,0,10,2,2,2,0,12,2022 Summer Tour,2022 Summer,More,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
+2022-07-19,2022,0,11,3,2,2,0,9,2022 Summer Tour,2022 Summer,Tweezer,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,->
+2022-07-19,2022,0,12,3,2,2,0,28,2022 Summer Tour,2022 Summer,Cities,,0,TD Pavilion at the Mann,Philadelphia,PA,USA,->
+2022-07-19,2022,0,13,3,2,2,0,0,2022 Summer Tour,2022 Summer,Tweezer,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,->
+2022-07-19,2022,0,14,2,2,2,0,37,2022 Summer Tour,2022 Summer,Passing Through,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
+2022-07-19,2022,0,15,2,2,2,0,10,2022 Summer Tour,2022 Summer,Izabella,,0,TD Pavilion at the Mann,Philadelphia,PA,USA,>
+2022-07-19,2022,0,16,2,2,2,0,0,2022 Summer Tour,2022 Summer,Tweezer,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
+2022-07-19,2022,0,17,2,2,2,0,4,2022 Summer Tour,2022 Summer,Mercury,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
+2022-07-19,2022,0,18,2,2,2,0,7,2022 Summer Tour,2022 Summer,Piper,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
+2022-07-19,2022,0,19,2,2,2,0,0,2022 Summer Tour,2022 Summer,Tweezer,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
 2022-07-19,2022,0,20,2,2,2,0,8,2022 Summer Tour,2022 Summer,Also Sprach Zarathustra,2001,0,TD Pavilion at the Mann,Philadelphia,PA,USA,>
-2022-07-19,2022,0,21,5,2,2,0,9,2022 Summer Tour,2022 Summer,Character Zero,Character Zero,1,TD Pavilion at the Mann,Philadelphia,PA,USA,
-2022-07-19,2022,0,22,2,e,2,0,5,2022 Summer Tour,2022 Summer,Drift While You're Sleeping,Drift While You're Sleeping,0,TD Pavilion at the Mann,Philadelphia,PA,USA,>
+2022-07-19,2022,0,21,5,2,2,0,9,2022 Summer Tour,2022 Summer,Character Zero,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,
+2022-07-19,2022,0,22,2,e,2,0,5,2022 Summer Tour,2022 Summer,Drift While You're Sleeping,,0,TD Pavilion at the Mann,Philadelphia,PA,USA,>
 2022-07-19,2022,0,23,6,e,2,0,9,2022 Summer Tour,2022 Summer,Tweezer Reprise,Tweeprise,1,TD Pavilion at the Mann,Philadelphia,PA,USA,
-2022-07-20,2022,0,1,2,1,2,0,9,2022 Summer Tour,2022 Summer,Steam,Steam,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
-2022-07-20,2022,0,2,1,1,2,0,6,2022 Summer Tour,2022 Summer,Runaway Jim,Runaway Jim,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
-2022-07-20,2022,0,3,1,1,2,0,39,2022 Summer Tour,2022 Summer,Tela,Tela,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
+2022-07-20,2022,0,1,2,1,2,0,9,2022 Summer Tour,2022 Summer,Steam,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
+2022-07-20,2022,0,2,1,1,2,0,6,2022 Summer Tour,2022 Summer,Runaway Jim,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
+2022-07-20,2022,0,3,1,1,2,0,39,2022 Summer Tour,2022 Summer,Tela,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
 2022-07-20,2022,0,4,2,1,2,0,10,2022 Summer Tour,2022 Summer,Kill Devil Falls,KDF,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
 2022-07-20,2022,0,5,2,1,2,0,7,2022 Summer Tour,2022 Summer,Theme From the Bottom,Theme,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
 2022-07-20,2022,0,6,1,1,2,0,7,2022 Summer Tour,2022 Summer,Birds of a Feather,BOAF,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
 2022-07-20,2022,0,7,1,1,2,0,45,2022 Summer Tour,2022 Summer,I Didn't Know,IDK,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
-2022-07-20,2022,0,8,1,1,2,0,10,2022 Summer Tour,2022 Summer,Funky Bitch,Funky Bitch,0,TD Pavilion at the Mann,Philadelphia,PA,USA,","
+2022-07-20,2022,0,8,1,1,2,0,10,2022 Summer Tour,2022 Summer,Funky Bitch,,0,TD Pavilion at the Mann,Philadelphia,PA,USA,","
 2022-07-20,2022,0,9,4,1,2,0,6,2022 Summer Tour,2022 Summer,Split Open and Melt,SOAMelt,1,TD Pavilion at the Mann,Philadelphia,PA,USA,
 2022-07-20,2022,0,10,2,2,2,0,11,2022 Summer Tour,2022 Summer,AC/DC Bag,Bag,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
-2022-07-20,2022,0,11,2,2,2,0,12,2022 Summer Tour,2022 Summer,Soul Planet,Soul Planet,0,TD Pavilion at the Mann,Philadelphia,PA,USA,>
-2022-07-20,2022,0,12,3,2,2,0,8,2022 Summer Tour,2022 Summer,Simple,Simple,1,TD Pavilion at the Mann,Philadelphia,PA,USA,->
-2022-07-20,2022,0,13,3,2,2,0,9,2022 Summer Tour,2022 Summer,Light,Light,0,TD Pavilion at the Mann,Philadelphia,PA,USA,->
-2022-07-20,2022,0,14,1,2,2,0,37,2022 Summer Tour,2022 Summer,Party Time,Party Time,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
-2022-07-20,2022,0,15,1,2,2,0,8,2022 Summer Tour,2022 Summer,Lonely Trip,Lonely Trip,0,TD Pavilion at the Mann,Philadelphia,PA,USA,","
+2022-07-20,2022,0,11,2,2,2,0,12,2022 Summer Tour,2022 Summer,Soul Planet,,0,TD Pavilion at the Mann,Philadelphia,PA,USA,>
+2022-07-20,2022,0,12,3,2,2,0,8,2022 Summer Tour,2022 Summer,Simple,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,->
+2022-07-20,2022,0,13,3,2,2,0,9,2022 Summer Tour,2022 Summer,Light,,0,TD Pavilion at the Mann,Philadelphia,PA,USA,->
+2022-07-20,2022,0,14,1,2,2,0,37,2022 Summer Tour,2022 Summer,Party Time,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
+2022-07-20,2022,0,15,1,2,2,0,8,2022 Summer Tour,2022 Summer,Lonely Trip,,0,TD Pavilion at the Mann,Philadelphia,PA,USA,","
 2022-07-20,2022,0,16,5,2,2,0,13,2022 Summer Tour,2022 Summer,David Bowie,Bowie,1,TD Pavilion at the Mann,Philadelphia,PA,USA,
-2022-07-20,2022,0,17,2,e,2,0,12,2022 Summer Tour,2022 Summer,Waste,Waste,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
-2022-07-20,2022,0,18,6,e,2,0,12,2022 Summer Tour,2022 Summer,Loving Cup,Loving Cup,0,TD Pavilion at the Mann,Philadelphia,PA,USA,
+2022-07-20,2022,0,17,2,e,2,0,12,2022 Summer Tour,2022 Summer,Waste,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
+2022-07-20,2022,0,18,6,e,2,0,12,2022 Summer Tour,2022 Summer,Loving Cup,,0,TD Pavilion at the Mann,Philadelphia,PA,USA,
 2022-07-22,2022,0,1,2,1,2,0,10,2022 Summer Tour,2022 Summer,Golgi Apparatus,Golgi,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2022-07-22,2022,0,2,1,1,2,0,10,2022 Summer Tour,2022 Summer,Sample in a Jar,Sample,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2022-07-22,2022,0,3,1,1,2,0,6,2022 Summer Tour,2022 Summer,My Soul,My Soul,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2022-07-22,2022,0,4,3,1,2,0,9,2022 Summer Tour,2022 Summer,Gumbo,Gumbo,1,Bethel Woods Center for the Arts,Bethel,NY,USA,->
-2022-07-22,2022,0,5,2,1,2,0,5,2022 Summer Tour,2022 Summer,Saw It Again,Saw It Again,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2022-07-22,2022,0,3,1,1,2,0,6,2022 Summer Tour,2022 Summer,My Soul,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2022-07-22,2022,0,4,3,1,2,0,9,2022 Summer Tour,2022 Summer,Gumbo,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,->
+2022-07-22,2022,0,5,2,1,2,0,5,2022 Summer Tour,2022 Summer,Saw It Again,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2022-07-22,2022,0,6,2,1,2,0,7,2022 Summer Tour,2022 Summer,Timber (Jerry the Mule),Timber Ho,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2022-07-22,2022,0,7,1,1,2,0,10,2022 Summer Tour,2022 Summer,Meat,Meat,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2022-07-22,2022,0,8,2,1,2,0,33,2022 Summer Tour,2022 Summer,Lawn Boy,Lawn Boy,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2022-07-22,2022,0,7,1,1,2,0,10,2022 Summer Tour,2022 Summer,Meat,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2022-07-22,2022,0,8,2,1,2,0,33,2022 Summer Tour,2022 Summer,Lawn Boy,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2022-07-22,2022,0,9,2,1,2,0,10,2022 Summer Tour,2022 Summer,"My Friend, My Friend",My Friend,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2022-07-22,2022,0,10,1,1,2,0,66,2022 Summer Tour,2022 Summer,Guelah Papyrus,Guelah,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2022-07-22,2022,0,11,1,1,2,0,39,2022 Summer Tour,2022 Summer,Brian and Robert,Brian and Robert,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2022-07-22,2022,0,12,4,1,2,0,12,2022 Summer Tour,2022 Summer,Walk Away,Walk Away,0,Bethel Woods Center for the Arts,Bethel,NY,USA,
-2022-07-22,2022,0,13,2,2,2,0,12,2022 Summer Tour,2022 Summer,Mr. Completely,Mr. Completely,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2022-07-22,2022,0,11,1,1,2,0,39,2022 Summer Tour,2022 Summer,Brian and Robert,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2022-07-22,2022,0,12,4,1,2,0,12,2022 Summer Tour,2022 Summer,Walk Away,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,
+2022-07-22,2022,0,13,2,2,2,0,12,2022 Summer Tour,2022 Summer,Mr. Completely,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2022-07-22,2022,0,14,2,2,2,0,7,2022 Summer Tour,2022 Summer,You Enjoy Myself,YEM,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2022-07-22,2022,0,15,2,2,2,0,15,2022 Summer Tour,2022 Summer,Fuego,Fuego,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2022-07-22,2022,0,16,1,2,2,0,8,2022 Summer Tour,2022 Summer,Joy,Joy,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2022-07-22,2022,0,15,2,2,2,0,15,2022 Summer Tour,2022 Summer,Fuego,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2022-07-22,2022,0,16,1,2,2,0,8,2022 Summer Tour,2022 Summer,Joy,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
 2022-07-22,2022,0,17,1,2,2,0,8,2022 Summer Tour,2022 Summer,Boogie On Reggae Woman,Boogie On,0,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2022-07-22,2022,0,18,2,2,2,0,13,2022 Summer Tour,2022 Summer,Scents and Subtle Sounds,Scents and Subtle Sounds,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2022-07-22,2022,0,19,2,2,2,0,9,2022 Summer Tour,2022 Summer,Wilson,Wilson,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2022-07-22,2022,0,20,2,2,2,0,3,2022 Summer Tour,2022 Summer,Possum,Possum,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2022-07-22,2022,0,21,5,2,2,0,8,2022 Summer Tour,2022 Summer,Cavern,Cavern,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
-2022-07-22,2022,0,22,6,e,2,0,11,2022 Summer Tour,2022 Summer,A Life Beyond The Dream,A Life Beyond The Dream,0,Bethel Woods Center for the Arts,Bethel,NY,USA,
-2022-07-23,2022,0,1,1,1,2,0,57,2022 Summer Tour,2022 Summer,Evening Song,Evening Song,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2022-07-23,2022,0,2,1,1,2,0,8,2022 Summer Tour,2022 Summer,Turtle in the Clouds,Turtle in the Clouds,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2022-07-23,2022,0,3,1,1,2,0,25,2022 Summer Tour,2022 Summer,Vultures,Vultures,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2022-07-22,2022,0,18,2,2,2,0,13,2022 Summer Tour,2022 Summer,Scents and Subtle Sounds,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2022-07-22,2022,0,19,2,2,2,0,9,2022 Summer Tour,2022 Summer,Wilson,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2022-07-22,2022,0,20,2,2,2,0,3,2022 Summer Tour,2022 Summer,Possum,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2022-07-22,2022,0,21,5,2,2,0,8,2022 Summer Tour,2022 Summer,Cavern,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
+2022-07-22,2022,0,22,6,e,2,0,11,2022 Summer Tour,2022 Summer,A Life Beyond The Dream,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,
+2022-07-23,2022,0,1,1,1,2,0,57,2022 Summer Tour,2022 Summer,Evening Song,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2022-07-23,2022,0,2,1,1,2,0,8,2022 Summer Tour,2022 Summer,Turtle in the Clouds,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2022-07-23,2022,0,3,1,1,2,0,25,2022 Summer Tour,2022 Summer,Vultures,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
 2022-07-23,2022,0,4,1,1,2,0,27,2022 Summer Tour,2022 Summer,My Sweet One,MSO,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2022-07-23,2022,0,5,2,1,2,0,8,2022 Summer Tour,2022 Summer,Undermind,Undermind,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2022-07-23,2022,0,5,2,1,2,0,8,2022 Summer Tour,2022 Summer,Undermind,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2022-07-23,2022,0,6,2,1,2,0,87,2022 Summer Tour,2022 Summer,Fast Enough for You,FEFY,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2022-07-23,2022,0,7,1,1,2,0,10,2022 Summer Tour,2022 Summer,Divided Sky,Divided,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
 2022-07-23,2022,0,8,2,1,2,0,10,2022 Summer Tour,2022 Summer,Suzy Greenberg,Suzy,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2022-07-23,2022,0,9,4,1,2,0,6,2022 Summer Tour,2022 Summer,Ghost,Ghost,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
+2022-07-23,2022,0,9,4,1,2,0,6,2022 Summer Tour,2022 Summer,Ghost,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
 2022-07-23,2022,0,10,2,2,2,0,6,2022 Summer Tour,2022 Summer,Prince Caspian,Caspian,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2022-07-23,2022,0,11,2,2,2,0,20,2022 Summer Tour,2022 Summer,Crosseyed and Painless,C&amp;P,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2022-07-23,2022,0,12,2,2,2,0,12,2022 Summer Tour,2022 Summer,Miss You,Miss You,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2022-07-23,2022,0,13,2,2,2,0,6,2022 Summer Tour,2022 Summer,Set Your Soul Free,Set Your Soul Free,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2022-07-23,2022,0,12,2,2,2,0,12,2022 Summer Tour,2022 Summer,Miss You,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2022-07-23,2022,0,13,2,2,2,0,6,2022 Summer Tour,2022 Summer,Set Your Soul Free,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2022-07-23,2022,0,14,2,2,2,0,0,2022 Summer Tour,2022 Summer,Prince Caspian,Caspian,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2022-07-23,2022,0,15,2,2,2,0,4,2022 Summer Tour,2022 Summer,Twist,Twist,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
-2022-07-23,2022,0,16,5,2,2,0,5,2022 Summer Tour,2022 Summer,Carini,Carini,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
+2022-07-23,2022,0,15,2,2,2,0,4,2022 Summer Tour,2022 Summer,Twist,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2022-07-23,2022,0,16,5,2,2,0,5,2022 Summer Tour,2022 Summer,Carini,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
 2022-07-23,2022,0,17,2,e,2,0,59,2022 Summer Tour,2022 Summer,The Horse,Horse,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2022-07-23,2022,0,18,1,e,2,0,56,2022 Summer Tour,2022 Summer,Silent in the Morning,Silent,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
 2022-07-23,2022,0,19,1,e,2,0,28,2022 Summer Tour,2022 Summer,Fuck Your Face,FYF,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2022-07-23,2022,0,20,1,e,2,0,78,2022 Summer Tour,2022 Summer,Buffalo Bill,Buffalo Bill,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
-2022-07-23,2022,0,21,6,e,2,0,74,2022 Summer Tour,2022 Summer,Fire,Fire,0,Bethel Woods Center for the Arts,Bethel,NY,USA,
+2022-07-23,2022,0,20,1,e,2,0,78,2022 Summer Tour,2022 Summer,Buffalo Bill,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,","
+2022-07-23,2022,0,21,6,e,2,0,74,2022 Summer Tour,2022 Summer,Fire,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,
 2022-07-24,2022,0,1,1,1,2,0,30,2022 Summer Tour,2022 Summer,Cars Trucks Buses,CTB,1,Xfinity Theatre,Hartford,CT,USA,","
-2022-07-24,2022,0,2,1,1,2,0,60,2022 Summer Tour,2022 Summer,Breath and Burning,Breath and Burning,1,Xfinity Theatre,Hartford,CT,USA,","
-2022-07-24,2022,0,3,1,1,2,0,14,2022 Summer Tour,2022 Summer,The Final Hurrah,The Final Hurrah,1,Xfinity Theatre,Hartford,CT,USA,","
-2022-07-24,2022,0,4,1,1,2,0,5,2022 Summer Tour,2022 Summer,Free,Free,1,Xfinity Theatre,Hartford,CT,USA,","
-2022-07-24,2022,0,5,1,1,2,0,40,2022 Summer Tour,2022 Summer,Yarmouth Road,Yarmouth Road,1,Xfinity Theatre,Hartford,CT,USA,","
-2022-07-24,2022,0,6,2,1,2,0,7,2022 Summer Tour,2022 Summer,Plasma,Plasma,0,Xfinity Theatre,Hartford,CT,USA,>
-2022-07-24,2022,0,7,1,1,2,0,5,2022 Summer Tour,2022 Summer,Sigma Oasis,Sigma Oasis,0,Xfinity Theatre,Hartford,CT,USA,","
+2022-07-24,2022,0,2,1,1,2,0,60,2022 Summer Tour,2022 Summer,Breath and Burning,,1,Xfinity Theatre,Hartford,CT,USA,","
+2022-07-24,2022,0,3,1,1,2,0,14,2022 Summer Tour,2022 Summer,The Final Hurrah,,1,Xfinity Theatre,Hartford,CT,USA,","
+2022-07-24,2022,0,4,1,1,2,0,5,2022 Summer Tour,2022 Summer,Free,,1,Xfinity Theatre,Hartford,CT,USA,","
+2022-07-24,2022,0,5,1,1,2,0,40,2022 Summer Tour,2022 Summer,Yarmouth Road,,1,Xfinity Theatre,Hartford,CT,USA,","
+2022-07-24,2022,0,6,2,1,2,0,7,2022 Summer Tour,2022 Summer,Plasma,,0,Xfinity Theatre,Hartford,CT,USA,>
+2022-07-24,2022,0,7,1,1,2,0,5,2022 Summer Tour,2022 Summer,Sigma Oasis,,0,Xfinity Theatre,Hartford,CT,USA,","
 2022-07-24,2022,0,8,1,1,2,0,8,2022 Summer Tour,2022 Summer,Limb By Limb,LxL,1,Xfinity Theatre,Hartford,CT,USA,","
-2022-07-24,2022,0,9,4,1,2,0,7,2022 Summer Tour,2022 Summer,Sand,Sand,0,Xfinity Theatre,Hartford,CT,USA,
-2022-07-24,2022,0,10,2,2,2,0,6,2022 Summer Tour,2022 Summer,A Wave of Hope,A Wave of Hope,0,Xfinity Theatre,Hartford,CT,USA,>
+2022-07-24,2022,0,9,4,1,2,0,7,2022 Summer Tour,2022 Summer,Sand,,0,Xfinity Theatre,Hartford,CT,USA,
+2022-07-24,2022,0,10,2,2,2,0,6,2022 Summer Tour,2022 Summer,A Wave of Hope,,0,Xfinity Theatre,Hartford,CT,USA,>
 2022-07-24,2022,0,11,2,2,2,0,22,2022 Summer Tour,2022 Summer,A Song I Heard the Ocean Sing,ASIHTOS,1,Xfinity Theatre,Hartford,CT,USA,>
-2022-07-24,2022,0,12,2,2,2,0,6,2022 Summer Tour,2022 Summer,Blaze On,Blaze On,1,Xfinity Theatre,Hartford,CT,USA,>
+2022-07-24,2022,0,12,2,2,2,0,6,2022 Summer Tour,2022 Summer,Blaze On,,1,Xfinity Theatre,Hartford,CT,USA,>
 2022-07-24,2022,0,13,1,2,2,0,7,2022 Summer Tour,2022 Summer,The Wedge,Wedge,1,Xfinity Theatre,Hartford,CT,USA,","
-2022-07-24,2022,0,14,2,2,2,0,26,2022 Summer Tour,2022 Summer,Farmhouse,Farmhouse,1,Xfinity Theatre,Hartford,CT,USA,>
+2022-07-24,2022,0,14,2,2,2,0,26,2022 Summer Tour,2022 Summer,Farmhouse,,1,Xfinity Theatre,Hartford,CT,USA,>
 2022-07-24,2022,0,15,2,2,2,0,7,2022 Summer Tour,2022 Summer,Backwards Down the Number Line,BDTNL,0,Xfinity Theatre,Hartford,CT,USA,>
-2022-07-24,2022,0,16,5,2,2,0,4,2022 Summer Tour,2022 Summer,Character Zero,Character Zero,1,Xfinity Theatre,Hartford,CT,USA,
-2022-07-24,2022,0,17,2,e,2,0,7,2022 Summer Tour,2022 Summer,Tube,Tube,1,Xfinity Theatre,Hartford,CT,USA,>
-2022-07-24,2022,0,18,6,e,2,0,5,2022 Summer Tour,2022 Summer,First Tube,First Tube,0,Xfinity Theatre,Hartford,CT,USA,
+2022-07-24,2022,0,16,5,2,2,0,4,2022 Summer Tour,2022 Summer,Character Zero,,1,Xfinity Theatre,Hartford,CT,USA,
+2022-07-24,2022,0,17,2,e,2,0,7,2022 Summer Tour,2022 Summer,Tube,,1,Xfinity Theatre,Hartford,CT,USA,>
+2022-07-24,2022,0,18,6,e,2,0,5,2022 Summer Tour,2022 Summer,First Tube,,0,Xfinity Theatre,Hartford,CT,USA,
 2022-07-26,2022,0,1,2,1,2,0,52,2022 Summer Tour,2022 Summer,The Curtain,Curtain,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
-2022-07-26,2022,0,2,2,1,2,0,8,2022 Summer Tour,2022 Summer,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
+2022-07-26,2022,0,2,2,1,2,0,8,2022 Summer Tour,2022 Summer,Say It To Me S.A.N.T.O.S.,,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
 2022-07-26,2022,0,3,3,1,2,0,10,2022 Summer Tour,2022 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,->
-2022-07-26,2022,0,4,1,1,2,0,7,2022 Summer Tour,2022 Summer,NICU,NICU,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,","
-2022-07-26,2022,0,5,1,1,2,0,15,2022 Summer Tour,2022 Summer,Roggae,Roggae,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,","
-2022-07-26,2022,0,6,1,1,2,0,30,2022 Summer Tour,2022 Summer,Pebbles and Marbles,Pebbles and Marbles,0,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,","
+2022-07-26,2022,0,4,1,1,2,0,7,2022 Summer Tour,2022 Summer,NICU,,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,","
+2022-07-26,2022,0,5,1,1,2,0,15,2022 Summer Tour,2022 Summer,Roggae,,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,","
+2022-07-26,2022,0,6,1,1,2,0,30,2022 Summer Tour,2022 Summer,Pebbles and Marbles,,0,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,","
 2022-07-26,2022,0,7,2,1,2,0,7,2022 Summer Tour,2022 Summer,Bathtub Gin,Gin,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
-2022-07-26,2022,0,8,1,1,2,0,7,2022 Summer Tour,2022 Summer,Maze,Maze,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,","
+2022-07-26,2022,0,8,1,1,2,0,7,2022 Summer Tour,2022 Summer,Maze,,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,","
 2022-07-26,2022,0,9,4,1,2,0,13,2022 Summer Tour,2022 Summer,The Squirming Coil,Coil,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,
-2022-07-26,2022,0,10,2,2,2,0,6,2022 Summer Tour,2022 Summer,I Never Needed You Like This Before,I Never Needed You Like This Before,0,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
-2022-07-26,2022,0,11,2,2,2,0,13,2022 Summer Tour,2022 Summer,Leaves,Leaves,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
-2022-07-26,2022,0,12,3,2,2,0,7,2022 Summer Tour,2022 Summer,Everything's Right,Everything's Right,0,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,->
+2022-07-26,2022,0,10,2,2,2,0,6,2022 Summer Tour,2022 Summer,I Never Needed You Like This Before,,0,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
+2022-07-26,2022,0,11,2,2,2,0,13,2022 Summer Tour,2022 Summer,Leaves,,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
+2022-07-26,2022,0,12,3,2,2,0,7,2022 Summer Tour,2022 Summer,Everything's Right,,0,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,->
 2022-07-26,2022,0,13,1,2,2,0,9,2022 Summer Tour,2022 Summer,The Mango Song,Mango,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,","
-2022-07-26,2022,0,14,2,2,2,0,12,2022 Summer Tour,2022 Summer,Most Events Aren't Planned,Most Events Aren't Planned,0,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
+2022-07-26,2022,0,14,2,2,2,0,12,2022 Summer Tour,2022 Summer,Most Events Aren't Planned,,0,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
 2022-07-26,2022,0,15,2,2,2,0,8,2022 Summer Tour,2022 Summer,Chalk Dust Torture,CDT,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
-2022-07-26,2022,0,16,5,2,2,0,10,2022 Summer Tour,2022 Summer,Julius,Julius,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,
+2022-07-26,2022,0,16,5,2,2,0,10,2022 Summer Tour,2022 Summer,Julius,,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,
 2022-07-26,2022,0,17,6,e,2,0,7,2022 Summer Tour,2022 Summer,Harry Hood,Hood,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,
 2022-07-27,2022,0,1,2,1,2,0,8,2022 Summer Tour,2022 Summer,Mike's Song,Mike's,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
 2022-07-27,2022,0,2,2,1,2,0,8,2022 Summer Tour,2022 Summer,Wolfman's Brother,Wolfman's,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
-2022-07-27,2022,0,3,1,1,2,0,36,2022 Summer Tour,2022 Summer,Ya Mar,Ya Mar,0,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,","
-2022-07-27,2022,0,4,2,1,2,0,8,2022 Summer Tour,2022 Summer,46 Days,46 Days,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
-2022-07-27,2022,0,5,2,1,2,0,19,2022 Summer Tour,2022 Summer,It's Ice,It's Ice,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
-2022-07-27,2022,0,6,1,1,2,0,40,2022 Summer Tour,2022 Summer,All of These Dreams,All of These Dreams,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,","
-2022-07-27,2022,0,7,2,1,2,0,27,2022 Summer Tour,2022 Summer,Something Living Here,Something Living Here,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
-2022-07-27,2022,0,8,2,1,2,0,7,2022 Summer Tour,2022 Summer,Axilla (Part II),Axilla (Part II),1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
+2022-07-27,2022,0,3,1,1,2,0,36,2022 Summer Tour,2022 Summer,Ya Mar,,0,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,","
+2022-07-27,2022,0,4,2,1,2,0,8,2022 Summer Tour,2022 Summer,46 Days,,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
+2022-07-27,2022,0,5,2,1,2,0,19,2022 Summer Tour,2022 Summer,It's Ice,,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
+2022-07-27,2022,0,6,1,1,2,0,40,2022 Summer Tour,2022 Summer,All of These Dreams,,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,","
+2022-07-27,2022,0,7,2,1,2,0,27,2022 Summer Tour,2022 Summer,Something Living Here,,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
+2022-07-27,2022,0,8,2,1,2,0,7,2022 Summer Tour,2022 Summer,Axilla (Part II),,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
 2022-07-27,2022,0,9,2,1,2,0,13,2022 Summer Tour,2022 Summer,When the Circus Comes,Circus,0,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
 2022-07-27,2022,0,10,4,1,2,0,7,2022 Summer Tour,2022 Summer,Run Like an Antelope,Antelope,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,
 2022-07-27,2022,0,11,2,2,2,0,7,2022 Summer Tour,2022 Summer,No Men In No Man's Land,NMINML,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
 2022-07-27,2022,0,12,2,2,2,0,7,2022 Summer Tour,2022 Summer,Down with Disease,DwD,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
-2022-07-27,2022,0,13,3,2,2,0,27,2022 Summer Tour,2022 Summer,Don't Doubt Me,Don't Doubt Me,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,->
-2022-07-27,2022,0,14,2,2,2,0,8,2022 Summer Tour,2022 Summer,Golden Age,Golden Age,0,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
-2022-07-27,2022,0,15,2,2,2,0,47,2022 Summer Tour,2022 Summer,Lifeboy,Lifeboy,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
-2022-07-27,2022,0,16,2,2,2,0,7,2022 Summer Tour,2022 Summer,Fluffhead,Fluffhead,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
+2022-07-27,2022,0,13,3,2,2,0,27,2022 Summer Tour,2022 Summer,Don't Doubt Me,,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,->
+2022-07-27,2022,0,14,2,2,2,0,8,2022 Summer Tour,2022 Summer,Golden Age,,0,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
+2022-07-27,2022,0,15,2,2,2,0,47,2022 Summer Tour,2022 Summer,Lifeboy,,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
+2022-07-27,2022,0,16,2,2,2,0,7,2022 Summer Tour,2022 Summer,Fluffhead,,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,>
 2022-07-27,2022,0,17,5,2,2,0,9,2022 Summer Tour,2022 Summer,Weekapaug Groove,Weekapaug,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,
 2022-07-27,2022,0,18,6,e,2,0,8,2022 Summer Tour,2022 Summer,Slave to the Traffic Light,Slave,1,Northwell Health at Jones Beach Theater,Wantagh,NY,USA,
 2022-07-29,2022,0,1,2,1,2,0,7,2022 Summer Tour,2022 Summer,The Moma Dance,Moma,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,>
-2022-07-29,2022,0,2,1,1,2,0,5,2022 Summer Tour,2022 Summer,Possum,Possum,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,","
-2022-07-29,2022,0,3,3,1,2,0,6,2022 Summer Tour,2022 Summer,Steam,Steam,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,->
-2022-07-29,2022,0,4,3,1,2,0,7,2022 Summer Tour,2022 Summer,Stash,Stash,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,->
-2022-07-29,2022,0,5,1,1,2,0,0,2022 Summer Tour,2022 Summer,Steam,Steam,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,","
-2022-07-29,2022,0,6,1,1,2,0,6,2022 Summer Tour,2022 Summer,Funky Bitch,Funky Bitch,0,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,","
+2022-07-29,2022,0,2,1,1,2,0,5,2022 Summer Tour,2022 Summer,Possum,,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,","
+2022-07-29,2022,0,3,3,1,2,0,6,2022 Summer Tour,2022 Summer,Steam,,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,->
+2022-07-29,2022,0,4,3,1,2,0,7,2022 Summer Tour,2022 Summer,Stash,,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,->
+2022-07-29,2022,0,5,1,1,2,0,0,2022 Summer Tour,2022 Summer,Steam,,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,","
+2022-07-29,2022,0,6,1,1,2,0,6,2022 Summer Tour,2022 Summer,Funky Bitch,,0,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,","
 2022-07-29,2022,0,7,1,1,2,0,3,2022 Summer Tour,2022 Summer,The Wedge,Wedge,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,","
-2022-07-29,2022,0,8,2,1,2,0,11,2022 Summer Tour,2022 Summer,Horn,Horn,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,>
-2022-07-29,2022,0,9,4,1,2,0,11,2022 Summer Tour,2022 Summer,Rise/Come Together,Rise/Come Together,0,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,
+2022-07-29,2022,0,8,2,1,2,0,11,2022 Summer Tour,2022 Summer,Horn,,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,>
+2022-07-29,2022,0,9,4,1,2,0,11,2022 Summer Tour,2022 Summer,Rise/Come Together,,0,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,
 2022-07-29,2022,0,10,1,2,2,0,29,2022 Summer Tour,2022 Summer,Big Black Furry Creature from Mars,BBFCFM,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,","
-2022-07-29,2022,0,11,2,2,2,0,4,2022 Summer Tour,2022 Summer,Carini,Carini,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,>
-2022-07-29,2022,0,12,2,2,2,0,6,2022 Summer Tour,2022 Summer,Waste,Waste,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,>
-2022-07-29,2022,0,13,2,2,2,0,10,2022 Summer Tour,2022 Summer,Ruby Waves,Ruby Waves,0,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,>
-2022-07-29,2022,0,14,2,2,2,0,23,2022 Summer Tour,2022 Summer,Beneath a Sea of Stars Part 1,Beneath a Sea of Stars Part 1,0,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,>
-2022-07-29,2022,0,15,3,2,2,0,7,2022 Summer Tour,2022 Summer,Piper,Piper,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,->
-2022-07-29,2022,0,16,2,2,2,0,6,2022 Summer Tour,2022 Summer,Light,Light,0,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,>
-2022-07-29,2022,0,17,5,2,2,0,46,2022 Summer Tour,2022 Summer,Shine a Light,Shine a Light,0,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,
-2022-07-29,2022,0,18,1,e,2,0,22,2022 Summer Tour,2022 Summer,Strange Design,Strange Design,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,","
-2022-07-29,2022,0,19,2,e,2,0,47,2022 Summer Tour,2022 Summer,Heavy Things,Heavy Things,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,>
+2022-07-29,2022,0,11,2,2,2,0,4,2022 Summer Tour,2022 Summer,Carini,,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,>
+2022-07-29,2022,0,12,2,2,2,0,6,2022 Summer Tour,2022 Summer,Waste,,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,>
+2022-07-29,2022,0,13,2,2,2,0,10,2022 Summer Tour,2022 Summer,Ruby Waves,,0,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,>
+2022-07-29,2022,0,14,2,2,2,0,23,2022 Summer Tour,2022 Summer,Beneath a Sea of Stars Part 1,,0,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,>
+2022-07-29,2022,0,15,3,2,2,0,7,2022 Summer Tour,2022 Summer,Piper,,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,->
+2022-07-29,2022,0,16,2,2,2,0,6,2022 Summer Tour,2022 Summer,Light,,0,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,>
+2022-07-29,2022,0,17,5,2,2,0,46,2022 Summer Tour,2022 Summer,Shine a Light,,0,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,
+2022-07-29,2022,0,18,1,e,2,0,22,2022 Summer Tour,2022 Summer,Strange Design,,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,","
+2022-07-29,2022,0,19,2,e,2,0,47,2022 Summer Tour,2022 Summer,Heavy Things,,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,>
 2022-07-29,2022,0,20,2,e,2,0,32,2022 Summer Tour,2022 Summer,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,>
-2022-07-29,2022,0,21,6,e,2,0,5,2022 Summer Tour,2022 Summer,Wilson,Wilson,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,
-2022-07-30,2022,0,1,1,1,2,0,4,2022 Summer Tour,2022 Summer,Sand,Sand,0,Merriweather Post Pavilion,Columbia,MD,USA,","
-2022-07-30,2022,0,2,1,1,2,0,18,2022 Summer Tour,2022 Summer,If I Could,If I Could,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2022-07-30,2022,0,3,2,1,2,0,14,2022 Summer Tour,2022 Summer,Buried Alive,Buried Alive,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2022-07-30,2022,0,4,2,1,2,0,5,2022 Summer Tour,2022 Summer,Set Your Soul Free,Set Your Soul Free,0,Merriweather Post Pavilion,Columbia,MD,USA,>
-2022-07-30,2022,0,5,1,1,2,0,19,2022 Summer Tour,2022 Summer,Llama,Llama,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2022-07-30,2022,0,6,3,1,2,0,19,2022 Summer Tour,2022 Summer,Halfway to the Moon,Halfway to the Moon,1,Merriweather Post Pavilion,Columbia,MD,USA,->
-2022-07-30,2022,0,7,1,1,2,0,66,2022 Summer Tour,2022 Summer,Shafty,Shafty,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2022-07-30,2022,0,8,3,1,2,0,13,2022 Summer Tour,2022 Summer,Strawberry Letter 23,Strawberry Letter 23,0,Merriweather Post Pavilion,Columbia,MD,USA,->
+2022-07-29,2022,0,21,6,e,2,0,5,2022 Summer Tour,2022 Summer,Wilson,,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,
+2022-07-30,2022,0,1,1,1,2,0,4,2022 Summer Tour,2022 Summer,Sand,,0,Merriweather Post Pavilion,Columbia,MD,USA,","
+2022-07-30,2022,0,2,1,1,2,0,18,2022 Summer Tour,2022 Summer,If I Could,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2022-07-30,2022,0,3,2,1,2,0,14,2022 Summer Tour,2022 Summer,Buried Alive,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2022-07-30,2022,0,4,2,1,2,0,5,2022 Summer Tour,2022 Summer,Set Your Soul Free,,0,Merriweather Post Pavilion,Columbia,MD,USA,>
+2022-07-30,2022,0,5,1,1,2,0,19,2022 Summer Tour,2022 Summer,Llama,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2022-07-30,2022,0,6,3,1,2,0,19,2022 Summer Tour,2022 Summer,Halfway to the Moon,,1,Merriweather Post Pavilion,Columbia,MD,USA,->
+2022-07-30,2022,0,7,1,1,2,0,66,2022 Summer Tour,2022 Summer,Shafty,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2022-07-30,2022,0,8,3,1,2,0,13,2022 Summer Tour,2022 Summer,Strawberry Letter 23,,0,Merriweather Post Pavilion,Columbia,MD,USA,->
 2022-07-30,2022,0,9,4,1,2,0,14,2022 Summer Tour,2022 Summer,The Lizards,Lizards,1,Merriweather Post Pavilion,Columbia,MD,USA,
-2022-07-30,2022,0,10,2,2,2,0,4,2022 Summer Tour,2022 Summer,First Tube,First Tube,0,Merriweather Post Pavilion,Columbia,MD,USA,>
-2022-07-30,2022,0,11,2,2,2,0,6,2022 Summer Tour,2022 Summer,Fuego,Fuego,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2022-07-30,2022,0,12,2,2,2,0,4,2022 Summer Tour,2022 Summer,Sigma Oasis,Sigma Oasis,0,Merriweather Post Pavilion,Columbia,MD,USA,>
+2022-07-30,2022,0,10,2,2,2,0,4,2022 Summer Tour,2022 Summer,First Tube,,0,Merriweather Post Pavilion,Columbia,MD,USA,>
+2022-07-30,2022,0,11,2,2,2,0,6,2022 Summer Tour,2022 Summer,Fuego,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2022-07-30,2022,0,12,2,2,2,0,4,2022 Summer Tour,2022 Summer,Sigma Oasis,,0,Merriweather Post Pavilion,Columbia,MD,USA,>
 2022-07-30,2022,0,13,2,2,2,0,5,2022 Summer Tour,2022 Summer,Prince Caspian,Caspian,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2022-07-30,2022,0,14,2,2,2,0,21,2022 Summer Tour,2022 Summer,Waves,Waves,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2022-07-30,2022,0,15,3,2,2,0,33,2022 Summer Tour,2022 Summer,Meatstick,Meatstick,1,Merriweather Post Pavilion,Columbia,MD,USA,->
-2022-07-30,2022,0,16,2,2,2,0,7,2022 Summer Tour,2022 Summer,Simple,Simple,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2022-07-30,2022,0,14,2,2,2,0,21,2022 Summer Tour,2022 Summer,Waves,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2022-07-30,2022,0,15,3,2,2,0,33,2022 Summer Tour,2022 Summer,Meatstick,,1,Merriweather Post Pavilion,Columbia,MD,USA,->
+2022-07-30,2022,0,16,2,2,2,0,7,2022 Summer Tour,2022 Summer,Simple,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2022-07-30,2022,0,17,2,2,2,0,15,2022 Summer Tour,2022 Summer,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2022-07-30,2022,0,18,5,2,2,0,5,2022 Summer Tour,2022 Summer,Suzy Greenberg,Suzy,1,Merriweather Post Pavilion,Columbia,MD,USA,
 2022-07-30,2022,0,19,2,e,2,0,43,2022 Summer Tour,2022 Summer,Alumni Blues,Alumni,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2022-07-30,2022,0,20,2,e,2,0,43,2022 Summer Tour,2022 Summer,Letter to Jimmy Page,LTJP,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2022-07-30,2022,0,21,2,e,2,0,0,2022 Summer Tour,2022 Summer,Alumni Blues,Alumni,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2022-07-30,2022,0,22,6,e,2,0,4,2022 Summer Tour,2022 Summer,Character Zero,Character Zero,1,Merriweather Post Pavilion,Columbia,MD,USA,
-2022-07-31,2022,0,1,1,1,2,0,5,2022 Summer Tour,2022 Summer,A Wave of Hope,A Wave of Hope,0,Merriweather Post Pavilion,Columbia,MD,USA,","
-2022-07-31,2022,0,2,1,1,2,0,20,2022 Summer Tour,2022 Summer,Dogs Stole Things,Dogs Stole Things,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2022-07-30,2022,0,22,6,e,2,0,4,2022 Summer Tour,2022 Summer,Character Zero,,1,Merriweather Post Pavilion,Columbia,MD,USA,
+2022-07-31,2022,0,1,1,1,2,0,5,2022 Summer Tour,2022 Summer,A Wave of Hope,,0,Merriweather Post Pavilion,Columbia,MD,USA,","
+2022-07-31,2022,0,2,1,1,2,0,20,2022 Summer Tour,2022 Summer,Dogs Stole Things,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
 2022-07-31,2022,0,3,2,1,2,0,8,2022 Summer Tour,2022 Summer,AC/DC Bag,Bag,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2022-07-31,2022,0,4,2,1,2,0,17,2022 Summer Tour,2022 Summer,Sparkle,Sparkle,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2022-07-31,2022,0,4,2,1,2,0,17,2022 Summer Tour,2022 Summer,Sparkle,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2022-07-31,2022,0,5,1,1,2,0,12,2022 Summer Tour,2022 Summer,Back on the Train,BOTT,0,Merriweather Post Pavilion,Columbia,MD,USA,","
-2022-07-31,2022,0,6,2,1,2,0,15,2022 Summer Tour,2022 Summer,Mull,Mull,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2022-07-31,2022,0,7,1,1,2,0,16,2022 Summer Tour,2022 Summer,Foam,Foam,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2022-07-31,2022,0,8,4,1,2,0,6,2022 Summer Tour,2022 Summer,Ghost,Ghost,1,Merriweather Post Pavilion,Columbia,MD,USA,
+2022-07-31,2022,0,6,2,1,2,0,15,2022 Summer Tour,2022 Summer,Mull,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2022-07-31,2022,0,7,1,1,2,0,16,2022 Summer Tour,2022 Summer,Foam,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2022-07-31,2022,0,8,4,1,2,0,6,2022 Summer Tour,2022 Summer,Ghost,,1,Merriweather Post Pavilion,Columbia,MD,USA,
 2022-07-31,2022,0,9,2,2,2,0,9,2022 Summer Tour,2022 Summer,Halley's Comet,Halley's,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2022-07-31,2022,0,10,2,2,2,0,9,2022 Summer Tour,2022 Summer,Tweezer,Tweezer,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2022-07-31,2022,0,11,2,2,2,0,40,2022 Summer Tour,2022 Summer,Wingsuit,Wingsuit,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2022-07-31,2022,0,12,2,2,2,0,0,2022 Summer Tour,2022 Summer,Tweezer,Tweezer,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2022-07-31,2022,0,10,2,2,2,0,9,2022 Summer Tour,2022 Summer,Tweezer,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2022-07-31,2022,0,11,2,2,2,0,40,2022 Summer Tour,2022 Summer,Wingsuit,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2022-07-31,2022,0,12,2,2,2,0,0,2022 Summer Tour,2022 Summer,Tweezer,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2022-07-31,2022,0,13,1,2,2,0,8,2022 Summer Tour,2022 Summer,Birds of a Feather,BOAF,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2022-07-31,2022,0,14,2,2,2,0,7,2022 Summer Tour,2022 Summer,Joy,Joy,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2022-07-31,2022,0,15,2,2,2,0,56,2022 Summer Tour,2022 Summer,Taste,Taste,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2022-07-31,2022,0,14,2,2,2,0,7,2022 Summer Tour,2022 Summer,Joy,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2022-07-31,2022,0,15,2,2,2,0,56,2022 Summer Tour,2022 Summer,Taste,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2022-07-31,2022,0,16,1,2,2,0,10,2022 Summer Tour,2022 Summer,What's the Use?,WTU?,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2022-07-31,2022,0,17,2,2,2,0,11,2022 Summer Tour,2022 Summer,The Howling,The Howling,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2022-07-31,2022,0,18,5,2,2,0,4,2022 Summer Tour,2022 Summer,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Merriweather Post Pavilion,Columbia,MD,USA,
-2022-07-31,2022,0,19,1,e,2,0,54,2022 Summer Tour,2022 Summer,Show of Life,Show of Life,0,Merriweather Post Pavilion,Columbia,MD,USA,","
-2022-07-31,2022,0,20,2,e,2,0,8,2022 Summer Tour,2022 Summer,Loving Cup,Loving Cup,0,Merriweather Post Pavilion,Columbia,MD,USA,>
+2022-07-31,2022,0,17,2,2,2,0,11,2022 Summer Tour,2022 Summer,The Howling,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2022-07-31,2022,0,18,5,2,2,0,4,2022 Summer Tour,2022 Summer,Say It To Me S.A.N.T.O.S.,,1,Merriweather Post Pavilion,Columbia,MD,USA,
+2022-07-31,2022,0,19,1,e,2,0,54,2022 Summer Tour,2022 Summer,Show of Life,,0,Merriweather Post Pavilion,Columbia,MD,USA,","
+2022-07-31,2022,0,20,2,e,2,0,8,2022 Summer Tour,2022 Summer,Loving Cup,,0,Merriweather Post Pavilion,Columbia,MD,USA,>
 2022-07-31,2022,0,21,6,e,2,0,9,2022 Summer Tour,2022 Summer,Tweezer Reprise,Tweeprise,1,Merriweather Post Pavilion,Columbia,MD,USA,
-2022-08-02,2022,0,1,1,1,2,0,168,2022 Summer Tour,2022 Summer,Strawberry Fields Forever,Strawberry Fields Forever,0,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-2022-08-02,2022,0,2,1,1,2,0,58,2022 Summer Tour,2022 Summer,Crowd Control,Crowd Control,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2022-08-02,2022,0,1,1,1,2,0,168,2022 Summer Tour,2022 Summer,Strawberry Fields Forever,,0,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2022-08-02,2022,0,2,1,1,2,0,58,2022 Summer Tour,2022 Summer,Crowd Control,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
 2022-08-02,2022,0,3,2,1,2,0,13,2022 Summer Tour,2022 Summer,Punch You in the Eye,PYITE,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
-2022-08-02,2022,0,4,2,1,2,0,4,2022 Summer Tour,2022 Summer,46 Days,46 Days,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2022-08-02,2022,0,4,2,1,2,0,4,2022 Summer Tour,2022 Summer,46 Days,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
 2022-08-02,2022,0,5,2,1,2,0,8,2022 Summer Tour,2022 Summer,You Enjoy Myself,YEM,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
-2022-08-02,2022,0,6,2,1,2,0,6,2022 Summer Tour,2022 Summer,Tube,Tube,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
-2022-08-02,2022,0,7,1,1,2,0,10,2022 Summer Tour,2022 Summer,Shade,Shade,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-2022-08-02,2022,0,8,1,1,2,0,11,2022 Summer Tour,2022 Summer,Reba,Reba,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-2022-08-02,2022,0,9,4,1,2,0,8,2022 Summer Tour,2022 Summer,Cavern,Cavern,1,Blossom Music Center,Cuyahoga Falls,OH,USA,
-2022-08-02,2022,0,10,2,2,2,0,6,2022 Summer Tour,2022 Summer,Free,Free,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
-2022-08-02,2022,0,11,2,2,2,0,16,2022 Summer Tour,2022 Summer,Esther,Esther,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
-2022-08-02,2022,0,12,2,2,2,0,6,2022 Summer Tour,2022 Summer,Blaze On,Blaze On,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
-2022-08-02,2022,0,13,2,2,2,0,8,2022 Summer Tour,2022 Summer,Scents and Subtle Sounds,Scents and Subtle Sounds,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2022-08-02,2022,0,6,2,1,2,0,6,2022 Summer Tour,2022 Summer,Tube,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2022-08-02,2022,0,7,1,1,2,0,10,2022 Summer Tour,2022 Summer,Shade,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2022-08-02,2022,0,8,1,1,2,0,11,2022 Summer Tour,2022 Summer,Reba,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+2022-08-02,2022,0,9,4,1,2,0,8,2022 Summer Tour,2022 Summer,Cavern,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,
+2022-08-02,2022,0,10,2,2,2,0,6,2022 Summer Tour,2022 Summer,Free,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2022-08-02,2022,0,11,2,2,2,0,16,2022 Summer Tour,2022 Summer,Esther,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2022-08-02,2022,0,12,2,2,2,0,6,2022 Summer Tour,2022 Summer,Blaze On,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
+2022-08-02,2022,0,13,2,2,2,0,8,2022 Summer Tour,2022 Summer,Scents and Subtle Sounds,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
 2022-08-02,2022,0,14,2,2,2,0,10,2022 Summer Tour,2022 Summer,Also Sprach Zarathustra,2001,0,Blossom Music Center,Cuyahoga Falls,OH,USA,>
 2022-08-02,2022,0,15,5,2,2,0,9,2022 Summer Tour,2022 Summer,Split Open and Melt,SOAMelt,1,Blossom Music Center,Cuyahoga Falls,OH,USA,
 2022-08-02,2022,0,16,6,e,2,0,5,2022 Summer Tour,2022 Summer,Bathtub Gin,Gin,1,Blossom Music Center,Cuyahoga Falls,OH,USA,
-2022-08-03,2022,0,1,1,1,2,0,6,2022 Summer Tour,2022 Summer,I Never Needed You Like This Before,I Never Needed You Like This Before,0,Pine Knob Music Theatre,Clarkston,MI,USA,","
-2022-08-03,2022,0,2,1,1,2,0,6,2022 Summer Tour,2022 Summer,Everything's Right,Everything's Right,0,Pine Knob Music Theatre,Clarkston,MI,USA,","
+2022-08-03,2022,0,1,1,1,2,0,6,2022 Summer Tour,2022 Summer,I Never Needed You Like This Before,,0,Pine Knob Music Theatre,Clarkston,MI,USA,","
+2022-08-03,2022,0,2,1,1,2,0,6,2022 Summer Tour,2022 Summer,Everything's Right,,0,Pine Knob Music Theatre,Clarkston,MI,USA,","
 2022-08-03,2022,0,3,2,1,2,0,10,2022 Summer Tour,2022 Summer,Kill Devil Falls,KDF,1,Pine Knob Music Theatre,Clarkston,MI,USA,>
-2022-08-03,2022,0,4,1,1,2,0,16,2022 Summer Tour,2022 Summer,Camel Walk,Camel Walk,1,Pine Knob Music Theatre,Clarkston,MI,USA,","
-2022-08-03,2022,0,5,1,1,2,0,4,2022 Summer Tour,2022 Summer,Stash,Stash,1,Pine Knob Music Theatre,Clarkston,MI,USA,","
+2022-08-03,2022,0,4,1,1,2,0,16,2022 Summer Tour,2022 Summer,Camel Walk,,1,Pine Knob Music Theatre,Clarkston,MI,USA,","
+2022-08-03,2022,0,5,1,1,2,0,4,2022 Summer Tour,2022 Summer,Stash,,1,Pine Knob Music Theatre,Clarkston,MI,USA,","
 2022-08-03,2022,0,6,1,1,2,0,13,2022 Summer Tour,2022 Summer,Bouncing Around the Room,Bouncin',1,Pine Knob Music Theatre,Clarkston,MI,USA,","
 2022-08-03,2022,0,7,2,1,2,0,9,2022 Summer Tour,2022 Summer,"My Friend, My Friend",My Friend,1,Pine Knob Music Theatre,Clarkston,MI,USA,>
 2022-08-03,2022,0,8,1,1,2,0,10,2022 Summer Tour,2022 Summer,David Bowie,Bowie,1,Pine Knob Music Theatre,Clarkston,MI,USA,","
-2022-08-03,2022,0,9,2,1,2,0,4,2022 Summer Tour,2022 Summer,Carini,Carini,1,Pine Knob Music Theatre,Clarkston,MI,USA,>
+2022-08-03,2022,0,9,2,1,2,0,4,2022 Summer Tour,2022 Summer,Carini,,1,Pine Knob Music Theatre,Clarkston,MI,USA,>
 2022-08-03,2022,0,10,3,1,2,0,5,2022 Summer Tour,2022 Summer,No Men In No Man's Land,NMINML,1,Pine Knob Music Theatre,Clarkston,MI,USA,->
-2022-08-03,2022,0,11,1,1,2,0,8,2022 Summer Tour,2022 Summer,Twist,Twist,1,Pine Knob Music Theatre,Clarkston,MI,USA,","
-2022-08-03,2022,0,12,5,1,2,0,11,2022 Summer Tour,2022 Summer,Drift While You're Sleeping,Drift While You're Sleeping,0,Pine Knob Music Theatre,Clarkston,MI,USA,
-2022-08-03,2022,0,13,2,e,2,0,14,2022 Summer Tour,2022 Summer,Bug,Bug,0,Pine Knob Music Theatre,Clarkston,MI,USA,>
-2022-08-03,2022,0,14,6,e,2,0,4,2022 Summer Tour,2022 Summer,Possum,Possum,1,Pine Knob Music Theatre,Clarkston,MI,USA,
+2022-08-03,2022,0,11,1,1,2,0,8,2022 Summer Tour,2022 Summer,Twist,,1,Pine Knob Music Theatre,Clarkston,MI,USA,","
+2022-08-03,2022,0,12,5,1,2,0,11,2022 Summer Tour,2022 Summer,Drift While You're Sleeping,,0,Pine Knob Music Theatre,Clarkston,MI,USA,
+2022-08-03,2022,0,13,2,e,2,0,14,2022 Summer Tour,2022 Summer,Bug,,0,Pine Knob Music Theatre,Clarkston,MI,USA,>
+2022-08-03,2022,0,14,6,e,2,0,4,2022 Summer Tour,2022 Summer,Possum,,1,Pine Knob Music Theatre,Clarkston,MI,USA,
 2022-08-05,2022,0,1,3,1,2,0,7,2022 Summer Tour,2022 Summer,Chalk Dust Torture,CDT,1,Atlantic City Beach,Atlantic City,NJ,USA,->
-2022-08-05,2022,0,2,2,1,2,0,5,2022 Summer Tour,2022 Summer,Wilson,Wilson,1,Atlantic City Beach,Atlantic City,NJ,USA,>
-2022-08-05,2022,0,3,2,1,2,0,4,2022 Summer Tour,2022 Summer,Sand,Sand,0,Atlantic City Beach,Atlantic City,NJ,USA,>
-2022-08-05,2022,0,4,1,1,2,0,8,2022 Summer Tour,2022 Summer,Plasma,Plasma,0,Atlantic City Beach,Atlantic City,NJ,USA,","
+2022-08-05,2022,0,2,2,1,2,0,5,2022 Summer Tour,2022 Summer,Wilson,,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2022-08-05,2022,0,3,2,1,2,0,4,2022 Summer Tour,2022 Summer,Sand,,0,Atlantic City Beach,Atlantic City,NJ,USA,>
+2022-08-05,2022,0,4,1,1,2,0,8,2022 Summer Tour,2022 Summer,Plasma,,0,Atlantic City Beach,Atlantic City,NJ,USA,","
 2022-08-05,2022,0,5,2,1,2,0,11,2022 Summer Tour,2022 Summer,Theme From the Bottom,Theme,1,Atlantic City Beach,Atlantic City,NJ,USA,>
 2022-08-05,2022,0,6,1,1,2,0,3,2022 Summer Tour,2022 Summer,Back on the Train,BOTT,0,Atlantic City Beach,Atlantic City,NJ,USA,","
-2022-08-05,2022,0,7,3,1,2,0,4,2022 Summer Tour,2022 Summer,Sigma Oasis,Sigma Oasis,0,Atlantic City Beach,Atlantic City,NJ,USA,->
-2022-08-05,2022,0,8,2,1,2,0,12,2022 Summer Tour,2022 Summer,Cities,Cities,0,Atlantic City Beach,Atlantic City,NJ,USA,>
-2022-08-05,2022,0,9,4,1,2,0,12,2022 Summer Tour,2022 Summer,More,More,1,Atlantic City Beach,Atlantic City,NJ,USA,
-2022-08-05,2022,0,10,2,2,2,0,6,2022 Summer Tour,2022 Summer,Axilla (Part II),Axilla (Part II),1,Atlantic City Beach,Atlantic City,NJ,USA,>
-2022-08-05,2022,0,11,2,2,2,0,11,2022 Summer Tour,2022 Summer,Soul Planet,Soul Planet,0,Atlantic City Beach,Atlantic City,NJ,USA,>
+2022-08-05,2022,0,7,3,1,2,0,4,2022 Summer Tour,2022 Summer,Sigma Oasis,,0,Atlantic City Beach,Atlantic City,NJ,USA,->
+2022-08-05,2022,0,8,2,1,2,0,12,2022 Summer Tour,2022 Summer,Cities,,0,Atlantic City Beach,Atlantic City,NJ,USA,>
+2022-08-05,2022,0,9,4,1,2,0,12,2022 Summer Tour,2022 Summer,More,,1,Atlantic City Beach,Atlantic City,NJ,USA,
+2022-08-05,2022,0,10,2,2,2,0,6,2022 Summer Tour,2022 Summer,Axilla (Part II),,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2022-08-05,2022,0,11,2,2,2,0,11,2022 Summer Tour,2022 Summer,Soul Planet,,0,Atlantic City Beach,Atlantic City,NJ,USA,>
 2022-08-05,2022,0,12,2,2,2,0,6,2022 Summer Tour,2022 Summer,Down with Disease,DwD,1,Atlantic City Beach,Atlantic City,NJ,USA,>
-2022-08-05,2022,0,13,2,2,2,0,5,2022 Summer Tour,2022 Summer,Ruby Waves,Ruby Waves,0,Atlantic City Beach,Atlantic City,NJ,USA,>
+2022-08-05,2022,0,13,2,2,2,0,5,2022 Summer Tour,2022 Summer,Ruby Waves,,0,Atlantic City Beach,Atlantic City,NJ,USA,>
 2022-08-05,2022,0,14,2,2,2,0,0,2022 Summer Tour,2022 Summer,Down with Disease,DwD,1,Atlantic City Beach,Atlantic City,NJ,USA,>
-2022-08-05,2022,0,15,2,2,2,0,3,2022 Summer Tour,2022 Summer,Ghost,Ghost,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2022-08-05,2022,0,15,2,2,2,0,3,2022 Summer Tour,2022 Summer,Ghost,,1,Atlantic City Beach,Atlantic City,NJ,USA,>
 2022-08-05,2022,0,16,5,2,2,0,7,2022 Summer Tour,2022 Summer,Harry Hood,Hood,1,Atlantic City Beach,Atlantic City,NJ,USA,
-2022-08-05,2022,0,17,2,e,2,0,29,2022 Summer Tour,2022 Summer,Sleeping Monkey,Sleeping Monkey,1,Atlantic City Beach,Atlantic City,NJ,USA,>
-2022-08-05,2022,0,18,6,e,2,0,2,2022 Summer Tour,2022 Summer,Free,Free,1,Atlantic City Beach,Atlantic City,NJ,USA,
-2022-08-06,2022,0,1,2,1,2,0,3,2022 Summer Tour,2022 Summer,46 Days,46 Days,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2022-08-05,2022,0,17,2,e,2,0,29,2022 Summer Tour,2022 Summer,Sleeping Monkey,,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2022-08-05,2022,0,18,6,e,2,0,2,2022 Summer Tour,2022 Summer,Free,,1,Atlantic City Beach,Atlantic City,NJ,USA,
+2022-08-06,2022,0,1,2,1,2,0,3,2022 Summer Tour,2022 Summer,46 Days,,1,Atlantic City Beach,Atlantic City,NJ,USA,>
 2022-08-06,2022,0,2,1,1,2,0,6,2022 Summer Tour,2022 Summer,The Moma Dance,Moma,1,Atlantic City Beach,Atlantic City,NJ,USA,","
-2022-08-06,2022,0,3,2,1,2,0,36,2022 Summer Tour,2022 Summer,Olivia's Pool,Olivia's Pool,1,Atlantic City Beach,Atlantic City,NJ,USA,>
-2022-08-06,2022,0,4,1,1,2,0,11,2022 Summer Tour,2022 Summer,My Soul,My Soul,0,Atlantic City Beach,Atlantic City,NJ,USA,","
-2022-08-06,2022,0,5,2,1,2,0,14,2022 Summer Tour,2022 Summer,555,555,1,Atlantic City Beach,Atlantic City,NJ,USA,>
-2022-08-06,2022,0,6,2,1,2,0,8,2022 Summer Tour,2022 Summer,NICU,NICU,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2022-08-06,2022,0,3,2,1,2,0,36,2022 Summer Tour,2022 Summer,Olivia's Pool,,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2022-08-06,2022,0,4,1,1,2,0,11,2022 Summer Tour,2022 Summer,My Soul,,0,Atlantic City Beach,Atlantic City,NJ,USA,","
+2022-08-06,2022,0,5,2,1,2,0,14,2022 Summer Tour,2022 Summer,555,,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2022-08-06,2022,0,6,2,1,2,0,8,2022 Summer Tour,2022 Summer,NICU,,1,Atlantic City Beach,Atlantic City,NJ,USA,>
 2022-08-06,2022,0,7,1,1,0,0,3,2022 Summer Tour,2022 Summer,Bathtub Gin,Gin,1,Atlantic City Beach,Atlantic City,NJ,USA,","
-2022-08-06,2022,0,8,2,1,0,0,253,2022 Summer Tour,2022 Summer,Heavy Rotation,Heavy Rotation,0,Atlantic City Beach,Atlantic City,NJ,USA,>
-2022-08-06,2022,0,9,1,1,0,0,5,2022 Summer Tour,2022 Summer,Character Zero,Character Zero,1,Atlantic City Beach,Atlantic City,NJ,USA,","
-2022-08-06,2022,0,10,4,1,0,0,51,2022 Summer Tour,2022 Summer,Moonage Daydream,Moonage Daydream,0,Atlantic City Beach,Atlantic City,NJ,USA,
+2022-08-06,2022,0,8,2,1,0,0,253,2022 Summer Tour,2022 Summer,Heavy Rotation,,0,Atlantic City Beach,Atlantic City,NJ,USA,>
+2022-08-06,2022,0,9,1,1,0,0,5,2022 Summer Tour,2022 Summer,Character Zero,,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2022-08-06,2022,0,10,4,1,0,0,51,2022 Summer Tour,2022 Summer,Moonage Daydream,,0,Atlantic City Beach,Atlantic City,NJ,USA,
 2022-08-06,2022,0,11,2,2,0,0,2,2022 Summer Tour,2022 Summer,No Men In No Man's Land,NMINML,1,Atlantic City Beach,Atlantic City,NJ,USA,>
-2022-08-06,2022,0,12,1,2,0,0,4,2022 Summer Tour,2022 Summer,Tweezer,Tweezer,1,Atlantic City Beach,Atlantic City,NJ,USA,","
-2022-08-06,2022,0,13,2,2,0,0,5,2022 Summer Tour,2022 Summer,Set Your Soul Free,Set Your Soul Free,0,Atlantic City Beach,Atlantic City,NJ,USA,>
-2022-08-06,2022,0,14,2,2,0,0,5,2022 Summer Tour,2022 Summer,Simple,Simple,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2022-08-06,2022,0,12,1,2,0,0,4,2022 Summer Tour,2022 Summer,Tweezer,,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2022-08-06,2022,0,13,2,2,0,0,5,2022 Summer Tour,2022 Summer,Set Your Soul Free,,0,Atlantic City Beach,Atlantic City,NJ,USA,>
+2022-08-06,2022,0,14,2,2,0,0,5,2022 Summer Tour,2022 Summer,Simple,,1,Atlantic City Beach,Atlantic City,NJ,USA,>
 2022-08-06,2022,0,15,2,2,0,0,9,2022 Summer Tour,2022 Summer,Backwards Down the Number Line,BDTNL,0,Atlantic City Beach,Atlantic City,NJ,USA,>
 2022-08-06,2022,0,16,2,2,0,0,11,2022 Summer Tour,2022 Summer,Golgi Apparatus,Golgi,1,Atlantic City Beach,Atlantic City,NJ,USA,>
 2022-08-06,2022,0,17,5,2,0,0,7,2022 Summer Tour,2022 Summer,Slave to the Traffic Light,Slave,1,Atlantic City Beach,Atlantic City,NJ,USA,
-2022-08-06,2022,0,18,1,e,0,0,11,2022 Summer Tour,2022 Summer,A Life Beyond The Dream,A Life Beyond The Dream,0,Atlantic City Beach,Atlantic City,NJ,USA,","
+2022-08-06,2022,0,18,1,e,0,0,11,2022 Summer Tour,2022 Summer,A Life Beyond The Dream,,0,Atlantic City Beach,Atlantic City,NJ,USA,","
 2022-08-06,2022,0,19,6,e,2,0,4,2022 Summer Tour,2022 Summer,Tweezer Reprise,Tweeprise,1,Atlantic City Beach,Atlantic City,NJ,USA,
 2022-08-07,2022,0,1,1,1,2,0,8,2022 Summer Tour,2022 Summer,Wolfman's Brother,Wolfman's,1,Atlantic City Beach,Atlantic City,NJ,USA,","
-2022-08-07,2022,0,2,1,1,2,0,4,2022 Summer Tour,2022 Summer,Tube,Tube,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2022-08-07,2022,0,2,1,1,2,0,4,2022 Summer Tour,2022 Summer,Tube,,1,Atlantic City Beach,Atlantic City,NJ,USA,","
 2022-08-07,2022,0,3,1,1,2,0,17,2022 Summer Tour,2022 Summer,Mountains in the Mist,Mist,0,Atlantic City Beach,Atlantic City,NJ,USA,","
-2022-08-07,2022,0,4,2,1,2,0,15,2022 Summer Tour,2022 Summer,Ocelot,Ocelot,1,Atlantic City Beach,Atlantic City,NJ,USA,>
-2022-08-07,2022,0,5,1,1,2,0,8,2022 Summer Tour,2022 Summer,Fluffhead,Fluffhead,1,Atlantic City Beach,Atlantic City,NJ,USA,","
-2022-08-07,2022,0,6,2,1,2,0,14,2022 Summer Tour,2022 Summer,Mercury,Mercury,1,Atlantic City Beach,Atlantic City,NJ,USA,>
-2022-08-07,2022,0,7,2,1,2,0,12,2022 Summer Tour,2022 Summer,Gumbo,Gumbo,1,Atlantic City Beach,Atlantic City,NJ,USA,>
-2022-08-07,2022,0,8,4,1,2,0,3,2022 Summer Tour,2022 Summer,Carini,Carini,1,Atlantic City Beach,Atlantic City,NJ,USA,
+2022-08-07,2022,0,4,2,1,2,0,15,2022 Summer Tour,2022 Summer,Ocelot,,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2022-08-07,2022,0,5,1,1,2,0,8,2022 Summer Tour,2022 Summer,Fluffhead,,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2022-08-07,2022,0,6,2,1,2,0,14,2022 Summer Tour,2022 Summer,Mercury,,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2022-08-07,2022,0,7,2,1,2,0,12,2022 Summer Tour,2022 Summer,Gumbo,,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2022-08-07,2022,0,8,4,1,2,0,3,2022 Summer Tour,2022 Summer,Carini,,1,Atlantic City Beach,Atlantic City,NJ,USA,
 2022-08-07,2022,0,9,2,2,2,0,8,2022 Summer Tour,2022 Summer,Mike's Song,Mike's,1,Atlantic City Beach,Atlantic City,NJ,USA,>
 2022-08-07,2022,0,10,2,2,2,0,16,2022 Summer Tour,2022 Summer,I Am Hydrogen,Hydrogen,1,Atlantic City Beach,Atlantic City,NJ,USA,>
 2022-08-07,2022,0,11,1,2,2,0,8,2022 Summer Tour,2022 Summer,Weekapaug Groove,Weekapaug,1,Atlantic City Beach,Atlantic City,NJ,USA,","
-2022-08-07,2022,0,12,2,2,2,0,5,2022 Summer Tour,2022 Summer,A Wave of Hope,A Wave of Hope,0,Atlantic City Beach,Atlantic City,NJ,USA,>
+2022-08-07,2022,0,12,2,2,2,0,5,2022 Summer Tour,2022 Summer,A Wave of Hope,,0,Atlantic City Beach,Atlantic City,NJ,USA,>
 2022-08-07,2022,0,13,2,2,2,0,4,2022 Summer Tour,2022 Summer,You Enjoy Myself,YEM,1,Atlantic City Beach,Atlantic City,NJ,USA,>
 2022-08-07,2022,0,14,5,2,2,0,6,2022 Summer Tour,2022 Summer,Suzy Greenberg,Suzy,1,Atlantic City Beach,Atlantic City,NJ,USA,
 2022-08-07,2022,0,15,1,e,0,0,32,2022 Summer Tour,2022 Summer,Wading in the Velvet Sea,Velvet Sea,1,Atlantic City Beach,Atlantic City,NJ,USA,","
-2022-08-07,2022,0,16,6,e,0,0,6,2022 Summer Tour,2022 Summer,First Tube,First Tube,0,Atlantic City Beach,Atlantic City,NJ,USA,
-2022-08-10,2022,0,1,3,1,2,0,3,2022 Summer Tour,2022 Summer,Sigma Oasis,Sigma Oasis,0,Budweiser Stage,"Toronto, Ontario",,Canada,->
-2022-08-10,2022,0,2,1,1,2,0,5,2022 Summer Tour,2022 Summer,Blaze On,Blaze On,1,Budweiser Stage,"Toronto, Ontario",,Canada,","
-2022-08-10,2022,0,3,1,1,2,0,8,2022 Summer Tour,2022 Summer,Steam,Steam,1,Budweiser Stage,"Toronto, Ontario",,Canada,","
+2022-08-07,2022,0,16,6,e,0,0,6,2022 Summer Tour,2022 Summer,First Tube,,0,Atlantic City Beach,Atlantic City,NJ,USA,
+2022-08-10,2022,0,1,3,1,2,0,3,2022 Summer Tour,2022 Summer,Sigma Oasis,,0,Budweiser Stage,"Toronto, Ontario",,Canada,->
+2022-08-10,2022,0,2,1,1,2,0,5,2022 Summer Tour,2022 Summer,Blaze On,,1,Budweiser Stage,"Toronto, Ontario",,Canada,","
+2022-08-10,2022,0,3,1,1,2,0,8,2022 Summer Tour,2022 Summer,Steam,,1,Budweiser Stage,"Toronto, Ontario",,Canada,","
 2022-08-10,2022,0,4,1,1,2,0,12,2022 Summer Tour,2022 Summer,My Sweet One,MSO,1,Budweiser Stage,"Toronto, Ontario",,Canada,","
 2022-08-10,2022,0,5,2,1,2,0,3,2022 Summer Tour,2022 Summer,Theme From the Bottom,Theme,1,Budweiser Stage,"Toronto, Ontario",,Canada,>
-2022-08-10,2022,0,6,1,1,2,0,19,2022 Summer Tour,2022 Summer,Wombat,Wombat,1,Budweiser Stage,"Toronto, Ontario",,Canada,","
-2022-08-10,2022,0,7,1,1,2,0,4,2022 Summer Tour,2022 Summer,Stash,Stash,1,Budweiser Stage,"Toronto, Ontario",,Canada,","
-2022-08-10,2022,0,8,4,1,2,0,3,2022 Summer Tour,2022 Summer,Sand,Sand,0,Budweiser Stage,"Toronto, Ontario",,Canada,
+2022-08-10,2022,0,6,1,1,2,0,19,2022 Summer Tour,2022 Summer,Wombat,,1,Budweiser Stage,"Toronto, Ontario",,Canada,","
+2022-08-10,2022,0,7,1,1,2,0,4,2022 Summer Tour,2022 Summer,Stash,,1,Budweiser Stage,"Toronto, Ontario",,Canada,","
+2022-08-10,2022,0,8,4,1,2,0,3,2022 Summer Tour,2022 Summer,Sand,,0,Budweiser Stage,"Toronto, Ontario",,Canada,
 2022-08-10,2022,0,9,2,2,2,0,13,2022 Summer Tour,2022 Summer,Sample in a Jar,Sample,1,Budweiser Stage,"Toronto, Ontario",,Canada,>
 2022-08-10,2022,0,10,3,2,2,0,3,2022 Summer Tour,2022 Summer,Down with Disease,DwD,1,Budweiser Stage,"Toronto, Ontario",,Canada,->
 2022-08-10,2022,0,11,2,2,2,0,36,2022 Summer Tour,2022 Summer,Death Don't Hurt Very Long,DDHVL,1,Budweiser Stage,"Toronto, Ontario",,Canada,>
-2022-08-10,2022,0,12,2,2,2,0,19,2022 Summer Tour,2022 Summer,Twenty Years Later,Twenty Years Later,1,Budweiser Stage,"Toronto, Ontario",,Canada,>
-2022-08-10,2022,0,13,2,2,2,0,8,2022 Summer Tour,2022 Summer,Light,Light,0,Budweiser Stage,"Toronto, Ontario",,Canada,>
+2022-08-10,2022,0,12,2,2,2,0,19,2022 Summer Tour,2022 Summer,Twenty Years Later,,1,Budweiser Stage,"Toronto, Ontario",,Canada,>
+2022-08-10,2022,0,13,2,2,2,0,8,2022 Summer Tour,2022 Summer,Light,,0,Budweiser Stage,"Toronto, Ontario",,Canada,>
 2022-08-10,2022,0,14,1,2,2,0,4,2022 Summer Tour,2022 Summer,Bouncing Around the Room,Bouncin',1,Budweiser Stage,"Toronto, Ontario",,Canada,","
 2022-08-10,2022,0,15,2,2,2,0,5,2022 Summer Tour,2022 Summer,Also Sprach Zarathustra,2001,0,Budweiser Stage,"Toronto, Ontario",,Canada,>
 2022-08-10,2022,0,16,2,2,2,0,8,2022 Summer Tour,2022 Summer,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Budweiser Stage,"Toronto, Ontario",,Canada,>
-2022-08-10,2022,0,17,5,2,2,0,3,2022 Summer Tour,2022 Summer,Free,Free,1,Budweiser Stage,"Toronto, Ontario",,Canada,
-2022-08-10,2022,0,18,1,e,2,0,13,2022 Summer Tour,2022 Summer,Lawn Boy,Lawn Boy,1,Budweiser Stage,"Toronto, Ontario",,Canada,","
-2022-08-10,2022,0,19,6,e,2,0,6,2022 Summer Tour,2022 Summer,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Budweiser Stage,"Toronto, Ontario",,Canada,
-2022-08-12,2022,0,1,1,1,2,0,8,2022 Summer Tour,2022 Summer,Fuego,Fuego,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2022-08-12,2022,0,2,2,1,2,0,32,2022 Summer Tour,2022 Summer,Clear Your Mind,Clear Your Mind,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2022-08-12,2022,0,3,2,1,2,0,5,2022 Summer Tour,2022 Summer,Twist,Twist,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2022-08-10,2022,0,17,5,2,2,0,3,2022 Summer Tour,2022 Summer,Free,,1,Budweiser Stage,"Toronto, Ontario",,Canada,
+2022-08-10,2022,0,18,1,e,2,0,13,2022 Summer Tour,2022 Summer,Lawn Boy,,1,Budweiser Stage,"Toronto, Ontario",,Canada,","
+2022-08-10,2022,0,19,6,e,2,0,6,2022 Summer Tour,2022 Summer,Say It To Me S.A.N.T.O.S.,,1,Budweiser Stage,"Toronto, Ontario",,Canada,
+2022-08-12,2022,0,1,1,1,2,0,8,2022 Summer Tour,2022 Summer,Fuego,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2022-08-12,2022,0,2,2,1,2,0,32,2022 Summer Tour,2022 Summer,Clear Your Mind,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2022-08-12,2022,0,3,2,1,2,0,5,2022 Summer Tour,2022 Summer,Twist,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2022-08-12,2022,0,4,2,1,2,0,7,2022 Summer Tour,2022 Summer,Halley's Comet,Halley's,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2022-08-12,2022,0,5,1,1,2,0,47,2022 Summer Tour,2022 Summer,Destiny Unbound,Destiny,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2022-08-12,2022,0,6,1,1,2,0,3,2022 Summer Tour,2022 Summer,The Moma Dance,Moma,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2022-08-12,2022,0,7,4,1,2,0,5,2022 Summer Tour,2022 Summer,Drift While You're Sleeping,Drift While You're Sleeping,0,Alpine Valley Music Theatre,East Troy,WI,USA,
-2022-08-12,2022,0,8,2,2,2,0,39,2022 Summer Tour,2022 Summer,Ass Handed,Ass Handed,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2022-08-12,2022,0,9,3,2,2,0,3,2022 Summer Tour,2022 Summer,Set Your Soul Free,Set Your Soul Free,0,Alpine Valley Music Theatre,East Troy,WI,USA,->
-2022-08-12,2022,0,10,2,2,2,0,10,2022 Summer Tour,2022 Summer,Golden Age,Golden Age,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2022-08-12,2022,0,11,2,2,2,0,15,2022 Summer Tour,2022 Summer,Lonely Trip,Lonely Trip,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2022-08-12,2022,0,12,2,2,2,0,4,2022 Summer Tour,2022 Summer,Ghost,Ghost,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2022-08-12,2022,0,13,2,2,2,0,7,2022 Summer Tour,2022 Summer,The Howling,The Howling,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2022-08-12,2022,0,14,2,2,2,0,3,2022 Summer Tour,2022 Summer,Simple,Simple,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2022-08-12,2022,0,7,4,1,2,0,5,2022 Summer Tour,2022 Summer,Drift While You're Sleeping,,0,Alpine Valley Music Theatre,East Troy,WI,USA,
+2022-08-12,2022,0,8,2,2,2,0,39,2022 Summer Tour,2022 Summer,Ass Handed,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2022-08-12,2022,0,9,3,2,2,0,3,2022 Summer Tour,2022 Summer,Set Your Soul Free,,0,Alpine Valley Music Theatre,East Troy,WI,USA,->
+2022-08-12,2022,0,10,2,2,2,0,10,2022 Summer Tour,2022 Summer,Golden Age,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2022-08-12,2022,0,11,2,2,2,0,15,2022 Summer Tour,2022 Summer,Lonely Trip,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2022-08-12,2022,0,12,2,2,2,0,4,2022 Summer Tour,2022 Summer,Ghost,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2022-08-12,2022,0,13,2,2,2,0,7,2022 Summer Tour,2022 Summer,The Howling,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2022-08-12,2022,0,14,2,2,2,0,3,2022 Summer Tour,2022 Summer,Simple,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2022-08-12,2022,0,15,5,2,2,0,5,2022 Summer Tour,2022 Summer,David Bowie,Bowie,1,Alpine Valley Music Theatre,East Troy,WI,USA,
 2022-08-12,2022,0,16,1,e,2,0,8,2022 Summer Tour,2022 Summer,The Lizards,Lizards,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2022-08-12,2022,0,17,6,e,2,0,4,2022 Summer Tour,2022 Summer,More,More,1,Alpine Valley Music Theatre,East Troy,WI,USA,
-2022-08-13,2022,0,1,2,1,2,0,41,2022 Summer Tour,2022 Summer,1999,1999,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2022-08-13,2022,0,2,2,1,2,0,3,2022 Summer Tour,2022 Summer,Fluffhead,Fluffhead,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2022-08-13,2022,0,3,1,1,2,0,15,2022 Summer Tour,2022 Summer,Saw It Again,Saw It Again,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2022-08-13,2022,0,4,3,1,2,0,12,2022 Summer Tour,2022 Summer,Leaves,Leaves,1,Alpine Valley Music Theatre,East Troy,WI,USA,->
+2022-08-12,2022,0,17,6,e,2,0,4,2022 Summer Tour,2022 Summer,More,,1,Alpine Valley Music Theatre,East Troy,WI,USA,
+2022-08-13,2022,0,1,2,1,2,0,41,2022 Summer Tour,2022 Summer,1999,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2022-08-13,2022,0,2,2,1,2,0,3,2022 Summer Tour,2022 Summer,Fluffhead,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2022-08-13,2022,0,3,1,1,2,0,15,2022 Summer Tour,2022 Summer,Saw It Again,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2022-08-13,2022,0,4,3,1,2,0,12,2022 Summer Tour,2022 Summer,Leaves,,1,Alpine Valley Music Theatre,East Troy,WI,USA,->
 2022-08-13,2022,0,5,1,1,2,0,5,2022 Summer Tour,2022 Summer,Back on the Train,BOTT,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2022-08-13,2022,0,6,1,1,2,0,8,2022 Summer Tour,2022 Summer,Taste,Taste,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2022-08-13,2022,0,7,1,1,2,0,81,2022 Summer Tour,2022 Summer,Petrichor,Petrichor,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2022-08-13,2022,0,6,1,1,2,0,8,2022 Summer Tour,2022 Summer,Taste,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2022-08-13,2022,0,7,1,1,2,0,81,2022 Summer Tour,2022 Summer,Petrichor,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2022-08-13,2022,0,8,4,1,2,0,12,2022 Summer Tour,2022 Summer,The Squirming Coil,Coil,1,Alpine Valley Music Theatre,East Troy,WI,USA,
 2022-08-13,2022,0,9,3,2,2,0,4,2022 Summer Tour,2022 Summer,Backwards Down the Number Line,BDTNL,0,Alpine Valley Music Theatre,East Troy,WI,USA,->
-2022-08-13,2022,0,10,1,2,2,0,12,2022 Summer Tour,2022 Summer,Maze,Maze,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2022-08-13,2022,0,11,2,2,2,0,15,2022 Summer Tour,2022 Summer,Mr. Completely,Mr. Completely,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2022-08-13,2022,0,12,1,2,2,0,12,2022 Summer Tour,2022 Summer,Roggae,Roggae,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2022-08-13,2022,0,13,1,2,2,0,20,2022 Summer Tour,2022 Summer,About to Run,About to Run,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2022-08-13,2022,0,14,2,2,2,0,9,2022 Summer Tour,2022 Summer,Waves,Waves,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2022-08-13,2022,0,15,5,2,2,0,14,2022 Summer Tour,2022 Summer,Undermind,Undermind,0,Alpine Valley Music Theatre,East Troy,WI,USA,
-2022-08-13,2022,0,16,6,e,2,0,2,2022 Summer Tour,2022 Summer,Blaze On,Blaze On,1,Alpine Valley Music Theatre,East Troy,WI,USA,
+2022-08-13,2022,0,10,1,2,2,0,12,2022 Summer Tour,2022 Summer,Maze,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2022-08-13,2022,0,11,2,2,2,0,15,2022 Summer Tour,2022 Summer,Mr. Completely,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2022-08-13,2022,0,12,1,2,2,0,12,2022 Summer Tour,2022 Summer,Roggae,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2022-08-13,2022,0,13,1,2,2,0,20,2022 Summer Tour,2022 Summer,About to Run,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2022-08-13,2022,0,14,2,2,2,0,9,2022 Summer Tour,2022 Summer,Waves,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2022-08-13,2022,0,15,5,2,2,0,14,2022 Summer Tour,2022 Summer,Undermind,,0,Alpine Valley Music Theatre,East Troy,WI,USA,
+2022-08-13,2022,0,16,6,e,2,0,2,2022 Summer Tour,2022 Summer,Blaze On,,1,Alpine Valley Music Theatre,East Troy,WI,USA,
 2022-08-14,2022,0,1,1,1,0,0,27,2022 Summer Tour,2022 Summer,The Landlady,Landlady,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2022-08-14,2022,0,2,2,1,0,0,17,2022 Summer Tour,2022 Summer,Runaway Jim,Runaway Jim,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2022-08-14,2022,0,2,2,1,0,0,17,2022 Summer Tour,2022 Summer,Runaway Jim,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2022-08-14,2022,0,3,1,1,0,0,15,2022 Summer Tour,2022 Summer,Divided Sky,Divided,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2022-08-14,2022,0,4,2,1,0,0,5,2022 Summer Tour,2022 Summer,46 Days,46 Days,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2022-08-14,2022,0,4,2,1,0,0,5,2022 Summer Tour,2022 Summer,46 Days,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2022-08-14,2022,0,5,1,1,0,0,13,2022 Summer Tour,2022 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2022-08-14,2022,0,6,1,1,0,0,64,2022 Summer Tour,2022 Summer,Sugar Shack,Sugar Shack,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2022-08-14,2022,0,7,1,1,0,0,8,2022 Summer Tour,2022 Summer,Shade,Shade,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2022-08-14,2022,0,8,1,1,0,0,10,2022 Summer Tour,2022 Summer,Halfway to the Moon,Halfway to the Moon,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2022-08-14,2022,0,9,4,1,0,0,7,2022 Summer Tour,2022 Summer,Everything's Right,Everything's Right,0,Alpine Valley Music Theatre,East Troy,WI,USA,
-2022-08-14,2022,0,10,2,2,0,0,47,2022 Summer Tour,2022 Summer,Energy,Energy,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2022-08-14,2022,0,6,1,1,0,0,64,2022 Summer Tour,2022 Summer,Sugar Shack,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2022-08-14,2022,0,7,1,1,0,0,8,2022 Summer Tour,2022 Summer,Shade,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2022-08-14,2022,0,8,1,1,0,0,10,2022 Summer Tour,2022 Summer,Halfway to the Moon,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2022-08-14,2022,0,9,4,1,0,0,7,2022 Summer Tour,2022 Summer,Everything's Right,,0,Alpine Valley Music Theatre,East Troy,WI,USA,
+2022-08-14,2022,0,10,2,2,0,0,47,2022 Summer Tour,2022 Summer,Energy,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2022-08-14,2022,0,11,2,2,0,0,18,2022 Summer Tour,2022 Summer,Gotta Jibboo,Jibboo,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2022-08-14,2022,0,12,2,2,0,0,6,2022 Summer Tour,2022 Summer,Soul Planet,Soul Planet,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2022-08-14,2022,0,13,1,2,0,0,20,2022 Summer Tour,2022 Summer,Rift,Rift,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2022-08-14,2022,0,14,1,2,0,0,8,2022 Summer Tour,2022 Summer,Reba,Reba,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2022-08-14,2022,0,15,2,2,0,0,18,2022 Summer Tour,2022 Summer,Martian Monster,Martian Monster,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2022-08-14,2022,0,16,2,2,0,0,0,2022 Summer Tour,2022 Summer,Broken Heart Attack,Broken Heart Attack,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2022-08-14,2022,0,12,2,2,0,0,6,2022 Summer Tour,2022 Summer,Soul Planet,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2022-08-14,2022,0,13,1,2,0,0,20,2022 Summer Tour,2022 Summer,Rift,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2022-08-14,2022,0,14,1,2,0,0,8,2022 Summer Tour,2022 Summer,Reba,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2022-08-14,2022,0,15,2,2,0,0,18,2022 Summer Tour,2022 Summer,Martian Monster,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2022-08-14,2022,0,16,2,2,0,0,0,2022 Summer Tour,2022 Summer,Broken Heart Attack,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2022-08-14,2022,0,17,3,2,0,0,38,2022 Summer Tour,2022 Summer,Hold Your Head Up,HYHU,0,Alpine Valley Music Theatre,East Troy,WI,USA,->
-2022-08-14,2022,0,18,1,2,0,0,0,2022 Summer Tour,2022 Summer,Martian Monster,Martian Monster,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2022-08-14,2022,0,19,2,2,0,0,7,2022 Summer Tour,2022 Summer,Possum,Possum,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2022-08-14,2022,0,18,1,2,0,0,0,2022 Summer Tour,2022 Summer,Martian Monster,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2022-08-14,2022,0,19,2,2,0,0,7,2022 Summer Tour,2022 Summer,Possum,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2022-08-14,2022,0,20,5,2,0,0,5,2022 Summer Tour,2022 Summer,Slave to the Traffic Light,Slave,1,Alpine Valley Music Theatre,East Troy,WI,USA,
-2022-08-14,2022,0,21,1,e,0,0,11,2022 Summer Tour,2022 Summer,Waste,Waste,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
-2022-08-14,2022,0,22,6,e,0,0,4,2022 Summer Tour,2022 Summer,First Tube,First Tube,0,Alpine Valley Music Theatre,East Troy,WI,USA,
-2022-09-01,2022,0,1,3,1,2,0,4,2022 Summer Tour,2022 Summer,Sand,Sand,0,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2022-08-14,2022,0,21,1,e,0,0,11,2022 Summer Tour,2022 Summer,Waste,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2022-08-14,2022,0,22,6,e,0,0,4,2022 Summer Tour,2022 Summer,First Tube,,0,Alpine Valley Music Theatre,East Troy,WI,USA,
+2022-09-01,2022,0,1,3,1,2,0,4,2022 Summer Tour,2022 Summer,Sand,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,->
 2022-09-01,2022,0,2,3,1,2,0,4,2022 Summer Tour,2022 Summer,Down with Disease,DwD,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
 2022-09-01,2022,0,3,1,1,2,0,47,2022 Summer Tour,2022 Summer,Scent of a Mule,SOAMule,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2022-09-01,2022,0,4,1,1,2,0,5,2022 Summer Tour,2022 Summer,Ocelot,Ocelot,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2022-09-01,2022,0,5,1,1,2,0,12,2022 Summer Tour,2022 Summer,Heavy Things,Heavy Things,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2022-09-01,2022,0,6,2,1,2,0,7,2022 Summer Tour,2022 Summer,Axilla (Part II),Axilla (Part II),1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-01,2022,0,4,1,1,2,0,5,2022 Summer Tour,2022 Summer,Ocelot,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2022-09-01,2022,0,5,1,1,2,0,12,2022 Summer Tour,2022 Summer,Heavy Things,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2022-09-01,2022,0,6,2,1,2,0,7,2022 Summer Tour,2022 Summer,Axilla (Part II),,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2022-09-01,2022,0,7,2,1,2,0,2,2022 Summer Tour,2022 Summer,Back on the Train,BOTT,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2022-09-01,2022,0,8,1,1,2,0,4,2022 Summer Tour,2022 Summer,Theme From the Bottom,Theme,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2022-09-01,2022,0,9,4,1,2,0,2,2022 Summer Tour,2022 Summer,Blaze On,Blaze On,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2022-09-01,2022,0,10,2,2,2,0,1,2022 Summer Tour,2022 Summer,Possum,Possum,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-01,2022,0,11,2,2,2,0,3,2022 Summer Tour,2022 Summer,Twist,Twist,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-01,2022,0,12,2,2,2,0,7,2022 Summer Tour,2022 Summer,Ruby Waves,Ruby Waves,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-01,2022,0,13,2,2,2,0,13,2022 Summer Tour,2022 Summer,Don't Doubt Me,Don't Doubt Me,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-01,2022,0,14,2,2,2,0,5,2022 Summer Tour,2022 Summer,A Wave of Hope,A Wave of Hope,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-01,2022,0,15,3,2,2,0,3,2022 Summer Tour,2022 Summer,The Howling,The Howling,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
-2022-09-01,2022,0,16,5,2,2,0,12,2022 Summer Tour,2022 Summer,Piper,Piper,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2022-09-01,2022,0,9,4,1,2,0,2,2022 Summer Tour,2022 Summer,Blaze On,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2022-09-01,2022,0,10,2,2,2,0,1,2022 Summer Tour,2022 Summer,Possum,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-01,2022,0,11,2,2,2,0,3,2022 Summer Tour,2022 Summer,Twist,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-01,2022,0,12,2,2,2,0,7,2022 Summer Tour,2022 Summer,Ruby Waves,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-01,2022,0,13,2,2,2,0,13,2022 Summer Tour,2022 Summer,Don't Doubt Me,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-01,2022,0,14,2,2,2,0,5,2022 Summer Tour,2022 Summer,A Wave of Hope,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-01,2022,0,15,3,2,2,0,3,2022 Summer Tour,2022 Summer,The Howling,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2022-09-01,2022,0,16,5,2,2,0,12,2022 Summer Tour,2022 Summer,Piper,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2022-09-01,2022,0,17,6,e,2,0,7,2022 Summer Tour,2022 Summer,Harry Hood,Hood,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2022-09-02,2022,0,1,2,1,2,0,6,2022 Summer Tour,2022 Summer,Carini,Carini,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-02,2022,0,1,2,1,2,0,6,2022 Summer Tour,2022 Summer,Carini,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2022-09-02,2022,0,2,3,1,2,0,6,2022 Summer Tour,2022 Summer,You Enjoy Myself,YEM,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
-2022-09-02,2022,0,3,2,1,2,0,4,2022 Summer Tour,2022 Summer,Ghost,Ghost,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-02,2022,0,4,1,1,2,0,15,2022 Summer Tour,2022 Summer,Julius,Julius,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2022-09-02,2022,0,5,1,1,2,0,2,2022 Summer Tour,2022 Summer,Reba,Reba,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2022-09-02,2022,0,6,2,1,2,0,6,2022 Summer Tour,2022 Summer,Tube,Tube,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-02,2022,0,7,3,1,2,0,7,2022 Summer Tour,2022 Summer,Tweezer,Tweezer,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2022-09-02,2022,0,3,2,1,2,0,4,2022 Summer Tour,2022 Summer,Ghost,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-02,2022,0,4,1,1,2,0,15,2022 Summer Tour,2022 Summer,Julius,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2022-09-02,2022,0,5,1,1,2,0,2,2022 Summer Tour,2022 Summer,Reba,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2022-09-02,2022,0,6,2,1,2,0,6,2022 Summer Tour,2022 Summer,Tube,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-02,2022,0,7,3,1,2,0,7,2022 Summer Tour,2022 Summer,Tweezer,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
 2022-09-02,2022,0,8,2,1,2,0,11,2022 Summer Tour,2022 Summer,What's the Use?,WTU?,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2022-09-02,2022,0,9,3,1,2,0,6,2022 Summer Tour,2022 Summer,Weekapaug Groove,Weekapaug,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
 2022-09-02,2022,0,10,2,1,2,0,7,2022 Summer Tour,2022 Summer,No Men In No Man's Land,NMINML,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2022-09-02,2022,0,11,2,1,2,0,0,2022 Summer Tour,2022 Summer,Weekapaug Groove,Weekapaug,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-02,2022,0,12,2,1,2,0,7,2022 Summer Tour,2022 Summer,Moonage Daydream,Moonage Daydream,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-02,2022,0,12,2,1,2,0,7,2022 Summer Tour,2022 Summer,Moonage Daydream,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2022-09-02,2022,0,13,5,1,2,0,8,2022 Summer Tour,2022 Summer,Chalk Dust Torture,CDT,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2022-09-02,2022,0,14,1,e,2,0,15,2022 Summer Tour,2022 Summer,Pebbles and Marbles,Pebbles and Marbles,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2022-09-02,2022,0,14,1,e,2,0,15,2022 Summer Tour,2022 Summer,Pebbles and Marbles,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2022-09-02,2022,0,15,6,e,2,0,7,2022 Summer Tour,2022 Summer,Tweezer Reprise,Tweeprise,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2022-09-03,2022,0,1,1,1,2,0,11,2022 Summer Tour,2022 Summer,Punch You in the Eye,PYITE,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2022-09-03,2022,0,2,1,1,2,0,7,2022 Summer Tour,2022 Summer,Wolfman's Brother,Wolfman's,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2022-09-03,2022,0,3,1,1,2,0,21,2022 Summer Tour,2022 Summer,Walls of the Cave,WotC,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2022-09-03,2022,0,4,1,1,2,0,8,2022 Summer Tour,2022 Summer,Heavy Rotation,Heavy Rotation,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2022-09-03,2022,0,4,1,1,2,0,8,2022 Summer Tour,2022 Summer,Heavy Rotation,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2022-09-03,2022,0,5,2,1,2,0,19,2022 Summer Tour,2022 Summer,Boogie On Reggae Woman,Boogie On,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-03,2022,0,6,2,1,2,0,6,2022 Summer Tour,2022 Summer,Stash,Stash,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-03,2022,0,7,2,1,2,0,6,2022 Summer Tour,2022 Summer,Free,Free,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-03,2022,0,6,2,1,2,0,6,2022 Summer Tour,2022 Summer,Stash,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-03,2022,0,7,2,1,2,0,6,2022 Summer Tour,2022 Summer,Free,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2022-09-03,2022,0,8,2,1,2,0,7,2022 Summer Tour,2022 Summer,Mike's Song,Mike's,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-03,2022,0,9,4,1,2,0,10,2022 Summer Tour,2022 Summer,Bug,Bug,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2022-09-03,2022,0,10,2,2,2,0,6,2022 Summer Tour,2022 Summer,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-03,2022,0,9,4,1,2,0,10,2022 Summer Tour,2022 Summer,Bug,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2022-09-03,2022,0,10,2,2,2,0,6,2022 Summer Tour,2022 Summer,Say It To Me S.A.N.T.O.S.,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2022-09-03,2022,0,11,2,2,2,0,10,2022 Summer Tour,2022 Summer,Kill Devil Falls,KDF,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-03,2022,0,12,2,2,2,0,6,2022 Summer Tour,2022 Summer,Sigma Oasis,Sigma Oasis,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-03,2022,0,13,2,2,2,0,544,2022 Summer Tour,2022 Summer,Thunderhead,Thunderhead,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-03,2022,0,12,2,2,2,0,6,2022 Summer Tour,2022 Summer,Sigma Oasis,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-03,2022,0,13,2,2,2,0,544,2022 Summer Tour,2022 Summer,Thunderhead,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2022-09-03,2022,0,14,3,2,2,0,5,2022 Summer Tour,2022 Summer,The Moma Dance,Moma,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
-2022-09-03,2022,0,15,2,2,2,0,64,2022 Summer Tour,2022 Summer,No Quarter,No Quarter,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-03,2022,0,15,2,2,2,0,64,2022 Summer Tour,2022 Summer,No Quarter,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2022-09-03,2022,0,16,2,2,2,0,6,2022 Summer Tour,2022 Summer,Also Sprach Zarathustra,2001,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2022-09-03,2022,0,17,5,2,2,0,11,2022 Summer Tour,2022 Summer,Split Open and Melt,SOAMelt,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2022-09-03,2022,0,18,2,e,2,0,47,2022 Summer Tour,2022 Summer,Fee,Fee,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-03,2022,0,18,2,e,2,0,47,2022 Summer Tour,2022 Summer,Fee,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2022-09-03,2022,0,19,6,e,2,0,3,2022 Summer Tour,2022 Summer,Slave to the Traffic Light,Slave,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2022-09-04,2022,0,1,1,1,2,0,4,2022 Summer Tour,2022 Summer,First Tube,First Tube,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2022-09-04,2022,0,1,1,1,2,0,4,2022 Summer Tour,2022 Summer,First Tube,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2022-09-04,2022,0,2,1,1,2,0,9,2022 Summer Tour,2022 Summer,Bathtub Gin,Gin,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2022-09-04,2022,0,3,1,1,2,0,5,2022 Summer Tour,2022 Summer,Undermind,Undermind,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2022-09-04,2022,0,4,2,1,2,0,6,2022 Summer Tour,2022 Summer,Drift While You're Sleeping,Drift While You're Sleeping,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-04,2022,0,3,1,1,2,0,5,2022 Summer Tour,2022 Summer,Undermind,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2022-09-04,2022,0,4,2,1,2,0,6,2022 Summer Tour,2022 Summer,Drift While You're Sleeping,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2022-09-04,2022,0,5,2,1,2,0,6,2022 Summer Tour,2022 Summer,Halley's Comet,Halley's,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-04,2022,0,6,1,1,2,0,4,2022 Summer Tour,2022 Summer,Everything's Right,Everything's Right,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2022-09-04,2022,0,7,2,1,2,0,6,2022 Summer Tour,2022 Summer,More,More,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-04,2022,0,8,4,1,2,0,5,2022 Summer Tour,2022 Summer,Fluffhead,Fluffhead,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2022-09-04,2022,0,9,2,2,2,0,6,2022 Summer Tour,2022 Summer,Set Your Soul Free,Set Your Soul Free,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-04,2022,0,10,2,2,2,0,6,2022 Summer Tour,2022 Summer,Fuego,Fuego,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-04,2022,0,11,1,2,2,0,9,2022 Summer Tour,2022 Summer,A Life Beyond The Dream,A Life Beyond The Dream,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2022-09-04,2022,0,6,1,1,2,0,4,2022 Summer Tour,2022 Summer,Everything's Right,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2022-09-04,2022,0,7,2,1,2,0,6,2022 Summer Tour,2022 Summer,More,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-04,2022,0,8,4,1,2,0,5,2022 Summer Tour,2022 Summer,Fluffhead,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2022-09-04,2022,0,9,2,2,2,0,6,2022 Summer Tour,2022 Summer,Set Your Soul Free,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-04,2022,0,10,2,2,2,0,6,2022 Summer Tour,2022 Summer,Fuego,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-04,2022,0,11,1,2,2,0,9,2022 Summer Tour,2022 Summer,A Life Beyond The Dream,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2022-09-04,2022,0,12,3,2,2,0,19,2022 Summer Tour,2022 Summer,Crosseyed and Painless,C&amp;P,0,Dick's Sporting Goods Park,Commerce City,CO,USA,->
 2022-09-04,2022,0,13,1,2,2,0,6,2022 Summer Tour,2022 Summer,David Bowie,Bowie,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2022-09-04,2022,0,14,5,2,2,0,13,2022 Summer Tour,2022 Summer,Loving Cup,Loving Cup,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2022-09-04,2022,0,14,5,2,2,0,13,2022 Summer Tour,2022 Summer,Loving Cup,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2022-09-04,2022,0,15,1,e,2,0,4,2022 Summer Tour,2022 Summer,Divided Sky,Divided,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2022-09-04,2022,0,16,1,e,2,0,97,2022 Summer Tour,2022 Summer,Icculus,Icculus,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2022-09-04,2022,0,17,6,e,2,0,9,2022 Summer Tour,2022 Summer,Character Zero,Character Zero,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2022-12-28,2022,0,1,1,1,2,0,15,2022 NYE Run,2022 NYE,Buried Alive,Buried Alive,1,Madison Square Garden,New York,NY,USA,","
+2022-09-04,2022,0,16,1,e,2,0,97,2022 Summer Tour,2022 Summer,Icculus,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2022-09-04,2022,0,17,6,e,2,0,9,2022 Summer Tour,2022 Summer,Character Zero,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2022-12-28,2022,0,1,1,1,2,0,15,2022 NYE Run,2022 NYE,Buried Alive,,1,Madison Square Garden,New York,NY,USA,","
 2022-12-28,2022,0,2,1,1,2,0,2,2022 NYE Run,2022 NYE,Wolfman's Brother,Wolfman's,1,Madison Square Garden,New York,NY,USA,","
-2022-12-28,2022,0,3,1,1,2,0,6,2022 NYE Run,2022 NYE,Maze,Maze,1,Madison Square Garden,New York,NY,USA,","
-2022-12-28,2022,0,4,2,1,2,0,2,2022 NYE Run,2022 NYE,Sigma Oasis,Sigma Oasis,0,Madison Square Garden,New York,NY,USA,>
-2022-12-28,2022,0,5,1,1,2,0,10,2022 NYE Run,2022 NYE,NICU,NICU,1,Madison Square Garden,New York,NY,USA,","
-2022-12-28,2022,0,6,1,1,2,0,8,2022 NYE Run,2022 NYE,Steam,Steam,1,Madison Square Garden,New York,NY,USA,","
-2022-12-28,2022,0,7,1,1,2,0,22,2022 NYE Run,2022 NYE,Tela,Tela,1,Madison Square Garden,New York,NY,USA,","
-2022-12-28,2022,0,8,1,1,2,0,2,2022 NYE Run,2022 NYE,Stash,Stash,1,Madison Square Garden,New York,NY,USA,","
+2022-12-28,2022,0,3,1,1,2,0,6,2022 NYE Run,2022 NYE,Maze,,1,Madison Square Garden,New York,NY,USA,","
+2022-12-28,2022,0,4,2,1,2,0,2,2022 NYE Run,2022 NYE,Sigma Oasis,,0,Madison Square Garden,New York,NY,USA,>
+2022-12-28,2022,0,5,1,1,2,0,10,2022 NYE Run,2022 NYE,NICU,,1,Madison Square Garden,New York,NY,USA,","
+2022-12-28,2022,0,6,1,1,2,0,8,2022 NYE Run,2022 NYE,Steam,,1,Madison Square Garden,New York,NY,USA,","
+2022-12-28,2022,0,7,1,1,2,0,22,2022 NYE Run,2022 NYE,Tela,,1,Madison Square Garden,New York,NY,USA,","
+2022-12-28,2022,0,8,1,1,2,0,2,2022 NYE Run,2022 NYE,Stash,,1,Madison Square Garden,New York,NY,USA,","
 2022-12-28,2022,0,9,4,1,2,0,2,2022 NYE Run,2022 NYE,Split Open and Melt,SOAMelt,1,Madison Square Garden,New York,NY,USA,
-2022-12-28,2022,0,10,2,2,2,0,2,2022 NYE Run,2022 NYE,Free,Free,1,Madison Square Garden,New York,NY,USA,>
-2022-12-28,2022,0,11,3,2,2,0,4,2022 NYE Run,2022 NYE,A Wave of Hope,A Wave of Hope,0,Madison Square Garden,New York,NY,USA,->
-2022-12-28,2022,0,12,2,2,2,0,17,2022 NYE Run,2022 NYE,It's Ice,It's Ice,1,Madison Square Garden,New York,NY,USA,>
-2022-12-28,2022,0,13,2,2,2,0,6,2022 NYE Run,2022 NYE,Leaves,Leaves,1,Madison Square Garden,New York,NY,USA,>
-2022-12-28,2022,0,14,3,2,2,0,7,2022 NYE Run,2022 NYE,Simple,Simple,1,Madison Square Garden,New York,NY,USA,->
-2022-12-28,2022,0,15,3,2,2,0,11,2022 NYE Run,2022 NYE,Plasma,Plasma,0,Madison Square Garden,New York,NY,USA,->
-2022-12-28,2022,0,16,2,2,2,0,4,2022 NYE Run,2022 NYE,Twist,Twist,1,Madison Square Garden,New York,NY,USA,>
+2022-12-28,2022,0,10,2,2,2,0,2,2022 NYE Run,2022 NYE,Free,,1,Madison Square Garden,New York,NY,USA,>
+2022-12-28,2022,0,11,3,2,2,0,4,2022 NYE Run,2022 NYE,A Wave of Hope,,0,Madison Square Garden,New York,NY,USA,->
+2022-12-28,2022,0,12,2,2,2,0,17,2022 NYE Run,2022 NYE,It's Ice,,1,Madison Square Garden,New York,NY,USA,>
+2022-12-28,2022,0,13,2,2,2,0,6,2022 NYE Run,2022 NYE,Leaves,,1,Madison Square Garden,New York,NY,USA,>
+2022-12-28,2022,0,14,3,2,2,0,7,2022 NYE Run,2022 NYE,Simple,,1,Madison Square Garden,New York,NY,USA,->
+2022-12-28,2022,0,15,3,2,2,0,11,2022 NYE Run,2022 NYE,Plasma,,0,Madison Square Garden,New York,NY,USA,->
+2022-12-28,2022,0,16,2,2,2,0,4,2022 NYE Run,2022 NYE,Twist,,1,Madison Square Garden,New York,NY,USA,>
 2022-12-28,2022,0,17,5,2,2,0,4,2022 NYE Run,2022 NYE,Harry Hood,Hood,1,Madison Square Garden,New York,NY,USA,
-2022-12-28,2022,0,18,2,e,2,0,13,2022 NYE Run,2022 NYE,Esther,Esther,1,Madison Square Garden,New York,NY,USA,>
-2022-12-28,2022,0,19,6,e,2,0,5,2022 NYE Run,2022 NYE,46 Days,46 Days,1,Madison Square Garden,New York,NY,USA,
-2022-12-29,2022,0,1,3,1,2,0,2,2022 NYE Run,2022 NYE,Fluffhead,Fluffhead,1,Madison Square Garden,New York,NY,USA,->
-2022-12-29,2022,0,2,2,1,2,0,41,2022 NYE Run,2022 NYE,Your Pet Cat,Your Pet Cat,1,Madison Square Garden,New York,NY,USA,>
+2022-12-28,2022,0,18,2,e,2,0,13,2022 NYE Run,2022 NYE,Esther,,1,Madison Square Garden,New York,NY,USA,>
+2022-12-28,2022,0,19,6,e,2,0,5,2022 NYE Run,2022 NYE,46 Days,,1,Madison Square Garden,New York,NY,USA,
+2022-12-29,2022,0,1,3,1,2,0,2,2022 NYE Run,2022 NYE,Fluffhead,,1,Madison Square Garden,New York,NY,USA,->
+2022-12-29,2022,0,2,2,1,2,0,41,2022 NYE Run,2022 NYE,Your Pet Cat,,1,Madison Square Garden,New York,NY,USA,>
 2022-12-29,2022,0,3,2,1,2,0,2,2022 NYE Run,2022 NYE,Bathtub Gin,Gin,1,Madison Square Garden,New York,NY,USA,>
-2022-12-29,2022,0,4,1,1,2,0,1947,2022 NYE Run,2022 NYE,Hey Stranger,Hey Stranger,0,Madison Square Garden,New York,NY,USA,","
-2022-12-29,2022,0,5,2,1,2,0,4,2022 NYE Run,2022 NYE,Tube,Tube,1,Madison Square Garden,New York,NY,USA,>
+2022-12-29,2022,0,4,1,1,2,0,1947,2022 NYE Run,2022 NYE,Hey Stranger,,0,Madison Square Garden,New York,NY,USA,","
+2022-12-29,2022,0,5,2,1,2,0,4,2022 NYE Run,2022 NYE,Tube,,1,Madison Square Garden,New York,NY,USA,>
 2022-12-29,2022,0,6,1,1,2,0,3,2022 NYE Run,2022 NYE,Slave to the Traffic Light,Slave,1,Madison Square Garden,New York,NY,USA,","
-2022-12-29,2022,0,7,4,1,2,0,5,2022 NYE Run,2022 NYE,Blaze On,Blaze On,1,Madison Square Garden,New York,NY,USA,
+2022-12-29,2022,0,7,4,1,2,0,5,2022 NYE Run,2022 NYE,Blaze On,,1,Madison Square Garden,New York,NY,USA,
 2022-12-29,2022,0,8,1,2,2,0,2,2022 NYE Run,2022 NYE,David Bowie,Bowie,1,Madison Square Garden,New York,NY,USA,","
-2022-12-29,2022,0,9,2,2,2,0,2,2022 NYE Run,2022 NYE,Everything's Right,Everything's Right,0,Madison Square Garden,New York,NY,USA,>
+2022-12-29,2022,0,9,2,2,2,0,2,2022 NYE Run,2022 NYE,Everything's Right,,0,Madison Square Garden,New York,NY,USA,>
 2022-12-29,2022,0,10,2,2,2,0,4,2022 NYE Run,2022 NYE,You Enjoy Myself,YEM,1,Madison Square Garden,New York,NY,USA,>
-2022-12-29,2022,0,11,2,2,2,0,5,2022 NYE Run,2022 NYE,Ruby Waves,Ruby Waves,0,Madison Square Garden,New York,NY,USA,>
-2022-12-29,2022,0,12,1,2,2,0,8,2022 NYE Run,2022 NYE,Lonely Trip,Lonely Trip,0,Madison Square Garden,New York,NY,USA,","
+2022-12-29,2022,0,11,2,2,2,0,5,2022 NYE Run,2022 NYE,Ruby Waves,,0,Madison Square Garden,New York,NY,USA,>
+2022-12-29,2022,0,12,1,2,2,0,8,2022 NYE Run,2022 NYE,Lonely Trip,,0,Madison Square Garden,New York,NY,USA,","
 2022-12-29,2022,0,13,2,2,2,0,5,2022 NYE Run,2022 NYE,Back on the Train,BOTT,0,Madison Square Garden,New York,NY,USA,>
-2022-12-29,2022,0,14,5,2,2,0,2,2022 NYE Run,2022 NYE,Character Zero,Character Zero,1,Madison Square Garden,New York,NY,USA,
-2022-12-29,2022,0,15,1,e,2,0,28,2022 NYE Run,2022 NYE,Guyute,Guyute,1,Madison Square Garden,New York,NY,USA,","
-2022-12-29,2022,0,16,6,e,2,0,5,2022 NYE Run,2022 NYE,Possum,Possum,1,Madison Square Garden,New York,NY,USA,
+2022-12-29,2022,0,14,5,2,2,0,2,2022 NYE Run,2022 NYE,Character Zero,,1,Madison Square Garden,New York,NY,USA,
+2022-12-29,2022,0,15,1,e,2,0,28,2022 NYE Run,2022 NYE,Guyute,,1,Madison Square Garden,New York,NY,USA,","
+2022-12-29,2022,0,16,6,e,2,0,5,2022 NYE Run,2022 NYE,Possum,,1,Madison Square Garden,New York,NY,USA,
 2022-12-30,2022,0,1,2,1,2,0,6,2022 NYE Run,2022 NYE,Down with Disease,DwD,1,Madison Square Garden,New York,NY,USA,>
 2022-12-30,2022,0,2,1,1,2,0,4,2022 NYE Run,2022 NYE,The Moma Dance,Moma,1,Madison Square Garden,New York,NY,USA,","
-2022-12-30,2022,0,3,1,1,2,0,5,2022 NYE Run,2022 NYE,Pebbles and Marbles,Pebbles and Marbles,0,Madison Square Garden,New York,NY,USA,","
+2022-12-30,2022,0,3,1,1,2,0,5,2022 NYE Run,2022 NYE,Pebbles and Marbles,,0,Madison Square Garden,New York,NY,USA,","
 2022-12-30,2022,0,4,2,1,2,0,6,2022 NYE Run,2022 NYE,Theme From the Bottom,Theme,1,Madison Square Garden,New York,NY,USA,>
-2022-12-30,2022,0,5,1,1,2,0,5,2022 NYE Run,2022 NYE,Reba,Reba,1,Madison Square Garden,New York,NY,USA,","
-2022-12-30,2022,0,6,2,1,2,0,6,2022 NYE Run,2022 NYE,The Howling,The Howling,1,Madison Square Garden,New York,NY,USA,>
-2022-12-30,2022,0,7,2,1,2,0,16,2022 NYE Run,2022 NYE,Foam,Foam,1,Madison Square Garden,New York,NY,USA,>
+2022-12-30,2022,0,5,1,1,2,0,5,2022 NYE Run,2022 NYE,Reba,,1,Madison Square Garden,New York,NY,USA,","
+2022-12-30,2022,0,6,2,1,2,0,6,2022 NYE Run,2022 NYE,The Howling,,1,Madison Square Garden,New York,NY,USA,>
+2022-12-30,2022,0,7,2,1,2,0,16,2022 NYE Run,2022 NYE,Foam,,1,Madison Square Garden,New York,NY,USA,>
 2022-12-30,2022,0,8,4,1,2,0,19,2022 NYE Run,2022 NYE,Run Like an Antelope,Antelope,1,Madison Square Garden,New York,NY,USA,
 2022-12-30,2022,0,9,1,2,2,0,5,2022 NYE Run,2022 NYE,No Men In No Man's Land,NMINML,1,Madison Square Garden,New York,NY,USA,","
-2022-12-30,2022,0,10,1,2,2,0,9,2022 NYE Run,2022 NYE,Golden Age,Golden Age,0,Madison Square Garden,New York,NY,USA,","
-2022-12-30,2022,0,11,2,2,2,0,6,2022 NYE Run,2022 NYE,Sand,Sand,0,Madison Square Garden,New York,NY,USA,>
-2022-12-30,2022,0,12,1,2,2,0,17,2022 NYE Run,2022 NYE,If I Could,If I Could,1,Madison Square Garden,New York,NY,USA,","
-2022-12-30,2022,0,13,5,2,2,0,37,2022 NYE Run,2022 NYE,I Always Wanted It This Way,I Always Wanted It This Way,1,Madison Square Garden,New York,NY,USA,
+2022-12-30,2022,0,10,1,2,2,0,9,2022 NYE Run,2022 NYE,Golden Age,,0,Madison Square Garden,New York,NY,USA,","
+2022-12-30,2022,0,11,2,2,2,0,6,2022 NYE Run,2022 NYE,Sand,,0,Madison Square Garden,New York,NY,USA,>
+2022-12-30,2022,0,12,1,2,2,0,17,2022 NYE Run,2022 NYE,If I Could,,1,Madison Square Garden,New York,NY,USA,","
+2022-12-30,2022,0,13,5,2,2,0,37,2022 NYE Run,2022 NYE,I Always Wanted It This Way,,1,Madison Square Garden,New York,NY,USA,
 2022-12-30,2022,0,14,6,e,2,0,5,2022 NYE Run,2022 NYE,Chalk Dust Torture,CDT,1,Madison Square Garden,New York,NY,USA,
-2022-12-31,2022,0,1,1,1,2,0,6,2022 NYE Run,2022 NYE,Tweezer,Tweezer,1,Madison Square Garden,New York,NY,USA,","
+2022-12-31,2022,0,1,1,1,2,0,6,2022 NYE Run,2022 NYE,Tweezer,,1,Madison Square Garden,New York,NY,USA,","
 2022-12-31,2022,0,2,3,1,2,0,4,2022 NYE Run,2022 NYE,Halley's Comet,Halley's,1,Madison Square Garden,New York,NY,USA,->
-2022-12-31,2022,0,3,2,1,2,0,4,2022 NYE Run,2022 NYE,Set Your Soul Free,Set Your Soul Free,0,Madison Square Garden,New York,NY,USA,>
-2022-12-31,2022,0,4,1,1,2,0,8,2022 NYE Run,2022 NYE,Rift,Rift,1,Madison Square Garden,New York,NY,USA,","
-2022-12-31,2022,0,5,2,1,2,0,16,2022 NYE Run,2022 NYE,Cavern,Cavern,1,Madison Square Garden,New York,NY,USA,>
-2022-12-31,2022,0,6,2,1,2,0,0,2022 NYE Run,2022 NYE,Tweezer,Tweezer,1,Madison Square Garden,New York,NY,USA,>
-2022-12-31,2022,0,7,1,1,2,0,8,2022 NYE Run,2022 NYE,Shade,Shade,1,Madison Square Garden,New York,NY,USA,","
+2022-12-31,2022,0,3,2,1,2,0,4,2022 NYE Run,2022 NYE,Set Your Soul Free,,0,Madison Square Garden,New York,NY,USA,>
+2022-12-31,2022,0,4,1,1,2,0,8,2022 NYE Run,2022 NYE,Rift,,1,Madison Square Garden,New York,NY,USA,","
+2022-12-31,2022,0,5,2,1,2,0,16,2022 NYE Run,2022 NYE,Cavern,,1,Madison Square Garden,New York,NY,USA,>
+2022-12-31,2022,0,6,2,1,2,0,0,2022 NYE Run,2022 NYE,Tweezer,,1,Madison Square Garden,New York,NY,USA,>
+2022-12-31,2022,0,7,1,1,2,0,8,2022 NYE Run,2022 NYE,Shade,,1,Madison Square Garden,New York,NY,USA,","
 2022-12-31,2022,0,8,2,1,2,0,5,2022 NYE Run,2022 NYE,Mike's Song,Mike's,1,Madison Square Garden,New York,NY,USA,>
 2022-12-31,2022,0,9,2,1,2,0,12,2022 NYE Run,2022 NYE,I Am Hydrogen,Hydrogen,1,Madison Square Garden,New York,NY,USA,>
 2022-12-31,2022,0,10,4,1,2,0,6,2022 NYE Run,2022 NYE,Weekapaug Groove,Weekapaug,1,Madison Square Garden,New York,NY,USA,
-2022-12-31,2022,0,11,2,2,2,0,5,2022 NYE Run,2022 NYE,Say It To Me S.A.N.T.O.S.,Say It To Me S.A.N.T.O.S.,1,Madison Square Garden,New York,NY,USA,>
+2022-12-31,2022,0,11,2,2,2,0,5,2022 NYE Run,2022 NYE,Say It To Me S.A.N.T.O.S.,,1,Madison Square Garden,New York,NY,USA,>
 2022-12-31,2022,0,12,2,2,2,0,5,2022 NYE Run,2022 NYE,Also Sprach Zarathustra,2001,0,Madison Square Garden,New York,NY,USA,>
 2022-12-31,2022,0,13,1,2,2,0,5,2022 NYE Run,2022 NYE,Kill Devil Falls,KDF,1,Madison Square Garden,New York,NY,USA,","
-2022-12-31,2022,0,14,2,2,2,0,12,2022 NYE Run,2022 NYE,Mercury,Mercury,1,Madison Square Garden,New York,NY,USA,>
-2022-12-31,2022,0,15,3,2,2,0,11,2022 NYE Run,2022 NYE,Light,Light,0,Madison Square Garden,New York,NY,USA,->
-2022-12-31,2022,0,16,1,2,2,0,8,2022 NYE Run,2022 NYE,Waste,Waste,1,Madison Square Garden,New York,NY,USA,","
-2022-12-31,2022,0,17,1,2,2,0,4,2022 NYE Run,2022 NYE,Drift While You're Sleeping,Drift While You're Sleeping,0,Madison Square Garden,New York,NY,USA,","
+2022-12-31,2022,0,14,2,2,2,0,12,2022 NYE Run,2022 NYE,Mercury,,1,Madison Square Garden,New York,NY,USA,>
+2022-12-31,2022,0,15,3,2,2,0,11,2022 NYE Run,2022 NYE,Light,,0,Madison Square Garden,New York,NY,USA,->
+2022-12-31,2022,0,16,1,2,2,0,8,2022 NYE Run,2022 NYE,Waste,,1,Madison Square Garden,New York,NY,USA,","
+2022-12-31,2022,0,17,1,2,2,0,4,2022 NYE Run,2022 NYE,Drift While You're Sleeping,,0,Madison Square Garden,New York,NY,USA,","
 2022-12-31,2022,0,18,4,2,2,0,9,2022 NYE Run,2022 NYE,Backwards Down the Number Line,BDTNL,0,Madison Square Garden,New York,NY,USA,
-2022-12-31,2022,0,19,2,3,2,0,6,2022 NYE Run,2022 NYE,Ghost,Ghost,1,Madison Square Garden,New York,NY,USA,>
-2022-12-31,2022,0,20,2,3,2,0,852,2022 NYE Run,2022 NYE,Bohemian Rhapsody,Bohemian Rhapsody,0,Madison Square Garden,New York,NY,USA,>
-2022-12-31,2022,0,21,3,3,2,0,0,2022 NYE Run,2022 NYE,Ghost,Ghost,1,Madison Square Garden,New York,NY,USA,->
-2022-12-31,2022,0,22,2,3,2,0,544,2022 NYE Run,2022 NYE,Jungle Boogie,Jungle Boogie,0,Madison Square Garden,New York,NY,USA,>
-2022-12-31,2022,0,23,2,3,2,0,14,2022 NYE Run,2022 NYE,Wilson,Wilson,1,Madison Square Garden,New York,NY,USA,>
-2022-12-31,2022,0,24,2,3,2,0,46,2022 NYE Run,2022 NYE,Auld Lang Syne,Auld Lang Syne,0,Madison Square Garden,New York,NY,USA,>
-2022-12-31,2022,0,25,2,3,2,0,6,2022 NYE Run,2022 NYE,Carini,Carini,1,Madison Square Garden,New York,NY,USA,>
-2022-12-31,2022,0,26,2,3,2,0,774,2022 NYE Run,2022 NYE,"Theme from New York, New York","Theme from New York, New York",0,Madison Square Garden,New York,NY,USA,>
-2022-12-31,2022,0,27,2,3,2,0,0,2022 NYE Run,2022 NYE,Tweezer,Tweezer,1,Madison Square Garden,New York,NY,USA,>
+2022-12-31,2022,0,19,2,3,2,0,6,2022 NYE Run,2022 NYE,Ghost,,1,Madison Square Garden,New York,NY,USA,>
+2022-12-31,2022,0,20,2,3,2,0,852,2022 NYE Run,2022 NYE,Bohemian Rhapsody,,0,Madison Square Garden,New York,NY,USA,>
+2022-12-31,2022,0,21,3,3,2,0,0,2022 NYE Run,2022 NYE,Ghost,,1,Madison Square Garden,New York,NY,USA,->
+2022-12-31,2022,0,22,2,3,2,0,544,2022 NYE Run,2022 NYE,Jungle Boogie,,0,Madison Square Garden,New York,NY,USA,>
+2022-12-31,2022,0,23,2,3,2,0,14,2022 NYE Run,2022 NYE,Wilson,,1,Madison Square Garden,New York,NY,USA,>
+2022-12-31,2022,0,24,2,3,2,0,46,2022 NYE Run,2022 NYE,Auld Lang Syne,,0,Madison Square Garden,New York,NY,USA,>
+2022-12-31,2022,0,25,2,3,2,0,6,2022 NYE Run,2022 NYE,Carini,,1,Madison Square Garden,New York,NY,USA,>
+2022-12-31,2022,0,26,2,3,2,0,774,2022 NYE Run,2022 NYE,"Theme from New York, New York",,0,Madison Square Garden,New York,NY,USA,>
+2022-12-31,2022,0,27,2,3,2,0,0,2022 NYE Run,2022 NYE,Tweezer,,1,Madison Square Garden,New York,NY,USA,>
 2022-12-31,2022,0,28,2,3,2,0,18,2022 NYE Run,2022 NYE,Prince Caspian,Caspian,1,Madison Square Garden,New York,NY,USA,>
 2022-12-31,2022,0,29,2,3,2,0,4,2022 NYE Run,2022 NYE,Crosseyed and Painless,C&amp;P,0,Madison Square Garden,New York,NY,USA,>
-2022-12-31,2022,0,30,1,3,2,0,7,2022 NYE Run,2022 NYE,Piper,Piper,1,Madison Square Garden,New York,NY,USA,","
-2022-12-31,2022,0,31,1,3,2,0,4,2022 NYE Run,2022 NYE,A Life Beyond The Dream,A Life Beyond The Dream,0,Madison Square Garden,New York,NY,USA,","
-2022-12-31,2022,0,32,5,3,2,0,4,2022 NYE Run,2022 NYE,First Tube,First Tube,0,Madison Square Garden,New York,NY,USA,
-2022-12-31,2022,0,33,2,e,2,0,17,2022 NYE Run,2022 NYE,Show of Life,Show of Life,0,Madison Square Garden,New York,NY,USA,>
+2022-12-31,2022,0,30,1,3,2,0,7,2022 NYE Run,2022 NYE,Piper,,1,Madison Square Garden,New York,NY,USA,","
+2022-12-31,2022,0,31,1,3,2,0,4,2022 NYE Run,2022 NYE,A Life Beyond The Dream,,0,Madison Square Garden,New York,NY,USA,","
+2022-12-31,2022,0,32,5,3,2,0,4,2022 NYE Run,2022 NYE,First Tube,,0,Madison Square Garden,New York,NY,USA,
+2022-12-31,2022,0,33,2,e,2,0,17,2022 NYE Run,2022 NYE,Show of Life,,0,Madison Square Garden,New York,NY,USA,>
 2022-12-31,2022,0,34,6,e,2,0,6,2022 NYE Run,2022 NYE,Tweezer Reprise,Tweeprise,1,Madison Square Garden,New York,NY,USA,

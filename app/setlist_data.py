@@ -11,6 +11,7 @@ class SetlistData:
     def __format(self, df):
         df[self.to_numeric] = df[self.to_numeric].apply(pd.to_numeric)
         df = df.sort_values(self.to_sort, ascending=[True, True])
+        df['nickname'] = df.apply(lambda row: '' if row['nickname'] == row['song'] else row['nickname'], axis=1)
 
         # strip all, correct encoding from client
         def format_strings(x):
@@ -18,7 +19,6 @@ class SetlistData:
                 return x.encode('latin-1').decode('utf-8').strip()
             else:
                 return x
-
         df = df.map(format_strings)
         return df
 
