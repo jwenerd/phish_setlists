@@ -35,7 +35,7 @@ class PhishNetClient():
         shows = self.get_all_shows()
         if year:
             shows = [show for show in shows if show['showyear'] == year]
-
+        print(f"get_setlist_data: year={year}, {len(shows)} shows")
         setlist_data = []
         for show in shows:
             setlist = self.get_setlist_by_date(show['showdate'])
@@ -49,7 +49,7 @@ class PhishNetClient():
 
     def download_all(self):
         years = set([show['showyear'] for show in self.get_all_shows()])
-        year_data = [self.get_setlist_data(year) for year in years]
+        year_data = [self.get_setlist_data(year) for year in sorted(years)]
         return list(itertools.chain(*year_data))  # flatten
 
 
