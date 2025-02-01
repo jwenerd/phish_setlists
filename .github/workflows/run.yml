@@ -1,0 +1,26 @@
+name: run
+
+on: workflow_dispatch
+permissions:
+  contents: write
+
+jobs:
+  run:
+    name: ${{ github.event_name }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install poetry
+        run: pipx install poetry
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'poetry'
+      - run: poetry install
+      - name: create file 🗄️
+        env:
+          PHISH_API_KEY: ${{ secrets.PHISH_API_KEY }}
+        run: poetry run python create_file
+      - run: git add -A data/csv/
+      - run: git commit --message="Scheduled update $(date +%Y-%m-%d)"
+      - run: git push origin master
