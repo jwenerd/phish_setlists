@@ -42,7 +42,7 @@ class PhishNetClient():
 
         setlist_data = []
         for setlist in setlists:
-            for index, setlist_song in enumerate(setlist):
+            for index, setlist_song in enumerate(setlist.copy()):
                 setlist[index] = {key: setlist_song[key] for key in SONG_KEYS if key in setlist_song}
             setlist_data.append(setlist)
 
