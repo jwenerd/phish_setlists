@@ -24,11 +24,13 @@ class PhishNetClient():
         if self._all_shows:
             return self._all_shows
         all_shows = self.client.get_shows(parameters=pysh.Parameters(order_by='showdate'))
-        self._all_shows = [show for show in all_shows if str(show.get('artist_name')).lower() == 'phish']
+        self._all_shows = self.__filter_phish(all_shows)
         return self._all_shows
 
     def get_setlist_by_date(self, date):
-        return self.client.get_setlists(column="showdate", value=date)
+        songs = self.client.get_setlists(column="showdate", value=date)
+        songs = self.__filter_phish(songs)
+        return songs
 
     def get_setlist_data(self, year=None):
         shows = self.get_all_shows()
@@ -52,6 +54,9 @@ class PhishNetClient():
         years = set([show['showyear'] for show in self.get_all_shows()])
         year_data = [self.get_setlist_data(year) for year in sorted(years)]
         return list(itertools.chain(*year_data))  # flatten
+
+    def __filter_phish(self, rows):
+        return [row for row in rows if str(row.get('artist_name')).lower() == 'phish']
 
 
 phish_net_client = PhishNetClient()

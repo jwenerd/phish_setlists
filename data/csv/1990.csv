@@ -1633,27 +1633,16 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-10-05,1990,0,23,5,2,0,0,1,1990 Tour,1990,Possum,,1,"Skidmore Gymnasium, Skidmore College",Saratoga Springs,NY,USA,
 1990-10-05,1990,0,24,6,e,0,0,2,1990 Tour,1990,Good Times Bad Times,GTBT,0,"Skidmore Gymnasium, Skidmore College",Saratoga Springs,NY,USA,
 1990-10-06,1990,0,1,1,1,0,0,1,1990 Tour,1990,The Landlady,Landlady,1,The Capitol Theatre,Port Chester,NY,USA,","
-1990-10-06,1990,0,1,2,1,0,0,0,Not Part of a Tour,No Tour,Trust in Trust,,1,The Capitol Theatre,Port Chester,NY,USA,>
 1990-10-06,1990,0,2,2,1,0,0,2,1990 Tour,1990,The Squirming Coil,Coil,1,The Capitol Theatre,Port Chester,NY,USA,>
-1990-10-06,1990,0,2,1,1,0,0,0,Not Part of a Tour,No Tour,Sweet Talkin' Hippie,,1,The Capitol Theatre,Port Chester,NY,USA,","
 1990-10-06,1990,0,3,2,1,0,0,3,1990 Tour,1990,Dinner and a Movie,,1,The Capitol Theatre,Port Chester,NY,USA,>
-1990-10-06,1990,0,3,2,1,0,0,0,Not Part of a Tour,No Tour,Weird Chick,,1,The Capitol Theatre,Port Chester,NY,USA,>
 1990-10-06,1990,0,4,1,1,0,0,1,1990 Tour,1990,Bouncing Around the Room,Bouncin',1,The Capitol Theatre,Port Chester,NY,USA,","
-1990-10-06,1990,0,4,1,1,0,0,0,Not Part of a Tour,No Tour,Mullin' It Over,,1,The Capitol Theatre,Port Chester,NY,USA,","
 1990-10-06,1990,0,5,1,1,0,0,2,1990 Tour,1990,Foam,,1,The Capitol Theatre,Port Chester,NY,USA,","
-1990-10-06,1990,0,5,1,1,0,0,0,Not Part of a Tour,No Tour,Gina,,1,The Capitol Theatre,Port Chester,NY,USA,","
 1990-10-06,1990,0,6,2,1,0,0,2,1990 Tour,1990,You Enjoy Myself,YEM,1,The Capitol Theatre,Port Chester,NY,USA,>
-1990-10-06,1990,0,6,2,1,0,0,0,Not Part of a Tour,No Tour,Gotta Get Mean,,1,The Capitol Theatre,Port Chester,NY,USA,>
 1990-10-06,1990,0,7,2,1,0,0,1,1990 Tour,1990,The Oh Kee Pa Ceremony,Oh Kee Pa,1,The Capitol Theatre,Port Chester,NY,USA,>
-1990-10-06,1990,0,7,2,1,0,0,17,Not Part of a Tour,No Tour,Gloria,,0,The Capitol Theatre,Port Chester,NY,USA,>
 1990-10-06,1990,0,8,1,1,0,0,1,1990 Tour,1990,Suzy Greenberg,Suzy,1,The Capitol Theatre,Port Chester,NY,USA,","
-1990-10-06,1990,0,8,1,1,0,0,0,Not Part of a Tour,No Tour,Gotta Get Mean,,1,The Capitol Theatre,Port Chester,NY,USA,","
 1990-10-06,1990,0,9,2,1,0,0,2,1990 Tour,1990,Esther,,1,The Capitol Theatre,Port Chester,NY,USA,>
-1990-10-06,1990,0,9,1,1,0,0,0,Not Part of a Tour,No Tour,Crystal Flame,,1,The Capitol Theatre,Port Chester,NY,USA,","
 1990-10-06,1990,0,10,1,1,0,0,1,1990 Tour,1990,Possum,,1,The Capitol Theatre,Port Chester,NY,USA,","
-1990-10-06,1990,0,10,1,1,0,0,0,Not Part of a Tour,No Tour,But Anyway,,1,The Capitol Theatre,Port Chester,NY,USA,","
 1990-10-06,1990,0,11,2,1,0,0,4,1990 Tour,1990,Hold Your Head Up,HYHU,0,The Capitol Theatre,Port Chester,NY,USA,>
-1990-10-06,1990,0,11,6,1,0,0,0,Not Part of a Tour,No Tour,Mountain Cry,,1,The Capitol Theatre,Port Chester,NY,USA,
 1990-10-06,1990,0,12,2,1,0,0,19,1990 Tour,1990,If I Only Had a Brain,,0,The Capitol Theatre,Port Chester,NY,USA,>
 1990-10-06,1990,0,13,3,1,0,0,0,1990 Tour,1990,Hold Your Head Up,HYHU,0,The Capitol Theatre,Port Chester,NY,USA,->
 1990-10-06,1990,0,14,1,1,0,0,2,1990 Tour,1990,David Bowie,Bowie,1,The Capitol Theatre,Port Chester,NY,USA,","

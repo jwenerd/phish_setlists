@@ -192,11 +192,8 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2019-06-21,2019,0,20,2,e,0,0,4,2019 Summer Tour,2019 Summer,More,,1,PNC Music Pavilion,Charlotte,NC,USA,>
 2019-06-21,2019,0,21,6,e,0,0,4,2019 Summer Tour,2019 Summer,Tweezer Reprise,Tweeprise,1,PNC Music Pavilion,Charlotte,NC,USA,
 2019-06-22,2019,0,1,1,1,0,0,6,2019 Summer Tour,2019 Summer,Undermind,,0,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-22,2019,0,1,1,1,0,0,1826,Not Part of a Tour,No Tour,(I Got) So Much Trouble In My Mind,,0,The Soundry,Columbia,MD,USA,","
 2019-06-22,2019,0,2,1,1,0,0,7,2019 Summer Tour,2019 Summer,Tube,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-22,2019,0,2,1,1,0,0,1826,Not Part of a Tour,No Tour,Walls of Time,,0,The Soundry,Columbia,MD,USA,","
 2019-06-22,2019,0,3,1,1,0,0,6,2019 Summer Tour,2019 Summer,Funky Bitch,,0,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-22,2019,0,3,6,1,0,0,1826,Not Part of a Tour,No Tour,Born On the Bayou,,0,The Soundry,Columbia,MD,USA,
 2019-06-22,2019,0,4,2,1,0,0,5,2019 Summer Tour,2019 Summer,Steam,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2019-06-22,2019,0,5,2,1,0,0,21,2019 Summer Tour,2019 Summer,My Sweet One,MSO,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2019-06-22,2019,0,6,1,1,0,0,27,2019 Summer Tour,2019 Summer,NICU,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
@@ -552,7 +549,6 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2019-07-14,2019,0,29,2,e,2,0,4,2019 Summer Tour,2019 Summer,More,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2019-07-14,2019,0,30,6,e,2,0,7,2019 Summer Tour,2019 Summer,Tweezer Reprise,Tweeprise,1,Alpine Valley Music Theatre,East Troy,WI,USA,
 2019-08-30,2019,0,1,1,1,0,0,142,2019 Summer Tour,2019 Summer,Can't Always Listen,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2019-08-30,2019,0,1,6,1,0,0,376,Not Part of a Tour,No Tour,Spanish Moon,,0,Cervantes,Denver,CO,USA,
 2019-08-30,2019,0,2,1,1,0,0,3,2019 Summer Tour,2019 Summer,Free,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2019-08-30,2019,0,3,1,1,0,0,3,2019 Summer Tour,2019 Summer,No Men In No Man's Land,NMINML,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2019-08-30,2019,0,4,2,1,0,0,7,2019 Summer Tour,2019 Summer,555,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>

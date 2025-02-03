@@ -276,7 +276,6 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1992-03-21,1992,0,26,1,e,0,0,3,1992 Spring Tour,1992 Spring,Bouncing Around the Room,Bouncin',1,Chestnut Cabaret,Philadelphia,PA,USA,","
 1992-03-21,1992,0,27,6,e,0,0,2,1992 Spring Tour,1992 Spring,Rocky Top,,0,Chestnut Cabaret,Philadelphia,PA,USA,
 1992-03-22,1992,0,1,1,1,0,0,1,1992 Spring Tour,1992 Spring,Sparkle,,1,Cultural Center Auditorium,Charleston,WV,USA,","
-1992-03-22,1992,0,1,6,1,0,0,0,Not Part of a Tour,No Tour,Juke Joint Johnny,,0,Cultural Center Auditorium,Charleston,WV,USA,
 1992-03-22,1992,0,2,1,1,0,0,1,1992 Spring Tour,1992 Spring,All Things Reconsidered,ATR,1,Cultural Center Auditorium,Charleston,WV,USA,","
 1992-03-22,1992,0,3,1,1,0,0,1,1992 Spring Tour,1992 Spring,Foam,,1,Cultural Center Auditorium,Charleston,WV,USA,","
 1992-03-22,1992,0,4,6,1,0,0,1,1992 Spring Tour,1992 Spring,The Landlady,Landlady,1,Cultural Center Auditorium,Charleston,WV,USA,
@@ -335,24 +334,14 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1992-03-25,1992,0,25,2,e,0,0,5,1992 Spring Tour,1992 Spring,Sleeping Monkey,,1,Trax,Charlottesville,VA,USA,>
 1992-03-25,1992,0,26,6,e,0,0,9,1992 Spring Tour,1992 Spring,Tweezer Reprise,Tweeprise,1,Trax,Charlottesville,VA,USA,
 1992-03-26,1992,0,1,2,1,2,0,2,1992 Spring Tour,1992 Spring,The Landlady,Landlady,1,Ziggy's,Winston-Salem,NC,USA,>
-1992-03-26,1992,0,1,1,1,0,0,1,Not Part of a Tour,No Tour,No One to Blame,,1,Ziggy's,Winston-Salem,NC,USA,","
 1992-03-26,1992,0,2,1,1,2,0,1,1992 Spring Tour,1992 Spring,Runaway Jim,,1,Ziggy's,Winston-Salem,NC,USA,","
-1992-03-26,1992,0,2,1,1,0,0,0,Not Part of a Tour,No Tour,Salty Dog,,1,Ziggy's,Winston-Salem,NC,USA,","
 1992-03-26,1992,0,3,1,1,2,0,1,1992 Spring Tour,1992 Spring,All Things Reconsidered,ATR,1,Ziggy's,Winston-Salem,NC,USA,","
-1992-03-26,1992,0,3,1,1,0,0,0,Not Part of a Tour,No Tour,Shoeless Joe,,1,Ziggy's,Winston-Salem,NC,USA,","
 1992-03-26,1992,0,4,1,1,2,0,2,1992 Spring Tour,1992 Spring,Foam,,1,Ziggy's,Winston-Salem,NC,USA,","
-1992-03-26,1992,0,4,1,1,0,0,0,Not Part of a Tour,No Tour,Compared to What?,,1,Ziggy's,Winston-Salem,NC,USA,","
 1992-03-26,1992,0,5,1,1,2,0,1,1992 Spring Tour,1992 Spring,Sparkle,,1,Ziggy's,Winston-Salem,NC,USA,","
-1992-03-26,1992,0,5,1,1,0,0,0,Not Part of a Tour,No Tour,Poor Boy Blues,,1,Ziggy's,Winston-Salem,NC,USA,","
 1992-03-26,1992,0,6,1,1,2,0,2,1992 Spring Tour,1992 Spring,Stash,,1,Ziggy's,Winston-Salem,NC,USA,","
-1992-03-26,1992,0,6,1,1,0,0,0,Not Part of a Tour,No Tour,Temptation,,1,Ziggy's,Winston-Salem,NC,USA,","
 1992-03-26,1992,0,7,2,1,2,0,5,1992 Spring Tour,1992 Spring,Fluffhead,,1,Ziggy's,Winston-Salem,NC,USA,>
-1992-03-26,1992,0,7,1,1,0,0,0,Not Part of a Tour,No Tour,Working On a Building,,1,Ziggy's,Winston-Salem,NC,USA,","
 1992-03-26,1992,0,8,1,1,2,0,2,1992 Spring Tour,1992 Spring,Uncle Pen,,0,Ziggy's,Winston-Salem,NC,USA,","
-1992-03-26,1992,0,8,1,1,0,0,0,Not Part of a Tour,No Tour,Zambi,,0,Ziggy's,Winston-Salem,NC,USA,","
 1992-03-26,1992,0,9,1,1,2,0,6,1992 Spring Tour,1992 Spring,NICU,,1,Ziggy's,Winston-Salem,NC,USA,","
-1992-03-26,1992,0,9,1,1,0,0,0,Not Part of a Tour,No Tour,Sitting on Top of the World,,0,Ziggy's,Winston-Salem,NC,USA,","
-1992-03-26,1992,0,10,6,1,0,0,0,Not Part of a Tour,No Tour,Come on Home,,0,Ziggy's,Winston-Salem,NC,USA,
 1992-03-26,1992,0,10,4,1,2,0,2,1992 Spring Tour,1992 Spring,David Bowie,Bowie,1,Ziggy's,Winston-Salem,NC,USA,
 1992-03-26,1992,0,11,2,2,2,0,4,1992 Spring Tour,1992 Spring,Buried Alive,,1,Ziggy's,Winston-Salem,NC,USA,>
 1992-03-26,1992,0,12,2,2,2,0,2,1992 Spring Tour,1992 Spring,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Ziggy's,Winston-Salem,NC,USA,>
@@ -1630,9 +1619,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1992-07-18,1992,0,5,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Rift,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
 1992-07-18,1992,0,6,6,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Run Like an Antelope,Antelope,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,
 1992-07-19,1992,0,1,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Poor Heart,,1,Garden State Arts Center,Holmdel,NJ,USA,","
-1992-07-19,1992,0,1,2,1,0,0,0,Not Part of a Tour,No Tour,Boogie Jam,,0,Garden State Arts Center,Holmdel,NJ,USA,>
 1992-07-19,1992,0,2,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Maze,,1,Garden State Arts Center,Holmdel,NJ,USA,","
-1992-07-19,1992,0,2,6,1,0,0,0,Not Part of a Tour,No Tour,Summertime Jam,,0,Garden State Arts Center,Holmdel,NJ,USA,
 1992-07-19,1992,0,3,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Runaway Jim,,1,Garden State Arts Center,Holmdel,NJ,USA,","
 1992-07-19,1992,0,4,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,David Bowie,Bowie,1,Garden State Arts Center,Holmdel,NJ,USA,","
 1992-07-19,1992,0,5,6,1,0,0,6,1992 Summer U.S. Tour,1992 Summer,Sweet Adeline,,0,Garden State Arts Center,Holmdel,NJ,USA,
@@ -1644,11 +1631,8 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1992-07-21,1992,0,6,2,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,The Squirming Coil,Coil,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,>
 1992-07-21,1992,0,7,6,1,0,0,1,1992 Summer U.S. Tour,1992 Summer,Runaway Jim,,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,
 1992-07-22,1992,0,1,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Reba,,1,Holman Stadium,Nashua,NH,USA,","
-1992-07-22,1992,0,1,1,1,0,0,0,Not Part of a Tour,No Tour,Chill Out (Sácalo),,0,Holman Stadium,Nashua,NH,USA,","
 1992-07-22,1992,0,2,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Poor Heart,,1,Holman Stadium,Nashua,NH,USA,","
-1992-07-22,1992,0,2,1,1,0,0,0,Not Part of a Tour,No Tour,Boogie Jam,,0,Holman Stadium,Nashua,NH,USA,","
 1992-07-22,1992,0,3,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Bouncing Around the Room,Bouncin',1,Holman Stadium,Nashua,NH,USA,","
-1992-07-22,1992,0,3,6,1,0,0,0,Not Part of a Tour,No Tour,Summertime Jam,,0,Holman Stadium,Nashua,NH,USA,
 1992-07-22,1992,0,4,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Maze,,1,Holman Stadium,Nashua,NH,USA,","
 1992-07-22,1992,0,5,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Rift,,1,Holman Stadium,Nashua,NH,USA,","
 1992-07-22,1992,0,6,1,1,0,0,7,1992 Summer U.S. Tour,1992 Summer,Cavern,,1,Holman Stadium,Nashua,NH,USA,","
@@ -1667,99 +1651,54 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1992-07-23,1992,1,12,1,1,2,2,93,Not Part of a Tour,No Tour,Jam,,0,MTV Studios,New York,NY,USA,","
 1992-07-23,1992,1,13,6,1,2,2,6,Not Part of a Tour,No Tour,Divided Sky,Divided,1,MTV Studios,New York,NY,USA,
 1992-07-24,1992,0,1,1,1,0,0,7,1992 Summer U.S. Tour,1992 Summer,My Sweet One,MSO,1,Jones Beach Amphitheater,Wantagh,NY,USA,","
-1992-07-24,1992,0,1,1,1,0,0,0,Not Part of a Tour,No Tour,Flame Sky,,0,Jones Beach Amphitheater,Wantagh,NY,USA,","
 1992-07-24,1992,0,2,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Foam,,1,Jones Beach Amphitheater,Wantagh,NY,USA,","
-1992-07-24,1992,0,2,1,1,0,0,0,Not Part of a Tour,No Tour,Aqua Marine,,0,Jones Beach Amphitheater,Wantagh,NY,USA,","
 1992-07-24,1992,0,3,2,1,0,0,8,1992 Summer U.S. Tour,1992 Summer,Tweezer,,1,Jones Beach Amphitheater,Wantagh,NY,USA,>
-1992-07-24,1992,0,3,1,1,0,0,0,Not Part of a Tour,No Tour,Spirits Dancing in the Flesh,,0,Jones Beach Amphitheater,Wantagh,NY,USA,","
 1992-07-24,1992,0,4,2,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,The Squirming Coil,Coil,1,Jones Beach Amphitheater,Wantagh,NY,USA,>
-1992-07-24,1992,0,4,1,1,0,0,0,Not Part of a Tour,No Tour,Somewhere in Heaven,,0,Jones Beach Amphitheater,Wantagh,NY,USA,","
 1992-07-24,1992,0,5,2,1,0,0,8,1992 Summer U.S. Tour,1992 Summer,You Enjoy Myself,YEM,1,Jones Beach Amphitheater,Wantagh,NY,USA,>
-1992-07-24,1992,0,5,6,1,0,0,0,Not Part of a Tour,No Tour,Agua Que Va Caer,,0,Jones Beach Amphitheater,Wantagh,NY,USA,
 1992-07-24,1992,0,6,6,1,0,0,8,1992 Summer U.S. Tour,1992 Summer,Tweezer Reprise,Tweeprise,1,Jones Beach Amphitheater,Wantagh,NY,USA,
 1992-07-25,1992,0,1,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Runaway Jim,,1,Stowe Performing Arts Center,Stowe,VT,USA,","
-1992-07-25,1992,0,1,2,1,0,0,14,Not Part of a Tour,No Tour,Jam,,0,Stowe Performing Arts Center,Stowe,VT,USA,>
 1992-07-25,1992,0,2,1,1,0,0,1,1992 Summer U.S. Tour,1992 Summer,Foam,,1,Stowe Performing Arts Center,Stowe,VT,USA,","
-1992-07-25,1992,0,2,2,1,0,0,0,Not Part of a Tour,No Tour,"Lord, Help Me to Be",,0,Stowe Performing Arts Center,Stowe,VT,USA,>
 1992-07-25,1992,0,3,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Sparkle,,1,Stowe Performing Arts Center,Stowe,VT,USA,","
-1992-07-25,1992,0,3,2,1,0,0,14,Not Part of a Tour,No Tour,Elmore's Boogie,,0,Stowe Performing Arts Center,Stowe,VT,USA,>
 1992-07-25,1992,0,4,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Stash,,1,Stowe Performing Arts Center,Stowe,VT,USA,","
-1992-07-25,1992,0,4,6,1,0,0,0,Not Part of a Tour,No Tour,Super Boogie/Hong Kong Blues,,0,Stowe Performing Arts Center,Stowe,VT,USA,
 1992-07-25,1992,0,5,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Rift,,1,Stowe Performing Arts Center,Stowe,VT,USA,","
 1992-07-25,1992,0,6,1,1,0,0,1,1992 Summer U.S. Tour,1992 Summer,You Enjoy Myself,YEM,1,Stowe Performing Arts Center,Stowe,VT,USA,","
 1992-07-25,1992,0,7,1,1,0,0,5,1992 Summer U.S. Tour,1992 Summer,Llama,,1,Stowe Performing Arts Center,Stowe,VT,USA,","
 1992-07-25,1992,0,8,6,1,0,0,110,1992 Summer U.S. Tour,1992 Summer,Funky Bitch,,0,Stowe Performing Arts Center,Stowe,VT,USA,
 1992-07-26,1992,0,1,1,1,0,0,7,1992 Summer U.S. Tour,1992 Summer,Chalk Dust Torture,CDT,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
-1992-07-26,1992,0,1,2,1,0,0,1,Not Part of a Tour,No Tour,Jam,,0,Big Birch Concert Pavilion,Patterson,NY,USA,>
 1992-07-26,1992,0,2,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,It's Ice,,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
-1992-07-26,1992,0,2,2,1,0,0,0,Not Part of a Tour,No Tour,In a Silent Way,,0,Big Birch Concert Pavilion,Patterson,NY,USA,>
 1992-07-26,1992,0,3,1,1,0,0,9,1992 Summer U.S. Tour,1992 Summer,Divided Sky,Divided,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
-1992-07-26,1992,0,3,2,1,0,0,0,Not Part of a Tour,No Tour,Flame Sky,,0,Big Birch Concert Pavilion,Patterson,NY,USA,>
 1992-07-26,1992,0,4,1,1,0,0,8,1992 Summer U.S. Tour,1992 Summer,Weigh,,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
-1992-07-26,1992,0,4,6,1,0,0,0,Not Part of a Tour,No Tour,"Lord, Help Me to Be",,0,Big Birch Concert Pavilion,Patterson,NY,USA,
 1992-07-26,1992,0,5,1,1,0,0,9,1992 Summer U.S. Tour,1992 Summer,Split Open and Melt,SOAMelt,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
 1992-07-26,1992,0,6,1,1,0,0,9,1992 Summer U.S. Tour,1992 Summer,The Lizards,Lizards,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
 1992-07-26,1992,0,7,6,1,0,0,1,1992 Summer U.S. Tour,1992 Summer,Llama,,1,Big Birch Concert Pavilion,Patterson,NY,USA,
 1992-07-27,1992,0,1,1,1,0,0,10,1992 Summer U.S. Tour,1992 Summer,Golgi Apparatus,Golgi,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-1992-07-27,1992,0,1,2,1,0,0,1,Not Part of a Tour,No Tour,Jam,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 1992-07-27,1992,0,2,1,1,0,0,5,1992 Summer U.S. Tour,1992 Summer,All Things Reconsidered,ATR,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-1992-07-27,1992,0,2,2,1,0,0,0,Not Part of a Tour,No Tour,Flame Sky,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 1992-07-27,1992,0,3,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,David Bowie,Bowie,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-1992-07-27,1992,0,3,2,1,0,0,0,Not Part of a Tour,No Tour,In a Silent Way,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 1992-07-27,1992,0,4,1,1,0,0,9,1992 Summer U.S. Tour,1992 Summer,Horn,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-1992-07-27,1992,0,4,6,1,0,0,0,Not Part of a Tour,No Tour,Super Boogie/Hong Kong Blues,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
 1992-07-27,1992,0,5,2,1,0,0,7,1992 Summer U.S. Tour,1992 Summer,Suzy Greenberg,Suzy,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 1992-07-27,1992,0,6,1,1,0,0,1,1992 Summer U.S. Tour,1992 Summer,Llama,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 1992-07-27,1992,0,7,1,1,0,0,6,1992 Summer U.S. Tour,1992 Summer,Sweet Adeline,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 1992-07-27,1992,0,8,6,1,0,0,15,1992 Summer U.S. Tour,1992 Summer,Rocky Top,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
 1992-07-28,1992,0,1,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Chalk Dust Torture,CDT,1,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,","
-1992-07-28,1992,0,1,2,1,0,0,1,Not Part of a Tour,No Tour,Jam,,0,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,>
 1992-07-28,1992,0,2,1,1,0,0,5,1992 Summer U.S. Tour,1992 Summer,Bouncing Around the Room,Bouncin',1,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,","
-1992-07-28,1992,0,2,2,1,0,0,0,Not Part of a Tour,No Tour,Exodus,,0,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,>
 1992-07-28,1992,0,3,1,1,0,0,11,1992 Summer U.S. Tour,1992 Summer,Uncle Pen,,0,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,","
-1992-07-28,1992,0,3,2,1,0,0,2,Not Part of a Tour,No Tour,Elmore's Boogie,,0,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,>
 1992-07-28,1992,0,4,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,The Squirming Coil,Coil,1,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,","
-1992-07-28,1992,0,4,2,1,0,0,0,Not Part of a Tour,No Tour,Carlos' Creole,,0,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,>
 1992-07-28,1992,0,5,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Tweezer,,1,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,","
-1992-07-28,1992,0,5,6,1,0,0,0,Not Part of a Tour,No Tour,The Healer,,0,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,
 1992-07-28,1992,0,6,6,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Runaway Jim,,1,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,
 1992-07-30,1992,0,1,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Rift,,1,Meadow Brook Music Festival,Rochester Hills,MI,USA,","
-1992-07-30,1992,0,1,2,1,0,0,0,Not Part of a Tour,No Tour,Exodus,,0,Meadow Brook Music Festival,Rochester Hills,MI,USA,>
 1992-07-30,1992,0,2,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Horn,,1,Meadow Brook Music Festival,Rochester Hills,MI,USA,","
-1992-07-30,1992,0,2,2,1,0,0,0,Not Part of a Tour,No Tour,In a Silent Way,,0,Meadow Brook Music Festival,Rochester Hills,MI,USA,>
 1992-07-30,1992,0,3,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Sparkle,,1,Meadow Brook Music Festival,Rochester Hills,MI,USA,","
-1992-07-30,1992,0,3,2,1,0,0,0,Not Part of a Tour,No Tour,Elmore's Boogie,,0,Meadow Brook Music Festival,Rochester Hills,MI,USA,>
 1992-07-30,1992,0,4,2,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,It's Ice,,1,Meadow Brook Music Festival,Rochester Hills,MI,USA,>
-1992-07-30,1992,0,4,6,1,0,0,0,Not Part of a Tour,No Tour,Spirits Dancing in the Flesh,,0,Meadow Brook Music Festival,Rochester Hills,MI,USA,
 1992-07-30,1992,0,5,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,All Things Reconsidered,ATR,1,Meadow Brook Music Festival,Rochester Hills,MI,USA,","
 1992-07-30,1992,0,6,1,1,0,0,6,1992 Summer U.S. Tour,1992 Summer,Maze,,1,Meadow Brook Music Festival,Rochester Hills,MI,USA,","
 1992-07-30,1992,0,7,1,1,0,0,13,1992 Summer U.S. Tour,1992 Summer,I Didn't Know,IDK,1,Meadow Brook Music Festival,Rochester Hills,MI,USA,","
 1992-07-30,1992,0,8,6,1,0,0,7,1992 Summer U.S. Tour,1992 Summer,Possum,,1,Meadow Brook Music Festival,Rochester Hills,MI,USA,
 1992-07-31,1992,0,1,2,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Suzy Greenberg,Suzy,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
-1992-07-31,1992,0,1,1,1,2,0,9,Not Part of a Tour,No Tour,Peace on Earth...Mother Earth...Third Stone from the Sun,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
 1992-07-31,1992,0,2,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Chalk Dust Torture,CDT,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-1992-07-31,1992,0,2,1,1,2,0,0,Not Part of a Tour,No Tour,Somewhere in Heaven,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
 1992-07-31,1992,0,3,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Bouncing Around the Room,Bouncin',1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-1992-07-31,1992,0,3,2,1,2,0,0,Not Part of a Tour,No Tour,Batuka,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
 1992-07-31,1992,0,4,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Uncle Pen,,0,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-1992-07-31,1992,0,4,1,1,2,0,0,Not Part of a Tour,No Tour,No One to Depend On,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
 1992-07-31,1992,0,5,1,1,0,0,5,1992 Summer U.S. Tour,1992 Summer,You Enjoy Myself,YEM,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-1992-07-31,1992,0,5,1,1,2,0,0,Not Part of a Tour,No Tour,Capri,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
 1992-07-31,1992,0,6,6,1,0,0,22,1992 Summer U.S. Tour,1992 Summer,Good Times Bad Times,GTBT,0,Blossom Music Center,Cuyahoga Falls,OH,USA,
-1992-07-31,1992,0,6,1,1,2,0,0,Not Part of a Tour,No Tour,Savor,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-1992-07-31,1992,0,7,1,1,2,0,0,Not Part of a Tour,No Tour,Jam,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-1992-07-31,1992,0,8,1,1,2,0,0,Not Part of a Tour,No Tour,Black Magic Woman/Gypsy Queen,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-1992-07-31,1992,0,9,1,1,2,0,0,Not Part of a Tour,No Tour,Oye Como Va,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-1992-07-31,1992,0,10,1,1,2,0,0,Not Part of a Tour,No Tour,Elmore's Boogie,,0,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-1992-07-31,1992,0,11,1,1,2,0,19,Not Part of a Tour,No Tour,Blues for Salvador,,0,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-1992-07-31,1992,0,12,2,1,2,0,0,Not Part of a Tour,No Tour,Angels All Around Us,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
-1992-07-31,1992,0,13,1,1,2,0,0,Not Part of a Tour,No Tour,Spirits Dancing in the Flesh,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-1992-07-31,1992,0,14,1,1,2,0,0,Not Part of a Tour,No Tour,Make Somebody Happy,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-1992-07-31,1992,0,15,1,1,2,0,0,Not Part of a Tour,No Tour,Free All the People (South Africa),,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-1992-07-31,1992,0,16,2,1,2,0,0,Not Part of a Tour,No Tour,Get It in Your Soul,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
-1992-07-31,1992,0,17,5,1,2,0,0,Not Part of a Tour,No Tour,Toussaint L'Ouverture,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,
-1992-07-31,1992,0,18,1,e,2,0,0,Not Part of a Tour,No Tour,Soul Sacrifice,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-1992-07-31,1992,0,19,6,e,2,0,0,Not Part of a Tour,No Tour,Exodus,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,
 1992-08-01,1992,0,1,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Golgi Apparatus,Golgi,1,Poplar Creek Music Center,Hoffman Estates,IL,USA,","
 1992-08-01,1992,0,2,1,1,0,0,6,1992 Summer U.S. Tour,1992 Summer,Foam,,1,Poplar Creek Music Center,Hoffman Estates,IL,USA,","
 1992-08-01,1992,0,3,1,1,0,0,8,1992 Summer U.S. Tour,1992 Summer,Poor Heart,,1,Poplar Creek Music Center,Hoffman Estates,IL,USA,","
@@ -1817,32 +1756,20 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1992-08-17,1992,0,25,5,2,0,0,4,1992 Summer U.S. Tour,1992 Summer,Cavern,,1,The Coach House,San Juan Capistrano,CA,USA,
 1992-08-17,1992,0,26,6,e,0,0,2,1992 Summer U.S. Tour,1992 Summer,The Squirming Coil,Coil,1,The Coach House,San Juan Capistrano,CA,USA,
 1992-08-19,1992,0,1,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Chalk Dust Torture,CDT,1,Pima County Fairgrounds,Tucson,AZ,USA,","
-1992-08-19,1992,0,1,2,1,0,0,9,Not Part of a Tour,No Tour,Jam,,0,Pima County Fairgrounds,Tucson,AZ,USA,>
 1992-08-19,1992,0,2,1,1,0,0,1,1992 Summer U.S. Tour,1992 Summer,The Landlady,Landlady,1,Pima County Fairgrounds,Tucson,AZ,USA,","
-1992-08-19,1992,0,2,2,1,0,0,0,Not Part of a Tour,No Tour,Flame Sky,,0,Pima County Fairgrounds,Tucson,AZ,USA,>
 1992-08-19,1992,0,3,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Runaway Jim,,1,Pima County Fairgrounds,Tucson,AZ,USA,","
-1992-08-19,1992,0,3,2,1,0,0,0,Not Part of a Tour,No Tour,In a Silent Way,,0,Pima County Fairgrounds,Tucson,AZ,USA,>
 1992-08-19,1992,0,4,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Guelah Papyrus,Guelah,1,Pima County Fairgrounds,Tucson,AZ,USA,","
-1992-08-19,1992,0,4,2,1,0,0,0,Not Part of a Tour,No Tour,Super Boogie/Hong Kong Blues,,0,Pima County Fairgrounds,Tucson,AZ,USA,>
 1992-08-19,1992,0,5,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,You Enjoy Myself,YEM,1,Pima County Fairgrounds,Tucson,AZ,USA,","
-1992-08-19,1992,0,5,6,1,0,0,1,Not Part of a Tour,No Tour,Blues for Salvador,,0,Pima County Fairgrounds,Tucson,AZ,USA,
 1992-08-19,1992,0,6,1,1,0,0,7,1992 Summer U.S. Tour,1992 Summer,Uncle Pen,,0,Pima County Fairgrounds,Tucson,AZ,USA,","
 1992-08-19,1992,0,7,6,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Llama,,1,Pima County Fairgrounds,Tucson,AZ,USA,
 1992-08-20,1992,0,1,1,1,0,0,7,1992 Summer U.S. Tour,1992 Summer,Golgi Apparatus,Golgi,1,Pan American Center,Las Cruces,NM,USA,","
-1992-08-20,1992,0,1,2,1,0,0,1,Not Part of a Tour,No Tour,Jam,,0,Pan American Center,Las Cruces,NM,USA,>
 1992-08-20,1992,0,2,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Foam,,1,Pan American Center,Las Cruces,NM,USA,","
-1992-08-20,1992,0,2,2,1,0,0,2,Not Part of a Tour,No Tour,Elmore's Boogie,,0,Pan American Center,Las Cruces,NM,USA,>
 1992-08-20,1992,0,3,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Stash,,1,Pan American Center,Las Cruces,NM,USA,","
-1992-08-20,1992,0,3,2,1,0,0,0,Not Part of a Tour,No Tour,Super Boogie/Hong Kong Blues,,0,Pan American Center,Las Cruces,NM,USA,>
 1992-08-20,1992,0,4,3,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,The Squirming Coil,Coil,1,Pan American Center,Las Cruces,NM,USA,->
-1992-08-20,1992,0,4,2,1,0,0,0,Not Part of a Tour,No Tour,Jamming,,0,Pan American Center,Las Cruces,NM,USA,>
 1992-08-20,1992,0,5,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,David Bowie,Bowie,1,Pan American Center,Las Cruces,NM,USA,","
-1992-08-20,1992,0,5,6,1,0,0,0,Not Part of a Tour,No Tour,Blues for Salvador,,0,Pan American Center,Las Cruces,NM,USA,
 1992-08-20,1992,0,6,6,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Sweet Adeline,,0,Pan American Center,Las Cruces,NM,USA,
 1992-08-23,1992,0,1,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Chalk Dust Torture,CDT,1,"Colorado State Fair, Pueblo State Fairgrounds",Pueblo,CO,USA,","
-1992-08-23,1992,0,1,2,1,0,0,1,Not Part of a Tour,No Tour,Jam,,0,"Colorado State Fair, Pueblo State Fairgrounds",Pueblo,CO,USA,>
 1992-08-23,1992,0,2,1,1,0,0,1,1992 Summer U.S. Tour,1992 Summer,Stash,,1,"Colorado State Fair, Pueblo State Fairgrounds",Pueblo,CO,USA,","
-1992-08-23,1992,0,2,6,1,0,0,0,Not Part of a Tour,No Tour,Super Boogie/Hong Kong Blues,,0,"Colorado State Fair, Pueblo State Fairgrounds",Pueblo,CO,USA,
 1992-08-23,1992,0,3,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Sparkle,,1,"Colorado State Fair, Pueblo State Fairgrounds",Pueblo,CO,USA,","
 1992-08-23,1992,0,4,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Maze,,1,"Colorado State Fair, Pueblo State Fairgrounds",Pueblo,CO,USA,","
 1992-08-23,1992,0,5,1,1,0,0,1,1992 Summer U.S. Tour,1992 Summer,Foam,,1,"Colorado State Fair, Pueblo State Fairgrounds",Pueblo,CO,USA,","
@@ -1850,45 +1777,30 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1992-08-23,1992,0,7,2,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Cavern,,1,"Colorado State Fair, Pueblo State Fairgrounds",Pueblo,CO,USA,>
 1992-08-23,1992,0,8,6,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Llama,,1,"Colorado State Fair, Pueblo State Fairgrounds",Pueblo,CO,USA,
 1992-08-24,1992,0,1,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Buried Alive,,1,Gerald Ford Amphitheater,Vail,CO,USA,","
-1992-08-24,1992,0,1,2,1,0,0,1,Not Part of a Tour,No Tour,Jam,,0,Gerald Ford Amphitheater,Vail,CO,USA,>
 1992-08-24,1992,0,2,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Poor Heart,,1,Gerald Ford Amphitheater,Vail,CO,USA,","
-1992-08-24,1992,0,2,6,1,0,0,0,Not Part of a Tour,No Tour,Spoonful,,0,Gerald Ford Amphitheater,Vail,CO,USA,
 1992-08-24,1992,0,3,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,All Things Reconsidered,ATR,1,Gerald Ford Amphitheater,Vail,CO,USA,","
 1992-08-24,1992,0,4,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Tweezer,,1,Gerald Ford Amphitheater,Vail,CO,USA,","
 1992-08-24,1992,0,5,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,The Landlady,Landlady,1,Gerald Ford Amphitheater,Vail,CO,USA,","
 1992-08-24,1992,0,6,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Reba,,1,Gerald Ford Amphitheater,Vail,CO,USA,","
 1992-08-24,1992,0,7,6,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,You Enjoy Myself,YEM,1,Gerald Ford Amphitheater,Vail,CO,USA,
 1992-08-25,1992,0,1,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Runaway Jim,,1,The Downs,Santa Fe,NM,USA,","
-1992-08-25,1992,0,1,2,1,0,0,1,Not Part of a Tour,No Tour,Jam,,0,The Downs,Santa Fe,NM,USA,>
 1992-08-25,1992,0,2,2,1,0,0,5,1992 Summer U.S. Tour,1992 Summer,It's Ice,,1,The Downs,Santa Fe,NM,USA,>
-1992-08-25,1992,0,2,2,1,0,0,0,Not Part of a Tour,No Tour,Super Boogie/Hong Kong Blues,,0,The Downs,Santa Fe,NM,USA,>
 1992-08-25,1992,0,3,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Sparkle,,1,The Downs,Santa Fe,NM,USA,","
-1992-08-25,1992,0,3,2,1,0,0,0,Not Part of a Tour,No Tour,Spoonful,,0,The Downs,Santa Fe,NM,USA,>
 1992-08-25,1992,0,4,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Stash,,1,The Downs,Santa Fe,NM,USA,","
-1992-08-25,1992,0,4,6,1,0,0,0,Not Part of a Tour,No Tour,Super Boogie/Hong Kong Blues,,0,The Downs,Santa Fe,NM,USA,
 1992-08-25,1992,0,5,2,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,The Squirming Coil,Coil,1,The Downs,Santa Fe,NM,USA,>
 1992-08-25,1992,0,6,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Llama,,1,The Downs,Santa Fe,NM,USA,","
 1992-08-25,1992,0,7,6,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Sweet Adeline,,0,The Downs,Santa Fe,NM,USA,
 1992-08-27,1992,0,1,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Chalk Dust Torture,CDT,1,Santa Barbara Bowl,Santa Barbara,CA,USA,","
-1992-08-27,1992,0,1,2,1,0,0,1,Not Part of a Tour,No Tour,Jam,,0,Santa Barbara Bowl,Santa Barbara,CA,USA,>
 1992-08-27,1992,0,2,1,1,0,0,6,1992 Summer U.S. Tour,1992 Summer,Bouncing Around the Room,Bouncin',1,Santa Barbara Bowl,Santa Barbara,CA,USA,","
-1992-08-27,1992,0,2,2,1,0,0,0,Not Part of a Tour,No Tour,Exodus,,0,Santa Barbara Bowl,Santa Barbara,CA,USA,>
 1992-08-27,1992,0,3,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,The Landlady,Landlady,1,Santa Barbara Bowl,Santa Barbara,CA,USA,","
-1992-08-27,1992,0,3,2,1,0,0,3,Not Part of a Tour,No Tour,Elmore's Boogie,,0,Santa Barbara Bowl,Santa Barbara,CA,USA,>
 1992-08-27,1992,0,4,1,1,0,0,6,1992 Summer U.S. Tour,1992 Summer,Horn,,1,Santa Barbara Bowl,Santa Barbara,CA,USA,","
-1992-08-27,1992,0,4,2,1,0,0,0,Not Part of a Tour,No Tour,New Spirit Jam,,0,Santa Barbara Bowl,Santa Barbara,CA,USA,>
 1992-08-27,1992,0,5,1,1,0,0,1,1992 Summer U.S. Tour,1992 Summer,Sparkle,,1,Santa Barbara Bowl,Santa Barbara,CA,USA,","
-1992-08-27,1992,0,5,6,1,0,0,0,Not Part of a Tour,No Tour,Spirits Dancing in the Flesh,,0,Santa Barbara Bowl,Santa Barbara,CA,USA,
 1992-08-27,1992,0,6,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,You Enjoy Myself,YEM,1,Santa Barbara Bowl,Santa Barbara,CA,USA,","
 1992-08-27,1992,0,7,6,1,0,0,1,1992 Summer U.S. Tour,1992 Summer,Llama,,1,Santa Barbara Bowl,Santa Barbara,CA,USA,
 1992-08-28,1992,0,1,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Poor Heart,,1,Concord Pavilion,Concord,CA,USA,","
-1992-08-28,1992,0,1,2,1,0,0,1,Not Part of a Tour,No Tour,Jam,,0,Concord Pavilion,Concord,CA,USA,>
 1992-08-28,1992,0,2,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Foam,,1,Concord Pavilion,Concord,CA,USA,","
-1992-08-28,1992,0,2,2,1,0,0,0,Not Part of a Tour,No Tour,Super Boogie/Hong Kong Blues,,0,Concord Pavilion,Concord,CA,USA,>
 1992-08-28,1992,0,3,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Stash,,1,Concord Pavilion,Concord,CA,USA,","
-1992-08-28,1992,0,3,2,1,0,0,0,Not Part of a Tour,No Tour,Aqua Marine,,0,Concord Pavilion,Concord,CA,USA,>
 1992-08-28,1992,0,4,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Sweet Adeline,,0,Concord Pavilion,Concord,CA,USA,","
-1992-08-28,1992,0,4,6,1,0,0,0,Not Part of a Tour,No Tour,Spirits Dancing in the Flesh,,0,Concord Pavilion,Concord,CA,USA,
 1992-08-28,1992,0,5,2,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,The Squirming Coil,Coil,1,Concord Pavilion,Concord,CA,USA,>
 1992-08-28,1992,0,6,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Runaway Jim,,1,Concord Pavilion,Concord,CA,USA,","
 1992-08-28,1992,0,7,6,1,0,0,11,1992 Summer U.S. Tour,1992 Summer,Rocky Top,,0,Concord Pavilion,Concord,CA,USA,

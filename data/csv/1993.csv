@@ -56,72 +56,39 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1993-02-04,1993,0,27,1,e,0,0,1,1993 Winter/Spring Tour,1993 Winter,Amazing Grace,,0,Providence Performing Arts Center,Providence,RI,USA,","
 1993-02-04,1993,0,28,6,e,0,0,2,1993 Winter/Spring Tour,1993 Winter,Good Times Bad Times,GTBT,0,Providence Performing Arts Center,Providence,RI,USA,
 1993-02-05,1993,0,1,1,1,2,0,2,1993 Winter/Spring Tour,1993 Winter,Llama,,1,Roseland Ballroom,New York,NY,USA,","
-1993-02-05,1993,0,1,2,1,0,0,0,Not Part of a Tour,No Tour,Back at the Chicken Shack,,1,The Ritz,New York,NY,USA,>
 1993-02-05,1993,0,2,1,1,2,0,2,1993 Winter/Spring Tour,1993 Winter,Guelah Papyrus,Guelah,1,Roseland Ballroom,New York,NY,USA,","
-1993-02-05,1993,0,2,1,1,0,0,0,Not Part of a Tour,No Tour,Born Under a Bad Sign,,1,The Ritz,New York,NY,USA,","
 1993-02-05,1993,0,3,1,1,2,0,2,1993 Winter/Spring Tour,1993 Winter,Rift,,1,Roseland Ballroom,New York,NY,USA,","
-1993-02-05,1993,0,3,1,1,0,0,0,Not Part of a Tour,No Tour,Let It Rock,,1,The Ritz,New York,NY,USA,","
 1993-02-05,1993,0,4,1,1,2,0,4,1993 Winter/Spring Tour,1993 Winter,Split Open and Melt,SOAMelt,1,Roseland Ballroom,New York,NY,USA,","
-1993-02-05,1993,0,4,1,1,0,0,0,Not Part of a Tour,No Tour,Improv Blues in 'G',,1,The Ritz,New York,NY,USA,","
 1993-02-05,1993,0,5,1,1,2,0,2,1993 Winter/Spring Tour,1993 Winter,Sparkle,,1,Roseland Ballroom,New York,NY,USA,","
-1993-02-05,1993,0,5,1,1,0,0,0,Not Part of a Tour,No Tour,She Caught the Katy and Left Me a Mule to Ride,,1,The Ritz,New York,NY,USA,","
 1993-02-05,1993,0,6,1,1,2,0,417,1993 Winter/Spring Tour,1993 Winter,Punch You in the Eye,PYITE,1,Roseland Ballroom,New York,NY,USA,","
-1993-02-05,1993,0,6,1,1,0,0,0,Not Part of a Tour,No Tour,Down the Road,,1,The Ritz,New York,NY,USA,","
 1993-02-05,1993,0,7,1,1,2,0,2,1993 Winter/Spring Tour,1993 Winter,I Didn't Know,IDK,1,Roseland Ballroom,New York,NY,USA,","
-1993-02-05,1993,0,7,1,1,0,0,0,Not Part of a Tour,No Tour,A Mess of Blues,,1,The Ritz,New York,NY,USA,","
 1993-02-05,1993,0,8,2,1,2,0,2,1993 Winter/Spring Tour,1993 Winter,Poor Heart,,1,Roseland Ballroom,New York,NY,USA,>
-1993-02-05,1993,0,8,1,1,0,0,0,Not Part of a Tour,No Tour,Little Wing,,1,The Ritz,New York,NY,USA,","
 1993-02-05,1993,0,9,1,1,2,0,4,1993 Winter/Spring Tour,1993 Winter,Reba,,1,Roseland Ballroom,New York,NY,USA,","
-1993-02-05,1993,0,9,1,1,0,0,0,Not Part of a Tour,No Tour,Day Tripper,,1,The Ritz,New York,NY,USA,","
 1993-02-05,1993,0,10,3,1,2,0,2,1993 Winter/Spring Tour,1993 Winter,David Bowie,Bowie,1,Roseland Ballroom,New York,NY,USA,->
-1993-02-05,1993,0,10,1,1,0,0,0,Not Part of a Tour,No Tour,Escaping,,1,The Ritz,New York,NY,USA,","
 1993-02-05,1993,0,11,3,1,2,0,9,1993 Winter/Spring Tour,1993 Winter,The Vibration of Life,Vibration of Life,1,Roseland Ballroom,New York,NY,USA,->
-1993-02-05,1993,0,11,4,1,0,0,0,Not Part of a Tour,No Tour,Hey Joe,,1,The Ritz,New York,NY,USA,
-1993-02-05,1993,0,12,1,2,0,0,0,Not Part of a Tour,No Tour,Hip Hug-Her,,1,The Ritz,New York,NY,USA,","
 1993-02-05,1993,0,12,4,1,2,0,0,1993 Winter/Spring Tour,1993 Winter,David Bowie,Bowie,1,Roseland Ballroom,New York,NY,USA,
-1993-02-05,1993,0,13,1,2,0,0,0,Not Part of a Tour,No Tour,Rock Me Baby,,1,The Ritz,New York,NY,USA,","
 1993-02-05,1993,0,13,2,2,2,0,5,1993 Winter/Spring Tour,1993 Winter,The Curtain,Curtain,1,Roseland Ballroom,New York,NY,USA,>
-1993-02-05,1993,0,14,1,2,0,0,0,Not Part of a Tour,No Tour,In the Wee Wee Hours,,1,The Ritz,New York,NY,USA,","
 1993-02-05,1993,0,14,1,2,2,0,2,1993 Winter/Spring Tour,1993 Winter,Tweezer,,1,Roseland Ballroom,New York,NY,USA,","
-1993-02-05,1993,0,15,1,2,0,0,0,Not Part of a Tour,No Tour,Red House,,1,The Ritz,New York,NY,USA,","
 1993-02-05,1993,0,15,2,2,2,0,2,1993 Winter/Spring Tour,1993 Winter,The Horse,Horse,1,Roseland Ballroom,New York,NY,USA,>
-1993-02-05,1993,0,16,1,2,0,0,0,Not Part of a Tour,No Tour,Yonder Wall,,1,The Ritz,New York,NY,USA,","
 1993-02-05,1993,0,16,1,2,2,0,2,1993 Winter/Spring Tour,1993 Winter,Silent in the Morning,Silent,1,Roseland Ballroom,New York,NY,USA,","
-1993-02-05,1993,0,17,1,2,0,0,0,Not Part of a Tour,No Tour,She Belongs To Me,,1,The Ritz,New York,NY,USA,","
 1993-02-05,1993,0,17,1,2,2,0,4,1993 Winter/Spring Tour,1993 Winter,Paul and Silas,,0,Roseland Ballroom,New York,NY,USA,","
-1993-02-05,1993,0,18,1,2,0,0,0,Not Part of a Tour,No Tour,Not Fade Away,,1,The Ritz,New York,NY,USA,","
 1993-02-05,1993,0,18,1,2,2,0,2,1993 Winter/Spring Tour,1993 Winter,It's Ice,,1,Roseland Ballroom,New York,NY,USA,","
 1993-02-05,1993,0,19,1,2,2,0,2,1993 Winter/Spring Tour,1993 Winter,You Enjoy Myself,YEM,1,Roseland Ballroom,New York,NY,USA,","
-1993-02-05,1993,0,19,1,2,0,0,0,Not Part of a Tour,No Tour,That's Heaven to Me,,1,The Ritz,New York,NY,USA,","
-1993-02-05,1993,0,20,1,2,0,0,0,Not Part of a Tour,No Tour,Just Before the Bullets Fly,,1,The Ritz,New York,NY,USA,","
 1993-02-05,1993,0,20,2,2,2,0,1,1993 Winter/Spring Tour,1993 Winter,Hold Your Head Up,HYHU,0,Roseland Ballroom,New York,NY,USA,>
-1993-02-05,1993,0,21,1,2,0,0,0,Not Part of a Tour,No Tour,I've Been Loving You Too Long,,1,The Ritz,New York,NY,USA,","
 1993-02-05,1993,0,21,2,2,2,0,4,1993 Winter/Spring Tour,1993 Winter,Love You,,0,Roseland Ballroom,New York,NY,USA,>
-1993-02-05,1993,0,22,1,2,0,0,710,Not Part of a Tour,No Tour,Spanish Moon,,0,The Ritz,New York,NY,USA,","
 1993-02-05,1993,0,22,1,2,2,0,0,1993 Winter/Spring Tour,1993 Winter,Hold Your Head Up,HYHU,0,Roseland Ballroom,New York,NY,USA,","
 1993-02-05,1993,0,23,1,2,2,0,3,1993 Winter/Spring Tour,1993 Winter,The Squirming Coil,Coil,1,Roseland Ballroom,New York,NY,USA,","
-1993-02-05,1993,0,23,5,2,0,0,704,Not Part of a Tour,No Tour,All Along the Watchtower,,0,The Ritz,New York,NY,USA,
-1993-02-05,1993,0,24,6,e,0,0,291,Not Part of a Tour,No Tour,Gloria,,0,The Ritz,New York,NY,USA,
 1993-02-05,1993,0,24,5,2,2,0,2,1993 Winter/Spring Tour,1993 Winter,Tweezer Reprise,Tweeprise,1,Roseland Ballroom,New York,NY,USA,
 1993-02-05,1993,0,25,1,e,2,0,1,1993 Winter/Spring Tour,1993 Winter,Amazing Grace,,0,Roseland Ballroom,New York,NY,USA,","
 1993-02-05,1993,0,26,6,e,2,0,2,1993 Winter/Spring Tour,1993 Winter,Loving Cup,,0,Roseland Ballroom,New York,NY,USA,
 1993-02-06,1993,0,1,1,1,2,0,7,1993 Winter/Spring Tour,1993 Winter,Golgi Apparatus,Golgi,1,Roseland Ballroom,New York,NY,USA,","
-1993-02-06,1993,0,1,1,1,0,0,0,Not Part of a Tour,No Tour,Dimension Extension,,0,The Wetlands Preserve,New York,NY,USA,","
 1993-02-06,1993,0,2,1,1,2,0,2,1993 Winter/Spring Tour,1993 Winter,Foam,,1,Roseland Ballroom,New York,NY,USA,","
-1993-02-06,1993,0,2,1,1,0,0,0,Not Part of a Tour,No Tour,Zero,,1,The Wetlands Preserve,New York,NY,USA,","
 1993-02-06,1993,0,3,1,1,2,0,4,1993 Winter/Spring Tour,1993 Winter,Wilson,,1,Roseland Ballroom,New York,NY,USA,","
-1993-02-06,1993,0,3,1,1,0,0,0,Not Part of a Tour,No Tour,Give it Up,,1,The Wetlands Preserve,New York,NY,USA,","
 1993-02-06,1993,0,4,1,1,2,0,3,1993 Winter/Spring Tour,1993 Winter,"My Friend, My Friend",My Friend,1,Roseland Ballroom,New York,NY,USA,","
-1993-02-06,1993,0,4,1,1,0,0,0,Not Part of a Tour,No Tour,Tone Clone,,0,The Wetlands Preserve,New York,NY,USA,","
 1993-02-06,1993,0,5,1,1,2,0,2,1993 Winter/Spring Tour,1993 Winter,Maze,,1,Roseland Ballroom,New York,NY,USA,","
-1993-02-06,1993,0,5,1,1,0,0,0,Not Part of a Tour,No Tour,I Get High,,1,The Wetlands Preserve,New York,NY,USA,","
 1993-02-06,1993,0,6,1,1,2,0,13,1993 Winter/Spring Tour,1993 Winter,Horn,,1,Roseland Ballroom,New York,NY,USA,","
-1993-02-06,1993,0,6,1,1,0,0,0,Not Part of a Tour,No Tour,Big Chief,,1,The Wetlands Preserve,New York,NY,USA,","
 1993-02-06,1993,0,7,1,1,2,0,3,1993 Winter/Spring Tour,1993 Winter,Divided Sky,Divided,1,Roseland Ballroom,New York,NY,USA,","
-1993-02-06,1993,0,7,1,1,0,0,0,Not Part of a Tour,No Tour,Underground People,,1,The Wetlands Preserve,New York,NY,USA,","
 1993-02-06,1993,0,8,1,1,2,0,2,1993 Winter/Spring Tour,1993 Winter,Lawn Boy,,1,Roseland Ballroom,New York,NY,USA,","
-1993-02-06,1993,0,8,5,1,0,0,0,Not Part of a Tour,No Tour,Confessions of a Man,,1,The Wetlands Preserve,New York,NY,USA,
-1993-02-06,1993,0,9,6,e,0,0,0,Not Part of a Tour,No Tour,Fire,,1,The Wetlands Preserve,New York,NY,USA,
 1993-02-06,1993,0,9,1,1,2,0,2,1993 Winter/Spring Tour,1993 Winter,The Wedge,Wedge,1,Roseland Ballroom,New York,NY,USA,","
 1993-02-06,1993,0,10,2,1,2,0,2,1993 Winter/Spring Tour,1993 Winter,Bouncing Around the Room,Bouncin',1,Roseland Ballroom,New York,NY,USA,>
 1993-02-06,1993,0,11,4,1,2,0,2,1993 Winter/Spring Tour,1993 Winter,Run Like an Antelope,Antelope,1,Roseland Ballroom,New York,NY,USA,
@@ -1951,29 +1918,17 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1993-05-29,1993,0,13,5,1,0,0,1,Not Part of a Tour,No Tour,Amazing Grace,,0,Laguna Seca Raceway,Monterey,CA,USA,
 1993-05-29,1993,0,14,6,e,0,0,12,Not Part of a Tour,No Tour,Good Times Bad Times,GTBT,0,Laguna Seca Raceway,Monterey,CA,USA,
 1993-05-30,1993,0,1,2,1,0,0,9,Not Part of a Tour,No Tour,Lengthwise,,1,Laguna Seca Raceway,Monterey,CA,USA,>
-1993-05-30,1993,0,1,1,1,0,0,1,Not Part of a Tour,No Tour,Sweet Talking Hippie,,1,Laguna Seca Raceway,Monterey,CA,USA,","
 1993-05-30,1993,0,2,1,1,0,0,3,Not Part of a Tour,No Tour,Maze,,1,Laguna Seca Raceway,Monterey,CA,USA,","
-1993-05-30,1993,0,2,1,1,0,0,0,Not Part of a Tour,No Tour,Save His Soul,,1,Laguna Seca Raceway,Monterey,CA,USA,","
 1993-05-30,1993,0,3,1,1,0,0,2,Not Part of a Tour,No Tour,Guelah Papyrus,Guelah,1,Laguna Seca Raceway,Monterey,CA,USA,","
-1993-05-30,1993,0,3,1,1,0,0,0,Not Part of a Tour,No Tour,Defense and Desire,,1,Laguna Seca Raceway,Monterey,CA,USA,","
 1993-05-30,1993,0,4,2,1,0,0,3,Not Part of a Tour,No Tour,Poor Heart,,1,Laguna Seca Raceway,Monterey,CA,USA,>
-1993-05-30,1993,0,4,1,1,0,0,0,Not Part of a Tour,No Tour,Mulling It Over,,1,Laguna Seca Raceway,Monterey,CA,USA,","
 1993-05-30,1993,0,5,1,1,0,0,5,Not Part of a Tour,No Tour,Foam,,1,Laguna Seca Raceway,Monterey,CA,USA,","
-1993-05-30,1993,0,5,1,1,0,0,0,Not Part of a Tour,No Tour,Support Your Local Emperor,,1,Laguna Seca Raceway,Monterey,CA,USA,","
 1993-05-30,1993,0,6,2,1,0,0,2,Not Part of a Tour,No Tour,Silent in the Morning,Silent,1,Laguna Seca Raceway,Monterey,CA,USA,>
-1993-05-30,1993,0,6,1,1,0,0,0,Not Part of a Tour,No Tour,Whoops,,1,Laguna Seca Raceway,Monterey,CA,USA,","
 1993-05-30,1993,0,7,1,1,0,0,3,Not Part of a Tour,No Tour,Run Like an Antelope,Antelope,1,Laguna Seca Raceway,Monterey,CA,USA,","
-1993-05-30,1993,0,7,1,1,0,0,0,Not Part of a Tour,No Tour,Gina,,1,Laguna Seca Raceway,Monterey,CA,USA,","
 1993-05-30,1993,0,8,1,1,0,0,5,Not Part of a Tour,No Tour,Ya Mar,,0,Laguna Seca Raceway,Monterey,CA,USA,","
-1993-05-30,1993,0,8,2,1,0,0,0,Not Part of a Tour,No Tour,100 Years,,1,Laguna Seca Raceway,Monterey,CA,USA,>
 1993-05-30,1993,0,9,1,1,0,0,3,Not Part of a Tour,No Tour,I Didn't Know,IDK,1,Laguna Seca Raceway,Monterey,CA,USA,","
-1993-05-30,1993,0,9,1,1,0,0,0,Not Part of a Tour,No Tour,Sweet Pain,,1,Laguna Seca Raceway,Monterey,CA,USA,","
 1993-05-30,1993,0,10,1,1,0,0,3,Not Part of a Tour,No Tour,Split Open and Melt,SOAMelt,1,Laguna Seca Raceway,Monterey,CA,USA,","
-1993-05-30,1993,0,10,1,1,0,0,0,Not Part of a Tour,No Tour,Brother John,,1,Laguna Seca Raceway,Monterey,CA,USA,","
 1993-05-30,1993,0,11,1,1,0,0,4,Not Part of a Tour,No Tour,Contact,,1,Laguna Seca Raceway,Monterey,CA,USA,","
-1993-05-30,1993,0,11,5,1,0,0,0,Not Part of a Tour,No Tour,Mountain Cry,,0,Laguna Seca Raceway,Monterey,CA,USA,
 1993-05-30,1993,0,12,1,1,0,0,4,Not Part of a Tour,No Tour,Llama,,1,Laguna Seca Raceway,Monterey,CA,USA,","
-1993-05-30,1993,0,12,6,e,0,0,70,Not Part of a Tour,No Tour,Gloria,,0,Laguna Seca Raceway,Monterey,CA,USA,
 1993-05-30,1993,0,13,5,1,0,0,3,Not Part of a Tour,No Tour,Golgi Apparatus,Golgi,1,Laguna Seca Raceway,Monterey,CA,USA,
 1993-05-30,1993,0,14,6,e,0,0,4,Not Part of a Tour,No Tour,Possum,,1,Laguna Seca Raceway,Monterey,CA,USA,
 1993-07-15,1993,0,1,1,1,0,0,2,1993 Summer Tour,1993 Summer,Rift,,1,Cayuga County Fairgrounds,Weedsport,NY,USA,","
@@ -2708,13 +2663,9 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1993-08-26,1993,0,19,5,2,2,0,2,1993 Summer Tour,1993 Summer,Chalk Dust Torture,CDT,1,Arlene Schnitzer Concert Hall,Portland,OR,USA,
 1993-08-26,1993,0,20,6,e,2,0,4,1993 Summer Tour,1993 Summer,Free Bird,,0,Arlene Schnitzer Concert Hall,Portland,OR,USA,
 1993-08-28,1993,0,1,2,1,0,0,3,1993 Summer Tour,1993 Summer,Llama,,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
-1993-08-28,1993,0,1,1,1,2,0,0,Not Part of a Tour,No Tour,Call Me the Breeze,,0,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
 1993-08-28,1993,0,2,1,1,0,0,3,1993 Summer Tour,1993 Summer,Bouncing Around the Room,Bouncin',1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
-1993-08-28,1993,0,2,1,1,2,0,0,Not Part of a Tour,No Tour,Cocaine,,0,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
 1993-08-28,1993,0,3,1,1,0,0,2,1993 Summer Tour,1993 Summer,Foam,,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
-1993-08-28,1993,0,3,1,1,2,0,0,Not Part of a Tour,No Tour,Crazy Mama,,0,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
 1993-08-28,1993,0,4,1,1,0,0,2,1993 Summer Tour,1993 Summer,Ginseng Sullivan,Ginseng,0,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
-1993-08-28,1993,0,4,6,1,2,0,0,Not Part of a Tour,No Tour,After Midnight,,0,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,
 1993-08-28,1993,0,5,1,1,0,0,3,1993 Summer Tour,1993 Summer,Maze,,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
 1993-08-28,1993,0,6,2,1,0,0,6,1993 Summer Tour,1993 Summer,Fluffhead,,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
 1993-08-28,1993,0,7,1,1,0,0,2,1993 Summer Tour,1993 Summer,Stash,,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","

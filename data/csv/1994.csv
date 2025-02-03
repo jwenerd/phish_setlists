@@ -346,34 +346,19 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-04-21,1994,0,21,3,e,0,0,23,1994 Spring Tour,1994 Spring,Jam,,0,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,->
 1994-04-21,1994,0,22,6,e,0,0,840,1994 Spring Tour,1994 Spring,All Along the Watchtower,,0,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,
 1994-04-22,1994,0,1,1,1,0,0,6,1994 Spring Tour,1994 Spring,Llama,,1,Township Auditorium,Columbia,SC,USA,","
-1994-04-22,1994,0,1,1,1,0,0,1,Not Part of a Tour,No Tour,Plain or Peanut,,1,Rockafellas,Columbia,SC,USA,","
 1994-04-22,1994,0,2,1,1,0,0,15,1994 Spring Tour,1994 Spring,Horn,,1,Township Auditorium,Columbia,SC,USA,","
-1994-04-22,1994,0,2,1,1,0,0,0,Not Part of a Tour,No Tour,Two Truckloads,,1,Rockafellas,Columbia,SC,USA,","
 1994-04-22,1994,0,3,1,1,0,0,4,1994 Spring Tour,1994 Spring,Uncle Pen,,0,Township Auditorium,Columbia,SC,USA,","
-1994-04-22,1994,0,3,1,1,0,0,0,Not Part of a Tour,No Tour,No Egos Underwater,,1,Rockafellas,Columbia,SC,USA,","
 1994-04-22,1994,0,4,2,1,0,0,12,1994 Spring Tour,1994 Spring,Punch You in the Eye,PYITE,1,Township Auditorium,Columbia,SC,USA,>
-1994-04-22,1994,0,4,1,1,0,0,0,Not Part of a Tour,No Tour,Time Flack,,1,Rockafellas,Columbia,SC,USA,","
 1994-04-22,1994,0,5,2,1,0,0,2,1994 Spring Tour,1994 Spring,Sample in a Jar,Sample,1,Township Auditorium,Columbia,SC,USA,>
-1994-04-22,1994,0,5,1,1,0,0,0,Not Part of a Tour,No Tour,Salty Dog,,1,Rockafellas,Columbia,SC,USA,","
 1994-04-22,1994,0,6,1,1,0,0,11,1994 Spring Tour,1994 Spring,All Things Reconsidered,ATR,1,Township Auditorium,Columbia,SC,USA,","
-1994-04-22,1994,0,6,1,1,0,0,0,Not Part of a Tour,No Tour,Spoonful,,1,Rockafellas,Columbia,SC,USA,","
 1994-04-22,1994,0,7,2,1,0,0,5,1994 Spring Tour,1994 Spring,Nellie Kane,,0,Township Auditorium,Columbia,SC,USA,>
-1994-04-22,1994,0,7,1,1,0,0,0,Not Part of a Tour,No Tour,Time Is Free,,1,Rockafellas,Columbia,SC,USA,","
 1994-04-22,1994,0,8,1,1,0,0,4,1994 Spring Tour,1994 Spring,Divided Sky,Divided,1,Township Auditorium,Columbia,SC,USA,","
-1994-04-22,1994,0,8,1,1,0,0,0,Not Part of a Tour,No Tour,Fixin' to Die,,0,Rockafellas,Columbia,SC,USA,","
 1994-04-22,1994,0,9,2,1,0,0,7,1994 Spring Tour,1994 Spring,The Horse,Horse,1,Township Auditorium,Columbia,SC,USA,>
-1994-04-22,1994,0,9,1,1,0,0,0,Not Part of a Tour,No Tour,Lost My Mule in Texas,,1,Rockafellas,Columbia,SC,USA,","
 1994-04-22,1994,0,10,1,1,0,0,7,1994 Spring Tour,1994 Spring,Silent in the Morning,Silent,1,Township Auditorium,Columbia,SC,USA,","
-1994-04-22,1994,0,10,1,1,0,0,0,Not Part of a Tour,No Tour,Jack the Rabbit,,1,Rockafellas,Columbia,SC,USA,","
 1994-04-22,1994,0,11,4,1,0,0,4,1994 Spring Tour,1994 Spring,David Bowie,Bowie,1,Township Auditorium,Columbia,SC,USA,
-1994-04-22,1994,0,11,2,1,0,0,0,Not Part of a Tour,No Tour,Zambi,,1,Rockafellas,Columbia,SC,USA,>
 1994-04-22,1994,0,12,1,2,0,0,2,1994 Spring Tour,1994 Spring,Suzy Greenberg,Suzy,1,Township Auditorium,Columbia,SC,USA,","
-1994-04-22,1994,0,12,1,1,0,0,0,Not Part of a Tour,No Tour,Space is the Place,,1,Rockafellas,Columbia,SC,USA,","
 1994-04-22,1994,0,13,1,2,0,0,2,1994 Spring Tour,1994 Spring,Julius,,1,Township Auditorium,Columbia,SC,USA,","
-1994-04-22,1994,0,13,1,1,0,0,0,Not Part of a Tour,No Tour,Trondossa,,1,Rockafellas,Columbia,SC,USA,","
 1994-04-22,1994,0,14,1,2,0,0,4,1994 Spring Tour,1994 Spring,Reba,,1,Township Auditorium,Columbia,SC,USA,","
-1994-04-22,1994,0,14,5,1,0,0,0,Not Part of a Tour,No Tour,Yield Not To Tempation,,1,Rockafellas,Columbia,SC,USA,
-1994-04-22,1994,0,15,6,e,0,0,0,Not Part of a Tour,No Tour,Working on a Building,,1,Rockafellas,Columbia,SC,USA,
 1994-04-22,1994,0,15,2,2,0,0,5,1994 Spring Tour,1994 Spring,Tweezer,,1,Township Auditorium,Columbia,SC,USA,>
 1994-04-22,1994,0,16,2,2,0,0,13,1994 Spring Tour,1994 Spring,Lifeboy,,1,Township Auditorium,Columbia,SC,USA,>
 1994-04-22,1994,0,17,1,2,0,0,2,1994 Spring Tour,1994 Spring,Runaway Jim,,1,Township Auditorium,Columbia,SC,USA,","
@@ -384,7 +369,6 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-04-22,1994,0,22,3,e,0,0,42,1994 Spring Tour,1994 Spring,Piano Duet,,1,Township Auditorium,Columbia,SC,USA,->
 1994-04-22,1994,0,23,6,e,0,0,42,1994 Spring Tour,1994 Spring,"Bill Bailey, Won't You Please Come Home?",,0,Township Auditorium,Columbia,SC,USA,
 1994-04-23,1994,0,1,1,1,0,0,42,1994 Spring Tour,1994 Spring,Funky Bitch,,0,The Fox Theatre,Atlanta,GA,USA,","
-1994-04-23,1994,0,1,6,1,0,0,0,Not Part of a Tour,No Tour,Fever,,0,Variety Playhouse,Atlanta,GA,USA,
 1994-04-23,1994,0,2,1,1,0,0,3,1994 Spring Tour,1994 Spring,Rift,,1,The Fox Theatre,Atlanta,GA,USA,","
 1994-04-23,1994,0,3,1,1,0,0,3,1994 Spring Tour,1994 Spring,Fee,,1,The Fox Theatre,Atlanta,GA,USA,","
 1994-04-23,1994,0,4,1,1,0,0,12,1994 Spring Tour,1994 Spring,Peaches en Regalia,Peaches,0,The Fox Theatre,Atlanta,GA,USA,","
@@ -455,32 +439,18 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-04-26,1994,0,5,1,1,0,0,5,Not Part of a Tour,No Tour,Fluffhead,,1,Purple Dragon Recording Studios,Atlanta,GA,USA,","
 1994-04-26,1994,0,6,6,1,0,0,840,Not Part of a Tour,No Tour,Carefree,,0,Purple Dragon Recording Studios,Atlanta,GA,USA,
 1994-04-28,1994,0,1,1,1,0,0,2,1994 Spring Tour,1994 Spring,Runaway Jim,,1,SunFest,West Palm Beach,FL,USA,","
-1994-04-28,1994,0,1,1,1,0,0,1,Not Part of a Tour,No Tour,Alone,,1,SunFest,West Palm Beach,FL,USA,","
 1994-04-28,1994,0,2,1,1,0,0,2,1994 Spring Tour,1994 Spring,Foam,,1,SunFest,West Palm Beach,FL,USA,","
-1994-04-28,1994,0,2,1,1,0,0,0,Not Part of a Tour,No Tour,Optimistic Thought,,1,SunFest,West Palm Beach,FL,USA,","
 1994-04-28,1994,0,3,1,1,0,0,1,1994 Spring Tour,1994 Spring,Sample in a Jar,Sample,1,SunFest,West Palm Beach,FL,USA,","
-1994-04-28,1994,0,3,1,1,0,0,0,Not Part of a Tour,No Tour,Mulling It Over,,0,SunFest,West Palm Beach,FL,USA,","
 1994-04-28,1994,0,4,1,1,0,0,4,1994 Spring Tour,1994 Spring,Rift,,1,SunFest,West Palm Beach,FL,USA,","
-1994-04-28,1994,0,4,1,1,0,0,0,Not Part of a Tour,No Tour,Should I Stay or Should I Go?,,1,SunFest,West Palm Beach,FL,USA,","
 1994-04-28,1994,0,5,2,1,0,0,1,1994 Spring Tour,1994 Spring,Down with Disease,DwD,1,SunFest,West Palm Beach,FL,USA,>
-1994-04-28,1994,0,5,2,1,0,0,0,Not Part of a Tour,No Tour,Low Rider,,1,SunFest,West Palm Beach,FL,USA,>
 1994-04-28,1994,0,6,1,1,0,0,1,1994 Spring Tour,1994 Spring,Bouncing Around the Room,Bouncin',1,SunFest,West Palm Beach,FL,USA,","
-1994-04-28,1994,0,6,1,1,0,0,0,Not Part of a Tour,No Tour,Go Outside and Drive,,1,SunFest,West Palm Beach,FL,USA,","
 1994-04-28,1994,0,7,2,1,0,0,3,1994 Spring Tour,1994 Spring,It's Ice,,1,SunFest,West Palm Beach,FL,USA,>
-1994-04-28,1994,0,7,1,1,0,0,0,Not Part of a Tour,No Tour,What's For Breakfast,,1,SunFest,West Palm Beach,FL,USA,","
 1994-04-28,1994,0,8,1,1,0,0,2,1994 Spring Tour,1994 Spring,Run Like an Antelope,Antelope,1,SunFest,West Palm Beach,FL,USA,","
-1994-04-28,1994,0,8,1,1,0,0,0,Not Part of a Tour,No Tour,Sweet Pain,,1,SunFest,West Palm Beach,FL,USA,","
 1994-04-28,1994,0,9,1,1,0,0,2,1994 Spring Tour,1994 Spring,The Squirming Coil,Coil,1,SunFest,West Palm Beach,FL,USA,","
-1994-04-28,1994,0,9,2,1,0,0,0,Not Part of a Tour,No Tour,The Good the Bad and the Ugly,,1,SunFest,West Palm Beach,FL,USA,>
 1994-04-28,1994,0,10,2,1,0,0,3,1994 Spring Tour,1994 Spring,Julius,,1,SunFest,West Palm Beach,FL,USA,>
-1994-04-28,1994,0,10,1,1,0,0,0,Not Part of a Tour,No Tour,Gina,,1,SunFest,West Palm Beach,FL,USA,","
 1994-04-28,1994,0,11,1,1,0,0,4,1994 Spring Tour,1994 Spring,Sparkle,,1,SunFest,West Palm Beach,FL,USA,","
-1994-04-28,1994,0,11,1,1,0,0,0,Not Part of a Tour,No Tour,Love and Greed,,1,SunFest,West Palm Beach,FL,USA,","
 1994-04-28,1994,0,12,5,1,0,0,3,1994 Spring Tour,1994 Spring,Good Times Bad Times,GTBT,0,SunFest,West Palm Beach,FL,USA,
-1994-04-28,1994,0,12,1,1,0,0,0,Not Part of a Tour,No Tour,Crash Burn,,1,SunFest,West Palm Beach,FL,USA,","
 1994-04-28,1994,0,13,6,e,0,0,4,1994 Spring Tour,1994 Spring,Golgi Apparatus,Golgi,1,SunFest,West Palm Beach,FL,USA,
-1994-04-28,1994,0,13,5,1,0,0,0,Not Part of a Tour,No Tour,Sweet Talking Hippie,,1,SunFest,West Palm Beach,FL,USA,
-1994-04-28,1994,0,14,6,e,0,0,0,Not Part of a Tour,No Tour,But Anyway,,1,SunFest,West Palm Beach,FL,USA,
 1994-04-29,1994,0,1,1,1,0,0,22,1994 Spring Tour,1994 Spring,Halley's Comet,Halley's,1,Boatyard Village Pavilion,Clearwater,FL,USA,","
 1994-04-29,1994,0,2,2,1,0,0,5,1994 Spring Tour,1994 Spring,You Enjoy Myself,YEM,1,Boatyard Village Pavilion,Clearwater,FL,USA,>
 1994-04-29,1994,0,3,2,1,0,0,15,1994 Spring Tour,1994 Spring,Fast Enough for You,FEFY,1,Boatyard Village Pavilion,Clearwater,FL,USA,>
@@ -1164,16 +1134,12 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-06-17,1994,0,26,6,e,0,0,5,1994 Summer Tour,1994 Summer,Rocky Top,,0,Eagles Ballroom,Milwaukee,WI,USA,
 1994-06-18,1994,0,1,2,1,0,0,5,1994 Summer Tour,1994 Summer,Wilson,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 1994-06-18,1994,1,1,1,1,0,0,0,Not Part of a Tour,No Tour,Sweet Adeline,,0,The Loop 97.9 Studios,Chicago,IL,USA,","
-1994-06-18,1994,0,1,1,1,0,0,0,Not Part of a Tour,No Tour,Impressions,,0,Private Home,Chicago,IL,USA,","
 1994-06-18,1994,0,1,2,1,0,0,5,1994 Summer Tour,1994 Summer,Wilson,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 1994-06-18,1994,1,1,1,1,0,0,0,Not Part of a Tour,No Tour,Sweet Adeline,,0,The Loop 97.9 Studios,Chicago,IL,USA,","
-1994-06-18,1994,0,1,1,1,0,0,0,Not Part of a Tour,No Tour,Impressions,,0,Private Home,Chicago,IL,USA,","
 1994-06-18,1994,0,2,1,1,0,0,2,1994 Summer Tour,1994 Summer,Rift,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
 1994-06-18,1994,1,2,6,1,0,0,0,Not Part of a Tour,No Tour,Dog Faced Boy,,1,The Loop 97.9 Studios,Chicago,IL,USA,
-1994-06-18,1994,0,2,6,1,0,0,0,Not Part of a Tour,No Tour,Whipping Post,,0,Private Home,Chicago,IL,USA,
 1994-06-18,1994,0,2,1,1,0,0,2,1994 Summer Tour,1994 Summer,Rift,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
 1994-06-18,1994,1,2,6,1,0,0,0,Not Part of a Tour,No Tour,Dog Faced Boy,,1,The Loop 97.9 Studios,Chicago,IL,USA,
-1994-06-18,1994,0,2,6,1,0,0,0,Not Part of a Tour,No Tour,Whipping Post,,0,Private Home,Chicago,IL,USA,
 1994-06-18,1994,0,3,2,1,0,0,16,1994 Summer Tour,1994 Summer,AC/DC Bag,Bag,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 1994-06-18,1994,0,3,2,1,0,0,16,1994 Summer Tour,1994 Summer,AC/DC Bag,Bag,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 1994-06-18,1994,0,4,1,1,0,0,2,1994 Summer Tour,1994 Summer,Maze,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
