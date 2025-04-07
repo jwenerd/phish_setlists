@@ -13,7 +13,7 @@ numpy = "*"
 pandas = "*"
 lxml = "*"
 pysh-client = "^0.1.1"
-ipython = "^9.0.2"
+ipython = "^9.1.0"
 
 
 [build-system]
