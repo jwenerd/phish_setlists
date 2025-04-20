@@ -153,7 +153,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2024-07-19,2024,0,6,1,1,0,0,14,2024 Summer Tour,2024 Summer,NICU,,1,Xfinity Center,Mansfield,MA,USA,","
 2024-07-19,2024,0,7,1,1,0,0,2,2024 Summer Tour,2024 Summer,Stash,,1,Xfinity Center,Mansfield,MA,USA,","
 2024-07-19,2024,0,8,4,1,0,0,2,2024 Summer Tour,2024 Summer,46 Days,,1,Xfinity Center,Mansfield,MA,USA,
-2024-07-19,2024,0,9,2,2,0,0,17,2024 Summer Tour,2024 Summer,Suzy Greenberg,Suzy,1,Xfinity Center,Mansfield,MA,USA,>
+2024-07-19,2024,0,9,2,2,0,0,18,2024 Summer Tour,2024 Summer,Suzy Greenberg,Suzy,1,Xfinity Center,Mansfield,MA,USA,>
 2024-07-19,2024,0,10,2,2,0,0,4,2024 Summer Tour,2024 Summer,Run Like an Antelope,Antelope,1,Xfinity Center,Mansfield,MA,USA,>
 2024-07-19,2024,0,11,2,2,0,0,1,2024 Summer Tour,2024 Summer,Ghost,,1,Xfinity Center,Mansfield,MA,USA,>
 2024-07-19,2024,0,12,2,2,0,0,1,2024 Summer Tour,2024 Summer,Light,,0,Xfinity Center,Mansfield,MA,USA,>
@@ -220,7 +220,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2024-07-24,2024,0,3,1,1,0,0,6,2024 Summer Tour,2024 Summer,Steam,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
 2024-07-24,2024,0,4,1,1,0,0,8,2024 Summer Tour,2024 Summer,Maze,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
 2024-07-24,2024,0,5,1,1,0,0,8,2024 Summer Tour,2024 Summer,Farmhouse,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
-2024-07-24,2024,0,6,1,1,0,0,9,2024 Summer Tour,2024 Summer,Mull,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
+2024-07-24,2024,0,6,1,1,0,0,10,2024 Summer Tour,2024 Summer,Mull,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
 2024-07-24,2024,0,7,1,1,0,0,13,2024 Summer Tour,2024 Summer,Reba,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
 2024-07-24,2024,0,8,4,1,0,0,18,2024 Summer Tour,2024 Summer,Most Events Aren't Planned,,0,Mohegan Sun Arena,Uncasville,CT,USA,
 2024-07-24,2024,0,9,2,2,0,0,8,2024 Summer Tour,2024 Summer,Blaze On,,1,Mohegan Sun Arena,Uncasville,CT,USA,>
@@ -652,7 +652,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2024-10-25,2024,0,9,4,1,0,0,3,Not Part of a Tour,No Tour,Sand,,0,MVP Arena,Albany,NY,USA,
 2024-10-25,2024,0,10,3,2,0,0,4,Not Part of a Tour,No Tour,Blaze On,,1,MVP Arena,Albany,NY,USA,->
 2024-10-25,2024,0,11,3,2,0,0,11,Not Part of a Tour,No Tour,Piper,,1,MVP Arena,Albany,NY,USA,->
-2024-10-25,2024,0,12,3,2,0,0,0,Not Part of a Tour,No Tour,Light,,0,MVP Arena,Albany,NY,USA,->
+2024-10-25,2024,0,12,3,2,0,0,1,Not Part of a Tour,No Tour,Light,,0,MVP Arena,Albany,NY,USA,->
 2024-10-25,2024,0,13,3,2,0,0,1,Not Part of a Tour,No Tour,Tweezer,,1,MVP Arena,Albany,NY,USA,->
 2024-10-25,2024,0,14,1,2,0,0,10,Not Part of a Tour,No Tour,The Wedge,Wedge,1,MVP Arena,Albany,NY,USA,","
 2024-10-25,2024,0,15,1,2,0,0,0,Not Part of a Tour,No Tour,The Howling,,1,MVP Arena,Albany,NY,USA,","
@@ -700,11 +700,11 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2024-10-27,2024,0,17,2,e,0,0,4,Not Part of a Tour,No Tour,Bug,,0,MVP Arena,Albany,NY,USA,>
 2024-10-27,2024,0,18,6,e,0,0,3,Not Part of a Tour,No Tour,Character Zero,,1,MVP Arena,Albany,NY,USA,
 2024-12-28,2024,0,1,1,1,0,0,7,2024 NYE Run,2024 NYE,Simple,,1,Madison Square Garden,New York,NY,USA,","
-2024-12-28,2024,0,2,1,1,0,0,2,2024 NYE Run,2024 NYE,Free,,1,Madison Square Garden,New York,NY,USA,","
+2024-12-28,2024,0,2,1,1,0,0,3,2024 NYE Run,2024 NYE,Free,,1,Madison Square Garden,New York,NY,USA,","
 2024-12-28,2024,0,3,1,1,0,0,25,2024 NYE Run,2024 NYE,Farmhouse,,1,Madison Square Garden,New York,NY,USA,","
 2024-12-28,2024,0,4,1,1,0,0,68,2024 NYE Run,2024 NYE,Poor Heart,,1,Madison Square Garden,New York,NY,USA,","
 2024-12-28,2024,0,5,1,1,0,0,2,2024 NYE Run,2024 NYE,Tube,,1,Madison Square Garden,New York,NY,USA,","
-2024-12-28,2024,0,6,1,1,0,0,0,2024 NYE Run,2024 NYE,Kill Devil Falls,KDF,1,Madison Square Garden,New York,NY,USA,","
+2024-12-28,2024,0,6,1,1,0,0,1,2024 NYE Run,2024 NYE,Kill Devil Falls,KDF,1,Madison Square Garden,New York,NY,USA,","
 2024-12-28,2024,0,7,1,1,0,0,14,2024 NYE Run,2024 NYE,Driver,,1,Madison Square Garden,New York,NY,USA,","
 2024-12-28,2024,0,8,1,1,0,0,10,2024 NYE Run,2024 NYE,Reba,,1,Madison Square Garden,New York,NY,USA,","
 2024-12-28,2024,0,9,2,1,0,0,5,2024 NYE Run,2024 NYE,Oblivion,,0,Madison Square Garden,New York,NY,USA,>
@@ -730,7 +730,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2024-12-29,2024,0,6,1,1,0,0,3,2024 NYE Run,2024 NYE,Monsters,,0,Madison Square Garden,New York,NY,USA,","
 2024-12-29,2024,0,7,1,1,0,0,4,2024 NYE Run,2024 NYE,Runaway Jim,,1,Madison Square Garden,New York,NY,USA,","
 2024-12-29,2024,0,8,3,1,0,0,6,2024 NYE Run,2024 NYE,You Enjoy Myself,YEM,1,Madison Square Garden,New York,NY,USA,->
-2024-12-29,2024,0,9,4,1,0,0,3,2024 NYE Run,2024 NYE,Ghost,,1,Madison Square Garden,New York,NY,USA,
+2024-12-29,2024,0,9,4,1,0,0,4,2024 NYE Run,2024 NYE,Ghost,,1,Madison Square Garden,New York,NY,USA,
 2024-12-29,2024,0,10,2,2,0,0,3,2024 NYE Run,2024 NYE,Bathtub Gin,Gin,1,Madison Square Garden,New York,NY,USA,>
 2024-12-29,2024,0,11,1,2,0,0,2,2024 NYE Run,2024 NYE,Ruby Waves,,0,Madison Square Garden,New York,NY,USA,","
 2024-12-29,2024,0,12,2,2,0,0,1,2024 NYE Run,2024 NYE,Waste,,1,Madison Square Garden,New York,NY,USA,>
@@ -741,7 +741,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2024-12-30,2024,0,2,1,1,0,0,5,2024 NYE Run,2024 NYE,Wolfman's Brother,Wolfman's,1,Madison Square Garden,New York,NY,USA,","
 2024-12-30,2024,0,3,3,1,0,0,193,2024 NYE Run,2024 NYE,Lengthwise,,1,Madison Square Garden,New York,NY,USA,->
 2024-12-30,2024,0,4,1,1,0,0,7,2024 NYE Run,2024 NYE,Maze,,1,Madison Square Garden,New York,NY,USA,","
-2024-12-30,2024,0,5,1,1,0,0,4,2024 NYE Run,2024 NYE,Theme From the Bottom,Theme,1,Madison Square Garden,New York,NY,USA,","
+2024-12-30,2024,0,5,1,1,0,0,5,2024 NYE Run,2024 NYE,Theme From the Bottom,Theme,1,Madison Square Garden,New York,NY,USA,","
 2024-12-30,2024,0,6,1,1,0,0,4,2024 NYE Run,2024 NYE,More,,1,Madison Square Garden,New York,NY,USA,","
 2024-12-30,2024,0,7,1,1,0,0,11,2024 NYE Run,2024 NYE,Divided Sky,Divided,1,Madison Square Garden,New York,NY,USA,","
 2024-12-30,2024,0,8,1,1,0,0,4,2024 NYE Run,2024 NYE,No Men In No Man's Land,NMINML,1,Madison Square Garden,New York,NY,USA,","
@@ -761,7 +761,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2024-12-31,2024,0,2,2,1,0,0,4,2024 NYE Run,2024 NYE,Bouncing Around the Room,Bouncin',1,Madison Square Garden,New York,NY,USA,>
 2024-12-31,2024,0,3,1,1,0,0,11,2024 NYE Run,2024 NYE,Weekapaug Groove,Weekapaug,1,Madison Square Garden,New York,NY,USA,","
 2024-12-31,2024,0,4,1,1,0,0,5,2024 NYE Run,2024 NYE,Stash,,1,Madison Square Garden,New York,NY,USA,","
-2024-12-31,2024,0,5,1,1,0,0,8,2024 NYE Run,2024 NYE,Evolve,,0,Madison Square Garden,New York,NY,USA,","
+2024-12-31,2024,0,5,1,1,0,0,9,2024 NYE Run,2024 NYE,Evolve,,0,Madison Square Garden,New York,NY,USA,","
 2024-12-31,2024,0,6,1,1,0,0,9,2024 NYE Run,2024 NYE,Llama,,1,Madison Square Garden,New York,NY,USA,","
 2024-12-31,2024,0,7,1,1,0,0,7,2024 NYE Run,2024 NYE,Split Open and Melt,SOAMelt,1,Madison Square Garden,New York,NY,USA,","
 2024-12-31,2024,0,8,2,1,0,0,5,2024 NYE Run,2024 NYE,Backwards Down the Number Line,BDTNL,0,Madison Square Garden,New York,NY,USA,>
@@ -769,7 +769,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2024-12-31,2024,0,10,4,1,0,0,22,2024 NYE Run,2024 NYE,The Squirming Coil,Coil,1,Madison Square Garden,New York,NY,USA,
 2024-12-31,2024,0,11,2,2,0,0,5,2024 NYE Run,2024 NYE,Sigma Oasis,,0,Madison Square Garden,New York,NY,USA,>
 2024-12-31,2024,0,12,2,2,0,0,4,2024 NYE Run,2024 NYE,"My Friend, My Friend",My Friend,1,Madison Square Garden,New York,NY,USA,>
-2024-12-31,2024,0,13,1,2,0,0,5,2024 NYE Run,2024 NYE,Sand,,0,Madison Square Garden,New York,NY,USA,","
+2024-12-31,2024,0,13,1,2,0,0,6,2024 NYE Run,2024 NYE,Sand,,0,Madison Square Garden,New York,NY,USA,","
 2024-12-31,2024,0,14,2,2,0,0,5,2024 NYE Run,2024 NYE,Golden Age,,0,Madison Square Garden,New York,NY,USA,>
 2024-12-31,2024,0,15,2,2,0,0,4,2024 NYE Run,2024 NYE,What's the Use?,WTU?,1,Madison Square Garden,New York,NY,USA,>
 2024-12-31,2024,0,16,1,2,0,0,16,2024 NYE Run,2024 NYE,Taste,,1,Madison Square Garden,New York,NY,USA,","

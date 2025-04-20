@@ -13,7 +13,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-01-29,2025,0,8,4,1,0,0,3,2025 Mexico,2025 Mexico,Run Like an Antelope,Antelope,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
 2025-01-29,2025,0,9,2,2,0,0,7,2025 Mexico,2025 Mexico,Set Your Soul Free,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2025-01-29,2025,0,10,2,2,0,0,10,2025 Mexico,2025 Mexico,Cities,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2025-01-29,2025,0,11,2,2,0,0,6,2025 Mexico,2025 Mexico,Light,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2025-01-29,2025,0,11,2,2,0,0,7,2025 Mexico,2025 Mexico,Light,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2025-01-29,2025,0,12,2,2,0,0,0,2025 Mexico,2025 Mexico,Mike's Song,Mike's,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2025-01-29,2025,0,13,2,2,0,0,12,2025 Mexico,2025 Mexico,I Am Hydrogen,Hydrogen,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2025-01-29,2025,0,14,1,2,0,0,0,2025 Mexico,2025 Mexico,Weekapaug Groove,Weekapaug,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
@@ -90,4 +90,13 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-04-18,2025,0,13,5,2,0,0,4,2025 Spring Tour,2025 Spring,Ghost,,1,Climate Pledge Arena,Seattle,WA,USA,
 2025-04-18,2025,0,14,2,e,0,0,9,2025 Spring Tour,2025 Spring,Bug,,0,Climate Pledge Arena,Seattle,WA,USA,>
 2025-04-18,2025,0,15,6,e,0,0,2,2025 Spring Tour,2025 Spring,Possum,,1,Climate Pledge Arena,Seattle,WA,USA,
-2025-04-19,2025,0,1,1,1,2,2,5,2025 Spring Tour,2025 Spring,Free,,1,Climate Pledge Arena,Seattle,WA,USA,","
+2025-04-19,2025,0,1,1,1,0,0,5,2025 Spring Tour,2025 Spring,Free,,1,Climate Pledge Arena,Seattle,WA,USA,","
+2025-04-19,2025,0,2,1,1,0,0,2,2025 Spring Tour,2025 Spring,Bathtub Gin,Gin,1,Climate Pledge Arena,Seattle,WA,USA,","
+2025-04-19,2025,0,3,1,1,0,0,5,2025 Spring Tour,2025 Spring,Evolve,,0,Climate Pledge Arena,Seattle,WA,USA,","
+2025-04-19,2025,0,4,1,1,0,0,2,2025 Spring Tour,2025 Spring,Stash,,1,Climate Pledge Arena,Seattle,WA,USA,","
+2025-04-19,2025,0,5,1,1,0,0,29,2025 Spring Tour,2025 Spring,Pebbles and Marbles,,0,Climate Pledge Arena,Seattle,WA,USA,","
+2025-04-19,2025,0,6,1,1,0,0,2,2025 Spring Tour,2025 Spring,Farmhouse,,1,Climate Pledge Arena,Seattle,WA,USA,","
+2025-04-19,2025,0,7,2,1,0,0,38,2025 Spring Tour,2025 Spring,Suzy Greenberg,Suzy,1,Climate Pledge Arena,Seattle,WA,USA,>
+2025-04-19,2025,0,8,4,1,0,0,10,2025 Spring Tour,2025 Spring,Walls of the Cave,WotC,1,Climate Pledge Arena,Seattle,WA,USA,
+2025-04-19,2025,0,9,2,2,0,0,3,2025 Spring Tour,2025 Spring,Chalk Dust Torture,CDT,1,Climate Pledge Arena,Seattle,WA,USA,>
+2025-04-19,2025,0,10,1,2,2,2,5,2025 Spring Tour,2025 Spring,Light,,0,Climate Pledge Arena,Seattle,WA,USA,","
