@@ -2637,7 +2637,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1991-11-15,1991,0,30,6,e,0,0,4,1991 Fall Tour,1991 Fall,Suzy Greenberg,Suzy,1,Trax,Charlottesville,VA,USA,
 1991-11-16,1991,0,1,1,1,0,0,0,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,The Bayou,Washington,DC,USA,","
 1991-11-16,1991,0,2,1,1,0,0,1,1991 Fall Tour,1991 Fall,Uncle Pen,,0,The Bayou,Washington,DC,USA,","
-1991-11-16,1991,0,3,2,1,0,0,1,1991 Fall Tour,1991 Fall,Wilson,,1,The Bayou,Washington,DC,USA,>
+1991-11-16,1991,0,3,2,1,0,0,2,1991 Fall Tour,1991 Fall,Wilson,,1,The Bayou,Washington,DC,USA,>
 1991-11-16,1991,0,4,1,1,0,0,2,1991 Fall Tour,1991 Fall,Runaway Jim,,1,The Bayou,Washington,DC,USA,","
 1991-11-16,1991,0,5,2,1,0,0,1,1991 Fall Tour,1991 Fall,It's Ice,,1,The Bayou,Washington,DC,USA,>
 1991-11-16,1991,0,6,2,1,0,0,0,1991 Fall Tour,1991 Fall,Sparkle,,1,The Bayou,Washington,DC,USA,>
