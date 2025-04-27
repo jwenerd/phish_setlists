@@ -30,7 +30,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-01-30,2025,0,7,1,1,0,0,15,2025 Mexico,2025 Mexico,Funky Bitch,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2025-01-30,2025,0,8,1,1,0,0,16,2025 Mexico,2025 Mexico,Roggae,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2025-01-30,2025,0,9,2,1,0,0,18,2025 Mexico,2025 Mexico,Halley's Comet,Halley's,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2025-01-30,2025,0,10,2,1,0,0,3,2025 Mexico,2025 Mexico,Runaway Jim,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2025-01-30,2025,0,10,2,1,0,0,4,2025 Mexico,2025 Mexico,Runaway Jim,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2025-01-30,2025,0,11,4,1,0,0,4,2025 Mexico,2025 Mexico,Cavern,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
 2025-01-30,2025,0,12,2,2,0,0,3,2025 Mexico,2025 Mexico,Everything's Right,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2025-01-30,2025,0,13,1,2,0,0,3,2025 Mexico,2025 Mexico,No Men In No Man's Land,NMINML,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
@@ -172,4 +172,9 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-04-25,2025,0,13,2,2,0,0,4,2025 Spring Tour,2025 Spring,Piper,,1,Hollywood Bowl,Hollywood,CA,USA,>
 2025-04-25,2025,0,14,1,2,0,0,3,2025 Spring Tour,2025 Spring,A Life Beyond The Dream,,0,Hollywood Bowl,Hollywood,CA,USA,","
 2025-04-25,2025,0,15,5,2,0,0,5,2025 Spring Tour,2025 Spring,Ghost,,1,Hollywood Bowl,Hollywood,CA,USA,
-2025-04-25,2025,0,16,1,e,2,2,5,2025 Spring Tour,2025 Spring,Possum,,1,Hollywood Bowl,Hollywood,CA,USA,","
+2025-04-25,2025,0,16,2,e,0,0,5,2025 Spring Tour,2025 Spring,Possum,,1,Hollywood Bowl,Hollywood,CA,USA,>
+2025-04-25,2025,0,17,6,e,0,0,6,2025 Spring Tour,2025 Spring,Tweezer Reprise,Tweeprise,1,Hollywood Bowl,Hollywood,CA,USA,
+2025-04-26,2025,0,1,1,1,0,0,9,2025 Spring Tour,2025 Spring,Runaway Jim,,1,Hollywood Bowl,Hollywood,CA,USA,","
+2025-04-26,2025,0,2,1,1,0,0,6,2025 Spring Tour,2025 Spring,Blaze On,,1,Hollywood Bowl,Hollywood,CA,USA,","
+2025-04-26,2025,0,3,2,1,0,0,7,2025 Spring Tour,2025 Spring,Martian Monster,,1,Hollywood Bowl,Hollywood,CA,USA,>
+2025-04-26,2025,0,4,1,1,2,2,29,2025 Spring Tour,2025 Spring,Birds of a Feather,BOAF,1,Hollywood Bowl,Hollywood,CA,USA,","
