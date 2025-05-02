@@ -476,7 +476,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-03-17,1990,0,6,2,1,0,0,9,1990 Tour,1990,Rhombus Narration,,1,23 East Cabaret,Ardmore,PA,USA,>
 1990-03-17,1990,0,7,1,1,0,0,3,1990 Tour,1990,Divided Sky,Divided,1,23 East Cabaret,Ardmore,PA,USA,","
 1990-03-17,1990,0,8,1,1,0,0,3,1990 Tour,1990,Donna Lee,,0,23 East Cabaret,Ardmore,PA,USA,","
-1990-03-17,1990,0,9,1,1,0,0,1,1990 Tour,1990,The Lizards,Lizards,1,23 East Cabaret,Ardmore,PA,USA,","
+1990-03-17,1990,0,9,1,1,0,0,2,1990 Tour,1990,The Lizards,Lizards,1,23 East Cabaret,Ardmore,PA,USA,","
 1990-03-17,1990,0,10,4,1,0,0,4,1990 Tour,1990,Run Like an Antelope,Antelope,1,23 East Cabaret,Ardmore,PA,USA,
 1990-03-17,1990,0,11,1,2,0,0,0,1990 Tour,1990,Killer Joe,,1,23 East Cabaret,Ardmore,PA,USA,","
 1990-03-17,1990,0,12,1,2,0,0,69,1990 Tour,1990,Bold As Love,,0,23 East Cabaret,Ardmore,PA,USA,","
@@ -1344,7 +1344,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-06-17,1990,1,22,6,1,0,0,0,1990 Tour,1990,Runaway Jim,,1,Wendell Recording Studio,Wendell,MA,USA,
 1990-08-04,1990,0,1,1,1,0,0,0,1990 Tour,1990,Communication Breakdown,,0,The Red Barn,Hinesburg,VT,USA,","
 1990-08-04,1990,0,2,6,1,0,0,7,1990 Tour,1990,The Ballad of Curtis Loew,Curtis Loew,0,The Red Barn,Hinesburg,VT,USA,
-1990-09-13,1990,0,1,1,1,0,0,409,1990 Tour,1990,The Landlady,Landlady,1,The Wetlands Preserve,New York,NY,USA,","
+1990-09-13,1990,0,1,1,1,0,0,405,1990 Tour,1990,The Landlady,Landlady,1,The Wetlands Preserve,New York,NY,USA,","
 1990-09-13,1990,0,2,1,1,0,0,4,1990 Tour,1990,Divided Sky,Divided,1,The Wetlands Preserve,New York,NY,USA,","
 1990-09-13,1990,0,3,1,1,0,0,4,1990 Tour,1990,Foam,,1,The Wetlands Preserve,New York,NY,USA,","
 1990-09-13,1990,0,4,1,1,0,0,405,1990 Tour,1990,Tube,,1,The Wetlands Preserve,New York,NY,USA,","
@@ -2309,7 +2309,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-12-02,1990,0,6,1,1,0,0,1,1990 Tour,1990,You Enjoy Myself,YEM,1,The Front,Burlington,VT,USA,","
 1990-12-02,1990,0,7,2,1,0,0,3,1990 Tour,1990,Colonel Forbin's Ascent,Forbin's,1,The Front,Burlington,VT,USA,>
 1990-12-02,1990,0,8,1,1,0,0,3,1990 Tour,1990,Fly Famous Mockingbird,Mockingbird,1,The Front,Burlington,VT,USA,","
-1990-12-02,1990,0,9,1,1,0,0,0,1990 Tour,1990,The Landlady,Landlady,1,The Front,Burlington,VT,USA,","
+1990-12-02,1990,0,9,1,1,0,0,1,1990 Tour,1990,The Landlady,Landlady,1,The Front,Burlington,VT,USA,","
 1990-12-02,1990,0,10,4,1,0,0,2,1990 Tour,1990,Possum,,1,The Front,Burlington,VT,USA,
 1990-12-02,1990,0,11,2,2,0,0,1,1990 Tour,1990,Mike's Song,Mike's,1,The Front,Burlington,VT,USA,>
 1990-12-02,1990,0,12,2,2,0,0,1,1990 Tour,1990,I Am Hydrogen,Hydrogen,1,The Front,Burlington,VT,USA,>

@@ -64,7 +64,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1991-02-04,1991,0,4,1,1,0,0,12,1991 Winter/Spring Tour,1991 Winter,Uncle Pen,,0,The Front,Burlington,VT,USA,","
 1991-02-04,1991,0,5,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Stash,,1,The Front,Burlington,VT,USA,","
 1991-02-04,1991,0,6,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Mango Song,Mango,1,The Front,Burlington,VT,USA,","
-1991-02-04,1991,0,7,2,1,0,0,0,1991 Winter/Spring Tour,1991 Winter,The Landlady,Landlady,1,The Front,Burlington,VT,USA,>
+1991-02-04,1991,0,7,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Landlady,Landlady,1,The Front,Burlington,VT,USA,>
 1991-02-04,1991,0,8,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Bouncing Around the Room,Bouncin',1,The Front,Burlington,VT,USA,","
 1991-02-04,1991,0,9,4,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Chalk Dust Torture,CDT,1,The Front,Burlington,VT,USA,
 1991-02-04,1991,0,10,1,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Squirming Coil,Coil,1,The Front,Burlington,VT,USA,","
@@ -336,10 +336,10 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1991-02-26,1991,0,14,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Dinner and a Movie,,1,The Barrel House,Salem,VA,USA,","
 1991-02-26,1991,0,15,2,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,Stash,,1,The Barrel House,Salem,VA,USA,>
 1991-02-26,1991,0,16,1,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,Bouncing Around the Room,Bouncin',1,The Barrel House,Salem,VA,USA,","
-1991-02-26,1991,0,17,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,The Landlady,Landlady,1,The Barrel House,Salem,VA,USA,","
+1991-02-26,1991,0,17,1,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,The Landlady,Landlady,1,The Barrel House,Salem,VA,USA,","
 1991-02-26,1991,0,18,1,2,0,0,8,1991 Winter/Spring Tour,1991 Winter,Destiny Unbound,Destiny,1,The Barrel House,Salem,VA,USA,","
 1991-02-26,1991,0,19,1,2,0,0,4,1991 Winter/Spring Tour,1991 Winter,Possum,,1,The Barrel House,Salem,VA,USA,","
-1991-02-26,1991,0,20,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,The Lizards,Lizards,1,The Barrel House,Salem,VA,USA,","
+1991-02-26,1991,0,20,1,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,The Lizards,Lizards,1,The Barrel House,Salem,VA,USA,","
 1991-02-26,1991,0,21,2,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,Mike's Song,Mike's,1,The Barrel House,Salem,VA,USA,>
 1991-02-26,1991,0,22,2,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,I Am Hydrogen,Hydrogen,1,The Barrel House,Salem,VA,USA,>
 1991-02-26,1991,0,23,5,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,Weekapaug Groove,Weekapaug,1,The Barrel House,Salem,VA,USA,
@@ -2635,7 +2635,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1991-11-15,1991,0,28,5,2,0,0,2,1991 Fall Tour,1991 Fall,Possum,,1,Trax,Charlottesville,VA,USA,
 1991-11-15,1991,0,29,1,e,0,0,13,1991 Fall Tour,1991 Fall,Highway to Hell,,0,Trax,Charlottesville,VA,USA,","
 1991-11-15,1991,0,30,6,e,0,0,4,1991 Fall Tour,1991 Fall,Suzy Greenberg,Suzy,1,Trax,Charlottesville,VA,USA,
-1991-11-16,1991,0,1,1,1,0,0,0,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,The Bayou,Washington,DC,USA,","
+1991-11-16,1991,0,1,1,1,0,0,1,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,The Bayou,Washington,DC,USA,","
 1991-11-16,1991,0,2,1,1,0,0,1,1991 Fall Tour,1991 Fall,Uncle Pen,,0,The Bayou,Washington,DC,USA,","
 1991-11-16,1991,0,3,2,1,0,0,2,1991 Fall Tour,1991 Fall,Wilson,,1,The Bayou,Washington,DC,USA,>
 1991-11-16,1991,0,4,1,1,0,0,2,1991 Fall Tour,1991 Fall,Runaway Jim,,1,The Bayou,Washington,DC,USA,","
