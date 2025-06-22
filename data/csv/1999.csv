@@ -1208,7 +1208,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1999-12-31,1999,0,12,1,1,0,0,4,Not Part of a Tour,No Tour,Horn,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
 1999-12-31,1999,0,13,1,1,0,0,5,Not Part of a Tour,No Tour,Guyute,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
 1999-12-31,1999,0,14,4,1,0,0,1310,Not Part of a Tour,No Tour,After Midnight,,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,
-1999-12-31,1999,0,15,3,2,0,0,12,Not Part of a Tour,No Tour,Meatstick,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,->
+1999-12-31,1999,0,15,3,2,0,0,0,Not Part of a Tour,No Tour,Meatstick,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,->
 1999-12-31,1999,0,16,2,2,0,0,64,Not Part of a Tour,No Tour,Auld Lang Syne,,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,>
 1999-12-31,1999,0,17,3,2,0,0,5,Not Part of a Tour,No Tour,Down with Disease,DwD,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,->
 1999-12-31,1999,0,18,1,2,0,0,22,Not Part of a Tour,No Tour,Llama,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
@@ -1244,4 +1244,4 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1999-12-31,1999,0,48,1,2,0,0,3,Not Part of a Tour,No Tour,Bug,,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
 1999-12-31,1999,0,49,2,2,0,0,2,Not Part of a Tour,No Tour,Also Sprach Zarathustra,2001,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,>
 1999-12-31,1999,0,50,2,2,0,0,4,Not Part of a Tour,No Tour,Wading in the Velvet Sea,Velvet Sea,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,>
-1999-12-31,1999,0,51,6,2,0,0,0,Not Part of a Tour,No Tour,Meatstick,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,
+1999-12-31,1999,0,51,6,2,0,0,12,Not Part of a Tour,No Tour,Meatstick,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,
