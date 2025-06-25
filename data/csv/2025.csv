@@ -273,7 +273,9 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-06-24,2025,0,8,1,1,0,0,6,2025 Summer Tour,2025 Summer,Gumbo,,1,Petersen Events Center,Pittsburgh,PA,USA,","
 2025-06-24,2025,0,9,4,1,0,0,9,2025 Summer Tour,2025 Summer,Walls of the Cave,WotC,1,Petersen Events Center,Pittsburgh,PA,USA,
 2025-06-24,2025,0,10,3,2,0,0,3,2025 Summer Tour,2025 Summer,You Enjoy Myself,YEM,1,Petersen Events Center,Pittsburgh,PA,USA,->
-2025-06-24,2025,0,11,2,2,0,0,5,2025 Summer Tour,2025 Summer,What's Going Through Your Mind,WGTYM,0,Petersen Events Center,Pittsburgh,PA,USA,>
+2025-06-24,2025,0,11,1,2,0,0,5,2025 Summer Tour,2025 Summer,What's Going Through Your Mind,WGTYM,0,Petersen Events Center,Pittsburgh,PA,USA,","
 2025-06-24,2025,0,12,2,2,0,0,12,2025 Summer Tour,2025 Summer,Prince Caspian,Caspian,1,Petersen Events Center,Pittsburgh,PA,USA,>
 2025-06-24,2025,0,13,2,2,0,0,32,2025 Summer Tour,2025 Summer,Julius,,1,Petersen Events Center,Pittsburgh,PA,USA,>
 2025-06-24,2025,0,14,5,2,0,0,4,2025 Summer Tour,2025 Summer,Blaze On,,1,Petersen Events Center,Pittsburgh,PA,USA,
+2025-06-24,2025,0,15,2,e,0,0,4,2025 Summer Tour,2025 Summer,The Howling,,1,Petersen Events Center,Pittsburgh,PA,USA,>
+2025-06-24,2025,0,16,6,e,0,0,5,2025 Summer Tour,2025 Summer,Ghost,,1,Petersen Events Center,Pittsburgh,PA,USA,

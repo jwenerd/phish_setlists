@@ -1587,7 +1587,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-07-13,1994,0,6,2,1,0,0,2,1994 Summer Tour,1994 Summer,Down with Disease,DwD,1,Big Birch Concert Pavilion,Patterson,NY,USA,>
 1994-07-13,1994,0,7,3,1,0,0,6,1994 Summer Tour,1994 Summer,Fee,,1,Big Birch Concert Pavilion,Patterson,NY,USA,->
 1994-07-13,1994,0,8,2,1,0,0,3,1994 Summer Tour,1994 Summer,It's Ice,,1,Big Birch Concert Pavilion,Patterson,NY,USA,>
-1994-07-13,1994,0,9,1,1,0,0,6,1994 Summer Tour,1994 Summer,Fast Enough for You,FEFY,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
+1994-07-13,1994,0,9,1,1,0,0,7,1994 Summer Tour,1994 Summer,Fast Enough for You,FEFY,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
 1994-07-13,1994,0,10,1,1,0,0,10,1994 Summer Tour,1994 Summer,I Didn't Know,IDK,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
 1994-07-13,1994,0,11,4,1,0,0,2,1994 Summer Tour,1994 Summer,Split Open and Melt,SOAMelt,1,Big Birch Concert Pavilion,Patterson,NY,USA,
 1994-07-13,1994,0,12,1,2,0,0,8,1994 Summer Tour,1994 Summer,Possum,,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
@@ -2274,7 +2274,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-11-14,1994,0,20,6,e,0,0,2,1994 Fall Tour,1994 Fall,Golgi Apparatus,Golgi,1,DeVos Hall,Grand Rapids,MI,USA,
 1994-11-16,1994,0,1,1,1,0,0,3,1994 Fall Tour,1994 Fall,Sample in a Jar,Sample,1,"Hill Auditorium, University of Michigan",Ann Arbor,MI,USA,","
 1994-11-16,1994,0,2,1,1,0,0,3,1994 Fall Tour,1994 Fall,Foam,,1,"Hill Auditorium, University of Michigan",Ann Arbor,MI,USA,","
-1994-11-16,1994,0,3,2,1,0,0,14,1994 Fall Tour,1994 Fall,Fast Enough for You,FEFY,1,"Hill Auditorium, University of Michigan",Ann Arbor,MI,USA,>
+1994-11-16,1994,0,3,2,1,0,0,15,1994 Fall Tour,1994 Fall,Fast Enough for You,FEFY,1,"Hill Auditorium, University of Michigan",Ann Arbor,MI,USA,>
 1994-11-16,1994,0,4,1,1,0,0,2,1994 Fall Tour,1994 Fall,Reba,,1,"Hill Auditorium, University of Michigan",Ann Arbor,MI,USA,","
 1994-11-16,1994,0,5,1,1,0,0,2,1994 Fall Tour,1994 Fall,Axilla (Part II),,1,"Hill Auditorium, University of Michigan",Ann Arbor,MI,USA,","
 1994-11-16,1994,0,6,1,1,0,0,2,1994 Fall Tour,1994 Fall,The Lizards,Lizards,1,"Hill Auditorium, University of Michigan",Ann Arbor,MI,USA,","
@@ -2556,7 +2556,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-11-30,1994,0,25,6,e,0,0,4,1994 Fall Tour,1994 Fall,Amazing Grace,,0,"Campus Recreation Center, Evergreen College",Olympia,WA,USA,
 1994-12-01,1994,0,1,1,1,0,0,3,1994 Fall Tour,1994 Fall,Sample in a Jar,Sample,1,Salem Armory,Salem,OR,USA,","
 1994-12-01,1994,0,2,1,1,0,0,20,1994 Fall Tour,1994 Fall,Uncle Pen,,0,Salem Armory,Salem,OR,USA,","
-1994-12-01,1994,0,3,2,1,0,0,11,1994 Fall Tour,1994 Fall,Fast Enough for You,FEFY,1,Salem Armory,Salem,OR,USA,>
+1994-12-01,1994,0,3,2,1,0,0,12,1994 Fall Tour,1994 Fall,Fast Enough for You,FEFY,1,Salem Armory,Salem,OR,USA,>
 1994-12-01,1994,0,4,1,1,0,0,5,1994 Fall Tour,1994 Fall,Maze,,1,Salem Armory,Salem,OR,USA,","
 1994-12-01,1994,0,5,1,1,0,0,2,1994 Fall Tour,1994 Fall,Guyute,,1,Salem Armory,Salem,OR,USA,","
 1994-12-01,1994,0,6,1,1,0,0,6,1994 Fall Tour,1994 Fall,I Didn't Know,IDK,1,Salem Armory,Salem,OR,USA,","

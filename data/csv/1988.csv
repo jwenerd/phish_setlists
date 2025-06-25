@@ -497,9 +497,9 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1988-07-23,1988,0,13,1,1,2,0,152,1988 Tour,1988,No Dogs Allowed,,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
 1988-07-23,1988,0,14,1,1,2,0,12,1988 Tour,1988,The Sloth,Sloth,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
 1988-07-23,1988,0,15,4,1,2,0,2,1988 Tour,1988,Fire,,0,Pete's Phabulous Phish Phest,Underhill,VT,USA,
-1988-07-23,1988,0,16,3,2,2,0,2,1988 Tour,1988,The Curtain With,Curtain With,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,->
+1988-07-23,1988,0,16,3,2,2,0,0,1988 Tour,1988,The Curtain With,Curtain With,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,->
 1988-07-23,1988,0,17,3,2,2,0,66,1988 Tour,1988,Dave's Energy Guide,DEG,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,->
-1988-07-23,1988,0,18,1,2,2,0,0,1988 Tour,1988,The Curtain With,Curtain With,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
+1988-07-23,1988,0,18,1,2,2,0,2,1988 Tour,1988,The Curtain With,Curtain With,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
 1988-07-23,1988,0,19,1,2,2,0,9,1988 Tour,1988,Wilson,,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
 1988-07-23,1988,0,20,1,2,2,0,69,1988 Tour,1988,Terrapin,,0,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
 1988-07-23,1988,0,21,1,2,2,0,10,1988 Tour,1988,Run Like an Antelope,Antelope,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
