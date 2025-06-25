@@ -244,22 +244,36 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-06-21,2025,0,16,2,e,0,0,16,2025 Summer Tour,2025 Summer,Bold As Love,,0,SNHU Arena,Manchester,NH,USA,>
 2025-06-21,2025,0,17,1,e,0,0,5,2025 Summer Tour,2025 Summer,David Bowie,Bowie,1,SNHU Arena,Manchester,NH,USA,","
 2025-06-21,2025,0,18,6,e,0,0,7,2025 Summer Tour,2025 Summer,Wilson,,1,SNHU Arena,Manchester,NH,USA,
-2025-06-22,2025,0,1,1,1,0,0,4,2025 Summer Tour,2025 Summer,Runaway Jim,,1,SNHU Arena,Manchester,NH,USA,","
-2025-06-22,2025,0,2,1,1,0,0,4,2025 Summer Tour,2025 Summer,Oblivion,,0,SNHU Arena,Manchester,NH,USA,","
-2025-06-22,2025,0,3,1,1,0,0,43,2025 Summer Tour,2025 Summer,The Curtain With,Curtain With,1,SNHU Arena,Manchester,NH,USA,","
-2025-06-22,2025,0,4,1,1,0,0,3,2025 Summer Tour,2025 Summer,Llama,,1,SNHU Arena,Manchester,NH,USA,","
-2025-06-22,2025,0,5,1,1,0,0,53,2025 Summer Tour,2025 Summer,Fast Enough for You,FEFY,1,SNHU Arena,Manchester,NH,USA,","
-2025-06-22,2025,0,6,1,1,0,0,13,2025 Summer Tour,2025 Summer,The Wedge,Wedge,1,SNHU Arena,Manchester,NH,USA,","
-2025-06-22,2025,0,7,1,1,0,0,9,2025 Summer Tour,2025 Summer,Pebbles and Marbles,,0,SNHU Arena,Manchester,NH,USA,","
-2025-06-22,2025,0,8,3,1,0,0,9,2025 Summer Tour,2025 Summer,"My Friend, My Friend",My Friend,1,SNHU Arena,Manchester,NH,USA,->
-2025-06-22,2025,0,9,1,1,0,0,63,2025 Summer Tour,2025 Summer,Egg in a Hole,,1,SNHU Arena,Manchester,NH,USA,","
-2025-06-22,2025,0,10,4,1,0,0,7,2025 Summer Tour,2025 Summer,Fluffhead,,1,SNHU Arena,Manchester,NH,USA,
-2025-06-22,2025,0,11,2,2,0,0,7,2025 Summer Tour,2025 Summer,Axilla (Part II),,1,SNHU Arena,Manchester,NH,USA,>
-2025-06-22,2025,0,12,2,2,0,0,6,2025 Summer Tour,2025 Summer,Tweezer,,1,SNHU Arena,Manchester,NH,USA,>
-2025-06-22,2025,0,13,2,2,0,0,5,2025 Summer Tour,2025 Summer,Mercury,,1,SNHU Arena,Manchester,NH,USA,>
-2025-06-22,2025,0,14,2,2,0,0,0,2025 Summer Tour,2025 Summer,Tweezer,,1,SNHU Arena,Manchester,NH,USA,>
-2025-06-22,2025,0,15,2,2,0,0,6,2025 Summer Tour,2025 Summer,Pillow Jets,,0,SNHU Arena,Manchester,NH,USA,>
-2025-06-22,2025,0,16,2,2,0,0,0,2025 Summer Tour,2025 Summer,Tweezer,,1,SNHU Arena,Manchester,NH,USA,>
-2025-06-22,2025,0,17,5,2,0,0,15,2025 Summer Tour,2025 Summer,Golgi Apparatus,Golgi,1,SNHU Arena,Manchester,NH,USA,
-2025-06-22,2025,0,18,2,e,0,0,10,2025 Summer Tour,2025 Summer,Bug,,0,SNHU Arena,Manchester,NH,USA,>
-2025-06-22,2025,0,19,6,e,0,0,5,2025 Summer Tour,2025 Summer,Tweezer Reprise,Tweeprise,1,SNHU Arena,Manchester,NH,USA,
+2025-06-22,2025,0,1,1,1,0,0,3,2025 Summer Tour,2025 Summer,Runaway Jim,,1,SNHU Arena,Manchester,NH,USA,","
+2025-06-22,2025,0,2,1,1,0,0,3,2025 Summer Tour,2025 Summer,Oblivion,,0,SNHU Arena,Manchester,NH,USA,","
+2025-06-22,2025,0,3,1,1,0,0,42,2025 Summer Tour,2025 Summer,The Curtain With,Curtain With,1,SNHU Arena,Manchester,NH,USA,","
+2025-06-22,2025,0,4,1,1,0,0,2,2025 Summer Tour,2025 Summer,Llama,,1,SNHU Arena,Manchester,NH,USA,","
+2025-06-22,2025,0,5,1,1,0,0,52,2025 Summer Tour,2025 Summer,Fast Enough for You,FEFY,1,SNHU Arena,Manchester,NH,USA,","
+2025-06-22,2025,0,6,1,1,0,0,12,2025 Summer Tour,2025 Summer,The Wedge,Wedge,1,SNHU Arena,Manchester,NH,USA,","
+2025-06-22,2025,0,7,1,1,0,0,8,2025 Summer Tour,2025 Summer,Pebbles and Marbles,,0,SNHU Arena,Manchester,NH,USA,","
+2025-06-22,2025,0,8,3,1,0,0,8,2025 Summer Tour,2025 Summer,"My Friend, My Friend",My Friend,1,SNHU Arena,Manchester,NH,USA,->
+2025-06-22,2025,0,9,1,1,0,0,62,2025 Summer Tour,2025 Summer,Egg in a Hole,,1,SNHU Arena,Manchester,NH,USA,","
+2025-06-22,2025,0,10,4,1,0,0,6,2025 Summer Tour,2025 Summer,Fluffhead,,1,SNHU Arena,Manchester,NH,USA,
+2025-06-22,2025,0,11,2,2,0,0,6,2025 Summer Tour,2025 Summer,Axilla (Part II),,1,SNHU Arena,Manchester,NH,USA,>
+2025-06-22,2025,0,12,2,2,0,0,5,2025 Summer Tour,2025 Summer,Tweezer,,1,SNHU Arena,Manchester,NH,USA,>
+2025-06-22,2025,0,13,2,2,0,0,4,2025 Summer Tour,2025 Summer,Mercury,,1,SNHU Arena,Manchester,NH,USA,>
+2025-06-22,2025,0,14,2,2,0,0,5,2025 Summer Tour,2025 Summer,Tweezer,,1,SNHU Arena,Manchester,NH,USA,>
+2025-06-22,2025,0,15,2,2,0,0,5,2025 Summer Tour,2025 Summer,Pillow Jets,,0,SNHU Arena,Manchester,NH,USA,>
+2025-06-22,2025,0,16,2,2,0,0,5,2025 Summer Tour,2025 Summer,Tweezer,,1,SNHU Arena,Manchester,NH,USA,>
+2025-06-22,2025,0,17,5,2,0,0,14,2025 Summer Tour,2025 Summer,Golgi Apparatus,Golgi,1,SNHU Arena,Manchester,NH,USA,
+2025-06-22,2025,0,18,2,e,0,0,9,2025 Summer Tour,2025 Summer,Bug,,0,SNHU Arena,Manchester,NH,USA,>
+2025-06-22,2025,0,19,6,e,0,0,4,2025 Summer Tour,2025 Summer,Tweezer Reprise,Tweeprise,1,SNHU Arena,Manchester,NH,USA,
+2025-06-24,2025,0,1,2,1,0,0,4,2025 Summer Tour,2025 Summer,AC/DC Bag,Bag,1,Petersen Events Center,Pittsburgh,PA,USA,>
+2025-06-24,2025,0,2,1,1,0,0,122,2025 Summer Tour,2025 Summer,Dogs Stole Things,,1,Petersen Events Center,Pittsburgh,PA,USA,","
+2025-06-24,2025,0,3,1,1,0,0,322,2025 Summer Tour,2025 Summer,Paul and Silas,,0,Petersen Events Center,Pittsburgh,PA,USA,","
+2025-06-24,2025,0,4,1,1,0,0,10,2025 Summer Tour,2025 Summer,I Always Wanted It This Way,,1,Petersen Events Center,Pittsburgh,PA,USA,","
+2025-06-24,2025,0,5,1,1,0,0,133,2025 Summer Tour,2025 Summer,Water in the Sky,,1,Petersen Events Center,Pittsburgh,PA,USA,","
+2025-06-24,2025,0,6,1,1,0,0,35,2025 Summer Tour,2025 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Petersen Events Center,Pittsburgh,PA,USA,","
+2025-06-24,2025,0,7,1,1,0,0,26,2025 Summer Tour,2025 Summer,Ya Mar,,0,Petersen Events Center,Pittsburgh,PA,USA,","
+2025-06-24,2025,0,8,1,1,0,0,6,2025 Summer Tour,2025 Summer,Gumbo,,1,Petersen Events Center,Pittsburgh,PA,USA,","
+2025-06-24,2025,0,9,4,1,0,0,9,2025 Summer Tour,2025 Summer,Walls of the Cave,WotC,1,Petersen Events Center,Pittsburgh,PA,USA,
+2025-06-24,2025,0,10,3,2,0,0,3,2025 Summer Tour,2025 Summer,You Enjoy Myself,YEM,1,Petersen Events Center,Pittsburgh,PA,USA,->
+2025-06-24,2025,0,11,2,2,0,0,5,2025 Summer Tour,2025 Summer,What's Going Through Your Mind,WGTYM,0,Petersen Events Center,Pittsburgh,PA,USA,>
+2025-06-24,2025,0,12,2,2,0,0,12,2025 Summer Tour,2025 Summer,Prince Caspian,Caspian,1,Petersen Events Center,Pittsburgh,PA,USA,>
+2025-06-24,2025,0,13,2,2,0,0,32,2025 Summer Tour,2025 Summer,Julius,,1,Petersen Events Center,Pittsburgh,PA,USA,>
+2025-06-24,2025,0,14,5,2,0,0,4,2025 Summer Tour,2025 Summer,Blaze On,,1,Petersen Events Center,Pittsburgh,PA,USA,
