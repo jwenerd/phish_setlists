@@ -366,7 +366,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2024-08-03,2024,0,14,3,2,0,0,37,2024 Summer Tour,2024 Summer,Guy Forget,,1,Ruoff Music Center,Noblesville,IN,USA,->
 2024-08-03,2024,0,15,2,2,0,0,0,2024 Summer Tour,2024 Summer,Crosseyed and Painless,C&amp;P,0,Ruoff Music Center,Noblesville,IN,USA,>
 2024-08-03,2024,0,16,5,2,0,0,7,2024 Summer Tour,2024 Summer,Fuego,,1,Ruoff Music Center,Noblesville,IN,USA,
-2024-08-03,2024,0,17,6,e,0,0,36,2024 Summer Tour,2024 Summer,Rock and Roll,R&amp;R,0,Ruoff Music Center,Noblesville,IN,USA,
+2024-08-03,2024,0,17,6,e,0,0,37,2024 Summer Tour,2024 Summer,Rock and Roll,R&amp;R,0,Ruoff Music Center,Noblesville,IN,USA,
 2024-08-04,2024,0,1,1,1,0,0,49,2024 Summer Tour,2024 Summer,Party Time,,1,Ruoff Music Center,Noblesville,IN,USA,","
 2024-08-04,2024,0,2,1,1,0,0,49,2024 Summer Tour,2024 Summer,The Final Hurrah,,1,Ruoff Music Center,Noblesville,IN,USA,","
 2024-08-04,2024,0,3,1,1,0,0,102,2024 Summer Tour,2024 Summer,Knuckle Bone Broth Avenue,KBBA,1,Ruoff Music Center,Noblesville,IN,USA,","
@@ -591,7 +591,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2024-08-30,2024,0,1,1,1,0,0,5,2024 Summer Tour,2024 Summer,Back on the Train,BOTT,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2024-08-30,2024,0,2,1,1,0,0,5,2024 Summer Tour,2024 Summer,Wolfman's Brother,Wolfman's,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2024-08-30,2024,0,3,1,1,0,0,7,2024 Summer Tour,2024 Summer,Hey Stranger,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-08-30,2024,0,4,1,1,0,0,104,2024 Summer Tour,2024 Summer,Guelah Papyrus,Guelah,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-30,2024,0,4,1,1,0,0,105,2024 Summer Tour,2024 Summer,Guelah Papyrus,Guelah,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2024-08-30,2024,0,5,1,1,0,0,4,2024 Summer Tour,2024 Summer,No Men In No Man's Land,NMINML,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2024-08-30,2024,0,6,1,1,0,0,2,2024 Summer Tour,2024 Summer,Steam,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2024-08-30,2024,0,7,1,1,0,0,3,2024 Summer Tour,2024 Summer,Evolve,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
@@ -686,17 +686,17 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2024-10-27,2024,0,3,1,1,0,0,184,Not Part of a Tour,No Tour,Access Me,,1,MVP Arena,Albany,NY,USA,","
 2024-10-27,2024,0,4,1,1,0,0,2,Not Part of a Tour,No Tour,"My Friend, My Friend",My Friend,1,MVP Arena,Albany,NY,USA,","
 2024-10-27,2024,0,5,1,1,0,0,96,Not Part of a Tour,No Tour,My Sweet One,MSO,1,MVP Arena,Albany,NY,USA,","
-2024-10-27,2024,0,6,1,1,0,0,10,Not Part of a Tour,No Tour,Limb By Limb,LxL,1,MVP Arena,Albany,NY,USA,","
+2024-10-27,2024,0,6,1,1,0,0,11,Not Part of a Tour,No Tour,Limb By Limb,LxL,1,MVP Arena,Albany,NY,USA,","
 2024-10-27,2024,0,7,1,1,0,0,8,Not Part of a Tour,No Tour,Mountains in the Mist,Mist,0,MVP Arena,Albany,NY,USA,","
 2024-10-27,2024,0,8,1,1,0,0,3,Not Part of a Tour,No Tour,Kill Devil Falls,KDF,1,MVP Arena,Albany,NY,USA,","
 2024-10-27,2024,0,9,4,1,0,0,13,Not Part of a Tour,No Tour,Walls of the Cave,WotC,1,MVP Arena,Albany,NY,USA,
 2024-10-27,2024,0,10,2,2,0,0,4,Not Part of a Tour,No Tour,Everything's Right,,0,MVP Arena,Albany,NY,USA,>
-2024-10-27,2024,0,11,1,2,0,0,4,Not Part of a Tour,No Tour,Chalk Dust Torture,CDT,1,MVP Arena,Albany,NY,USA,","
+2024-10-27,2024,0,11,1,2,0,0,5,Not Part of a Tour,No Tour,Chalk Dust Torture,CDT,1,MVP Arena,Albany,NY,USA,","
 2024-10-27,2024,0,12,1,2,0,0,22,Not Part of a Tour,No Tour,Mercury,,1,MVP Arena,Albany,NY,USA,","
 2024-10-27,2024,0,13,1,2,0,0,11,Not Part of a Tour,No Tour,Wading in the Velvet Sea,Velvet Sea,1,MVP Arena,Albany,NY,USA,","
 2024-10-27,2024,0,14,5,2,0,0,3,Not Part of a Tour,No Tour,Most Events Aren't Planned,,0,MVP Arena,Albany,NY,USA,
 2024-10-27,2024,0,15,1,e,0,0,7,Not Part of a Tour,No Tour,Gotta Jibboo,Jibboo,0,MVP Arena,Albany,NY,USA,","
-2024-10-27,2024,0,16,2,e,0,0,24,Not Part of a Tour,No Tour,Waste,,1,MVP Arena,Albany,NY,USA,>
+2024-10-27,2024,0,16,2,e,0,0,25,Not Part of a Tour,No Tour,Waste,,1,MVP Arena,Albany,NY,USA,>
 2024-10-27,2024,0,17,2,e,0,0,3,Not Part of a Tour,No Tour,Bug,,0,MVP Arena,Albany,NY,USA,>
 2024-10-27,2024,0,18,6,e,0,0,2,Not Part of a Tour,No Tour,Character Zero,,1,MVP Arena,Albany,NY,USA,
 2024-12-28,2024,0,1,1,1,0,0,8,2024 NYE Run,2024 NYE,Simple,,1,Madison Square Garden,New York,NY,USA,","
