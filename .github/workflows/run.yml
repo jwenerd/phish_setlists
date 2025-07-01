@@ -12,7 +12,7 @@ on:
           - all
           - year
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 5 * * *'
     - cron: '0 5 * * 0'
 permissions:
   contents: write
@@ -26,7 +26,7 @@ jobs:
         run: pipx install poetry
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: '3.13'
           cache: 'poetry'
       - run: poetry install
       - name: run 🗄️
