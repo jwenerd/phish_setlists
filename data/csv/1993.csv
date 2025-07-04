@@ -1231,7 +1231,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1993-04-02,1993,0,24,1,2,0,0,0,1993 Winter/Spring Tour,1993 Winter,Hold Your Head Up,HYHU,0,Mt. Baker Theatre,Bellingham,WA,USA,","
 1993-04-02,1993,0,25,5,2,0,0,3,1993 Winter/Spring Tour,1993 Winter,Chalk Dust Torture,CDT,1,Mt. Baker Theatre,Bellingham,WA,USA,
 1993-04-02,1993,0,26,1,e,0,0,1,1993 Winter/Spring Tour,1993 Winter,Amazing Grace,,0,Mt. Baker Theatre,Bellingham,WA,USA,","
-1993-04-02,1993,0,27,6,e,0,0,6,1993 Winter/Spring Tour,1993 Winter,Rocky Top,,0,Mt. Baker Theatre,Bellingham,WA,USA,
+1993-04-02,1993,0,27,6,e,0,0,7,1993 Winter/Spring Tour,1993 Winter,Rocky Top,,0,Mt. Baker Theatre,Bellingham,WA,USA,
 1993-04-03,1993,0,1,2,1,2,0,6,1993 Winter/Spring Tour,1993 Winter,The Landlady,Landlady,1,86th Street Music Hall,"Vancouver, British Columbia",,Canada,>
 1993-04-03,1993,0,2,1,1,2,0,2,1993 Winter/Spring Tour,1993 Winter,Rift,,1,86th Street Music Hall,"Vancouver, British Columbia",,Canada,","
 1993-04-03,1993,0,3,1,1,2,0,2,1993 Winter/Spring Tour,1993 Winter,Guelah Papyrus,Guelah,1,86th Street Music Hall,"Vancouver, British Columbia",,Canada,","
@@ -2387,7 +2387,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1993-08-09,1993,0,17,3,2,0,0,3,1993 Summer Tour,1993 Summer,You Enjoy Myself,YEM,1,Concert Hall,"Toronto, Ontario",,Canada,->
 1993-08-09,1993,0,18,2,2,0,0,7,1993 Summer Tour,1993 Summer,Contact,,1,Concert Hall,"Toronto, Ontario",,Canada,>
 1993-08-09,1993,0,19,5,2,0,0,235,1993 Summer Tour,1993 Summer,Crimes of the Mind,,0,Concert Hall,"Toronto, Ontario",,Canada,
-1993-08-09,1993,0,20,6,e,0,0,7,1993 Summer Tour,1993 Summer,Rocky Top,,0,Concert Hall,"Toronto, Ontario",,Canada,
+1993-08-09,1993,0,20,6,e,0,0,8,1993 Summer Tour,1993 Summer,Rocky Top,,0,Concert Hall,"Toronto, Ontario",,Canada,
 1993-08-11,1993,0,1,2,1,0,0,4,1993 Summer Tour,1993 Summer,Buried Alive,,1,Eastbrook Theatre,Grand Rapids,MI,USA,>
 1993-08-11,1993,0,2,2,1,0,0,2,1993 Summer Tour,1993 Summer,Runaway Jim,,1,Eastbrook Theatre,Grand Rapids,MI,USA,>
 1993-08-11,1993,0,3,2,1,0,0,9,1993 Summer Tour,1993 Summer,Weigh,,1,Eastbrook Theatre,Grand Rapids,MI,USA,>

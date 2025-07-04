@@ -1578,7 +1578,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-07-10,1994,0,20,1,2,0,0,5,1994 Summer Tour,1994 Summer,The Squirming Coil,Coil,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 1994-07-10,1994,0,21,5,2,0,0,74,1994 Summer Tour,1994 Summer,Crimes of the Mind,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
 1994-07-10,1994,0,22,1,e,0,0,2,1994 Summer Tour,1994 Summer,Golgi Apparatus,Golgi,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-1994-07-10,1994,0,23,6,e,0,0,6,1994 Summer Tour,1994 Summer,Rocky Top,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
+1994-07-10,1994,0,23,6,e,0,0,7,1994 Summer Tour,1994 Summer,Rocky Top,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
 1994-07-13,1994,0,1,2,1,0,0,14,1994 Summer Tour,1994 Summer,Buried Alive,,1,Big Birch Concert Pavilion,Patterson,NY,USA,>
 1994-07-13,1994,0,2,2,1,0,0,2,1994 Summer Tour,1994 Summer,Poor Heart,,1,Big Birch Concert Pavilion,Patterson,NY,USA,>
 1994-07-13,1994,0,3,1,1,0,0,1,1994 Summer Tour,1994 Summer,Sample in a Jar,Sample,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
@@ -2023,7 +2023,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-10-26,1994,0,21,2,2,0,0,30,1994 Fall Tour,1994 Fall,Cracklin' Rosie,,0,"Varsity Gym, Appalachian State University",Boone,NC,USA,>
 1994-10-26,1994,0,22,1,2,0,0,0,1994 Fall Tour,1994 Fall,Hold Your Head Up,HYHU,0,"Varsity Gym, Appalachian State University",Boone,NC,USA,","
 1994-10-26,1994,0,23,5,2,0,0,3,1994 Fall Tour,1994 Fall,David Bowie,Bowie,1,"Varsity Gym, Appalachian State University",Boone,NC,USA,
-1994-10-26,1994,0,24,1,e,0,0,4,1994 Fall Tour,1994 Fall,Nellie Kane,,0,"Varsity Gym, Appalachian State University",Boone,NC,USA,","
+1994-10-26,1994,0,24,1,e,0,0,5,1994 Fall Tour,1994 Fall,Nellie Kane,,0,"Varsity Gym, Appalachian State University",Boone,NC,USA,","
 1994-10-26,1994,0,25,6,e,0,0,5,1994 Fall Tour,1994 Fall,Beaumont Rag,,0,"Varsity Gym, Appalachian State University",Boone,NC,USA,
 1994-10-26,1994,0,26,1,e,0,0,0,1994 Fall Tour,1994 Fall,Foreplay/Long Time,,0,"Varsity Gym, Appalachian State University",Boone,NC,USA,","
 1994-10-26,1994,0,27,6,e,0,0,2,1994 Fall Tour,1994 Fall,Amazing Grace,,0,"Varsity Gym, Appalachian State University",Boone,NC,USA,
@@ -2510,7 +2510,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-11-26,1994,0,13,1,2,0,0,3,1994 Fall Tour,1994 Fall,The Lizards,Lizards,1,The Orpheum Theatre,Minneapolis,MN,USA,","
 1994-11-26,1994,0,14,2,2,0,0,2,1994 Fall Tour,1994 Fall,Sample in a Jar,Sample,1,The Orpheum Theatre,Minneapolis,MN,USA,>
 1994-11-26,1994,0,15,5,2,0,0,8,1994 Fall Tour,1994 Fall,Slave to the Traffic Light,Slave,1,The Orpheum Theatre,Minneapolis,MN,USA,
-1994-11-26,1994,0,16,6,e,0,0,12,1994 Fall Tour,1994 Fall,Rocky Top,,0,The Orpheum Theatre,Minneapolis,MN,USA,
+1994-11-26,1994,0,16,6,e,0,0,13,1994 Fall Tour,1994 Fall,Rocky Top,,0,The Orpheum Theatre,Minneapolis,MN,USA,
 1994-11-28,1994,0,1,1,1,0,0,5,1994 Fall Tour,1994 Fall,Chalk Dust Torture,CDT,1,"Brick Breeden Fieldhouse, Montana State University",Bozeman,MT,USA,","
 1994-11-28,1994,0,2,1,1,0,0,2,1994 Fall Tour,1994 Fall,Also Sprach Zarathustra,2001,0,"Brick Breeden Fieldhouse, Montana State University",Bozeman,MT,USA,","
 1994-11-28,1994,0,3,1,1,0,0,3,1994 Fall Tour,1994 Fall,Scent of a Mule,SOAMule,1,"Brick Breeden Fieldhouse, Montana State University",Bozeman,MT,USA,","

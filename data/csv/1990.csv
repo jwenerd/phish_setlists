@@ -2032,7 +2032,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-11-04,1990,0,9,1,1,0,0,2,1990 Tour,1990,My Sweet One,MSO,1,Fort Ram,Fort Collins,CO,USA,","
 1990-11-04,1990,0,10,4,1,0,0,2,1990 Tour,1990,David Bowie,Bowie,1,Fort Ram,Fort Collins,CO,USA,
 1990-11-04,1990,0,11,1,2,0,0,2,1990 Tour,1990,Golgi Apparatus,Golgi,1,Fort Ram,Fort Collins,CO,USA,","
-1990-11-04,1990,0,12,1,2,0,0,39,1990 Tour,1990,Rocky Top,,0,Fort Ram,Fort Collins,CO,USA,","
+1990-11-04,1990,0,12,1,2,0,0,41,1990 Tour,1990,Rocky Top,,0,Fort Ram,Fort Collins,CO,USA,","
 1990-11-04,1990,0,13,1,2,0,0,1,1990 Tour,1990,Llama,,1,Fort Ram,Fort Collins,CO,USA,","
 1990-11-04,1990,0,14,2,2,0,0,1,1990 Tour,1990,Mike's Song,Mike's,1,Fort Ram,Fort Collins,CO,USA,>
 1990-11-04,1990,0,15,2,2,0,0,1,1990 Tour,1990,I Am Hydrogen,Hydrogen,1,Fort Ram,Fort Collins,CO,USA,>
@@ -2088,8 +2088,8 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-11-08,1990,0,22,6,e,0,0,3,1990 Tour,1990,Fire,,0,"The Great Hall, University of Wisconsin",Madison,WI,USA,
 1990-11-09,1990,0,1,1,1,0,0,0,1990 Tour,1990,Suzy Greenberg,Suzy,1,Lounge Ax,Chicago,IL,USA,","
 1990-11-09,1990,0,2,1,1,0,0,0,1990 Tour,1990,The Landlady,Landlady,1,Lounge Ax,Chicago,IL,USA,","
-1990-11-09,1990,0,3,3,1,0,0,0,1990 Tour,1990,You Enjoy Myself,YEM,1,Lounge Ax,Chicago,IL,USA,->
-1990-11-09,1990,0,4,1,1,0,0,0,1990 Tour,1990,Possum,,1,Lounge Ax,Chicago,IL,USA,","
+1990-11-09,1990,0,3,3,1,0,0,1,1990 Tour,1990,You Enjoy Myself,YEM,1,Lounge Ax,Chicago,IL,USA,->
+1990-11-09,1990,0,4,1,1,0,0,1,1990 Tour,1990,Possum,,1,Lounge Ax,Chicago,IL,USA,","
 1990-11-09,1990,0,5,1,1,0,0,0,1990 Tour,1990,The Lizards,Lizards,1,Lounge Ax,Chicago,IL,USA,","
 1990-11-09,1990,0,6,1,1,0,0,0,1990 Tour,1990,I Didn't Know,IDK,1,Lounge Ax,Chicago,IL,USA,","
 1990-11-09,1990,0,7,5,1,0,0,0,1990 Tour,1990,Llama,,1,Lounge Ax,Chicago,IL,USA,
@@ -2320,7 +2320,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-12-02,1990,0,17,1,2,0,0,6,1990 Tour,1990,Magilla,,1,The Front,Burlington,VT,USA,","
 1990-12-02,1990,0,18,2,2,0,0,2,1990 Tour,1990,The Oh Kee Pa Ceremony,Oh Kee Pa,1,The Front,Burlington,VT,USA,>
 1990-12-02,1990,0,19,1,2,0,0,2,1990 Tour,1990,Suzy Greenberg,Suzy,1,The Front,Burlington,VT,USA,","
-1990-12-02,1990,0,20,1,2,0,0,2,1990 Tour,1990,Rocky Top,,0,The Front,Burlington,VT,USA,","
+1990-12-02,1990,0,20,1,2,0,0,3,1990 Tour,1990,Rocky Top,,0,The Front,Burlington,VT,USA,","
 1990-12-02,1990,0,21,1,2,0,0,25,1990 Tour,1990,Ya Mar,,0,The Front,Burlington,VT,USA,","
 1990-12-02,1990,0,22,5,2,0,0,2,1990 Tour,1990,Run Like an Antelope,Antelope,1,The Front,Burlington,VT,USA,
 1990-12-02,1990,0,23,1,e,0,0,3,1990 Tour,1990,Lawn Boy,,1,The Front,Burlington,VT,USA,","
