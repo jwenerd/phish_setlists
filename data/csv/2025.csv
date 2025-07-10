@@ -104,7 +104,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-04-19,2025,0,12,3,2,0,0,3,2025 Spring Tour,2025 Spring,Fuego,,1,Climate Pledge Arena,Seattle,WA,USA,->
 2025-04-19,2025,0,13,1,2,0,0,8,2025 Spring Tour,2025 Spring,Monsters,,0,Climate Pledge Arena,Seattle,WA,USA,","
 2025-04-19,2025,0,14,2,2,0,0,4,2025 Spring Tour,2025 Spring,Piper,,1,Climate Pledge Arena,Seattle,WA,USA,>
-2025-04-19,2025,0,15,5,2,0,0,4,2025 Spring Tour,2025 Spring,Backwards Down the Number Line,BDTNL,0,Climate Pledge Arena,Seattle,WA,USA,
+2025-04-19,2025,0,15,5,2,0,0,5,2025 Spring Tour,2025 Spring,Backwards Down the Number Line,BDTNL,0,Climate Pledge Arena,Seattle,WA,USA,
 2025-04-19,2025,0,16,1,e,0,0,11,2025 Spring Tour,2025 Spring,Sleeping Monkey,,1,Climate Pledge Arena,Seattle,WA,USA,","
 2025-04-19,2025,0,17,6,e,0,0,2,2025 Spring Tour,2025 Spring,"My Friend, My Friend",My Friend,1,Climate Pledge Arena,Seattle,WA,USA,
 2025-04-20,2025,0,1,1,1,0,0,5,2025 Spring Tour,2025 Spring,46 Days,,1,Moda Center,Portland,OR,USA,","
@@ -218,10 +218,10 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-06-20,2025,0,7,1,1,0,0,1,2025 Summer Tour,2025 Summer,Birds of a Feather,BOAF,1,SNHU Arena,Manchester,NH,USA,","
 2025-06-20,2025,0,8,4,1,0,0,1,2025 Summer Tour,2025 Summer,Slave to the Traffic Light,Slave,1,SNHU Arena,Manchester,NH,USA,
 2025-06-20,2025,0,9,1,2,0,0,6,2025 Summer Tour,2025 Summer,Bouncing Around the Room,Bouncin',1,SNHU Arena,Manchester,NH,USA,","
-2025-06-20,2025,0,10,1,2,0,0,3,2025 Summer Tour,2025 Summer,Sample in a Jar,Sample,1,SNHU Arena,Manchester,NH,USA,","
-2025-06-20,2025,0,11,2,2,0,0,1,2025 Summer Tour,2025 Summer,Life Saving Gun,,1,SNHU Arena,Manchester,NH,USA,>
+2025-06-20,2025,0,10,1,2,0,0,4,2025 Summer Tour,2025 Summer,Sample in a Jar,Sample,1,SNHU Arena,Manchester,NH,USA,","
+2025-06-20,2025,0,11,2,2,0,0,2,2025 Summer Tour,2025 Summer,Life Saving Gun,,1,SNHU Arena,Manchester,NH,USA,>
 2025-06-20,2025,0,12,2,2,0,0,0,2025 Summer Tour,2025 Summer,Twist,,1,SNHU Arena,Manchester,NH,USA,>
-2025-06-20,2025,0,13,2,2,0,0,2,2025 Summer Tour,2025 Summer,Piper,,1,SNHU Arena,Manchester,NH,USA,>
+2025-06-20,2025,0,13,2,2,0,0,3,2025 Summer Tour,2025 Summer,Piper,,1,SNHU Arena,Manchester,NH,USA,>
 2025-06-20,2025,0,14,5,2,0,0,1,2025 Summer Tour,2025 Summer,Everything's Right,,0,SNHU Arena,Manchester,NH,USA,
 2025-06-20,2025,0,15,2,e,0,0,21,2025 Summer Tour,2025 Summer,Strange Design,,1,SNHU Arena,Manchester,NH,USA,>
 2025-06-20,2025,0,16,2,e,0,0,2,2025 Summer Tour,2025 Summer,Harry Hood,Hood,1,SNHU Arena,Manchester,NH,USA,>
@@ -254,16 +254,16 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-06-22,2025,0,8,3,1,0,0,8,2025 Summer Tour,2025 Summer,"My Friend, My Friend",My Friend,1,SNHU Arena,Manchester,NH,USA,->
 2025-06-22,2025,0,9,1,1,0,0,62,2025 Summer Tour,2025 Summer,Egg in a Hole,,1,SNHU Arena,Manchester,NH,USA,","
 2025-06-22,2025,0,10,4,1,0,0,7,2025 Summer Tour,2025 Summer,Fluffhead,,1,SNHU Arena,Manchester,NH,USA,
-2025-06-22,2025,0,11,2,2,0,0,6,2025 Summer Tour,2025 Summer,Axilla (Part II),,1,SNHU Arena,Manchester,NH,USA,>
+2025-06-22,2025,0,11,2,2,0,0,7,2025 Summer Tour,2025 Summer,Axilla (Part II),,1,SNHU Arena,Manchester,NH,USA,>
 2025-06-22,2025,0,12,2,2,0,0,5,2025 Summer Tour,2025 Summer,Tweezer,,1,SNHU Arena,Manchester,NH,USA,>
 2025-06-22,2025,0,13,2,2,0,0,4,2025 Summer Tour,2025 Summer,Mercury,,1,SNHU Arena,Manchester,NH,USA,>
 2025-06-22,2025,0,14,2,2,0,0,5,2025 Summer Tour,2025 Summer,Tweezer,,1,SNHU Arena,Manchester,NH,USA,>
 2025-06-22,2025,0,15,2,2,0,0,6,2025 Summer Tour,2025 Summer,Pillow Jets,,0,SNHU Arena,Manchester,NH,USA,>
 2025-06-22,2025,0,16,2,2,0,0,5,2025 Summer Tour,2025 Summer,Tweezer,,1,SNHU Arena,Manchester,NH,USA,>
 2025-06-22,2025,0,17,5,2,0,0,14,2025 Summer Tour,2025 Summer,Golgi Apparatus,Golgi,1,SNHU Arena,Manchester,NH,USA,
-2025-06-22,2025,0,18,2,e,0,0,9,2025 Summer Tour,2025 Summer,Bug,,0,SNHU Arena,Manchester,NH,USA,>
+2025-06-22,2025,0,18,2,e,0,0,10,2025 Summer Tour,2025 Summer,Bug,,0,SNHU Arena,Manchester,NH,USA,>
 2025-06-22,2025,0,19,6,e,0,0,4,2025 Summer Tour,2025 Summer,Tweezer Reprise,Tweeprise,1,SNHU Arena,Manchester,NH,USA,
-2025-06-24,2025,0,1,2,1,0,0,4,2025 Summer Tour,2025 Summer,AC/DC Bag,Bag,1,Petersen Events Center,Pittsburgh,PA,USA,>
+2025-06-24,2025,0,1,2,1,0,0,5,2025 Summer Tour,2025 Summer,AC/DC Bag,Bag,1,Petersen Events Center,Pittsburgh,PA,USA,>
 2025-06-24,2025,0,2,1,1,0,0,122,2025 Summer Tour,2025 Summer,Dogs Stole Things,,1,Petersen Events Center,Pittsburgh,PA,USA,","
 2025-06-24,2025,0,3,1,1,0,0,322,2025 Summer Tour,2025 Summer,Paul and Silas,,0,Petersen Events Center,Pittsburgh,PA,USA,","
 2025-06-24,2025,0,4,1,1,0,0,10,2025 Summer Tour,2025 Summer,I Always Wanted It This Way,,1,Petersen Events Center,Pittsburgh,PA,USA,","
@@ -370,3 +370,23 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-07-05,2025,0,17,5,2,0,0,7,2025 Summer Tour,2025 Summer,Slave to the Traffic Light,Slave,1,Folsom Field,Boulder,CO,USA,
 2025-07-05,2025,0,18,1,e,0,0,69,2025 Summer Tour,2025 Summer,Buffalo Bill,,1,Folsom Field,Boulder,CO,USA,","
 2025-07-05,2025,0,19,6,e,0,0,7,2025 Summer Tour,2025 Summer,Harry Hood,Hood,1,Folsom Field,Boulder,CO,USA,
+2025-07-09,2025,0,1,1,1,0,0,6,2025 Summer Tour,2025 Summer,AC/DC Bag,Bag,1,Jerome Schottenstein Center,Columbus,OH,USA,","
+2025-07-09,2025,0,2,1,1,0,0,14,2025 Summer Tour,2025 Summer,Roggae,,1,Jerome Schottenstein Center,Columbus,OH,USA,","
+2025-07-09,2025,0,3,1,1,0,0,46,2025 Summer Tour,2025 Summer,Vultures,,1,Jerome Schottenstein Center,Columbus,OH,USA,","
+2025-07-09,2025,0,4,1,1,0,0,11,2025 Summer Tour,2025 Summer,Martian Monster,,1,Jerome Schottenstein Center,Columbus,OH,USA,","
+2025-07-09,2025,0,5,1,1,0,0,17,2025 Summer Tour,2025 Summer,Mull,,1,Jerome Schottenstein Center,Columbus,OH,USA,","
+2025-07-09,2025,0,6,2,1,0,0,41,2025 Summer Tour,2025 Summer,Strawberry Letter 23,,0,Jerome Schottenstein Center,Columbus,OH,USA,>
+2025-07-09,2025,0,7,1,1,0,0,30,2025 Summer Tour,2025 Summer,Undermind,,0,Jerome Schottenstein Center,Columbus,OH,USA,","
+2025-07-09,2025,0,8,1,1,0,0,121,2025 Summer Tour,2025 Summer,Petrichor,,0,Jerome Schottenstein Center,Columbus,OH,USA,","
+2025-07-09,2025,0,9,4,1,0,0,9,2025 Summer Tour,2025 Summer,Life Saving Gun,,1,Jerome Schottenstein Center,Columbus,OH,USA,
+2025-07-09,2025,0,10,2,2,0,0,9,2025 Summer Tour,2025 Summer,Sample in a Jar,Sample,1,Jerome Schottenstein Center,Columbus,OH,USA,>
+2025-07-09,2025,0,11,1,2,0,0,8,2025 Summer Tour,2025 Summer,A Wave of Hope,,0,Jerome Schottenstein Center,Columbus,OH,USA,","
+2025-07-09,2025,0,12,1,2,0,0,164,2025 Summer Tour,2025 Summer,Waiting All Night,,1,Jerome Schottenstein Center,Columbus,OH,USA,","
+2025-07-09,2025,0,13,3,2,0,0,7,2025 Summer Tour,2025 Summer,Axilla (Part II),,1,Jerome Schottenstein Center,Columbus,OH,USA,->
+2025-07-09,2025,0,14,2,2,0,0,9,2025 Summer Tour,2025 Summer,Piper,,1,Jerome Schottenstein Center,Columbus,OH,USA,>
+2025-07-09,2025,0,15,1,2,0,0,13,2025 Summer Tour,2025 Summer,Lonely Trip,,0,Jerome Schottenstein Center,Columbus,OH,USA,","
+2025-07-09,2025,0,16,1,2,0,0,16,2025 Summer Tour,2025 Summer,Backwards Down the Number Line,BDTNL,0,Jerome Schottenstein Center,Columbus,OH,USA,","
+2025-07-09,2025,0,17,5,2,0,0,30,2025 Summer Tour,2025 Summer,Loving Cup,,0,Jerome Schottenstein Center,Columbus,OH,USA,
+2025-07-09,2025,0,18,1,e,0,0,7,2025 Summer Tour,2025 Summer,Bug,,0,Jerome Schottenstein Center,Columbus,OH,USA,","
+2025-07-09,2025,0,19,2,e,0,0,25,2025 Summer Tour,2025 Summer,The Mango Song,Mango,1,Jerome Schottenstein Center,Columbus,OH,USA,>
+2025-07-09,2025,0,20,6,e,0,0,11,2025 Summer Tour,2025 Summer,Run Like an Antelope,Antelope,1,Jerome Schottenstein Center,Columbus,OH,USA,
