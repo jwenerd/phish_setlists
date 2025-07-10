@@ -383,7 +383,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-07-23,2023,0,17,1,e,0,0,47,2023 Summer Tour,2023 Summer,I Didn't Know,IDK,1,St. Joseph's Health Amphitheater at Lakeview,Syracuse,NY,USA,","
 2023-07-23,2023,0,18,2,e,0,0,13,2023 Summer Tour,2023 Summer,What's the Use?,WTU?,1,St. Joseph's Health Amphitheater at Lakeview,Syracuse,NY,USA,>
 2023-07-23,2023,0,19,6,e,0,0,6,2023 Summer Tour,2023 Summer,Tweezer Reprise,Tweeprise,1,St. Joseph's Health Amphitheater at Lakeview,Syracuse,NY,USA,
-2023-07-25,2023,0,1,2,1,0,0,12,2023 Summer Tour,2023 Summer,Strawberry Letter 23,,0,TD Pavilion at the Mann,Philadelphia,PA,USA,>
+2023-07-25,2023,0,1,2,1,0,0,13,2023 Summer Tour,2023 Summer,Strawberry Letter 23,,0,TD Pavilion at the Mann,Philadelphia,PA,USA,>
 2023-07-25,2023,0,2,3,1,0,0,6,2023 Summer Tour,2023 Summer,Bathtub Gin,Gin,1,TD Pavilion at the Mann,Philadelphia,PA,USA,->
 2023-07-25,2023,0,3,1,1,0,0,4,2023 Summer Tour,2023 Summer,Back on the Train,BOTT,0,TD Pavilion at the Mann,Philadelphia,PA,USA,","
 2023-07-25,2023,0,4,1,1,0,0,12,2023 Summer Tour,2023 Summer,The Squirming Coil,Coil,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
@@ -728,7 +728,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-10-10,2023,0,22,6,e,0,0,4,2023 Fall Tour,2023 Fall,First Tube,,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,
 2023-10-11,2023,0,1,1,1,0,0,7,2023 Fall Tour,2023 Fall,Set Your Soul Free,,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
 2023-10-11,2023,0,2,1,1,0,0,13,2023 Fall Tour,2023 Fall,Funky Bitch,,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
-2023-10-11,2023,0,3,1,1,0,0,4,2023 Fall Tour,2023 Fall,Roggae,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
+2023-10-11,2023,0,3,1,1,0,0,5,2023 Fall Tour,2023 Fall,Roggae,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
 2023-10-11,2023,0,4,1,1,0,0,5,2023 Fall Tour,2023 Fall,Kill Devil Falls,KDF,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
 2023-10-11,2023,0,5,2,1,0,0,10,2023 Fall Tour,2023 Fall,Steam,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
 2023-10-11,2023,0,6,2,1,0,0,14,2023 Fall Tour,2023 Fall,"My Friend, My Friend",My Friend,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
@@ -737,8 +737,8 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-10-11,2023,0,9,2,2,0,0,4,2023 Fall Tour,2023 Fall,Down with Disease,DwD,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
 2023-10-11,2023,0,10,1,2,0,0,8,2023 Fall Tour,2023 Fall,Ruby Waves,,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
 2023-10-11,2023,0,11,2,2,0,0,61,2023 Fall Tour,2023 Fall,Lifeboy,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
-2023-10-11,2023,0,12,2,2,0,0,5,2023 Fall Tour,2023 Fall,Piper,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
-2023-10-11,2023,0,13,1,2,0,0,10,2023 Fall Tour,2023 Fall,Backwards Down the Number Line,BDTNL,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
+2023-10-11,2023,0,12,2,2,0,0,6,2023 Fall Tour,2023 Fall,Piper,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
+2023-10-11,2023,0,13,1,2,0,0,11,2023 Fall Tour,2023 Fall,Backwards Down the Number Line,BDTNL,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
 2023-10-11,2023,0,14,5,2,0,0,13,2023 Fall Tour,2023 Fall,I Am the Walrus,,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,
 2023-10-11,2023,0,15,2,e,0,0,74,2023 Fall Tour,2023 Fall,Egg in a Hole,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
 2023-10-11,2023,0,16,6,e,0,0,9,2023 Fall Tour,2023 Fall,Possum,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,
