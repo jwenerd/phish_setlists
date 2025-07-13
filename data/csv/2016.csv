@@ -202,28 +202,28 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2016-06-28,2016,0,20,2,2,0,0,5,2016 Summer Tour,2016 Summer,Slave to the Traffic Light,Slave,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
 2016-06-28,2016,0,21,5,2,0,0,8,2016 Summer Tour,2016 Summer,You Enjoy Myself,YEM,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,
 2016-06-28,2016,0,22,6,e,0,0,52,2016 Summer Tour,2016 Summer,Quinn the Eskimo (The Mighty Quinn),Quinn,0,The Mann Center for the Performing Arts,Philadelphia,PA,USA,
-2016-06-29,2016,0,1,1,1,2,0,5,2016 Summer Tour,2016 Summer,Wolfman's Brother,Wolfman's,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
-2016-06-29,2016,0,2,1,1,2,0,9,2016 Summer Tour,2016 Summer,Your Pet Cat,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
-2016-06-29,2016,0,3,1,1,2,0,4,2016 Summer Tour,2016 Summer,Blaze On,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
-2016-06-29,2016,0,4,1,1,2,0,1715,2016 Summer Tour,2016 Summer,Waking Up Dead,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
-2016-06-29,2016,0,5,1,1,2,0,21,2016 Summer Tour,2016 Summer,Llama,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
-2016-06-29,2016,0,6,1,1,2,0,21,2016 Summer Tour,2016 Summer,Devotion To a Dream,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
-2016-06-29,2016,0,7,1,1,2,0,7,2016 Summer Tour,2016 Summer,Reba,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
-2016-06-29,2016,0,8,2,1,2,0,5,2016 Summer Tour,2016 Summer,Mike's Song,Mike's,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
-2016-06-29,2016,0,9,2,1,2,0,5,2016 Summer Tour,2016 Summer,Horn,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
-2016-06-29,2016,0,10,2,1,2,0,6,2016 Summer Tour,2016 Summer,Farmhouse,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
-2016-06-29,2016,0,11,4,1,2,0,5,2016 Summer Tour,2016 Summer,Weekapaug Groove,Weekapaug,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,
-2016-06-29,2016,0,12,3,2,2,0,6,2016 Summer Tour,2016 Summer,Crosseyed and Painless,C&amp;P,0,The Mann Center for the Performing Arts,Philadelphia,PA,USA,->
-2016-06-29,2016,0,13,1,2,2,0,1715,2016 Summer Tour,2016 Summer,Friends,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
-2016-06-29,2016,0,14,2,2,2,0,4,2016 Summer Tour,2016 Summer,Down with Disease,DwD,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
-2016-06-29,2016,0,15,2,2,2,0,8,2016 Summer Tour,2016 Summer,What's the Use?,WTU?,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
-2016-06-29,2016,0,16,2,2,2,0,17,2016 Summer Tour,2016 Summer,Meatstick,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
-2016-06-29,2016,0,17,1,2,2,0,5,2016 Summer Tour,2016 Summer,The Line,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
-2016-06-29,2016,0,18,1,2,2,0,1715,2016 Summer Tour,2016 Summer,Tide Turns,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
-2016-06-29,2016,0,19,1,2,2,0,4,2016 Summer Tour,2016 Summer,Backwards Down the Number Line,BDTNL,0,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
-2016-06-29,2016,0,20,5,2,2,0,41,2016 Summer Tour,2016 Summer,Dem Bones,,0,The Mann Center for the Performing Arts,Philadelphia,PA,USA,
-2016-06-29,2016,0,21,2,e,2,0,5,2016 Summer Tour,2016 Summer,Dear Prudence,,0,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
-2016-06-29,2016,0,22,6,e,2,0,3,2016 Summer Tour,2016 Summer,Harry Hood,Hood,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,
+2016-06-29,2016,0,1,1,1,0,0,4,2016 Summer Tour,2016 Summer,Wolfman's Brother,Wolfman's,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2016-06-29,2016,0,2,1,1,0,0,8,2016 Summer Tour,2016 Summer,Your Pet Cat,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2016-06-29,2016,0,3,1,1,0,0,3,2016 Summer Tour,2016 Summer,Blaze On,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2016-06-29,2016,0,4,1,1,0,0,0,2016 Summer Tour,2016 Summer,Waking Up Dead,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2016-06-29,2016,0,5,1,1,0,0,20,2016 Summer Tour,2016 Summer,Llama,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2016-06-29,2016,0,6,1,1,0,0,20,2016 Summer Tour,2016 Summer,Devotion To a Dream,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2016-06-29,2016,0,7,1,1,0,0,6,2016 Summer Tour,2016 Summer,Reba,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2016-06-29,2016,0,8,2,1,0,0,4,2016 Summer Tour,2016 Summer,Mike's Song,Mike's,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
+2016-06-29,2016,0,9,2,1,0,0,4,2016 Summer Tour,2016 Summer,Horn,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
+2016-06-29,2016,0,10,2,1,0,0,5,2016 Summer Tour,2016 Summer,Farmhouse,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
+2016-06-29,2016,0,11,4,1,0,0,4,2016 Summer Tour,2016 Summer,Weekapaug Groove,Weekapaug,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,
+2016-06-29,2016,0,12,3,2,0,0,5,2016 Summer Tour,2016 Summer,Crosseyed and Painless,C&amp;P,0,The Mann Center for the Performing Arts,Philadelphia,PA,USA,->
+2016-06-29,2016,0,13,1,2,0,0,0,2016 Summer Tour,2016 Summer,Friends,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2016-06-29,2016,0,14,2,2,0,0,3,2016 Summer Tour,2016 Summer,Down with Disease,DwD,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
+2016-06-29,2016,0,15,2,2,0,0,7,2016 Summer Tour,2016 Summer,What's the Use?,WTU?,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
+2016-06-29,2016,0,16,2,2,0,0,16,2016 Summer Tour,2016 Summer,Meatstick,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
+2016-06-29,2016,0,17,1,2,0,0,4,2016 Summer Tour,2016 Summer,The Line,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2016-06-29,2016,0,18,1,2,0,0,0,2016 Summer Tour,2016 Summer,Tide Turns,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2016-06-29,2016,0,19,1,2,0,0,3,2016 Summer Tour,2016 Summer,Backwards Down the Number Line,BDTNL,0,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+2016-06-29,2016,0,20,5,2,0,0,40,2016 Summer Tour,2016 Summer,Dem Bones,,0,The Mann Center for the Performing Arts,Philadelphia,PA,USA,
+2016-06-29,2016,0,21,2,e,0,0,4,2016 Summer Tour,2016 Summer,Dear Prudence,,0,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
+2016-06-29,2016,0,22,6,e,0,0,2,2016 Summer Tour,2016 Summer,Harry Hood,Hood,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,
 2016-07-01,2016,0,1,1,1,0,0,11,2016 Summer Tour,2016 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 2016-07-01,2016,0,2,2,1,0,0,45,2016 Summer Tour,2016 Summer,The Birds,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 2016-07-01,2016,0,3,1,1,0,0,10,2016 Summer Tour,2016 Summer,NICU,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","

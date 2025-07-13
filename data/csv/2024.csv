@@ -176,7 +176,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2024-07-20,2024,0,13,1,2,0,0,14,2024 Summer Tour,2024 Summer,Monsters,,0,Xfinity Center,Mansfield,MA,USA,","
 2024-07-20,2024,0,14,2,2,0,0,2,2024 Summer Tour,2024 Summer,Also Sprach Zarathustra,2001,0,Xfinity Center,Mansfield,MA,USA,>
 2024-07-20,2024,0,15,5,2,0,0,3,2024 Summer Tour,2024 Summer,Chalk Dust Torture,CDT,1,Xfinity Center,Mansfield,MA,USA,
-2024-07-20,2024,0,16,1,e,0,0,6,2024 Summer Tour,2024 Summer,When the Circus Comes,Circus,0,Xfinity Center,Mansfield,MA,USA,","
+2024-07-20,2024,0,16,1,e,0,0,7,2024 Summer Tour,2024 Summer,When the Circus Comes,Circus,0,Xfinity Center,Mansfield,MA,USA,","
 2024-07-20,2024,0,17,2,e,0,0,11,2024 Summer Tour,2024 Summer,David Bowie,Bowie,1,Xfinity Center,Mansfield,MA,USA,>
 2024-07-20,2024,0,18,6,e,0,0,3,2024 Summer Tour,2024 Summer,Say It To Me S.A.N.T.O.S.,,1,Xfinity Center,Mansfield,MA,USA,
 2024-07-21,2024,0,1,1,1,0,0,5,2024 Summer Tour,2024 Summer,Free,,1,Xfinity Center,Mansfield,MA,USA,","
@@ -368,7 +368,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2024-08-03,2024,0,16,5,2,0,0,7,2024 Summer Tour,2024 Summer,Fuego,,1,Ruoff Music Center,Noblesville,IN,USA,
 2024-08-03,2024,0,17,6,e,0,0,37,2024 Summer Tour,2024 Summer,Rock and Roll,R&amp;R,0,Ruoff Music Center,Noblesville,IN,USA,
 2024-08-04,2024,0,1,1,1,0,0,49,2024 Summer Tour,2024 Summer,Party Time,,1,Ruoff Music Center,Noblesville,IN,USA,","
-2024-08-04,2024,0,2,1,1,0,0,49,2024 Summer Tour,2024 Summer,The Final Hurrah,,1,Ruoff Music Center,Noblesville,IN,USA,","
+2024-08-04,2024,0,2,1,1,0,0,50,2024 Summer Tour,2024 Summer,The Final Hurrah,,1,Ruoff Music Center,Noblesville,IN,USA,","
 2024-08-04,2024,0,3,1,1,0,0,102,2024 Summer Tour,2024 Summer,Knuckle Bone Broth Avenue,KBBA,1,Ruoff Music Center,Noblesville,IN,USA,","
 2024-08-04,2024,0,4,1,1,0,0,47,2024 Summer Tour,2024 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Ruoff Music Center,Noblesville,IN,USA,","
 2024-08-04,2024,0,5,1,1,0,0,43,2024 Summer Tour,2024 Summer,The Dogs,,1,Ruoff Music Center,Noblesville,IN,USA,","
@@ -379,7 +379,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2024-08-04,2024,0,10,2,1,0,0,41,2024 Summer Tour,2024 Summer,Meatstick,,1,Ruoff Music Center,Noblesville,IN,USA,>
 2024-08-04,2024,0,11,4,1,0,0,7,2024 Summer Tour,2024 Summer,Run Like an Antelope,Antelope,1,Ruoff Music Center,Noblesville,IN,USA,
 2024-08-04,2024,0,12,1,2,0,0,7,2024 Summer Tour,2024 Summer,Ghost,,1,Ruoff Music Center,Noblesville,IN,USA,","
-2024-08-04,2024,0,13,2,2,0,0,48,2024 Summer Tour,2024 Summer,Soul Planet,,0,Ruoff Music Center,Noblesville,IN,USA,>
+2024-08-04,2024,0,13,2,2,0,0,49,2024 Summer Tour,2024 Summer,Soul Planet,,0,Ruoff Music Center,Noblesville,IN,USA,>
 2024-08-04,2024,0,14,1,2,0,0,129,2024 Summer Tour,2024 Summer,Billy Breathes,,1,Ruoff Music Center,Noblesville,IN,USA,","
 2024-08-04,2024,0,15,5,2,0,0,5,2024 Summer Tour,2024 Summer,Split Open and Melt,SOAMelt,1,Ruoff Music Center,Noblesville,IN,USA,
 2024-08-04,2024,0,16,6,e,2,2,10,2024 Summer Tour,2024 Summer,Slave to the Traffic Light,Slave,1,Ruoff Music Center,Noblesville,IN,USA,
@@ -689,7 +689,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2024-10-27,2024,0,6,1,1,0,0,11,Not Part of a Tour,No Tour,Limb By Limb,LxL,1,MVP Arena,Albany,NY,USA,","
 2024-10-27,2024,0,7,1,1,0,0,8,Not Part of a Tour,No Tour,Mountains in the Mist,Mist,0,MVP Arena,Albany,NY,USA,","
 2024-10-27,2024,0,8,1,1,0,0,4,Not Part of a Tour,No Tour,Kill Devil Falls,KDF,1,MVP Arena,Albany,NY,USA,","
-2024-10-27,2024,0,9,4,1,0,0,13,Not Part of a Tour,No Tour,Walls of the Cave,WotC,1,MVP Arena,Albany,NY,USA,
+2024-10-27,2024,0,9,4,1,0,0,14,Not Part of a Tour,No Tour,Walls of the Cave,WotC,1,MVP Arena,Albany,NY,USA,
 2024-10-27,2024,0,10,2,2,0,0,4,Not Part of a Tour,No Tour,Everything's Right,,0,MVP Arena,Albany,NY,USA,>
 2024-10-27,2024,0,11,1,2,0,0,5,Not Part of a Tour,No Tour,Chalk Dust Torture,CDT,1,MVP Arena,Albany,NY,USA,","
 2024-10-27,2024,0,12,1,2,0,0,22,Not Part of a Tour,No Tour,Mercury,,1,MVP Arena,Albany,NY,USA,","
