@@ -643,7 +643,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2019-11-29,2019,0,26,1,e,0,0,11,2019 Fall Tour,2019 Fall,Sleep,,1,Dunkin' Donuts Center,Providence,RI,USA,","
 2019-11-29,2019,0,27,1,e,0,0,13,2019 Fall Tour,2019 Fall,Driver,,1,Dunkin' Donuts Center,Providence,RI,USA,","
 2019-11-29,2019,0,28,6,e,0,0,2,2019 Fall Tour,2019 Fall,Bug,,0,Dunkin' Donuts Center,Providence,RI,USA,
-2019-11-30,2019,0,1,1,1,0,0,1,2019 Fall Tour,2019 Fall,Turtle in the Clouds,,1,Dunkin' Donuts Center,Providence,RI,USA,","
+2019-11-30,2019,0,1,1,1,0,0,2,2019 Fall Tour,2019 Fall,Turtle in the Clouds,,1,Dunkin' Donuts Center,Providence,RI,USA,","
 2019-11-30,2019,0,2,1,1,0,0,13,2019 Fall Tour,2019 Fall,Punch You in the Eye,PYITE,1,Dunkin' Donuts Center,Providence,RI,USA,","
 2019-11-30,2019,0,3,1,1,0,0,11,2019 Fall Tour,2019 Fall,Llama,,1,Dunkin' Donuts Center,Providence,RI,USA,","
 2019-11-30,2019,0,4,1,1,0,0,12,2019 Fall Tour,2019 Fall,Meat,,1,Dunkin' Donuts Center,Providence,RI,USA,","
@@ -653,14 +653,14 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2019-11-30,2019,0,8,1,1,0,0,8,2019 Fall Tour,2019 Fall,Maze,,1,Dunkin' Donuts Center,Providence,RI,USA,","
 2019-11-30,2019,0,9,1,1,0,0,15,2019 Fall Tour,2019 Fall,Horn,,1,Dunkin' Donuts Center,Providence,RI,USA,","
 2019-11-30,2019,0,10,2,1,0,0,16,2019 Fall Tour,2019 Fall,Gotta Jibboo,Jibboo,0,Dunkin' Donuts Center,Providence,RI,USA,>
-2019-11-30,2019,0,11,3,1,0,0,7,2019 Fall Tour,2019 Fall,Stash,,1,Dunkin' Donuts Center,Providence,RI,USA,->
+2019-11-30,2019,0,11,3,1,0,0,8,2019 Fall Tour,2019 Fall,Stash,,1,Dunkin' Donuts Center,Providence,RI,USA,->
 2019-11-30,2019,0,12,2,1,0,0,0,2019 Fall Tour,2019 Fall,Plasma,,0,Dunkin' Donuts Center,Providence,RI,USA,>
 2019-11-30,2019,0,13,4,1,0,0,8,2019 Fall Tour,2019 Fall,Golgi Apparatus,Golgi,1,Dunkin' Donuts Center,Providence,RI,USA,
 2019-11-30,2019,0,14,2,2,0,0,1,2019 Fall Tour,2019 Fall,Bathtub Gin,Gin,1,Dunkin' Donuts Center,Providence,RI,USA,>
 2019-11-30,2019,0,15,2,2,0,0,16,2019 Fall Tour,2019 Fall,Alaska,,0,Dunkin' Donuts Center,Providence,RI,USA,>
 2019-11-30,2019,0,16,2,2,0,0,3,2019 Fall Tour,2019 Fall,What's the Use?,WTU?,1,Dunkin' Donuts Center,Providence,RI,USA,>
 2019-11-30,2019,0,17,2,2,0,0,1,2019 Fall Tour,2019 Fall,Piper,,1,Dunkin' Donuts Center,Providence,RI,USA,>
-2019-11-30,2019,0,18,3,2,0,0,5,2019 Fall Tour,2019 Fall,Golden Age,,0,Dunkin' Donuts Center,Providence,RI,USA,->
+2019-11-30,2019,0,18,3,2,0,0,6,2019 Fall Tour,2019 Fall,Golden Age,,0,Dunkin' Donuts Center,Providence,RI,USA,->
 2019-11-30,2019,0,19,2,2,0,0,0,2019 Fall Tour,2019 Fall,Plasma,,0,Dunkin' Donuts Center,Providence,RI,USA,>
 2019-11-30,2019,0,20,5,2,0,0,3,2019 Fall Tour,2019 Fall,Harry Hood,Hood,1,Dunkin' Donuts Center,Providence,RI,USA,
 2019-11-30,2019,0,21,2,e,0,0,13,2019 Fall Tour,2019 Fall,Big Black Furry Creature from Mars,BBFCFM,1,Dunkin' Donuts Center,Providence,RI,USA,>

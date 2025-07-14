@@ -321,7 +321,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1991-02-22,1991,0,11,1,1,0,0,0,1991 Winter/Spring Tour,1991 Winter,Hold Your Head Up,HYHU,0,Cat's Cradle,Chapel Hill,NC,USA,","
 1991-02-22,1991,0,12,6,1,0,0,8,1991 Winter/Spring Tour,1991 Winter,Run Like an Antelope,Antelope,1,Cat's Cradle,Chapel Hill,NC,USA,
 1991-02-26,1991,0,1,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,Cavern,,1,The Barrel House,Salem,VA,USA,","
-1991-02-26,1991,0,2,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,Foam,,1,The Barrel House,Salem,VA,USA,","
+1991-02-26,1991,0,2,1,1,0,0,4,1991 Winter/Spring Tour,1991 Winter,Foam,,1,The Barrel House,Salem,VA,USA,","
 1991-02-26,1991,0,3,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,The Squirming Coil,Coil,1,The Barrel House,Salem,VA,USA,>
 1991-02-26,1991,0,4,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,Llama,,1,The Barrel House,Salem,VA,USA,","
 1991-02-26,1991,0,5,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,Guelah Papyrus,Guelah,1,The Barrel House,Salem,VA,USA,","
@@ -2642,7 +2642,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1991-11-16,1991,0,5,2,1,0,0,1,1991 Fall Tour,1991 Fall,It's Ice,,1,The Bayou,Washington,DC,USA,>
 1991-11-16,1991,0,6,2,1,0,0,0,1991 Fall Tour,1991 Fall,Sparkle,,1,The Bayou,Washington,DC,USA,>
 1991-11-16,1991,0,7,1,1,0,0,6,1991 Fall Tour,1991 Fall,Fluffhead,,1,The Bayou,Washington,DC,USA,","
-1991-11-16,1991,0,8,1,1,0,0,1,1991 Fall Tour,1991 Fall,Foam,,1,The Bayou,Washington,DC,USA,","
+1991-11-16,1991,0,8,1,1,0,0,2,1991 Fall Tour,1991 Fall,Foam,,1,The Bayou,Washington,DC,USA,","
 1991-11-16,1991,0,9,1,1,0,0,4,1991 Fall Tour,1991 Fall,Stash,,1,The Bayou,Washington,DC,USA,","
 1991-11-16,1991,0,10,1,1,0,0,3,1991 Fall Tour,1991 Fall,Ya Mar,,0,The Bayou,Washington,DC,USA,","
 1991-11-16,1991,0,11,4,1,0,0,1,1991 Fall Tour,1991 Fall,Cavern,,1,The Bayou,Washington,DC,USA,

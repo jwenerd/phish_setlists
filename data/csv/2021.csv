@@ -248,14 +248,14 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2021-08-14,2021,0,9,4,1,0,0,7,2021 Summer Tour,2021 Summer,The Squirming Coil,Coil,1,Atlantic City Beach,Atlantic City,NJ,USA,
 2021-08-14,2021,0,10,1,2,0,0,5,2021 Summer Tour,2021 Summer,I Never Needed You Like This Before,,0,Atlantic City Beach,Atlantic City,NJ,USA,","
 2021-08-14,2021,0,11,2,2,0,0,19,2021 Summer Tour,2021 Summer,Drowned,,0,Atlantic City Beach,Atlantic City,NJ,USA,>
-2021-08-14,2021,0,12,3,2,0,0,3,2021 Summer Tour,2021 Summer,Ghost,,1,Atlantic City Beach,Atlantic City,NJ,USA,->
+2021-08-14,2021,0,12,3,2,0,0,4,2021 Summer Tour,2021 Summer,Ghost,,1,Atlantic City Beach,Atlantic City,NJ,USA,->
 2021-08-14,2021,0,13,2,2,0,0,22,2021 Summer Tour,2021 Summer,Scents and Subtle Sounds,,1,Atlantic City Beach,Atlantic City,NJ,USA,>
 2021-08-14,2021,0,14,2,2,0,0,1,2021 Summer Tour,2021 Summer,Chalk Dust Torture,CDT,1,Atlantic City Beach,Atlantic City,NJ,USA,>
 2021-08-14,2021,0,15,2,2,0,0,22,2021 Summer Tour,2021 Summer,No Quarter,,0,Atlantic City Beach,Atlantic City,NJ,USA,>
-2021-08-14,2021,0,16,2,2,0,0,3,2021 Summer Tour,2021 Summer,Slave to the Traffic Light,Slave,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-14,2021,0,16,2,2,0,0,4,2021 Summer Tour,2021 Summer,Slave to the Traffic Light,Slave,1,Atlantic City Beach,Atlantic City,NJ,USA,>
 2021-08-14,2021,0,17,5,2,0,0,6,2021 Summer Tour,2021 Summer,Suzy Greenberg,Suzy,1,Atlantic City Beach,Atlantic City,NJ,USA,
-2021-08-14,2021,0,18,1,e,0,0,9,2021 Summer Tour,2021 Summer,A Life Beyond The Dream,,0,Atlantic City Beach,Atlantic City,NJ,USA,","
-2021-08-14,2021,0,19,6,e,0,0,8,2021 Summer Tour,2021 Summer,Tweezer Reprise,Tweeprise,1,Atlantic City Beach,Atlantic City,NJ,USA,
+2021-08-14,2021,0,18,1,e,0,0,10,2021 Summer Tour,2021 Summer,A Life Beyond The Dream,,0,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,19,6,e,0,0,9,2021 Summer Tour,2021 Summer,Tweezer Reprise,Tweeprise,1,Atlantic City Beach,Atlantic City,NJ,USA,
 2021-08-15,2021,0,1,1,1,0,0,17,2021 Summer Tour,2021 Summer,The Landlady,Landlady,1,Atlantic City Beach,Atlantic City,NJ,USA,","
 2021-08-15,2021,0,2,2,1,0,0,1,2021 Summer Tour,2021 Summer,Scents and Subtle Sounds,,1,Atlantic City Beach,Atlantic City,NJ,USA,>
 2021-08-15,2021,0,3,2,1,0,0,6,2021 Summer Tour,2021 Summer,The Moma Dance,Moma,1,Atlantic City Beach,Atlantic City,NJ,USA,>
@@ -542,7 +542,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2021-10-23,2021,0,2,3,1,0,0,18,2021 Fall Tour,2021 Fall,NICU,,1,North Island Credit Union Amphitheatre,Chula Vista,CA,USA,->
 2021-10-23,2021,0,3,1,1,0,0,43,2021 Fall Tour,2021 Fall,Bye Bye Foot,,1,North Island Credit Union Amphitheatre,Chula Vista,CA,USA,","
 2021-10-23,2021,0,4,2,1,0,0,5,2021 Fall Tour,2021 Fall,Tube,,1,North Island Credit Union Amphitheatre,Chula Vista,CA,USA,>
-2021-10-23,2021,0,5,2,1,0,0,4,2021 Fall Tour,2021 Fall,Slave to the Traffic Light,Slave,1,North Island Credit Union Amphitheatre,Chula Vista,CA,USA,>
+2021-10-23,2021,0,5,2,1,0,0,5,2021 Fall Tour,2021 Fall,Slave to the Traffic Light,Slave,1,North Island Credit Union Amphitheatre,Chula Vista,CA,USA,>
 2021-10-23,2021,0,6,2,1,0,0,15,2021 Fall Tour,2021 Fall,Llama,,1,North Island Credit Union Amphitheatre,Chula Vista,CA,USA,>
 2021-10-23,2021,0,7,4,1,0,0,8,2021 Fall Tour,2021 Fall,Rise/Come Together,,0,North Island Credit Union Amphitheatre,Chula Vista,CA,USA,
 2021-10-23,2021,0,8,2,2,0,0,13,2021 Fall Tour,2021 Fall,No Men In No Man's Land,NMINML,1,North Island Credit Union Amphitheatre,Chula Vista,CA,USA,>
