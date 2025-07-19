@@ -95,7 +95,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-04-19,2025,0,3,1,1,0,0,5,2025 Spring Tour,2025 Spring,Evolve,,0,Climate Pledge Arena,Seattle,WA,USA,","
 2025-04-19,2025,0,4,1,1,0,0,2,2025 Spring Tour,2025 Spring,Stash,,1,Climate Pledge Arena,Seattle,WA,USA,","
 2025-04-19,2025,0,5,1,1,0,0,29,2025 Spring Tour,2025 Spring,Pebbles and Marbles,,0,Climate Pledge Arena,Seattle,WA,USA,","
-2025-04-19,2025,0,6,1,1,0,0,1,2025 Spring Tour,2025 Spring,Farmhouse,,1,Climate Pledge Arena,Seattle,WA,USA,","
+2025-04-19,2025,0,6,1,1,0,0,2,2025 Spring Tour,2025 Spring,Farmhouse,,1,Climate Pledge Arena,Seattle,WA,USA,","
 2025-04-19,2025,0,7,2,1,0,0,38,2025 Spring Tour,2025 Spring,Suzy Greenberg,Suzy,1,Climate Pledge Arena,Seattle,WA,USA,>
 2025-04-19,2025,0,8,4,1,0,0,10,2025 Spring Tour,2025 Spring,Walls of the Cave,WotC,1,Climate Pledge Arena,Seattle,WA,USA,
 2025-04-19,2025,0,9,2,2,0,0,3,2025 Spring Tour,2025 Spring,Chalk Dust Torture,CDT,1,Climate Pledge Arena,Seattle,WA,USA,>
@@ -214,7 +214,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-06-20,2025,0,3,1,1,0,0,3,2025 Summer Tour,2025 Summer,Wolfman's Brother,Wolfman's,1,SNHU Arena,Manchester,NH,USA,","
 2025-06-20,2025,0,4,1,1,0,0,8,2025 Summer Tour,2025 Summer,Theme From the Bottom,Theme,1,SNHU Arena,Manchester,NH,USA,","
 2025-06-20,2025,0,5,1,1,0,0,30,2025 Summer Tour,2025 Summer,The Old Home Place,,0,SNHU Arena,Manchester,NH,USA,","
-2025-06-20,2025,0,6,1,1,0,0,2,2025 Summer Tour,2025 Summer,46 Days,,1,SNHU Arena,Manchester,NH,USA,","
+2025-06-20,2025,0,6,1,1,0,0,3,2025 Summer Tour,2025 Summer,46 Days,,1,SNHU Arena,Manchester,NH,USA,","
 2025-06-20,2025,0,7,1,1,0,0,1,2025 Summer Tour,2025 Summer,Birds of a Feather,BOAF,1,SNHU Arena,Manchester,NH,USA,","
 2025-06-20,2025,0,8,4,1,0,0,2,2025 Summer Tour,2025 Summer,Slave to the Traffic Light,Slave,1,SNHU Arena,Manchester,NH,USA,
 2025-06-20,2025,0,9,1,2,0,0,6,2025 Summer Tour,2025 Summer,Bouncing Around the Room,Bouncin',1,SNHU Arena,Manchester,NH,USA,","
@@ -224,7 +224,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-06-20,2025,0,13,2,2,0,0,3,2025 Summer Tour,2025 Summer,Piper,,1,SNHU Arena,Manchester,NH,USA,>
 2025-06-20,2025,0,14,5,2,0,0,2,2025 Summer Tour,2025 Summer,Everything's Right,,0,SNHU Arena,Manchester,NH,USA,
 2025-06-20,2025,0,15,2,e,0,0,21,2025 Summer Tour,2025 Summer,Strange Design,,1,SNHU Arena,Manchester,NH,USA,>
-2025-06-20,2025,0,16,2,e,0,0,2,2025 Summer Tour,2025 Summer,Harry Hood,Hood,1,SNHU Arena,Manchester,NH,USA,>
+2025-06-20,2025,0,16,2,e,0,0,3,2025 Summer Tour,2025 Summer,Harry Hood,Hood,1,SNHU Arena,Manchester,NH,USA,>
 2025-06-20,2025,0,17,6,e,0,0,7,2025 Summer Tour,2025 Summer,Suzy Greenberg,Suzy,1,SNHU Arena,Manchester,NH,USA,
 2025-06-21,2025,0,1,2,1,0,0,8,2025 Summer Tour,2025 Summer,Free,,1,SNHU Arena,Manchester,NH,USA,>
 2025-06-21,2025,0,2,1,1,0,0,5,2025 Summer Tour,2025 Summer,Reba,,1,SNHU Arena,Manchester,NH,USA,","
@@ -273,7 +273,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-06-24,2025,0,8,1,1,0,0,7,2025 Summer Tour,2025 Summer,Gumbo,,1,Petersen Events Center,Pittsburgh,PA,USA,","
 2025-06-24,2025,0,9,4,1,0,0,10,2025 Summer Tour,2025 Summer,Walls of the Cave,WotC,1,Petersen Events Center,Pittsburgh,PA,USA,
 2025-06-24,2025,0,10,3,2,0,0,4,2025 Summer Tour,2025 Summer,You Enjoy Myself,YEM,1,Petersen Events Center,Pittsburgh,PA,USA,->
-2025-06-24,2025,0,11,1,2,0,0,5,2025 Summer Tour,2025 Summer,What's Going Through Your Mind,WGTYM,0,Petersen Events Center,Pittsburgh,PA,USA,","
+2025-06-24,2025,0,11,1,2,0,0,6,2025 Summer Tour,2025 Summer,What's Going Through Your Mind,WGTYM,0,Petersen Events Center,Pittsburgh,PA,USA,","
 2025-06-24,2025,0,12,2,2,0,0,13,2025 Summer Tour,2025 Summer,Prince Caspian,Caspian,1,Petersen Events Center,Pittsburgh,PA,USA,>
 2025-06-24,2025,0,13,2,2,0,0,33,2025 Summer Tour,2025 Summer,Julius,,1,Petersen Events Center,Pittsburgh,PA,USA,>
 2025-06-24,2025,0,14,5,2,0,0,5,2025 Summer Tour,2025 Summer,Blaze On,,1,Petersen Events Center,Pittsburgh,PA,USA,
@@ -288,12 +288,12 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-06-27,2025,0,7,1,1,0,0,6,2025 Summer Tour,2025 Summer,Taste,,1,Moody Center,Austin,TX,USA,","
 2025-06-27,2025,0,8,1,1,0,0,22,2025 Summer Tour,2025 Summer,Dirt,,0,Moody Center,Austin,TX,USA,","
 2025-06-27,2025,0,9,4,1,0,0,8,2025 Summer Tour,2025 Summer,Weekapaug Groove,Weekapaug,1,Moody Center,Austin,TX,USA,
-2025-06-27,2025,0,10,1,2,0,0,8,2025 Summer Tour,2025 Summer,No Men In No Man's Land,NMINML,1,Moody Center,Austin,TX,USA,","
+2025-06-27,2025,0,10,1,2,0,0,9,2025 Summer Tour,2025 Summer,No Men In No Man's Land,NMINML,1,Moody Center,Austin,TX,USA,","
 2025-06-27,2025,0,11,2,2,0,0,4,2025 Summer Tour,2025 Summer,Fuego,,1,Moody Center,Austin,TX,USA,>
 2025-06-27,2025,0,12,1,2,0,0,12,2025 Summer Tour,2025 Summer,Golden Age,,0,Moody Center,Austin,TX,USA,","
 2025-06-27,2025,0,13,1,2,0,0,5,2025 Summer Tour,2025 Summer,The Squirming Coil,Coil,1,Moody Center,Austin,TX,USA,","
 2025-06-27,2025,0,14,1,2,0,0,5,2025 Summer Tour,2025 Summer,Sand,,0,Moody Center,Austin,TX,USA,","
-2025-06-27,2025,0,15,5,2,0,0,7,2025 Summer Tour,2025 Summer,Character Zero,,1,Moody Center,Austin,TX,USA,
+2025-06-27,2025,0,15,5,2,0,0,8,2025 Summer Tour,2025 Summer,Character Zero,,1,Moody Center,Austin,TX,USA,
 2025-06-27,2025,0,16,1,e,0,0,7,2025 Summer Tour,2025 Summer,A Life Beyond The Dream,,0,Moody Center,Austin,TX,USA,","
 2025-06-27,2025,0,17,6,e,2,2,8,2025 Summer Tour,2025 Summer,First Tube,,0,Moody Center,Austin,TX,USA,
 2025-06-28,2025,0,1,2,1,0,0,9,2025 Summer Tour,2025 Summer,Punch You in the Eye,PYITE,1,Moody Center,Austin,TX,USA,>
@@ -344,15 +344,15 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-07-04,2025,0,9,1,1,0,0,6,2025 Summer Tour,2025 Summer,Back on the Train,BOTT,0,Folsom Field,Boulder,CO,USA,","
 2025-07-04,2025,0,10,4,1,0,0,7,2025 Summer Tour,2025 Summer,Most Events Aren't Planned,,0,Folsom Field,Boulder,CO,USA,
 2025-07-04,2025,0,11,3,2,0,0,11,2025 Summer Tour,2025 Summer,Simple,,1,Folsom Field,Boulder,CO,USA,->
-2025-07-04,2025,0,12,2,2,0,0,3,2025 Summer Tour,2025 Summer,What's Going Through Your Mind,WGTYM,0,Folsom Field,Boulder,CO,USA,>
+2025-07-04,2025,0,12,2,2,0,0,4,2025 Summer Tour,2025 Summer,What's Going Through Your Mind,WGTYM,0,Folsom Field,Boulder,CO,USA,>
 2025-07-04,2025,0,13,2,2,0,0,5,2025 Summer Tour,2025 Summer,Tweezer,,1,Folsom Field,Boulder,CO,USA,>
 2025-07-04,2025,0,14,2,2,0,0,65,2025 Summer Tour,2025 Summer,No Quarter,,0,Folsom Field,Boulder,CO,USA,>
 2025-07-04,2025,0,15,2,2,0,0,6,2025 Summer Tour,2025 Summer,Down with Disease,DwD,1,Folsom Field,Boulder,CO,USA,>
 2025-07-04,2025,0,16,5,2,0,0,4,2025 Summer Tour,2025 Summer,Ghost,,1,Folsom Field,Boulder,CO,USA,
-2025-07-04,2025,0,17,2,e,0,0,2,2025 Summer Tour,2025 Summer,Character Zero,,1,Folsom Field,Boulder,CO,USA,>
+2025-07-04,2025,0,17,2,e,0,0,3,2025 Summer Tour,2025 Summer,Character Zero,,1,Folsom Field,Boulder,CO,USA,>
 2025-07-04,2025,0,18,6,e,2,2,5,2025 Summer Tour,2025 Summer,Tweezer Reprise,Tweeprise,1,Folsom Field,Boulder,CO,USA,
 2025-07-05,2025,0,1,2,1,0,0,12,2025 Summer Tour,2025 Summer,Buried Alive,,1,Folsom Field,Boulder,CO,USA,>
-2025-07-05,2025,0,2,1,1,0,0,7,2025 Summer Tour,2025 Summer,46 Days,,1,Folsom Field,Boulder,CO,USA,","
+2025-07-05,2025,0,2,1,1,0,0,8,2025 Summer Tour,2025 Summer,46 Days,,1,Folsom Field,Boulder,CO,USA,","
 2025-07-05,2025,0,3,1,1,0,0,7,2025 Summer Tour,2025 Summer,Birds of a Feather,BOAF,1,Folsom Field,Boulder,CO,USA,","
 2025-07-05,2025,0,4,1,1,0,0,13,2025 Summer Tour,2025 Summer,Sigma Oasis,,0,Folsom Field,Boulder,CO,USA,","
 2025-07-05,2025,0,5,1,1,0,0,7,2025 Summer Tour,2025 Summer,David Bowie,Bowie,1,Folsom Field,Boulder,CO,USA,","
@@ -364,12 +364,12 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-07-05,2025,0,11,3,2,0,0,3,2025 Summer Tour,2025 Summer,Fuego,,1,Folsom Field,Boulder,CO,USA,->
 2025-07-05,2025,0,12,3,2,0,0,6,2025 Summer Tour,2025 Summer,"My Friend, My Friend",My Friend,1,Folsom Field,Boulder,CO,USA,->
 2025-07-05,2025,0,13,2,2,0,0,3,2025 Summer Tour,2025 Summer,Fuego,,1,Folsom Field,Boulder,CO,USA,>
-2025-07-05,2025,0,14,2,2,0,0,11,2025 Summer Tour,2025 Summer,Crosseyed and Painless,C&amp;P,0,Folsom Field,Boulder,CO,USA,>
+2025-07-05,2025,0,14,2,2,0,0,12,2025 Summer Tour,2025 Summer,Crosseyed and Painless,C&amp;P,0,Folsom Field,Boulder,CO,USA,>
 2025-07-05,2025,0,15,1,2,0,0,8,2025 Summer Tour,2025 Summer,Everything's Right,,0,Folsom Field,Boulder,CO,USA,","
 2025-07-05,2025,0,16,1,2,0,0,8,2025 Summer Tour,2025 Summer,More,,1,Folsom Field,Boulder,CO,USA,","
 2025-07-05,2025,0,17,5,2,0,0,8,2025 Summer Tour,2025 Summer,Slave to the Traffic Light,Slave,1,Folsom Field,Boulder,CO,USA,
 2025-07-05,2025,0,18,1,e,0,0,69,2025 Summer Tour,2025 Summer,Buffalo Bill,,1,Folsom Field,Boulder,CO,USA,","
-2025-07-05,2025,0,19,6,e,0,0,7,2025 Summer Tour,2025 Summer,Harry Hood,Hood,1,Folsom Field,Boulder,CO,USA,
+2025-07-05,2025,0,19,6,e,0,0,8,2025 Summer Tour,2025 Summer,Harry Hood,Hood,1,Folsom Field,Boulder,CO,USA,
 2025-07-09,2025,0,1,1,1,0,0,6,2025 Summer Tour,2025 Summer,AC/DC Bag,Bag,1,Jerome Schottenstein Center,Columbus,OH,USA,","
 2025-07-09,2025,0,2,1,1,0,0,14,2025 Summer Tour,2025 Summer,Roggae,,1,Jerome Schottenstein Center,Columbus,OH,USA,","
 2025-07-09,2025,0,3,1,1,0,0,46,2025 Summer Tour,2025 Summer,Vultures,,1,Jerome Schottenstein Center,Columbus,OH,USA,","
@@ -423,7 +423,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-07-12,2025,0,12,2,2,0,0,8,2025 Summer Tour,2025 Summer,Mercury,,1,North Charleston Coliseum,North Charleston,SC,USA,>
 2025-07-12,2025,0,13,1,2,0,0,43,2025 Summer Tour,2025 Summer,Soul Planet,,0,North Charleston Coliseum,North Charleston,SC,USA,","
 2025-07-12,2025,0,14,1,2,0,0,11,2025 Summer Tour,2025 Summer,Joy,,1,North Charleston Coliseum,North Charleston,SC,USA,","
-2025-07-12,2025,0,15,1,2,0,0,2,2025 Summer Tour,2025 Summer,Harry Hood,Hood,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2025-07-12,2025,0,15,1,2,0,0,3,2025 Summer Tour,2025 Summer,Harry Hood,Hood,1,North Charleston Coliseum,North Charleston,SC,USA,","
 2025-07-12,2025,0,16,5,2,0,0,71,2025 Summer Tour,2025 Summer,I Am the Walrus,,0,North Charleston Coliseum,North Charleston,SC,USA,
 2025-07-12,2025,0,17,1,e,0,0,205,2025 Summer Tour,2025 Summer,Carolina,,0,North Charleston Coliseum,North Charleston,SC,USA,","
 2025-07-12,2025,0,18,6,e,0,0,5,2025 Summer Tour,2025 Summer,Say It To Me S.A.N.T.O.S.,,1,North Charleston Coliseum,North Charleston,SC,USA,
@@ -480,3 +480,21 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-07-16,2025,0,17,2,2,0,0,25,2025 Summer Tour,2025 Summer,Twenty Years Later,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
 2025-07-16,2025,0,18,5,2,0,0,5,2025 Summer Tour,2025 Summer,Run Like an Antelope,Antelope,1,TD Pavilion at the Mann,Philadelphia,PA,USA,
 2025-07-16,2025,0,19,6,e,0,0,8,2025 Summer Tour,2025 Summer,You Enjoy Myself,YEM,1,TD Pavilion at the Mann,Philadelphia,PA,USA,
+2025-07-18,2025,0,1,1,1,0,0,3,2025 Summer Tour,2025 Summer,Harry Hood,Hood,1,United Center,Chicago,IL,USA,","
+2025-07-18,2025,0,2,1,1,0,0,7,2025 Summer Tour,2025 Summer,Oblivion,,0,United Center,Chicago,IL,USA,","
+2025-07-18,2025,0,3,1,1,0,0,31,2025 Summer Tour,2025 Summer,Heavy Things,,1,United Center,Chicago,IL,USA,","
+2025-07-18,2025,0,4,1,1,0,0,3,2025 Summer Tour,2025 Summer,Bathtub Gin,Gin,1,United Center,Chicago,IL,USA,","
+2025-07-18,2025,0,5,1,1,0,0,521,2025 Summer Tour,2025 Summer,On Your Way Down,,0,United Center,Chicago,IL,USA,","
+2025-07-18,2025,0,6,1,1,0,0,9,2025 Summer Tour,2025 Summer,Limb By Limb,LxL,1,United Center,Chicago,IL,USA,","
+2025-07-18,2025,0,7,2,1,0,0,4,2025 Summer Tour,2025 Summer,Hey Stranger,,0,United Center,Chicago,IL,USA,>
+2025-07-18,2025,0,8,4,1,0,0,7,2025 Summer Tour,2025 Summer,Character Zero,,1,United Center,Chicago,IL,USA,
+2025-07-18,2025,0,9,2,2,0,0,10,2025 Summer Tour,2025 Summer,No Men In No Man's Land,NMINML,1,United Center,Chicago,IL,USA,>
+2025-07-18,2025,0,10,2,2,0,0,7,2025 Summer Tour,2025 Summer,What's Going Through Your Mind,WGTYM,0,United Center,Chicago,IL,USA,>
+2025-07-18,2025,0,11,2,2,0,0,6,2025 Summer Tour,2025 Summer,Crosseyed and Painless,C&amp;P,0,United Center,Chicago,IL,USA,>
+2025-07-18,2025,0,12,1,2,0,0,21,2025 Summer Tour,2025 Summer,Farmhouse,,1,United Center,Chicago,IL,USA,","
+2025-07-18,2025,0,13,2,2,0,0,9,2025 Summer Tour,2025 Summer,Light,,0,United Center,Chicago,IL,USA,>
+2025-07-18,2025,0,14,2,2,0,0,6,2025 Summer Tour,2025 Summer,Backwards Down the Number Line,BDTNL,0,United Center,Chicago,IL,USA,>
+2025-07-18,2025,0,15,5,2,0,0,16,2025 Summer Tour,2025 Summer,Cavern,,1,United Center,Chicago,IL,USA,
+2025-07-18,2025,0,16,2,e,0,0,55,2025 Summer Tour,2025 Summer,The Horse,Horse,1,United Center,Chicago,IL,USA,>
+2025-07-18,2025,0,17,1,e,0,0,55,2025 Summer Tour,2025 Summer,Silent in the Morning,Silent,1,United Center,Chicago,IL,USA,","
+2025-07-18,2025,0,18,6,e,0,0,7,2025 Summer Tour,2025 Summer,46 Days,,1,United Center,Chicago,IL,USA,
