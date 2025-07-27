@@ -147,27 +147,27 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2022-04-23,2022,0,17,2,e,2,0,17,2022 Madison Square Garden Spring Run,2022 Spring,Wilson,,1,Madison Square Garden,New York,NY,USA,>
 2022-04-23,2022,0,18,1,e,2,0,9,2022 Madison Square Garden Spring Run,2022 Spring,David Bowie,Bowie,1,Madison Square Garden,New York,NY,USA,","
 2022-04-23,2022,0,19,6,e,2,0,16,2022 Madison Square Garden Spring Run,2022 Spring,More,,1,Madison Square Garden,New York,NY,USA,
-2022-05-27,2022,0,1,2,1,0,0,3,2022 Spring Tour,2022 Spring,Twist,,1,The Wharf Amphitheater,Orange Beach,AL,USA,>
+2022-05-27,2022,0,1,2,1,0,0,4,2022 Spring Tour,2022 Spring,Twist,,1,The Wharf Amphitheater,Orange Beach,AL,USA,>
 2022-05-27,2022,0,2,2,1,0,0,6,2022 Spring Tour,2022 Spring,Halley's Comet,Halley's,1,The Wharf Amphitheater,Orange Beach,AL,USA,>
 2022-05-27,2022,0,3,1,1,0,0,2,2022 Spring Tour,2022 Spring,Sand,,0,The Wharf Amphitheater,Orange Beach,AL,USA,","
-2022-05-27,2022,0,4,1,1,0,0,58,2022 Spring Tour,2022 Spring,The Old Home Place,,0,The Wharf Amphitheater,Orange Beach,AL,USA,","
-2022-05-27,2022,0,5,1,1,0,0,16,2022 Spring Tour,2022 Spring,Martian Monster,,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
+2022-05-27,2022,0,4,1,1,0,0,59,2022 Spring Tour,2022 Spring,The Old Home Place,,0,The Wharf Amphitheater,Orange Beach,AL,USA,","
+2022-05-27,2022,0,5,1,1,0,0,17,2022 Spring Tour,2022 Spring,Martian Monster,,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
 2022-05-27,2022,0,6,1,1,0,0,10,2022 Spring Tour,2022 Spring,Dogs Stole Things,,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
 2022-05-27,2022,0,7,1,1,0,0,38,2022 Spring Tour,2022 Spring,Halfway to the Moon,,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
 2022-05-27,2022,0,8,1,1,0,0,4,2022 Spring Tour,2022 Spring,Stash,,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
 2022-05-27,2022,0,9,1,1,0,0,8,2022 Spring Tour,2022 Spring,Shade,,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
 2022-05-27,2022,0,10,1,1,0,0,7,2022 Spring Tour,2022 Spring,I Never Needed You Like This Before,,0,The Wharf Amphitheater,Orange Beach,AL,USA,","
-2022-05-27,2022,0,11,4,1,0,0,1,2022 Spring Tour,2022 Spring,Bathtub Gin,Gin,1,The Wharf Amphitheater,Orange Beach,AL,USA,
+2022-05-27,2022,0,11,4,1,0,0,2,2022 Spring Tour,2022 Spring,Bathtub Gin,Gin,1,The Wharf Amphitheater,Orange Beach,AL,USA,
 2022-05-27,2022,0,12,1,2,0,0,10,2022 Spring Tour,2022 Spring,Llama,,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
 2022-05-27,2022,0,13,3,2,0,0,8,2022 Spring Tour,2022 Spring,Soul Planet,,0,The Wharf Amphitheater,Orange Beach,AL,USA,->
 2022-05-27,2022,0,14,3,2,0,0,605,2022 Spring Tour,2022 Spring,Quadrophonic Toppling,,1,The Wharf Amphitheater,Orange Beach,AL,USA,->
 2022-05-27,2022,0,15,2,2,0,0,0,2022 Spring Tour,2022 Spring,Soul Planet,,0,The Wharf Amphitheater,Orange Beach,AL,USA,>
 2022-05-27,2022,0,16,3,2,0,0,3,2022 Spring Tour,2022 Spring,Ghost,,1,The Wharf Amphitheater,Orange Beach,AL,USA,->
-2022-05-27,2022,0,17,3,2,0,0,5,2022 Spring Tour,2022 Spring,Scents and Subtle Sounds,,1,The Wharf Amphitheater,Orange Beach,AL,USA,->
-2022-05-27,2022,0,18,1,2,0,0,2,2022 Spring Tour,2022 Spring,Chalk Dust Torture,CDT,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
-2022-05-27,2022,0,19,5,2,0,0,16,2022 Spring Tour,2022 Spring,Loving Cup,,0,The Wharf Amphitheater,Orange Beach,AL,USA,
-2022-05-27,2022,0,20,1,e,0,0,5,2022 Spring Tour,2022 Spring,Waste,,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
-2022-05-27,2022,0,21,6,e,0,0,1,2022 Spring Tour,2022 Spring,Say It To Me S.A.N.T.O.S.,,1,The Wharf Amphitheater,Orange Beach,AL,USA,
+2022-05-27,2022,0,17,3,2,0,0,6,2022 Spring Tour,2022 Spring,Scents and Subtle Sounds,,1,The Wharf Amphitheater,Orange Beach,AL,USA,->
+2022-05-27,2022,0,18,1,2,0,0,3,2022 Spring Tour,2022 Spring,Chalk Dust Torture,CDT,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
+2022-05-27,2022,0,19,5,2,0,0,17,2022 Spring Tour,2022 Spring,Loving Cup,,0,The Wharf Amphitheater,Orange Beach,AL,USA,
+2022-05-27,2022,0,20,1,e,0,0,6,2022 Spring Tour,2022 Spring,Waste,,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
+2022-05-27,2022,0,21,6,e,0,0,2,2022 Spring Tour,2022 Spring,Say It To Me S.A.N.T.O.S.,,1,The Wharf Amphitheater,Orange Beach,AL,USA,
 2022-05-28,2022,0,1,1,1,2,0,5,2022 Spring Tour,2022 Spring,Sigma Oasis,,0,The Wharf Amphitheater,Orange Beach,AL,USA,","
 2022-05-28,2022,0,2,1,1,2,0,5,2022 Spring Tour,2022 Spring,Possum,,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
 2022-05-28,2022,0,3,2,1,2,0,19,2022 Spring Tour,2022 Spring,AC/DC Bag,Bag,1,The Wharf Amphitheater,Orange Beach,AL,USA,>
@@ -748,25 +748,25 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2022-09-02,2022,0,13,5,1,2,0,8,2022 Summer Tour,2022 Summer,Chalk Dust Torture,CDT,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2022-09-02,2022,0,14,1,e,2,0,15,2022 Summer Tour,2022 Summer,Pebbles and Marbles,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2022-09-02,2022,0,15,6,e,2,0,7,2022 Summer Tour,2022 Summer,Tweezer Reprise,Tweeprise,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2022-09-03,2022,0,1,1,1,2,0,11,2022 Summer Tour,2022 Summer,Punch You in the Eye,PYITE,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2022-09-03,2022,0,2,1,1,2,0,7,2022 Summer Tour,2022 Summer,Wolfman's Brother,Wolfman's,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2022-09-03,2022,0,3,1,1,2,0,21,2022 Summer Tour,2022 Summer,Walls of the Cave,WotC,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2022-09-03,2022,0,4,1,1,2,0,8,2022 Summer Tour,2022 Summer,Heavy Rotation,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2022-09-03,2022,0,5,2,1,2,0,19,2022 Summer Tour,2022 Summer,Boogie On Reggae Woman,Boogie On,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-03,2022,0,6,2,1,2,0,6,2022 Summer Tour,2022 Summer,Stash,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-03,2022,0,7,2,1,2,0,6,2022 Summer Tour,2022 Summer,Free,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-03,2022,0,8,2,1,2,0,7,2022 Summer Tour,2022 Summer,Mike's Song,Mike's,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-03,2022,0,9,4,1,2,0,10,2022 Summer Tour,2022 Summer,Bug,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2022-09-03,2022,0,10,2,2,2,0,6,2022 Summer Tour,2022 Summer,Say It To Me S.A.N.T.O.S.,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-03,2022,0,11,2,2,2,0,10,2022 Summer Tour,2022 Summer,Kill Devil Falls,KDF,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-03,2022,0,12,2,2,2,0,6,2022 Summer Tour,2022 Summer,Sigma Oasis,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-03,2022,0,13,2,2,2,0,544,2022 Summer Tour,2022 Summer,Thunderhead,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-03,2022,0,14,3,2,2,0,5,2022 Summer Tour,2022 Summer,The Moma Dance,Moma,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
-2022-09-03,2022,0,15,2,2,2,0,64,2022 Summer Tour,2022 Summer,No Quarter,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-03,2022,0,16,2,2,2,0,6,2022 Summer Tour,2022 Summer,Also Sprach Zarathustra,2001,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-03,2022,0,17,5,2,2,0,11,2022 Summer Tour,2022 Summer,Split Open and Melt,SOAMelt,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2022-09-03,2022,0,18,2,e,2,0,47,2022 Summer Tour,2022 Summer,Fee,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-03,2022,0,19,6,e,2,0,3,2022 Summer Tour,2022 Summer,Slave to the Traffic Light,Slave,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2022-09-03,2022,0,1,1,1,0,0,11,2022 Summer Tour,2022 Summer,Punch You in the Eye,PYITE,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2022-09-03,2022,0,2,1,1,0,0,7,2022 Summer Tour,2022 Summer,Wolfman's Brother,Wolfman's,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2022-09-03,2022,0,3,1,1,0,0,21,2022 Summer Tour,2022 Summer,Walls of the Cave,WotC,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2022-09-03,2022,0,4,1,1,0,0,7,2022 Summer Tour,2022 Summer,Heavy Rotation,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2022-09-03,2022,0,5,2,1,0,0,18,2022 Summer Tour,2022 Summer,Boogie On Reggae Woman,Boogie On,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-03,2022,0,6,2,1,0,0,6,2022 Summer Tour,2022 Summer,Stash,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-03,2022,0,7,2,1,0,0,6,2022 Summer Tour,2022 Summer,Free,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-03,2022,0,8,2,1,0,0,7,2022 Summer Tour,2022 Summer,Mike's Song,Mike's,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-03,2022,0,9,4,1,0,0,9,2022 Summer Tour,2022 Summer,Bug,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2022-09-03,2022,0,10,2,2,0,0,5,2022 Summer Tour,2022 Summer,Say It To Me S.A.N.T.O.S.,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-03,2022,0,11,2,2,0,0,9,2022 Summer Tour,2022 Summer,Kill Devil Falls,KDF,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-03,2022,0,12,2,2,0,0,6,2022 Summer Tour,2022 Summer,Sigma Oasis,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-03,2022,0,13,2,2,0,0,543,2022 Summer Tour,2022 Summer,Thunderhead,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-03,2022,0,14,3,2,0,0,5,2022 Summer Tour,2022 Summer,The Moma Dance,Moma,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2022-09-03,2022,0,15,2,2,0,0,63,2022 Summer Tour,2022 Summer,No Quarter,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-03,2022,0,16,2,2,0,0,6,2022 Summer Tour,2022 Summer,Also Sprach Zarathustra,2001,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-03,2022,0,17,5,2,0,0,10,2022 Summer Tour,2022 Summer,Split Open and Melt,SOAMelt,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2022-09-03,2022,0,18,2,e,0,0,46,2022 Summer Tour,2022 Summer,Fee,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2022-09-03,2022,0,19,6,e,0,0,3,2022 Summer Tour,2022 Summer,Slave to the Traffic Light,Slave,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2022-09-04,2022,0,1,1,1,2,0,4,2022 Summer Tour,2022 Summer,First Tube,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2022-09-04,2022,0,2,1,1,2,0,9,2022 Summer Tour,2022 Summer,Bathtub Gin,Gin,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2022-09-04,2022,0,3,1,1,2,0,5,2022 Summer Tour,2022 Summer,Undermind,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","

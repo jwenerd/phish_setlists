@@ -1212,7 +1212,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1993-04-02,1993,0,5,1,1,0,0,4,1993 Winter/Spring Tour,1993 Winter,Divided Sky,Divided,1,Mt. Baker Theatre,Bellingham,WA,USA,","
 1993-04-02,1993,0,6,1,1,0,0,1,1993 Winter/Spring Tour,1993 Winter,I Didn't Know,IDK,1,Mt. Baker Theatre,Bellingham,WA,USA,","
 1993-04-02,1993,0,7,2,1,0,0,3,1993 Winter/Spring Tour,1993 Winter,It's Ice,,1,Mt. Baker Theatre,Bellingham,WA,USA,>
-1993-04-02,1993,0,8,2,1,0,0,2,1993 Winter/Spring Tour,1993 Winter,Sparkle,,1,Mt. Baker Theatre,Bellingham,WA,USA,>
+1993-04-02,1993,0,8,2,1,0,0,3,1993 Winter/Spring Tour,1993 Winter,Sparkle,,1,Mt. Baker Theatre,Bellingham,WA,USA,>
 1993-04-02,1993,0,9,1,1,0,0,3,1993 Winter/Spring Tour,1993 Winter,Maze,,1,Mt. Baker Theatre,Bellingham,WA,USA,","
 1993-04-02,1993,0,10,4,1,0,0,4,1993 Winter/Spring Tour,1993 Winter,Golgi Apparatus,Golgi,1,Mt. Baker Theatre,Bellingham,WA,USA,
 1993-04-02,1993,0,11,1,2,0,0,3,1993 Winter/Spring Tour,1993 Winter,Runaway Jim,,1,Mt. Baker Theatre,Bellingham,WA,USA,","
@@ -1801,7 +1801,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1993-05-05,1993,0,1,1,1,0,0,1,1993 Winter/Spring Tour,1993 Winter,Rift,,1,Palace Theatre,Albany,NY,USA,","
 1993-05-05,1993,0,2,1,1,0,0,3,1993 Winter/Spring Tour,1993 Winter,Guelah Papyrus,Guelah,1,Palace Theatre,Albany,NY,USA,","
 1993-05-05,1993,0,3,1,1,0,0,3,1993 Winter/Spring Tour,1993 Winter,Foam,,1,Palace Theatre,Albany,NY,USA,","
-1993-05-05,1993,0,4,1,1,0,0,1,1993 Winter/Spring Tour,1993 Winter,Sparkle,,1,Palace Theatre,Albany,NY,USA,","
+1993-05-05,1993,0,4,1,1,0,0,2,1993 Winter/Spring Tour,1993 Winter,Sparkle,,1,Palace Theatre,Albany,NY,USA,","
 1993-05-05,1993,0,5,1,1,0,0,2,1993 Winter/Spring Tour,1993 Winter,Stash,,1,Palace Theatre,Albany,NY,USA,","
 1993-05-05,1993,0,6,1,1,0,0,2,1993 Winter/Spring Tour,1993 Winter,Bouncing Around the Room,Bouncin',1,Palace Theatre,Albany,NY,USA,","
 1993-05-05,1993,0,7,2,1,0,0,1,1993 Winter/Spring Tour,1993 Winter,It's Ice,,1,Palace Theatre,Albany,NY,USA,>
@@ -2146,7 +2146,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1993-07-27,1993,0,2,1,1,0,0,1,1993 Summer Tour,1993 Summer,Rift,,1,Classic Amphitheater,Richmond,VA,USA,","
 1993-07-27,1993,0,3,1,1,0,0,1,1993 Summer Tour,1993 Summer,Stash,,1,Classic Amphitheater,Richmond,VA,USA,","
 1993-07-27,1993,0,4,1,1,0,0,2,1993 Summer Tour,1993 Summer,The Squirming Coil,Coil,1,Classic Amphitheater,Richmond,VA,USA,","
-1993-07-27,1993,0,5,1,1,0,0,1,1993 Summer Tour,1993 Summer,Sparkle,,1,Classic Amphitheater,Richmond,VA,USA,","
+1993-07-27,1993,0,5,1,1,0,0,2,1993 Summer Tour,1993 Summer,Sparkle,,1,Classic Amphitheater,Richmond,VA,USA,","
 1993-07-27,1993,0,6,3,1,0,0,3,1993 Summer Tour,1993 Summer,It's Ice,,1,Classic Amphitheater,Richmond,VA,USA,->
 1993-07-27,1993,0,7,2,1,0,0,1,1993 Summer Tour,1993 Summer,Purple Rain,,0,Classic Amphitheater,Richmond,VA,USA,>
 1993-07-27,1993,0,8,1,1,0,0,1,1993 Summer Tour,1993 Summer,Hold Your Head Up,HYHU,0,Classic Amphitheater,Richmond,VA,USA,","
@@ -2480,28 +2480,29 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1993-08-14,1993,0,24,1,2,0,0,5,1993 Summer Tour,1993 Summer,Hold Your Head Up,HYHU,0,World Music Theatre,Tinley Park,IL,USA,","
 1993-08-14,1993,0,25,5,2,0,0,2,1993 Summer Tour,1993 Summer,Golgi Apparatus,Golgi,1,World Music Theatre,Tinley Park,IL,USA,
 1993-08-14,1993,0,26,6,e,0,0,6,1993 Summer Tour,1993 Summer,La Grange,,0,World Music Theatre,Tinley Park,IL,USA,
-1993-08-15,1993,0,1,1,1,0,0,8,1993 Summer Tour,1993 Summer,Sample in a Jar,Sample,1,The Macauley Theater,Louisville,KY,USA,","
-1993-08-15,1993,0,2,1,1,0,0,4,1993 Summer Tour,1993 Summer,All Things Reconsidered,ATR,1,The Macauley Theater,Louisville,KY,USA,","
-1993-08-15,1993,0,3,1,1,0,0,18,1993 Summer Tour,1993 Summer,Caravan,,0,The Macauley Theater,Louisville,KY,USA,","
-1993-08-15,1993,0,4,1,1,0,0,4,1993 Summer Tour,1993 Summer,Runaway Jim,,1,The Macauley Theater,Louisville,KY,USA,","
-1993-08-15,1993,0,5,2,1,0,0,5,1993 Summer Tour,1993 Summer,Fee,,1,The Macauley Theater,Louisville,KY,USA,>
-1993-08-15,1993,0,6,2,1,0,0,6,1993 Summer Tour,1993 Summer,Paul and Silas,,0,The Macauley Theater,Louisville,KY,USA,>
-1993-08-15,1993,0,7,1,1,0,0,2,1993 Summer Tour,1993 Summer,Stash,,1,The Macauley Theater,Louisville,KY,USA,","
-1993-08-15,1993,0,8,2,1,0,0,7,1993 Summer Tour,1993 Summer,Colonel Forbin's Ascent,Forbin's,1,The Macauley Theater,Louisville,KY,USA,>
-1993-08-15,1993,0,9,2,1,0,0,7,1993 Summer Tour,1993 Summer,Fly Famous Mockingbird,Mockingbird,1,The Macauley Theater,Louisville,KY,USA,>
+1993-08-15,1993,0,1,1,1,0,0,7,1993 Summer Tour,1993 Summer,Sample in a Jar,Sample,1,The Macauley Theater,Louisville,KY,USA,","
+1993-08-15,1993,0,2,1,1,0,0,3,1993 Summer Tour,1993 Summer,All Things Reconsidered,ATR,1,The Macauley Theater,Louisville,KY,USA,","
+1993-08-15,1993,0,3,1,1,0,0,17,1993 Summer Tour,1993 Summer,Caravan,,0,The Macauley Theater,Louisville,KY,USA,","
+1993-08-15,1993,0,4,1,1,0,0,3,1993 Summer Tour,1993 Summer,Runaway Jim,,1,The Macauley Theater,Louisville,KY,USA,","
+1993-08-15,1993,0,5,2,1,0,0,4,1993 Summer Tour,1993 Summer,Fee,,1,The Macauley Theater,Louisville,KY,USA,>
+1993-08-15,1993,0,6,2,1,0,0,5,1993 Summer Tour,1993 Summer,Paul and Silas,,0,The Macauley Theater,Louisville,KY,USA,>
+1993-08-15,1993,0,7,1,1,0,0,1,1993 Summer Tour,1993 Summer,Stash,,1,The Macauley Theater,Louisville,KY,USA,","
+1993-08-15,1993,0,8,2,1,0,0,6,1993 Summer Tour,1993 Summer,Colonel Forbin's Ascent,Forbin's,1,The Macauley Theater,Louisville,KY,USA,>
+1993-08-15,1993,0,9,2,1,0,0,6,1993 Summer Tour,1993 Summer,Fly Famous Mockingbird,Mockingbird,1,The Macauley Theater,Louisville,KY,USA,>
 1993-08-15,1993,0,10,4,1,0,0,1,1993 Summer Tour,1993 Summer,Chalk Dust Torture,CDT,1,The Macauley Theater,Louisville,KY,USA,
-1993-08-15,1993,0,11,1,2,0,0,2,1993 Summer Tour,1993 Summer,Rift,,1,The Macauley Theater,Louisville,KY,USA,","
-1993-08-15,1993,0,12,1,2,0,0,3,1993 Summer Tour,1993 Summer,Tweezer,,1,The Macauley Theater,Louisville,KY,USA,","
-1993-08-15,1993,0,13,1,2,0,0,3,1993 Summer Tour,1993 Summer,The Lizards,Lizards,1,The Macauley Theater,Louisville,KY,USA,","
-1993-08-15,1993,0,14,1,2,0,0,3,1993 Summer Tour,1993 Summer,The Landlady,Landlady,1,The Macauley Theater,Louisville,KY,USA,","
-1993-08-15,1993,0,15,1,2,0,0,4,1993 Summer Tour,1993 Summer,Bouncing Around the Room,Bouncin',1,The Macauley Theater,Louisville,KY,USA,","
-1993-08-15,1993,0,16,1,2,0,0,3,1993 Summer Tour,1993 Summer,Maze,,1,The Macauley Theater,Louisville,KY,USA,","
-1993-08-15,1993,0,17,1,2,0,0,5,1993 Summer Tour,1993 Summer,Glide,,1,The Macauley Theater,Louisville,KY,USA,","
-1993-08-15,1993,0,18,1,2,0,0,4,1993 Summer Tour,1993 Summer,Sweet Adeline,,0,The Macauley Theater,Louisville,KY,USA,","
-1993-08-15,1993,0,19,1,2,0,0,2,1993 Summer Tour,1993 Summer,Ginseng Sullivan,Ginseng,0,The Macauley Theater,Louisville,KY,USA,","
-1993-08-15,1993,0,20,1,2,0,0,3,1993 Summer Tour,1993 Summer,Nellie Kane,,0,The Macauley Theater,Louisville,KY,USA,","
-1993-08-15,1993,0,21,5,2,0,0,3,1993 Summer Tour,1993 Summer,Free Bird,,0,The Macauley Theater,Louisville,KY,USA,
-1993-08-15,1993,0,22,6,e,0,0,6,1993 Summer Tour,1993 Summer,Harry Hood,Hood,1,The Macauley Theater,Louisville,KY,USA,
+1993-08-15,1993,0,11,1,2,0,0,1,1993 Summer Tour,1993 Summer,Rift,,1,The Macauley Theater,Louisville,KY,USA,","
+1993-08-15,1993,0,12,1,2,0,0,2,1993 Summer Tour,1993 Summer,Tweezer,,1,The Macauley Theater,Louisville,KY,USA,","
+1993-08-15,1993,0,13,1,2,0,0,2,1993 Summer Tour,1993 Summer,The Lizards,Lizards,1,The Macauley Theater,Louisville,KY,USA,","
+1993-08-15,1993,0,14,1,2,0,0,2,1993 Summer Tour,1993 Summer,The Landlady,Landlady,1,The Macauley Theater,Louisville,KY,USA,","
+1993-08-15,1993,0,15,1,2,0,0,3,1993 Summer Tour,1993 Summer,Bouncing Around the Room,Bouncin',1,The Macauley Theater,Louisville,KY,USA,","
+1993-08-15,1993,0,16,1,2,0,0,2,1993 Summer Tour,1993 Summer,Maze,,1,The Macauley Theater,Louisville,KY,USA,","
+1993-08-15,1993,0,17,1,2,0,0,4,1993 Summer Tour,1993 Summer,Glide,,1,The Macauley Theater,Louisville,KY,USA,","
+1993-08-15,1993,0,18,1,2,0,0,3,1993 Summer Tour,1993 Summer,Sweet Adeline,,0,The Macauley Theater,Louisville,KY,USA,","
+1993-08-15,1993,0,19,1,2,0,0,1,1993 Summer Tour,1993 Summer,Ginseng Sullivan,Ginseng,0,The Macauley Theater,Louisville,KY,USA,","
+1993-08-15,1993,0,20,1,2,0,0,2,1993 Summer Tour,1993 Summer,Nellie Kane,,0,The Macauley Theater,Louisville,KY,USA,","
+1993-08-15,1993,0,21,5,2,0,0,2,1993 Summer Tour,1993 Summer,Free Bird,,0,The Macauley Theater,Louisville,KY,USA,
+1993-08-15,1993,0,22,1,e,0,0,5,1993 Summer Tour,1993 Summer,Harry Hood,Hood,1,The Macauley Theater,Louisville,KY,USA,","
+1993-08-15,1993,0,23,6,e,2,2,7,1993 Summer Tour,1993 Summer,Tweezer Reprise,Tweeprise,1,The Macauley Theater,Louisville,KY,USA,
 1993-08-16,1993,0,1,1,1,0,0,15,1993 Summer Tour,1993 Summer,Axilla,,1,American Theater,St. Louis,MO,USA,","
 1993-08-16,1993,0,2,2,1,0,0,4,1993 Summer Tour,1993 Summer,Possum,,1,American Theater,St. Louis,MO,USA,>
 1993-08-16,1993,0,3,2,1,0,0,3,1993 Summer Tour,1993 Summer,Horn,,1,American Theater,St. Louis,MO,USA,>
@@ -2677,7 +2678,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1993-08-28,1993,0,12,1,2,0,0,3,1993 Summer Tour,1993 Summer,Run Like an Antelope,Antelope,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
 1993-08-28,1993,0,13,2,2,0,0,3,1993 Summer Tour,1993 Summer,The Horse,Horse,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
 1993-08-28,1993,0,14,2,2,0,0,3,1993 Summer Tour,1993 Summer,Silent in the Morning,Silent,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
-1993-08-28,1993,0,15,2,2,0,0,1,1993 Summer Tour,1993 Summer,Sparkle,,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
+1993-08-28,1993,0,15,2,2,0,0,2,1993 Summer Tour,1993 Summer,Sparkle,,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
 1993-08-28,1993,0,16,2,2,0,0,1,1993 Summer Tour,1993 Summer,It's Ice,,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
 1993-08-28,1993,0,17,1,2,0,0,6,1993 Summer Tour,1993 Summer,Big Ball Jam,BBJ,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
 1993-08-28,1993,0,18,2,2,0,0,5,1993 Summer Tour,1993 Summer,Purple Rain,,0,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>

@@ -1863,7 +1863,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1992-11-20,1992,0,4,1,1,0,0,2,1992 Fall Tour,1992 Fall,Rift,,1,Palace Theatre,Albany,NY,USA,","
 1992-11-20,1992,0,5,1,1,0,0,31,1992 Fall Tour,1992 Fall,The Sloth,Sloth,1,Palace Theatre,Albany,NY,USA,","
 1992-11-20,1992,0,6,1,1,0,0,3,1992 Fall Tour,1992 Fall,Reba,,1,Palace Theatre,Albany,NY,USA,","
-1992-11-20,1992,0,7,2,1,0,0,5,1992 Fall Tour,1992 Fall,Sparkle,,1,Palace Theatre,Albany,NY,USA,>
+1992-11-20,1992,0,7,2,1,0,0,6,1992 Fall Tour,1992 Fall,Sparkle,,1,Palace Theatre,Albany,NY,USA,>
 1992-11-20,1992,0,8,1,1,0,0,2,1992 Fall Tour,1992 Fall,Stash,,1,Palace Theatre,Albany,NY,USA,","
 1992-11-20,1992,0,9,1,1,0,0,22,1992 Fall Tour,1992 Fall,The Lizards,Lizards,1,Palace Theatre,Albany,NY,USA,","
 1992-11-20,1992,0,10,1,1,0,0,2,1992 Fall Tour,1992 Fall,Memories,,0,Palace Theatre,Albany,NY,USA,","
@@ -2494,7 +2494,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1992-12-31,1992,0,11,4,1,0,0,3,1992 NYE Run,1992 NYE,Run Like an Antelope,Antelope,1,"Matthews Arena, Northeastern University",Boston,MA,USA,
 1992-12-31,1992,0,12,1,2,0,0,2,1992 NYE Run,1992 NYE,Runaway Jim,,1,"Matthews Arena, Northeastern University",Boston,MA,USA,","
 1992-12-31,1992,0,13,2,2,0,0,3,1992 NYE Run,1992 NYE,It's Ice,,1,"Matthews Arena, Northeastern University",Boston,MA,USA,>
-1992-12-31,1992,0,14,2,2,0,0,0,1992 NYE Run,1992 NYE,Sparkle,,1,"Matthews Arena, Northeastern University",Boston,MA,USA,>
+1992-12-31,1992,0,14,2,2,0,0,1,1992 NYE Run,1992 NYE,Sparkle,,1,"Matthews Arena, Northeastern University",Boston,MA,USA,>
 1992-12-31,1992,0,15,2,2,0,0,8,1992 NYE Run,1992 NYE,Colonel Forbin's Ascent,Forbin's,1,"Matthews Arena, Northeastern University",Boston,MA,USA,>
 1992-12-31,1992,0,16,2,2,0,0,8,1992 NYE Run,1992 NYE,Fly Famous Mockingbird,Mockingbird,1,"Matthews Arena, Northeastern University",Boston,MA,USA,>
 1992-12-31,1992,0,17,2,2,0,0,2,1992 NYE Run,1992 NYE,My Sweet One,MSO,1,"Matthews Arena, Northeastern University",Boston,MA,USA,>

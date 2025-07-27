@@ -30,26 +30,26 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-02-24,2023,0,15,5,2,2,0,4,2023 Mexico,2023 Mexico,Bathtub Gin,Gin,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
 2023-02-24,2023,0,16,2,e,2,0,15,2023 Mexico,2023 Mexico,Golgi Apparatus,Golgi,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2023-02-24,2023,0,17,6,e,2,0,4,2023 Mexico,2023 Mexico,Character Zero,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
-2023-02-25,2023,0,1,1,1,2,0,11,2023 Mexico,2023 Mexico,Gotta Jibboo,Jibboo,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2023-02-25,2023,0,2,1,1,2,0,4,2023 Mexico,2023 Mexico,No Men In No Man's Land,NMINML,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2023-02-25,2023,0,3,1,1,2,0,6,2023 Mexico,2023 Mexico,Steam,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2023-02-25,2023,0,4,1,1,2,0,77,2023 Mexico,2023 Mexico,Poor Heart,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2023-02-25,2023,0,5,3,1,2,0,3,2023 Mexico,2023 Mexico,Halley's Comet,Halley's,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
-2023-02-25,2023,0,6,1,1,2,0,12,2023 Mexico,2023 Mexico,Saw It Again,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2023-02-25,2023,0,7,2,1,2,0,4,2023 Mexico,2023 Mexico,Theme From the Bottom,Theme,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2023-02-25,2023,0,8,1,1,2,0,6,2023 Mexico,2023 Mexico,Maze,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2023-02-25,2023,0,9,1,1,2,0,12,2023 Mexico,2023 Mexico,About to Run,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2023-02-25,2023,0,10,4,1,2,0,24,2023 Mexico,2023 Mexico,Most Events Aren't Planned,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,
-2023-02-25,2023,0,11,2,2,2,0,4,2023 Mexico,2023 Mexico,Down with Disease,DwD,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2023-02-25,2023,0,12,2,2,2,0,4,2023 Mexico,2023 Mexico,Golden Age,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2023-02-25,2023,0,13,2,2,2,0,11,2023 Mexico,2023 Mexico,Soul Planet,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2023-02-25,2023,0,14,2,2,2,0,11,2023 Mexico,2023 Mexico,Runaway Jim,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2023-02-25,2023,0,15,3,2,2,0,3,2023 Mexico,2023 Mexico,Light,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
-2023-02-25,2023,0,16,2,2,2,0,3,2023 Mexico,2023 Mexico,Piper,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2023-02-25,2023,0,17,2,2,2,0,3,2023 Mexico,2023 Mexico,Also Sprach Zarathustra,2001,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2023-02-25,2023,0,18,5,2,2,0,3,2023 Mexico,2023 Mexico,Say It To Me S.A.N.T.O.S.,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
-2023-02-25,2023,0,19,1,e,2,0,8,2023 Mexico,2023 Mexico,Fee,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2023-02-25,2023,0,20,6,e,2,0,22,2023 Mexico,2023 Mexico,The Wedge,Wedge,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
+2023-02-25,2023,0,1,1,1,0,0,10,2023 Mexico,2023 Mexico,Gotta Jibboo,Jibboo,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2023-02-25,2023,0,2,1,1,0,0,4,2023 Mexico,2023 Mexico,No Men In No Man's Land,NMINML,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2023-02-25,2023,0,3,1,1,0,0,5,2023 Mexico,2023 Mexico,Steam,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2023-02-25,2023,0,4,1,1,0,0,76,2023 Mexico,2023 Mexico,Poor Heart,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2023-02-25,2023,0,5,3,1,0,0,2,2023 Mexico,2023 Mexico,Halley's Comet,Halley's,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
+2023-02-25,2023,0,6,1,1,0,0,11,2023 Mexico,2023 Mexico,Saw It Again,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2023-02-25,2023,0,7,2,1,0,0,4,2023 Mexico,2023 Mexico,Theme From the Bottom,Theme,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2023-02-25,2023,0,8,1,1,0,0,5,2023 Mexico,2023 Mexico,Maze,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2023-02-25,2023,0,9,1,1,0,0,11,2023 Mexico,2023 Mexico,About to Run,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2023-02-25,2023,0,10,4,1,0,0,23,2023 Mexico,2023 Mexico,Most Events Aren't Planned,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,
+2023-02-25,2023,0,11,2,2,0,0,4,2023 Mexico,2023 Mexico,Down with Disease,DwD,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2023-02-25,2023,0,12,2,2,0,0,3,2023 Mexico,2023 Mexico,Golden Age,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2023-02-25,2023,0,13,2,2,0,0,10,2023 Mexico,2023 Mexico,Soul Planet,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2023-02-25,2023,0,14,2,2,0,0,10,2023 Mexico,2023 Mexico,Runaway Jim,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2023-02-25,2023,0,15,3,2,0,0,3,2023 Mexico,2023 Mexico,Light,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
+2023-02-25,2023,0,16,2,2,0,0,3,2023 Mexico,2023 Mexico,Piper,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2023-02-25,2023,0,17,2,2,0,0,3,2023 Mexico,2023 Mexico,Also Sprach Zarathustra,2001,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2023-02-25,2023,0,18,5,2,0,0,2,2023 Mexico,2023 Mexico,Say It To Me S.A.N.T.O.S.,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
+2023-02-25,2023,0,19,1,e,0,0,7,2023 Mexico,2023 Mexico,Fee,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2023-02-25,2023,0,20,6,e,0,0,21,2023 Mexico,2023 Mexico,The Wedge,Wedge,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
 2023-02-26,2023,0,1,1,1,2,0,7,2023 Mexico,2023 Mexico,Sigma Oasis,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2023-02-26,2023,0,2,1,1,2,0,6,2023 Mexico,2023 Mexico,David Bowie,Bowie,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2023-02-26,2023,0,3,1,1,2,0,7,2023 Mexico,2023 Mexico,Wolfman's Brother,Wolfman's,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
@@ -351,7 +351,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-07-22,2023,0,7,1,1,0,0,28,2023 Summer Tour,2023 Summer,Ocelot,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,","
 2023-07-22,2023,0,8,1,1,0,0,17,2023 Summer Tour,2023 Summer,Julius,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,","
 2023-07-22,2023,0,9,2,1,0,0,18,2023 Summer Tour,2023 Summer,Saw It Again,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,>
-2023-07-22,2023,0,10,1,1,0,0,37,2023 Summer Tour,2023 Summer,Sparkle,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,","
+2023-07-22,2023,0,10,1,1,0,0,38,2023 Summer Tour,2023 Summer,Sparkle,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,","
 2023-07-22,2023,0,11,1,1,0,0,30,2023 Summer Tour,2023 Summer,Ass Handed,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,","
 2023-07-22,2023,0,12,4,1,0,0,4,2023 Summer Tour,2023 Summer,Sand,,0,The Pavilion at Star Lake,Burgettstown,PA,USA,
 2023-07-22,2023,0,13,2,2,0,0,5,2023 Summer Tour,2023 Summer,Everything's Right,,0,The Pavilion at Star Lake,Burgettstown,PA,USA,>
@@ -593,7 +593,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-08-31,2023,0,15,1,e,0,0,34,2023 Summer Tour,2023 Summer,Show of Life,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2023-08-31,2023,0,16,6,e,0,0,2,2023 Summer Tour,2023 Summer,Say It To Me S.A.N.T.O.S.,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2023-09-01,2023,0,1,1,1,0,0,2,2023 Summer Tour,2023 Summer,Wolfman's Brother,Wolfman's,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2023-09-01,2023,0,2,2,1,0,0,13,2023 Summer Tour,2023 Summer,Sparkle,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2023-09-01,2023,0,2,2,1,0,0,14,2023 Summer Tour,2023 Summer,Sparkle,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2023-09-01,2023,0,3,1,1,0,0,8,2023 Summer Tour,2023 Summer,Bathtub Gin,Gin,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2023-09-01,2023,0,4,1,1,0,0,9,2023 Summer Tour,2023 Summer,Back on the Train,BOTT,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2023-09-01,2023,0,5,1,1,0,0,18,2023 Summer Tour,2023 Summer,Halfway to the Moon,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
@@ -606,7 +606,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-09-01,2023,0,12,1,2,0,0,8,2023 Summer Tour,2023 Summer,Llama,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2023-09-01,2023,0,13,1,2,0,0,10,2023 Summer Tour,2023 Summer,Mountains in the Mist,Mist,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2023-09-01,2023,0,14,2,2,0,0,4,2023 Summer Tour,2023 Summer,Scents and Subtle Sounds,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2023-09-01,2023,0,15,5,2,0,0,53,2023 Summer Tour,2023 Summer,Shine a Light,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2023-09-01,2023,0,15,5,2,0,0,54,2023 Summer Tour,2023 Summer,Shine a Light,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2023-09-01,2023,0,16,2,e,0,0,7,2023 Summer Tour,2023 Summer,Wilson,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2023-09-01,2023,0,17,6,e,0,0,10,2023 Summer Tour,2023 Summer,Split Open and Melt,SOAMelt,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2023-09-02,2023,0,1,1,1,0,0,6,2023 Summer Tour,2023 Summer,Fluffhead,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
@@ -665,21 +665,21 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-10-06,2023,0,16,2,e,0,0,3,2023 Fall Tour,2023 Fall,Bouncing Around the Room,Bouncin',1,Bridgestone Arena,Nashville,TN,USA,>
 2023-10-06,2023,0,17,2,e,0,0,2,2023 Fall Tour,2023 Fall,46 Days,,1,Bridgestone Arena,Nashville,TN,USA,>
 2023-10-06,2023,0,18,6,e,0,0,2,2023 Fall Tour,2023 Fall,Run Like an Antelope,Antelope,1,Bridgestone Arena,Nashville,TN,USA,
-2023-10-07,2023,0,1,2,1,0,0,1,2023 Fall Tour,2023 Fall,Also Sprach Zarathustra,2001,0,Bridgestone Arena,Nashville,TN,USA,>
+2023-10-07,2023,0,1,2,1,0,0,2,2023 Fall Tour,2023 Fall,Also Sprach Zarathustra,2001,0,Bridgestone Arena,Nashville,TN,USA,>
 2023-10-07,2023,0,2,1,1,0,0,2,2023 Fall Tour,2023 Fall,Gumbo,,1,Bridgestone Arena,Nashville,TN,USA,","
 2023-10-07,2023,0,3,1,1,0,0,97,2023 Fall Tour,2023 Fall,Beauty of My Dreams,,0,Bridgestone Arena,Nashville,TN,USA,","
 2023-10-07,2023,0,4,3,1,0,0,6,2023 Fall Tour,2023 Fall,Mull,,1,Bridgestone Arena,Nashville,TN,USA,->
-2023-10-07,2023,0,5,2,1,0,0,1,2023 Fall Tour,2023 Fall,Also Sprach Zarathustra,2001,0,Bridgestone Arena,Nashville,TN,USA,>
+2023-10-07,2023,0,5,2,1,0,0,0,2023 Fall Tour,2023 Fall,Also Sprach Zarathustra,2001,0,Bridgestone Arena,Nashville,TN,USA,>
 2023-10-07,2023,0,6,1,1,0,0,6,2023 Fall Tour,2023 Fall,Mull,,1,Bridgestone Arena,Nashville,TN,USA,","
 2023-10-07,2023,0,7,1,1,0,0,71,2023 Fall Tour,2023 Fall,Dirt,,0,Bridgestone Arena,Nashville,TN,USA,","
 2023-10-07,2023,0,8,1,1,0,0,4,2023 Fall Tour,2023 Fall,Stash,,1,Bridgestone Arena,Nashville,TN,USA,","
 2023-10-07,2023,0,9,1,1,0,0,3,2023 Fall Tour,2023 Fall,Ether Edge,,0,Bridgestone Arena,Nashville,TN,USA,","
 2023-10-07,2023,0,10,1,1,0,0,2,2023 Fall Tour,2023 Fall,About to Run,,0,Bridgestone Arena,Nashville,TN,USA,","
 2023-10-07,2023,0,11,4,1,0,0,4,2023 Fall Tour,2023 Fall,Split Open and Melt,SOAMelt,1,Bridgestone Arena,Nashville,TN,USA,
-2023-10-07,2023,0,12,3,2,0,0,11,2023 Fall Tour,2023 Fall,Life Saving Gun,,1,Bridgestone Arena,Nashville,TN,USA,->
+2023-10-07,2023,0,12,3,2,0,0,12,2023 Fall Tour,2023 Fall,Life Saving Gun,,1,Bridgestone Arena,Nashville,TN,USA,->
 2023-10-07,2023,0,13,2,2,0,0,4,2023 Fall Tour,2023 Fall,Sand,,0,Bridgestone Arena,Nashville,TN,USA,>
 2023-10-07,2023,0,14,3,2,0,0,2,2023 Fall Tour,2023 Fall,Everything's Right,,0,Bridgestone Arena,Nashville,TN,USA,->
-2023-10-07,2023,0,15,3,2,0,0,13,2023 Fall Tour,2023 Fall,Cities,,0,Bridgestone Arena,Nashville,TN,USA,->
+2023-10-07,2023,0,15,3,2,0,0,14,2023 Fall Tour,2023 Fall,Cities,,0,Bridgestone Arena,Nashville,TN,USA,->
 2023-10-07,2023,0,16,1,2,0,0,3,2023 Fall Tour,2023 Fall,Llama,,1,Bridgestone Arena,Nashville,TN,USA,","
 2023-10-07,2023,0,17,1,2,0,0,22,2023 Fall Tour,2023 Fall,I Always Wanted It This Way,,1,Bridgestone Arena,Nashville,TN,USA,","
 2023-10-07,2023,0,18,5,2,0,0,12,2023 Fall Tour,2023 Fall,Bug,,0,Bridgestone Arena,Nashville,TN,USA,
@@ -727,7 +727,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-10-10,2023,0,21,2,e,0,0,6,2023 Fall Tour,2023 Fall,Wilson,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
 2023-10-10,2023,0,22,6,e,0,0,4,2023 Fall Tour,2023 Fall,First Tube,,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,
 2023-10-11,2023,0,1,1,1,0,0,8,2023 Fall Tour,2023 Fall,Set Your Soul Free,,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
-2023-10-11,2023,0,2,1,1,0,0,13,2023 Fall Tour,2023 Fall,Funky Bitch,,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
+2023-10-11,2023,0,2,1,1,0,0,14,2023 Fall Tour,2023 Fall,Funky Bitch,,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
 2023-10-11,2023,0,3,1,1,0,0,5,2023 Fall Tour,2023 Fall,Roggae,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
 2023-10-11,2023,0,4,1,1,0,0,5,2023 Fall Tour,2023 Fall,Kill Devil Falls,KDF,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
 2023-10-11,2023,0,5,2,1,0,0,10,2023 Fall Tour,2023 Fall,Steam,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
@@ -739,7 +739,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-10-11,2023,0,11,2,2,0,0,61,2023 Fall Tour,2023 Fall,Lifeboy,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
 2023-10-11,2023,0,12,2,2,0,0,6,2023 Fall Tour,2023 Fall,Piper,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
 2023-10-11,2023,0,13,1,2,0,0,11,2023 Fall Tour,2023 Fall,Backwards Down the Number Line,BDTNL,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
-2023-10-11,2023,0,14,5,2,0,0,13,2023 Fall Tour,2023 Fall,I Am the Walrus,,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,
+2023-10-11,2023,0,14,5,2,0,0,14,2023 Fall Tour,2023 Fall,I Am the Walrus,,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,
 2023-10-11,2023,0,15,2,e,0,0,74,2023 Fall Tour,2023 Fall,Egg in a Hole,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
 2023-10-11,2023,0,16,6,e,0,0,9,2023 Fall Tour,2023 Fall,Possum,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,
 2023-10-13,2023,0,1,1,1,0,0,9,2023 Fall Tour,2023 Fall,Carini,,1,United Center,Chicago,IL,USA,","

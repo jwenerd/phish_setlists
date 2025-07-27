@@ -382,7 +382,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-04-23,1994,0,12,1,2,0,0,3,1994 Spring Tour,1994 Spring,Run Like an Antelope,Antelope,1,The Fox Theatre,Atlanta,GA,USA,","
 1994-04-23,1994,0,13,2,2,0,0,5,1994 Spring Tour,1994 Spring,Mound,,1,The Fox Theatre,Atlanta,GA,USA,>
 1994-04-23,1994,0,14,1,2,0,0,1,1994 Spring Tour,1994 Spring,Sample in a Jar,Sample,1,The Fox Theatre,Atlanta,GA,USA,","
-1994-04-23,1994,0,15,2,2,0,0,1,1994 Spring Tour,1994 Spring,Sparkle,,1,The Fox Theatre,Atlanta,GA,USA,>
+1994-04-23,1994,0,15,2,2,0,0,2,1994 Spring Tour,1994 Spring,Sparkle,,1,The Fox Theatre,Atlanta,GA,USA,>
 1994-04-23,1994,0,16,1,2,0,0,3,1994 Spring Tour,1994 Spring,Harry Hood,Hood,1,The Fox Theatre,Atlanta,GA,USA,","
 1994-04-23,1994,0,17,1,2,0,0,9,1994 Spring Tour,1994 Spring,Ginseng Sullivan,Ginseng,0,The Fox Theatre,Atlanta,GA,USA,","
 1994-04-23,1994,0,18,1,2,0,0,3,1994 Spring Tour,1994 Spring,You Enjoy Myself,YEM,1,The Fox Theatre,Atlanta,GA,USA,","
@@ -542,7 +542,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-05-04,1994,0,2,1,1,0,0,2,1994 Spring Tour,1994 Spring,Foam,,1,State Palace Theatre,New Orleans,LA,USA,","
 1994-05-04,1994,0,3,1,1,0,0,1,1994 Spring Tour,1994 Spring,Sample in a Jar,Sample,1,State Palace Theatre,New Orleans,LA,USA,","
 1994-05-04,1994,0,4,2,1,0,0,2,1994 Spring Tour,1994 Spring,It's Ice,,1,State Palace Theatre,New Orleans,LA,USA,>
-1994-05-04,1994,0,5,2,1,0,0,0,1994 Spring Tour,1994 Spring,Sparkle,,1,State Palace Theatre,New Orleans,LA,USA,>
+1994-05-04,1994,0,5,2,1,0,0,1,1994 Spring Tour,1994 Spring,Sparkle,,1,State Palace Theatre,New Orleans,LA,USA,>
 1994-05-04,1994,0,6,2,1,0,0,3,1994 Spring Tour,1994 Spring,Axilla (Part II),,1,State Palace Theatre,New Orleans,LA,USA,>
 1994-05-04,1994,0,7,2,1,0,0,10,1994 Spring Tour,1994 Spring,Tweezer,,1,State Palace Theatre,New Orleans,LA,USA,>
 1994-05-04,1994,0,8,2,1,0,0,10,1994 Spring Tour,1994 Spring,Lifeboy,,1,State Palace Theatre,New Orleans,LA,USA,>
@@ -2307,7 +2307,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-11-17,1994,0,13,2,2,0,0,6,1994 Fall Tour,1994 Fall,Also Sprach Zarathustra,2001,0,Hara Arena,Dayton,OH,USA,>
 1994-11-17,1994,0,14,1,2,0,0,2,1994 Fall Tour,1994 Fall,David Bowie,Bowie,1,Hara Arena,Dayton,OH,USA,","
 1994-11-17,1994,0,15,2,2,0,0,8,1994 Fall Tour,1994 Fall,Sleeping Monkey,,1,Hara Arena,Dayton,OH,USA,>
-1994-11-17,1994,0,16,2,2,0,0,2,1994 Fall Tour,1994 Fall,Sparkle,,1,Hara Arena,Dayton,OH,USA,>
+1994-11-17,1994,0,16,2,2,0,0,3,1994 Fall Tour,1994 Fall,Sparkle,,1,Hara Arena,Dayton,OH,USA,>
 1994-11-17,1994,0,17,3,2,0,0,2,1994 Fall Tour,1994 Fall,You Enjoy Myself,YEM,1,Hara Arena,Dayton,OH,USA,->
 1994-11-17,1994,0,18,3,2,0,0,9,1994 Fall Tour,1994 Fall,Hold Your Head Up,HYHU,0,Hara Arena,Dayton,OH,USA,->
 1994-11-17,1994,0,19,2,2,0,0,24,1994 Fall Tour,1994 Fall,Love You,,0,Hara Arena,Dayton,OH,USA,>
@@ -2387,8 +2387,8 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-11-19,1994,0,12,2,2,0,0,4,1994 Fall Tour,1994 Fall,Suzy Greenberg,Suzy,1,Indiana University Auditorium,Bloomington,IN,USA,>
 1994-11-19,1994,0,12,6,1,0,0,0,Not Part of a Tour,No Tour,Will the Circle Be Unbroken?,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,
 1994-11-19,1994,0,12,2,2,0,0,4,1994 Fall Tour,1994 Fall,Suzy Greenberg,Suzy,1,Indiana University Auditorium,Bloomington,IN,USA,>
-1994-11-19,1994,0,13,2,2,0,0,1,1994 Fall Tour,1994 Fall,Sparkle,,1,Indiana University Auditorium,Bloomington,IN,USA,>
-1994-11-19,1994,0,13,2,2,0,0,1,1994 Fall Tour,1994 Fall,Sparkle,,1,Indiana University Auditorium,Bloomington,IN,USA,>
+1994-11-19,1994,0,13,2,2,0,0,3,1994 Fall Tour,1994 Fall,Sparkle,,1,Indiana University Auditorium,Bloomington,IN,USA,>
+1994-11-19,1994,0,13,2,2,0,0,3,1994 Fall Tour,1994 Fall,Sparkle,,1,Indiana University Auditorium,Bloomington,IN,USA,>
 1994-11-19,1994,0,14,3,2,0,0,3,1994 Fall Tour,1994 Fall,You Enjoy Myself,YEM,1,Indiana University Auditorium,Bloomington,IN,USA,->
 1994-11-19,1994,0,14,3,2,0,0,3,1994 Fall Tour,1994 Fall,You Enjoy Myself,YEM,1,Indiana University Auditorium,Bloomington,IN,USA,->
 1994-11-19,1994,0,15,3,2,0,0,3,1994 Fall Tour,1994 Fall,The Vibration of Life,Vibration of Life,1,Indiana University Auditorium,Bloomington,IN,USA,->
@@ -2696,7 +2696,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-12-09,1994,0,1,1,1,0,0,3,1994 Fall Tour,1994 Fall,Llama,,1,Mesa Amphitheatre,Mesa,AZ,USA,","
 1994-12-09,1994,0,2,1,1,0,0,4,1994 Fall Tour,1994 Fall,Foam,,1,Mesa Amphitheatre,Mesa,AZ,USA,","
 1994-12-09,1994,0,3,1,1,0,0,2,1994 Fall Tour,1994 Fall,Guyute,,1,Mesa Amphitheatre,Mesa,AZ,USA,","
-1994-12-09,1994,0,4,2,1,0,0,2,1994 Fall Tour,1994 Fall,Sparkle,,1,Mesa Amphitheatre,Mesa,AZ,USA,>
+1994-12-09,1994,0,4,2,1,0,0,3,1994 Fall Tour,1994 Fall,Sparkle,,1,Mesa Amphitheatre,Mesa,AZ,USA,>
 1994-12-09,1994,0,5,1,1,0,0,7,1994 Fall Tour,1994 Fall,I Didn't Know,IDK,1,Mesa Amphitheatre,Mesa,AZ,USA,","
 1994-12-09,1994,0,6,1,1,0,0,6,1994 Fall Tour,1994 Fall,It's Ice,,1,Mesa Amphitheatre,Mesa,AZ,USA,","
 1994-12-09,1994,0,7,1,1,0,0,4,1994 Fall Tour,1994 Fall,If I Could,,1,Mesa Amphitheatre,Mesa,AZ,USA,","
