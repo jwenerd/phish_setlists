@@ -2491,7 +2491,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1993-08-15,1993,0,9,2,1,0,0,6,1993 Summer Tour,1993 Summer,Fly Famous Mockingbird,Mockingbird,1,The Macauley Theater,Louisville,KY,USA,>
 1993-08-15,1993,0,10,4,1,0,0,1,1993 Summer Tour,1993 Summer,Chalk Dust Torture,CDT,1,The Macauley Theater,Louisville,KY,USA,
 1993-08-15,1993,0,11,1,2,0,0,1,1993 Summer Tour,1993 Summer,Rift,,1,The Macauley Theater,Louisville,KY,USA,","
-1993-08-15,1993,0,12,1,2,0,0,2,1993 Summer Tour,1993 Summer,Tweezer,,1,The Macauley Theater,Louisville,KY,USA,","
+1993-08-15,1993,0,12,1,2,0,0,3,1993 Summer Tour,1993 Summer,Tweezer,,1,The Macauley Theater,Louisville,KY,USA,","
 1993-08-15,1993,0,13,1,2,0,0,2,1993 Summer Tour,1993 Summer,The Lizards,Lizards,1,The Macauley Theater,Louisville,KY,USA,","
 1993-08-15,1993,0,14,1,2,0,0,2,1993 Summer Tour,1993 Summer,The Landlady,Landlady,1,The Macauley Theater,Louisville,KY,USA,","
 1993-08-15,1993,0,15,1,2,0,0,3,1993 Summer Tour,1993 Summer,Bouncing Around the Room,Bouncin',1,The Macauley Theater,Louisville,KY,USA,","
@@ -2501,8 +2501,8 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1993-08-15,1993,0,19,1,2,0,0,1,1993 Summer Tour,1993 Summer,Ginseng Sullivan,Ginseng,0,The Macauley Theater,Louisville,KY,USA,","
 1993-08-15,1993,0,20,1,2,0,0,2,1993 Summer Tour,1993 Summer,Nellie Kane,,0,The Macauley Theater,Louisville,KY,USA,","
 1993-08-15,1993,0,21,5,2,0,0,2,1993 Summer Tour,1993 Summer,Free Bird,,0,The Macauley Theater,Louisville,KY,USA,
-1993-08-15,1993,0,22,1,e,0,0,5,1993 Summer Tour,1993 Summer,Harry Hood,Hood,1,The Macauley Theater,Louisville,KY,USA,","
-1993-08-15,1993,0,23,6,e,2,2,7,1993 Summer Tour,1993 Summer,Tweezer Reprise,Tweeprise,1,The Macauley Theater,Louisville,KY,USA,
+1993-08-15,1993,0,22,1,e,0,0,6,1993 Summer Tour,1993 Summer,Harry Hood,Hood,1,The Macauley Theater,Louisville,KY,USA,","
+1993-08-15,1993,0,23,6,e,2,2,8,1993 Summer Tour,1993 Summer,Tweezer Reprise,Tweeprise,1,The Macauley Theater,Louisville,KY,USA,
 1993-08-16,1993,0,1,1,1,0,0,15,1993 Summer Tour,1993 Summer,Axilla,,1,American Theater,St. Louis,MO,USA,","
 1993-08-16,1993,0,2,2,1,0,0,4,1993 Summer Tour,1993 Summer,Possum,,1,American Theater,St. Louis,MO,USA,>
 1993-08-16,1993,0,3,2,1,0,0,3,1993 Summer Tour,1993 Summer,Horn,,1,American Theater,St. Louis,MO,USA,>
@@ -2783,6 +2783,6 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1993-12-31,1993,0,24,2,3,0,0,7,1993 NYE Run,1993 NYE,Cracklin' Rosie,,0,Worcester Centrum Centre,Worcester,MA,USA,>
 1993-12-31,1993,0,25,1,3,0,0,0,1993 NYE Run,1993 NYE,Hold Your Head Up,HYHU,0,Worcester Centrum Centre,Worcester,MA,USA,","
 1993-12-31,1993,0,26,1,3,0,0,3,1993 NYE Run,1993 NYE,Harry Hood,Hood,1,Worcester Centrum Centre,Worcester,MA,USA,","
-1993-12-31,1993,0,27,5,3,0,0,20,1993 NYE Run,1993 NYE,Tweezer Reprise,Tweeprise,1,Worcester Centrum Centre,Worcester,MA,USA,
+1993-12-31,1993,0,27,5,3,0,0,12,1993 NYE Run,1993 NYE,Tweezer Reprise,Tweeprise,1,Worcester Centrum Centre,Worcester,MA,USA,
 1993-12-31,1993,0,28,1,e,0,0,3,1993 NYE Run,1993 NYE,Golgi Apparatus,Golgi,1,Worcester Centrum Centre,Worcester,MA,USA,","
 1993-12-31,1993,0,29,6,e,0,0,4,1993 NYE Run,1993 NYE,Amazing Grace,,0,Worcester Centrum Centre,Worcester,MA,USA,
