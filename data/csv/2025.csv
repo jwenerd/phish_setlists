@@ -249,7 +249,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-06-22,2025,0,3,1,1,0,0,43,2025 Early Summer Tour,2025 Summer,The Curtain With,Curtain With,1,SNHU Arena,Manchester,NH,USA,","
 2025-06-22,2025,0,4,1,1,0,0,3,2025 Early Summer Tour,2025 Summer,Llama,,1,SNHU Arena,Manchester,NH,USA,","
 2025-06-22,2025,0,5,1,1,0,0,52,2025 Early Summer Tour,2025 Summer,Fast Enough for You,FEFY,1,SNHU Arena,Manchester,NH,USA,","
-2025-06-22,2025,0,6,1,1,0,0,12,2025 Early Summer Tour,2025 Summer,The Wedge,Wedge,1,SNHU Arena,Manchester,NH,USA,","
+2025-06-22,2025,0,6,1,1,0,0,13,2025 Early Summer Tour,2025 Summer,The Wedge,Wedge,1,SNHU Arena,Manchester,NH,USA,","
 2025-06-22,2025,0,7,1,1,0,0,9,2025 Early Summer Tour,2025 Summer,Pebbles and Marbles,,0,SNHU Arena,Manchester,NH,USA,","
 2025-06-22,2025,0,8,3,1,0,0,9,2025 Early Summer Tour,2025 Summer,"My Friend, My Friend",My Friend,1,SNHU Arena,Manchester,NH,USA,->
 2025-06-22,2025,0,9,1,1,0,0,62,2025 Early Summer Tour,2025 Summer,Egg in a Hole,,1,SNHU Arena,Manchester,NH,USA,","
@@ -269,7 +269,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-06-24,2025,0,4,1,1,0,0,10,2025 Early Summer Tour,2025 Summer,I Always Wanted It This Way,,1,Petersen Events Center,Pittsburgh,PA,USA,","
 2025-06-24,2025,0,5,1,1,0,0,133,2025 Early Summer Tour,2025 Summer,Water in the Sky,,1,Petersen Events Center,Pittsburgh,PA,USA,","
 2025-06-24,2025,0,6,1,1,0,0,35,2025 Early Summer Tour,2025 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Petersen Events Center,Pittsburgh,PA,USA,","
-2025-06-24,2025,0,7,1,1,0,0,26,2025 Early Summer Tour,2025 Summer,Ya Mar,,0,Petersen Events Center,Pittsburgh,PA,USA,","
+2025-06-24,2025,0,7,1,1,0,0,27,2025 Early Summer Tour,2025 Summer,Ya Mar,,0,Petersen Events Center,Pittsburgh,PA,USA,","
 2025-06-24,2025,0,8,1,1,0,0,7,2025 Early Summer Tour,2025 Summer,Gumbo,,1,Petersen Events Center,Pittsburgh,PA,USA,","
 2025-06-24,2025,0,9,4,1,0,0,10,2025 Early Summer Tour,2025 Summer,Walls of the Cave,WotC,1,Petersen Events Center,Pittsburgh,PA,USA,
 2025-06-24,2025,0,10,3,2,0,0,4,2025 Early Summer Tour,2025 Summer,You Enjoy Myself,YEM,1,Petersen Events Center,Pittsburgh,PA,USA,->
@@ -448,7 +448,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-07-15,2025,0,2,1,1,0,0,5,2025 Early Summer Tour,2025 Summer,Everything's Right,,0,TD Pavilion at the Mann,Philadelphia,PA,USA,","
 2025-07-15,2025,0,3,1,1,0,0,97,2025 Early Summer Tour,2025 Summer,Camel Walk,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
 2025-07-15,2025,0,4,2,1,0,0,6,2025 Early Summer Tour,2025 Summer,Theme From the Bottom,Theme,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
-2025-07-15,2025,0,5,2,1,0,0,9,2025 Early Summer Tour,2025 Summer,Prince Caspian,Caspian,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
+2025-07-15,2025,0,5,2,1,0,0,10,2025 Early Summer Tour,2025 Summer,Prince Caspian,Caspian,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
 2025-07-15,2025,0,6,1,1,0,0,43,2025 Early Summer Tour,2025 Summer,It's Ice,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
 2025-07-15,2025,0,7,1,1,0,0,12,2025 Early Summer Tour,2025 Summer,About to Run,,0,TD Pavilion at the Mann,Philadelphia,PA,USA,","
 2025-07-15,2025,0,8,4,1,0,0,5,2025 Early Summer Tour,2025 Summer,David Bowie,Bowie,1,TD Pavilion at the Mann,Philadelphia,PA,USA,
@@ -504,7 +504,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-07-19,2025,0,4,1,1,0,0,258,2025 Early Summer Tour,2025 Summer,The Line,,1,United Center,Chicago,IL,USA,","
 2025-07-19,2025,0,5,1,1,0,0,29,2025 Early Summer Tour,2025 Summer,Seven Below,,1,United Center,Chicago,IL,USA,","
 2025-07-19,2025,0,6,1,1,0,0,38,2025 Early Summer Tour,2025 Summer,Ocelot,,1,United Center,Chicago,IL,USA,","
-2025-07-19,2025,0,7,1,1,0,0,12,2025 Early Summer Tour,2025 Summer,Ya Mar,,0,United Center,Chicago,IL,USA,","
+2025-07-19,2025,0,7,1,1,0,0,13,2025 Early Summer Tour,2025 Summer,Ya Mar,,0,United Center,Chicago,IL,USA,","
 2025-07-19,2025,0,8,1,1,0,0,31,2025 Early Summer Tour,2025 Summer,Mountains in the Mist,Mist,0,United Center,Chicago,IL,USA,","
 2025-07-19,2025,0,9,1,1,0,0,14,2025 Early Summer Tour,2025 Summer,Golgi Apparatus,Golgi,1,United Center,Chicago,IL,USA,","
 2025-07-19,2025,0,10,4,1,0,0,8,2025 Early Summer Tour,2025 Summer,Most Events Aren't Planned,,0,United Center,Chicago,IL,USA,
@@ -540,7 +540,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-07-20,2025,0,20,2,e,0,0,6,2025 Early Summer Tour,2025 Summer,Weekapaug Groove,Weekapaug,1,United Center,Chicago,IL,USA,>
 2025-07-20,2025,0,21,6,e,0,0,5,2025 Early Summer Tour,2025 Summer,Say It To Me S.A.N.T.O.S.,,1,United Center,Chicago,IL,USA,
 2025-07-22,2025,0,1,2,1,0,0,6,2025 Early Summer Tour,2025 Summer,The Moma Dance,Moma,1,Forest Hills Stadium,Forest Hills,NY,USA,>
-2025-07-22,2025,0,2,1,1,0,0,7,2025 Early Summer Tour,2025 Summer,Rift,,1,Forest Hills Stadium,Forest Hills,NY,USA,","
+2025-07-22,2025,0,2,1,1,0,0,8,2025 Early Summer Tour,2025 Summer,Rift,,1,Forest Hills Stadium,Forest Hills,NY,USA,","
 2025-07-22,2025,0,3,2,1,0,0,9,2025 Early Summer Tour,2025 Summer,Sigma Oasis,,0,Forest Hills Stadium,Forest Hills,NY,USA,>
 2025-07-22,2025,0,4,1,1,0,0,4,2025 Early Summer Tour,2025 Summer,Possum,,1,Forest Hills Stadium,Forest Hills,NY,USA,","
 2025-07-22,2025,0,5,1,1,0,0,5,2025 Early Summer Tour,2025 Summer,Wolfman's Brother,Wolfman's,1,Forest Hills Stadium,Forest Hills,NY,USA,","
@@ -583,7 +583,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-07-25,2025,0,7,1,1,0,0,55,2025 Early Summer Tour,2025 Summer,Lawn Boy,,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,","
 2025-07-25,2025,0,8,1,1,0,0,19,2025 Early Summer Tour,2025 Summer,The Old Home Place,,0,Broadview Stage at SPAC,Saratoga Springs,NY,USA,","
 2025-07-25,2025,0,9,1,1,0,0,4,2025 Early Summer Tour,2025 Summer,Hey Stranger,,0,Broadview Stage at SPAC,Saratoga Springs,NY,USA,","
-2025-07-25,2025,0,10,4,1,0,0,9,2025 Early Summer Tour,2025 Summer,Walls of the Cave,WotC,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,
+2025-07-25,2025,0,10,4,1,0,0,10,2025 Early Summer Tour,2025 Summer,Walls of the Cave,WotC,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,
 2025-07-25,2025,0,11,2,2,0,0,7,2025 Early Summer Tour,2025 Summer,Set Your Soul Free,,0,Broadview Stage at SPAC,Saratoga Springs,NY,USA,>
 2025-07-25,2025,0,12,3,2,0,0,3,2025 Early Summer Tour,2025 Summer,Chalk Dust Torture,CDT,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,->
 2025-07-25,2025,0,13,3,2,0,0,21,2025 Early Summer Tour,2025 Summer,Beneath a Sea of Stars Part 1,,0,Broadview Stage at SPAC,Saratoga Springs,NY,USA,->
@@ -598,8 +598,8 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-07-26,2025,0,5,1,1,0,0,3,2025 Early Summer Tour,2025 Summer,Weekapaug Groove,Weekapaug,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,","
 2025-07-26,2025,0,6,1,1,0,0,7,2025 Early Summer Tour,2025 Summer,Sand,,0,Broadview Stage at SPAC,Saratoga Springs,NY,USA,","
 2025-07-26,2025,0,7,1,1,0,0,6,2025 Early Summer Tour,2025 Summer,Evolve,,0,Broadview Stage at SPAC,Saratoga Springs,NY,USA,","
-2025-07-26,2025,0,8,2,1,0,0,7,2025 Early Summer Tour,2025 Summer,"My Friend, My Friend",My Friend,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,>
-2025-07-26,2025,0,9,4,1,0,0,5,2025 Early Summer Tour,2025 Summer,No Men In No Man's Land,NMINML,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,
+2025-07-26,2025,0,8,2,1,0,0,8,2025 Early Summer Tour,2025 Summer,"My Friend, My Friend",My Friend,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,>
+2025-07-26,2025,0,9,4,1,0,0,6,2025 Early Summer Tour,2025 Summer,No Men In No Man's Land,NMINML,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,
 2025-07-26,2025,0,10,2,2,0,0,6,2025 Early Summer Tour,2025 Summer,Oblivion,,0,Broadview Stage at SPAC,Saratoga Springs,NY,USA,>
 2025-07-26,2025,0,11,2,2,0,0,4,2025 Early Summer Tour,2025 Summer,Down with Disease,DwD,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,>
 2025-07-26,2025,0,12,2,2,0,0,6,2025 Early Summer Tour,2025 Summer,Light,,0,Broadview Stage at SPAC,Saratoga Springs,NY,USA,>
@@ -609,26 +609,26 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-07-26,2025,0,16,1,e,0,0,5,2025 Early Summer Tour,2025 Summer,Golgi Apparatus,Golgi,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,","
 2025-07-26,2025,0,17,6,e,0,0,16,2025 Early Summer Tour,2025 Summer,Rock and Roll,R&amp;R,0,Broadview Stage at SPAC,Saratoga Springs,NY,USA,
 2025-07-27,2025,0,1,2,1,0,0,13,2025 Early Summer Tour,2025 Summer,Buried Alive,,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,>
-2025-07-27,2025,0,2,2,1,0,0,3,2025 Early Summer Tour,2025 Summer,Tweezer Reprise,Tweeprise,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,>
+2025-07-27,2025,0,2,2,1,0,0,4,2025 Early Summer Tour,2025 Summer,Tweezer Reprise,Tweeprise,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,>
 2025-07-27,2025,0,3,3,1,0,0,5,2025 Early Summer Tour,2025 Summer,Reba,,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,->
-2025-07-27,2025,0,4,2,1,0,0,3,2025 Early Summer Tour,2025 Summer,Tweezer Reprise,Tweeprise,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,>
+2025-07-27,2025,0,4,2,1,0,0,0,2025 Early Summer Tour,2025 Summer,Tweezer Reprise,Tweeprise,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,>
 2025-07-27,2025,0,5,1,1,0,0,4,2025 Early Summer Tour,2025 Summer,Funky Bitch,,0,Broadview Stage at SPAC,Saratoga Springs,NY,USA,","
 2025-07-27,2025,0,6,3,1,0,0,15,2025 Early Summer Tour,2025 Summer,Roses Are Free,Roses,0,Broadview Stage at SPAC,Saratoga Springs,NY,USA,->
-2025-07-27,2025,0,7,2,1,0,0,3,2025 Early Summer Tour,2025 Summer,Tweezer Reprise,Tweeprise,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,>
-2025-07-27,2025,0,8,1,1,0,0,6,2025 Early Summer Tour,2025 Summer,46 Days,,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,","
+2025-07-27,2025,0,7,2,1,0,0,0,2025 Early Summer Tour,2025 Summer,Tweezer Reprise,Tweeprise,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,>
+2025-07-27,2025,0,8,1,1,0,0,7,2025 Early Summer Tour,2025 Summer,46 Days,,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,","
 2025-07-27,2025,0,9,1,1,0,0,8,2025 Early Summer Tour,2025 Summer,About to Run,,0,Broadview Stage at SPAC,Saratoga Springs,NY,USA,","
 2025-07-27,2025,0,10,3,1,0,0,7,2025 Early Summer Tour,2025 Summer,Split Open and Melt,SOAMelt,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,->
-2025-07-27,2025,0,11,4,1,0,0,3,2025 Early Summer Tour,2025 Summer,Tweezer Reprise,Tweeprise,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,
+2025-07-27,2025,0,11,4,1,0,0,0,2025 Early Summer Tour,2025 Summer,Tweezer Reprise,Tweeprise,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,
 2025-07-27,2025,0,12,2,2,0,0,4,2025 Early Summer Tour,2025 Summer,Kill Devil Falls,KDF,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,>
 2025-07-27,2025,0,13,1,2,0,0,5,2025 Early Summer Tour,2025 Summer,Twist,,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,","
 2025-07-27,2025,0,14,3,2,0,0,10,2025 Early Summer Tour,2025 Summer,Golden Age,,0,Broadview Stage at SPAC,Saratoga Springs,NY,USA,->
-2025-07-27,2025,0,15,3,2,0,0,3,2025 Early Summer Tour,2025 Summer,Tweezer Reprise,Tweeprise,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,->
+2025-07-27,2025,0,15,3,2,0,0,0,2025 Early Summer Tour,2025 Summer,Tweezer Reprise,Tweeprise,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,->
 2025-07-27,2025,0,16,1,2,0,0,8,2025 Early Summer Tour,2025 Summer,Boogie On Reggae Woman,Boogie On,0,Broadview Stage at SPAC,Saratoga Springs,NY,USA,","
 2025-07-27,2025,0,17,3,2,0,0,7,2025 Early Summer Tour,2025 Summer,You Enjoy Myself,YEM,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,->
-2025-07-27,2025,0,18,5,2,0,0,3,2025 Early Summer Tour,2025 Summer,Tweezer Reprise,Tweeprise,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,
-2025-07-27,2025,0,19,1,e,0,0,3,2025 Early Summer Tour,2025 Summer,Tweezer,,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,","
+2025-07-27,2025,0,18,5,2,0,0,0,2025 Early Summer Tour,2025 Summer,Tweezer Reprise,Tweeprise,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,
+2025-07-27,2025,0,19,1,e,0,0,4,2025 Early Summer Tour,2025 Summer,Tweezer,,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,","
 2025-07-27,2025,0,20,6,e,0,0,3,2025 Early Summer Tour,2025 Summer,Harry Hood,Hood,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,
-2025-09-12,2025,0,1,1,1,0,0,0,2025 Late Summer Tour,2025 Summer,46 Days,,1,Highland Festival Grounds at Kentucky Expo Center,Louisville,KY,USA,","
+2025-09-12,2025,0,1,1,1,0,0,1,2025 Late Summer Tour,2025 Summer,46 Days,,1,Highland Festival Grounds at Kentucky Expo Center,Louisville,KY,USA,","
 2025-09-12,2025,0,2,1,1,0,0,4,2025 Late Summer Tour,2025 Summer,The Moma Dance,Moma,1,Highland Festival Grounds at Kentucky Expo Center,Louisville,KY,USA,","
 2025-09-12,2025,0,3,1,1,0,0,3,2025 Late Summer Tour,2025 Summer,Free,,1,Highland Festival Grounds at Kentucky Expo Center,Louisville,KY,USA,","
 2025-09-12,2025,0,4,1,1,0,0,4,2025 Late Summer Tour,2025 Summer,Wolfman's Brother,Wolfman's,1,Highland Festival Grounds at Kentucky Expo Center,Louisville,KY,USA,","
@@ -639,7 +639,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-09-12,2025,0,9,2,2,0,0,1,2025 Late Summer Tour,2025 Summer,Sand,,0,Highland Festival Grounds at Kentucky Expo Center,Louisville,KY,USA,>
 2025-09-12,2025,0,10,2,2,0,0,2,2025 Late Summer Tour,2025 Summer,Chalk Dust Torture,CDT,1,Highland Festival Grounds at Kentucky Expo Center,Louisville,KY,USA,>
 2025-09-12,2025,0,11,3,2,0,0,1,2025 Late Summer Tour,2025 Summer,Light,,0,Highland Festival Grounds at Kentucky Expo Center,Louisville,KY,USA,->
-2025-09-12,2025,0,12,1,2,0,0,6,2025 Late Summer Tour,2025 Summer,Ya Mar,,0,Highland Festival Grounds at Kentucky Expo Center,Louisville,KY,USA,","
+2025-09-12,2025,0,12,1,2,0,0,7,2025 Late Summer Tour,2025 Summer,Ya Mar,,0,Highland Festival Grounds at Kentucky Expo Center,Louisville,KY,USA,","
 2025-09-12,2025,0,13,2,2,0,0,1,2025 Late Summer Tour,2025 Summer,Also Sprach Zarathustra,2001,0,Highland Festival Grounds at Kentucky Expo Center,Louisville,KY,USA,>
 2025-09-12,2025,0,14,2,2,0,0,4,2025 Late Summer Tour,2025 Summer,Carini,,1,Highland Festival Grounds at Kentucky Expo Center,Louisville,KY,USA,>
 2025-09-12,2025,0,15,2,2,0,0,2,2025 Late Summer Tour,2025 Summer,Everything's Right,,0,Highland Festival Grounds at Kentucky Expo Center,Louisville,KY,USA,>
@@ -719,3 +719,23 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2025-09-17,2025,0,16,1,2,0,0,9,2025 Late Summer Tour,2025 Summer,The Lizards,Lizards,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
 2025-09-17,2025,0,17,5,2,0,0,4,2025 Late Summer Tour,2025 Summer,You Enjoy Myself,YEM,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,
 2025-09-17,2025,0,18,6,e,0,0,14,2025 Late Summer Tour,2025 Summer,Meatstick,,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,
+2025-09-19,2025,0,1,1,1,0,0,6,2025 Late Summer Tour,2025 Summer,Fluffhead,,1,Hampton Coliseum,Hampton,VA,USA,","
+2025-09-19,2025,0,2,6,1,0,0,4,2025 Late Summer Tour,2025 Summer,46 Days,,1,Hampton Coliseum,Hampton,VA,USA,
+2025-09-19,2025,0,3,2,1,0,0,6,2025 Late Summer Tour,2025 Summer,"My Friend, My Friend",My Friend,1,Hampton Coliseum,Hampton,VA,USA,>
+2025-09-19,2025,0,4,1,1,0,0,9,2025 Late Summer Tour,2025 Summer,Rift,,1,Hampton Coliseum,Hampton,VA,USA,","
+2025-09-19,2025,0,5,1,1,0,0,13,2025 Late Summer Tour,2025 Summer,Gumbo,,1,Hampton Coliseum,Hampton,VA,USA,","
+2025-09-19,2025,0,6,1,1,0,0,13,2025 Late Summer Tour,2025 Summer,Pebbles and Marbles,,0,Hampton Coliseum,Hampton,VA,USA,","
+2025-09-19,2025,0,7,2,1,0,0,106,2025 Late Summer Tour,2025 Summer,Army of One,,1,Hampton Coliseum,Hampton,VA,USA,>
+2025-09-19,2025,0,8,1,1,0,0,4,2025 Late Summer Tour,2025 Summer,Ya Mar,,0,Hampton Coliseum,Hampton,VA,USA,","
+2025-09-19,2025,0,9,1,1,0,0,25,2025 Late Summer Tour,2025 Summer,The Wedge,Wedge,1,Hampton Coliseum,Hampton,VA,USA,","
+2025-09-19,2025,0,10,4,1,0,0,7,2025 Late Summer Tour,2025 Summer,Walls of the Cave,WotC,1,Hampton Coliseum,Hampton,VA,USA,
+2025-09-19,2025,0,11,2,2,0,0,101,2025 Late Summer Tour,2025 Summer,Energy,,0,Hampton Coliseum,Hampton,VA,USA,>
+2025-09-19,2025,0,12,2,2,0,0,5,2025 Late Summer Tour,2025 Summer,Tweezer,,1,Hampton Coliseum,Hampton,VA,USA,>
+2025-09-19,2025,0,13,2,2,0,0,8,2025 Late Summer Tour,2025 Summer,Ruby Waves,,0,Hampton Coliseum,Hampton,VA,USA,>
+2025-09-19,2025,0,14,2,2,0,0,6,2025 Late Summer Tour,2025 Summer,No Men In No Man's Land,NMINML,1,Hampton Coliseum,Hampton,VA,USA,>
+2025-09-19,2025,0,15,2,2,0,0,5,2025 Late Summer Tour,2025 Summer,Tweezer,,1,Hampton Coliseum,Hampton,VA,USA,>
+2025-09-19,2025,0,16,2,2,0,0,6,2025 Late Summer Tour,2025 Summer,Waste,,1,Hampton Coliseum,Hampton,VA,USA,>
+2025-09-19,2025,0,17,5,2,0,0,6,2025 Late Summer Tour,2025 Summer,Rock and Roll,R&amp;R,0,Hampton Coliseum,Hampton,VA,USA,
+2025-09-19,2025,0,18,2,e,0,0,14,2025 Late Summer Tour,2025 Summer,Prince Caspian,Caspian,1,Hampton Coliseum,Hampton,VA,USA,>
+2025-09-19,2025,0,19,2,e,0,0,18,2025 Late Summer Tour,2025 Summer,Bug,,0,Hampton Coliseum,Hampton,VA,USA,>
+2025-09-19,2025,0,20,6,e,0,0,5,2025 Late Summer Tour,2025 Summer,Tweezer Reprise,Tweeprise,1,Hampton Coliseum,Hampton,VA,USA,
