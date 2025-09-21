@@ -469,7 +469,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-03-11,1990,0,26,5,2,0,0,4,1990 Tour,1990,David Bowie,Bowie,1,The Front,Burlington,VT,USA,
 1990-03-11,1990,0,27,6,e,0,0,4,1990 Tour,1990,Tela,,1,The Front,Burlington,VT,USA,
 1990-03-17,1990,0,1,1,1,0,0,5,1990 Tour,1990,Golgi Apparatus,Golgi,1,23 East Cabaret,Ardmore,PA,USA,","
-1990-03-17,1990,0,2,1,1,0,0,2,1990 Tour,1990,Esther,,1,23 East Cabaret,Ardmore,PA,USA,","
+1990-03-17,1990,0,2,1,1,0,0,3,1990 Tour,1990,Esther,,1,23 East Cabaret,Ardmore,PA,USA,","
 1990-03-17,1990,0,3,2,1,0,0,1,1990 Tour,1990,Dinner and a Movie,,1,23 East Cabaret,Ardmore,PA,USA,>
 1990-03-17,1990,0,4,3,1,0,0,2,1990 Tour,1990,Bouncing Around the Room,Bouncin',1,23 East Cabaret,Ardmore,PA,USA,->
 1990-03-17,1990,0,5,2,1,0,0,1,1990 Tour,1990,My Sweet One,MSO,1,23 East Cabaret,Ardmore,PA,USA,>
@@ -484,7 +484,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-03-17,1990,0,14,2,2,0,0,2,1990 Tour,1990,AC/DC Bag,Bag,1,23 East Cabaret,Ardmore,PA,USA,>
 1990-03-17,1990,0,15,1,2,0,0,5,1990 Tour,1990,Foam,,1,23 East Cabaret,Ardmore,PA,USA,","
 1990-03-17,1990,0,16,5,2,0,0,4,1990 Tour,1990,You Enjoy Myself,YEM,1,23 East Cabaret,Ardmore,PA,USA,
-1990-03-17,1990,0,17,6,e,0,0,4,1990 Tour,1990,Good Times Bad Times,GTBT,0,23 East Cabaret,Ardmore,PA,USA,
+1990-03-17,1990,0,17,6,e,0,0,5,1990 Tour,1990,Good Times Bad Times,GTBT,0,23 East Cabaret,Ardmore,PA,USA,
 1990-03-28,1990,0,1,1,1,0,0,4,1990 Tour,1990,Possum,,1,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,","
 1990-03-28,1990,0,2,1,1,0,0,4,1990 Tour,1990,Ya Mar,,0,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,","
 1990-03-28,1990,0,3,1,1,0,0,14,1990 Tour,1990,Fee,,1,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,","
@@ -744,11 +744,11 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-04-18,1990,0,20,3,2,0,0,1,1990 Tour,1990,David Bowie,Bowie,1,Herman's Hideaway,Denver,CO,USA,->
 1990-04-18,1990,0,21,3,2,0,0,368,1990 Tour,1990,Jägermeister Song,,1,Herman's Hideaway,Denver,CO,USA,->
 1990-04-18,1990,0,22,6,2,0,0,0,1990 Tour,1990,David Bowie,Bowie,1,Herman's Hideaway,Denver,CO,USA,
-1990-04-19,1990,0,1,1,1,0,0,0,1990 Tour,1990,Reba,,1,Boulder Theater,Boulder,CO,USA,","
-1990-04-19,1990,0,2,1,1,0,0,3,1990 Tour,1990,Good Times Bad Times,GTBT,0,Boulder Theater,Boulder,CO,USA,","
-1990-04-19,1990,0,3,1,1,0,0,2,1990 Tour,1990,Fluffhead,,1,Boulder Theater,Boulder,CO,USA,","
+1990-04-19,1990,0,1,1,1,0,0,1,1990 Tour,1990,Reba,,1,Boulder Theater,Boulder,CO,USA,","
+1990-04-19,1990,0,2,1,1,0,0,4,1990 Tour,1990,Good Times Bad Times,GTBT,0,Boulder Theater,Boulder,CO,USA,","
+1990-04-19,1990,0,3,1,1,0,0,3,1990 Tour,1990,Fluffhead,,1,Boulder Theater,Boulder,CO,USA,","
 1990-04-19,1990,0,4,4,1,0,0,0,1990 Tour,1990,Uncle Pen,,0,Boulder Theater,Boulder,CO,USA,
-1990-04-19,1990,0,5,1,2,0,0,0,1990 Tour,1990,Possum,,1,Boulder Theater,Boulder,CO,USA,","
+1990-04-19,1990,0,5,1,2,0,0,1,1990 Tour,1990,Possum,,1,Boulder Theater,Boulder,CO,USA,","
 1990-04-19,1990,0,6,1,2,0,0,4,1990 Tour,1990,McGrupp and the Watchful Hosemasters,McGrupp,1,Boulder Theater,Boulder,CO,USA,","
 1990-04-19,1990,0,7,1,2,0,0,2,1990 Tour,1990,Dinner and a Movie,,1,Boulder Theater,Boulder,CO,USA,","
 1990-04-19,1990,0,8,1,2,0,0,0,1990 Tour,1990,You Enjoy Myself,YEM,1,Boulder Theater,Boulder,CO,USA,","
@@ -780,7 +780,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-04-20,1990,0,22,1,2,0,0,5,1990 Tour,1990,Jesus Just Left Chicago,JJLC,0,"Ramskeller, Colorado State University",Fort Collins,CO,USA,","
 1990-04-20,1990,0,23,6,2,0,0,1,1990 Tour,1990,You Enjoy Myself,YEM,1,"Ramskeller, Colorado State University",Fort Collins,CO,USA,
 1990-04-21,1990,0,1,1,1,0,0,16,1990 Tour,1990,Sweet Adeline,,0,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,","
-1990-04-21,1990,0,2,1,1,0,0,3,1990 Tour,1990,Reba,,1,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,","
+1990-04-21,1990,0,2,1,1,0,0,2,1990 Tour,1990,Reba,,1,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,","
 1990-04-21,1990,0,3,1,1,0,0,3,1990 Tour,1990,Funky Bitch,,0,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,","
 1990-04-21,1990,0,4,2,1,0,0,5,1990 Tour,1990,Esther,,1,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,>
 1990-04-21,1990,0,5,1,1,0,0,3,1990 Tour,1990,Foam,,1,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,","
@@ -794,7 +794,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-04-21,1990,0,13,1,2,0,0,6,1990 Tour,1990,Runaway Jim,,1,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,","
 1990-04-21,1990,0,14,1,2,0,0,75,1990 Tour,1990,No Dogs Allowed,,1,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,","
 1990-04-21,1990,0,15,1,2,0,0,3,1990 Tour,1990,Uncle Pen,,0,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,","
-1990-04-21,1990,0,16,2,2,0,0,5,1990 Tour,1990,Fluffhead,,1,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,>
+1990-04-21,1990,0,16,2,2,0,0,2,1990 Tour,1990,Fluffhead,,1,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,>
 1990-04-21,1990,0,17,1,2,0,0,2,1990 Tour,1990,Highway to Hell,,0,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,","
 1990-04-21,1990,0,18,2,2,0,0,20,1990 Tour,1990,Tela,,1,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,>
 1990-04-21,1990,0,19,1,2,0,0,4,1990 Tour,1990,Tweezer,,1,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,","
@@ -962,7 +962,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-05-10,1990,0,13,2,2,0,0,2,1990 Tour,1990,Reba,,1,Pearl Street Ballroom,Northampton,MA,USA,>
 1990-05-10,1990,0,14,2,2,0,0,5,1990 Tour,1990,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Pearl Street Ballroom,Northampton,MA,USA,>
 1990-05-10,1990,0,15,1,2,0,0,14,1990 Tour,1990,AC/DC Bag,Bag,1,Pearl Street Ballroom,Northampton,MA,USA,","
-1990-05-10,1990,0,16,5,2,0,0,19,1990 Tour,1990,Good Times Bad Times,GTBT,0,Pearl Street Ballroom,Northampton,MA,USA,
+1990-05-10,1990,0,16,5,2,0,0,15,1990 Tour,1990,Good Times Bad Times,GTBT,0,Pearl Street Ballroom,Northampton,MA,USA,
 1990-05-10,1990,0,17,6,e,0,0,5,1990 Tour,1990,Whipping Post,,0,Pearl Street Ballroom,Northampton,MA,USA,
 1990-05-11,1990,0,1,2,1,0,0,2,1990 Tour,1990,Mike's Song,Mike's,1,The Living Room,Providence,RI,USA,>
 1990-05-11,1990,0,2,2,1,0,0,2,1990 Tour,1990,I Am Hydrogen,Hydrogen,1,The Living Room,Providence,RI,USA,>

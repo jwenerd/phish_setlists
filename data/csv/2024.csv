@@ -241,7 +241,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2024-07-26,2024,0,5,1,1,0,0,37,2024 Summer Tour,2024 Summer,Brian and Robert,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2024-07-26,2024,0,6,1,1,0,0,14,2024 Summer Tour,2024 Summer,Llama,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2024-07-26,2024,0,7,2,1,0,0,24,2024 Summer Tour,2024 Summer,Cities,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2024-07-26,2024,0,8,1,1,0,0,22,2024 Summer Tour,2024 Summer,Ya Mar,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2024-07-26,2024,0,8,1,1,0,0,23,2024 Summer Tour,2024 Summer,Ya Mar,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2024-07-26,2024,0,9,1,1,0,0,5,2024 Summer Tour,2024 Summer,Stash,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2024-07-26,2024,0,10,4,1,0,0,10,2024 Summer Tour,2024 Summer,Cavern,,1,Alpine Valley Music Theatre,East Troy,WI,USA,
 2024-07-26,2024,0,11,2,2,0,0,8,2024 Summer Tour,2024 Summer,Axilla (Part II),,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
@@ -565,7 +565,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2024-08-18,2024,0,7,3,1,0,0,4,2024 Summer Tour,2024 Summer,Sigma Oasis,,0,The Woodlands,Dover,DE,USA,->
 2024-08-18,2024,0,8,1,1,0,0,8,2024 Summer Tour,2024 Summer,Rift,,1,The Woodlands,Dover,DE,USA,","
 2024-08-18,2024,0,9,1,1,0,0,8,2024 Summer Tour,2024 Summer,Stash,,1,The Woodlands,Dover,DE,USA,","
-2024-08-18,2024,0,10,1,1,0,0,15,2024 Summer Tour,2024 Summer,Ya Mar,,0,The Woodlands,Dover,DE,USA,","
+2024-08-18,2024,0,10,1,1,0,0,16,2024 Summer Tour,2024 Summer,Ya Mar,,0,The Woodlands,Dover,DE,USA,","
 2024-08-18,2024,0,11,1,1,0,0,4,2024 Summer Tour,2024 Summer,Timber (Jerry the Mule),Timber Ho,0,The Woodlands,Dover,DE,USA,","
 2024-08-18,2024,0,12,2,1,0,0,4,2024 Summer Tour,2024 Summer,Bathtub Gin,Gin,1,The Woodlands,Dover,DE,USA,>
 2024-08-18,2024,0,13,2,1,0,0,10,2024 Summer Tour,2024 Summer,Izabella,,0,The Woodlands,Dover,DE,USA,>
@@ -603,7 +603,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2024-08-30,2024,0,13,2,2,0,0,13,2024 Summer Tour,2024 Summer,What's the Use?,WTU?,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2024-08-30,2024,0,14,1,2,0,0,5,2024 Summer Tour,2024 Summer,Possum,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2024-08-30,2024,0,15,5,2,0,0,5,2024 Summer Tour,2024 Summer,Everything's Right,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
-2024-08-30,2024,0,16,1,e,0,0,77,2024 Summer Tour,2024 Summer,Fee,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-30,2024,0,16,1,e,0,0,78,2024 Summer Tour,2024 Summer,Fee,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2024-08-30,2024,0,17,6,e,0,0,3,2024 Summer Tour,2024 Summer,You Enjoy Myself,YEM,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2024-08-31,2024,0,1,1,1,0,0,4,2024 Summer Tour,2024 Summer,46 Days,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2024-08-31,2024,0,2,1,1,0,0,4,2024 Summer Tour,2024 Summer,Oblivion,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
@@ -692,7 +692,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2024-10-27,2024,0,9,4,1,0,0,14,Not Part of a Tour,No Tour,Walls of the Cave,WotC,1,MVP Arena,Albany,NY,USA,
 2024-10-27,2024,0,10,2,2,0,0,5,Not Part of a Tour,No Tour,Everything's Right,,0,MVP Arena,Albany,NY,USA,>
 2024-10-27,2024,0,11,1,2,0,0,5,Not Part of a Tour,No Tour,Chalk Dust Torture,CDT,1,MVP Arena,Albany,NY,USA,","
-2024-10-27,2024,0,12,1,2,0,0,22,Not Part of a Tour,No Tour,Mercury,,1,MVP Arena,Albany,NY,USA,","
+2024-10-27,2024,0,12,1,2,0,0,23,Not Part of a Tour,No Tour,Mercury,,1,MVP Arena,Albany,NY,USA,","
 2024-10-27,2024,0,13,1,2,0,0,12,Not Part of a Tour,No Tour,Wading in the Velvet Sea,Velvet Sea,1,MVP Arena,Albany,NY,USA,","
 2024-10-27,2024,0,14,5,2,0,0,4,Not Part of a Tour,No Tour,Most Events Aren't Planned,,0,MVP Arena,Albany,NY,USA,
 2024-10-27,2024,0,15,1,e,0,0,8,Not Part of a Tour,No Tour,Gotta Jibboo,Jibboo,0,MVP Arena,Albany,NY,USA,","

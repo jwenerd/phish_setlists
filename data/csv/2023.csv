@@ -30,14 +30,14 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-02-24,2023,0,15,5,2,2,0,4,2023 Mexico,2023 Mexico,Bathtub Gin,Gin,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
 2023-02-24,2023,0,16,2,e,2,0,15,2023 Mexico,2023 Mexico,Golgi Apparatus,Golgi,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2023-02-24,2023,0,17,6,e,2,0,4,2023 Mexico,2023 Mexico,Character Zero,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
-2023-02-25,2023,0,1,1,1,0,0,10,2023 Mexico,2023 Mexico,Gotta Jibboo,Jibboo,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2023-02-25,2023,0,1,1,1,0,0,11,2023 Mexico,2023 Mexico,Gotta Jibboo,Jibboo,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2023-02-25,2023,0,2,1,1,0,0,4,2023 Mexico,2023 Mexico,No Men In No Man's Land,NMINML,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2023-02-25,2023,0,3,1,1,0,0,5,2023 Mexico,2023 Mexico,Steam,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2023-02-25,2023,0,4,1,1,0,0,76,2023 Mexico,2023 Mexico,Poor Heart,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2023-02-25,2023,0,5,3,1,0,0,2,2023 Mexico,2023 Mexico,Halley's Comet,Halley's,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
 2023-02-25,2023,0,6,1,1,0,0,11,2023 Mexico,2023 Mexico,Saw It Again,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2023-02-25,2023,0,7,2,1,0,0,4,2023 Mexico,2023 Mexico,Theme From the Bottom,Theme,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2023-02-25,2023,0,8,1,1,0,0,5,2023 Mexico,2023 Mexico,Maze,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2023-02-25,2023,0,8,1,1,0,0,6,2023 Mexico,2023 Mexico,Maze,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2023-02-25,2023,0,9,1,1,0,0,12,2023 Mexico,2023 Mexico,About to Run,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2023-02-25,2023,0,10,4,1,0,0,23,2023 Mexico,2023 Mexico,Most Events Aren't Planned,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,
 2023-02-25,2023,0,11,2,2,0,0,4,2023 Mexico,2023 Mexico,Down with Disease,DwD,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
@@ -48,8 +48,8 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-02-25,2023,0,16,2,2,0,0,3,2023 Mexico,2023 Mexico,Piper,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2023-02-25,2023,0,17,2,2,0,0,3,2023 Mexico,2023 Mexico,Also Sprach Zarathustra,2001,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2023-02-25,2023,0,18,5,2,0,0,2,2023 Mexico,2023 Mexico,Say It To Me S.A.N.T.O.S.,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
-2023-02-25,2023,0,19,1,e,0,0,7,2023 Mexico,2023 Mexico,Fee,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
-2023-02-25,2023,0,20,6,e,0,0,21,2023 Mexico,2023 Mexico,The Wedge,Wedge,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
+2023-02-25,2023,0,19,1,e,0,0,8,2023 Mexico,2023 Mexico,Fee,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2023-02-25,2023,0,20,6,e,0,0,22,2023 Mexico,2023 Mexico,The Wedge,Wedge,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,
 2023-02-26,2023,0,1,1,1,2,0,7,2023 Mexico,2023 Mexico,Sigma Oasis,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2023-02-26,2023,0,2,1,1,2,0,6,2023 Mexico,2023 Mexico,David Bowie,Bowie,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2023-02-26,2023,0,3,1,1,2,0,7,2023 Mexico,2023 Mexico,Wolfman's Brother,Wolfman's,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
@@ -407,7 +407,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-07-26,2023,0,3,2,1,0,0,0,2023 Summer Tour,2023 Summer,Mike's Song,Mike's,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
 2023-07-26,2023,0,4,2,1,0,0,24,2023 Summer Tour,2023 Summer,I Am Hydrogen,Hydrogen,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
 2023-07-26,2023,0,5,1,1,0,0,7,2023 Summer Tour,2023 Summer,Weekapaug Groove,Weekapaug,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
-2023-07-26,2023,0,6,1,1,0,0,62,2023 Summer Tour,2023 Summer,Army of One,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
+2023-07-26,2023,0,6,1,1,0,0,63,2023 Summer Tour,2023 Summer,Army of One,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
 2023-07-26,2023,0,7,1,1,0,0,53,2023 Summer Tour,2023 Summer,Mound,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
 2023-07-26,2023,0,8,2,1,0,0,11,2023 Summer Tour,2023 Summer,The Moma Dance,Moma,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
 2023-07-26,2023,0,9,2,1,0,0,9,2023 Summer Tour,2023 Summer,Prince Caspian,Caspian,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
@@ -682,7 +682,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-10-07,2023,0,15,3,2,0,0,14,2023 Fall Tour,2023 Fall,Cities,,0,Bridgestone Arena,Nashville,TN,USA,->
 2023-10-07,2023,0,16,1,2,0,0,3,2023 Fall Tour,2023 Fall,Llama,,1,Bridgestone Arena,Nashville,TN,USA,","
 2023-10-07,2023,0,17,1,2,0,0,22,2023 Fall Tour,2023 Fall,I Always Wanted It This Way,,1,Bridgestone Arena,Nashville,TN,USA,","
-2023-10-07,2023,0,18,5,2,0,0,12,2023 Fall Tour,2023 Fall,Bug,,0,Bridgestone Arena,Nashville,TN,USA,
+2023-10-07,2023,0,18,5,2,0,0,13,2023 Fall Tour,2023 Fall,Bug,,0,Bridgestone Arena,Nashville,TN,USA,
 2023-10-07,2023,0,19,1,e,0,0,11,2023 Fall Tour,2023 Fall,Lonely Trip,,0,Bridgestone Arena,Nashville,TN,USA,","
 2023-10-07,2023,0,20,6,e,0,0,2,2023 Fall Tour,2023 Fall,Harry Hood,Hood,1,Bridgestone Arena,Nashville,TN,USA,
 2023-10-08,2023,0,1,2,1,0,0,10,2023 Fall Tour,2023 Fall,Buried Alive,,1,Bridgestone Arena,Nashville,TN,USA,>
