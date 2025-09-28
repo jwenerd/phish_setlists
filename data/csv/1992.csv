@@ -2395,30 +2395,30 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1992-12-13,1992,0,27,5,2,0,0,1,1992 Fall Tour,1992 Fall,Cavern,,1,Le Spectrum,"Montréal, Québec",,Canada,
 1992-12-13,1992,0,28,1,e,0,0,3,1992 Fall Tour,1992 Fall,Sweet Adeline,,0,Le Spectrum,"Montréal, Québec",,Canada,","
 1992-12-13,1992,0,29,6,e,0,0,8,1992 Fall Tour,1992 Fall,Rocky Top,,0,Le Spectrum,"Montréal, Québec",,Canada,
-1992-12-28,1992,0,1,1,1,2,0,2,1992 NYE Run,1992 NYE,Maze,,1,Palace Theatre,New Haven,CT,USA,","
-1992-12-28,1992,0,2,1,1,2,0,2,1992 NYE Run,1992 NYE,Sparkle,,1,Palace Theatre,New Haven,CT,USA,","
-1992-12-28,1992,0,3,1,1,2,0,2,1992 NYE Run,1992 NYE,Foam,,1,Palace Theatre,New Haven,CT,USA,","
-1992-12-28,1992,0,4,2,1,2,0,1,1992 NYE Run,1992 NYE,Buried Alive,,1,Palace Theatre,New Haven,CT,USA,>
-1992-12-28,1992,0,5,2,1,2,0,1,1992 NYE Run,1992 NYE,Glide,,1,Palace Theatre,New Haven,CT,USA,>
-1992-12-28,1992,0,6,2,1,2,0,1,1992 NYE Run,1992 NYE,It's Ice,,1,Palace Theatre,New Haven,CT,USA,>
-1992-12-28,1992,0,7,2,1,2,0,1,1992 NYE Run,1992 NYE,Bouncing Around the Room,Bouncin',1,Palace Theatre,New Haven,CT,USA,>
-1992-12-28,1992,0,8,1,1,2,0,1,1992 NYE Run,1992 NYE,Rift,,1,Palace Theatre,New Haven,CT,USA,","
-1992-12-28,1992,0,9,1,1,2,0,2,1992 NYE Run,1992 NYE,Golgi Apparatus,Golgi,1,Palace Theatre,New Haven,CT,USA,","
-1992-12-28,1992,0,10,1,1,2,0,1,1992 NYE Run,1992 NYE,Sweet Adeline,,0,Palace Theatre,New Haven,CT,USA,","
-1992-12-28,1992,0,11,4,1,2,0,2,1992 NYE Run,1992 NYE,Run Like an Antelope,Antelope,1,Palace Theatre,New Haven,CT,USA,
-1992-12-28,1992,0,12,1,2,2,0,2,1992 NYE Run,1992 NYE,Poor Heart,,1,Palace Theatre,New Haven,CT,USA,","
-1992-12-28,1992,0,13,1,2,2,0,2,1992 NYE Run,1992 NYE,Split Open and Melt,SOAMelt,1,Palace Theatre,New Haven,CT,USA,","
-1992-12-28,1992,0,14,1,2,2,0,2,1992 NYE Run,1992 NYE,Reba,,1,Palace Theatre,New Haven,CT,USA,","
-1992-12-28,1992,0,15,1,2,2,0,7,1992 NYE Run,1992 NYE,The Sloth,Sloth,1,Palace Theatre,New Haven,CT,USA,","
-1992-12-28,1992,0,16,2,2,2,0,2,1992 NYE Run,1992 NYE,You Enjoy Myself,YEM,1,Palace Theatre,New Haven,CT,USA,>
-1992-12-28,1992,0,17,2,2,2,0,3,1992 NYE Run,1992 NYE,The Lizards,Lizards,1,Palace Theatre,New Haven,CT,USA,>
-1992-12-28,1992,0,18,2,2,2,0,1,1992 NYE Run,1992 NYE,Hold Your Head Up,HYHU,0,Palace Theatre,New Haven,CT,USA,>
-1992-12-28,1992,0,19,2,2,2,0,74,1992 NYE Run,1992 NYE,Bike,,0,Palace Theatre,New Haven,CT,USA,>
-1992-12-28,1992,0,20,1,2,2,0,0,1992 NYE Run,1992 NYE,Hold Your Head Up,HYHU,0,Palace Theatre,New Haven,CT,USA,","
-1992-12-28,1992,0,21,1,2,2,0,1,1992 NYE Run,1992 NYE,Harry Hood,Hood,1,Palace Theatre,New Haven,CT,USA,","
-1992-12-28,1992,0,22,5,2,2,0,1,1992 NYE Run,1992 NYE,Cavern,,1,Palace Theatre,New Haven,CT,USA,
-1992-12-28,1992,0,23,1,e,2,0,2,1992 NYE Run,1992 NYE,Memories,,0,Palace Theatre,New Haven,CT,USA,","
-1992-12-28,1992,0,24,6,e,2,0,5,1992 NYE Run,1992 NYE,Fire,,0,Palace Theatre,New Haven,CT,USA,
+1992-12-28,1992,0,1,1,1,0,0,1,1992 NYE Run,1992 NYE,Maze,,1,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,2,1,1,0,0,1,1992 NYE Run,1992 NYE,Sparkle,,1,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,3,1,1,0,0,2,1992 NYE Run,1992 NYE,Foam,,1,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,4,2,1,0,0,0,1992 NYE Run,1992 NYE,Buried Alive,,1,Palace Theatre,New Haven,CT,USA,>
+1992-12-28,1992,0,5,2,1,0,0,1,1992 NYE Run,1992 NYE,Glide,,1,Palace Theatre,New Haven,CT,USA,>
+1992-12-28,1992,0,6,2,1,0,0,0,1992 NYE Run,1992 NYE,It's Ice,,1,Palace Theatre,New Haven,CT,USA,>
+1992-12-28,1992,0,7,2,1,0,0,0,1992 NYE Run,1992 NYE,Bouncing Around the Room,Bouncin',1,Palace Theatre,New Haven,CT,USA,>
+1992-12-28,1992,0,8,1,1,0,0,0,1992 NYE Run,1992 NYE,Rift,,1,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,9,1,1,0,0,2,1992 NYE Run,1992 NYE,Golgi Apparatus,Golgi,1,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,10,1,1,0,0,0,1992 NYE Run,1992 NYE,Sweet Adeline,,0,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,11,4,1,0,0,1,1992 NYE Run,1992 NYE,Run Like an Antelope,Antelope,1,Palace Theatre,New Haven,CT,USA,
+1992-12-28,1992,0,12,1,2,0,0,1,1992 NYE Run,1992 NYE,Poor Heart,,1,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,13,1,2,0,0,2,1992 NYE Run,1992 NYE,Split Open and Melt,SOAMelt,1,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,14,1,2,0,0,1,1992 NYE Run,1992 NYE,Reba,,1,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,15,1,2,0,0,6,1992 NYE Run,1992 NYE,The Sloth,Sloth,1,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,16,2,2,0,0,1,1992 NYE Run,1992 NYE,You Enjoy Myself,YEM,1,Palace Theatre,New Haven,CT,USA,>
+1992-12-28,1992,0,17,2,2,0,0,2,1992 NYE Run,1992 NYE,The Lizards,Lizards,1,Palace Theatre,New Haven,CT,USA,>
+1992-12-28,1992,0,18,2,2,0,0,0,1992 NYE Run,1992 NYE,Hold Your Head Up,HYHU,0,Palace Theatre,New Haven,CT,USA,>
+1992-12-28,1992,0,19,2,2,0,0,73,1992 NYE Run,1992 NYE,Bike,,0,Palace Theatre,New Haven,CT,USA,>
+1992-12-28,1992,0,20,1,2,0,0,0,1992 NYE Run,1992 NYE,Hold Your Head Up,HYHU,0,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,21,1,2,0,0,1,1992 NYE Run,1992 NYE,Harry Hood,Hood,1,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,22,5,2,0,0,0,1992 NYE Run,1992 NYE,Cavern,,1,Palace Theatre,New Haven,CT,USA,
+1992-12-28,1992,0,23,1,e,0,0,2,1992 NYE Run,1992 NYE,Memories,,0,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,24,6,e,0,0,4,1992 NYE Run,1992 NYE,Fire,,0,Palace Theatre,New Haven,CT,USA,
 1992-12-29,1992,0,1,1,1,0,0,44,1992 NYE Run,1992 NYE,Funky Bitch,,0,Palace Theatre,New Haven,CT,USA,","
 1992-12-29,1992,0,2,2,1,0,0,4,1992 NYE Run,1992 NYE,Runaway Jim,,1,Palace Theatre,New Haven,CT,USA,>
 1992-12-29,1992,0,3,1,1,0,0,3,1992 NYE Run,1992 NYE,Guelah Papyrus,Guelah,1,Palace Theatre,New Haven,CT,USA,","
