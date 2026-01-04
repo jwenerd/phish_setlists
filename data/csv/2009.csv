@@ -19,7 +19,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2009-03-06,2009,0,18,3,2,0,0,4,2009 Hampton Reunion Run,2009 March,Tweezer,,1,Hampton Coliseum,Hampton,VA,USA,->
 2009-03-06,2009,0,19,1,2,0,0,1,2009 Hampton Reunion Run,2009 March,Taste,,1,Hampton Coliseum,Hampton,VA,USA,","
 2009-03-06,2009,0,20,1,2,0,0,1,2009 Hampton Reunion Run,2009 March,Possum,,1,Hampton Coliseum,Hampton,VA,USA,","
-2009-03-06,2009,0,21,1,2,0,0,5,2009 Hampton Reunion Run,2009 March,Theme From the Bottom,Theme,1,Hampton Coliseum,Hampton,VA,USA,","
+2009-03-06,2009,0,21,1,2,0,0,5,2009 Hampton Reunion Run,2009 March,Theme from the Bottom,Theme,1,Hampton Coliseum,Hampton,VA,USA,","
 2009-03-06,2009,0,22,2,2,0,0,19,2009 Hampton Reunion Run,2009 March,First Tube,,0,Hampton Coliseum,Hampton,VA,USA,>
 2009-03-06,2009,0,23,1,2,0,0,2,2009 Hampton Reunion Run,2009 March,Harry Hood,Hood,1,Hampton Coliseum,Hampton,VA,USA,","
 2009-03-06,2009,0,24,2,2,0,0,10,2009 Hampton Reunion Run,2009 March,Waste,,1,Hampton Coliseum,Hampton,VA,USA,>
@@ -151,7 +151,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2009-06-05,2009,0,5,1,1,0,0,6,2009 Early Summer Tour,2009 Summer,I Didn't Know,IDK,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
 2009-06-05,2009,0,6,1,1,0,0,4,2009 Early Summer Tour,2009 Summer,"My Friend, My Friend",My Friend,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
 2009-06-05,2009,0,7,1,1,0,0,8,2009 Early Summer Tour,2009 Summer,Ya Mar,,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
-2009-06-05,2009,0,8,1,1,0,0,6,2009 Early Summer Tour,2009 Summer,Theme From the Bottom,Theme,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
+2009-06-05,2009,0,8,1,1,0,0,6,2009 Early Summer Tour,2009 Summer,Theme from the Bottom,Theme,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
 2009-06-05,2009,0,9,1,1,0,0,13,2009 Early Summer Tour,2009 Summer,Boogie On Reggae Woman,Boogie On,0,Nikon at Jones Beach Theater,Wantagh,NY,USA,","
 2009-06-05,2009,0,10,4,1,0,0,5,2009 Early Summer Tour,2009 Summer,Split Open and Melt,SOAMelt,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,
 2009-06-05,2009,0,11,3,2,0,0,3,2009 Early Summer Tour,2009 Summer,Down with Disease,DwD,1,Nikon at Jones Beach Theater,Wantagh,NY,USA,->
@@ -223,7 +223,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2009-06-09,2009,0,15,2,2,0,0,8,2009 Early Summer Tour,2009 Summer,Halley's Comet,Halley's,1,Asheville Civic Center,Asheville,NC,USA,>
 2009-06-09,2009,0,16,1,2,0,0,7,2009 Early Summer Tour,2009 Summer,Maze,,1,Asheville Civic Center,Asheville,NC,USA,","
 2009-06-09,2009,0,17,1,2,0,0,1433,2009 Early Summer Tour,2009 Summer,Alaska,,0,Asheville Civic Center,Asheville,NC,USA,","
-2009-06-09,2009,0,18,1,2,0,0,3,2009 Early Summer Tour,2009 Summer,Theme From the Bottom,Theme,1,Asheville Civic Center,Asheville,NC,USA,","
+2009-06-09,2009,0,18,1,2,0,0,3,2009 Early Summer Tour,2009 Summer,Theme from the Bottom,Theme,1,Asheville Civic Center,Asheville,NC,USA,","
 2009-06-09,2009,0,19,1,2,0,0,2,2009 Early Summer Tour,2009 Summer,Golgi Apparatus,Golgi,1,Asheville Civic Center,Asheville,NC,USA,","
 2009-06-09,2009,0,20,5,2,0,0,2,2009 Early Summer Tour,2009 Summer,Possum,,1,Asheville Civic Center,Asheville,NC,USA,
 2009-06-09,2009,0,21,6,e,0,0,5,2009 Early Summer Tour,2009 Summer,Loving Cup,,0,Asheville Civic Center,Asheville,NC,USA,
@@ -521,7 +521,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2009-08-07,2009,0,5,1,1,0,0,10,2009 Late Summer Tour,2009 Summer,Sleep,,1,Gorge Amphitheatre,George,WA,USA,","
 2009-08-07,2009,0,6,1,1,0,0,20,2009 Late Summer Tour,2009 Summer,Destiny Unbound,Destiny,1,Gorge Amphitheatre,George,WA,USA,","
 2009-08-07,2009,0,7,1,1,0,0,5,2009 Late Summer Tour,2009 Summer,Stash,,1,Gorge Amphitheatre,George,WA,USA,","
-2009-08-07,2009,0,8,2,1,0,0,26,2009 Late Summer Tour,2009 Summer,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Gorge Amphitheatre,George,WA,USA,>
+2009-08-07,2009,0,8,2,1,0,0,26,2009 Late Summer Tour,2009 Summer,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,Gorge Amphitheatre,George,WA,USA,>
 2009-08-07,2009,0,9,4,1,0,0,13,2009 Late Summer Tour,2009 Summer,Cavern,,1,Gorge Amphitheatre,George,WA,USA,
 2009-08-07,2009,0,10,1,2,0,0,5,2009 Late Summer Tour,2009 Summer,The Moma Dance,Moma,1,Gorge Amphitheatre,George,WA,USA,","
 2009-08-07,2009,0,11,3,2,0,0,11,2009 Late Summer Tour,2009 Summer,Light,,0,Gorge Amphitheatre,George,WA,USA,->
@@ -565,7 +565,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2009-08-11,2009,0,11,2,2,0,0,1,2009 Late Summer Tour,2009 Summer,Backwards Down the Number Line,BDTNL,0,Toyota Park,Bridgeview,IL,USA,>
 2009-08-11,2009,0,12,2,2,0,0,26,2009 Late Summer Tour,2009 Summer,Carini,,1,Toyota Park,Bridgeview,IL,USA,>
 2009-08-11,2009,0,13,1,2,0,0,5,2009 Late Summer Tour,2009 Summer,Gotta Jibboo,Jibboo,0,Toyota Park,Bridgeview,IL,USA,","
-2009-08-11,2009,0,14,1,2,0,0,16,2009 Late Summer Tour,2009 Summer,Theme From the Bottom,Theme,1,Toyota Park,Bridgeview,IL,USA,","
+2009-08-11,2009,0,14,1,2,0,0,16,2009 Late Summer Tour,2009 Summer,Theme from the Bottom,Theme,1,Toyota Park,Bridgeview,IL,USA,","
 2009-08-11,2009,0,15,2,2,0,0,4,2009 Late Summer Tour,2009 Summer,Wilson,,1,Toyota Park,Bridgeview,IL,USA,>
 2009-08-11,2009,0,16,2,2,0,0,4,2009 Late Summer Tour,2009 Summer,Also Sprach Zarathustra,2001,0,Toyota Park,Bridgeview,IL,USA,>
 2009-08-11,2009,0,17,1,2,0,0,1,2009 Late Summer Tour,2009 Summer,Chalk Dust Torture,CDT,1,Toyota Park,Bridgeview,IL,USA,","
@@ -763,7 +763,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2009-11-01,2009,0,31,1,3,0,0,12,Not Part of a Tour,No Tour,Free,,1,Empire Polo Club,Indio,CA,USA,","
 2009-11-01,2009,0,32,1,3,0,0,6,Not Part of a Tour,No Tour,Sugar Shack,,1,Empire Polo Club,Indio,CA,USA,","
 2009-11-01,2009,0,33,1,3,0,0,10,Not Part of a Tour,No Tour,Limb By Limb,LxL,1,Empire Polo Club,Indio,CA,USA,","
-2009-11-01,2009,0,34,2,3,0,0,7,Not Part of a Tour,No Tour,Theme From the Bottom,Theme,1,Empire Polo Club,Indio,CA,USA,>
+2009-11-01,2009,0,34,2,3,0,0,7,Not Part of a Tour,No Tour,Theme from the Bottom,Theme,1,Empire Polo Club,Indio,CA,USA,>
 2009-11-01,2009,0,35,2,3,0,0,10,Not Part of a Tour,No Tour,Mike's Song,Mike's,1,Empire Polo Club,Indio,CA,USA,>
 2009-11-01,2009,0,36,2,3,0,0,7,Not Part of a Tour,No Tour,Also Sprach Zarathustra,2001,0,Empire Polo Club,Indio,CA,USA,>
 2009-11-01,2009,0,37,2,3,0,0,9,Not Part of a Tour,No Tour,Light,,0,Empire Polo Club,Indio,CA,USA,>
@@ -853,7 +853,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2009-11-22,2009,0,15,2,2,0,0,6,2009 Fall Tour,2009 Fall,Piper,,1,War Memorial at Oncenter,Syracuse,NY,USA,>
 2009-11-22,2009,0,16,1,2,0,0,77,2009 Fall Tour,2009 Fall,Big Black Furry Creature from Mars,BBFCFM,1,War Memorial at Oncenter,Syracuse,NY,USA,","
 2009-11-22,2009,0,17,1,2,0,0,8,2009 Fall Tour,2009 Fall,Tube,,1,War Memorial at Oncenter,Syracuse,NY,USA,","
-2009-11-22,2009,0,18,2,2,0,0,4,2009 Fall Tour,2009 Fall,Theme From the Bottom,Theme,1,War Memorial at Oncenter,Syracuse,NY,USA,>
+2009-11-22,2009,0,18,2,2,0,0,4,2009 Fall Tour,2009 Fall,Theme from the Bottom,Theme,1,War Memorial at Oncenter,Syracuse,NY,USA,>
 2009-11-22,2009,0,19,1,2,0,0,4,2009 Fall Tour,2009 Fall,Maze,,1,War Memorial at Oncenter,Syracuse,NY,USA,","
 2009-11-22,2009,0,20,2,2,0,0,10,2009 Fall Tour,2009 Fall,The Horse,Horse,1,War Memorial at Oncenter,Syracuse,NY,USA,>
 2009-11-22,2009,0,21,2,2,0,0,10,2009 Fall Tour,2009 Fall,Silent in the Morning,Silent,1,War Memorial at Oncenter,Syracuse,NY,USA,>
@@ -1037,7 +1037,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2009-12-05,2009,0,3,1,1,0,0,5,2009 Fall Tour,2009 Fall,Stealing Time From the Faulty Plan,STFTFP,1,John Paul Jones Arena,Charlottesville,VA,USA,","
 2009-12-05,2009,0,4,1,1,0,0,3,2009 Fall Tour,2009 Fall,Divided Sky,Divided,1,John Paul Jones Arena,Charlottesville,VA,USA,","
 2009-12-05,2009,0,5,1,1,0,0,21,2009 Fall Tour,2009 Fall,Ya Mar,,0,John Paul Jones Arena,Charlottesville,VA,USA,","
-2009-12-05,2009,0,6,1,1,0,0,22,2009 Fall Tour,2009 Fall,Sneakin' Sally Through the Alley,Sneakin' Sally,0,John Paul Jones Arena,Charlottesville,VA,USA,","
+2009-12-05,2009,0,6,1,1,0,0,22,2009 Fall Tour,2009 Fall,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,John Paul Jones Arena,Charlottesville,VA,USA,","
 2009-12-05,2009,0,7,2,1,0,0,63,2009 Fall Tour,2009 Fall,The Old Home Place,,0,John Paul Jones Arena,Charlottesville,VA,USA,>
 2009-12-05,2009,0,8,2,1,0,0,3,2009 Fall Tour,2009 Fall,Cavern,,1,John Paul Jones Arena,Charlottesville,VA,USA,>
 2009-12-05,2009,0,9,1,1,0,0,9,2009 Fall Tour,2009 Fall,Funky Bitch,,0,John Paul Jones Arena,Charlottesville,VA,USA,","
@@ -1138,7 +1138,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2009-12-31,2009,0,14,2,2,0,0,5,2009 NYE Run,2009 NYE,Rock and Roll,R&amp;R,0,American Airlines Arena,Miami,FL,USA,>
 2009-12-31,2009,0,15,2,2,0,0,4,2009 NYE Run,2009 NYE,Piper,,1,American Airlines Arena,Miami,FL,USA,>
 2009-12-31,2009,0,16,2,2,0,0,12,2009 NYE Run,2009 NYE,Simple,,1,American Airlines Arena,Miami,FL,USA,>
-2009-12-31,2009,0,17,1,2,0,0,13,2009 NYE Run,2009 NYE,Theme From the Bottom,Theme,1,American Airlines Arena,Miami,FL,USA,","
+2009-12-31,2009,0,17,1,2,0,0,13,2009 NYE Run,2009 NYE,Theme from the Bottom,Theme,1,American Airlines Arena,Miami,FL,USA,","
 2009-12-31,2009,0,18,1,2,0,0,5,2009 NYE Run,2009 NYE,Shine a Light,,0,American Airlines Arena,Miami,FL,USA,","
 2009-12-31,2009,0,19,3,2,0,0,9,2009 NYE Run,2009 NYE,Ghost,,1,American Airlines Arena,Miami,FL,USA,->
 2009-12-31,2009,0,20,1,2,0,0,221,2009 NYE Run,2009 NYE,NO2,,1,American Airlines Arena,Miami,FL,USA,","

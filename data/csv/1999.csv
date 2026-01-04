@@ -95,7 +95,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1999-07-07,1999,0,2,1,1,0,0,1,1999 Summer U.S. Tour,1999 Summer,What's the Use?,WTU?,1,Blockbuster Pavilion,Charlotte,NC,USA,","
 1999-07-07,1999,0,3,1,1,0,0,3,1999 Summer U.S. Tour,1999 Summer,Billy Breathes,,1,Blockbuster Pavilion,Charlotte,NC,USA,","
 1999-07-07,1999,0,4,2,1,0,0,56,1999 Summer U.S. Tour,1999 Summer,My Mind's Got a Mind of its Own,MMGAMOIO,0,Blockbuster Pavilion,Charlotte,NC,USA,>
-1999-07-07,1999,0,5,1,1,0,0,28,1999 Summer U.S. Tour,1999 Summer,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Blockbuster Pavilion,Charlotte,NC,USA,","
+1999-07-07,1999,0,5,1,1,0,0,28,1999 Summer U.S. Tour,1999 Summer,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,Blockbuster Pavilion,Charlotte,NC,USA,","
 1999-07-07,1999,0,6,2,1,0,0,8,1999 Summer U.S. Tour,1999 Summer,Axilla,,1,Blockbuster Pavilion,Charlotte,NC,USA,>
 1999-07-07,1999,0,7,1,1,0,0,15,1999 Summer U.S. Tour,1999 Summer,Rift,,1,Blockbuster Pavilion,Charlotte,NC,USA,","
 1999-07-07,1999,0,8,2,1,0,0,3,1999 Summer U.S. Tour,1999 Summer,Wolfman's Brother,Wolfman's,1,Blockbuster Pavilion,Charlotte,NC,USA,>
@@ -196,7 +196,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1999-07-15,1999,0,4,2,1,0,0,10,1999 Summer U.S. Tour,1999 Summer,Horn,,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
 1999-07-15,1999,0,5,2,1,0,0,9,1999 Summer U.S. Tour,1999 Summer,Poor Heart,,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
 1999-07-15,1999,0,6,2,1,0,0,6,1999 Summer U.S. Tour,1999 Summer,Axilla,,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
-1999-07-15,1999,0,7,1,1,0,0,15,1999 Summer U.S. Tour,1999 Summer,Theme From the Bottom,Theme,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
+1999-07-15,1999,0,7,1,1,0,0,15,1999 Summer U.S. Tour,1999 Summer,Theme from the Bottom,Theme,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
 1999-07-15,1999,0,8,1,1,0,0,7,1999 Summer U.S. Tour,1999 Summer,I Didn't Know,IDK,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
 1999-07-15,1999,0,9,1,1,0,0,26,1999 Summer U.S. Tour,1999 Summer,The Sloth,Sloth,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
 1999-07-15,1999,0,10,4,1,0,0,6,1999 Summer U.S. Tour,1999 Summer,You Enjoy Myself,YEM,1,PNC Bank Arts Center,Holmdel,NJ,USA,
@@ -241,7 +241,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1999-07-17,1999,0,13,2,2,0,0,2,1999 Summer U.S. Tour,1999 Summer,Jam,,0,Oswego County Airport,Volney,NY,USA,>
 1999-07-17,1999,0,14,1,2,0,0,4,1999 Summer U.S. Tour,1999 Summer,Down with Disease,DwD,1,Oswego County Airport,Volney,NY,USA,","
 1999-07-17,1999,0,15,3,2,0,0,3,1999 Summer U.S. Tour,1999 Summer,Wolfman's Brother,Wolfman's,1,Oswego County Airport,Volney,NY,USA,->
-1999-07-17,1999,0,16,2,2,0,0,8,1999 Summer U.S. Tour,1999 Summer,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Oswego County Airport,Volney,NY,USA,>
+1999-07-17,1999,0,16,2,2,0,0,8,1999 Summer U.S. Tour,1999 Summer,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,Oswego County Airport,Volney,NY,USA,>
 1999-07-17,1999,0,17,1,2,0,0,18,1999 Summer U.S. Tour,1999 Summer,Timber (Jerry the Mule),Timber Ho,0,Oswego County Airport,Volney,NY,USA,","
 1999-07-17,1999,0,18,5,2,0,0,2,1999 Summer U.S. Tour,1999 Summer,You Enjoy Myself,YEM,1,Oswego County Airport,Volney,NY,USA,
 1999-07-17,1999,0,19,1,e,0,0,12,1999 Summer U.S. Tour,1999 Summer,The Squirming Coil,Coil,1,Oswego County Airport,Volney,NY,USA,","
@@ -377,7 +377,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1999-07-26,1999,0,11,4,1,0,0,14,1999 Summer U.S. Tour,1999 Summer,Stash,,1,Deer Creek Music Center,Noblesville,IN,USA,
 1999-07-26,1999,0,12,2,2,0,0,7,1999 Summer U.S. Tour,1999 Summer,Wolfman's Brother,Wolfman's,1,Deer Creek Music Center,Noblesville,IN,USA,>
 1999-07-26,1999,0,13,1,2,0,0,6,1999 Summer U.S. Tour,1999 Summer,Piper,,1,Deer Creek Music Center,Noblesville,IN,USA,","
-1999-07-26,1999,0,14,2,2,0,0,9,1999 Summer U.S. Tour,1999 Summer,Theme From the Bottom,Theme,1,Deer Creek Music Center,Noblesville,IN,USA,>
+1999-07-26,1999,0,14,2,2,0,0,9,1999 Summer U.S. Tour,1999 Summer,Theme from the Bottom,Theme,1,Deer Creek Music Center,Noblesville,IN,USA,>
 1999-07-26,1999,0,15,2,2,0,0,7,1999 Summer U.S. Tour,1999 Summer,Down with Disease,DwD,1,Deer Creek Music Center,Noblesville,IN,USA,>
 1999-07-26,1999,0,16,3,2,0,0,2,1999 Summer U.S. Tour,1999 Summer,Jam,,0,Deer Creek Music Center,Noblesville,IN,USA,->
 1999-07-26,1999,0,17,5,2,0,0,9,1999 Summer U.S. Tour,1999 Summer,Split Open and Melt,SOAMelt,1,Deer Creek Music Center,Noblesville,IN,USA,
@@ -547,7 +547,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1999-09-12,1999,0,13,1,2,0,0,5,1999 Fall Tour,1999 Fall,Roggae,,1,Portland Meadows,Portland,OR,USA,","
 1999-09-12,1999,0,14,2,2,0,0,5,1999 Fall Tour,1999 Fall,Also Sprach Zarathustra,2001,0,Portland Meadows,Portland,OR,USA,>
 1999-09-12,1999,0,15,5,2,0,0,3,1999 Fall Tour,1999 Fall,You Enjoy Myself,YEM,1,Portland Meadows,Portland,OR,USA,
-1999-09-12,1999,0,16,6,e,0,0,8,1999 Fall Tour,1999 Fall,Theme From the Bottom,Theme,1,Portland Meadows,Portland,OR,USA,
+1999-09-12,1999,0,16,6,e,0,0,8,1999 Fall Tour,1999 Fall,Theme from the Bottom,Theme,1,Portland Meadows,Portland,OR,USA,
 1999-09-14,1999,0,1,1,1,2,0,4,1999 Fall Tour,1999 Fall,Chalk Dust Torture,CDT,1,Boise State University Pavilion,Boise,ID,USA,","
 1999-09-14,1999,0,2,1,1,2,0,14,1999 Fall Tour,1999 Fall,The Sloth,Sloth,1,Boise State University Pavilion,Boise,ID,USA,","
 1999-09-14,1999,0,3,2,1,2,0,19,1999 Fall Tour,1999 Fall,The Curtain,Curtain,1,Boise State University Pavilion,Boise,ID,USA,>
@@ -648,7 +648,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1999-09-21,1999,0,5,1,1,0,0,9,1999 Fall Tour,1999 Fall,I Didn't Know,IDK,1,Pima County Fairgrounds,Tucson,AZ,USA,","
 1999-09-21,1999,0,6,1,1,0,0,3,1999 Fall Tour,1999 Fall,Back on the Train,BOTT,0,Pima County Fairgrounds,Tucson,AZ,USA,","
 1999-09-21,1999,0,7,1,1,0,0,6,1999 Fall Tour,1999 Fall,Birds of a Feather,BOAF,1,Pima County Fairgrounds,Tucson,AZ,USA,","
-1999-09-21,1999,0,8,1,1,0,0,6,1999 Fall Tour,1999 Fall,Theme From the Bottom,Theme,1,Pima County Fairgrounds,Tucson,AZ,USA,","
+1999-09-21,1999,0,8,1,1,0,0,6,1999 Fall Tour,1999 Fall,Theme from the Bottom,Theme,1,Pima County Fairgrounds,Tucson,AZ,USA,","
 1999-09-21,1999,0,9,4,1,0,0,9,1999 Fall Tour,1999 Fall,Golgi Apparatus,Golgi,1,Pima County Fairgrounds,Tucson,AZ,USA,
 1999-09-21,1999,0,10,2,2,0,0,4,1999 Fall Tour,1999 Fall,Carini,,1,Pima County Fairgrounds,Tucson,AZ,USA,>
 1999-09-21,1999,0,11,1,2,0,0,9,1999 Fall Tour,1999 Fall,Bug,,0,Pima County Fairgrounds,Tucson,AZ,USA,","
@@ -734,7 +734,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1999-09-26,1999,0,18,2,e,0,0,6,1999 Fall Tour,1999 Fall,Meatstick,,1,"Kiefer UNO Lakefront Arena, University of New Orleans",New Orleans,LA,USA,>
 1999-09-26,1999,0,19,6,e,0,0,6,1999 Fall Tour,1999 Fall,Rocky Top,,0,"Kiefer UNO Lakefront Arena, University of New Orleans",New Orleans,LA,USA,
 1999-09-28,1999,0,1,1,1,0,0,3,1999 Fall Tour,1999 Fall,Wolfman's Brother,Wolfman's,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
-1999-09-28,1999,0,2,1,1,0,0,26,1999 Fall Tour,1999 Fall,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+1999-09-28,1999,0,2,1,1,0,0,26,1999 Fall Tour,1999 Fall,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,Oak Mountain Amphitheatre,Pelham,AL,USA,","
 1999-09-28,1999,0,3,1,1,0,0,2,1999 Fall Tour,1999 Fall,Tube,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
 1999-09-28,1999,0,4,2,1,0,0,13,1999 Fall Tour,1999 Fall,Ginseng Sullivan,Ginseng,0,Oak Mountain Amphitheatre,Pelham,AL,USA,>
 1999-09-28,1999,0,5,1,1,0,0,3,1999 Fall Tour,1999 Fall,Roggae,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
@@ -758,7 +758,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1999-09-29,1999,0,6,1,1,2,0,11,1999 Fall Tour,1999 Fall,Nellie Kane,,0,Pyramid Arena,Memphis,TN,USA,","
 1999-09-29,1999,0,7,3,1,2,0,7,1999 Fall Tour,1999 Fall,Stash,,1,Pyramid Arena,Memphis,TN,USA,->
 1999-09-29,1999,0,8,1,1,1,0,109,1999 Fall Tour,1999 Fall,I Can't Turn You Loose,,0,Pyramid Arena,Memphis,TN,USA,","
-1999-09-29,1999,0,9,2,1,2,0,6,1999 Fall Tour,1999 Fall,Theme From the Bottom,Theme,1,Pyramid Arena,Memphis,TN,USA,>
+1999-09-29,1999,0,9,2,1,2,0,6,1999 Fall Tour,1999 Fall,Theme from the Bottom,Theme,1,Pyramid Arena,Memphis,TN,USA,>
 1999-09-29,1999,0,10,4,1,2,0,1,1999 Fall Tour,1999 Fall,Tweezer Reprise,Tweeprise,1,Pyramid Arena,Memphis,TN,USA,
 1999-09-29,1999,0,11,2,2,2,0,5,1999 Fall Tour,1999 Fall,Gotta Jibboo,Jibboo,0,Pyramid Arena,Memphis,TN,USA,>
 1999-09-29,1999,0,12,2,2,2,0,3,1999 Fall Tour,1999 Fall,Also Sprach Zarathustra,2001,0,Pyramid Arena,Memphis,TN,USA,>
@@ -1047,7 +1047,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1999-12-11,1999,0,7,1,1,0,0,61,1999 Winter Tour,1999 Winter,Scent of a Mule,SOAMule,1,First Union Spectrum,Philadelphia,PA,USA,","
 1999-12-11,1999,0,8,4,1,0,0,15,1999 Winter Tour,1999 Winter,Cavern,,1,First Union Spectrum,Philadelphia,PA,USA,
 1999-12-11,1999,0,9,1,2,0,0,7,1999 Winter Tour,1999 Winter,Boogie On Reggae Woman,Boogie On,0,First Union Spectrum,Philadelphia,PA,USA,","
-1999-12-11,1999,0,10,3,2,0,0,17,1999 Winter Tour,1999 Winter,Sneakin' Sally Through the Alley,Sneakin' Sally,0,First Union Spectrum,Philadelphia,PA,USA,->
+1999-12-11,1999,0,10,3,2,0,0,17,1999 Winter Tour,1999 Winter,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,First Union Spectrum,Philadelphia,PA,USA,->
 1999-12-11,1999,0,11,3,2,0,0,9,1999 Winter Tour,1999 Winter,Ghost,,1,First Union Spectrum,Philadelphia,PA,USA,->
 1999-12-11,1999,0,12,2,2,0,0,7,1999 Winter Tour,1999 Winter,Also Sprach Zarathustra,2001,0,First Union Spectrum,Philadelphia,PA,USA,>
 1999-12-11,1999,0,13,5,2,0,0,2,1999 Winter Tour,1999 Winter,Down with Disease,DwD,1,First Union Spectrum,Philadelphia,PA,USA,
@@ -1071,7 +1071,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1999-12-13,1999,0,3,1,1,0,0,17,1999 Winter Tour,1999 Winter,Gumbo,,1,Providence Civic Center,Providence,RI,USA,","
 1999-12-13,1999,0,4,2,1,0,0,7,1999 Winter Tour,1999 Winter,The Moma Dance,Moma,1,Providence Civic Center,Providence,RI,USA,>
 1999-12-13,1999,0,5,2,1,0,0,4,1999 Winter Tour,1999 Winter,Piper,,1,Providence Civic Center,Providence,RI,USA,>
-1999-12-13,1999,0,6,4,1,0,0,18,1999 Winter Tour,1999 Winter,Theme From the Bottom,Theme,1,Providence Civic Center,Providence,RI,USA,
+1999-12-13,1999,0,6,4,1,0,0,18,1999 Winter Tour,1999 Winter,Theme from the Bottom,Theme,1,Providence Civic Center,Providence,RI,USA,
 1999-12-13,1999,0,7,2,2,0,0,3,1999 Winter Tour,1999 Winter,Gotta Jibboo,Jibboo,0,Providence Civic Center,Providence,RI,USA,>
 1999-12-13,1999,0,8,1,2,0,0,5,1999 Winter Tour,1999 Winter,NICU,,1,Providence Civic Center,Providence,RI,USA,","
 1999-12-13,1999,0,9,1,2,0,0,4,1999 Winter Tour,1999 Winter,Sand,,0,Providence Civic Center,Providence,RI,USA,","
@@ -1221,7 +1221,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1999-12-31,1999,0,25,1,2,0,0,159,Not Part of a Tour,No Tour,Crosseyed and Painless,C&amp;P,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
 1999-12-31,1999,0,26,1,2,0,0,1,Not Part of a Tour,No Tour,The Inlaw Josie Wales,,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
 1999-12-31,1999,0,27,3,2,0,0,2,Not Part of a Tour,No Tour,Sand,,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,->
-1999-12-31,1999,0,28,1,2,0,0,1310,Not Part of a Tour,No Tour,Quadrophonic Toppling,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
+1999-12-31,1999,0,28,1,2,0,0,1306,Not Part of a Tour,No Tour,Quadrophonic Toppling,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
 1999-12-31,1999,0,29,1,2,0,0,6,Not Part of a Tour,No Tour,Slave to the Traffic Light,Slave,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
 1999-12-31,1999,0,30,1,2,0,0,67,Not Part of a Tour,No Tour,Albuquerque,,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
 1999-12-31,1999,0,31,1,2,0,0,5,Not Part of a Tour,No Tour,Reba,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","

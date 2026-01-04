@@ -160,7 +160,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2022-05-27,2022,0,11,4,1,0,0,2,2022 Spring Tour,2022 Spring,Bathtub Gin,Gin,1,The Wharf Amphitheater,Orange Beach,AL,USA,
 2022-05-27,2022,0,12,1,2,0,0,10,2022 Spring Tour,2022 Spring,Llama,,1,The Wharf Amphitheater,Orange Beach,AL,USA,","
 2022-05-27,2022,0,13,3,2,0,0,8,2022 Spring Tour,2022 Spring,Soul Planet,,0,The Wharf Amphitheater,Orange Beach,AL,USA,->
-2022-05-27,2022,0,14,3,2,0,0,605,2022 Spring Tour,2022 Spring,Quadrophonic Toppling,,1,The Wharf Amphitheater,Orange Beach,AL,USA,->
+2022-05-27,2022,0,14,3,2,0,0,606,2022 Spring Tour,2022 Spring,Quadrophonic Toppling,,1,The Wharf Amphitheater,Orange Beach,AL,USA,->
 2022-05-27,2022,0,15,2,2,0,0,0,2022 Spring Tour,2022 Spring,Soul Planet,,0,The Wharf Amphitheater,Orange Beach,AL,USA,>
 2022-05-27,2022,0,16,3,2,0,0,3,2022 Spring Tour,2022 Spring,Ghost,,1,The Wharf Amphitheater,Orange Beach,AL,USA,->
 2022-05-27,2022,0,17,3,2,0,0,6,2022 Spring Tour,2022 Spring,Scents and Subtle Sounds,,1,The Wharf Amphitheater,Orange Beach,AL,USA,->
@@ -247,7 +247,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2022-06-01,2022,0,22,1,e,2,0,26,2022 Spring Tour,2022 Spring,When the Circus Comes,Circus,0,Credit One Stadium,Charleston,SC,USA,","
 2022-06-01,2022,0,23,2,e,2,0,108,2022 Spring Tour,2022 Spring,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Credit One Stadium,Charleston,SC,USA,>
 2022-06-01,2022,0,24,6,e,2,0,7,2022 Spring Tour,2022 Spring,Suzy Greenberg,Suzy,1,Credit One Stadium,Charleston,SC,USA,
-2022-06-03,2022,0,1,1,1,2,0,32,2022 Spring Tour,2022 Spring,Theme From the Bottom,Theme,1,Ruoff Music Center,Noblesville,IN,USA,","
+2022-06-03,2022,0,1,1,1,2,0,32,2022 Spring Tour,2022 Spring,Theme from the Bottom,Theme,1,Ruoff Music Center,Noblesville,IN,USA,","
 2022-06-03,2022,0,2,1,1,2,0,20,2022 Spring Tour,2022 Spring,Boogie On Reggae Woman,Boogie On,0,Ruoff Music Center,Noblesville,IN,USA,","
 2022-06-03,2022,0,3,1,1,2,0,7,2022 Spring Tour,2022 Spring,Everything's Right,,0,Ruoff Music Center,Noblesville,IN,USA,","
 2022-06-03,2022,0,4,2,1,2,0,8,2022 Spring Tour,2022 Spring,Esther,,1,Ruoff Music Center,Noblesville,IN,USA,>
@@ -385,7 +385,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2022-07-20,2022,0,2,1,1,2,0,6,2022 Summer Tour,2022 Summer,Runaway Jim,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
 2022-07-20,2022,0,3,1,1,2,0,39,2022 Summer Tour,2022 Summer,Tela,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
 2022-07-20,2022,0,4,2,1,2,0,10,2022 Summer Tour,2022 Summer,Kill Devil Falls,KDF,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
-2022-07-20,2022,0,5,2,1,2,0,7,2022 Summer Tour,2022 Summer,Theme From the Bottom,Theme,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
+2022-07-20,2022,0,5,2,1,2,0,7,2022 Summer Tour,2022 Summer,Theme from the Bottom,Theme,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
 2022-07-20,2022,0,6,1,1,2,0,7,2022 Summer Tour,2022 Summer,Birds of a Feather,BOAF,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
 2022-07-20,2022,0,7,1,1,2,0,45,2022 Summer Tour,2022 Summer,I Didn't Know,IDK,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
 2022-07-20,2022,0,8,1,1,2,0,10,2022 Summer Tour,2022 Summer,Funky Bitch,,0,TD Pavilion at the Mann,Philadelphia,PA,USA,","
@@ -514,7 +514,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2022-07-29,2022,0,17,5,2,2,0,46,2022 Summer Tour,2022 Summer,Shine a Light,,0,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,
 2022-07-29,2022,0,18,1,e,2,0,22,2022 Summer Tour,2022 Summer,Strange Design,,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,","
 2022-07-29,2022,0,19,2,e,2,0,47,2022 Summer Tour,2022 Summer,Heavy Things,,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,>
-2022-07-29,2022,0,20,2,e,2,0,32,2022 Summer Tour,2022 Summer,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,>
+2022-07-29,2022,0,20,2,e,2,0,32,2022 Summer Tour,2022 Summer,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,>
 2022-07-29,2022,0,21,6,e,2,0,5,2022 Summer Tour,2022 Summer,Wilson,,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,
 2022-07-30,2022,0,1,1,1,2,0,4,2022 Summer Tour,2022 Summer,Sand,,0,Merriweather Post Pavilion,Columbia,MD,USA,","
 2022-07-30,2022,0,2,1,1,2,0,18,2022 Summer Tour,2022 Summer,If I Could,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
@@ -593,7 +593,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2022-08-05,2022,0,2,2,1,2,0,5,2022 Summer Tour,2022 Summer,Wilson,,1,Atlantic City Beach,Atlantic City,NJ,USA,>
 2022-08-05,2022,0,3,2,1,2,0,4,2022 Summer Tour,2022 Summer,Sand,,0,Atlantic City Beach,Atlantic City,NJ,USA,>
 2022-08-05,2022,0,4,1,1,2,0,8,2022 Summer Tour,2022 Summer,Plasma,,0,Atlantic City Beach,Atlantic City,NJ,USA,","
-2022-08-05,2022,0,5,2,1,2,0,11,2022 Summer Tour,2022 Summer,Theme From the Bottom,Theme,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2022-08-05,2022,0,5,2,1,2,0,11,2022 Summer Tour,2022 Summer,Theme from the Bottom,Theme,1,Atlantic City Beach,Atlantic City,NJ,USA,>
 2022-08-05,2022,0,6,1,1,2,0,3,2022 Summer Tour,2022 Summer,Back on the Train,BOTT,0,Atlantic City Beach,Atlantic City,NJ,USA,","
 2022-08-05,2022,0,7,3,1,2,0,4,2022 Summer Tour,2022 Summer,Sigma Oasis,,0,Atlantic City Beach,Atlantic City,NJ,USA,->
 2022-08-05,2022,0,8,2,1,2,0,12,2022 Summer Tour,2022 Summer,Cities,,0,Atlantic City Beach,Atlantic City,NJ,USA,>
@@ -646,7 +646,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2022-08-10,2022,0,2,1,1,2,0,5,2022 Summer Tour,2022 Summer,Blaze On,,1,Budweiser Stage,"Toronto, Ontario",,Canada,","
 2022-08-10,2022,0,3,1,1,2,0,8,2022 Summer Tour,2022 Summer,Steam,,1,Budweiser Stage,"Toronto, Ontario",,Canada,","
 2022-08-10,2022,0,4,1,1,2,0,12,2022 Summer Tour,2022 Summer,My Sweet One,MSO,1,Budweiser Stage,"Toronto, Ontario",,Canada,","
-2022-08-10,2022,0,5,2,1,2,0,3,2022 Summer Tour,2022 Summer,Theme From the Bottom,Theme,1,Budweiser Stage,"Toronto, Ontario",,Canada,>
+2022-08-10,2022,0,5,2,1,2,0,3,2022 Summer Tour,2022 Summer,Theme from the Bottom,Theme,1,Budweiser Stage,"Toronto, Ontario",,Canada,>
 2022-08-10,2022,0,6,1,1,2,0,19,2022 Summer Tour,2022 Summer,Wombat,,1,Budweiser Stage,"Toronto, Ontario",,Canada,","
 2022-08-10,2022,0,7,1,1,2,0,4,2022 Summer Tour,2022 Summer,Stash,,1,Budweiser Stage,"Toronto, Ontario",,Canada,","
 2022-08-10,2022,0,8,4,1,2,0,3,2022 Summer Tour,2022 Summer,Sand,,0,Budweiser Stage,"Toronto, Ontario",,Canada,
@@ -657,7 +657,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2022-08-10,2022,0,13,2,2,2,0,8,2022 Summer Tour,2022 Summer,Light,,0,Budweiser Stage,"Toronto, Ontario",,Canada,>
 2022-08-10,2022,0,14,1,2,2,0,4,2022 Summer Tour,2022 Summer,Bouncing Around the Room,Bouncin',1,Budweiser Stage,"Toronto, Ontario",,Canada,","
 2022-08-10,2022,0,15,2,2,2,0,5,2022 Summer Tour,2022 Summer,Also Sprach Zarathustra,2001,0,Budweiser Stage,"Toronto, Ontario",,Canada,>
-2022-08-10,2022,0,16,2,2,2,0,8,2022 Summer Tour,2022 Summer,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Budweiser Stage,"Toronto, Ontario",,Canada,>
+2022-08-10,2022,0,16,2,2,2,0,8,2022 Summer Tour,2022 Summer,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,Budweiser Stage,"Toronto, Ontario",,Canada,>
 2022-08-10,2022,0,17,5,2,2,0,3,2022 Summer Tour,2022 Summer,Free,,1,Budweiser Stage,"Toronto, Ontario",,Canada,
 2022-08-10,2022,0,18,1,e,2,0,13,2022 Summer Tour,2022 Summer,Lawn Boy,,1,Budweiser Stage,"Toronto, Ontario",,Canada,","
 2022-08-10,2022,0,19,6,e,2,0,6,2022 Summer Tour,2022 Summer,Say It To Me S.A.N.T.O.S.,,1,Budweiser Stage,"Toronto, Ontario",,Canada,
@@ -723,7 +723,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2022-09-01,2022,0,5,1,1,2,0,12,2022 Summer Tour,2022 Summer,Heavy Things,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2022-09-01,2022,0,6,2,1,2,0,7,2022 Summer Tour,2022 Summer,Axilla (Part II),,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2022-09-01,2022,0,7,2,1,2,0,2,2022 Summer Tour,2022 Summer,Back on the Train,BOTT,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
-2022-09-01,2022,0,8,1,1,2,0,4,2022 Summer Tour,2022 Summer,Theme From the Bottom,Theme,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2022-09-01,2022,0,8,1,1,2,0,4,2022 Summer Tour,2022 Summer,Theme from the Bottom,Theme,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2022-09-01,2022,0,9,4,1,2,0,2,2022 Summer Tour,2022 Summer,Blaze On,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2022-09-01,2022,0,10,2,2,2,0,1,2022 Summer Tour,2022 Summer,Possum,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2022-09-01,2022,0,11,2,2,2,0,3,2022 Summer Tour,2022 Summer,Twist,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
@@ -822,7 +822,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2022-12-30,2022,0,1,2,1,2,0,6,2022 NYE Run,2022 NYE,Down with Disease,DwD,1,Madison Square Garden,New York,NY,USA,>
 2022-12-30,2022,0,2,1,1,2,0,4,2022 NYE Run,2022 NYE,The Moma Dance,Moma,1,Madison Square Garden,New York,NY,USA,","
 2022-12-30,2022,0,3,1,1,2,0,5,2022 NYE Run,2022 NYE,Pebbles and Marbles,,0,Madison Square Garden,New York,NY,USA,","
-2022-12-30,2022,0,4,2,1,2,0,6,2022 NYE Run,2022 NYE,Theme From the Bottom,Theme,1,Madison Square Garden,New York,NY,USA,>
+2022-12-30,2022,0,4,2,1,2,0,6,2022 NYE Run,2022 NYE,Theme from the Bottom,Theme,1,Madison Square Garden,New York,NY,USA,>
 2022-12-30,2022,0,5,1,1,2,0,5,2022 NYE Run,2022 NYE,Reba,,1,Madison Square Garden,New York,NY,USA,","
 2022-12-30,2022,0,6,2,1,2,0,6,2022 NYE Run,2022 NYE,The Howling,,1,Madison Square Garden,New York,NY,USA,>
 2022-12-30,2022,0,7,2,1,2,0,16,2022 NYE Run,2022 NYE,Foam,,1,Madison Square Garden,New York,NY,USA,>

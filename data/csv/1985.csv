@@ -13,7 +13,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1985-03-04,1985,0,3,1,1,0,0,11,1985 Tour,1985,Fire Up the Ganja,,0,Hunt's,Burlington,VT,USA,","
 1985-03-04,1985,0,4,1,1,0,0,6,1985 Tour,1985,Skippy the Wondermouse,,1,Hunt's,Burlington,VT,USA,","
 1985-03-04,1985,0,5,6,1,0,0,6,1985 Tour,1985,In the Midnight Hour,,0,Hunt's,Burlington,VT,USA,
-1985-03-08,1985,0,1,6,1,0,0,11,1985 Tour,1985,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Doolin's,Burlington,VT,USA,
+1985-03-08,1985,0,1,6,1,0,0,11,1985 Tour,1985,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,Doolin's,Burlington,VT,USA,
 1985-03-16,1985,0,1,1,1,0,0,13,1985 Tour,1985,Alumni Blues,Alumni,1,Doolin's,Burlington,VT,USA,","
 1985-03-16,1985,0,2,1,1,0,0,2,1985 Tour,1985,Skippy the Wondermouse,,1,Doolin's,Burlington,VT,USA,","
 1985-03-16,1985,0,3,1,1,0,0,8,1985 Tour,1985,Bertha,,0,Doolin's,Burlington,VT,USA,","
@@ -76,7 +76,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1985-09-27,1985,0,9,4,1,0,0,14,1985 Tour,1985,In the Midnight Hour,,0,"Slade Hall, University of Vermont",Burlington,VT,USA,
 1985-09-27,1985,0,10,2,2,0,0,25,1985 Tour,1985,Melt the Guns,,0,"Slade Hall, University of Vermont",Burlington,VT,USA,>
 1985-09-27,1985,0,11,1,2,0,0,25,1985 Tour,1985,T.V. Theme,,1,"Slade Hall, University of Vermont",Burlington,VT,USA,","
-1985-09-27,1985,0,12,1,2,0,0,13,1985 Tour,1985,Sneakin' Sally Through the Alley,Sneakin' Sally,0,"Slade Hall, University of Vermont",Burlington,VT,USA,","
+1985-09-27,1985,0,12,1,2,0,0,13,1985 Tour,1985,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,"Slade Hall, University of Vermont",Burlington,VT,USA,","
 1985-09-27,1985,0,13,4,2,0,0,25,1985 Tour,1985,Prep School Hippie,,1,"Slade Hall, University of Vermont",Burlington,VT,USA,
 1985-09-27,1985,0,14,2,3,0,0,3,1985 Tour,1985,Mike's Song,Mike's,1,"Slade Hall, University of Vermont",Burlington,VT,USA,>
 1985-09-27,1985,0,15,1,3,0,0,3,1985 Tour,1985,Dave's Energy Guide,DEG,1,"Slade Hall, University of Vermont",Burlington,VT,USA,","
@@ -102,7 +102,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1985-10-30,1985,0,2,2,1,0,0,27,1985 Tour,1985,Dog Log,,1,Hunt's,Burlington,VT,USA,>
 1985-10-30,1985,0,3,1,1,0,0,3,1985 Tour,1985,Possum,,1,Hunt's,Burlington,VT,USA,","
 1985-10-30,1985,0,4,1,1,0,0,3,1985 Tour,1985,Slave to the Traffic Light,Slave,1,Hunt's,Burlington,VT,USA,","
-1985-10-30,1985,0,5,1,1,0,0,3,1985 Tour,1985,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Hunt's,Burlington,VT,USA,","
+1985-10-30,1985,0,5,1,1,0,0,3,1985 Tour,1985,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,Hunt's,Burlington,VT,USA,","
 1985-10-30,1985,0,6,1,1,0,0,13,1985 Tour,1985,I Wish,,0,Hunt's,Burlington,VT,USA,","
 1985-10-30,1985,0,7,1,1,0,0,28,1985 Tour,1985,Revival,,0,Hunt's,Burlington,VT,USA,","
 1985-10-30,1985,0,8,2,1,0,0,2,1985 Tour,1985,Alumni Blues,Alumni,1,Hunt's,Burlington,VT,USA,>

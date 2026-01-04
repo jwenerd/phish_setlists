@@ -252,7 +252,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-03-14,1989,0,13,1,2,0,0,0,1989 Tour,1989,Wilson,,1,Nectar's,Burlington,VT,USA,","
 1989-03-14,1989,0,14,4,2,0,0,0,1989 Tour,1989,Fluffhead,,1,Nectar's,Burlington,VT,USA,
 1989-03-14,1989,0,15,1,3,0,0,1,1989 Tour,1989,Fire,,0,Nectar's,Burlington,VT,USA,","
-1989-03-14,1989,0,16,1,3,0,0,60,1989 Tour,1989,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Nectar's,Burlington,VT,USA,","
+1989-03-14,1989,0,16,1,3,0,0,60,1989 Tour,1989,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,Nectar's,Burlington,VT,USA,","
 1989-03-14,1989,0,17,1,3,0,0,2,1989 Tour,1989,Alumni Blues,Alumni,1,Nectar's,Burlington,VT,USA,","
 1989-03-14,1989,0,18,1,3,0,0,1,1989 Tour,1989,The Lizards,Lizards,1,Nectar's,Burlington,VT,USA,","
 1989-03-14,1989,0,19,1,3,0,0,10,1989 Tour,1989,La Grange,,0,Nectar's,Burlington,VT,USA,","
@@ -601,7 +601,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-05-28,1989,0,27,3,3,0,0,20,1989 Tour,1989,Jam,,0,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,->
 1989-05-28,1989,0,28,1,3,1,0,8,1989 Tour,1989,La Grange,,0,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,","
 1989-05-28,1989,0,29,1,3,0,0,2,1989 Tour,1989,The Sloth,Sloth,1,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,","
-1989-05-28,1989,0,30,2,3,0,0,35,1989 Tour,1989,Sneakin' Sally Through the Alley,Sneakin' Sally,0,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,>
+1989-05-28,1989,0,30,2,3,0,0,35,1989 Tour,1989,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,>
 1989-05-28,1989,0,31,1,3,0,0,3,1989 Tour,1989,Ya Mar,,0,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,","
 1989-05-28,1989,0,32,6,3,0,0,41,1989 Tour,1989,Jesus Just Left Chicago,JJLC,0,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,
 1989-06-10,1989,0,1,1,1,0,0,4,1989 Tour,1989,Run Like an Antelope,Antelope,1,The Living Room,Providence,RI,USA,","

@@ -6,7 +6,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2017-01-13,2017,0,1,1,1,0,0,4,2017 Mexico,2017 Mexico,Free,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
 2017-01-13,2017,0,2,1,1,0,0,24,2017 Mexico,2017 Mexico,Yarmouth Road,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
 2017-01-13,2017,0,3,1,1,0,0,1,2017 Mexico,2017 Mexico,Sand,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
-2017-01-13,2017,0,4,2,1,0,0,3,2017 Mexico,2017 Mexico,Theme From the Bottom,Theme,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
+2017-01-13,2017,0,4,2,1,0,0,3,2017 Mexico,2017 Mexico,Theme from the Bottom,Theme,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
 2017-01-13,2017,0,5,1,1,0,0,4,2017 Mexico,2017 Mexico,Funky Bitch,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
 2017-01-13,2017,0,6,2,1,0,0,15,2017 Mexico,2017 Mexico,Undermind,,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
 2017-01-13,2017,0,7,2,1,0,0,10,2017 Mexico,2017 Mexico,NICU,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
@@ -54,7 +54,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2017-01-15,2017,0,10,4,1,0,0,28,2017 Mexico,2017 Mexico,Fluffhead,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,
 2017-01-15,2017,0,11,3,2,0,0,5,2017 Mexico,2017 Mexico,Down with Disease,DwD,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,->
 2017-01-15,2017,0,12,2,2,0,0,3,2017 Mexico,2017 Mexico,No Men In No Man's Land,NMINML,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
-2017-01-15,2017,0,13,3,2,0,0,13,2017 Mexico,2017 Mexico,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,->
+2017-01-15,2017,0,13,3,2,0,0,13,2017 Mexico,2017 Mexico,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,->
 2017-01-15,2017,0,14,2,2,0,0,6,2017 Mexico,2017 Mexico,Possum,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
 2017-01-15,2017,0,15,2,2,0,0,3,2017 Mexico,2017 Mexico,Carini,,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,>
 2017-01-15,2017,0,16,1,2,0,0,12,2017 Mexico,2017 Mexico,David Bowie,Bowie,1,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,","
@@ -68,7 +68,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2017-07-14,2017,0,5,2,1,0,0,1759,2017 Summer Tour,2017 Summer,Everything's Right,,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2017-07-14,2017,0,6,2,1,0,0,11,2017 Summer Tour,2017 Summer,Limb By Limb,LxL,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2017-07-14,2017,0,7,2,1,0,0,18,2017 Summer Tour,2017 Summer,Nellie Kane,,0,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2017-07-14,2017,0,8,2,1,0,0,3,2017 Summer Tour,2017 Summer,Theme From the Bottom,Theme,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
+2017-07-14,2017,0,8,2,1,0,0,3,2017 Summer Tour,2017 Summer,Theme from the Bottom,Theme,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2017-07-14,2017,0,9,4,1,0,0,2,2017 Summer Tour,2017 Summer,Blaze On,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,
 2017-07-14,2017,0,10,2,2,0,0,1,2017 Summer Tour,2017 Summer,No Men In No Man's Land,NMINML,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2017-07-14,2017,0,11,2,2,0,0,3,2017 Summer Tour,2017 Summer,Fuego,,1,Huntington Bank Pavilion at Northerly Island,Chicago,IL,USA,>
@@ -200,7 +200,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2017-07-23,2017,0,4,1,1,0,0,11,2017 Summer Tour,2017 Summer,Back on the Train,BOTT,0,Madison Square Garden,New York,NY,USA,","
 2017-07-23,2017,0,5,1,1,0,0,16,2017 Summer Tour,2017 Summer,How Many People Are You,,0,Madison Square Garden,New York,NY,USA,","
 2017-07-23,2017,0,6,1,1,0,0,67,2017 Summer Tour,2017 Summer,Glide,,1,Madison Square Garden,New York,NY,USA,","
-2017-07-23,2017,0,7,2,1,0,0,7,2017 Summer Tour,2017 Summer,Theme From the Bottom,Theme,1,Madison Square Garden,New York,NY,USA,>
+2017-07-23,2017,0,7,2,1,0,0,7,2017 Summer Tour,2017 Summer,Theme from the Bottom,Theme,1,Madison Square Garden,New York,NY,USA,>
 2017-07-23,2017,0,8,2,1,0,0,20,2017 Summer Tour,2017 Summer,It's Ice,,1,Madison Square Garden,New York,NY,USA,>
 2017-07-23,2017,0,9,4,1,0,0,6,2017 Summer Tour,2017 Summer,More,,1,Madison Square Garden,New York,NY,USA,
 2017-07-23,2017,0,10,2,2,0,0,9,2017 Summer Tour,2017 Summer,AC/DC Bag,Bag,1,Madison Square Garden,New York,NY,USA,>
@@ -337,7 +337,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2017-08-02,2017,0,14,2,2,0,0,1769,2017 Summer Tour,2017 Summer,O Holy Night,,0,Madison Square Garden,New York,NY,USA,>
 2017-08-02,2017,0,15,2,2,0,0,26,2017 Summer Tour,2017 Summer,Taste,,1,Madison Square Garden,New York,NY,USA,>
 2017-08-02,2017,0,16,2,2,0,0,13,2017 Summer Tour,2017 Summer,Wingsuit,,1,Madison Square Garden,New York,NY,USA,>
-2017-08-02,2017,0,17,2,2,0,0,15,2017 Summer Tour,2017 Summer,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Madison Square Garden,New York,NY,USA,>
+2017-08-02,2017,0,17,2,2,0,0,15,2017 Summer Tour,2017 Summer,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,Madison Square Garden,New York,NY,USA,>
 2017-08-02,2017,0,18,5,2,0,0,20,2017 Summer Tour,2017 Summer,Weekapaug Groove,Weekapaug,1,Madison Square Garden,New York,NY,USA,
 2017-08-02,2017,0,19,6,e,0,0,23,2017 Summer Tour,2017 Summer,A Day in the Life,ADITL,0,Madison Square Garden,New York,NY,USA,
 2017-08-04,2017,0,1,1,1,0,0,1770,2017 Summer Tour,2017 Summer,See That My Grave Is Kept Clean,,0,Madison Square Garden,New York,NY,USA,","
@@ -401,7 +401,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2017-09-01,2017,0,1,1,1,0,0,7,2017 Summer Tour,2017 Summer,Blaze On,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2017-09-01,2017,0,2,1,1,0,0,13,2017 Summer Tour,2017 Summer,555,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2017-09-01,2017,0,3,1,1,0,0,12,2017 Summer Tour,2017 Summer,Breath and Burning,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2017-09-01,2017,0,4,2,1,0,0,11,2017 Summer Tour,2017 Summer,Theme From the Bottom,Theme,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2017-09-01,2017,0,4,2,1,0,0,11,2017 Summer Tour,2017 Summer,Theme from the Bottom,Theme,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2017-09-01,2017,0,5,1,1,0,0,8,2017 Summer Tour,2017 Summer,Free,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2017-09-01,2017,0,6,2,1,0,0,9,2017 Summer Tour,2017 Summer,Tube,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2017-09-01,2017,0,7,2,1,0,0,12,2017 Summer Tour,2017 Summer,Roggae,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
@@ -461,7 +461,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2017-12-28,2017,0,6,1,1,0,0,1,2017 NYE Run,2017 NYE,Back on the Train,BOTT,0,Madison Square Garden,New York,NY,USA,","
 2017-12-28,2017,0,7,2,1,0,0,14,2017 NYE Run,2017 NYE,Your Pet Cat,,1,Madison Square Garden,New York,NY,USA,>
 2017-12-28,2017,0,8,2,1,0,0,9,2017 NYE Run,2017 NYE,Waking Up Dead,,1,Madison Square Garden,New York,NY,USA,>
-2017-12-28,2017,0,9,4,1,0,0,3,2017 NYE Run,2017 NYE,Theme From the Bottom,Theme,1,Madison Square Garden,New York,NY,USA,
+2017-12-28,2017,0,9,4,1,0,0,3,2017 NYE Run,2017 NYE,Theme from the Bottom,Theme,1,Madison Square Garden,New York,NY,USA,
 2017-12-28,2017,0,10,2,2,0,0,10,2017 NYE Run,2017 NYE,Wilson,,1,Madison Square Garden,New York,NY,USA,>
 2017-12-28,2017,0,11,2,2,0,0,3,2017 NYE Run,2017 NYE,No Men In No Man's Land,NMINML,1,Madison Square Garden,New York,NY,USA,>
 2017-12-28,2017,0,12,2,2,0,0,14,2017 NYE Run,2017 NYE,Twist,,1,Madison Square Garden,New York,NY,USA,>

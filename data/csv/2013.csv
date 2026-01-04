@@ -5,7 +5,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2013-07-03,2013,0,4,2,1,0,0,14,2013 Summer Tour,2013 Summer,NICU,,1,Darling's Waterfront Pavilion,Bangor,ME,USA,>
 2013-07-03,2013,0,5,1,1,0,0,4,2013 Summer Tour,2013 Summer,Wolfman's Brother,Wolfman's,1,Darling's Waterfront Pavilion,Bangor,ME,USA,","
 2013-07-03,2013,0,6,1,1,0,0,1,2013 Summer Tour,2013 Summer,Rift,,1,Darling's Waterfront Pavilion,Bangor,ME,USA,","
-2013-07-03,2013,0,7,2,1,0,0,4,2013 Summer Tour,2013 Summer,Theme From the Bottom,Theme,1,Darling's Waterfront Pavilion,Bangor,ME,USA,>
+2013-07-03,2013,0,7,2,1,0,0,4,2013 Summer Tour,2013 Summer,Theme from the Bottom,Theme,1,Darling's Waterfront Pavilion,Bangor,ME,USA,>
 2013-07-03,2013,0,8,1,1,0,0,1,2013 Summer Tour,2013 Summer,Chalk Dust Torture,CDT,1,Darling's Waterfront Pavilion,Bangor,ME,USA,","
 2013-07-03,2013,0,9,2,1,0,0,1,2013 Summer Tour,2013 Summer,Mike's Song,Mike's,1,Darling's Waterfront Pavilion,Bangor,ME,USA,>
 2013-07-03,2013,0,10,2,1,0,0,1,2013 Summer Tour,2013 Summer,Silent in the Morning,Silent,1,Darling's Waterfront Pavilion,Bangor,ME,USA,>
@@ -85,7 +85,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2013-07-10,2013,0,7,2,1,0,0,5,2013 Summer Tour,2013 Summer,Lawn Boy,,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
 2013-07-10,2013,0,8,1,1,0,0,6,2013 Summer Tour,2013 Summer,Ya Mar,,0,PNC Bank Arts Center,Holmdel,NJ,USA,","
 2013-07-10,2013,0,9,1,1,0,0,8,2013 Summer Tour,2013 Summer,Stealing Time From the Faulty Plan,STFTFP,1,PNC Bank Arts Center,Holmdel,NJ,USA,","
-2013-07-10,2013,0,10,2,1,0,0,4,2013 Summer Tour,2013 Summer,Theme From the Bottom,Theme,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
+2013-07-10,2013,0,10,2,1,0,0,4,2013 Summer Tour,2013 Summer,Theme from the Bottom,Theme,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
 2013-07-10,2013,0,11,4,1,0,0,7,2013 Summer Tour,2013 Summer,Suzy Greenberg,Suzy,1,PNC Bank Arts Center,Holmdel,NJ,USA,
 2013-07-10,2013,0,12,2,2,0,0,14,2013 Summer Tour,2013 Summer,Crosseyed and Painless,C&amp;P,0,PNC Bank Arts Center,Holmdel,NJ,USA,>
 2013-07-10,2013,0,13,2,2,0,0,4,2013 Summer Tour,2013 Summer,Harry Hood,Hood,1,PNC Bank Arts Center,Holmdel,NJ,USA,>
@@ -230,7 +230,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2013-07-20,2013,0,13,4,1,0,0,6,2013 Summer Tour,2013 Summer,David Bowie,Bowie,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,
 2013-07-20,2013,0,14,2,2,0,0,8,2013 Summer Tour,2013 Summer,Back on the Train,BOTT,0,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2013-07-20,2013,0,15,2,2,0,0,2,2013 Summer Tour,2013 Summer,Mike's Song,Mike's,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2013-07-20,2013,0,16,3,2,0,0,7,2013 Summer Tour,2013 Summer,Theme From the Bottom,Theme,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,->
+2013-07-20,2013,0,16,3,2,0,0,7,2013 Summer Tour,2013 Summer,Theme from the Bottom,Theme,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,->
 2013-07-20,2013,0,17,1,2,0,0,2,2013 Summer Tour,2013 Summer,Weekapaug Groove,Weekapaug,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
 2013-07-20,2013,0,18,2,2,0,0,4,2013 Summer Tour,2013 Summer,Golden Age,,0,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
 2013-07-20,2013,0,19,2,2,0,0,14,2013 Summer Tour,2013 Summer,Waves,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
@@ -322,7 +322,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2013-07-27,2013,0,12,3,2,0,0,2,2013 Summer Tour,2013 Summer,Down with Disease,DwD,1,Gorge Amphitheatre,George,WA,USA,->
 2013-07-27,2013,0,13,2,2,0,0,2,2013 Summer Tour,2013 Summer,Undermind,,0,Gorge Amphitheatre,George,WA,USA,>
 2013-07-27,2013,0,14,3,2,0,0,4,2013 Summer Tour,2013 Summer,Light,,0,Gorge Amphitheatre,George,WA,USA,->
-2013-07-27,2013,0,15,2,2,0,0,29,2013 Summer Tour,2013 Summer,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Gorge Amphitheatre,George,WA,USA,>
+2013-07-27,2013,0,15,2,2,0,0,29,2013 Summer Tour,2013 Summer,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,Gorge Amphitheatre,George,WA,USA,>
 2013-07-27,2013,0,16,2,2,0,0,2,2013 Summer Tour,2013 Summer,Also Sprach Zarathustra,2001,0,Gorge Amphitheatre,George,WA,USA,>
 2013-07-27,2013,0,17,2,2,0,0,12,2013 Summer Tour,2013 Summer,Walls of the Cave,WotC,1,Gorge Amphitheatre,George,WA,USA,>
 2013-07-27,2013,0,18,2,2,0,0,6,2013 Summer Tour,2013 Summer,Fluffhead,,1,Gorge Amphitheatre,George,WA,USA,>
@@ -386,7 +386,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2013-08-02,2013,0,15,2,2,0,0,7,2013 Summer Tour,2013 Summer,Prince Caspian,Caspian,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2013-08-02,2013,0,16,2,2,0,0,25,2013 Summer Tour,2013 Summer,Farmhouse,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2013-08-02,2013,0,17,2,2,0,0,46,2013 Summer Tour,2013 Summer,Seven Below,,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
-2013-08-02,2013,0,18,2,2,0,0,7,2013 Summer Tour,2013 Summer,Theme From the Bottom,Theme,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
+2013-08-02,2013,0,18,2,2,0,0,7,2013 Summer Tour,2013 Summer,Theme from the Bottom,Theme,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2013-08-02,2013,0,19,2,2,0,0,4,2013 Summer Tour,2013 Summer,Harry Hood,Hood,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,>
 2013-08-02,2013,0,20,1,2,0,0,9,2013 Summer Tour,2013 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,","
 2013-08-02,2013,0,21,5,2,0,0,5,2013 Summer Tour,2013 Summer,The Squirming Coil,Coil,1,Bill Graham Civic Auditorium,San Francisco,CA,USA,
@@ -468,7 +468,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2013-08-30,2013,0,2,1,1,0,0,3,2013 Summer Tour,2013 Summer,NICU,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2013-08-30,2013,0,3,1,1,0,0,82,2013 Summer Tour,2013 Summer,Icculus,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2013-08-30,2013,0,4,1,1,0,0,20,2013 Summer Tour,2013 Summer,Heavy Things,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2013-08-30,2013,0,5,2,1,0,0,4,2013 Summer Tour,2013 Summer,Theme From the Bottom,Theme,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2013-08-30,2013,0,5,2,1,0,0,4,2013 Summer Tour,2013 Summer,Theme from the Bottom,Theme,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2013-08-30,2013,0,6,1,1,0,0,81,2013 Summer Tour,2013 Summer,Esther,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2013-08-30,2013,0,7,2,1,0,0,1,2013 Summer Tour,2013 Summer,The Moma Dance,Moma,1,Dick's Sporting Goods Park,Commerce City,CO,USA,>
 2013-08-30,2013,0,8,1,1,0,0,1,2013 Summer Tour,2013 Summer,Ocelot,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
@@ -575,7 +575,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2013-10-19,2013,0,14,2,2,0,0,3,2013 Fall Tour,2013 Fall,Steam,,1,Hampton Coliseum,Hampton,VA,USA,>
 2013-10-19,2013,0,15,2,2,0,0,2,2013 Fall Tour,2013 Fall,Prince Caspian,Caspian,1,Hampton Coliseum,Hampton,VA,USA,>
 2013-10-19,2013,0,16,2,2,0,0,2,2013 Fall Tour,2013 Fall,Boogie On Reggae Woman,Boogie On,0,Hampton Coliseum,Hampton,VA,USA,>
-2013-10-19,2013,0,17,2,2,0,0,4,2013 Fall Tour,2013 Fall,Theme From the Bottom,Theme,1,Hampton Coliseum,Hampton,VA,USA,>
+2013-10-19,2013,0,17,2,2,0,0,4,2013 Fall Tour,2013 Fall,Theme from the Bottom,Theme,1,Hampton Coliseum,Hampton,VA,USA,>
 2013-10-19,2013,0,18,1,2,0,0,3,2013 Fall Tour,2013 Fall,The Wedge,Wedge,1,Hampton Coliseum,Hampton,VA,USA,","
 2013-10-19,2013,0,19,2,2,0,0,4,2013 Fall Tour,2013 Fall,Silent in the Morning,Silent,1,Hampton Coliseum,Hampton,VA,USA,>
 2013-10-19,2013,0,20,5,2,0,0,4,2013 Fall Tour,2013 Fall,Harry Hood,Hood,1,Hampton Coliseum,Hampton,VA,USA,
@@ -659,7 +659,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2013-10-25,2013,0,15,2,2,0,0,4,2013 Fall Tour,2013 Fall,Ghost,,1,DCU Center,Worcester,MA,USA,>
 2013-10-25,2013,0,16,2,2,0,0,47,2013 Fall Tour,2013 Fall,Dirt,,0,DCU Center,Worcester,MA,USA,>
 2013-10-25,2013,0,17,2,2,0,0,4,2013 Fall Tour,2013 Fall,Down with Disease,DwD,1,DCU Center,Worcester,MA,USA,>
-2013-10-25,2013,0,18,2,2,0,0,15,2013 Fall Tour,2013 Fall,Sneakin' Sally Through the Alley,Sneakin' Sally,0,DCU Center,Worcester,MA,USA,>
+2013-10-25,2013,0,18,2,2,0,0,15,2013 Fall Tour,2013 Fall,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,DCU Center,Worcester,MA,USA,>
 2013-10-25,2013,0,19,2,2,0,0,5,2013 Fall Tour,2013 Fall,Cavern,,1,DCU Center,Worcester,MA,USA,>
 2013-10-25,2013,0,20,5,2,0,0,5,2013 Fall Tour,2013 Fall,Run Like an Antelope,Antelope,1,DCU Center,Worcester,MA,USA,
 2013-10-25,2013,0,21,2,e,0,0,49,2013 Fall Tour,2013 Fall,Contact,,1,DCU Center,Worcester,MA,USA,>
@@ -679,7 +679,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2013-10-26,2013,0,11,2,2,0,0,22,2013 Fall Tour,2013 Fall,Drowned,,0,DCU Center,Worcester,MA,USA,>
 2013-10-26,2013,0,12,1,2,0,0,3,2013 Fall Tour,2013 Fall,Light,,0,DCU Center,Worcester,MA,USA,","
 2013-10-26,2013,0,13,2,2,0,0,4,2013 Fall Tour,2013 Fall,Sand,,0,DCU Center,Worcester,MA,USA,>
-2013-10-26,2013,0,14,2,2,0,0,5,2013 Fall Tour,2013 Fall,Theme From the Bottom,Theme,1,DCU Center,Worcester,MA,USA,>
+2013-10-26,2013,0,14,2,2,0,0,5,2013 Fall Tour,2013 Fall,Theme from the Bottom,Theme,1,DCU Center,Worcester,MA,USA,>
 2013-10-26,2013,0,15,2,2,0,0,5,2013 Fall Tour,2013 Fall,Mike's Song,Mike's,1,DCU Center,Worcester,MA,USA,>
 2013-10-26,2013,0,16,2,2,0,0,37,2013 Fall Tour,2013 Fall,No Quarter,,0,DCU Center,Worcester,MA,USA,>
 2013-10-26,2013,0,17,5,2,0,0,5,2013 Fall Tour,2013 Fall,Weekapaug Groove,Weekapaug,1,DCU Center,Worcester,MA,USA,
@@ -776,7 +776,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2013-11-01,2013,0,18,2,2,0,0,4,2013 Fall Tour,2013 Fall,Boogie On Reggae Woman,Boogie On,0,Boardwalk Hall,Atlantic City,NJ,USA,>
 2013-11-01,2013,0,19,1,2,0,0,9,2013 Fall Tour,2013 Fall,The Wedge,Wedge,1,Boardwalk Hall,Atlantic City,NJ,USA,","
 2013-11-01,2013,0,20,5,2,0,0,3,2013 Fall Tour,2013 Fall,Slave to the Traffic Light,Slave,1,Boardwalk Hall,Atlantic City,NJ,USA,
-2013-11-01,2013,0,21,6,e,0,0,5,2013 Fall Tour,2013 Fall,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Boardwalk Hall,Atlantic City,NJ,USA,
+2013-11-01,2013,0,21,6,e,0,0,5,2013 Fall Tour,2013 Fall,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,Boardwalk Hall,Atlantic City,NJ,USA,
 2013-11-02,2013,0,1,2,1,0,0,6,2013 Fall Tour,2013 Fall,Wilson,,1,Boardwalk Hall,Atlantic City,NJ,USA,>
 2013-11-02,2013,0,2,1,1,0,0,6,2013 Fall Tour,2013 Fall,Rift,,1,Boardwalk Hall,Atlantic City,NJ,USA,","
 2013-11-02,2013,0,3,1,1,0,0,4,2013 Fall Tour,2013 Fall,Ocelot,,1,Boardwalk Hall,Atlantic City,NJ,USA,","
@@ -784,7 +784,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2013-11-02,2013,0,5,1,1,0,0,9,2013 Fall Tour,2013 Fall,Sample in a Jar,Sample,1,Boardwalk Hall,Atlantic City,NJ,USA,","
 2013-11-02,2013,0,6,2,1,0,0,6,2013 Fall Tour,2013 Fall,Funky Bitch,,0,Boardwalk Hall,Atlantic City,NJ,USA,>
 2013-11-02,2013,0,7,1,1,0,0,6,2013 Fall Tour,2013 Fall,46 Days,,1,Boardwalk Hall,Atlantic City,NJ,USA,","
-2013-11-02,2013,0,8,1,1,0,0,5,2013 Fall Tour,2013 Fall,Theme From the Bottom,Theme,1,Boardwalk Hall,Atlantic City,NJ,USA,","
+2013-11-02,2013,0,8,1,1,0,0,5,2013 Fall Tour,2013 Fall,Theme from the Bottom,Theme,1,Boardwalk Hall,Atlantic City,NJ,USA,","
 2013-11-02,2013,0,9,2,1,0,0,7,2013 Fall Tour,2013 Fall,Yarmouth Road,,1,Boardwalk Hall,Atlantic City,NJ,USA,>
 2013-11-02,2013,0,10,1,1,0,0,7,2013 Fall Tour,2013 Fall,Limb By Limb,LxL,1,Boardwalk Hall,Atlantic City,NJ,USA,","
 2013-11-02,2013,0,11,2,1,0,0,5,2013 Fall Tour,2013 Fall,Mike's Song,Mike's,1,Boardwalk Hall,Atlantic City,NJ,USA,>

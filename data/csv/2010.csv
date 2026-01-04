@@ -81,7 +81,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2010-06-15,2010,0,17,3,2,0,0,4,2010 Early Summer Tour,2010 Summer,Simple,,1,nTelos Pavilion,Portsmouth,VA,USA,->
 2010-06-15,2010,0,18,1,2,0,0,4,2010 Early Summer Tour,2010 Summer,Joy,,1,nTelos Pavilion,Portsmouth,VA,USA,","
 2010-06-15,2010,0,19,1,2,0,0,10,2010 Early Summer Tour,2010 Summer,Taste,,1,nTelos Pavilion,Portsmouth,VA,USA,","
-2010-06-15,2010,0,20,2,2,0,0,4,2010 Early Summer Tour,2010 Summer,Theme From the Bottom,Theme,1,nTelos Pavilion,Portsmouth,VA,USA,>
+2010-06-15,2010,0,20,2,2,0,0,4,2010 Early Summer Tour,2010 Summer,Theme from the Bottom,Theme,1,nTelos Pavilion,Portsmouth,VA,USA,>
 2010-06-15,2010,0,21,5,2,0,0,11,2010 Early Summer Tour,2010 Summer,A Day in the Life,ADITL,0,nTelos Pavilion,Portsmouth,VA,USA,
 2010-06-15,2010,0,22,1,e,0,0,6,2010 Early Summer Tour,2010 Summer,Heavy Things,,1,nTelos Pavilion,Portsmouth,VA,USA,","
 2010-06-15,2010,0,23,6,e,0,0,7,2010 Early Summer Tour,2010 Summer,First Tube,,0,nTelos Pavilion,Portsmouth,VA,USA,
@@ -121,7 +121,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2010-06-18,2010,0,12,3,2,0,0,5,2010 Early Summer Tour,2010 Summer,Light,,0,The Comcast Theatre,Hartford,CT,USA,->
 2010-06-18,2010,0,13,1,2,0,0,37,2010 Early Summer Tour,2010 Summer,Billy Breathes,,1,The Comcast Theatre,Hartford,CT,USA,","
 2010-06-18,2010,0,14,2,2,0,0,3,2010 Early Summer Tour,2010 Summer,Tweezer,,1,The Comcast Theatre,Hartford,CT,USA,>
-2010-06-18,2010,0,15,2,2,0,0,2,2010 Early Summer Tour,2010 Summer,Theme From the Bottom,Theme,1,The Comcast Theatre,Hartford,CT,USA,>
+2010-06-18,2010,0,15,2,2,0,0,2,2010 Early Summer Tour,2010 Summer,Theme from the Bottom,Theme,1,The Comcast Theatre,Hartford,CT,USA,>
 2010-06-18,2010,0,16,2,2,0,0,4,2010 Early Summer Tour,2010 Summer,Harry Hood,Hood,1,The Comcast Theatre,Hartford,CT,USA,>
 2010-06-18,2010,0,17,1,2,0,0,3,2010 Early Summer Tour,2010 Summer,Wading in the Velvet Sea,Velvet Sea,1,The Comcast Theatre,Hartford,CT,USA,","
 2010-06-18,2010,0,18,5,2,0,0,2,2010 Early Summer Tour,2010 Summer,Stealing Time From the Faulty Plan,STFTFP,1,The Comcast Theatre,Hartford,CT,USA,
@@ -182,7 +182,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2010-06-22,2010,0,10,2,2,0,0,4,2010 Early Summer Tour,2010 Summer,Mike's Song,Mike's,1,Comcast Center,Mansfield,MA,USA,>
 2010-06-22,2010,0,11,2,2,0,0,4,2010 Early Summer Tour,2010 Summer,I Am Hydrogen,Hydrogen,1,Comcast Center,Mansfield,MA,USA,>
 2010-06-22,2010,0,12,1,2,0,0,4,2010 Early Summer Tour,2010 Summer,Weekapaug Groove,Weekapaug,1,Comcast Center,Mansfield,MA,USA,","
-2010-06-22,2010,0,13,3,2,0,0,13,2010 Early Summer Tour,2010 Summer,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Comcast Center,Mansfield,MA,USA,->
+2010-06-22,2010,0,13,3,2,0,0,13,2010 Early Summer Tour,2010 Summer,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,Comcast Center,Mansfield,MA,USA,->
 2010-06-22,2010,0,14,3,2,0,0,3,2010 Early Summer Tour,2010 Summer,Light,,0,Comcast Center,Mansfield,MA,USA,->
 2010-06-22,2010,0,15,1,2,0,0,5,2010 Early Summer Tour,2010 Summer,46 Days,,1,Comcast Center,Mansfield,MA,USA,","
 2010-06-22,2010,0,16,1,2,0,0,8,2010 Early Summer Tour,2010 Summer,Limb By Limb,LxL,1,Comcast Center,Mansfield,MA,USA,","
@@ -438,7 +438,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2010-08-07,2010,0,12,2,2,0,0,6,2010 Late Summer Tour,2010 Summer,Light,,0,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
 2010-08-07,2010,0,13,2,2,0,0,5,2010 Late Summer Tour,2010 Summer,Twenty Years Later,,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
 2010-08-07,2010,0,14,2,2,0,0,4,2010 Late Summer Tour,2010 Summer,Harry Hood,Hood,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
-2010-08-07,2010,0,15,1,2,0,0,15,2010 Late Summer Tour,2010 Summer,Theme From the Bottom,Theme,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
+2010-08-07,2010,0,15,1,2,0,0,15,2010 Late Summer Tour,2010 Summer,Theme from the Bottom,Theme,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,","
 2010-08-07,2010,0,16,2,2,0,0,5,2010 Late Summer Tour,2010 Summer,Also Sprach Zarathustra,2001,0,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
 2010-08-07,2010,0,17,2,2,0,0,6,2010 Late Summer Tour,2010 Summer,Suzy Greenberg,Suzy,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,>
 2010-08-07,2010,0,18,5,2,0,0,4,2010 Late Summer Tour,2010 Summer,Slave to the Traffic Light,Slave,1,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,
@@ -556,7 +556,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2010-08-14,2010,0,18,1,2,0,0,68,2010 Late Summer Tour,2010 Summer,Scent of a Mule,SOAMule,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2010-08-14,2010,0,19,2,2,0,0,3,2010 Late Summer Tour,2010 Summer,Mike's Song,Mike's,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2010-08-14,2010,0,20,2,2,0,0,17,2010 Late Summer Tour,2010 Summer,Dirt,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2010-08-14,2010,0,21,2,2,0,0,17,2010 Late Summer Tour,2010 Summer,Sneakin' Sally Through the Alley,Sneakin' Sally,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2010-08-14,2010,0,21,2,2,0,0,17,2010 Late Summer Tour,2010 Summer,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2010-08-14,2010,0,22,1,2,0,0,3,2010 Late Summer Tour,2010 Summer,Weekapaug Groove,Weekapaug,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2010-08-14,2010,0,23,5,2,0,0,16,2010 Late Summer Tour,2010 Summer,Bug,,0,Alpine Valley Music Theatre,East Troy,WI,USA,
 2010-08-14,2010,0,24,6,e,0,0,4,2010 Late Summer Tour,2010 Summer,Quinn the Eskimo (The Mighty Quinn),Quinn,0,Alpine Valley Music Theatre,East Troy,WI,USA,
@@ -570,7 +570,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2010-08-15,2010,0,8,1,1,0,0,22,2010 Late Summer Tour,2010 Summer,Farmhouse,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2010-08-15,2010,0,9,4,1,0,0,5,2010 Late Summer Tour,2010 Summer,David Bowie,Bowie,1,Alpine Valley Music Theatre,East Troy,WI,USA,
 2010-08-15,2010,0,10,2,2,0,0,7,2010 Late Summer Tour,2010 Summer,Ghost,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
-2010-08-15,2010,0,11,2,2,0,0,6,2010 Late Summer Tour,2010 Summer,Theme From the Bottom,Theme,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+2010-08-15,2010,0,11,2,2,0,0,6,2010 Late Summer Tour,2010 Summer,Theme from the Bottom,Theme,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2010-08-15,2010,0,12,1,2,0,0,16,2010 Late Summer Tour,2010 Summer,Big Black Furry Creature from Mars,BBFCFM,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2010-08-15,2010,0,13,2,2,0,0,4,2010 Late Summer Tour,2010 Summer,You Enjoy Myself,YEM,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2010-08-15,2010,0,14,2,2,0,0,5,2010 Late Summer Tour,2010 Summer,Piper,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
@@ -695,7 +695,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2010-10-12,2010,0,10,3,2,0,0,10,2010 Fall Tour,2010 Fall,Carini,,1,1stBank Center,Broomfield,CO,USA,->
 2010-10-12,2010,0,11,1,2,0,0,6,2010 Fall Tour,2010 Fall,David Bowie,Bowie,1,1stBank Center,Broomfield,CO,USA,","
 2010-10-12,2010,0,12,2,2,0,0,3,2010 Fall Tour,2010 Fall,Light,,0,1stBank Center,Broomfield,CO,USA,>
-2010-10-12,2010,0,13,3,2,0,0,6,2010 Fall Tour,2010 Fall,Theme From the Bottom,Theme,1,1stBank Center,Broomfield,CO,USA,->
+2010-10-12,2010,0,13,3,2,0,0,6,2010 Fall Tour,2010 Fall,Theme from the Bottom,Theme,1,1stBank Center,Broomfield,CO,USA,->
 2010-10-12,2010,0,14,2,2,0,0,10,2010 Fall Tour,2010 Fall,Free,,1,1stBank Center,Broomfield,CO,USA,>
 2010-10-12,2010,0,15,1,2,0,0,4,2010 Fall Tour,2010 Fall,Joy,,1,1stBank Center,Broomfield,CO,USA,","
 2010-10-12,2010,0,16,2,2,0,0,26,2010 Fall Tour,2010 Fall,Halfway to the Moon,,1,1stBank Center,Broomfield,CO,USA,>
@@ -737,7 +737,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2010-10-16,2010,0,4,2,1,0,0,10,2010 Fall Tour,2010 Fall,The Mango Song,Mango,1,North Charleston Coliseum,North Charleston,SC,USA,>
 2010-10-16,2010,0,5,1,1,0,0,13,2010 Fall Tour,2010 Fall,Sand,,0,North Charleston Coliseum,North Charleston,SC,USA,","
 2010-10-16,2010,0,6,1,1,0,0,12,2010 Fall Tour,2010 Fall,Limb By Limb,LxL,1,North Charleston Coliseum,North Charleston,SC,USA,","
-2010-10-16,2010,0,7,1,1,0,0,9,2010 Fall Tour,2010 Fall,Sneakin' Sally Through the Alley,Sneakin' Sally,0,North Charleston Coliseum,North Charleston,SC,USA,","
+2010-10-16,2010,0,7,1,1,0,0,9,2010 Fall Tour,2010 Fall,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,North Charleston Coliseum,North Charleston,SC,USA,","
 2010-10-16,2010,0,8,1,1,0,0,25,2010 Fall Tour,2010 Fall,Uncle Pen,,0,North Charleston Coliseum,North Charleston,SC,USA,","
 2010-10-16,2010,0,9,1,1,0,0,43,2010 Fall Tour,2010 Fall,Pebbles and Marbles,,0,North Charleston Coliseum,North Charleston,SC,USA,","
 2010-10-16,2010,0,10,2,1,0,0,5,2010 Fall Tour,2010 Fall,Cavern,,1,North Charleston Coliseum,North Charleston,SC,USA,>
@@ -789,7 +789,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2010-10-20,2010,0,11,4,1,0,0,3,2010 Fall Tour,2010 Fall,Run Like an Antelope,Antelope,1,Utica Memorial Auditorium,Utica,NY,USA,
 2010-10-20,2010,0,12,3,2,0,0,13,2010 Fall Tour,2010 Fall,Drowned,,0,Utica Memorial Auditorium,Utica,NY,USA,->
 2010-10-20,2010,0,13,2,2,0,0,2,2010 Fall Tour,2010 Fall,Sand,,0,Utica Memorial Auditorium,Utica,NY,USA,>
-2010-10-20,2010,0,14,1,2,0,0,4,2010 Fall Tour,2010 Fall,Theme From the Bottom,Theme,1,Utica Memorial Auditorium,Utica,NY,USA,","
+2010-10-20,2010,0,14,1,2,0,0,4,2010 Fall Tour,2010 Fall,Theme from the Bottom,Theme,1,Utica Memorial Auditorium,Utica,NY,USA,","
 2010-10-20,2010,0,15,2,2,0,0,8,2010 Fall Tour,2010 Fall,Axilla,,1,Utica Memorial Auditorium,Utica,NY,USA,>
 2010-10-20,2010,0,16,1,2,0,0,27,2010 Fall Tour,2010 Fall,Birds of a Feather,BOAF,1,Utica Memorial Auditorium,Utica,NY,USA,","
 2010-10-20,2010,0,17,2,2,0,0,19,2010 Fall Tour,2010 Fall,Tela,,1,Utica Memorial Auditorium,Utica,NY,USA,>
@@ -914,7 +914,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2010-10-29,2010,0,18,1,2,0,0,3,2010 Fall Tour,2010 Fall,Prince Caspian,Caspian,1,Boardwalk Hall,Atlantic City,NJ,USA,","
 2010-10-29,2010,0,19,1,2,0,0,43,2010 Fall Tour,2010 Fall,Corinna,,0,Boardwalk Hall,Atlantic City,NJ,USA,","
 2010-10-29,2010,0,20,2,2,0,0,3,2010 Fall Tour,2010 Fall,Piper,,1,Boardwalk Hall,Atlantic City,NJ,USA,>
-2010-10-29,2010,0,21,2,2,0,0,5,2010 Fall Tour,2010 Fall,Theme From the Bottom,Theme,1,Boardwalk Hall,Atlantic City,NJ,USA,>
+2010-10-29,2010,0,21,2,2,0,0,5,2010 Fall Tour,2010 Fall,Theme from the Bottom,Theme,1,Boardwalk Hall,Atlantic City,NJ,USA,>
 2010-10-29,2010,0,22,2,2,0,0,3,2010 Fall Tour,2010 Fall,Golgi Apparatus,Golgi,1,Boardwalk Hall,Atlantic City,NJ,USA,>
 2010-10-29,2010,0,23,2,2,0,0,5,2010 Fall Tour,2010 Fall,Slave to the Traffic Light,Slave,1,Boardwalk Hall,Atlantic City,NJ,USA,>
 2010-10-29,2010,0,24,5,2,0,0,4,2010 Fall Tour,2010 Fall,Fluffhead,,1,Boardwalk Hall,Atlantic City,NJ,USA,
@@ -1044,7 +1044,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2010-12-30,2010,0,13,4,1,0,0,3,2010/2011 NYE Run,2010-2011 NYE,Character Zero,,1,Madison Square Garden,New York,NY,USA,
 2010-12-30,2010,0,14,2,2,0,0,4,2010/2011 NYE Run,2010-2011 NYE,Tweezer,,1,Madison Square Garden,New York,NY,USA,>
 2010-12-30,2010,0,15,2,2,0,0,6,2010/2011 NYE Run,2010-2011 NYE,Light,,0,Madison Square Garden,New York,NY,USA,>
-2010-12-30,2010,0,16,3,2,0,0,5,2010/2011 NYE Run,2010-2011 NYE,Theme From the Bottom,Theme,1,Madison Square Garden,New York,NY,USA,->
+2010-12-30,2010,0,16,3,2,0,0,5,2010/2011 NYE Run,2010-2011 NYE,Theme from the Bottom,Theme,1,Madison Square Garden,New York,NY,USA,->
 2010-12-30,2010,0,17,2,2,0,0,8,2010/2011 NYE Run,2010-2011 NYE,"My Friend, My Friend",My Friend,1,Madison Square Garden,New York,NY,USA,>
 2010-12-30,2010,0,18,1,2,0,0,5,2010/2011 NYE Run,2010-2011 NYE,Axilla,,1,Madison Square Garden,New York,NY,USA,","
 2010-12-30,2010,0,19,1,2,0,0,5,2010/2011 NYE Run,2010-2011 NYE,Fluffhead,,1,Madison Square Garden,New York,NY,USA,","
