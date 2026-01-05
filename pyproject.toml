@@ -8,10 +8,10 @@ package-mode = false
 [tool.poetry.dependencies]
 python = "^3.13"
 requests = "^2.32.5"
-numpy = "^2.3.4"
+numpy = "^2.4.0"
 pandas = "^2.3.3"
 pysh-client = "^0.1.1"
-ipython = "^9.7.0"
+ipython = "^9.9.0"
 
 
 [build-system]
