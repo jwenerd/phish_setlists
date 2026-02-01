@@ -12,7 +12,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1998-04-02,1998,0,11,1,2,0,0,1176,1998 Island Tour,1998 Island,Birds of a Feather,BOAF,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,","
 1998-04-02,1998,0,12,3,2,0,0,1,1998 Island Tour,1998 Island,Wolfman's Brother,Wolfman's,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,->
 1998-04-02,1998,0,13,3,2,0,0,2,1998 Island Tour,1998 Island,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,->
-1998-04-02,1998,0,14,2,2,0,0,1180,1998 Island Tour,1998 Island,Frankie Says,,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
+1998-04-02,1998,0,14,2,2,0,0,1176,1998 Island Tour,1998 Island,Frankie Says,,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
 1998-04-02,1998,0,15,2,2,0,0,10,1998 Island Tour,1998 Island,Twist,,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
 1998-04-02,1998,0,16,2,2,0,0,2,1998 Island Tour,1998 Island,Sleeping Monkey,,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
 1998-04-02,1998,0,17,5,2,0,0,4,1998 Island Tour,1998 Island,Rocky Top,,0,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,
@@ -69,7 +69,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1998-06-29,1998,1,2,6,1,0,0,0,Not Part of a Tour,No Tour,The Moma Dance,Moma,1,The Grey Hall,Copenhagen,,Denmark,
 1998-06-30,1998,0,1,1,1,2,0,2,1998 Summer European Tour,1998 Summer Europe,Limb By Limb,LxL,1,The Grey Hall,Copenhagen,,Denmark,","
 1998-06-30,1998,0,2,1,1,2,0,2,1998 Summer European Tour,1998 Summer Europe,Ghost,,1,The Grey Hall,Copenhagen,,Denmark,","
-1998-06-30,1998,0,3,2,1,2,0,5,1998 Summer European Tour,1998 Summer Europe,Water in the Sky,,1,The Grey Hall,Copenhagen,,Denmark,>
+1998-06-30,1998,0,3,2,1,2,0,6,1998 Summer European Tour,1998 Summer Europe,Water in the Sky,,1,The Grey Hall,Copenhagen,,Denmark,>
 1998-06-30,1998,0,4,1,1,2,0,2,1998 Summer European Tour,1998 Summer Europe,Bouncing Around the Room,Bouncin',1,The Grey Hall,Copenhagen,,Denmark,","
 1998-06-30,1998,0,5,1,1,2,0,4,1998 Summer European Tour,1998 Summer Europe,Tube,,1,The Grey Hall,Copenhagen,,Denmark,","
 1998-06-30,1998,0,6,3,1,2,0,4,1998 Summer European Tour,1998 Summer Europe,Stash,,1,The Grey Hall,Copenhagen,,Denmark,->
