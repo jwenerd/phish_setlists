@@ -15,7 +15,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-04-04,1994,0,14,1,2,0,0,822,1994 Spring Tour,1994 Spring,Julius,,1,The Flynn Theatre,Burlington,VT,USA,","
 1994-04-04,1994,0,15,1,2,0,0,74,1994 Spring Tour,1994 Spring,Magilla,,1,The Flynn Theatre,Burlington,VT,USA,","
 1994-04-04,1994,0,16,1,2,0,0,1,1994 Spring Tour,1994 Spring,Split Open and Melt,SOAMelt,1,The Flynn Theatre,Burlington,VT,USA,","
-1994-04-04,1994,0,17,2,2,0,0,822,1994 Spring Tour,1994 Spring,Wolfman's Brother,Wolfman's,1,The Flynn Theatre,Burlington,VT,USA,>
+1994-04-04,1994,0,17,2,2,0,0,823,1994 Spring Tour,1994 Spring,Wolfman's Brother,Wolfman's,1,The Flynn Theatre,Burlington,VT,USA,>
 1994-04-04,1994,0,18,1,2,0,0,821,1994 Spring Tour,1994 Spring,I Wan'na Be Like You,,0,The Flynn Theatre,Burlington,VT,USA,","
 1994-04-04,1994,0,19,2,2,0,0,4,1994 Spring Tour,1994 Spring,The Oh Kee Pa Ceremony,Oh Kee Pa,1,The Flynn Theatre,Burlington,VT,USA,>
 1994-04-04,1994,0,20,5,2,0,0,1,1994 Spring Tour,1994 Spring,Suzy Greenberg,Suzy,1,The Flynn Theatre,Burlington,VT,USA,
@@ -922,7 +922,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-05-27,1994,0,16,1,2,0,0,7,1994 Spring Tour,1994 Spring,Nellie Kane,,0,Warfield Theatre,San Francisco,CA,USA,","
 1994-05-27,1994,0,17,1,2,0,0,21,1994 Spring Tour,1994 Spring,My Mind's Got a Mind of its Own,MMGAMOIO,0,Warfield Theatre,San Francisco,CA,USA,","
 1994-05-27,1994,0,18,3,2,0,0,7,1994 Spring Tour,1994 Spring,Mike's Song,Mike's,1,Warfield Theatre,San Francisco,CA,USA,->
-1994-05-27,1994,0,19,2,2,0,0,864,1994 Spring Tour,1994 Spring,Simple,,1,Warfield Theatre,San Francisco,CA,USA,>
+1994-05-27,1994,0,19,2,2,0,0,865,1994 Spring Tour,1994 Spring,Simple,,1,Warfield Theatre,San Francisco,CA,USA,>
 1994-05-27,1994,0,20,2,2,0,0,0,1994 Spring Tour,1994 Spring,Mike's Song,Mike's,1,Warfield Theatre,San Francisco,CA,USA,>
 1994-05-27,1994,0,21,3,2,0,0,0,1994 Spring Tour,1994 Spring,Simple,,1,Warfield Theatre,San Francisco,CA,USA,->
 1994-05-27,1994,0,22,1,2,0,0,863,1994 Spring Tour,1994 Spring,O Mio Babbino Caro,,0,Warfield Theatre,San Francisco,CA,USA,","

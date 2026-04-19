@@ -591,9 +591,9 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2024-08-30,2024,0,1,1,1,0,0,5,2024 Summer Tour,2024 Summer,Back on the Train,BOTT,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2024-08-30,2024,0,2,1,1,0,0,5,2024 Summer Tour,2024 Summer,Wolfman's Brother,Wolfman's,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2024-08-30,2024,0,3,1,1,0,0,7,2024 Summer Tour,2024 Summer,Hey Stranger,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-08-30,2024,0,4,1,1,0,0,104,2024 Summer Tour,2024 Summer,Guelah Papyrus,Guelah,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-30,2024,0,4,1,1,0,0,105,2024 Summer Tour,2024 Summer,Guelah Papyrus,Guelah,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2024-08-30,2024,0,5,1,1,0,0,4,2024 Summer Tour,2024 Summer,No Men In No Man's Land,NMINML,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
-2024-08-30,2024,0,6,1,1,0,0,1,2024 Summer Tour,2024 Summer,Steam,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-30,2024,0,6,1,1,0,0,2,2024 Summer Tour,2024 Summer,Steam,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2024-08-30,2024,0,7,1,1,0,0,3,2024 Summer Tour,2024 Summer,Evolve,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2024-08-30,2024,0,8,1,1,0,0,99,2024 Summer Tour,2024 Summer,Strange Design,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
 2024-08-30,2024,0,9,4,1,0,0,7,2024 Summer Tour,2024 Summer,Run Like an Antelope,Antelope,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
@@ -648,7 +648,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2024-10-25,2024,0,5,1,1,0,0,3,Not Part of a Tour,No Tour,Wolfman's Brother,Wolfman's,1,MVP Arena,Albany,NY,USA,","
 2024-10-25,2024,0,6,1,1,0,0,3,Not Part of a Tour,No Tour,No Men In No Man's Land,NMINML,1,MVP Arena,Albany,NY,USA,","
 2024-10-25,2024,0,7,1,1,0,0,4,Not Part of a Tour,No Tour,Theme from the Bottom,Theme,1,MVP Arena,Albany,NY,USA,","
-2024-10-25,2024,0,8,1,1,0,0,2,Not Part of a Tour,No Tour,Steam,,1,MVP Arena,Albany,NY,USA,","
+2024-10-25,2024,0,8,1,1,0,0,3,Not Part of a Tour,No Tour,Steam,,1,MVP Arena,Albany,NY,USA,","
 2024-10-25,2024,0,9,4,1,0,0,3,Not Part of a Tour,No Tour,Sand,,0,MVP Arena,Albany,NY,USA,
 2024-10-25,2024,0,10,3,2,0,0,4,Not Part of a Tour,No Tour,Blaze On,,1,MVP Arena,Albany,NY,USA,->
 2024-10-25,2024,0,11,3,2,0,0,11,Not Part of a Tour,No Tour,Piper,,1,MVP Arena,Albany,NY,USA,->

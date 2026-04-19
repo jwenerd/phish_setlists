@@ -27,7 +27,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1996-06-06,1996,0,11,1,2,0,0,2,Not Part of a Tour,No Tour,Chalk Dust Torture,CDT,1,Joyous Lake,Woodstock,NY,USA,","
 1996-06-06,1996,0,12,1,2,0,0,1,Not Part of a Tour,No Tour,Sparkle,,1,Joyous Lake,Woodstock,NY,USA,","
 1996-06-06,1996,0,13,1,2,0,0,1,Not Part of a Tour,No Tour,Stash,,1,Joyous Lake,Woodstock,NY,USA,","
-1996-06-06,1996,0,14,1,2,0,0,1029,Not Part of a Tour,No Tour,Waste,,1,Joyous Lake,Woodstock,NY,USA,","
+1996-06-06,1996,0,14,1,2,0,0,1030,Not Part of a Tour,No Tour,Waste,,1,Joyous Lake,Woodstock,NY,USA,","
 1996-06-06,1996,0,15,1,2,0,0,1029,Not Part of a Tour,No Tour,Character Zero,,1,Joyous Lake,Woodstock,NY,USA,","
 1996-06-06,1996,0,16,1,2,0,0,1,Not Part of a Tour,No Tour,David Bowie,Bowie,1,Joyous Lake,Woodstock,NY,USA,","
 1996-06-06,1996,0,17,2,2,0,0,5,Not Part of a Tour,No Tour,Fee,,1,Joyous Lake,Woodstock,NY,USA,>
@@ -793,19 +793,19 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1996-11-07,1996,0,1,1,1,0,0,5,1996 Fall Tour,1996 Fall,Chalk Dust Torture,CDT,1,Rupp Arena,Lexington,KY,USA,","
 1996-11-07,1996,0,2,2,1,0,0,19,1996 Fall Tour,1996 Fall,Weigh,,1,Rupp Arena,Lexington,KY,USA,>
 1996-11-07,1996,0,3,2,1,0,0,5,1996 Fall Tour,1996 Fall,Rift,,1,Rupp Arena,Lexington,KY,USA,>
-1996-11-07,1996,0,4,1,1,0,0,4,1996 Fall Tour,1996 Fall,Guelah Papyrus,Guelah,1,Rupp Arena,Lexington,KY,USA,","
+1996-11-07,1996,0,4,1,1,0,0,5,1996 Fall Tour,1996 Fall,Guelah Papyrus,Guelah,1,Rupp Arena,Lexington,KY,USA,","
 1996-11-07,1996,0,5,1,1,0,0,3,1996 Fall Tour,1996 Fall,Stash,,1,Rupp Arena,Lexington,KY,USA,","
 1996-11-07,1996,0,6,1,1,0,0,3,1996 Fall Tour,1996 Fall,Waste,,1,Rupp Arena,Lexington,KY,USA,","
 1996-11-07,1996,0,7,1,1,0,0,24,1996 Fall Tour,1996 Fall,Guyute,,1,Rupp Arena,Lexington,KY,USA,","
 1996-11-07,1996,0,8,2,1,0,0,3,1996 Fall Tour,1996 Fall,Free,,1,Rupp Arena,Lexington,KY,USA,>
 1996-11-07,1996,0,9,1,1,0,0,18,1996 Fall Tour,1996 Fall,Tela,,1,Rupp Arena,Lexington,KY,USA,","
 1996-11-07,1996,0,10,4,1,0,0,2,1996 Fall Tour,1996 Fall,Character Zero,,1,Rupp Arena,Lexington,KY,USA,
-1996-11-07,1996,0,11,2,2,0,0,3,1996 Fall Tour,1996 Fall,Suzy Greenberg,Suzy,1,Rupp Arena,Lexington,KY,USA,>
+1996-11-07,1996,0,11,2,2,0,0,4,1996 Fall Tour,1996 Fall,Suzy Greenberg,Suzy,1,Rupp Arena,Lexington,KY,USA,>
 1996-11-07,1996,0,12,3,2,0,0,6,1996 Fall Tour,1996 Fall,Bathtub Gin,Gin,1,Rupp Arena,Lexington,KY,USA,->
 1996-11-07,1996,0,13,2,2,0,0,4,1996 Fall Tour,1996 Fall,Hold Your Head Up,HYHU,0,Rupp Arena,Lexington,KY,USA,>
 1996-11-07,1996,0,14,2,2,0,0,28,1996 Fall Tour,1996 Fall,Bike,,0,Rupp Arena,Lexington,KY,USA,>
 1996-11-07,1996,0,15,1,2,0,0,4,1996 Fall Tour,1996 Fall,Hold Your Head Up,HYHU,0,Rupp Arena,Lexington,KY,USA,","
-1996-11-07,1996,0,16,5,2,0,0,3,1996 Fall Tour,1996 Fall,You Enjoy Myself,YEM,1,Rupp Arena,Lexington,KY,USA,
+1996-11-07,1996,0,16,5,2,0,0,4,1996 Fall Tour,1996 Fall,You Enjoy Myself,YEM,1,Rupp Arena,Lexington,KY,USA,
 1996-11-07,1996,0,17,6,e,0,0,3,1996 Fall Tour,1996 Fall,Frankenstein,,0,Rupp Arena,Lexington,KY,USA,
 1996-11-08,1996,0,1,1,1,0,0,3,1996 Fall Tour,1996 Fall,Runaway Jim,,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,","
 1996-11-08,1996,0,2,2,1,0,0,171,1996 Fall Tour,1996 Fall,Axilla,,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,>

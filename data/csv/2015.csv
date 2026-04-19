@@ -70,7 +70,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2015-07-21,2015,0,14,1,2,0,0,4,2015 Summer,2015 Summer,The Wedge,Wedge,1,Les Schwab Amphitheater,Bend,OR,USA,","
 2015-07-21,2015,0,15,2,2,0,0,2,2015 Summer,2015 Summer,Fuego,,1,Les Schwab Amphitheater,Bend,OR,USA,>
 2015-07-21,2015,0,16,1,2,0,0,1682,2015 Summer,2015 Summer,Shade,,1,Les Schwab Amphitheater,Bend,OR,USA,","
-2015-07-21,2015,0,17,2,2,0,0,1682,2015 Summer,2015 Summer,No Men In No Man's Land,NMINML,1,Les Schwab Amphitheater,Bend,OR,USA,>
+2015-07-21,2015,0,17,2,2,0,0,1683,2015 Summer,2015 Summer,No Men In No Man's Land,NMINML,1,Les Schwab Amphitheater,Bend,OR,USA,>
 2015-07-21,2015,0,18,2,2,0,0,2,2015 Summer,2015 Summer,Weekapaug Groove,Weekapaug,1,Les Schwab Amphitheater,Bend,OR,USA,>
 2015-07-21,2015,0,19,2,2,0,0,14,2015 Summer,2015 Summer,Boogie On Reggae Woman,Boogie On,0,Les Schwab Amphitheater,Bend,OR,USA,>
 2015-07-21,2015,0,20,5,2,0,0,4,2015 Summer,2015 Summer,Chalk Dust Torture,CDT,1,Les Schwab Amphitheater,Bend,OR,USA,
@@ -394,9 +394,9 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2015-08-15,2015,0,13,2,2,0,0,5,2015 Summer,2015 Summer,Halley's Comet,Halley's,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2015-08-15,2015,0,14,3,2,0,0,3,2015 Summer,2015 Summer,46 Days,,1,Merriweather Post Pavilion,Columbia,MD,USA,->
 2015-08-15,2015,0,15,2,2,0,0,7,2015 Summer,2015 Summer,Bug,,0,Merriweather Post Pavilion,Columbia,MD,USA,>
-2015-08-15,2015,0,16,2,2,0,0,12,2015 Summer,2015 Summer,Steam,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2015-08-15,2015,0,16,2,2,0,0,0,2015 Summer,2015 Summer,Steam,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
 2015-08-15,2015,0,17,2,2,0,0,5,2015 Summer,2015 Summer,What's the Use?,WTU?,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2015-08-15,2015,0,18,3,2,0,0,0,2015 Summer,2015 Summer,Steam,,1,Merriweather Post Pavilion,Columbia,MD,USA,->
+2015-08-15,2015,0,18,3,2,0,0,12,2015 Summer,2015 Summer,Steam,,1,Merriweather Post Pavilion,Columbia,MD,USA,->
 2015-08-15,2015,0,19,3,2,0,0,8,2015 Summer,2015 Summer,Piper,,1,Merriweather Post Pavilion,Columbia,MD,USA,->
 2015-08-15,2015,0,20,3,2,0,0,4,2015 Summer,2015 Summer,Tweezer,,1,Merriweather Post Pavilion,Columbia,MD,USA,->
 2015-08-15,2015,0,21,3,2,0,0,202,2015 Summer,2015 Summer,NO2,,1,Merriweather Post Pavilion,Columbia,MD,USA,->

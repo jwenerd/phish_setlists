@@ -86,7 +86,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2021-08-03,2021,0,5,1,1,2,0,18,2021 Summer Tour,2021 Summer,Backwards Down the Number Line,BDTNL,0,Ascend Amphitheater,Nashville,TN,USA,","
 2021-08-03,2021,0,6,2,1,2,0,5,2021 Summer Tour,2021 Summer,Undermind,,0,Ascend Amphitheater,Nashville,TN,USA,>
 2021-08-03,2021,0,7,1,1,2,0,5,2021 Summer Tour,2021 Summer,Divided Sky,Divided,1,Ascend Amphitheater,Nashville,TN,USA,","
-2021-08-03,2021,0,8,1,1,2,0,1872,2021 Summer Tour,2021 Summer,Mull,,1,Ascend Amphitheater,Nashville,TN,USA,","
+2021-08-03,2021,0,8,1,1,2,0,1873,2021 Summer Tour,2021 Summer,Mull,,1,Ascend Amphitheater,Nashville,TN,USA,","
 2021-08-03,2021,0,9,1,1,2,0,13,2021 Summer Tour,2021 Summer,It's Ice,,1,Ascend Amphitheater,Nashville,TN,USA,","
 2021-08-03,2021,0,10,1,1,2,0,10,2021 Summer Tour,2021 Summer,About to Run,,0,Ascend Amphitheater,Nashville,TN,USA,","
 2021-08-03,2021,0,11,4,1,2,0,5,2021 Summer Tour,2021 Summer,The Squirming Coil,Coil,1,Ascend Amphitheater,Nashville,TN,USA,
@@ -98,7 +98,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2021-08-03,2021,0,17,2,2,2,0,9,2021 Summer Tour,2021 Summer,Light,,0,Ascend Amphitheater,Nashville,TN,USA,>
 2021-08-03,2021,0,18,5,2,2,0,8,2021 Summer Tour,2021 Summer,You Enjoy Myself,YEM,1,Ascend Amphitheater,Nashville,TN,USA,
 2021-08-03,2021,0,19,6,e,2,0,15,2021 Summer Tour,2021 Summer,Loving Cup,,0,Ascend Amphitheater,Nashville,TN,USA,
-2021-08-04,2021,0,1,1,1,2,0,1873,2021 Summer Tour,2021 Summer,Evolve,,0,Ascend Amphitheater,Nashville,TN,USA,","
+2021-08-04,2021,0,1,1,1,2,0,1874,2021 Summer Tour,2021 Summer,Evolve,,0,Ascend Amphitheater,Nashville,TN,USA,","
 2021-08-04,2021,0,2,1,1,2,0,5,2021 Summer Tour,2021 Summer,Free,,1,Ascend Amphitheater,Nashville,TN,USA,","
 2021-08-04,2021,0,3,2,1,2,0,15,2021 Summer Tour,2021 Summer,Ocelot,,1,Ascend Amphitheater,Nashville,TN,USA,>
 2021-08-04,2021,0,4,1,1,2,0,14,2021 Summer Tour,2021 Summer,My Sweet One,MSO,1,Ascend Amphitheater,Nashville,TN,USA,","
@@ -338,8 +338,8 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2021-08-29,2021,0,19,2,e,2,0,64,2021 Summer Tour,2021 Summer,Shine a Light,,0,Gorge Amphitheatre,George,WA,USA,>
 2021-08-29,2021,0,20,6,e,2,0,3,2021 Summer Tour,2021 Summer,First Tube,,0,Gorge Amphitheatre,George,WA,USA,
 2021-08-31,2021,0,1,1,1,0,0,36,2021 Summer Tour,2021 Summer,Glide,,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
-2021-08-31,2021,0,2,2,1,0,0,113,2021 Summer Tour,2021 Summer,Colonel Forbin's Ascent,Forbin's,1,Shoreline Amphitheatre,Mountain View,CA,USA,>
-2021-08-31,2021,0,3,1,1,0,0,113,2021 Summer Tour,2021 Summer,Fly Famous Mockingbird,Mockingbird,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+2021-08-31,2021,0,2,2,1,0,0,114,2021 Summer Tour,2021 Summer,Colonel Forbin's Ascent,Forbin's,1,Shoreline Amphitheatre,Mountain View,CA,USA,>
+2021-08-31,2021,0,3,1,1,0,0,114,2021 Summer Tour,2021 Summer,Fly Famous Mockingbird,Mockingbird,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
 2021-08-31,2021,0,4,1,1,0,0,6,2021 Summer Tour,2021 Summer,Wolfman's Brother,Wolfman's,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
 2021-08-31,2021,0,5,1,1,0,0,16,2021 Summer Tour,2021 Summer,If I Could,,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
 2021-08-31,2021,0,6,1,1,0,0,4,2021 Summer Tour,2021 Summer,I Never Needed You Like This Before,,0,Shoreline Amphitheatre,Mountain View,CA,USA,","
@@ -560,7 +560,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2021-10-24,2021,0,5,3,1,0,0,58,2021 Fall Tour,2021 Fall,Waiting All Night,,1,The Forum,Inglewood,CA,USA,->
 2021-10-24,2021,0,6,1,1,0,0,5,2021 Fall Tour,2021 Fall,Maze,,1,The Forum,Inglewood,CA,USA,","
 2021-10-24,2021,0,7,3,1,0,0,12,2021 Fall Tour,2021 Fall,Fee,,1,The Forum,Inglewood,CA,USA,->
-2021-10-24,2021,0,8,2,1,0,0,4,2021 Fall Tour,2021 Fall,Steam,,1,The Forum,Inglewood,CA,USA,>
+2021-10-24,2021,0,8,2,1,0,0,5,2021 Fall Tour,2021 Fall,Steam,,1,The Forum,Inglewood,CA,USA,>
 2021-10-24,2021,0,9,4,1,0,0,6,2021 Fall Tour,2021 Fall,Run Like an Antelope,Antelope,1,The Forum,Inglewood,CA,USA,
 2021-10-24,2021,0,10,1,2,0,0,17,2021 Fall Tour,2021 Fall,Cars Trucks Buses,CTB,1,The Forum,Inglewood,CA,USA,","
 2021-10-24,2021,0,11,3,2,0,0,11,2021 Fall Tour,2021 Fall,Tweezer,,1,The Forum,Inglewood,CA,USA,->

@@ -9,7 +9,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1998-04-02,1998,0,8,4,1,0,0,2,1998 Island Tour,1998 Island,Chalk Dust Torture,CDT,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,
 1998-04-02,1998,0,9,2,2,0,0,2,1998 Island Tour,1998 Island,Punch You in the Eye,PYITE,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
 1998-04-02,1998,0,10,2,2,0,0,4,1998 Island Tour,1998 Island,Simple,,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
-1998-04-02,1998,0,11,1,2,0,0,1176,1998 Island Tour,1998 Island,Birds of a Feather,BOAF,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,","
+1998-04-02,1998,0,11,1,2,0,0,1177,1998 Island Tour,1998 Island,Birds of a Feather,BOAF,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,","
 1998-04-02,1998,0,12,3,2,0,0,1,1998 Island Tour,1998 Island,Wolfman's Brother,Wolfman's,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,->
 1998-04-02,1998,0,13,3,2,0,0,2,1998 Island Tour,1998 Island,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,->
 1998-04-02,1998,0,14,2,2,0,0,1176,1998 Island Tour,1998 Island,Frankie Says,,1,Nassau Veterans Memorial Coliseum,Uniondale,NY,USA,>
@@ -513,7 +513,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1998-08-07,1998,0,7,1,1,0,0,3,1998 Summer U.S. Tour,1998 Summer,Bittersweet Motel,,1,Walnut Creek Amphitheater,Raleigh,NC,USA,","
 1998-08-07,1998,0,8,1,1,0,0,3,1998 Summer U.S. Tour,1998 Summer,Ghost,,1,Walnut Creek Amphitheater,Raleigh,NC,USA,","
 1998-08-07,1998,0,9,2,1,0,0,57,1998 Summer U.S. Tour,1998 Summer,Colonel Forbin's Ascent,Forbin's,1,Walnut Creek Amphitheater,Raleigh,NC,USA,>
-1998-08-07,1998,0,10,4,1,0,0,135,1998 Summer U.S. Tour,1998 Summer,Fly Famous Mockingbird,Mockingbird,1,Walnut Creek Amphitheater,Raleigh,NC,USA,
+1998-08-07,1998,0,10,4,1,0,0,57,1998 Summer U.S. Tour,1998 Summer,Fly Famous Mockingbird,Mockingbird,1,Walnut Creek Amphitheater,Raleigh,NC,USA,
 1998-08-07,1998,0,11,2,2,0,0,4,1998 Summer U.S. Tour,1998 Summer,Chalk Dust Torture,CDT,1,Walnut Creek Amphitheater,Raleigh,NC,USA,>
 1998-08-07,1998,0,12,2,2,0,0,4,1998 Summer U.S. Tour,1998 Summer,Mike's Song,Mike's,1,Walnut Creek Amphitheater,Raleigh,NC,USA,>
 1998-08-07,1998,0,13,2,2,0,0,8,1998 Summer U.S. Tour,1998 Summer,Simple,,1,Walnut Creek Amphitheater,Raleigh,NC,USA,>
