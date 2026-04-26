@@ -239,7 +239,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-04-15,1994,0,22,6,e,0,0,3,1994 Spring Tour,1994 Spring,Amazing Grace,,0,Beacon Theatre,New York,NY,USA,
 1994-04-16,1994,0,1,1,1,0,0,2,1994 Spring Tour,1994 Spring,Runaway Jim,,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
 1994-04-16,1994,0,2,1,1,0,0,3,1994 Spring Tour,1994 Spring,Fee,,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
-1994-04-16,1994,0,3,2,1,0,0,832,1994 Spring Tour,1994 Spring,Axilla (Part II),,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+1994-04-16,1994,0,3,2,1,0,0,833,1994 Spring Tour,1994 Spring,Axilla (Part II),,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
 1994-04-16,1994,0,4,1,1,0,0,2,1994 Spring Tour,1994 Spring,Rift,,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
 1994-04-16,1994,0,5,1,1,0,0,3,1994 Spring Tour,1994 Spring,Stash,,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
 1994-04-16,1994,0,6,1,1,0,0,5,1994 Spring Tour,1994 Spring,Fluffhead,,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
@@ -1680,7 +1680,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-10-07,1994,0,5,1,1,0,0,2,1994 Fall Tour,1994 Fall,Divided Sky,Divided,1,"Stabler Arena, Lehigh University",Bethlehem,PA,USA,","
 1994-10-07,1994,0,6,1,1,0,0,6,1994 Fall Tour,1994 Fall,Guelah Papyrus,Guelah,1,"Stabler Arena, Lehigh University",Bethlehem,PA,USA,","
 1994-10-07,1994,0,7,1,1,0,0,1,1994 Fall Tour,1994 Fall,Stash,,1,"Stabler Arena, Lehigh University",Bethlehem,PA,USA,","
-1994-10-07,1994,0,8,1,1,0,0,896,1994 Fall Tour,1994 Fall,Guyute,,1,"Stabler Arena, Lehigh University",Bethlehem,PA,USA,","
+1994-10-07,1994,0,8,1,1,0,0,897,1994 Fall Tour,1994 Fall,Guyute,,1,"Stabler Arena, Lehigh University",Bethlehem,PA,USA,","
 1994-10-07,1994,0,9,4,1,0,0,1,1994 Fall Tour,1994 Fall,Golgi Apparatus,Golgi,1,"Stabler Arena, Lehigh University",Bethlehem,PA,USA,
 1994-10-07,1994,0,10,1,2,0,0,1,1994 Fall Tour,1994 Fall,Maze,,1,"Stabler Arena, Lehigh University",Bethlehem,PA,USA,","
 1994-10-07,1994,0,11,2,2,0,0,1,1994 Fall Tour,1994 Fall,The Horse,Horse,1,"Stabler Arena, Lehigh University",Bethlehem,PA,USA,>
@@ -2004,7 +2004,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-10-26,1994,0,2,2,1,0,0,6,1994 Fall Tour,1994 Fall,It's Ice,,1,"Varsity Gym, Appalachian State University",Boone,NC,USA,>
 1994-10-26,1994,0,3,2,1,0,0,19,1994 Fall Tour,1994 Fall,NICU,,1,"Varsity Gym, Appalachian State University",Boone,NC,USA,>
 1994-10-26,1994,0,4,1,1,0,0,4,1994 Fall Tour,1994 Fall,Run Like an Antelope,Antelope,1,"Varsity Gym, Appalachian State University",Boone,NC,USA,","
-1994-10-26,1994,0,5,1,1,0,0,4,1994 Fall Tour,1994 Fall,Guyute,,1,"Varsity Gym, Appalachian State University",Boone,NC,USA,","
+1994-10-26,1994,0,5,1,1,0,0,5,1994 Fall Tour,1994 Fall,Guyute,,1,"Varsity Gym, Appalachian State University",Boone,NC,USA,","
 1994-10-26,1994,0,6,1,1,0,0,3,1994 Fall Tour,1994 Fall,Dog Faced Boy,,1,"Varsity Gym, Appalachian State University",Boone,NC,USA,","
 1994-10-26,1994,0,7,1,1,0,0,3,1994 Fall Tour,1994 Fall,Scent of a Mule,SOAMule,1,"Varsity Gym, Appalachian State University",Boone,NC,USA,","
 1994-10-26,1994,0,8,2,1,0,0,44,1994 Fall Tour,1994 Fall,The Oh Kee Pa Ceremony,Oh Kee Pa,1,"Varsity Gym, Appalachian State University",Boone,NC,USA,>

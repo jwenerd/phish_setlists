@@ -201,7 +201,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2024-07-23,2024,0,3,1,1,0,0,5,2024 Summer Tour,2024 Summer,Golden Age,,0,Mohegan Sun Arena,Uncasville,CT,USA,","
 2024-07-23,2024,0,4,1,1,0,0,10,2024 Summer Tour,2024 Summer,Gumbo,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
 2024-07-23,2024,0,5,1,1,0,0,15,2024 Summer Tour,2024 Summer,Funky Bitch,,0,Mohegan Sun Arena,Uncasville,CT,USA,","
-2024-07-23,2024,0,6,1,1,0,0,31,2024 Summer Tour,2024 Summer,Guyute,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
+2024-07-23,2024,0,6,1,1,0,0,32,2024 Summer Tour,2024 Summer,Guyute,,1,Mohegan Sun Arena,Uncasville,CT,USA,","
 2024-07-23,2024,0,7,1,1,0,0,13,2024 Summer Tour,2024 Summer,Undermind,,0,Mohegan Sun Arena,Uncasville,CT,USA,","
 2024-07-23,2024,0,8,1,1,0,0,4,2024 Summer Tour,2024 Summer,Evolve,,0,Mohegan Sun Arena,Uncasville,CT,USA,","
 2024-07-23,2024,0,9,2,1,0,0,38,2024 Summer Tour,2024 Summer,Waste,,1,Mohegan Sun Arena,Uncasville,CT,USA,>
@@ -238,7 +238,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2024-07-26,2024,0,2,1,1,0,0,8,2024 Summer Tour,2024 Summer,The Moma Dance,Moma,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2024-07-26,2024,0,3,1,1,0,0,15,2024 Summer Tour,2024 Summer,The Well,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2024-07-26,2024,0,4,3,1,0,0,9,2024 Summer Tour,2024 Summer,"My Friend, My Friend",My Friend,1,Alpine Valley Music Theatre,East Troy,WI,USA,->
-2024-07-26,2024,0,5,1,1,0,0,37,2024 Summer Tour,2024 Summer,Brian and Robert,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+2024-07-26,2024,0,5,1,1,0,0,38,2024 Summer Tour,2024 Summer,Brian and Robert,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2024-07-26,2024,0,6,1,1,0,0,14,2024 Summer Tour,2024 Summer,Llama,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
 2024-07-26,2024,0,7,2,1,0,0,24,2024 Summer Tour,2024 Summer,Cities,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
 2024-07-26,2024,0,8,1,1,0,0,23,2024 Summer Tour,2024 Summer,Ya Mar,,0,Alpine Valley Music Theatre,East Troy,WI,USA,","
@@ -418,7 +418,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2024-08-07,2024,0,13,2,2,0,0,7,2024 Summer Tour,2024 Summer,Prince Caspian,Caspian,1,Van Andel Arena,Grand Rapids,MI,USA,>
 2024-08-07,2024,0,14,2,2,0,0,7,2024 Summer Tour,2024 Summer,Light,,0,Van Andel Arena,Grand Rapids,MI,USA,>
 2024-08-07,2024,0,15,1,2,0,0,23,2024 Summer Tour,2024 Summer,Loving Cup,,0,Van Andel Arena,Grand Rapids,MI,USA,","
-2024-08-07,2024,0,16,2,2,0,0,2021,2024 Summer Tour,2024 Summer,What's Going Through Your Mind,WGTYM,0,Van Andel Arena,Grand Rapids,MI,USA,>
+2024-08-07,2024,0,16,2,2,0,0,2022,2024 Summer Tour,2024 Summer,What's Going Through Your Mind,WGTYM,0,Van Andel Arena,Grand Rapids,MI,USA,>
 2024-08-07,2024,0,17,2,2,0,0,7,2024 Summer Tour,2024 Summer,Wolfman's Brother,Wolfman's,1,Van Andel Arena,Grand Rapids,MI,USA,>
 2024-08-07,2024,0,18,1,2,0,0,82,2024 Summer Tour,2024 Summer,Death Don't Hurt Very Long,DDHVL,1,Van Andel Arena,Grand Rapids,MI,USA,","
 2024-08-07,2024,0,19,1,2,0,0,6,2024 Summer Tour,2024 Summer,Evolve,,0,Van Andel Arena,Grand Rapids,MI,USA,","
@@ -460,7 +460,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2024-08-10,2024,0,11,4,1,0,0,4,2024 Summer Tour,2024 Summer,Run Like an Antelope,Antelope,1,Bethel Woods Center for the Arts,Bethel,NY,USA,
 2024-08-10,2024,0,12,2,2,0,0,14,2024 Summer Tour,2024 Summer,Wilson,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2024-08-10,2024,0,13,3,2,0,0,6,2024 Summer Tour,2024 Summer,Down with Disease,DwD,1,Bethel Woods Center for the Arts,Bethel,NY,USA,->
-2024-08-10,2024,0,14,2,2,0,0,30,2024 Summer Tour,2024 Summer,Waves,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
+2024-08-10,2024,0,14,2,2,0,0,31,2024 Summer Tour,2024 Summer,Waves,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2024-08-10,2024,0,15,2,2,0,0,7,2024 Summer Tour,2024 Summer,Twist,,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2024-08-10,2024,0,16,2,2,0,0,6,2024 Summer Tour,2024 Summer,Kill Devil Falls,KDF,1,Bethel Woods Center for the Arts,Bethel,NY,USA,>
 2024-08-10,2024,0,17,3,2,0,0,16,2024 Summer Tour,2024 Summer,Beneath a Sea of Stars Part 1,,0,Bethel Woods Center for the Arts,Bethel,NY,USA,->

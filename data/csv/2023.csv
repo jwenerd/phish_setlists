@@ -277,7 +277,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-07-16,2023,0,4,1,1,0,0,9,2023 Summer Tour,2023 Summer,Bathtub Gin,Gin,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
 2023-07-16,2023,0,5,1,1,0,0,29,2023 Summer Tour,2023 Summer,Gumbo,,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
 2023-07-16,2023,0,6,2,1,0,0,39,2023 Summer Tour,2023 Summer,Limb By Limb,LxL,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
-2023-07-16,2023,0,7,1,1,0,0,1966,2023 Summer Tour,2023 Summer,The Well,,0,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2023-07-16,2023,0,7,1,1,0,0,1967,2023 Summer Tour,2023 Summer,The Well,,0,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
 2023-07-16,2023,0,8,1,1,0,0,9,2023 Summer Tour,2023 Summer,Mountains in the Mist,Mist,0,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
 2023-07-16,2023,0,9,1,1,0,0,10,2023 Summer Tour,2023 Summer,Halfway to the Moon,,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
 2023-07-16,2023,0,10,4,1,0,0,6,2023 Summer Tour,2023 Summer,Split Open and Melt,SOAMelt,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,
@@ -358,7 +358,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-07-22,2023,0,14,3,2,0,0,18,2023 Summer Tour,2023 Summer,Soul Planet,,0,The Pavilion at Star Lake,Burgettstown,PA,USA,->
 2023-07-22,2023,0,15,2,2,0,0,8,2023 Summer Tour,2023 Summer,Twist,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,>
 2023-07-22,2023,0,16,1,2,0,0,18,2023 Summer Tour,2023 Summer,Most Events Aren't Planned,,0,The Pavilion at Star Lake,Burgettstown,PA,USA,","
-2023-07-22,2023,0,17,1,2,0,0,1970,2023 Summer Tour,2023 Summer,Monsters,,0,The Pavilion at Star Lake,Burgettstown,PA,USA,","
+2023-07-22,2023,0,17,1,2,0,0,1971,2023 Summer Tour,2023 Summer,Monsters,,0,The Pavilion at Star Lake,Burgettstown,PA,USA,","
 2023-07-22,2023,0,18,2,2,0,0,8,2023 Summer Tour,2023 Summer,Also Sprach Zarathustra,2001,0,The Pavilion at Star Lake,Burgettstown,PA,USA,>
 2023-07-22,2023,0,19,5,2,0,0,14,2023 Summer Tour,2023 Summer,Rock and Roll,R&amp;R,0,The Pavilion at Star Lake,Burgettstown,PA,USA,
 2023-07-22,2023,0,20,1,e,0,0,51,2023 Summer Tour,2023 Summer,Grind,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,","
@@ -466,7 +466,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-07-30,2023,0,6,2,1,0,0,6,2023 Summer Tour,2023 Summer,Tube,,1,Madison Square Garden,New York,NY,USA,>
 2023-07-30,2023,0,7,4,1,0,0,3,2023 Summer Tour,2023 Summer,Golgi Apparatus,Golgi,1,Madison Square Garden,New York,NY,USA,
 2023-07-30,2023,0,8,1,2,0,0,7,2023 Summer Tour,2023 Summer,Sigma Oasis,,0,Madison Square Garden,New York,NY,USA,","
-2023-07-30,2023,0,9,2,2,0,0,1976,2023 Summer Tour,2023 Summer,Life Saving Gun,,1,Madison Square Garden,New York,NY,USA,>
+2023-07-30,2023,0,9,2,2,0,0,1977,2023 Summer Tour,2023 Summer,Life Saving Gun,,1,Madison Square Garden,New York,NY,USA,>
 2023-07-30,2023,0,10,2,2,0,0,4,2023 Summer Tour,2023 Summer,No Men In No Man's Land,NMINML,1,Madison Square Garden,New York,NY,USA,>
 2023-07-30,2023,0,11,2,2,0,0,14,2023 Summer Tour,2023 Summer,Lonely Trip,,0,Madison Square Garden,New York,NY,USA,>
 2023-07-30,2023,0,12,2,2,0,0,73,2023 Summer Tour,2023 Summer,Frankie Says,,1,Madison Square Garden,New York,NY,USA,>
@@ -872,7 +872,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-12-31,2023,0,8,4,1,0,0,5,2023 NYE Run,2023 NYE,Character Zero,,1,Madison Square Garden,New York,NY,USA,
 2023-12-31,2023,0,9,1,2,0,0,7,2023 NYE Run,2023 NYE,Down with Disease,DwD,1,Madison Square Garden,New York,NY,USA,","
 2023-12-31,2023,0,10,2,2,0,0,96,2023 NYE Run,2023 NYE,Harpua,,1,Madison Square Garden,New York,NY,USA,>
-2023-12-31,2023,0,11,2,2,0,0,88,2023 NYE Run,2023 NYE,The Man Who Stepped Into Yesterday,TMWSIY,1,Madison Square Garden,New York,NY,USA,>
+2023-12-31,2023,0,11,2,2,0,0,89,2023 NYE Run,2023 NYE,The Man Who Stepped Into Yesterday,TMWSIY,1,Madison Square Garden,New York,NY,USA,>
 2023-12-31,2023,0,12,2,2,0,0,19,2023 NYE Run,2023 NYE,The Lizards,Lizards,1,Madison Square Garden,New York,NY,USA,>
 2023-12-31,2023,0,13,2,2,0,0,17,2023 NYE Run,2023 NYE,Punch You in the Eye,PYITE,1,Madison Square Garden,New York,NY,USA,>
 2023-12-31,2023,0,14,2,2,0,0,9,2023 NYE Run,2023 NYE,AC/DC Bag,Bag,1,Madison Square Garden,New York,NY,USA,>

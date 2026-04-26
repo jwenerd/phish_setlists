@@ -453,7 +453,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1988-07-07,1988,0,12,6,2,0,0,4,1988 Tour,1988,Good Times Bad Times,GTBT,0,The Front,Burlington,VT,USA,
 1988-07-11,1988,0,1,1,1,0,0,7,1988 Tour,1988,Satin Doll,,0,Sam's Tavern,Burlington,VT,USA,","
 1988-07-11,1988,0,2,1,1,0,0,2,1988 Tour,1988,Suzy Greenberg,Suzy,1,Sam's Tavern,Burlington,VT,USA,","
-1988-07-11,1988,0,3,1,1,0,0,8,1988 Tour,1988,The Curtain With,Curtain With,1,Sam's Tavern,Burlington,VT,USA,","
+1988-07-11,1988,0,3,1,1,0,0,9,1988 Tour,1988,The Curtain With,Curtain With,1,Sam's Tavern,Burlington,VT,USA,","
 1988-07-11,1988,0,4,1,1,0,0,8,1988 Tour,1988,Funky Bitch,,0,Sam's Tavern,Burlington,VT,USA,","
 1988-07-11,1988,0,5,1,1,0,0,6,1988 Tour,1988,Fire,,0,Sam's Tavern,Burlington,VT,USA,","
 1988-07-11,1988,0,6,1,1,0,0,2,1988 Tour,1988,Bold As Love,,0,Sam's Tavern,Burlington,VT,USA,","
@@ -465,8 +465,8 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1988-07-11,1988,0,12,5,1,0,0,0,1988 Tour,1988,Alumni Blues,Alumni,1,Sam's Tavern,Burlington,VT,USA,
 1988-07-11,1988,0,13,2,e,0,0,8,1988 Tour,1988,McGrupp and the Watchful Hosemasters,McGrupp,1,Sam's Tavern,Burlington,VT,USA,>
 1988-07-11,1988,0,14,6,e,0,0,2,1988 Tour,1988,La Grange,,0,Sam's Tavern,Burlington,VT,USA,
-1988-07-12,1988,0,1,1,1,2,0,9,1988 Tour,1988,Cities,,0,Sam's Tavern,Burlington,VT,USA,","
-1988-07-12,1988,0,2,1,1,2,0,7,1988 Tour,1988,The Lizards,Lizards,1,Sam's Tavern,Burlington,VT,USA,","
+1988-07-12,1988,0,1,1,1,2,0,10,1988 Tour,1988,Cities,,0,Sam's Tavern,Burlington,VT,USA,","
+1988-07-12,1988,0,2,1,1,2,0,8,1988 Tour,1988,The Lizards,Lizards,1,Sam's Tavern,Burlington,VT,USA,","
 1988-07-12,1988,0,3,1,1,2,0,5,1988 Tour,1988,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,Sam's Tavern,Burlington,VT,USA,","
 1988-07-12,1988,0,4,1,1,2,0,3,1988 Tour,1988,Good Times Bad Times,GTBT,0,Sam's Tavern,Burlington,VT,USA,","
 1988-07-12,1988,0,5,2,1,2,0,17,1988 Tour,1988,Happy Birthday to You,Happy Birthday,0,Sam's Tavern,Burlington,VT,USA,>
@@ -475,11 +475,11 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1988-07-12,1988,0,8,4,1,2,0,3,1988 Tour,1988,I Didn't Know,IDK,1,Sam's Tavern,Burlington,VT,USA,
 1988-07-12,1988,0,9,1,2,2,0,149,1988 Tour,1988,Blue Bossa,,0,Sam's Tavern,Burlington,VT,USA,","
 1988-07-12,1988,0,10,2,2,2,0,8,1988 Tour,1988,Take the 'A' Train,'A' Train,0,Sam's Tavern,Burlington,VT,USA,>
-1988-07-12,1988,0,11,1,2,2,0,11,1988 Tour,1988,Timber (Jerry the Mule),Timber Ho,0,Sam's Tavern,Burlington,VT,USA,","
+1988-07-12,1988,0,11,1,2,2,0,12,1988 Tour,1988,Timber (Jerry the Mule),Timber Ho,0,Sam's Tavern,Burlington,VT,USA,","
 1988-07-12,1988,0,12,2,2,2,0,5,1988 Tour,1988,Fluffhead,,1,Sam's Tavern,Burlington,VT,USA,>
 1988-07-12,1988,0,13,1,2,2,0,7,1988 Tour,1988,Jesus Just Left Chicago,JJLC,0,Sam's Tavern,Burlington,VT,USA,","
 1988-07-12,1988,0,14,1,2,2,0,43,1988 Tour,1988,Makisupa Policeman,Makisupa,1,Sam's Tavern,Burlington,VT,USA,","
-1988-07-12,1988,0,15,1,2,2,0,8,1988 Tour,1988,Slave to the Traffic Light,Slave,1,Sam's Tavern,Burlington,VT,USA,","
+1988-07-12,1988,0,15,1,2,2,0,9,1988 Tour,1988,Slave to the Traffic Light,Slave,1,Sam's Tavern,Burlington,VT,USA,","
 1988-07-12,1988,0,16,2,2,2,0,3,1988 Tour,1988,AC/DC Bag,Bag,1,Sam's Tavern,Burlington,VT,USA,>
 1988-07-12,1988,0,17,6,2,2,0,103,1988 Tour,1988,Roll Like a Cantaloupe,,1,Sam's Tavern,Burlington,VT,USA,
 1988-07-23,1988,0,1,1,1,2,0,9,1988 Tour,1988,Jam,,0,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
@@ -491,7 +491,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1988-07-23,1988,0,7,1,1,2,0,1,1988 Tour,1988,The Lizards,Lizards,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
 1988-07-23,1988,0,8,1,1,2,0,6,1988 Tour,1988,On Your Way Down,,0,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
 1988-07-23,1988,0,9,2,1,2,0,1,1988 Tour,1988,AC/DC Bag,Bag,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,>
-1988-07-23,1988,0,10,1,1,2,0,9,1988 Tour,1988,Possum,,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
+1988-07-23,1988,0,10,1,1,2,0,10,1988 Tour,1988,Possum,,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
 1988-07-23,1988,0,11,1,1,2,0,149,1988 Tour,1988,Walk Away,,0,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
 1988-07-23,1988,0,12,1,1,2,0,2,1988 Tour,1988,Bold As Love,,0,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
 1988-07-23,1988,0,13,1,1,2,0,152,1988 Tour,1988,No Dogs Allowed,,1,Pete's Phabulous Phish Phest,Underhill,VT,USA,","
@@ -561,7 +561,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1988-07-28,1988,0,4,1,2,0,0,4,1988 Tour,1988,Take the 'A' Train,'A' Train,0,The Roma,Telluride,CO,USA,","
 1988-07-28,1988,0,5,2,2,0,0,13,1988 Tour,1988,Corinna,,0,The Roma,Telluride,CO,USA,>
 1988-07-28,1988,0,6,1,2,0,0,2,1988 Tour,1988,David Bowie,Bowie,1,The Roma,Telluride,CO,USA,","
-1988-07-28,1988,0,7,1,2,0,0,9,1988 Tour,1988,Fee,,1,The Roma,Telluride,CO,USA,","
+1988-07-28,1988,0,7,1,2,0,0,10,1988 Tour,1988,Fee,,1,The Roma,Telluride,CO,USA,","
 1988-07-28,1988,0,8,6,2,0,0,1,1988 Tour,1988,Big Black Furry Creature from Mars,BBFCFM,1,The Roma,Telluride,CO,USA,
 1988-07-29,1988,0,1,1,1,0,0,4,1988 Tour,1988,You Enjoy Myself,YEM,1,The Roma,Telluride,CO,USA,","
 1988-07-29,1988,0,2,1,1,0,0,4,1988 Tour,1988,Satin Doll,,0,The Roma,Telluride,CO,USA,","
@@ -648,7 +648,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1988-08-04,1988,0,13,1,1,2,0,1,1988 Tour,1988,Peaches en Regalia,Peaches,0,The Roma,Telluride,CO,USA,","
 1988-08-04,1988,0,14,4,1,2,0,4,1988 Tour,1988,David Bowie,Bowie,1,The Roma,Telluride,CO,USA,
 1988-08-04,1988,0,15,1,2,2,0,5,1988 Tour,1988,Camel Walk,,1,The Roma,Telluride,CO,USA,","
-1988-08-04,1988,0,16,2,2,2,0,15,1988 Tour,1988,The Curtain,Curtain,1,The Roma,Telluride,CO,USA,>
+1988-08-04,1988,0,16,2,2,2,0,16,1988 Tour,1988,The Curtain,Curtain,1,The Roma,Telluride,CO,USA,>
 1988-08-04,1988,0,17,1,2,2,0,7,1988 Tour,1988,Wilson,,1,The Roma,Telluride,CO,USA,","
 1988-08-04,1988,0,18,1,2,2,0,7,1988 Tour,1988,No Dogs Allowed,,1,The Roma,Telluride,CO,USA,","
 1988-08-04,1988,0,19,1,2,2,0,74,1988 Tour,1988,Dog Log,,1,The Roma,Telluride,CO,USA,","
@@ -761,7 +761,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1988-09-12,1988,0,11,1,2,0,0,18,1988 Tour,1988,Camel Walk,,1,Sam's Tavern,Burlington,VT,USA,","
 1988-09-12,1988,0,12,1,2,0,0,175,1988 Tour,1988,The Practical Song,,1,Sam's Tavern,Burlington,VT,USA,","
 1988-09-12,1988,0,13,1,2,0,0,12,1988 Tour,1988,Harry Hood,Hood,1,Sam's Tavern,Burlington,VT,USA,","
-1988-09-12,1988,0,14,6,2,0,0,173,1988 Tour,1988,Esther,,1,Sam's Tavern,Burlington,VT,USA,
+1988-09-12,1988,0,14,6,2,0,0,174,1988 Tour,1988,Esther,,1,Sam's Tavern,Burlington,VT,USA,
 1988-09-13,1988,0,1,1,1,0,0,4,1988 Tour,1988,Walk Away,,0,Sam's Tavern,Burlington,VT,USA,","
 1988-09-13,1988,0,2,1,1,0,0,7,1988 Tour,1988,Funky Bitch,,0,Sam's Tavern,Burlington,VT,USA,","
 1988-09-13,1988,0,3,1,1,0,0,4,1988 Tour,1988,You Enjoy Myself,YEM,1,Sam's Tavern,Burlington,VT,USA,","
@@ -825,7 +825,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1988-10-29,1988,0,7,1,1,0,0,2,1988 Tour,1988,Contact,,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
 1988-10-29,1988,0,8,3,1,0,0,181,1988 Tour,1988,Costume Contest,,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,->
 1988-10-29,1988,0,9,4,1,0,0,6,1988 Tour,1988,Harry Hood,Hood,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,
-1988-10-29,1988,0,10,3,2,0,0,40,1988 Tour,1988,Halley's Comet,Halley's,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,->
+1988-10-29,1988,0,10,3,2,0,0,41,1988 Tour,1988,Halley's Comet,Halley's,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,->
 1988-10-29,1988,0,11,1,2,0,0,2,1988 Tour,1988,Whipping Post,,0,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
 1988-10-29,1988,0,12,2,2,0,0,2,1988 Tour,1988,Fee,,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
 1988-10-29,1988,0,13,2,2,0,0,2,1988 Tour,1988,Alumni Blues,Alumni,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,>

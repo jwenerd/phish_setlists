@@ -18,7 +18,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1992-03-06,1992,0,5,2,1,2,0,18,1992 Spring Tour,1992 Spring,The Oh Kee Pa Ceremony,Oh Kee Pa,1,The Music Hall,Portsmouth,NH,USA,>
 1992-03-06,1992,0,6,1,1,2,0,1,1992 Spring Tour,1992 Spring,Divided Sky,Divided,1,The Music Hall,Portsmouth,NH,USA,","
 1992-03-06,1992,0,7,1,1,2,0,1,1992 Spring Tour,1992 Spring,Guelah Papyrus,Guelah,1,The Music Hall,Portsmouth,NH,USA,","
-1992-03-06,1992,0,8,1,1,2,0,589,1992 Spring Tour,1992 Spring,Maze,,1,The Music Hall,Portsmouth,NH,USA,","
+1992-03-06,1992,0,8,1,1,2,0,590,1992 Spring Tour,1992 Spring,Maze,,1,The Music Hall,Portsmouth,NH,USA,","
 1992-03-06,1992,0,9,1,1,2,0,1,1992 Spring Tour,1992 Spring,Reba,,1,The Music Hall,Portsmouth,NH,USA,","
 1992-03-06,1992,0,10,1,1,2,0,50,1992 Spring Tour,1992 Spring,All Things Reconsidered,ATR,1,The Music Hall,Portsmouth,NH,USA,","
 1992-03-06,1992,0,11,4,1,2,0,5,1992 Spring Tour,1992 Spring,David Bowie,Bowie,1,The Music Hall,Portsmouth,NH,USA,
@@ -2395,12 +2395,12 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1992-12-13,1992,0,27,5,2,0,0,1,1992 Fall Tour,1992 Fall,Cavern,,1,Le Spectrum,"Montréal, Québec",,Canada,
 1992-12-13,1992,0,28,1,e,0,0,3,1992 Fall Tour,1992 Fall,Sweet Adeline,,0,Le Spectrum,"Montréal, Québec",,Canada,","
 1992-12-13,1992,0,29,6,e,0,0,8,1992 Fall Tour,1992 Fall,Rocky Top,,0,Le Spectrum,"Montréal, Québec",,Canada,
-1992-12-28,1992,0,1,1,1,0,0,1,1992 NYE Run,1992 NYE,Maze,,1,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,1,1,1,0,0,2,1992 NYE Run,1992 NYE,Maze,,1,Palace Theatre,New Haven,CT,USA,","
 1992-12-28,1992,0,2,1,1,0,0,1,1992 NYE Run,1992 NYE,Sparkle,,1,Palace Theatre,New Haven,CT,USA,","
 1992-12-28,1992,0,3,1,1,0,0,2,1992 NYE Run,1992 NYE,Foam,,1,Palace Theatre,New Haven,CT,USA,","
 1992-12-28,1992,0,4,2,1,0,0,1,1992 NYE Run,1992 NYE,Buried Alive,,1,Palace Theatre,New Haven,CT,USA,>
 1992-12-28,1992,0,5,2,1,0,0,1,1992 NYE Run,1992 NYE,Glide,,1,Palace Theatre,New Haven,CT,USA,>
-1992-12-28,1992,0,6,2,1,0,0,0,1992 NYE Run,1992 NYE,It's Ice,,1,Palace Theatre,New Haven,CT,USA,>
+1992-12-28,1992,0,6,2,1,0,0,1,1992 NYE Run,1992 NYE,It's Ice,,1,Palace Theatre,New Haven,CT,USA,>
 1992-12-28,1992,0,7,2,1,0,0,1,1992 NYE Run,1992 NYE,Bouncing Around the Room,Bouncin',1,Palace Theatre,New Haven,CT,USA,>
 1992-12-28,1992,0,8,1,1,0,0,1,1992 NYE Run,1992 NYE,Rift,,1,Palace Theatre,New Haven,CT,USA,","
 1992-12-28,1992,0,9,1,1,0,0,2,1992 NYE Run,1992 NYE,Golgi Apparatus,Golgi,1,Palace Theatre,New Haven,CT,USA,","

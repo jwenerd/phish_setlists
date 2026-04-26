@@ -15,7 +15,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2009-03-06,2009,0,14,1,1,0,0,12,2009 Hampton Reunion Run,2009 March,Water in the Sky,,1,Hampton Coliseum,Hampton,VA,USA,","
 2009-03-06,2009,0,15,2,1,0,0,9,2009 Hampton Reunion Run,2009 March,The Squirming Coil,Coil,1,Hampton Coliseum,Hampton,VA,USA,>
 2009-03-06,2009,0,16,4,1,0,0,2,2009 Hampton Reunion Run,2009 March,David Bowie,Bowie,1,Hampton Coliseum,Hampton,VA,USA,
-2009-03-06,2009,0,17,2,2,0,0,1424,2009 Hampton Reunion Run,2009 March,Backwards Down the Number Line,BDTNL,0,Hampton Coliseum,Hampton,VA,USA,>
+2009-03-06,2009,0,17,2,2,0,0,1425,2009 Hampton Reunion Run,2009 March,Backwards Down the Number Line,BDTNL,0,Hampton Coliseum,Hampton,VA,USA,>
 2009-03-06,2009,0,18,3,2,0,0,4,2009 Hampton Reunion Run,2009 March,Tweezer,,1,Hampton Coliseum,Hampton,VA,USA,->
 2009-03-06,2009,0,19,1,2,0,0,1,2009 Hampton Reunion Run,2009 March,Taste,,1,Hampton Coliseum,Hampton,VA,USA,","
 2009-03-06,2009,0,20,1,2,0,0,1,2009 Hampton Reunion Run,2009 March,Possum,,1,Hampton Coliseum,Hampton,VA,USA,","
@@ -911,7 +911,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2009-11-27,2009,0,11,2,1,0,0,6,2009 Fall Tour,2009 Fall,Cavern,,1,Times Union Center,Albany,NY,USA,>
 2009-11-27,2009,0,12,4,1,0,0,5,2009 Fall Tour,2009 Fall,Light,,0,Times Union Center,Albany,NY,USA,
 2009-11-27,2009,0,13,2,2,0,0,13,2009 Fall Tour,2009 Fall,"My Friend, My Friend",My Friend,1,Times Union Center,Albany,NY,USA,>
-2009-11-27,2009,0,14,1,2,0,0,1463,2009 Fall Tour,2009 Fall,Golden Age,,0,Times Union Center,Albany,NY,USA,","
+2009-11-27,2009,0,14,1,2,0,0,1464,2009 Fall Tour,2009 Fall,Golden Age,,0,Times Union Center,Albany,NY,USA,","
 2009-11-27,2009,0,15,1,2,0,0,69,2009 Fall Tour,2009 Fall,On Your Way Down,,0,Times Union Center,Albany,NY,USA,","
 2009-11-27,2009,0,16,2,2,0,0,5,2009 Fall Tour,2009 Fall,Fluffhead,,1,Times Union Center,Albany,NY,USA,>
 2009-11-27,2009,0,17,3,2,0,0,3,2009 Fall Tour,2009 Fall,Piper,,1,Times Union Center,Albany,NY,USA,->

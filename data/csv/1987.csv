@@ -128,7 +128,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1987-05-11,1987,0,5,1,1,0,0,7,1987 Tour,1987,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,Nectar's,Burlington,VT,USA,","
 1987-05-11,1987,0,6,1,1,0,0,8,1987 Tour,1987,Clod,,1,Nectar's,Burlington,VT,USA,","
 1987-05-11,1987,0,7,2,1,0,0,2,1987 Tour,1987,Peaches en Regalia,Peaches,0,Nectar's,Burlington,VT,USA,>
-1987-05-11,1987,0,8,2,1,0,0,69,1987 Tour,1987,The Man Who Stepped Into Yesterday,TMWSIY,1,Nectar's,Burlington,VT,USA,>
+1987-05-11,1987,0,8,2,1,0,0,67,1987 Tour,1987,The Man Who Stepped Into Yesterday,TMWSIY,1,Nectar's,Burlington,VT,USA,>
 1987-05-11,1987,0,9,2,1,0,0,69,1987 Tour,1987,Avenu Malkenu,,0,Nectar's,Burlington,VT,USA,>
 1987-05-11,1987,0,10,1,1,0,0,0,1987 Tour,1987,The Man Who Stepped Into Yesterday,TMWSIY,1,Nectar's,Burlington,VT,USA,","
 1987-05-11,1987,0,11,1,1,0,0,2,1987 Tour,1987,Makisupa Policeman,Makisupa,1,Nectar's,Burlington,VT,USA,","
@@ -353,7 +353,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1987-10-31,1987,0,9,1,1,0,0,5,1987 Tour,1987,Possum,,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,","
 1987-10-31,1987,0,10,2,1,0,0,5,1987 Tour,1987,You Enjoy Myself,YEM,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
 1987-10-31,1987,0,11,4,1,0,0,9,1987 Tour,1987,Big Black Furry Creature from Mars,BBFCFM,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,
-1987-10-31,1987,0,12,2,2,0,0,9,1987 Tour,1987,The Man Who Stepped Into Yesterday,TMWSIY,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
+1987-10-31,1987,0,12,2,2,0,0,8,1987 Tour,1987,The Man Who Stepped Into Yesterday,TMWSIY,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
 1987-10-31,1987,0,13,2,2,0,0,9,1987 Tour,1987,Avenu Malkenu,,0,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
 1987-10-31,1987,0,14,2,2,0,0,0,1987 Tour,1987,The Man Who Stepped Into Yesterday,TMWSIY,1,"Sculpture Room, Goddard College",Plainfield,VT,USA,>
 1987-10-31,1987,0,15,1,2,0,0,5,1987 Tour,1987,Peaches en Regalia,Peaches,0,"Sculpture Room, Goddard College",Plainfield,VT,USA,","

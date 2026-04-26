@@ -13,7 +13,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1997-02-13,1997,0,12,4,1,0,0,3,1997 Winter European Tour,1997 Winter,David Bowie,Bowie,1,Shepherd's Bush Empire,London,,England,
 1997-02-13,1997,0,13,1,2,0,0,1,1997 Winter European Tour,1997 Winter,Julius,,1,Shepherd's Bush Empire,London,,England,","
 1997-02-13,1997,0,14,2,2,0,0,1,1997 Winter European Tour,1997 Winter,Cars Trucks Buses,CTB,1,Shepherd's Bush Empire,London,,England,>
-1997-02-13,1997,0,15,2,2,0,0,1098,1997 Winter European Tour,1997 Winter,My Soul,,0,Shepherd's Bush Empire,London,,England,>
+1997-02-13,1997,0,15,2,2,0,0,1099,1997 Winter European Tour,1997 Winter,My Soul,,0,Shepherd's Bush Empire,London,,England,>
 1997-02-13,1997,0,16,2,2,0,0,1,1997 Winter European Tour,1997 Winter,Punch You in the Eye,PYITE,1,Shepherd's Bush Empire,London,,England,>
 1997-02-13,1997,0,17,2,2,0,0,20,1997 Winter European Tour,1997 Winter,Jam,,0,Shepherd's Bush Empire,London,,England,>
 1997-02-13,1997,0,18,2,2,0,0,2,1997 Winter European Tour,1997 Winter,Slave to the Traffic Light,Slave,1,Shepherd's Bush Empire,London,,England,>
@@ -384,10 +384,10 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1997-06-13,1997,0,9,1,2,0,0,4,1997 Summer European Tour,1997 Summer,Stash,,1,The S.F.X. Centre,Dublin,,Ireland,","
 1997-06-13,1997,0,10,1,2,0,0,2,1997 Summer European Tour,1997 Summer,Maze,,1,The S.F.X. Centre,Dublin,,Ireland,","
 1997-06-13,1997,0,11,1,2,0,0,1113,1997 Summer European Tour,1997 Summer,Water in the Sky,,1,The S.F.X. Centre,Dublin,,Ireland,","
-1997-06-13,1997,0,12,1,2,0,0,1113,1997 Summer European Tour,1997 Summer,Vultures,,1,The S.F.X. Centre,Dublin,,Ireland,","
+1997-06-13,1997,0,12,1,2,0,0,1114,1997 Summer European Tour,1997 Summer,Vultures,,1,The S.F.X. Centre,Dublin,,Ireland,","
 1997-06-13,1997,0,13,2,2,0,0,1,1997 Summer European Tour,1997 Summer,Slave to the Traffic Light,Slave,1,The S.F.X. Centre,Dublin,,Ireland,>
 1997-06-13,1997,0,14,3,2,0,0,1,1997 Summer European Tour,1997 Summer,Chalk Dust Torture,CDT,1,The S.F.X. Centre,Dublin,,Ireland,->
-1997-06-13,1997,0,15,3,2,0,0,1113,1997 Summer European Tour,1997 Summer,Ghost,,1,The S.F.X. Centre,Dublin,,Ireland,->
+1997-06-13,1997,0,15,3,2,0,0,1114,1997 Summer European Tour,1997 Summer,Ghost,,1,The S.F.X. Centre,Dublin,,Ireland,->
 1997-06-13,1997,0,16,2,2,0,0,1117,1997 Summer European Tour,1997 Summer,Olivia's Pool,,1,The S.F.X. Centre,Dublin,,Ireland,>
 1997-06-13,1997,0,17,5,2,0,0,1,1997 Summer European Tour,1997 Summer,Character Zero,,1,The S.F.X. Centre,Dublin,,Ireland,
 1997-06-13,1997,0,18,3,e,0,0,1111,1997 Summer European Tour,1997 Summer,Stand!,,0,The S.F.X. Centre,Dublin,,Ireland,->
@@ -403,7 +403,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1997-06-14,1997,0,9,1,1,0,0,7,1997 Summer European Tour,1997 Summer,Free,,1,The S.F.X. Centre,Dublin,,Ireland,","
 1997-06-14,1997,0,10,4,1,0,0,2,1997 Summer European Tour,1997 Summer,Prince Caspian,Caspian,1,The S.F.X. Centre,Dublin,,Ireland,
 1997-06-14,1997,0,11,1,2,0,0,1115,1997 Summer European Tour,1997 Summer,Twist,,1,The S.F.X. Centre,Dublin,,Ireland,","
-1997-06-14,1997,0,12,1,2,0,0,1114,1997 Summer European Tour,1997 Summer,Piper,,1,The S.F.X. Centre,Dublin,,Ireland,","
+1997-06-14,1997,0,12,1,2,0,0,1115,1997 Summer European Tour,1997 Summer,Piper,,1,The S.F.X. Centre,Dublin,,Ireland,","
 1997-06-14,1997,0,13,1,2,0,0,1114,1997 Summer European Tour,1997 Summer,Saw It Again,,1,The S.F.X. Centre,Dublin,,Ireland,","
 1997-06-14,1997,0,14,1,2,0,0,1112,1997 Summer European Tour,1997 Summer,Waking Up,,1,The S.F.X. Centre,Dublin,,Ireland,","
 1997-06-14,1997,0,15,1,2,0,0,1,1997 Summer European Tour,1997 Summer,Dogs Stole Things,,1,The S.F.X. Centre,Dublin,,Ireland,","
