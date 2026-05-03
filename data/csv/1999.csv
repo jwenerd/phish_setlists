@@ -18,7 +18,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1999-06-30,1999,0,2,1,1,0,0,4,1999 Summer U.S. Tour,1999 Summer,Farmhouse,,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
 1999-06-30,1999,0,3,1,1,0,0,4,1999 Summer U.S. Tour,1999 Summer,Tube,,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
 1999-06-30,1999,0,4,1,1,0,0,3,1999 Summer U.S. Tour,1999 Summer,Horn,,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
-1999-06-30,1999,0,5,1,1,0,0,1243,1999 Summer U.S. Tour,1999 Summer,Back on the Train,BOTT,0,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
+1999-06-30,1999,0,5,1,1,0,0,1244,1999 Summer U.S. Tour,1999 Summer,Back on the Train,BOTT,0,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
 1999-06-30,1999,0,6,1,1,0,0,2,1999 Summer U.S. Tour,1999 Summer,Maze,,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
 1999-06-30,1999,0,7,1,1,0,0,3,1999 Summer U.S. Tour,1999 Summer,Limb By Limb,LxL,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
 1999-06-30,1999,0,8,4,1,0,0,4,1999 Summer U.S. Tour,1999 Summer,Golgi Apparatus,Golgi,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,
@@ -62,7 +62,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1999-07-03,1999,0,12,2,2,0,0,45,1999 Summer U.S. Tour,1999 Summer,Twist,,1,Lakewood Amphitheatre,Atlanta,GA,USA,>
 1999-07-03,1999,0,13,1,2,0,0,2,1999 Summer U.S. Tour,1999 Summer,Piper,,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
 1999-07-03,1999,0,14,1,2,0,0,4,1999 Summer U.S. Tour,1999 Summer,The Moma Dance,Moma,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
-1999-07-03,1999,0,15,1,2,0,0,1245,1999 Summer U.S. Tour,1999 Summer,Mountains in the Mist,Mist,0,Lakewood Amphitheatre,Atlanta,GA,USA,","
+1999-07-03,1999,0,15,1,2,0,0,1246,1999 Summer U.S. Tour,1999 Summer,Mountains in the Mist,Mist,0,Lakewood Amphitheatre,Atlanta,GA,USA,","
 1999-07-03,1999,0,16,2,2,0,0,3,1999 Summer U.S. Tour,1999 Summer,Run Like an Antelope,Antelope,1,Lakewood Amphitheatre,Atlanta,GA,USA,>
 1999-07-03,1999,0,17,2,2,0,0,19,1999 Summer U.S. Tour,1999 Summer,Contact,,1,Lakewood Amphitheatre,Atlanta,GA,USA,>
 1999-07-03,1999,0,18,5,2,0,0,1195,1999 Summer U.S. Tour,1999 Summer,The Little Drummer Boy,,0,Lakewood Amphitheatre,Atlanta,GA,USA,
@@ -522,11 +522,11 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1999-09-11,1999,0,4,1,1,0,0,15,1999 Fall Tour,1999 Fall,Dogs Stole Things,,1,Gorge Amphitheatre,George,WA,USA,","
 1999-09-11,1999,0,5,1,1,0,0,5,1999 Fall Tour,1999 Fall,Punch You in the Eye,PYITE,1,Gorge Amphitheatre,George,WA,USA,","
 1999-09-11,1999,0,6,1,1,0,0,15,1999 Fall Tour,1999 Fall,Billy Breathes,,1,Gorge Amphitheatre,George,WA,USA,","
-1999-09-11,1999,0,7,1,1,0,0,1269,1999 Fall Tour,1999 Fall,Heavy Things,,1,Gorge Amphitheatre,George,WA,USA,","
+1999-09-11,1999,0,7,1,1,0,0,1270,1999 Fall Tour,1999 Fall,Heavy Things,,1,Gorge Amphitheatre,George,WA,USA,","
 1999-09-11,1999,0,8,2,1,0,0,2,1999 Fall Tour,1999 Fall,Guyute,,1,Gorge Amphitheatre,George,WA,USA,>
 1999-09-11,1999,0,9,4,1,0,0,4,1999 Fall Tour,1999 Fall,Free,,1,Gorge Amphitheatre,George,WA,USA,
 1999-09-11,1999,0,10,3,2,0,0,5,1999 Fall Tour,1999 Fall,Wolfman's Brother,Wolfman's,1,Gorge Amphitheatre,George,WA,USA,->
-1999-09-11,1999,0,11,1,2,0,0,1269,1999 Fall Tour,1999 Fall,Sand,,0,Gorge Amphitheatre,George,WA,USA,","
+1999-09-11,1999,0,11,1,2,0,0,1270,1999 Fall Tour,1999 Fall,Sand,,0,Gorge Amphitheatre,George,WA,USA,","
 1999-09-11,1999,0,12,3,2,0,0,10,1999 Fall Tour,1999 Fall,Meatstick,,1,Gorge Amphitheatre,George,WA,USA,->
 1999-09-11,1999,0,13,1,2,0,0,15,1999 Fall Tour,1999 Fall,Maze,,1,Gorge Amphitheatre,George,WA,USA,","
 1999-09-11,1999,0,14,2,2,0,0,4,1999 Fall Tour,1999 Fall,Prince Caspian,Caspian,1,Gorge Amphitheatre,George,WA,USA,>

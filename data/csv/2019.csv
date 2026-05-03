@@ -64,7 +64,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2019-06-11,2019,0,5,2,1,0,0,3,2019 Summer Tour,2019 Summer,Free,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
 2019-06-11,2019,0,6,1,1,0,0,11,2019 Summer Tour,2019 Summer,Theme from the Bottom,Theme,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
 2019-06-11,2019,0,7,1,1,0,0,2,2019 Summer Tour,2019 Summer,Tube,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,","
-2019-06-11,2019,0,8,4,1,0,0,1826,2019 Summer Tour,2019 Summer,Drift While You're Sleeping,,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,
+2019-06-11,2019,0,8,4,1,0,0,1827,2019 Summer Tour,2019 Summer,Drift While You're Sleeping,,0,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,
 2019-06-11,2019,0,9,2,2,0,0,2,2019 Summer Tour,2019 Summer,No Men In No Man's Land,NMINML,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
 2019-06-11,2019,0,10,2,2,0,0,3,2019 Summer Tour,2019 Summer,Bathtub Gin,Gin,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,>
 2019-06-11,2019,0,11,3,2,0,0,1,2019 Summer Tour,2019 Summer,Ghost,,1,"Chaifetz Arena, Saint Louis University",St. Louis,MO,USA,->
@@ -139,7 +139,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2019-06-18,2019,0,6,1,1,0,0,11,2019 Summer Tour,2019 Summer,The Wedge,Wedge,1,Budweiser Stage,"Toronto, Ontario",,Canada,","
 2019-06-18,2019,0,7,1,1,0,0,18,2019 Summer Tour,2019 Summer,Frost,,0,Budweiser Stage,"Toronto, Ontario",,Canada,","
 2019-06-18,2019,0,8,2,1,0,0,15,2019 Summer Tour,2019 Summer,Halley's Comet,Halley's,1,Budweiser Stage,"Toronto, Ontario",,Canada,>
-2019-06-18,2019,0,9,1,1,0,0,1830,2019 Summer Tour,2019 Summer,Ruby Waves,,0,Budweiser Stage,"Toronto, Ontario",,Canada,","
+2019-06-18,2019,0,9,1,1,0,0,1831,2019 Summer Tour,2019 Summer,Ruby Waves,,0,Budweiser Stage,"Toronto, Ontario",,Canada,","
 2019-06-18,2019,0,10,1,1,0,0,8,2019 Summer Tour,2019 Summer,Lawn Boy,,1,Budweiser Stage,"Toronto, Ontario",,Canada,","
 2019-06-18,2019,0,11,4,1,0,0,6,2019 Summer Tour,2019 Summer,You Enjoy Myself,YEM,1,Budweiser Stage,"Toronto, Ontario",,Canada,
 2019-06-18,2019,0,12,3,2,0,0,9,2019 Summer Tour,2019 Summer,Plasma,,0,Budweiser Stage,"Toronto, Ontario",,Canada,->
@@ -169,7 +169,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2019-06-19,2019,0,16,2,2,0,0,4,2019 Summer Tour,2019 Summer,Chalk Dust Torture,CDT,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
 2019-06-19,2019,0,17,5,2,0,0,5,2019 Summer Tour,2019 Summer,Slave to the Traffic Light,Slave,1,Blossom Music Center,Cuyahoga Falls,OH,USA,
 2019-06-19,2019,0,18,1,e,0,0,10,2019 Summer Tour,2019 Summer,Split Open and Melt,SOAMelt,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-2019-06-19,2019,0,19,6,e,0,0,1831,2019 Summer Tour,2019 Summer,A Life Beyond The Dream,,0,Blossom Music Center,Cuyahoga Falls,OH,USA,
+2019-06-19,2019,0,19,6,e,0,0,1832,2019 Summer Tour,2019 Summer,A Life Beyond The Dream,,0,Blossom Music Center,Cuyahoga Falls,OH,USA,
 2019-06-21,2019,0,1,1,1,0,0,63,2019 Summer Tour,2019 Summer,Have Mercy,,0,PNC Music Pavilion,Charlotte,NC,USA,","
 2019-06-21,2019,0,2,1,1,0,0,18,2019 Summer Tour,2019 Summer,Gotta Jibboo,Jibboo,0,PNC Music Pavilion,Charlotte,NC,USA,","
 2019-06-21,2019,0,3,2,1,0,0,3,2019 Summer Tour,2019 Summer,Free,,1,PNC Music Pavilion,Charlotte,NC,USA,>
@@ -645,7 +645,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2019-11-29,2019,0,28,6,e,0,0,2,2019 Fall Tour,2019 Fall,Bug,,0,Dunkin' Donuts Center,Providence,RI,USA,
 2019-11-30,2019,0,1,1,1,0,0,2,2019 Fall Tour,2019 Fall,Turtle in the Clouds,,1,Dunkin' Donuts Center,Providence,RI,USA,","
 2019-11-30,2019,0,2,1,1,0,0,14,2019 Fall Tour,2019 Fall,Punch You in the Eye,PYITE,1,Dunkin' Donuts Center,Providence,RI,USA,","
-2019-11-30,2019,0,3,1,1,0,0,11,2019 Fall Tour,2019 Fall,Llama,,1,Dunkin' Donuts Center,Providence,RI,USA,","
+2019-11-30,2019,0,3,1,1,0,0,12,2019 Fall Tour,2019 Fall,Llama,,1,Dunkin' Donuts Center,Providence,RI,USA,","
 2019-11-30,2019,0,4,1,1,0,0,13,2019 Fall Tour,2019 Fall,Meat,,1,Dunkin' Donuts Center,Providence,RI,USA,","
 2019-11-30,2019,0,5,1,1,0,0,16,2019 Fall Tour,2019 Fall,The Old Home Place,,0,Dunkin' Donuts Center,Providence,RI,USA,","
 2019-11-30,2019,0,6,1,1,0,0,7,2019 Fall Tour,2019 Fall,Lawn Boy,,1,Dunkin' Donuts Center,Providence,RI,USA,","
@@ -778,11 +778,11 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2019-12-07,2019,0,10,4,1,2,0,46,2019 Fall Tour,2019 Fall,Moonage Daydream,,0,North Charleston Coliseum,North Charleston,SC,USA,
 2019-12-07,2019,0,11,1,2,2,0,171,2019 Fall Tour,2019 Fall,The Connection,,1,North Charleston Coliseum,North Charleston,SC,USA,","
 2019-12-07,2019,0,12,2,2,2,0,19,2019 Fall Tour,2019 Fall,Mr. Completely,,0,North Charleston Coliseum,North Charleston,SC,USA,>
-2019-12-07,2019,0,13,2,2,2,0,24,2019 Fall Tour,2019 Fall,Crosseyed and Painless,C&amp;P,0,North Charleston Coliseum,North Charleston,SC,USA,>
+2019-12-07,2019,0,13,2,2,2,0,0,2019 Fall Tour,2019 Fall,Crosseyed and Painless,C&amp;P,0,North Charleston Coliseum,North Charleston,SC,USA,>
 2019-12-07,2019,0,14,1,2,2,0,17,2019 Fall Tour,2019 Fall,Dirt,,0,North Charleston Coliseum,North Charleston,SC,USA,","
 2019-12-07,2019,0,15,2,2,2,0,18,2019 Fall Tour,2019 Fall,Cool Amber and Mercury,,1,North Charleston Coliseum,North Charleston,SC,USA,>
 2019-12-07,2019,0,16,3,2,2,0,15,2019 Fall Tour,2019 Fall,Split Open and Melt,SOAMelt,1,North Charleston Coliseum,North Charleston,SC,USA,->
-2019-12-07,2019,0,17,3,2,2,0,0,2019 Fall Tour,2019 Fall,Crosseyed and Painless,C&amp;P,0,North Charleston Coliseum,North Charleston,SC,USA,->
+2019-12-07,2019,0,17,3,2,2,0,24,2019 Fall Tour,2019 Fall,Crosseyed and Painless,C&amp;P,0,North Charleston Coliseum,North Charleston,SC,USA,->
 2019-12-07,2019,0,18,1,2,2,0,0,2019 Fall Tour,2019 Fall,Split Open and Melt,SOAMelt,1,North Charleston Coliseum,North Charleston,SC,USA,","
 2019-12-07,2019,0,19,2,2,2,0,7,2019 Fall Tour,2019 Fall,A Life Beyond The Dream,,0,North Charleston Coliseum,North Charleston,SC,USA,>
 2019-12-07,2019,0,20,2,2,2,0,15,2019 Fall Tour,2019 Fall,Wilson,,1,North Charleston Coliseum,North Charleston,SC,USA,>

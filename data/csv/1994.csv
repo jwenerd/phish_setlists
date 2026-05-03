@@ -12,7 +12,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-04-04,1994,0,11,1,2,0,0,822,1994 Spring Tour,1994 Spring,If I Could,,1,The Flynn Theatre,Burlington,VT,USA,","
 1994-04-04,1994,0,12,1,2,0,0,7,1994 Spring Tour,1994 Spring,Buried Alive,,1,The Flynn Theatre,Burlington,VT,USA,","
 1994-04-04,1994,0,13,1,2,0,0,9,1994 Spring Tour,1994 Spring,The Landlady,Landlady,1,The Flynn Theatre,Burlington,VT,USA,","
-1994-04-04,1994,0,14,1,2,0,0,822,1994 Spring Tour,1994 Spring,Julius,,1,The Flynn Theatre,Burlington,VT,USA,","
+1994-04-04,1994,0,14,1,2,0,0,823,1994 Spring Tour,1994 Spring,Julius,,1,The Flynn Theatre,Burlington,VT,USA,","
 1994-04-04,1994,0,15,1,2,0,0,74,1994 Spring Tour,1994 Spring,Magilla,,1,The Flynn Theatre,Burlington,VT,USA,","
 1994-04-04,1994,0,16,1,2,0,0,1,1994 Spring Tour,1994 Spring,Split Open and Melt,SOAMelt,1,The Flynn Theatre,Burlington,VT,USA,","
 1994-04-04,1994,0,17,2,2,0,0,823,1994 Spring Tour,1994 Spring,Wolfman's Brother,Wolfman's,1,The Flynn Theatre,Burlington,VT,USA,>
@@ -1600,7 +1600,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-07-13,1994,0,19,3,2,0,0,0,1994 Summer Tour,1994 Summer,Tweezer,,1,Big Birch Concert Pavilion,Patterson,NY,USA,->
 1994-07-13,1994,0,20,3,2,0,0,3,1994 Summer Tour,1994 Summer,Big Black Furry Creature from Mars,BBFCFM,1,Big Birch Concert Pavilion,Patterson,NY,USA,->
 1994-07-13,1994,0,21,3,2,0,0,0,1994 Summer Tour,1994 Summer,Tweezer,,1,Big Birch Concert Pavilion,Patterson,NY,USA,->
-1994-07-13,1994,0,22,2,2,0,0,9,1994 Summer Tour,1994 Summer,Mound,,1,Big Birch Concert Pavilion,Patterson,NY,USA,>
+1994-07-13,1994,0,22,2,2,0,0,10,1994 Summer Tour,1994 Summer,Mound,,1,Big Birch Concert Pavilion,Patterson,NY,USA,>
 1994-07-13,1994,0,23,2,2,0,0,7,1994 Summer Tour,1994 Summer,Slave to the Traffic Light,Slave,1,Big Birch Concert Pavilion,Patterson,NY,USA,>
 1994-07-13,1994,0,24,5,2,0,0,2,1994 Summer Tour,1994 Summer,Suzy Greenberg,Suzy,1,Big Birch Concert Pavilion,Patterson,NY,USA,
 1994-07-13,1994,0,25,2,e,0,0,5,1994 Summer Tour,1994 Summer,My Sweet One,MSO,1,Big Birch Concert Pavilion,Patterson,NY,USA,>

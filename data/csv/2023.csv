@@ -35,7 +35,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-02-25,2023,0,3,1,1,0,0,6,2023 Mexico,2023 Mexico,Steam,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2023-02-25,2023,0,4,1,1,0,0,76,2023 Mexico,2023 Mexico,Poor Heart,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2023-02-25,2023,0,5,3,1,0,0,3,2023 Mexico,2023 Mexico,Halley's Comet,Halley's,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
-2023-02-25,2023,0,6,1,1,0,0,11,2023 Mexico,2023 Mexico,Saw It Again,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
+2023-02-25,2023,0,6,1,1,0,0,12,2023 Mexico,2023 Mexico,Saw It Again,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2023-02-25,2023,0,7,2,1,0,0,4,2023 Mexico,2023 Mexico,Theme from the Bottom,Theme,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2023-02-25,2023,0,8,1,1,0,0,6,2023 Mexico,2023 Mexico,Maze,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
 2023-02-25,2023,0,9,1,1,0,0,12,2023 Mexico,2023 Mexico,About to Run,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,","
@@ -43,7 +43,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-02-25,2023,0,11,2,2,0,0,4,2023 Mexico,2023 Mexico,Down with Disease,DwD,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2023-02-25,2023,0,12,2,2,0,0,4,2023 Mexico,2023 Mexico,Golden Age,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2023-02-25,2023,0,13,2,2,0,0,10,2023 Mexico,2023 Mexico,Soul Planet,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
-2023-02-25,2023,0,14,2,2,0,0,10,2023 Mexico,2023 Mexico,Runaway Jim,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
+2023-02-25,2023,0,14,2,2,0,0,11,2023 Mexico,2023 Mexico,Runaway Jim,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2023-02-25,2023,0,15,3,2,0,0,3,2023 Mexico,2023 Mexico,Light,,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,->
 2023-02-25,2023,0,16,2,2,0,0,3,2023 Mexico,2023 Mexico,Piper,,1,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
 2023-02-25,2023,0,17,2,2,0,0,3,2023 Mexico,2023 Mexico,Also Sprach Zarathustra,2001,0,Moon Palace,"Cancun, Quintana Roo",,Mexico,>
@@ -233,7 +233,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-07-12,2023,0,9,3,2,0,0,4,2023 Summer Tour,2023 Summer,A Wave of Hope,,0,Orion Amphitheater,Huntsville,AL,USA,->
 2023-07-12,2023,0,10,3,2,0,0,6,2023 Summer Tour,2023 Summer,Fuego,,1,Orion Amphitheater,Huntsville,AL,USA,->
 2023-07-12,2023,0,11,2,2,0,0,8,2023 Summer Tour,2023 Summer,Piper,,1,Orion Amphitheater,Huntsville,AL,USA,>
-2023-07-12,2023,0,12,1,2,0,0,1963,2023 Summer Tour,2023 Summer,Ether Edge,,0,Orion Amphitheater,Huntsville,AL,USA,","
+2023-07-12,2023,0,12,1,2,0,0,1964,2023 Summer Tour,2023 Summer,Ether Edge,,0,Orion Amphitheater,Huntsville,AL,USA,","
 2023-07-12,2023,0,13,2,2,0,0,4,2023 Summer Tour,2023 Summer,Mercury,,1,Orion Amphitheater,Huntsville,AL,USA,>
 2023-07-12,2023,0,14,5,2,0,0,8,2023 Summer Tour,2023 Summer,Free,,1,Orion Amphitheater,Huntsville,AL,USA,
 2023-07-12,2023,0,15,2,e,0,0,32,2023 Summer Tour,2023 Summer,Alumni Blues,Alumni,1,Orion Amphitheater,Huntsville,AL,USA,>
@@ -335,7 +335,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-07-21,2023,0,9,4,1,0,0,1,2023 Summer Tour,2023 Summer,Scents and Subtle Sounds,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,
 2023-07-21,2023,0,10,3,2,0,0,6,2023 Summer Tour,2023 Summer,Sigma Oasis,,0,The Pavilion at Star Lake,Burgettstown,PA,USA,->
 2023-07-21,2023,0,11,2,2,0,0,42,2023 Summer Tour,2023 Summer,The Final Hurrah,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,>
-2023-07-21,2023,0,12,2,2,0,0,1969,2023 Summer Tour,2023 Summer,Pillow Jets,,0,The Pavilion at Star Lake,Burgettstown,PA,USA,>
+2023-07-21,2023,0,12,2,2,0,0,1970,2023 Summer Tour,2023 Summer,Pillow Jets,,0,The Pavilion at Star Lake,Burgettstown,PA,USA,>
 2023-07-21,2023,0,13,1,2,0,0,6,2023 Summer Tour,2023 Summer,David Bowie,Bowie,1,The Pavilion at Star Lake,Burgettstown,PA,USA,","
 2023-07-21,2023,0,14,3,2,0,0,8,2023 Summer Tour,2023 Summer,Cities,,0,The Pavilion at Star Lake,Burgettstown,PA,USA,->
 2023-07-21,2023,0,15,2,2,0,0,6,2023 Summer Tour,2023 Summer,Fuego,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,>
@@ -671,7 +671,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-10-07,2023,0,4,3,1,0,0,7,2023 Fall Tour,2023 Fall,Mull,,1,Bridgestone Arena,Nashville,TN,USA,->
 2023-10-07,2023,0,5,2,1,0,0,0,2023 Fall Tour,2023 Fall,Also Sprach Zarathustra,2001,0,Bridgestone Arena,Nashville,TN,USA,>
 2023-10-07,2023,0,6,1,1,0,0,0,2023 Fall Tour,2023 Fall,Mull,,1,Bridgestone Arena,Nashville,TN,USA,","
-2023-10-07,2023,0,7,1,1,0,0,71,2023 Fall Tour,2023 Fall,Dirt,,0,Bridgestone Arena,Nashville,TN,USA,","
+2023-10-07,2023,0,7,1,1,0,0,72,2023 Fall Tour,2023 Fall,Dirt,,0,Bridgestone Arena,Nashville,TN,USA,","
 2023-10-07,2023,0,8,1,1,0,0,4,2023 Fall Tour,2023 Fall,Stash,,1,Bridgestone Arena,Nashville,TN,USA,","
 2023-10-07,2023,0,9,1,1,0,0,3,2023 Fall Tour,2023 Fall,Ether Edge,,0,Bridgestone Arena,Nashville,TN,USA,","
 2023-10-07,2023,0,10,1,1,0,0,2,2023 Fall Tour,2023 Fall,About to Run,,0,Bridgestone Arena,Nashville,TN,USA,","
@@ -680,7 +680,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-10-07,2023,0,13,2,2,0,0,4,2023 Fall Tour,2023 Fall,Sand,,0,Bridgestone Arena,Nashville,TN,USA,>
 2023-10-07,2023,0,14,3,2,0,0,2,2023 Fall Tour,2023 Fall,Everything's Right,,0,Bridgestone Arena,Nashville,TN,USA,->
 2023-10-07,2023,0,15,3,2,0,0,14,2023 Fall Tour,2023 Fall,Cities,,0,Bridgestone Arena,Nashville,TN,USA,->
-2023-10-07,2023,0,16,1,2,0,0,3,2023 Fall Tour,2023 Fall,Llama,,1,Bridgestone Arena,Nashville,TN,USA,","
+2023-10-07,2023,0,16,1,2,0,0,4,2023 Fall Tour,2023 Fall,Llama,,1,Bridgestone Arena,Nashville,TN,USA,","
 2023-10-07,2023,0,17,1,2,0,0,22,2023 Fall Tour,2023 Fall,I Always Wanted It This Way,,1,Bridgestone Arena,Nashville,TN,USA,","
 2023-10-07,2023,0,18,5,2,0,0,13,2023 Fall Tour,2023 Fall,Bug,,0,Bridgestone Arena,Nashville,TN,USA,
 2023-10-07,2023,0,19,1,e,0,0,12,2023 Fall Tour,2023 Fall,Lonely Trip,,0,Bridgestone Arena,Nashville,TN,USA,","
@@ -876,10 +876,10 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-12-31,2023,0,12,2,2,0,0,19,2023 NYE Run,2023 NYE,The Lizards,Lizards,1,Madison Square Garden,New York,NY,USA,>
 2023-12-31,2023,0,13,2,2,0,0,17,2023 NYE Run,2023 NYE,Punch You in the Eye,PYITE,1,Madison Square Garden,New York,NY,USA,>
 2023-12-31,2023,0,14,2,2,0,0,9,2023 NYE Run,2023 NYE,AC/DC Bag,Bag,1,Madison Square Garden,New York,NY,USA,>
-2023-12-31,2023,0,15,2,2,0,0,51,2023 NYE Run,2023 NYE,Tela,,1,Madison Square Garden,New York,NY,USA,>
+2023-12-31,2023,0,15,2,2,0,0,52,2023 NYE Run,2023 NYE,Tela,,1,Madison Square Garden,New York,NY,USA,>
 2023-12-31,2023,0,16,2,2,0,0,10,2023 NYE Run,2023 NYE,Llama,,1,Madison Square Garden,New York,NY,USA,>
 2023-12-31,2023,0,17,2,2,0,0,8,2023 NYE Run,2023 NYE,Wilson,,1,Madison Square Garden,New York,NY,USA,>
-2023-12-31,2023,0,18,2,2,0,0,96,2023 NYE Run,2023 NYE,The Sloth,Sloth,1,Madison Square Garden,New York,NY,USA,>
+2023-12-31,2023,0,18,2,2,0,0,97,2023 NYE Run,2023 NYE,The Sloth,Sloth,1,Madison Square Garden,New York,NY,USA,>
 2023-12-31,2023,0,19,4,2,0,0,18,2023 NYE Run,2023 NYE,Divided Sky,Divided,1,Madison Square Garden,New York,NY,USA,
 2023-12-31,2023,0,20,2,3,0,0,27,2023 NYE Run,2023 NYE,McGrupp and the Watchful Hosemasters,McGrupp,1,Madison Square Garden,New York,NY,USA,>
 2023-12-31,2023,0,21,2,3,0,0,113,2023 NYE Run,2023 NYE,Colonel Forbin's Ascent,Forbin's,1,Madison Square Garden,New York,NY,USA,>

@@ -22,22 +22,22 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1992-03-06,1992,0,9,1,1,2,0,1,1992 Spring Tour,1992 Spring,Reba,,1,The Music Hall,Portsmouth,NH,USA,","
 1992-03-06,1992,0,10,1,1,2,0,50,1992 Spring Tour,1992 Spring,All Things Reconsidered,ATR,1,The Music Hall,Portsmouth,NH,USA,","
 1992-03-06,1992,0,11,4,1,2,0,5,1992 Spring Tour,1992 Spring,David Bowie,Bowie,1,The Music Hall,Portsmouth,NH,USA,
-1992-03-06,1992,0,12,1,2,2,0,589,1992 Spring Tour,1992 Spring,"My Friend, My Friend",My Friend,1,The Music Hall,Portsmouth,NH,USA,","
+1992-03-06,1992,0,12,1,2,2,0,590,1992 Spring Tour,1992 Spring,"My Friend, My Friend",My Friend,1,The Music Hall,Portsmouth,NH,USA,","
 1992-03-06,1992,0,13,1,2,2,0,5,1992 Spring Tour,1992 Spring,Poor Heart,,1,The Music Hall,Portsmouth,NH,USA,","
 1992-03-06,1992,0,14,1,2,2,0,589,1992 Spring Tour,1992 Spring,Secret Language Instructions,,1,The Music Hall,Portsmouth,NH,USA,","
 1992-03-06,1992,0,15,1,2,2,0,1,1992 Spring Tour,1992 Spring,Stash,,1,The Music Hall,Portsmouth,NH,USA,","
-1992-03-06,1992,0,16,1,2,2,0,593,1992 Spring Tour,1992 Spring,Mound,,1,The Music Hall,Portsmouth,NH,USA,","
+1992-03-06,1992,0,16,1,2,2,0,590,1992 Spring Tour,1992 Spring,Mound,,1,The Music Hall,Portsmouth,NH,USA,","
 1992-03-06,1992,0,17,1,2,2,0,1,1992 Spring Tour,1992 Spring,Llama,,1,The Music Hall,Portsmouth,NH,USA,","
 1992-03-06,1992,0,18,1,2,2,0,1,1992 Spring Tour,1992 Spring,Bouncing Around the Room,Bouncin',1,The Music Hall,Portsmouth,NH,USA,","
-1992-03-06,1992,0,19,1,2,2,0,589,1992 Spring Tour,1992 Spring,NICU,,1,The Music Hall,Portsmouth,NH,USA,","
+1992-03-06,1992,0,19,1,2,2,0,590,1992 Spring Tour,1992 Spring,NICU,,1,The Music Hall,Portsmouth,NH,USA,","
 1992-03-06,1992,0,20,5,2,2,0,1,1992 Spring Tour,1992 Spring,Possum,,1,The Music Hall,Portsmouth,NH,USA,
 1992-03-06,1992,0,21,6,e,2,0,589,1992 Spring Tour,1992 Spring,Sleeping Monkey,,1,The Music Hall,Portsmouth,NH,USA,
 1992-03-07,1992,0,1,1,1,2,0,2,1992 Spring Tour,1992 Spring,Brother,,1,The Music Hall,Portsmouth,NH,USA,","
 1992-03-07,1992,0,2,1,1,2,0,590,1992 Spring Tour,1992 Spring,My Mind's Got a Mind of its Own,MMGAMOIO,0,The Music Hall,Portsmouth,NH,USA,","
 1992-03-07,1992,0,3,1,1,2,0,2,1992 Spring Tour,1992 Spring,Foam,,1,The Music Hall,Portsmouth,NH,USA,","
 1992-03-07,1992,0,4,1,1,2,0,2,1992 Spring Tour,1992 Spring,Runaway Jim,,1,The Music Hall,Portsmouth,NH,USA,","
-1992-03-07,1992,0,5,2,1,2,0,590,1992 Spring Tour,1992 Spring,The Horse,Horse,1,The Music Hall,Portsmouth,NH,USA,>
-1992-03-07,1992,0,6,1,1,2,0,590,1992 Spring Tour,1992 Spring,Silent in the Morning,Silent,1,The Music Hall,Portsmouth,NH,USA,","
+1992-03-07,1992,0,5,2,1,2,0,591,1992 Spring Tour,1992 Spring,The Horse,Horse,1,The Music Hall,Portsmouth,NH,USA,>
+1992-03-07,1992,0,6,1,1,2,0,591,1992 Spring Tour,1992 Spring,Silent in the Morning,Silent,1,The Music Hall,Portsmouth,NH,USA,","
 1992-03-07,1992,0,7,1,1,2,0,1,1992 Spring Tour,1992 Spring,Maze,,1,The Music Hall,Portsmouth,NH,USA,","
 1992-03-07,1992,0,8,1,1,2,0,3,1992 Spring Tour,1992 Spring,The Mango Song,Mango,1,The Music Hall,Portsmouth,NH,USA,","
 1992-03-07,1992,0,9,1,1,2,0,2,1992 Spring Tour,1992 Spring,The Landlady,Landlady,1,The Music Hall,Portsmouth,NH,USA,","
@@ -2409,7 +2409,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1992-12-28,1992,0,12,1,2,0,0,1,1992 NYE Run,1992 NYE,Poor Heart,,1,Palace Theatre,New Haven,CT,USA,","
 1992-12-28,1992,0,13,1,2,0,0,2,1992 NYE Run,1992 NYE,Split Open and Melt,SOAMelt,1,Palace Theatre,New Haven,CT,USA,","
 1992-12-28,1992,0,14,1,2,0,0,2,1992 NYE Run,1992 NYE,Reba,,1,Palace Theatre,New Haven,CT,USA,","
-1992-12-28,1992,0,15,1,2,0,0,6,1992 NYE Run,1992 NYE,The Sloth,Sloth,1,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,15,1,2,0,0,7,1992 NYE Run,1992 NYE,The Sloth,Sloth,1,Palace Theatre,New Haven,CT,USA,","
 1992-12-28,1992,0,16,2,2,0,0,2,1992 NYE Run,1992 NYE,You Enjoy Myself,YEM,1,Palace Theatre,New Haven,CT,USA,>
 1992-12-28,1992,0,17,2,2,0,0,3,1992 NYE Run,1992 NYE,The Lizards,Lizards,1,Palace Theatre,New Haven,CT,USA,>
 1992-12-28,1992,0,18,2,2,0,0,0,1992 NYE Run,1992 NYE,Hold Your Head Up,HYHU,0,Palace Theatre,New Haven,CT,USA,>
