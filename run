@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 import argparse
-from app import SetlistData, phish_net_client as client
+import glob
+import pandas as pd
+from app import SetlistData, SummaryGenerator, phish_net_client as client
 from datetime import datetime
 
 parser = argparse.ArgumentParser()
@@ -11,11 +13,23 @@ parser.add_argument('--year',  type=int, default=None,
 args = parser.parse_args()
 
 
+def generate_summary(df=None):
+    print("Generating SUMMARY.md...")
+    if df is None:
+        csv_files = glob.glob('data/csv/[0-9]*.csv')
+        if not csv_files:
+            return
+        df = pd.concat((pd.read_csv(f) for f in csv_files), ignore_index=True)
+    sg = SummaryGenerator(df)
+    sg.write_to_file('SUMMARY.md')
+
+
 def create_all():
     print("Updating all...")
     setlist_data = SetlistData(client.download_all())
     setlist_data.save_all()
     setlist_data.save_years()
+    generate_summary(setlist_data.df)
 
 
 def create_year(year=None):
@@ -25,9 +39,11 @@ def create_year(year=None):
     print(f"Updating year {year}...")
     setlist_data = SetlistData(client.get_setlist_data(year))
     setlist_data.save_years()
+    generate_summary()
 
 
 if args.update == 'year':
     create_year(args.year)
 elif args.update == 'all':
     create_all()
+

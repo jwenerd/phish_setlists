@@ -12,6 +12,7 @@ numpy = "^2.4.2"
 pandas = "^3.0.0"
 pysh-client = "^0.1.1"
 ipython = "^9.10.0"
+tabulate = "^0.10.0"
 
 
 [build-system]
