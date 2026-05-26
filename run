@@ -39,7 +39,6 @@ def create_year(year=None):
     print(f"Updating year {year}...")
     setlist_data = SetlistData(client.get_setlist_data(year))
     setlist_data.save_years()
-    generate_summary()
 
 
 if args.update == 'year':
