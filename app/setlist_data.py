@@ -16,7 +16,10 @@ class SetlistData:
         # strip all, correct encoding from client
         def format_strings(x):
             if isinstance(x, str):
-                return x.encode('latin-1').decode('utf-8').strip()
+                try:
+                    return x.encode('latin-1').decode('utf-8').strip()
+                except (UnicodeEncodeError, UnicodeDecodeError):
+                    return x.strip()
             else:
                 return x
         df = df.map(format_strings)

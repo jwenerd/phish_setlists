@@ -56,7 +56,9 @@ class PhishNetClient():
         return list(itertools.chain(*year_data))  # flatten
 
     def __filter_phish(self, rows):
-        return [row for row in rows if str(row.get('artist_name')).lower() == 'phish']
+        if isinstance(rows, dict):
+            return []
+        return [row for row in rows if isinstance(row, dict) and str(row.get('artist_name')).lower() == 'phish']
 
 
 phish_net_client = PhishNetClient()
