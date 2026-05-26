@@ -2,6 +2,72 @@
 
 *Generated on 2026-05-26*
 
+## Fun with Stats
+
+### Past 1 Year (49 Shows)
+49 shows across 17 venues
+
+884 total songs played
+
+Number of unique songs played: 228
+
+65 songs were played exactly once
+
+Bust-outs (Gap > 50): 60
+
+Most common show opener: Free (5 times)
+
+Most common encore: Bug (3 times)
+
+
+### Past 2 Years (98 Shows)
+98 shows across 33 venues
+
+1741 total songs played
+
+Number of unique songs played: 274
+
+79 songs were played exactly once
+
+Bust-outs (Gap > 50): 108
+
+Most common show opener: Buried Alive (7 times)
+
+Most common encore: A Life Beyond The Dream (6 times)
+
+
+### Past 5 Years (239 Shows)
+239 shows across 66 venues
+
+4374 total songs played
+
+Number of unique songs played: 358
+
+76 songs were played exactly once
+
+Bust-outs (Gap > 50): 263
+
+Most common show opener: Buried Alive (13 times)
+
+Most common encore: A Life Beyond The Dream (18 times)
+
+
+### Past 10 Years (397 Shows)
+397 shows across 93 venues
+
+7578 total songs played
+
+Number of unique songs played: 459
+
+113 songs were played exactly once
+
+Bust-outs (Gap > 50): 519
+
+Most common show opener: The Moma Dance (18 times)
+
+Most common encore: A Life Beyond The Dream (20 times)
+
+
 ## Most Common Songs
 
 ### Past 1 Year (49 Shows)
@@ -49,6 +115,21 @@
 | Carini             |             49 |
 | Free               |             48 |
 
+### Past 10 Years (397 Shows)
+
+| Song               |   Times Played |
+|:-------------------|---------------:|
+| Ghost              |             93 |
+| Tweezer            |             92 |
+| Blaze On           |             90 |
+| Chalk Dust Torture |             89 |
+| Harry Hood         |             89 |
+| Sand               |             84 |
+| 46 Days            |             84 |
+| Carini             |             81 |
+| Free               |             80 |
+| Twist              |             80 |
+
 ## Newest Songs (Debuts Past 2 Years - 98 Shows)
 
 | Song                           | Debut Date   |   Times Played |
@@ -72,7 +153,7 @@
 
 ## Notable Shows with Variety (Past 5 Years - 239 Shows)
 
-### The 'Bust-Out' Shows (Highest Avg Gap)
+### The 'Bust-Out' Shows (Highest Avg Gap - Past 5 Years)
 
 | Date       | Venue                  | City                 | State   |   Avg Gap |
 |:-----------|:-----------------------|:---------------------|:--------|----------:|
@@ -82,7 +163,17 @@
 | 2023-07-30 | Madison Square Garden  | New York             | NY      |     135.1 |
 | 2022-02-25 | Moon Palace            | Cancun, Quintana Roo |         |     134   |
 
-### The Marathons (Most Unique Songs)
+### The 'Bust-Out' Shows (Highest Avg Gap - Past 10 Years)
+
+| Date       | Venue                                        | City      | State   |   Avg Gap |
+|:-----------|:---------------------------------------------|:----------|:--------|----------:|
+| 2018-10-31 | MGM Grand Garden Arena                       | Las Vegas | NV      |     654.3 |
+| 2016-10-31 | MGM Grand Garden Arena                       | Las Vegas | NV      |     625.2 |
+| 2017-07-14 | Huntington Bank Pavilion at Northerly Island | Chicago   | IL      |     338.8 |
+| 2021-10-31 | MGM Grand Garden Arena                       | Las Vegas | NV      |     300.7 |
+| 2017-07-26 | Madison Square Garden                        | New York  | NY      |     257.1 |
+
+### The Marathons (Most Unique Songs - Past 5 Years)
 
 | Date       | Venue                  | City      | State   |   Unique Songs |
 |:-----------|:-----------------------|:----------|:--------|---------------:|
@@ -91,6 +182,16 @@
 | 2024-12-31 | Madison Square Garden  | New York  | NY      |             29 |
 | 2025-12-31 | Madison Square Garden  | New York  | NY      |             27 |
 | 2021-10-31 | MGM Grand Garden Arena | Las Vegas | NV      |             26 |
+
+### The Marathons (Most Unique Songs - Past 10 Years)
+
+| Date       | Venue                  | City      | State   |   Unique Songs |
+|:-----------|:-----------------------|:----------|:--------|---------------:|
+| 2016-10-31 | MGM Grand Garden Arena | Las Vegas | NV      |             31 |
+| 2022-12-31 | Madison Square Garden  | New York  | NY      |             31 |
+| 2023-12-31 | Madison Square Garden  | New York  | NY      |             30 |
+| 2024-12-31 | Madison Square Garden  | New York  | NY      |             29 |
+| 2016-12-31 | Madison Square Garden  | New York  | NY      |             28 |
 
 ## Rarest Songs Played (Past 1 Year - 49 Shows)
 
