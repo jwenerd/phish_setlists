@@ -382,65 +382,6 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-03-07,1990,0,14,2,2,0,0,2,1990 Tour,1990,I Am Hydrogen,Hydrogen,1,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,>
 1990-03-07,1990,0,15,5,2,0,0,2,1990 Tour,1990,Weekapaug Groove,Weekapaug,1,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,
 1990-03-07,1990,0,16,6,e,0,0,10,1990 Tour,1990,Whipping Post,,0,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,
-1990-03-08,1990,0,1,2,1,0,0,3,1990 Tour,1990,Dinner and a Movie,,1,Aiko's,Saratoga Springs,NY,USA,>
-1990-03-08,1990,0,2,3,1,0,0,2,1990 Tour,1990,You Enjoy Myself,YEM,1,Aiko's,Saratoga Springs,NY,USA,->
-1990-03-08,1990,0,3,1,1,0,0,1,1990 Tour,1990,Possum,,1,Aiko's,Saratoga Springs,NY,USA,","
-1990-03-08,1990,0,4,1,1,0,0,5,1990 Tour,1990,Ya Mar,,0,Aiko's,Saratoga Springs,NY,USA,","
-1990-03-08,1990,0,5,1,1,0,0,4,1990 Tour,1990,Foam,,1,Aiko's,Saratoga Springs,NY,USA,","
-1990-03-08,1990,0,6,1,1,0,0,3,1990 Tour,1990,Carolina,,0,Aiko's,Saratoga Springs,NY,USA,","
-1990-03-08,1990,0,7,2,1,0,0,1,1990 Tour,1990,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Aiko's,Saratoga Springs,NY,USA,>
-1990-03-08,1990,0,8,1,1,0,0,3,1990 Tour,1990,Suzy Greenberg,Suzy,1,Aiko's,Saratoga Springs,NY,USA,","
-1990-03-08,1990,0,9,2,1,0,0,4,1990 Tour,1990,Take the 'A' Train,'A' Train,0,Aiko's,Saratoga Springs,NY,USA,>
-1990-03-08,1990,0,10,4,1,0,0,4,1990 Tour,1990,Run Like an Antelope,Antelope,1,Aiko's,Saratoga Springs,NY,USA,
-1990-03-08,1990,0,11,2,2,0,0,3,1990 Tour,1990,Divided Sky,Divided,1,Aiko's,Saratoga Springs,NY,USA,>
-1990-03-08,1990,0,12,1,2,0,0,1,1990 Tour,1990,Bathtub Gin,Gin,1,Aiko's,Saratoga Springs,NY,USA,","
-1990-03-08,1990,0,13,1,2,0,0,3,1990 Tour,1990,My Sweet One,MSO,1,Aiko's,Saratoga Springs,NY,USA,","
-1990-03-08,1990,0,14,2,2,0,0,1,1990 Tour,1990,AC/DC Bag,Bag,1,Aiko's,Saratoga Springs,NY,USA,>
-1990-03-08,1990,0,15,1,2,0,0,1,1990 Tour,1990,Caravan,,0,Aiko's,Saratoga Springs,NY,USA,","
-1990-03-08,1990,0,16,1,2,0,0,5,1990 Tour,1990,I Didn't Know,IDK,1,Aiko's,Saratoga Springs,NY,USA,","
-1990-03-08,1990,0,17,1,2,0,0,1,1990 Tour,1990,The Lizards,Lizards,1,Aiko's,Saratoga Springs,NY,USA,","
-1990-03-08,1990,0,18,2,2,0,0,1,1990 Tour,1990,Mike's Song,Mike's,1,Aiko's,Saratoga Springs,NY,USA,>
-1990-03-08,1990,0,19,2,2,0,0,1,1990 Tour,1990,I Am Hydrogen,Hydrogen,1,Aiko's,Saratoga Springs,NY,USA,>
-1990-03-08,1990,0,20,1,2,0,0,1,1990 Tour,1990,Weekapaug Groove,Weekapaug,1,Aiko's,Saratoga Springs,NY,USA,","
-1990-03-08,1990,0,21,1,2,0,0,11,1990 Tour,1990,The Ballad of Curtis Loew,Curtis Loew,0,Aiko's,Saratoga Springs,NY,USA,","
-1990-03-08,1990,0,22,5,2,0,0,5,1990 Tour,1990,Golgi Apparatus,Golgi,1,Aiko's,Saratoga Springs,NY,USA,
-1990-03-08,1990,0,23,1,e,0,0,7,1990 Tour,1990,Contact,,1,Aiko's,Saratoga Springs,NY,USA,","
-1990-03-08,1990,0,24,6,e,0,0,5,1990 Tour,1990,Good Times Bad Times,GTBT,0,Aiko's,Saratoga Springs,NY,USA,
-1990-03-09,1990,0,1,2,1,0,0,43,1990 Tour,1990,The Man Who Stepped Into Yesterday,TMWSIY,1,The Front,Burlington,VT,USA,>
-1990-03-09,1990,0,2,1,1,0,0,43,1990 Tour,1990,Avenu Malkenu,,0,The Front,Burlington,VT,USA,","
-1990-03-09,1990,0,3,1,1,0,0,1,1990 Tour,1990,Caravan,,0,The Front,Burlington,VT,USA,","
-1990-03-09,1990,0,4,1,1,0,0,1,1990 Tour,1990,Ya Mar,,0,The Front,Burlington,VT,USA,","
-1990-03-09,1990,0,5,1,1,0,0,5,1990 Tour,1990,Bouncing Around the Room,Bouncin',1,The Front,Burlington,VT,USA,","
-1990-03-09,1990,0,6,2,1,0,0,5,1990 Tour,1990,Colonel Forbin's Ascent,Forbin's,1,The Front,Burlington,VT,USA,>
-1990-03-09,1990,0,7,2,1,0,0,5,1990 Tour,1990,Fly Famous Mockingbird,Mockingbird,1,The Front,Burlington,VT,USA,>
-1990-03-09,1990,0,8,2,1,0,0,8,1990 Tour,1990,The Sloth,Sloth,1,The Front,Burlington,VT,USA,>
-1990-03-09,1990,0,9,1,1,0,0,1,1990 Tour,1990,Possum,,1,The Front,Burlington,VT,USA,","
-1990-03-09,1990,0,10,1,1,0,0,12,1990 Tour,1990,Donna Lee,,0,The Front,Burlington,VT,USA,","
-1990-03-09,1990,0,11,4,1,0,0,1,1990 Tour,1990,Run Like an Antelope,Antelope,1,The Front,Burlington,VT,USA,
-1990-03-09,1990,0,12,1,2,0,0,2,1990 Tour,1990,Reba,,1,The Front,Burlington,VT,USA,","
-1990-03-09,1990,0,13,2,2,0,0,1,1990 Tour,1990,The Oh Kee Pa Ceremony,Oh Kee Pa,1,The Front,Burlington,VT,USA,>
-1990-03-09,1990,0,14,2,2,0,0,1,1990 Tour,1990,AC/DC Bag,Bag,1,The Front,Burlington,VT,USA,>
-1990-03-09,1990,0,15,2,2,0,0,36,1990 Tour,1990,The Curtain,Curtain,1,The Front,Burlington,VT,USA,>
-1990-03-09,1990,0,16,2,2,0,0,59,1990 Tour,1990,Dog Log,,1,The Front,Burlington,VT,USA,>
-1990-03-09,1990,0,17,2,2,0,0,6,1990 Tour,1990,Slave to the Traffic Light,Slave,1,The Front,Burlington,VT,USA,>
-1990-03-09,1990,0,18,1,2,0,0,9,1990 Tour,1990,Highway to Hell,,0,The Front,Burlington,VT,USA,","
-1990-03-09,1990,0,19,2,2,0,0,1,1990 Tour,1990,You Enjoy Myself,YEM,1,The Front,Burlington,VT,USA,>
-1990-03-09,1990,0,20,1,2,0,0,8,1990 Tour,1990,La Grange,,0,The Front,Burlington,VT,USA,","
-1990-03-09,1990,0,21,1,2,0,0,1,1990 Tour,1990,Contact,,1,The Front,Burlington,VT,USA,","
-1990-03-09,1990,0,22,5,2,0,0,7,1990 Tour,1990,Big Black Furry Creature from Mars,BBFCFM,1,The Front,Burlington,VT,USA,
-1990-03-09,1990,0,23,6,e,0,0,2,1990 Tour,1990,Whipping Post,,0,The Front,Burlington,VT,USA,
-1990-03-10,1990,0,1,1,1,0,0,11,1990 Tour,1990,Wilson,,1,The Front,Burlington,VT,USA,","
-1990-03-10,1990,0,2,1,1,0,0,3,1990 Tour,1990,Esther,,1,The Front,Burlington,VT,USA,","
-1990-03-10,1990,0,3,2,1,0,0,8,1990 Tour,1990,McGrupp and the Watchful Hosemasters,McGrupp,1,The Front,Burlington,VT,USA,>
-1990-03-10,1990,0,4,2,1,0,0,40,1990 Tour,1990,Who Do? We Do!,,1,The Front,Burlington,VT,USA,>
-1990-03-10,1990,0,5,1,1,0,0,1,1990 Tour,1990,AC/DC Bag,Bag,1,The Front,Burlington,VT,USA,","
-1990-03-10,1990,0,6,2,1,0,0,5,1990 Tour,1990,Rocky Top,,0,The Front,Burlington,VT,USA,>
-1990-03-10,1990,0,7,2,1,0,0,3,1990 Tour,1990,The Squirming Coil,Coil,1,The Front,Burlington,VT,USA,>
-1990-03-10,1990,0,8,1,1,0,0,5,1990 Tour,1990,Funky Bitch,,0,The Front,Burlington,VT,USA,","
-1990-03-10,1990,0,9,1,1,0,0,2,1990 Tour,1990,Divided Sky,Divided,1,The Front,Burlington,VT,USA,","
-1990-03-10,1990,0,10,1,1,0,0,6,1990 Tour,1990,Jesus Just Left Chicago,JJLC,0,The Front,Burlington,VT,USA,","
-1990-03-10,1990,0,11,4,1,0,0,2,1990 Tour,1990,Carolina,,0,The Front,Burlington,VT,USA,
-1990-03-10,1990,0,12,6,2,0,0,12,1990 Tour,1990,Harry Hood,Hood,1,The Front,Burlington,VT,USA,
 1990-03-11,1990,0,1,2,1,0,0,2,1990 Tour,1990,Contact,,1,The Front,Burlington,VT,USA,>
 1990-03-11,1990,0,2,2,1,0,0,2,1990 Tour,1990,The Oh Kee Pa Ceremony,Oh Kee Pa,1,The Front,Burlington,VT,USA,>
 1990-03-11,1990,0,3,1,1,0,0,3,1990 Tour,1990,Suzy Greenberg,Suzy,1,The Front,Burlington,VT,USA,","
@@ -468,95 +409,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-03-11,1990,0,25,1,2,0,0,1,1990 Tour,1990,AC/DC Bag,Bag,1,The Front,Burlington,VT,USA,","
 1990-03-11,1990,0,26,5,2,0,0,4,1990 Tour,1990,David Bowie,Bowie,1,The Front,Burlington,VT,USA,
 1990-03-11,1990,0,27,6,e,0,0,4,1990 Tour,1990,Tela,,1,The Front,Burlington,VT,USA,
-1990-03-17,1990,0,1,1,1,0,0,5,1990 Tour,1990,Golgi Apparatus,Golgi,1,23 East Cabaret,Ardmore,PA,USA,","
-1990-03-17,1990,0,2,1,1,0,0,3,1990 Tour,1990,Esther,,1,23 East Cabaret,Ardmore,PA,USA,","
-1990-03-17,1990,0,3,2,1,0,0,1,1990 Tour,1990,Dinner and a Movie,,1,23 East Cabaret,Ardmore,PA,USA,>
-1990-03-17,1990,0,4,3,1,0,0,2,1990 Tour,1990,Bouncing Around the Room,Bouncin',1,23 East Cabaret,Ardmore,PA,USA,->
-1990-03-17,1990,0,5,2,1,0,0,1,1990 Tour,1990,My Sweet One,MSO,1,23 East Cabaret,Ardmore,PA,USA,>
-1990-03-17,1990,0,6,2,1,0,0,9,1990 Tour,1990,Rhombus Narration,,1,23 East Cabaret,Ardmore,PA,USA,>
-1990-03-17,1990,0,7,1,1,0,0,3,1990 Tour,1990,Divided Sky,Divided,1,23 East Cabaret,Ardmore,PA,USA,","
-1990-03-17,1990,0,8,1,1,0,0,3,1990 Tour,1990,Donna Lee,,0,23 East Cabaret,Ardmore,PA,USA,","
-1990-03-17,1990,0,9,1,1,0,0,2,1990 Tour,1990,The Lizards,Lizards,1,23 East Cabaret,Ardmore,PA,USA,","
-1990-03-17,1990,0,10,4,1,0,0,4,1990 Tour,1990,Run Like an Antelope,Antelope,1,23 East Cabaret,Ardmore,PA,USA,
-1990-03-17,1990,0,11,1,2,0,0,0,1990 Tour,1990,Killer Joe,,1,23 East Cabaret,Ardmore,PA,USA,","
-1990-03-17,1990,0,12,1,2,0,0,70,1990 Tour,1990,Bold As Love,,0,23 East Cabaret,Ardmore,PA,USA,","
-1990-03-17,1990,0,13,2,2,0,0,1,1990 Tour,1990,The Oh Kee Pa Ceremony,Oh Kee Pa,1,23 East Cabaret,Ardmore,PA,USA,>
-1990-03-17,1990,0,14,2,2,0,0,2,1990 Tour,1990,AC/DC Bag,Bag,1,23 East Cabaret,Ardmore,PA,USA,>
-1990-03-17,1990,0,15,1,2,0,0,5,1990 Tour,1990,Foam,,1,23 East Cabaret,Ardmore,PA,USA,","
-1990-03-17,1990,0,16,5,2,0,0,4,1990 Tour,1990,You Enjoy Myself,YEM,1,23 East Cabaret,Ardmore,PA,USA,
-1990-03-17,1990,0,17,6,e,0,0,5,1990 Tour,1990,Good Times Bad Times,GTBT,0,23 East Cabaret,Ardmore,PA,USA,
-1990-03-28,1990,0,1,1,1,0,0,4,1990 Tour,1990,Possum,,1,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,","
-1990-03-28,1990,0,2,1,1,0,0,4,1990 Tour,1990,Ya Mar,,0,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,","
-1990-03-28,1990,0,3,1,1,0,0,14,1990 Tour,1990,Fee,,1,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,","
-1990-03-28,1990,0,4,1,1,0,0,15,1990 Tour,1990,Walk Away,,0,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,","
-1990-03-28,1990,0,5,1,1,0,0,354,1990 Tour,1990,Tweezer,,1,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,","
-1990-03-28,1990,0,6,1,1,0,0,357,1990 Tour,1990,Uncle Pen,,0,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,","
-1990-03-28,1990,0,7,2,1,0,0,2,1990 Tour,1990,The Oh Kee Pa Ceremony,Oh Kee Pa,1,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,>
-1990-03-28,1990,0,8,1,1,0,0,4,1990 Tour,1990,Suzy Greenberg,Suzy,1,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,","
-1990-03-28,1990,0,9,2,1,0,0,4,1990 Tour,1990,Take the 'A' Train,'A' Train,0,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,>
-1990-03-28,1990,0,10,1,1,0,0,354,1990 Tour,1990,Runaway Jim,,1,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,","
-1990-03-28,1990,0,11,1,1,0,0,2,1990 Tour,1990,You Enjoy Myself,YEM,1,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,","
-1990-03-28,1990,0,12,4,1,0,0,2,1990 Tour,1990,Good Times Bad Times,GTBT,0,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,
-1990-03-28,1990,0,13,1,2,0,0,5,1990 Tour,1990,Funky Bitch,,0,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,","
-1990-03-28,1990,0,14,2,2,0,0,4,1990 Tour,1990,Mike's Song,Mike's,1,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,>
-1990-03-28,1990,0,15,2,2,0,0,4,1990 Tour,1990,I Am Hydrogen,Hydrogen,1,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,>
-1990-03-28,1990,0,16,1,2,0,0,4,1990 Tour,1990,Weekapaug Groove,Weekapaug,1,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,","
-1990-03-28,1990,0,17,1,2,0,0,5,1990 Tour,1990,Jesus Just Left Chicago,JJLC,0,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,","
-1990-03-28,1990,0,18,1,2,0,0,2,1990 Tour,1990,The Lizards,Lizards,1,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,","
-1990-03-28,1990,0,19,1,2,0,0,4,1990 Tour,1990,Split Open and Melt,SOAMelt,1,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,","
-1990-03-28,1990,0,20,2,2,0,0,4,1990 Tour,1990,Contact,,1,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,>
-1990-03-28,1990,0,21,1,2,0,0,4,1990 Tour,1990,La Grange,,0,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,","
-1990-03-28,1990,0,22,1,2,0,0,13,1990 Tour,1990,Rift,,1,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,","
-1990-03-28,1990,0,23,1,2,0,0,354,1990 Tour,1990,Cavern,,1,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,","
-1990-03-28,1990,0,24,1,2,0,0,6,1990 Tour,1990,Highway to Hell,,0,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,","
-1990-03-28,1990,0,25,5,2,0,0,30,1990 Tour,1990,If I Only Had a Brain,,0,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,
-1990-03-28,1990,0,26,1,e,0,0,4,1990 Tour,1990,Carolina,,0,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,","
-1990-03-28,1990,0,27,1,e,0,0,357,1990 Tour,1990,Sweet Adeline,,0,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,","
-1990-03-28,1990,0,28,6,e,0,0,6,1990 Tour,1990,Whipping Post,,0,"Beta Theta Pi Frat House Party, Denison University",Granville,OH,USA,
 1990-03-29,1990,0,1,6,e,0,0,5,1990 Tour,1990,David Bowie,Bowie,1,Canal Street Tavern,Dayton,OH,USA,
-1990-04-04,1990,0,1,1,1,0,0,6,1990 Tour,1990,Golgi Apparatus,Golgi,1,"Quigley's, University of Colorado",Boulder,CO,USA,","
-1990-04-04,1990,0,2,2,1,0,0,4,1990 Tour,1990,You Enjoy Myself,YEM,1,"Quigley's, University of Colorado",Boulder,CO,USA,>
-1990-04-04,1990,0,3,1,1,0,0,4,1990 Tour,1990,Walk Away,,0,"Quigley's, University of Colorado",Boulder,CO,USA,","
-1990-04-04,1990,0,4,1,1,0,0,4,1990 Tour,1990,Take the 'A' Train,'A' Train,0,"Quigley's, University of Colorado",Boulder,CO,USA,","
-1990-04-04,1990,0,5,1,1,0,0,4,1990 Tour,1990,Possum,,1,"Quigley's, University of Colorado",Boulder,CO,USA,","
-1990-04-04,1990,0,6,1,1,0,0,6,1990 Tour,1990,Foam,,1,"Quigley's, University of Colorado",Boulder,CO,USA,","
-1990-04-04,1990,0,7,2,1,0,0,6,1990 Tour,1990,Rhombus Narration,,1,"Quigley's, University of Colorado",Boulder,CO,USA,>
-1990-04-04,1990,0,8,1,1,0,0,6,1990 Tour,1990,Divided Sky,Divided,1,"Quigley's, University of Colorado",Boulder,CO,USA,","
-1990-04-04,1990,0,9,4,1,0,0,4,1990 Tour,1990,Carolina,,0,"Quigley's, University of Colorado",Boulder,CO,USA,
-1990-04-04,1990,0,10,2,2,0,0,4,1990 Tour,1990,Mike's Song,Mike's,1,"Quigley's, University of Colorado",Boulder,CO,USA,>
-1990-04-04,1990,0,11,2,2,0,0,4,1990 Tour,1990,I Am Hydrogen,Hydrogen,1,"Quigley's, University of Colorado",Boulder,CO,USA,>
-1990-04-04,1990,0,12,1,2,0,0,4,1990 Tour,1990,Weekapaug Groove,Weekapaug,1,"Quigley's, University of Colorado",Boulder,CO,USA,","
-1990-04-04,1990,0,13,2,2,0,0,6,1990 Tour,1990,Esther,,1,"Quigley's, University of Colorado",Boulder,CO,USA,>
-1990-04-04,1990,0,14,1,2,0,0,4,1990 Tour,1990,Uncle Pen,,0,"Quigley's, University of Colorado",Boulder,CO,USA,","
-1990-04-04,1990,0,15,1,2,0,0,8,1990 Tour,1990,The Sloth,Sloth,1,"Quigley's, University of Colorado",Boulder,CO,USA,","
-1990-04-04,1990,0,16,1,2,0,0,4,1990 Tour,1990,The Lizards,Lizards,1,"Quigley's, University of Colorado",Boulder,CO,USA,","
-1990-04-04,1990,0,17,1,2,0,0,11,1990 Tour,1990,I Didn't Know,IDK,1,"Quigley's, University of Colorado",Boulder,CO,USA,","
-1990-04-04,1990,0,18,5,2,0,0,4,1990 Tour,1990,Good Times Bad Times,GTBT,0,"Quigley's, University of Colorado",Boulder,CO,USA,
-1990-04-04,1990,0,19,1,e,0,0,4,1990 Tour,1990,Contact,,1,"Quigley's, University of Colorado",Boulder,CO,USA,","
-1990-04-04,1990,0,20,6,e,0,0,4,1990 Tour,1990,Highway to Hell,,0,"Quigley's, University of Colorado",Boulder,CO,USA,
-1990-04-05,1990,0,1,1,1,0,0,1,1990 Tour,1990,Possum,,1,J.J. McCabe's,Boulder,CO,USA,","
-1990-04-05,1990,0,2,1,1,0,0,5,1990 Tour,1990,Ya Mar,,0,J.J. McCabe's,Boulder,CO,USA,","
-1990-04-05,1990,0,3,1,1,0,0,4,1990 Tour,1990,David Bowie,Bowie,1,J.J. McCabe's,Boulder,CO,USA,","
-1990-04-05,1990,0,4,1,1,0,0,1,1990 Tour,1990,Carolina,,0,J.J. McCabe's,Boulder,CO,USA,","
-1990-04-05,1990,0,5,2,1,0,0,5,1990 Tour,1990,The Oh Kee Pa Ceremony,Oh Kee Pa,1,J.J. McCabe's,Boulder,CO,USA,>
-1990-04-05,1990,0,6,1,1,0,0,5,1990 Tour,1990,Suzy Greenberg,Suzy,1,J.J. McCabe's,Boulder,CO,USA,","
-1990-04-05,1990,0,7,2,1,0,0,1,1990 Tour,1990,You Enjoy Myself,YEM,1,J.J. McCabe's,Boulder,CO,USA,>
-1990-04-05,1990,0,8,1,1,0,0,1,1990 Tour,1990,The Lizards,Lizards,1,J.J. McCabe's,Boulder,CO,USA,","
-1990-04-05,1990,0,9,4,1,0,0,17,1990 Tour,1990,Fire,,0,J.J. McCabe's,Boulder,CO,USA,
-1990-04-05,1990,0,10,1,2,0,0,9,1990 Tour,1990,Reba,,1,J.J. McCabe's,Boulder,CO,USA,","
-1990-04-05,1990,0,11,1,2,0,0,1,1990 Tour,1990,Uncle Pen,,0,J.J. McCabe's,Boulder,CO,USA,","
-1990-04-05,1990,0,12,1,2,0,0,5,1990 Tour,1990,Jesus Just Left Chicago,JJLC,0,J.J. McCabe's,Boulder,CO,USA,","
-1990-04-05,1990,0,13,1,2,0,0,7,1990 Tour,1990,AC/DC Bag,Bag,1,J.J. McCabe's,Boulder,CO,USA,","
-1990-04-05,1990,0,14,1,2,0,0,7,1990 Tour,1990,Donna Lee,,0,J.J. McCabe's,Boulder,CO,USA,","
-1990-04-05,1990,0,15,1,2,0,0,5,1990 Tour,1990,Tweezer,,1,J.J. McCabe's,Boulder,CO,USA,","
-1990-04-05,1990,0,16,2,2,0,0,5,1990 Tour,1990,Fee,,1,J.J. McCabe's,Boulder,CO,USA,>
-1990-04-05,1990,0,17,1,2,0,0,5,1990 Tour,1990,Cavern,,1,J.J. McCabe's,Boulder,CO,USA,","
-1990-04-05,1990,0,18,2,2,0,0,1,1990 Tour,1990,Mike's Song,Mike's,1,J.J. McCabe's,Boulder,CO,USA,>
-1990-04-05,1990,0,19,2,2,0,0,1,1990 Tour,1990,I Am Hydrogen,Hydrogen,1,J.J. McCabe's,Boulder,CO,USA,>
-1990-04-05,1990,0,20,1,2,0,0,1,1990 Tour,1990,Weekapaug Groove,Weekapaug,1,J.J. McCabe's,Boulder,CO,USA,","
-1990-04-05,1990,0,21,1,2,0,0,5,1990 Tour,1990,If I Only Had a Brain,,0,J.J. McCabe's,Boulder,CO,USA,","
-1990-04-05,1990,0,22,5,2,0,0,1,1990 Tour,1990,Contact,,1,J.J. McCabe's,Boulder,CO,USA,
-1990-04-05,1990,0,23,6,e,0,0,1,1990 Tour,1990,Golgi Apparatus,Golgi,1,J.J. McCabe's,Boulder,CO,USA,
 1990-04-06,1990,0,1,1,1,0,0,1,1990 Tour,1990,Cavern,,1,El Dorado Café,Crested Butte,CO,USA,","
 1990-04-06,1990,0,2,1,1,0,0,1,1990 Tour,1990,You Enjoy Myself,YEM,1,El Dorado Café,Crested Butte,CO,USA,","
 1990-04-06,1990,0,3,1,1,0,0,1,1990 Tour,1990,Uncle Pen,,0,El Dorado Café,Crested Butte,CO,USA,","
@@ -629,33 +482,6 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-04-08,1990,0,18,5,2,0,0,2,1990 Tour,1990,Run Like an Antelope,Antelope,1,Fly Me to the Moon Saloon,Telluride,CO,USA,
 1990-04-08,1990,0,19,1,e,0,0,2,1990 Tour,1990,Carolina,,0,Fly Me to the Moon Saloon,Telluride,CO,USA,","
 1990-04-08,1990,0,20,6,e,0,0,3,1990 Tour,1990,Fire,,0,Fly Me to the Moon Saloon,Telluride,CO,USA,
-1990-04-09,1990,0,1,1,1,2,0,3,1990 Tour,1990,Reba,,1,Fly Me to the Moon Saloon,Telluride,CO,USA,","
-1990-04-09,1990,0,2,1,1,2,0,3,1990 Tour,1990,Cavern,,1,Fly Me to the Moon Saloon,Telluride,CO,USA,","
-1990-04-09,1990,0,3,2,1,2,0,1,1990 Tour,1990,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Fly Me to the Moon Saloon,Telluride,CO,USA,>
-1990-04-09,1990,0,4,1,1,2,0,2,1990 Tour,1990,AC/DC Bag,Bag,1,Fly Me to the Moon Saloon,Telluride,CO,USA,","
-1990-04-09,1990,0,5,1,1,2,0,3,1990 Tour,1990,Caravan,,0,Fly Me to the Moon Saloon,Telluride,CO,USA,","
-1990-04-09,1990,0,6,2,1,2,0,14,1990 Tour,1990,Rocky Top,,0,Fly Me to the Moon Saloon,Telluride,CO,USA,>
-1990-04-09,1990,0,7,2,1,2,0,3,1990 Tour,1990,Alumni Blues,Alumni,1,Fly Me to the Moon Saloon,Telluride,CO,USA,>
-1990-04-09,1990,0,8,2,1,2,0,3,1990 Tour,1990,Letter to Jimmy Page,LTJP,1,Fly Me to the Moon Saloon,Telluride,CO,USA,>
-1990-04-09,1990,0,9,1,1,2,0,0,1990 Tour,1990,Alumni Blues,Alumni,1,Fly Me to the Moon Saloon,Telluride,CO,USA,","
-1990-04-09,1990,0,10,1,1,2,0,3,1990 Tour,1990,Ya Mar,,0,Fly Me to the Moon Saloon,Telluride,CO,USA,","
-1990-04-09,1990,0,11,1,1,2,0,3,1990 Tour,1990,The Sloth,Sloth,1,Fly Me to the Moon Saloon,Telluride,CO,USA,","
-1990-04-09,1990,0,12,2,1,2,0,14,1990 Tour,1990,McGrupp and the Watchful Hosemasters,McGrupp,1,Fly Me to the Moon Saloon,Telluride,CO,USA,>
-1990-04-09,1990,0,13,2,1,2,0,3,1990 Tour,1990,Dinner and a Movie,,1,Fly Me to the Moon Saloon,Telluride,CO,USA,>
-1990-04-09,1990,0,14,1,1,2,0,3,1990 Tour,1990,Bouncing Around the Room,Bouncin',1,Fly Me to the Moon Saloon,Telluride,CO,USA,","
-1990-04-09,1990,0,15,1,1,2,0,2,1990 Tour,1990,Runaway Jim,,1,Fly Me to the Moon Saloon,Telluride,CO,USA,","
-1990-04-09,1990,0,16,4,1,2,0,2,1990 Tour,1990,David Bowie,Bowie,1,Fly Me to the Moon Saloon,Telluride,CO,USA,
-1990-04-09,1990,0,17,1,2,2,0,1,1990 Tour,1990,Funky Bitch,,0,Fly Me to the Moon Saloon,Telluride,CO,USA,","
-1990-04-09,1990,0,18,2,2,2,0,3,1990 Tour,1990,Esther,,1,Fly Me to the Moon Saloon,Telluride,CO,USA,>
-1990-04-09,1990,0,19,1,2,2,0,1,1990 Tour,1990,Uncle Pen,,0,Fly Me to the Moon Saloon,Telluride,CO,USA,","
-1990-04-09,1990,0,20,1,2,2,0,3,1990 Tour,1990,La Grange,,0,Fly Me to the Moon Saloon,Telluride,CO,USA,","
-1990-04-09,1990,0,21,1,2,2,0,2,1990 Tour,1990,Foam,,1,Fly Me to the Moon Saloon,Telluride,CO,USA,","
-1990-04-09,1990,0,22,1,2,2,0,3,1990 Tour,1990,Harry Hood,Hood,1,Fly Me to the Moon Saloon,Telluride,CO,USA,","
-1990-04-09,1990,0,23,1,2,2,0,3,1990 Tour,1990,Jesus Just Left Chicago,JJLC,0,Fly Me to the Moon Saloon,Telluride,CO,USA,","
-1990-04-09,1990,0,24,1,2,2,0,1,1990 Tour,1990,Divided Sky,Divided,1,Fly Me to the Moon Saloon,Telluride,CO,USA,","
-1990-04-09,1990,0,25,1,2,2,0,58,1990 Tour,1990,Love You,,0,Fly Me to the Moon Saloon,Telluride,CO,USA,","
-1990-04-09,1990,0,26,1,2,2,0,2,1990 Tour,1990,Tweezer,,1,Fly Me to the Moon Saloon,Telluride,CO,USA,","
-1990-04-09,1990,0,27,6,2,2,0,9,1990 Tour,1990,Whipping Post,,0,Fly Me to the Moon Saloon,Telluride,CO,USA,
 1990-04-12,1990,0,1,1,1,0,0,2,1990 Tour,1990,Golgi Apparatus,Golgi,1,The Inferno,Steamboat Springs,CO,USA,","
 1990-04-12,1990,0,2,1,1,0,0,1,1990 Tour,1990,Ya Mar,,0,The Inferno,Steamboat Springs,CO,USA,","
 1990-04-12,1990,0,3,1,1,0,0,2,1990 Tour,1990,Walk Away,,0,The Inferno,Steamboat Springs,CO,USA,","
@@ -722,28 +548,6 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-04-14,1990,0,19,1,2,2,0,2,1990 Tour,1990,Golgi Apparatus,Golgi,1,The Inferno,Steamboat Springs,CO,USA,","
 1990-04-14,1990,0,20,2,2,2,0,4,1990 Tour,1990,Fee,,1,The Inferno,Steamboat Springs,CO,USA,>
 1990-04-14,1990,0,21,6,2,2,0,2,1990 Tour,1990,David Bowie,Bowie,1,The Inferno,Steamboat Springs,CO,USA,
-1990-04-18,1990,0,1,2,1,0,0,1,1990 Tour,1990,Mike's Song,Mike's,1,Herman's Hideaway,Denver,CO,USA,>
-1990-04-18,1990,0,2,2,1,0,0,1,1990 Tour,1990,I Am Hydrogen,Hydrogen,1,Herman's Hideaway,Denver,CO,USA,>
-1990-04-18,1990,0,3,1,1,0,0,1,1990 Tour,1990,Weekapaug Groove,Weekapaug,1,Herman's Hideaway,Denver,CO,USA,","
-1990-04-18,1990,0,4,1,1,0,0,1,1990 Tour,1990,Uncle Pen,,0,Herman's Hideaway,Denver,CO,USA,","
-1990-04-18,1990,0,5,2,1,0,0,19,1990 Tour,1990,The Curtain,Curtain,1,Herman's Hideaway,Denver,CO,USA,>
-1990-04-18,1990,0,6,1,1,0,0,2,1990 Tour,1990,Foam,,1,Herman's Hideaway,Denver,CO,USA,","
-1990-04-18,1990,0,7,1,1,0,0,2,1990 Tour,1990,You Enjoy Myself,YEM,1,Herman's Hideaway,Denver,CO,USA,","
-1990-04-18,1990,0,8,1,1,0,0,3,1990 Tour,1990,My Sweet One,MSO,1,Herman's Hideaway,Denver,CO,USA,","
-1990-04-18,1990,0,9,2,1,0,0,3,1990 Tour,1990,Take the 'A' Train,'A' Train,0,Herman's Hideaway,Denver,CO,USA,>
-1990-04-18,1990,0,10,4,1,0,0,2,1990 Tour,1990,Possum,,1,Herman's Hideaway,Denver,CO,USA,
-1990-04-18,1990,0,11,1,2,0,0,2,1990 Tour,1990,La Grange,,0,Herman's Hideaway,Denver,CO,USA,","
-1990-04-18,1990,0,12,1,2,0,0,1,1990 Tour,1990,Fee,,1,Herman's Hideaway,Denver,CO,USA,","
-1990-04-18,1990,0,13,1,2,0,0,2,1990 Tour,1990,The Sloth,Sloth,1,Herman's Hideaway,Denver,CO,USA,","
-1990-04-18,1990,0,14,1,2,0,0,2,1990 Tour,1990,Funky Bitch,,0,Herman's Hideaway,Denver,CO,USA,","
-1990-04-18,1990,0,15,2,2,0,0,2,1990 Tour,1990,Reba,,1,Herman's Hideaway,Denver,CO,USA,>
-1990-04-18,1990,0,16,1,2,0,0,3,1990 Tour,1990,Walk Away,,0,Herman's Hideaway,Denver,CO,USA,","
-1990-04-18,1990,0,17,2,2,0,0,1,1990 Tour,1990,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Herman's Hideaway,Denver,CO,USA,>
-1990-04-18,1990,0,18,1,2,0,0,1,1990 Tour,1990,Bold As Love,,0,Herman's Hideaway,Denver,CO,USA,","
-1990-04-18,1990,0,19,1,2,0,0,27,1990 Tour,1990,Lawn Boy,,1,Herman's Hideaway,Denver,CO,USA,","
-1990-04-18,1990,0,20,3,2,0,0,1,1990 Tour,1990,David Bowie,Bowie,1,Herman's Hideaway,Denver,CO,USA,->
-1990-04-18,1990,0,21,3,2,0,0,368,1990 Tour,1990,Jägermeister Song,,1,Herman's Hideaway,Denver,CO,USA,->
-1990-04-18,1990,0,22,6,2,0,0,0,1990 Tour,1990,David Bowie,Bowie,1,Herman's Hideaway,Denver,CO,USA,
 1990-04-19,1990,0,1,1,1,0,0,1,1990 Tour,1990,Reba,,1,Boulder Theater,Boulder,CO,USA,","
 1990-04-19,1990,0,2,1,1,0,0,4,1990 Tour,1990,Good Times Bad Times,GTBT,0,Boulder Theater,Boulder,CO,USA,","
 1990-04-19,1990,0,3,1,1,0,0,3,1990 Tour,1990,Fluffhead,,1,Boulder Theater,Boulder,CO,USA,","
@@ -779,49 +583,6 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-04-20,1990,0,21,1,2,0,0,4,1990 Tour,1990,AC/DC Bag,Bag,1,"Ramskeller, Colorado State University",Fort Collins,CO,USA,","
 1990-04-20,1990,0,22,1,2,0,0,5,1990 Tour,1990,Jesus Just Left Chicago,JJLC,0,"Ramskeller, Colorado State University",Fort Collins,CO,USA,","
 1990-04-20,1990,0,23,6,2,0,0,1,1990 Tour,1990,You Enjoy Myself,YEM,1,"Ramskeller, Colorado State University",Fort Collins,CO,USA,
-1990-04-21,1990,0,1,1,1,0,0,16,1990 Tour,1990,Sweet Adeline,,0,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,","
-1990-04-21,1990,0,2,1,1,0,0,2,1990 Tour,1990,Reba,,1,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,","
-1990-04-21,1990,0,3,1,1,0,0,3,1990 Tour,1990,Funky Bitch,,0,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,","
-1990-04-21,1990,0,4,2,1,0,0,5,1990 Tour,1990,Esther,,1,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,>
-1990-04-21,1990,0,5,1,1,0,0,3,1990 Tour,1990,Foam,,1,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,","
-1990-04-21,1990,0,6,1,1,0,0,3,1990 Tour,1990,Walk Away,,0,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,","
-1990-04-21,1990,0,7,2,1,0,0,373,1990 Tour,1990,How High the Moon,,0,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,>
-1990-04-21,1990,0,8,2,1,0,0,1,1990 Tour,1990,The Oh Kee Pa Ceremony,Oh Kee Pa,1,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,>
-1990-04-21,1990,0,9,1,1,0,0,4,1990 Tour,1990,Suzy Greenberg,Suzy,1,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,","
-1990-04-21,1990,0,10,1,1,0,0,9,1990 Tour,1990,Bike,,0,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,","
-1990-04-21,1990,0,11,4,1,0,0,5,1990 Tour,1990,Run Like an Antelope,Antelope,1,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,
-1990-04-21,1990,0,12,1,2,0,0,5,1990 Tour,1990,Harry Hood,Hood,1,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,","
-1990-04-21,1990,0,13,1,2,0,0,6,1990 Tour,1990,Runaway Jim,,1,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,","
-1990-04-21,1990,0,14,1,2,0,0,75,1990 Tour,1990,No Dogs Allowed,,1,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,","
-1990-04-21,1990,0,15,1,2,0,0,3,1990 Tour,1990,Uncle Pen,,0,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,","
-1990-04-21,1990,0,16,2,2,0,0,2,1990 Tour,1990,Fluffhead,,1,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,>
-1990-04-21,1990,0,17,1,2,0,0,2,1990 Tour,1990,Highway to Hell,,0,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,","
-1990-04-21,1990,0,18,2,2,0,0,20,1990 Tour,1990,Tela,,1,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,>
-1990-04-21,1990,0,19,1,2,0,0,4,1990 Tour,1990,Tweezer,,1,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,","
-1990-04-21,1990,0,20,6,2,0,0,6,1990 Tour,1990,The Lizards,Lizards,1,"Canyon West Room, Lincoln Center",Fort Collins,CO,USA,
-1990-04-22,1990,0,1,1,1,0,0,2,1990 Tour,1990,Divided Sky,Divided,1,"Cutler Quad, Colorado College",Colorado Springs,CO,USA,","
-1990-04-22,1990,0,2,1,1,0,0,1,1990 Tour,1990,Uncle Pen,,0,"Cutler Quad, Colorado College",Colorado Springs,CO,USA,","
-1990-04-22,1990,0,3,2,1,0,0,1,1990 Tour,1990,The Oh Kee Pa Ceremony,Oh Kee Pa,1,"Cutler Quad, Colorado College",Colorado Springs,CO,USA,>
-1990-04-22,1990,0,4,1,1,0,0,1,1990 Tour,1990,Suzy Greenberg,Suzy,1,"Cutler Quad, Colorado College",Colorado Springs,CO,USA,","
-1990-04-22,1990,0,5,1,1,0,0,2,1990 Tour,1990,Possum,,1,"Cutler Quad, Colorado College",Colorado Springs,CO,USA,","
-1990-04-22,1990,0,6,1,1,0,0,5,1990 Tour,1990,I Didn't Know,IDK,1,"Cutler Quad, Colorado College",Colorado Springs,CO,USA,","
-1990-04-22,1990,0,7,1,1,0,0,2,1990 Tour,1990,Cavern,,1,"Cutler Quad, Colorado College",Colorado Springs,CO,USA,","
-1990-04-22,1990,0,8,1,1,0,0,4,1990 Tour,1990,My Sweet One,MSO,1,"Cutler Quad, Colorado College",Colorado Springs,CO,USA,","
-1990-04-22,1990,0,9,2,1,0,0,9,1990 Tour,1990,Slave to the Traffic Light,Slave,1,"Cutler Quad, Colorado College",Colorado Springs,CO,USA,>
-1990-04-22,1990,0,10,2,1,0,0,2,1990 Tour,1990,Mike's Song,Mike's,1,"Cutler Quad, Colorado College",Colorado Springs,CO,USA,>
-1990-04-22,1990,0,11,2,1,0,0,2,1990 Tour,1990,I Am Hydrogen,Hydrogen,1,"Cutler Quad, Colorado College",Colorado Springs,CO,USA,>
-1990-04-22,1990,0,12,4,1,0,0,2,1990 Tour,1990,Weekapaug Groove,Weekapaug,1,"Cutler Quad, Colorado College",Colorado Springs,CO,USA,
-1990-04-22,1990,0,13,1,2,0,0,2,1990 Tour,1990,Dinner and a Movie,,1,"Cutler Quad, Colorado College",Colorado Springs,CO,USA,","
-1990-04-22,1990,0,14,2,2,0,0,2,1990 Tour,1990,Bouncing Around the Room,Bouncin',1,"Cutler Quad, Colorado College",Colorado Springs,CO,USA,>
-1990-04-22,1990,0,15,2,2,0,0,2,1990 Tour,1990,You Enjoy Myself,YEM,1,"Cutler Quad, Colorado College",Colorado Springs,CO,USA,>
-1990-04-22,1990,0,16,1,2,0,0,1,1990 Tour,1990,Fluffhead,,1,"Cutler Quad, Colorado College",Colorado Springs,CO,USA,","
-1990-04-22,1990,0,17,1,2,0,0,1,1990 Tour,1990,How High the Moon,,0,"Cutler Quad, Colorado College",Colorado Springs,CO,USA,","
-1990-04-22,1990,0,18,2,2,0,0,1,1990 Tour,1990,Esther,,1,"Cutler Quad, Colorado College",Colorado Springs,CO,USA,>
-1990-04-22,1990,0,19,1,2,0,0,10,1990 Tour,1990,Big Black Furry Creature from Mars,BBFCFM,1,"Cutler Quad, Colorado College",Colorado Springs,CO,USA,","
-1990-04-22,1990,0,20,1,2,0,0,1,1990 Tour,1990,Harry Hood,Hood,1,"Cutler Quad, Colorado College",Colorado Springs,CO,USA,","
-1990-04-22,1990,0,21,5,2,0,0,6,1990 Tour,1990,Fire,,0,"Cutler Quad, Colorado College",Colorado Springs,CO,USA,
-1990-04-22,1990,0,22,1,e,0,0,4,1990 Tour,1990,Lawn Boy,,1,"Cutler Quad, Colorado College",Colorado Springs,CO,USA,","
-1990-04-22,1990,0,23,6,e,0,0,3,1990 Tour,1990,Golgi Apparatus,Golgi,1,"Cutler Quad, Colorado College",Colorado Springs,CO,USA,
 1990-04-25,1990,0,1,1,1,0,0,3,1990 Tour,1990,Sweet Adeline,,0,"The Clarke Memorial Fountain, Notre Dame University",Notre Dame,IN,USA,","
 1990-04-25,1990,0,2,1,1,0,0,3,1990 Tour,1990,Reba,,1,"The Clarke Memorial Fountain, Notre Dame University",Notre Dame,IN,USA,","
 1990-04-25,1990,0,3,1,1,0,0,4,1990 Tour,1990,Ya Mar,,0,"The Clarke Memorial Fountain, Notre Dame University",Notre Dame,IN,USA,","
