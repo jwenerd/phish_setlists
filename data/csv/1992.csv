@@ -32,32 +32,6 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1992-03-06,1992,0,19,1,2,2,0,590,1992 Spring Tour,1992 Spring,NICU,,1,The Music Hall,Portsmouth,NH,USA,","
 1992-03-06,1992,0,20,5,2,2,0,1,1992 Spring Tour,1992 Spring,Possum,,1,The Music Hall,Portsmouth,NH,USA,
 1992-03-06,1992,0,21,6,e,2,0,589,1992 Spring Tour,1992 Spring,Sleeping Monkey,,1,The Music Hall,Portsmouth,NH,USA,
-1992-03-07,1992,0,1,1,1,2,0,2,1992 Spring Tour,1992 Spring,Brother,,1,The Music Hall,Portsmouth,NH,USA,","
-1992-03-07,1992,0,2,1,1,2,0,590,1992 Spring Tour,1992 Spring,My Mind's Got a Mind of its Own,MMGAMOIO,0,The Music Hall,Portsmouth,NH,USA,","
-1992-03-07,1992,0,3,1,1,2,0,2,1992 Spring Tour,1992 Spring,Foam,,1,The Music Hall,Portsmouth,NH,USA,","
-1992-03-07,1992,0,4,1,1,2,0,2,1992 Spring Tour,1992 Spring,Runaway Jim,,1,The Music Hall,Portsmouth,NH,USA,","
-1992-03-07,1992,0,5,2,1,2,0,591,1992 Spring Tour,1992 Spring,The Horse,Horse,1,The Music Hall,Portsmouth,NH,USA,>
-1992-03-07,1992,0,6,1,1,2,0,591,1992 Spring Tour,1992 Spring,Silent in the Morning,Silent,1,The Music Hall,Portsmouth,NH,USA,","
-1992-03-07,1992,0,7,1,1,2,0,1,1992 Spring Tour,1992 Spring,Maze,,1,The Music Hall,Portsmouth,NH,USA,","
-1992-03-07,1992,0,8,1,1,2,0,3,1992 Spring Tour,1992 Spring,The Mango Song,Mango,1,The Music Hall,Portsmouth,NH,USA,","
-1992-03-07,1992,0,9,1,1,2,0,2,1992 Spring Tour,1992 Spring,The Landlady,Landlady,1,The Music Hall,Portsmouth,NH,USA,","
-1992-03-07,1992,0,10,1,1,2,0,1,1992 Spring Tour,1992 Spring,Rift,,1,The Music Hall,Portsmouth,NH,USA,","
-1992-03-07,1992,0,11,4,1,2,0,2,1992 Spring Tour,1992 Spring,Run Like an Antelope,Antelope,1,The Music Hall,Portsmouth,NH,USA,
-1992-03-07,1992,0,12,2,2,2,0,2,1992 Spring Tour,1992 Spring,My Sweet One,MSO,1,The Music Hall,Portsmouth,NH,USA,>
-1992-03-07,1992,0,13,1,2,2,0,2,1992 Spring Tour,1992 Spring,Tweezer,,1,The Music Hall,Portsmouth,NH,USA,","
-1992-03-07,1992,0,14,1,2,2,0,2,1992 Spring Tour,1992 Spring,The Squirming Coil,Coil,1,The Music Hall,Portsmouth,NH,USA,","
-1992-03-07,1992,0,15,2,2,2,0,590,1992 Spring Tour,1992 Spring,Weigh,,1,The Music Hall,Portsmouth,NH,USA,>
-1992-03-07,1992,0,16,1,2,2,0,3,1992 Spring Tour,1992 Spring,Chalk Dust Torture,CDT,1,The Music Hall,Portsmouth,NH,USA,","
-1992-03-07,1992,0,17,1,2,2,0,4,1992 Spring Tour,1992 Spring,Horn,,1,The Music Hall,Portsmouth,NH,USA,","
-1992-03-07,1992,0,18,2,2,2,0,2,1992 Spring Tour,1992 Spring,Mike's Song,Mike's,1,The Music Hall,Portsmouth,NH,USA,>
-1992-03-07,1992,0,19,2,2,2,0,2,1992 Spring Tour,1992 Spring,I Am Hydrogen,Hydrogen,1,The Music Hall,Portsmouth,NH,USA,>
-1992-03-07,1992,0,20,2,2,2,0,2,1992 Spring Tour,1992 Spring,Weekapaug Groove,Weekapaug,1,The Music Hall,Portsmouth,NH,USA,>
-1992-03-07,1992,0,21,2,2,2,0,590,1992 Spring Tour,1992 Spring,Cold as Ice,,0,The Music Hall,Portsmouth,NH,USA,>
-1992-03-07,1992,0,22,2,2,2,0,594,1992 Spring Tour,1992 Spring,Cracklin' Rosie,,0,The Music Hall,Portsmouth,NH,USA,>
-1992-03-07,1992,0,23,1,2,2,0,0,1992 Spring Tour,1992 Spring,Cold as Ice,,0,The Music Hall,Portsmouth,NH,USA,","
-1992-03-07,1992,0,24,5,2,2,0,2,1992 Spring Tour,1992 Spring,Tweezer Reprise,Tweeprise,1,The Music Hall,Portsmouth,NH,USA,
-1992-03-07,1992,0,25,1,e,2,0,3,1992 Spring Tour,1992 Spring,Sweet Adeline,,0,The Music Hall,Portsmouth,NH,USA,","
-1992-03-07,1992,0,26,6,e,2,0,2,1992 Spring Tour,1992 Spring,Golgi Apparatus,Golgi,1,The Music Hall,Portsmouth,NH,USA,
 1992-03-11,1992,0,1,2,1,0,0,7,1992 Spring Tour,1992 Spring,Suzy Greenberg,Suzy,1,The Colonial Theatre,Keene,NH,USA,>
 1992-03-11,1992,0,2,1,1,0,0,2,1992 Spring Tour,1992 Spring,"My Friend, My Friend",My Friend,1,The Colonial Theatre,Keene,NH,USA,","
 1992-03-11,1992,0,3,2,1,0,0,6,1992 Spring Tour,1992 Spring,Paul and Silas,,0,The Colonial Theatre,Keene,NH,USA,>
@@ -85,62 +59,6 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1992-03-11,1992,0,25,1,e,0,0,5,1992 Spring Tour,1992 Spring,Memories,,0,The Colonial Theatre,Keene,NH,USA,","
 1992-03-11,1992,0,26,1,e,0,0,38,1992 Spring Tour,1992 Spring,Carolina,,0,The Colonial Theatre,Keene,NH,USA,","
 1992-03-11,1992,0,27,6,e,0,0,2,1992 Spring Tour,1992 Spring,Sleeping Monkey,,1,The Colonial Theatre,Keene,NH,USA,
-1992-03-12,1992,0,1,1,1,0,0,2,1992 Spring Tour,1992 Spring,Runaway Jim,,1,The Flynn Theatre,Burlington,VT,USA,","
-1992-03-12,1992,0,2,1,1,0,0,2,1992 Spring Tour,1992 Spring,Foam,,1,The Flynn Theatre,Burlington,VT,USA,","
-1992-03-12,1992,0,3,1,1,0,0,3,1992 Spring Tour,1992 Spring,Sparkle,,1,The Flynn Theatre,Burlington,VT,USA,","
-1992-03-12,1992,0,4,1,1,0,0,3,1992 Spring Tour,1992 Spring,Stash,,1,The Flynn Theatre,Burlington,VT,USA,","
-1992-03-12,1992,0,5,1,1,0,0,6,1992 Spring Tour,1992 Spring,I Didn't Know,IDK,1,The Flynn Theatre,Burlington,VT,USA,","
-1992-03-12,1992,0,6,1,1,0,0,1,1992 Spring Tour,1992 Spring,Reba,,1,The Flynn Theatre,Burlington,VT,USA,","
-1992-03-12,1992,0,7,2,1,0,0,4,1992 Spring Tour,1992 Spring,Buried Alive,,1,The Flynn Theatre,Burlington,VT,USA,>
-1992-03-12,1992,0,8,1,1,0,0,2,1992 Spring Tour,1992 Spring,Rift,,1,The Flynn Theatre,Burlington,VT,USA,","
-1992-03-12,1992,0,9,1,1,0,0,6,1992 Spring Tour,1992 Spring,Magilla,,1,The Flynn Theatre,Burlington,VT,USA,","
-1992-03-12,1992,0,10,1,1,0,0,1,1992 Spring Tour,1992 Spring,Llama,,1,The Flynn Theatre,Burlington,VT,USA,","
-1992-03-12,1992,0,11,4,1,0,0,6,1992 Spring Tour,1992 Spring,You Enjoy Myself,YEM,1,The Flynn Theatre,Burlington,VT,USA,
-1992-03-12,1992,0,12,1,2,0,0,2,1992 Spring Tour,1992 Spring,Golgi Apparatus,Golgi,1,The Flynn Theatre,Burlington,VT,USA,","
-1992-03-12,1992,0,13,1,2,0,0,2,1992 Spring Tour,1992 Spring,Tweezer,,1,The Flynn Theatre,Burlington,VT,USA,","
-1992-03-12,1992,0,14,2,2,0,0,6,1992 Spring Tour,1992 Spring,Eliza,,1,The Flynn Theatre,Burlington,VT,USA,>
-1992-03-12,1992,0,15,2,2,0,0,3,1992 Spring Tour,1992 Spring,It's Ice,,1,The Flynn Theatre,Burlington,VT,USA,>
-1992-03-12,1992,0,16,1,2,0,0,3,1992 Spring Tour,1992 Spring,Bouncing Around the Room,Bouncin',1,The Flynn Theatre,Burlington,VT,USA,","
-1992-03-12,1992,0,17,2,2,0,0,2,1992 Spring Tour,1992 Spring,The Squirming Coil,Coil,1,The Flynn Theatre,Burlington,VT,USA,>
-1992-03-12,1992,0,18,1,2,0,0,6,1992 Spring Tour,1992 Spring,Uncle Pen,,0,The Flynn Theatre,Burlington,VT,USA,","
-1992-03-12,1992,0,19,1,2,0,0,3,1992 Spring Tour,1992 Spring,David Bowie,Bowie,1,The Flynn Theatre,Burlington,VT,USA,","
-1992-03-12,1992,0,20,2,2,0,0,1,1992 Spring Tour,1992 Spring,Cold as Ice,,0,The Flynn Theatre,Burlington,VT,USA,>
-1992-03-12,1992,0,21,2,2,0,0,2,1992 Spring Tour,1992 Spring,Cracklin' Rosie,,0,The Flynn Theatre,Burlington,VT,USA,>
-1992-03-12,1992,0,22,1,2,0,0,0,1992 Spring Tour,1992 Spring,Cold as Ice,,0,The Flynn Theatre,Burlington,VT,USA,","
-1992-03-12,1992,0,23,2,2,0,0,2,1992 Spring Tour,1992 Spring,My Sweet One,MSO,1,The Flynn Theatre,Burlington,VT,USA,>
-1992-03-12,1992,0,24,5,2,0,0,1,1992 Spring Tour,1992 Spring,Cavern,,1,The Flynn Theatre,Burlington,VT,USA,
-1992-03-12,1992,0,25,1,e,0,0,2,1992 Spring Tour,1992 Spring,Sweet Adeline,,0,The Flynn Theatre,Burlington,VT,USA,","
-1992-03-12,1992,0,26,2,e,0,0,2,1992 Spring Tour,1992 Spring,Weigh,,1,The Flynn Theatre,Burlington,VT,USA,>
-1992-03-12,1992,0,27,6,e,0,0,2,1992 Spring Tour,1992 Spring,Tweezer Reprise,Tweeprise,1,The Flynn Theatre,Burlington,VT,USA,
-1992-03-13,1992,0,1,2,1,0,0,6,1992 Spring Tour,1992 Spring,The Curtain,Curtain,1,Campus Club,Providence,RI,USA,>
-1992-03-13,1992,0,2,1,1,0,0,2,1992 Spring Tour,1992 Spring,Split Open and Melt,SOAMelt,1,Campus Club,Providence,RI,USA,","
-1992-03-13,1992,0,3,2,1,0,0,4,1992 Spring Tour,1992 Spring,Poor Heart,,1,Campus Club,Providence,RI,USA,>
-1992-03-13,1992,0,4,1,1,0,0,4,1992 Spring Tour,1992 Spring,Guelah Papyrus,Guelah,1,Campus Club,Providence,RI,USA,","
-1992-03-13,1992,0,5,1,1,0,0,2,1992 Spring Tour,1992 Spring,Maze,,1,Campus Club,Providence,RI,USA,","
-1992-03-13,1992,0,6,2,1,0,0,9,1992 Spring Tour,1992 Spring,Dinner and a Movie,,1,Campus Club,Providence,RI,USA,>
-1992-03-13,1992,0,7,1,1,0,0,2,1992 Spring Tour,1992 Spring,Divided Sky,Divided,1,Campus Club,Providence,RI,USA,","
-1992-03-13,1992,0,8,2,1,0,0,2,1992 Spring Tour,1992 Spring,Mound,,1,Campus Club,Providence,RI,USA,>
-1992-03-13,1992,0,9,1,1,0,0,8,1992 Spring Tour,1992 Spring,Fluffhead,,1,Campus Club,Providence,RI,USA,","
-1992-03-13,1992,0,10,3,1,0,0,3,1992 Spring Tour,1992 Spring,Run Like an Antelope,Antelope,1,Campus Club,Providence,RI,USA,->
-1992-03-13,1992,0,11,2,1,0,0,12,1992 Spring Tour,1992 Spring,Big Black Furry Creature from Mars,BBFCFM,1,Campus Club,Providence,RI,USA,>
-1992-03-13,1992,0,12,4,1,0,0,0,1992 Spring Tour,1992 Spring,Run Like an Antelope,Antelope,1,Campus Club,Providence,RI,USA,
-1992-03-13,1992,0,13,2,2,0,0,5,1992 Spring Tour,1992 Spring,Wilson,,1,Campus Club,Providence,RI,USA,>
-1992-03-13,1992,0,14,1,2,0,0,2,1992 Spring Tour,1992 Spring,Brother,,1,Campus Club,Providence,RI,USA,","
-1992-03-13,1992,0,15,2,2,0,0,3,1992 Spring Tour,1992 Spring,The Horse,Horse,1,Campus Club,Providence,RI,USA,>
-1992-03-13,1992,0,16,1,2,0,0,3,1992 Spring Tour,1992 Spring,Silent in the Morning,Silent,1,Campus Club,Providence,RI,USA,","
-1992-03-13,1992,0,17,2,2,0,0,3,1992 Spring Tour,1992 Spring,The Landlady,Landlady,1,Campus Club,Providence,RI,USA,>
-1992-03-13,1992,0,18,1,2,0,0,2,1992 Spring Tour,1992 Spring,The Lizards,Lizards,1,Campus Club,Providence,RI,USA,","
-1992-03-13,1992,0,19,1,2,0,0,2,1992 Spring Tour,1992 Spring,My Mind's Got a Mind of its Own,MMGAMOIO,0,Campus Club,Providence,RI,USA,","
-1992-03-13,1992,0,20,1,2,0,0,2,1992 Spring Tour,1992 Spring,The Sloth,Sloth,1,Campus Club,Providence,RI,USA,","
-1992-03-13,1992,0,21,1,2,0,0,1,1992 Spring Tour,1992 Spring,Rift,,1,Campus Club,Providence,RI,USA,","
-1992-03-13,1992,0,22,2,2,0,0,1,1992 Spring Tour,1992 Spring,Cold as Ice,,0,Campus Club,Providence,RI,USA,>
-1992-03-13,1992,0,23,2,2,0,0,9,1992 Spring Tour,1992 Spring,Love You,,0,Campus Club,Providence,RI,USA,>
-1992-03-13,1992,0,24,1,2,0,0,0,1992 Spring Tour,1992 Spring,Cold as Ice,,0,Campus Club,Providence,RI,USA,","
-1992-03-13,1992,0,25,2,2,0,0,4,1992 Spring Tour,1992 Spring,Possum,,1,Campus Club,Providence,RI,USA,>
-1992-03-13,1992,0,26,2,2,0,0,4,1992 Spring Tour,1992 Spring,Secret Language Instructions,,1,Campus Club,Providence,RI,USA,>
-1992-03-13,1992,0,27,5,2,0,0,0,1992 Spring Tour,1992 Spring,Possum,,1,Campus Club,Providence,RI,USA,
-1992-03-13,1992,0,28,1,e,0,0,10,1992 Spring Tour,1992 Spring,Contact,,1,Campus Club,Providence,RI,USA,","
-1992-03-13,1992,0,29,6,e,0,0,25,1992 Spring Tour,1992 Spring,Fire,,0,Campus Club,Providence,RI,USA,
 1992-03-14,1992,0,1,2,1,0,0,2,1992 Spring Tour,1992 Spring,Runaway Jim,,1,Roseland Ballroom,New York,NY,USA,>
 1992-03-14,1992,0,2,1,1,0,0,2,1992 Spring Tour,1992 Spring,Cavern,,1,Roseland Ballroom,New York,NY,USA,","
 1992-03-14,1992,0,3,1,1,0,0,2,1992 Spring Tour,1992 Spring,Reba,,1,Roseland Ballroom,New York,NY,USA,","
@@ -221,33 +139,6 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1992-03-19,1992,0,25,2,e,0,0,2,1992 Spring Tour,1992 Spring,Sleeping Monkey,,1,Palace Theatre,New Haven,CT,USA,>
 1992-03-19,1992,0,26,7,e,0,0,5,1992 Spring Tour,1992 Spring,Rocky Top,,0,Palace Theatre,New Haven,CT,USA,
 1992-03-19,1992,0,27,6,e2,0,0,1,1992 Spring Tour,1992 Spring,Sweet Adeline,,0,Palace Theatre,New Haven,CT,USA,
-1992-03-20,1992,0,1,2,1,0,0,4,1992 Spring Tour,1992 Spring,Wilson,,1,Broome County Forum,Binghamton,NY,USA,>
-1992-03-20,1992,0,2,1,1,0,0,3,1992 Spring Tour,1992 Spring,Reba,,1,Broome County Forum,Binghamton,NY,USA,","
-1992-03-20,1992,0,3,1,1,0,0,4,1992 Spring Tour,1992 Spring,Brother,,1,Broome County Forum,Binghamton,NY,USA,","
-1992-03-20,1992,0,4,2,1,0,0,1,1992 Spring Tour,1992 Spring,Glide,,1,Broome County Forum,Binghamton,NY,USA,>
-1992-03-20,1992,0,5,1,1,0,0,1,1992 Spring Tour,1992 Spring,Rift,,1,Broome County Forum,Binghamton,NY,USA,","
-1992-03-20,1992,0,6,2,1,0,0,4,1992 Spring Tour,1992 Spring,Fluffhead,,1,Broome County Forum,Binghamton,NY,USA,>
-1992-03-20,1992,0,7,1,1,0,0,4,1992 Spring Tour,1992 Spring,Maze,,1,Broome County Forum,Binghamton,NY,USA,","
-1992-03-20,1992,0,8,1,1,0,0,4,1992 Spring Tour,1992 Spring,The Lizards,Lizards,1,Broome County Forum,Binghamton,NY,USA,","
-1992-03-20,1992,0,9,2,1,0,0,4,1992 Spring Tour,1992 Spring,Mound,,1,Broome County Forum,Binghamton,NY,USA,>
-1992-03-20,1992,0,10,4,1,0,0,2,1992 Spring Tour,1992 Spring,Run Like an Antelope,Antelope,1,Broome County Forum,Binghamton,NY,USA,
-1992-03-20,1992,0,11,2,2,0,0,2,1992 Spring Tour,1992 Spring,Mike's Song,Mike's,1,Broome County Forum,Binghamton,NY,USA,>
-1992-03-20,1992,0,12,2,2,0,0,2,1992 Spring Tour,1992 Spring,I Am Hydrogen,Hydrogen,1,Broome County Forum,Binghamton,NY,USA,>
-1992-03-20,1992,0,13,1,2,0,0,2,1992 Spring Tour,1992 Spring,Weekapaug Groove,Weekapaug,1,Broome County Forum,Binghamton,NY,USA,","
-1992-03-20,1992,0,14,1,2,0,0,6,1992 Spring Tour,1992 Spring,Sanity,,1,Broome County Forum,Binghamton,NY,USA,","
-1992-03-20,1992,0,15,1,2,0,0,2,1992 Spring Tour,1992 Spring,The Sloth,Sloth,1,Broome County Forum,Binghamton,NY,USA,","
-1992-03-20,1992,0,16,2,2,0,0,7,1992 Spring Tour,1992 Spring,The Mango Song,Mango,1,Broome County Forum,Binghamton,NY,USA,>
-1992-03-20,1992,0,17,1,2,0,0,2,1992 Spring Tour,1992 Spring,Cavern,,1,Broome County Forum,Binghamton,NY,USA,","
-1992-03-20,1992,0,18,1,2,0,0,5,1992 Spring Tour,1992 Spring,Uncle Pen,,0,Broome County Forum,Binghamton,NY,USA,","
-1992-03-20,1992,0,19,1,2,0,0,3,1992 Spring Tour,1992 Spring,Harry Hood,Hood,1,Broome County Forum,Binghamton,NY,USA,","
-1992-03-20,1992,0,20,2,2,0,0,1,1992 Spring Tour,1992 Spring,Cold as Ice,,0,Broome County Forum,Binghamton,NY,USA,>
-1992-03-20,1992,0,21,2,2,0,0,10,1992 Spring Tour,1992 Spring,Terrapin,,0,Broome County Forum,Binghamton,NY,USA,>
-1992-03-20,1992,0,22,1,2,0,0,0,1992 Spring Tour,1992 Spring,Cold as Ice,,0,Broome County Forum,Binghamton,NY,USA,","
-1992-03-20,1992,0,23,2,2,0,0,2,1992 Spring Tour,1992 Spring,Possum,,1,Broome County Forum,Binghamton,NY,USA,>
-1992-03-20,1992,0,24,2,2,0,0,4,1992 Spring Tour,1992 Spring,Secret Language Instructions,,1,Broome County Forum,Binghamton,NY,USA,>
-1992-03-20,1992,0,25,5,2,0,0,0,1992 Spring Tour,1992 Spring,Possum,,1,Broome County Forum,Binghamton,NY,USA,
-1992-03-20,1992,0,26,1,e,0,0,9,1992 Spring Tour,1992 Spring,Lawn Boy,,1,Broome County Forum,Binghamton,NY,USA,","
-1992-03-20,1992,0,27,6,e,0,0,4,1992 Spring Tour,1992 Spring,Fire,,0,Broome County Forum,Binghamton,NY,USA,
 1992-03-21,1992,0,1,2,1,0,0,2,1992 Spring Tour,1992 Spring,The Landlady,Landlady,1,Chestnut Cabaret,Philadelphia,PA,USA,>
 1992-03-21,1992,0,2,1,1,0,0,3,1992 Spring Tour,1992 Spring,Runaway Jim,,1,Chestnut Cabaret,Philadelphia,PA,USA,","
 1992-03-21,1992,0,3,1,1,0,0,4,1992 Spring Tour,1992 Spring,Foam,,1,Chestnut Cabaret,Philadelphia,PA,USA,","
@@ -279,34 +170,6 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1992-03-22,1992,0,2,1,1,0,0,1,1992 Spring Tour,1992 Spring,All Things Reconsidered,ATR,1,Cultural Center Auditorium,Charleston,WV,USA,","
 1992-03-22,1992,0,3,1,1,0,0,1,1992 Spring Tour,1992 Spring,Foam,,1,Cultural Center Auditorium,Charleston,WV,USA,","
 1992-03-22,1992,0,4,6,1,0,0,1,1992 Spring Tour,1992 Spring,The Landlady,Landlady,1,Cultural Center Auditorium,Charleston,WV,USA,
-1992-03-24,1992,0,1,1,1,0,0,2,1992 Spring Tour,1992 Spring,Stash,,1,Flood Zone,Richmond,VA,USA,","
-1992-03-24,1992,0,2,1,1,0,0,2,1992 Spring Tour,1992 Spring,Poor Heart,,1,Flood Zone,Richmond,VA,USA,","
-1992-03-24,1992,0,3,1,1,0,0,1,1992 Spring Tour,1992 Spring,Foam,,1,Flood Zone,Richmond,VA,USA,","
-1992-03-24,1992,0,4,2,1,0,0,8,1992 Spring Tour,1992 Spring,Eliza,,1,Flood Zone,Richmond,VA,USA,>
-1992-03-24,1992,0,5,1,1,0,0,3,1992 Spring Tour,1992 Spring,Rift,,1,Flood Zone,Richmond,VA,USA,","
-1992-03-24,1992,0,6,1,1,0,0,2,1992 Spring Tour,1992 Spring,Golgi Apparatus,Golgi,1,Flood Zone,Richmond,VA,USA,","
-1992-03-24,1992,0,7,2,1,0,0,2,1992 Spring Tour,1992 Spring,The Horse,Horse,1,Flood Zone,Richmond,VA,USA,>
-1992-03-24,1992,0,8,1,1,0,0,2,1992 Spring Tour,1992 Spring,Silent in the Morning,Silent,1,Flood Zone,Richmond,VA,USA,","
-1992-03-24,1992,0,9,1,1,0,0,5,1992 Spring Tour,1992 Spring,Llama,,1,Flood Zone,Richmond,VA,USA,","
-1992-03-24,1992,0,10,2,1,0,0,4,1992 Spring Tour,1992 Spring,Colonel Forbin's Ascent,Forbin's,1,Flood Zone,Richmond,VA,USA,>
-1992-03-24,1992,0,11,2,1,0,0,4,1992 Spring Tour,1992 Spring,Fly Famous Mockingbird,Mockingbird,1,Flood Zone,Richmond,VA,USA,>
-1992-03-24,1992,0,12,1,1,0,0,1,1992 Spring Tour,1992 Spring,The Landlady,Landlady,1,Flood Zone,Richmond,VA,USA,","
-1992-03-24,1992,0,13,4,1,0,0,2,1992 Spring Tour,1992 Spring,David Bowie,Bowie,1,Flood Zone,Richmond,VA,USA,
-1992-03-24,1992,0,14,2,2,0,0,7,1992 Spring Tour,1992 Spring,The Curtain,Curtain,1,Flood Zone,Richmond,VA,USA,>
-1992-03-24,1992,0,15,2,2,0,0,3,1992 Spring Tour,1992 Spring,Mike's Song,Mike's,1,Flood Zone,Richmond,VA,USA,>
-1992-03-24,1992,0,16,2,2,0,0,3,1992 Spring Tour,1992 Spring,I Am Hydrogen,Hydrogen,1,Flood Zone,Richmond,VA,USA,>
-1992-03-24,1992,0,17,1,2,0,0,3,1992 Spring Tour,1992 Spring,Weekapaug Groove,Weekapaug,1,Flood Zone,Richmond,VA,USA,","
-1992-03-24,1992,0,18,1,2,0,0,5,1992 Spring Tour,1992 Spring,Guelah Papyrus,Guelah,1,Flood Zone,Richmond,VA,USA,","
-1992-03-24,1992,0,19,1,2,0,0,3,1992 Spring Tour,1992 Spring,The Mango Song,Mango,1,Flood Zone,Richmond,VA,USA,","
-1992-03-24,1992,0,20,1,2,0,0,3,1992 Spring Tour,1992 Spring,Brother,,1,Flood Zone,Richmond,VA,USA,","
-1992-03-24,1992,0,21,1,2,0,0,3,1992 Spring Tour,1992 Spring,Uncle Pen,,0,Flood Zone,Richmond,VA,USA,","
-1992-03-24,1992,0,22,2,2,0,0,5,1992 Spring Tour,1992 Spring,I Didn't Know,IDK,1,Flood Zone,Richmond,VA,USA,>
-1992-03-24,1992,0,23,2,2,0,0,2,1992 Spring Tour,1992 Spring,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Flood Zone,Richmond,VA,USA,>
-1992-03-24,1992,0,24,2,2,0,0,2,1992 Spring Tour,1992 Spring,Suzy Greenberg,Suzy,1,Flood Zone,Richmond,VA,USA,>
-1992-03-24,1992,0,25,1,2,0,0,3,1992 Spring Tour,1992 Spring,Harry Hood,Hood,1,Flood Zone,Richmond,VA,USA,","
-1992-03-24,1992,0,26,5,2,0,0,3,1992 Spring Tour,1992 Spring,Cavern,,1,Flood Zone,Richmond,VA,USA,
-1992-03-24,1992,0,27,1,e,0,0,3,1992 Spring Tour,1992 Spring,Lawn Boy,,1,Flood Zone,Richmond,VA,USA,","
-1992-03-24,1992,0,28,6,e,0,0,3,1992 Spring Tour,1992 Spring,Fire,,0,Flood Zone,Richmond,VA,USA,
 1992-03-25,1992,0,1,2,1,0,0,4,1992 Spring Tour,1992 Spring,Wilson,,1,Trax,Charlottesville,VA,USA,>
 1992-03-25,1992,0,2,1,1,0,0,2,1992 Spring Tour,1992 Spring,Sparkle,,1,Trax,Charlottesville,VA,USA,","
 1992-03-25,1992,0,3,1,1,0,0,3,1992 Spring Tour,1992 Spring,Split Open and Melt,SOAMelt,1,Trax,Charlottesville,VA,USA,","
@@ -388,24 +251,6 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1992-03-27,1992,0,25,5,2,2,0,2,1992 Spring Tour,1992 Spring,Golgi Apparatus,Golgi,1,1313 Club,Charlotte,NC,USA,
 1992-03-27,1992,0,26,1,e,2,0,8,1992 Spring Tour,1992 Spring,Memories,,0,1313 Club,Charlotte,NC,USA,","
 1992-03-27,1992,0,27,6,e,2,0,7,1992 Spring Tour,1992 Spring,Sweet Adeline,,0,1313 Club,Charlotte,NC,USA,
-1992-03-28,1992,0,1,1,1,0,0,2,1992 Spring Tour,1992 Spring,Runaway Jim,,1,Variety Playhouse,Atlanta,GA,USA,","
-1992-03-28,1992,0,2,1,1,0,0,2,1992 Spring Tour,1992 Spring,Foam,,1,Variety Playhouse,Atlanta,GA,USA,","
-1992-03-28,1992,0,3,1,1,0,0,2,1992 Spring Tour,1992 Spring,Sparkle,,1,Variety Playhouse,Atlanta,GA,USA,","
-1992-03-28,1992,0,4,1,1,0,0,2,1992 Spring Tour,1992 Spring,Stash,,1,Variety Playhouse,Atlanta,GA,USA,","
-1992-03-28,1992,0,5,1,1,0,0,1,1992 Spring Tour,1992 Spring,Rift,,1,Variety Playhouse,Atlanta,GA,USA,","
-1992-03-28,1992,0,6,1,1,0,0,1,1992 Spring Tour,1992 Spring,Bouncing Around the Room,Bouncin',1,Variety Playhouse,Atlanta,GA,USA,","
-1992-03-28,1992,0,7,2,1,0,0,2,1992 Spring Tour,1992 Spring,The Landlady,Landlady,1,Variety Playhouse,Atlanta,GA,USA,>
-1992-03-28,1992,0,8,3,1,0,0,2,1992 Spring Tour,1992 Spring,David Bowie,Bowie,1,Variety Playhouse,Atlanta,GA,USA,->
-1992-03-28,1992,0,9,2,1,0,0,604,1992 Spring Tour,1992 Spring,Lullaby of Birdland,,0,Variety Playhouse,Atlanta,GA,USA,>
-1992-03-28,1992,0,10,2,1,0,0,0,1992 Spring Tour,1992 Spring,David Bowie,Bowie,1,Variety Playhouse,Atlanta,GA,USA,>
-1992-03-28,1992,0,11,2,1,0,0,7,1992 Spring Tour,1992 Spring,Secret Language Instructions,,1,Variety Playhouse,Atlanta,GA,USA,>
-1992-03-28,1992,0,12,1,1,0,0,0,1992 Spring Tour,1992 Spring,David Bowie,Bowie,1,Variety Playhouse,Atlanta,GA,USA,","
-1992-03-28,1992,0,13,2,1,0,0,1,1992 Spring Tour,1992 Spring,Glide,,1,Variety Playhouse,Atlanta,GA,USA,>
-1992-03-28,1992,0,14,4,1,0,0,2,1992 Spring Tour,1992 Spring,Cavern,,1,Variety Playhouse,Atlanta,GA,USA,
-1992-03-28,1992,0,15,1,2,0,0,1,1992 Spring Tour,1992 Spring,Memories,,0,Variety Playhouse,Atlanta,GA,USA,","
-1992-03-28,1992,0,16,1,2,0,0,13,1992 Spring Tour,1992 Spring,Carolina,,0,Variety Playhouse,Atlanta,GA,USA,","
-1992-03-28,1992,0,17,1,2,0,0,4,1992 Spring Tour,1992 Spring,I Didn't Know,IDK,1,Variety Playhouse,Atlanta,GA,USA,","
-1992-03-28,1992,0,18,6,2,0,0,1,1992 Spring Tour,1992 Spring,Sweet Adeline,,0,Variety Playhouse,Atlanta,GA,USA,
 1992-03-30,1992,0,1,1,1,0,0,1,1992 Spring Tour,1992 Spring,The Landlady,Landlady,1,Mississippi Nights,St. Louis,MO,USA,","
 1992-03-30,1992,0,2,1,1,0,0,2,1992 Spring Tour,1992 Spring,Llama,,1,Mississippi Nights,St. Louis,MO,USA,","
 1992-03-30,1992,0,3,1,1,0,0,1,1992 Spring Tour,1992 Spring,Foam,,1,Mississippi Nights,St. Louis,MO,USA,","
@@ -512,33 +357,6 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1992-04-03,1992,0,19,1,2,0,0,5,1992 Spring Tour,1992 Spring,Harry Hood,Hood,1,"Sawatch Hall, Park Hyatt Beaver Creek",Avon,CO,USA,","
 1992-04-03,1992,0,20,5,2,0,0,3,1992 Spring Tour,1992 Spring,Suzy Greenberg,Suzy,1,"Sawatch Hall, Park Hyatt Beaver Creek",Avon,CO,USA,
 1992-04-03,1992,0,21,6,e,0,0,1,1992 Spring Tour,1992 Spring,Rocky Top,,0,"Sawatch Hall, Park Hyatt Beaver Creek",Avon,CO,USA,
-1992-04-04,1992,0,1,1,1,0,0,2,1992 Spring Tour,1992 Spring,Runaway Jim,,1,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,","
-1992-04-04,1992,0,2,1,1,0,0,2,1992 Spring Tour,1992 Spring,Foam,,1,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,","
-1992-04-04,1992,0,3,1,1,0,0,3,1992 Spring Tour,1992 Spring,Reba,,1,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,","
-1992-04-04,1992,0,4,1,1,0,0,2,1992 Spring Tour,1992 Spring,Uncle Pen,,0,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,","
-1992-04-04,1992,0,5,1,1,0,0,2,1992 Spring Tour,1992 Spring,Chalk Dust Torture,CDT,1,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,","
-1992-04-04,1992,0,6,1,1,0,0,2,1992 Spring Tour,1992 Spring,Bouncing Around the Room,Bouncin',1,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,","
-1992-04-04,1992,0,7,1,1,0,0,2,1992 Spring Tour,1992 Spring,It's Ice,,1,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,","
-1992-04-04,1992,0,8,2,1,0,0,1,1992 Spring Tour,1992 Spring,Sparkle,,1,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,>
-1992-04-04,1992,0,9,1,1,0,0,3,1992 Spring Tour,1992 Spring,The Lizards,Lizards,1,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,","
-1992-04-04,1992,0,10,1,1,0,0,2,1992 Spring Tour,1992 Spring,I Didn't Know,IDK,1,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,","
-1992-04-04,1992,0,11,4,1,0,0,3,1992 Spring Tour,1992 Spring,Run Like an Antelope,Antelope,1,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,
-1992-04-04,1992,0,12,2,2,0,0,3,1992 Spring Tour,1992 Spring,Mike's Song,Mike's,1,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,>
-1992-04-04,1992,0,13,2,2,0,0,3,1992 Spring Tour,1992 Spring,I Am Hydrogen,Hydrogen,1,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,>
-1992-04-04,1992,0,14,1,2,0,0,3,1992 Spring Tour,1992 Spring,Weekapaug Groove,Weekapaug,1,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,","
-1992-04-04,1992,0,15,2,2,0,0,3,1992 Spring Tour,1992 Spring,Glide,,1,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,>
-1992-04-04,1992,0,16,1,2,0,0,3,1992 Spring Tour,1992 Spring,"My Friend, My Friend",My Friend,1,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,","
-1992-04-04,1992,0,17,1,2,0,0,2,1992 Spring Tour,1992 Spring,The Squirming Coil,Coil,1,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,","
-1992-04-04,1992,0,18,2,2,0,0,2,1992 Spring Tour,1992 Spring,Tweezer,,1,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,>
-1992-04-04,1992,0,19,2,2,0,0,2,1992 Spring Tour,1992 Spring,Cold as Ice,,0,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,>
-1992-04-04,1992,0,20,2,2,0,0,2,1992 Spring Tour,1992 Spring,Cracklin' Rosie,,0,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,>
-1992-04-04,1992,0,21,1,2,0,0,0,1992 Spring Tour,1992 Spring,Cold as Ice,,0,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,","
-1992-04-04,1992,0,22,2,2,0,0,7,1992 Spring Tour,1992 Spring,Buried Alive,,1,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,>
-1992-04-04,1992,0,23,1,2,0,0,3,1992 Spring Tour,1992 Spring,My Sweet One,MSO,1,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,","
-1992-04-04,1992,0,24,1,2,0,0,7,1992 Spring Tour,1992 Spring,Harpua,,1,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,","
-1992-04-04,1992,0,25,5,2,0,0,3,1992 Spring Tour,1992 Spring,Cavern,,1,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,
-1992-04-04,1992,0,26,2,e,0,0,4,1992 Spring Tour,1992 Spring,Sleeping Monkey,,1,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,>
-1992-04-04,1992,0,27,6,e,0,0,2,1992 Spring Tour,1992 Spring,Tweezer Reprise,Tweeprise,1,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,
 1992-04-05,1992,0,1,1,1,0,0,2,1992 Spring Tour,1992 Spring,Llama,,1,The Fox Theatre,Boulder,CO,USA,","
 1992-04-05,1992,0,2,2,1,0,0,2,1992 Spring Tour,1992 Spring,Guelah Papyrus,Guelah,1,The Fox Theatre,Boulder,CO,USA,>
 1992-04-05,1992,0,3,1,1,0,0,4,1992 Spring Tour,1992 Spring,Divided Sky,Divided,1,The Fox Theatre,Boulder,CO,USA,","
@@ -899,34 +717,6 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1992-04-22,1992,0,27,5,2,0,0,2,1992 Spring Tour,1992 Spring,Runaway Jim,,1,Hilton Ballroom,Eugene,OR,USA,
 1992-04-22,1992,0,28,1,e,0,0,7,1992 Spring Tour,1992 Spring,Take the 'A' Train,'A' Train,0,Hilton Ballroom,Eugene,OR,USA,","
 1992-04-22,1992,0,29,6,e,0,0,3,1992 Spring Tour,1992 Spring,Rocky Top,,0,Hilton Ballroom,Eugene,OR,USA,
-1992-04-23,1992,0,1,2,1,0,0,2,1992 Spring Tour,1992 Spring,Cavern,,1,Oz Nightclub,Seattle,WA,USA,>
-1992-04-23,1992,0,2,2,1,0,0,3,1992 Spring Tour,1992 Spring,The Curtain,Curtain,1,Oz Nightclub,Seattle,WA,USA,>
-1992-04-23,1992,0,3,1,1,0,0,2,1992 Spring Tour,1992 Spring,Split Open and Melt,SOAMelt,1,Oz Nightclub,Seattle,WA,USA,","
-1992-04-23,1992,0,4,1,1,0,0,2,1992 Spring Tour,1992 Spring,Uncle Pen,,0,Oz Nightclub,Seattle,WA,USA,","
-1992-04-23,1992,0,5,1,1,0,0,1,1992 Spring Tour,1992 Spring,Guelah Papyrus,Guelah,1,Oz Nightclub,Seattle,WA,USA,","
-1992-04-23,1992,0,6,2,1,0,0,5,1992 Spring Tour,1992 Spring,The Squirming Coil,Coil,1,Oz Nightclub,Seattle,WA,USA,>
-1992-04-23,1992,0,7,1,1,0,0,1,1992 Spring Tour,1992 Spring,Llama,,1,Oz Nightclub,Seattle,WA,USA,","
-1992-04-23,1992,0,8,1,1,0,0,2,1992 Spring Tour,1992 Spring,Bouncing Around the Room,Bouncin',1,Oz Nightclub,Seattle,WA,USA,","
-1992-04-23,1992,0,9,1,1,0,0,2,1992 Spring Tour,1992 Spring,It's Ice,,1,Oz Nightclub,Seattle,WA,USA,","
-1992-04-23,1992,0,10,1,1,0,0,3,1992 Spring Tour,1992 Spring,I Didn't Know,IDK,1,Oz Nightclub,Seattle,WA,USA,","
-1992-04-23,1992,0,11,4,1,0,0,2,1992 Spring Tour,1992 Spring,Possum,,1,Oz Nightclub,Seattle,WA,USA,
-1992-04-23,1992,0,12,1,2,0,0,5,1992 Spring Tour,1992 Spring,The Landlady,Landlady,1,Oz Nightclub,Seattle,WA,USA,","
-1992-04-23,1992,0,13,2,2,0,0,1,1992 Spring Tour,1992 Spring,Poor Heart,,1,Oz Nightclub,Seattle,WA,USA,>
-1992-04-23,1992,0,14,2,2,0,0,2,1992 Spring Tour,1992 Spring,Mike's Song,Mike's,1,Oz Nightclub,Seattle,WA,USA,>
-1992-04-23,1992,0,15,2,2,0,0,2,1992 Spring Tour,1992 Spring,I Am Hydrogen,Hydrogen,1,Oz Nightclub,Seattle,WA,USA,>
-1992-04-23,1992,0,16,1,2,0,0,2,1992 Spring Tour,1992 Spring,Weekapaug Groove,Weekapaug,1,Oz Nightclub,Seattle,WA,USA,","
-1992-04-23,1992,0,17,1,2,0,0,4,1992 Spring Tour,1992 Spring,The Lizards,Lizards,1,Oz Nightclub,Seattle,WA,USA,","
-1992-04-23,1992,0,18,1,2,0,0,2,1992 Spring Tour,1992 Spring,NICU,,1,Oz Nightclub,Seattle,WA,USA,","
-1992-04-23,1992,0,19,2,2,0,0,6,1992 Spring Tour,1992 Spring,Horn,,1,Oz Nightclub,Seattle,WA,USA,>
-1992-04-23,1992,0,20,2,2,0,0,2,1992 Spring Tour,1992 Spring,Tweezer,,1,Oz Nightclub,Seattle,WA,USA,>
-1992-04-23,1992,0,21,3,2,0,0,3,1992 Spring Tour,1992 Spring,Fee,,1,Oz Nightclub,Seattle,WA,USA,->
-1992-04-23,1992,0,22,1,2,0,0,2,1992 Spring Tour,1992 Spring,Maze,,1,Oz Nightclub,Seattle,WA,USA,","
-1992-04-23,1992,0,23,2,2,0,0,1,1992 Spring Tour,1992 Spring,Cold as Ice,,0,Oz Nightclub,Seattle,WA,USA,>
-1992-04-23,1992,0,24,2,2,0,0,1,1992 Spring Tour,1992 Spring,Cracklin' Rosie,,0,Oz Nightclub,Seattle,WA,USA,>
-1992-04-23,1992,0,25,1,2,0,0,0,1992 Spring Tour,1992 Spring,Cold as Ice,,0,Oz Nightclub,Seattle,WA,USA,","
-1992-04-23,1992,0,26,5,2,0,0,3,1992 Spring Tour,1992 Spring,Golgi Apparatus,Golgi,1,Oz Nightclub,Seattle,WA,USA,
-1992-04-23,1992,0,27,2,e,0,0,3,1992 Spring Tour,1992 Spring,Sleeping Monkey,,1,Oz Nightclub,Seattle,WA,USA,>
-1992-04-23,1992,0,28,6,e,0,0,5,1992 Spring Tour,1992 Spring,Tweezer Reprise,Tweeprise,1,Oz Nightclub,Seattle,WA,USA,
 1992-04-24,1992,0,1,1,1,0,0,2,1992 Spring Tour,1992 Spring,Runaway Jim,,1,Roseland Theater,Portland,OR,USA,","
 1992-04-24,1992,0,2,2,1,0,0,3,1992 Spring Tour,1992 Spring,Colonel Forbin's Ascent,Forbin's,1,Roseland Theater,Portland,OR,USA,>
 1992-04-24,1992,0,3,2,1,0,0,3,1992 Spring Tour,1992 Spring,Fly Famous Mockingbird,Mockingbird,1,Roseland Theater,Portland,OR,USA,>
@@ -1623,13 +1413,6 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1992-07-19,1992,0,3,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Runaway Jim,,1,Garden State Arts Center,Holmdel,NJ,USA,","
 1992-07-19,1992,0,4,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,David Bowie,Bowie,1,Garden State Arts Center,Holmdel,NJ,USA,","
 1992-07-19,1992,0,5,6,1,0,0,6,1992 Summer U.S. Tour,1992 Summer,Sweet Adeline,,0,Garden State Arts Center,Holmdel,NJ,USA,
-1992-07-21,1992,0,1,1,1,0,0,5,1992 Summer U.S. Tour,1992 Summer,All Things Reconsidered,ATR,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,","
-1992-07-21,1992,0,2,1,1,0,0,5,1992 Summer U.S. Tour,1992 Summer,Possum,,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,","
-1992-07-21,1992,0,3,2,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,It's Ice,,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,>
-1992-07-21,1992,0,4,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Sparkle,,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,","
-1992-07-21,1992,0,5,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Stash,,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,","
-1992-07-21,1992,0,6,2,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,The Squirming Coil,Coil,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,>
-1992-07-21,1992,0,7,6,1,0,0,1,1992 Summer U.S. Tour,1992 Summer,Runaway Jim,,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,
 1992-07-22,1992,0,1,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Reba,,1,Holman Stadium,Nashua,NH,USA,","
 1992-07-22,1992,0,2,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Poor Heart,,1,Holman Stadium,Nashua,NH,USA,","
 1992-07-22,1992,0,3,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Bouncing Around the Room,Bouncin',1,Holman Stadium,Nashua,NH,USA,","
@@ -1637,25 +1420,6 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1992-07-22,1992,0,5,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Rift,,1,Holman Stadium,Nashua,NH,USA,","
 1992-07-22,1992,0,6,1,1,0,0,7,1992 Summer U.S. Tour,1992 Summer,Cavern,,1,Holman Stadium,Nashua,NH,USA,","
 1992-07-22,1992,0,7,6,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,David Bowie,Bowie,1,Holman Stadium,Nashua,NH,USA,
-1992-07-23,1992,1,1,1,1,0,0,5,Not Part of a Tour,No Tour,The Landlady,Landlady,1,MTV Studios,New York,NY,USA,","
-1992-07-23,1992,1,2,1,1,0,0,18,Not Part of a Tour,No Tour,Buried Alive,,1,MTV Studios,New York,NY,USA,","
-1992-07-23,1992,1,3,1,1,0,0,0,Not Part of a Tour,No Tour,Rift,,1,MTV Studios,New York,NY,USA,","
-1992-07-23,1992,1,4,1,1,0,0,3,Not Part of a Tour,No Tour,Foam,,1,MTV Studios,New York,NY,USA,","
-1992-07-23,1992,1,5,1,1,0,0,6,Not Part of a Tour,No Tour,Vacuum Solo,,1,MTV Studios,New York,NY,USA,","
-1992-07-23,1992,1,6,3,1,0,0,0,Not Part of a Tour,No Tour,Poor Heart,,1,MTV Studios,New York,NY,USA,->
-1992-07-23,1992,1,7,1,1,0,0,17,Not Part of a Tour,No Tour,Big Black Furry Creature from Mars,BBFCFM,1,MTV Studios,New York,NY,USA,","
-1992-07-23,1992,1,8,1,1,0,0,5,Not Part of a Tour,No Tour,Guelah Papyrus,Guelah,1,MTV Studios,New York,NY,USA,","
-1992-07-23,1992,1,9,1,1,0,0,1,Not Part of a Tour,No Tour,Sparkle,,1,MTV Studios,New York,NY,USA,","
-1992-07-23,1992,1,10,1,1,0,0,7,Not Part of a Tour,No Tour,You Enjoy Myself,YEM,1,MTV Studios,New York,NY,USA,","
-1992-07-23,1992,1,11,1,1,2,2,1,Not Part of a Tour,No Tour,Stash,,1,MTV Studios,New York,NY,USA,","
-1992-07-23,1992,1,12,1,1,2,2,93,Not Part of a Tour,No Tour,Jam,,0,MTV Studios,New York,NY,USA,","
-1992-07-23,1992,1,13,6,1,2,2,6,Not Part of a Tour,No Tour,Divided Sky,Divided,1,MTV Studios,New York,NY,USA,
-1992-07-24,1992,0,1,1,1,0,0,7,1992 Summer U.S. Tour,1992 Summer,My Sweet One,MSO,1,Jones Beach Amphitheater,Wantagh,NY,USA,","
-1992-07-24,1992,0,2,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Foam,,1,Jones Beach Amphitheater,Wantagh,NY,USA,","
-1992-07-24,1992,0,3,2,1,0,0,8,1992 Summer U.S. Tour,1992 Summer,Tweezer,,1,Jones Beach Amphitheater,Wantagh,NY,USA,>
-1992-07-24,1992,0,4,2,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,The Squirming Coil,Coil,1,Jones Beach Amphitheater,Wantagh,NY,USA,>
-1992-07-24,1992,0,5,2,1,0,0,8,1992 Summer U.S. Tour,1992 Summer,You Enjoy Myself,YEM,1,Jones Beach Amphitheater,Wantagh,NY,USA,>
-1992-07-24,1992,0,6,6,1,0,0,8,1992 Summer U.S. Tour,1992 Summer,Tweezer Reprise,Tweeprise,1,Jones Beach Amphitheater,Wantagh,NY,USA,
 1992-07-25,1992,0,1,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Runaway Jim,,1,Stowe Performing Arts Center,Stowe,VT,USA,","
 1992-07-25,1992,0,2,1,1,0,0,1,1992 Summer U.S. Tour,1992 Summer,Foam,,1,Stowe Performing Arts Center,Stowe,VT,USA,","
 1992-07-25,1992,0,3,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Sparkle,,1,Stowe Performing Arts Center,Stowe,VT,USA,","
@@ -1671,157 +1435,37 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1992-07-26,1992,0,5,1,1,0,0,9,1992 Summer U.S. Tour,1992 Summer,Split Open and Melt,SOAMelt,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
 1992-07-26,1992,0,6,1,1,0,0,9,1992 Summer U.S. Tour,1992 Summer,The Lizards,Lizards,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
 1992-07-26,1992,0,7,6,1,0,0,1,1992 Summer U.S. Tour,1992 Summer,Llama,,1,Big Birch Concert Pavilion,Patterson,NY,USA,
-1992-07-27,1992,0,1,1,1,0,0,10,1992 Summer U.S. Tour,1992 Summer,Golgi Apparatus,Golgi,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-1992-07-27,1992,0,2,1,1,0,0,5,1992 Summer U.S. Tour,1992 Summer,All Things Reconsidered,ATR,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-1992-07-27,1992,0,3,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,David Bowie,Bowie,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-1992-07-27,1992,0,4,1,1,0,0,9,1992 Summer U.S. Tour,1992 Summer,Horn,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-1992-07-27,1992,0,5,2,1,0,0,7,1992 Summer U.S. Tour,1992 Summer,Suzy Greenberg,Suzy,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-1992-07-27,1992,0,6,1,1,0,0,1,1992 Summer U.S. Tour,1992 Summer,Llama,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-1992-07-27,1992,0,7,1,1,0,0,6,1992 Summer U.S. Tour,1992 Summer,Sweet Adeline,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
-1992-07-27,1992,0,8,6,1,0,0,15,1992 Summer U.S. Tour,1992 Summer,Rocky Top,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
 1992-07-28,1992,0,1,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Chalk Dust Torture,CDT,1,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,","
 1992-07-28,1992,0,2,1,1,0,0,5,1992 Summer U.S. Tour,1992 Summer,Bouncing Around the Room,Bouncin',1,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,","
 1992-07-28,1992,0,3,1,1,0,0,11,1992 Summer U.S. Tour,1992 Summer,Uncle Pen,,0,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,","
 1992-07-28,1992,0,4,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,The Squirming Coil,Coil,1,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,","
 1992-07-28,1992,0,5,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Tweezer,,1,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,","
 1992-07-28,1992,0,6,6,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Runaway Jim,,1,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,
-1992-07-30,1992,0,1,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Rift,,1,Meadow Brook Music Festival,Rochester Hills,MI,USA,","
-1992-07-30,1992,0,2,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Horn,,1,Meadow Brook Music Festival,Rochester Hills,MI,USA,","
-1992-07-30,1992,0,3,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Sparkle,,1,Meadow Brook Music Festival,Rochester Hills,MI,USA,","
-1992-07-30,1992,0,4,2,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,It's Ice,,1,Meadow Brook Music Festival,Rochester Hills,MI,USA,>
-1992-07-30,1992,0,5,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,All Things Reconsidered,ATR,1,Meadow Brook Music Festival,Rochester Hills,MI,USA,","
-1992-07-30,1992,0,6,1,1,0,0,6,1992 Summer U.S. Tour,1992 Summer,Maze,,1,Meadow Brook Music Festival,Rochester Hills,MI,USA,","
-1992-07-30,1992,0,7,1,1,0,0,13,1992 Summer U.S. Tour,1992 Summer,I Didn't Know,IDK,1,Meadow Brook Music Festival,Rochester Hills,MI,USA,","
-1992-07-30,1992,0,8,6,1,0,0,7,1992 Summer U.S. Tour,1992 Summer,Possum,,1,Meadow Brook Music Festival,Rochester Hills,MI,USA,
-1992-07-31,1992,0,1,2,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Suzy Greenberg,Suzy,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
-1992-07-31,1992,0,2,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Chalk Dust Torture,CDT,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-1992-07-31,1992,0,3,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Bouncing Around the Room,Bouncin',1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-1992-07-31,1992,0,4,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Uncle Pen,,0,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-1992-07-31,1992,0,5,1,1,0,0,5,1992 Summer U.S. Tour,1992 Summer,You Enjoy Myself,YEM,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-1992-07-31,1992,0,6,6,1,0,0,22,1992 Summer U.S. Tour,1992 Summer,Good Times Bad Times,GTBT,0,Blossom Music Center,Cuyahoga Falls,OH,USA,
-1992-08-01,1992,0,1,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Golgi Apparatus,Golgi,1,Poplar Creek Music Center,Hoffman Estates,IL,USA,","
-1992-08-01,1992,0,2,1,1,0,0,6,1992 Summer U.S. Tour,1992 Summer,Foam,,1,Poplar Creek Music Center,Hoffman Estates,IL,USA,","
-1992-08-01,1992,0,3,1,1,0,0,8,1992 Summer U.S. Tour,1992 Summer,Poor Heart,,1,Poplar Creek Music Center,Hoffman Estates,IL,USA,","
-1992-08-01,1992,0,4,1,1,0,0,101,1992 Summer U.S. Tour,1992 Summer,Jam,,0,Poplar Creek Music Center,Hoffman Estates,IL,USA,","
-1992-08-01,1992,0,5,1,1,0,0,6,1992 Summer U.S. Tour,1992 Summer,Stash,,1,Poplar Creek Music Center,Hoffman Estates,IL,USA,","
-1992-08-01,1992,0,6,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,The Squirming Coil,Coil,1,Poplar Creek Music Center,Hoffman Estates,IL,USA,","
-1992-08-01,1992,0,7,2,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Horn,,1,Poplar Creek Music Center,Hoffman Estates,IL,USA,>
-1992-08-01,1992,0,8,6,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Llama,,1,Poplar Creek Music Center,Hoffman Estates,IL,USA,
-1992-08-02,1992,0,1,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Chalk Dust Torture,CDT,1,Riverport Amphitheater,Maryland Heights,MO,USA,","
-1992-08-02,1992,0,2,1,1,0,0,14,1992 Summer U.S. Tour,1992 Summer,Guelah Papyrus,Guelah,1,Riverport Amphitheater,Maryland Heights,MO,USA,","
-1992-08-02,1992,0,3,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Rift,,1,Riverport Amphitheater,Maryland Heights,MO,USA,","
-1992-08-02,1992,0,4,2,1,0,0,15,1992 Summer U.S. Tour,1992 Summer,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Riverport Amphitheater,Maryland Heights,MO,USA,>
-1992-08-02,1992,0,5,2,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Suzy Greenberg,Suzy,1,Riverport Amphitheater,Maryland Heights,MO,USA,>
-1992-08-02,1992,0,6,1,1,0,0,5,1992 Summer U.S. Tour,1992 Summer,David Bowie,Bowie,1,Riverport Amphitheater,Maryland Heights,MO,USA,","
-1992-08-02,1992,0,7,1,1,0,0,9,1992 Summer U.S. Tour,1992 Summer,Cavern,,1,Riverport Amphitheater,Maryland Heights,MO,USA,","
-1992-08-02,1992,0,8,1,1,0,0,5,1992 Summer U.S. Tour,1992 Summer,Sweet Adeline,,0,Riverport Amphitheater,Maryland Heights,MO,USA,","
-1992-08-02,1992,0,9,6,1,0,0,5,1992 Summer U.S. Tour,1992 Summer,Rocky Top,,0,Riverport Amphitheater,Maryland Heights,MO,USA,
-1992-08-13,1992,0,1,1,1,0,0,1,1992 Summer U.S. Tour,1992 Summer,Chalk Dust Torture,CDT,1,Greek Theatre,Los Angeles,CA,USA,","
-1992-08-13,1992,0,2,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Foam,,1,Greek Theatre,Los Angeles,CA,USA,","
-1992-08-13,1992,0,3,6,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,You Enjoy Myself,YEM,1,Greek Theatre,Los Angeles,CA,USA,
-1992-08-14,1992,0,1,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Poor Heart,,1,Greek Theatre,Los Angeles,CA,USA,","
-1992-08-14,1992,0,2,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Stash,,1,Greek Theatre,Los Angeles,CA,USA,","
-1992-08-14,1992,0,3,2,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,The Squirming Coil,Coil,1,Greek Theatre,Los Angeles,CA,USA,>
-1992-08-14,1992,0,4,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Llama,,1,Greek Theatre,Los Angeles,CA,USA,","
-1992-08-14,1992,0,5,6,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Sweet Adeline,,0,Greek Theatre,Los Angeles,CA,USA,
-1992-08-15,1992,0,1,1,1,0,0,17,1992 Summer U.S. Tour,1992 Summer,The Landlady,Landlady,1,Greek Theatre,Los Angeles,CA,USA,","
-1992-08-15,1992,0,2,2,1,0,0,6,1992 Summer U.S. Tour,1992 Summer,Sparkle,,1,Greek Theatre,Los Angeles,CA,USA,>
-1992-08-15,1992,0,3,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Guelah Papyrus,Guelah,1,Greek Theatre,Los Angeles,CA,USA,","
-1992-08-15,1992,0,4,1,1,0,0,6,1992 Summer U.S. Tour,1992 Summer,Maze,,1,Greek Theatre,Los Angeles,CA,USA,","
-1992-08-15,1992,0,5,6,1,0,0,7,1992 Summer U.S. Tour,1992 Summer,Runaway Jim,,1,Greek Theatre,Los Angeles,CA,USA,
-1992-08-17,1992,0,1,2,1,0,0,31,1992 Summer U.S. Tour,1992 Summer,Buried Alive,,1,The Coach House,San Juan Capistrano,CA,USA,>
-1992-08-17,1992,0,2,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Poor Heart,,1,The Coach House,San Juan Capistrano,CA,USA,","
-1992-08-17,1992,0,3,1,1,0,0,1,1992 Summer U.S. Tour,1992 Summer,The Landlady,Landlady,1,The Coach House,San Juan Capistrano,CA,USA,","
-1992-08-17,1992,0,4,1,1,0,0,13,1992 Summer U.S. Tour,1992 Summer,Reba,,1,The Coach House,San Juan Capistrano,CA,USA,","
-1992-08-17,1992,0,5,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Rift,,1,The Coach House,San Juan Capistrano,CA,USA,","
-1992-08-17,1992,0,6,2,1,0,0,18,1992 Summer U.S. Tour,1992 Summer,Wilson,,1,The Coach House,San Juan Capistrano,CA,USA,>
-1992-08-17,1992,0,7,1,1,0,0,7,1992 Summer U.S. Tour,1992 Summer,All Things Reconsidered,ATR,1,The Coach House,San Juan Capistrano,CA,USA,","
-1992-08-17,1992,0,8,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Foam,,1,The Coach House,San Juan Capistrano,CA,USA,","
-1992-08-17,1992,0,9,1,1,0,0,19,1992 Summer U.S. Tour,1992 Summer,"My Friend, My Friend",My Friend,1,The Coach House,San Juan Capistrano,CA,USA,","
-1992-08-17,1992,0,10,1,1,0,0,6,1992 Summer U.S. Tour,1992 Summer,Bouncing Around the Room,Bouncin',1,The Coach House,San Juan Capistrano,CA,USA,","
-1992-08-17,1992,0,11,4,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,David Bowie,Bowie,1,The Coach House,San Juan Capistrano,CA,USA,
-1992-08-17,1992,0,12,2,2,0,0,4,1992 Summer U.S. Tour,1992 Summer,Suzy Greenberg,Suzy,1,The Coach House,San Juan Capistrano,CA,USA,>
-1992-08-17,1992,0,13,2,2,0,0,7,1992 Summer U.S. Tour,1992 Summer,It's Ice,,1,The Coach House,San Juan Capistrano,CA,USA,>
-1992-08-17,1992,0,14,2,2,0,0,8,1992 Summer U.S. Tour,1992 Summer,Tweezer,,1,The Coach House,San Juan Capistrano,CA,USA,>
-1992-08-17,1992,0,15,2,2,0,0,19,1992 Summer U.S. Tour,1992 Summer,Esther,,1,The Coach House,San Juan Capistrano,CA,USA,>
-1992-08-17,1992,0,16,2,2,0,0,18,1992 Summer U.S. Tour,1992 Summer,Mike's Song,Mike's,1,The Coach House,San Juan Capistrano,CA,USA,>
-1992-08-17,1992,0,17,2,2,0,0,18,1992 Summer U.S. Tour,1992 Summer,I Am Hydrogen,Hydrogen,1,The Coach House,San Juan Capistrano,CA,USA,>
-1992-08-17,1992,0,18,1,2,0,0,18,1992 Summer U.S. Tour,1992 Summer,Weekapaug Groove,Weekapaug,1,The Coach House,San Juan Capistrano,CA,USA,","
-1992-08-17,1992,0,19,2,2,0,0,5,1992 Summer U.S. Tour,1992 Summer,Horn,,1,The Coach House,San Juan Capistrano,CA,USA,>
-1992-08-17,1992,0,20,2,2,0,0,31,1992 Summer U.S. Tour,1992 Summer,Hold Your Head Up,HYHU,0,The Coach House,San Juan Capistrano,CA,USA,>
-1992-08-17,1992,0,21,2,2,0,0,38,1992 Summer U.S. Tour,1992 Summer,Terrapin,,0,The Coach House,San Juan Capistrano,CA,USA,>
-1992-08-17,1992,0,22,1,2,0,0,0,1992 Summer U.S. Tour,1992 Summer,Hold Your Head Up,HYHU,0,The Coach House,San Juan Capistrano,CA,USA,","
-1992-08-17,1992,0,23,2,2,0,0,20,1992 Summer U.S. Tour,1992 Summer,Take the 'A' Train,'A' Train,0,The Coach House,San Juan Capistrano,CA,USA,>
-1992-08-17,1992,0,24,1,2,0,0,679,1992 Summer U.S. Tour,1992 Summer,Over the Rainbow,,0,The Coach House,San Juan Capistrano,CA,USA,","
-1992-08-17,1992,0,25,5,2,0,0,4,1992 Summer U.S. Tour,1992 Summer,Cavern,,1,The Coach House,San Juan Capistrano,CA,USA,
-1992-08-17,1992,0,26,6,e,0,0,2,1992 Summer U.S. Tour,1992 Summer,The Squirming Coil,Coil,1,The Coach House,San Juan Capistrano,CA,USA,
-1992-08-19,1992,0,1,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Chalk Dust Torture,CDT,1,Pima County Fairgrounds,Tucson,AZ,USA,","
-1992-08-19,1992,0,2,1,1,0,0,1,1992 Summer U.S. Tour,1992 Summer,The Landlady,Landlady,1,Pima County Fairgrounds,Tucson,AZ,USA,","
-1992-08-19,1992,0,3,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Runaway Jim,,1,Pima County Fairgrounds,Tucson,AZ,USA,","
-1992-08-19,1992,0,4,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Guelah Papyrus,Guelah,1,Pima County Fairgrounds,Tucson,AZ,USA,","
-1992-08-19,1992,0,5,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,You Enjoy Myself,YEM,1,Pima County Fairgrounds,Tucson,AZ,USA,","
-1992-08-19,1992,0,6,1,1,0,0,7,1992 Summer U.S. Tour,1992 Summer,Uncle Pen,,0,Pima County Fairgrounds,Tucson,AZ,USA,","
-1992-08-19,1992,0,7,6,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Llama,,1,Pima County Fairgrounds,Tucson,AZ,USA,
-1992-08-20,1992,0,1,1,1,0,0,7,1992 Summer U.S. Tour,1992 Summer,Golgi Apparatus,Golgi,1,Pan American Center,Las Cruces,NM,USA,","
-1992-08-20,1992,0,2,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Foam,,1,Pan American Center,Las Cruces,NM,USA,","
-1992-08-20,1992,0,3,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Stash,,1,Pan American Center,Las Cruces,NM,USA,","
-1992-08-20,1992,0,4,3,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,The Squirming Coil,Coil,1,Pan American Center,Las Cruces,NM,USA,->
-1992-08-20,1992,0,5,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,David Bowie,Bowie,1,Pan American Center,Las Cruces,NM,USA,","
-1992-08-20,1992,0,6,6,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Sweet Adeline,,0,Pan American Center,Las Cruces,NM,USA,
-1992-08-23,1992,0,1,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Chalk Dust Torture,CDT,1,"Colorado State Fair, Pueblo State Fairgrounds",Pueblo,CO,USA,","
-1992-08-23,1992,0,2,1,1,0,0,1,1992 Summer U.S. Tour,1992 Summer,Stash,,1,"Colorado State Fair, Pueblo State Fairgrounds",Pueblo,CO,USA,","
-1992-08-23,1992,0,3,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Sparkle,,1,"Colorado State Fair, Pueblo State Fairgrounds",Pueblo,CO,USA,","
-1992-08-23,1992,0,4,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Maze,,1,"Colorado State Fair, Pueblo State Fairgrounds",Pueblo,CO,USA,","
-1992-08-23,1992,0,5,1,1,0,0,1,1992 Summer U.S. Tour,1992 Summer,Foam,,1,"Colorado State Fair, Pueblo State Fairgrounds",Pueblo,CO,USA,","
-1992-08-23,1992,0,6,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Runaway Jim,,1,"Colorado State Fair, Pueblo State Fairgrounds",Pueblo,CO,USA,","
-1992-08-23,1992,0,7,2,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Cavern,,1,"Colorado State Fair, Pueblo State Fairgrounds",Pueblo,CO,USA,>
-1992-08-23,1992,0,8,6,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Llama,,1,"Colorado State Fair, Pueblo State Fairgrounds",Pueblo,CO,USA,
-1992-08-24,1992,0,1,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Buried Alive,,1,Gerald Ford Amphitheater,Vail,CO,USA,","
-1992-08-24,1992,0,2,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Poor Heart,,1,Gerald Ford Amphitheater,Vail,CO,USA,","
-1992-08-24,1992,0,3,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,All Things Reconsidered,ATR,1,Gerald Ford Amphitheater,Vail,CO,USA,","
-1992-08-24,1992,0,4,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Tweezer,,1,Gerald Ford Amphitheater,Vail,CO,USA,","
-1992-08-24,1992,0,5,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,The Landlady,Landlady,1,Gerald Ford Amphitheater,Vail,CO,USA,","
-1992-08-24,1992,0,6,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Reba,,1,Gerald Ford Amphitheater,Vail,CO,USA,","
-1992-08-24,1992,0,7,6,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,You Enjoy Myself,YEM,1,Gerald Ford Amphitheater,Vail,CO,USA,
-1992-08-25,1992,0,1,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Runaway Jim,,1,The Downs,Santa Fe,NM,USA,","
-1992-08-25,1992,0,2,2,1,0,0,5,1992 Summer U.S. Tour,1992 Summer,It's Ice,,1,The Downs,Santa Fe,NM,USA,>
-1992-08-25,1992,0,3,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Sparkle,,1,The Downs,Santa Fe,NM,USA,","
-1992-08-25,1992,0,4,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Stash,,1,The Downs,Santa Fe,NM,USA,","
-1992-08-25,1992,0,5,2,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,The Squirming Coil,Coil,1,The Downs,Santa Fe,NM,USA,>
-1992-08-25,1992,0,6,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Llama,,1,The Downs,Santa Fe,NM,USA,","
-1992-08-25,1992,0,7,6,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Sweet Adeline,,0,The Downs,Santa Fe,NM,USA,
-1992-08-28,1992,0,1,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Poor Heart,,1,Concord Pavilion,Concord,CA,USA,","
-1992-08-28,1992,0,2,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Foam,,1,Concord Pavilion,Concord,CA,USA,","
-1992-08-28,1992,0,3,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Stash,,1,Concord Pavilion,Concord,CA,USA,","
-1992-08-28,1992,0,4,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Sweet Adeline,,0,Concord Pavilion,Concord,CA,USA,","
-1992-08-28,1992,0,5,2,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,The Squirming Coil,Coil,1,Concord Pavilion,Concord,CA,USA,>
-1992-08-28,1992,0,6,1,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,Runaway Jim,,1,Concord Pavilion,Concord,CA,USA,","
-1992-08-28,1992,0,7,6,1,0,0,11,1992 Summer U.S. Tour,1992 Summer,Rocky Top,,0,Concord Pavilion,Concord,CA,USA,
-1992-11-25,1992,0,1,2,1,2,0,2,1992 Fall Tour,1992 Fall,Buried Alive,,1,Keswick Theatre,Glenside,PA,USA,>
-1992-11-25,1992,0,2,1,1,2,0,1,1992 Fall Tour,1992 Fall,Poor Heart,,1,Keswick Theatre,Glenside,PA,USA,","
-1992-11-25,1992,0,3,1,1,2,0,3,1992 Fall Tour,1992 Fall,The Landlady,Landlady,1,Keswick Theatre,Glenside,PA,USA,","
-1992-11-25,1992,0,4,3,1,2,0,2,1992 Fall Tour,1992 Fall,Fee,,1,Keswick Theatre,Glenside,PA,USA,->
-1992-11-25,1992,0,5,1,1,2,0,2,1992 Fall Tour,1992 Fall,Maze,,1,Keswick Theatre,Glenside,PA,USA,","
-1992-11-25,1992,0,6,2,1,2,0,2,1992 Fall Tour,1992 Fall,Sparkle,,1,Keswick Theatre,Glenside,PA,USA,>
-1992-11-25,1992,0,7,2,1,2,0,3,1992 Fall Tour,1992 Fall,It's Ice,,1,Keswick Theatre,Glenside,PA,USA,>
-1992-11-25,1992,0,8,2,1,2,0,1,1992 Fall Tour,1992 Fall,The Squirming Coil,Coil,1,Keswick Theatre,Glenside,PA,USA,>
-1992-11-25,1992,0,9,1,1,2,0,1,1992 Fall Tour,1992 Fall,Cavern,,1,Keswick Theatre,Glenside,PA,USA,","
-1992-11-25,1992,0,10,1,1,2,0,2,1992 Fall Tour,1992 Fall,Sweet Adeline,,0,Keswick Theatre,Glenside,PA,USA,","
-1992-11-25,1992,0,11,2,1,2,0,0,1992 Fall Tour,1992 Fall,Cavern,,1,Keswick Theatre,Glenside,PA,USA,>
-1992-11-25,1992,0,12,4,1,2,0,2,1992 Fall Tour,1992 Fall,Run Like an Antelope,Antelope,1,Keswick Theatre,Glenside,PA,USA,
-1992-11-25,1992,0,13,1,2,2,0,4,1992 Fall Tour,1992 Fall,Chalk Dust Torture,CDT,1,Keswick Theatre,Glenside,PA,USA,","
-1992-11-25,1992,0,14,1,2,2,0,1,1992 Fall Tour,1992 Fall,Foam,,1,Keswick Theatre,Glenside,PA,USA,","
-1992-11-25,1992,0,15,1,2,2,0,4,1992 Fall Tour,1992 Fall,Fast Enough for You,FEFY,1,Keswick Theatre,Glenside,PA,USA,","
-1992-11-25,1992,0,16,1,2,2,0,2,1992 Fall Tour,1992 Fall,You Enjoy Myself,YEM,1,Keswick Theatre,Glenside,PA,USA,","
-1992-11-25,1992,0,17,1,2,2,0,4,1992 Fall Tour,1992 Fall,The Lizards,Lizards,1,Keswick Theatre,Glenside,PA,USA,","
-1992-11-25,1992,0,18,3,2,2,0,2,1992 Fall Tour,1992 Fall,Tweezer,,1,Keswick Theatre,Glenside,PA,USA,->
-1992-11-25,1992,0,19,2,2,2,0,1,1992 Fall Tour,1992 Fall,Hold Your Head Up,HYHU,0,Keswick Theatre,Glenside,PA,USA,>
-1992-11-25,1992,0,20,2,2,2,0,51,1992 Fall Tour,1992 Fall,Cracklin' Rosie,,0,Keswick Theatre,Glenside,PA,USA,>
-1992-11-25,1992,0,21,1,2,2,0,0,1992 Fall Tour,1992 Fall,Hold Your Head Up,HYHU,0,Keswick Theatre,Glenside,PA,USA,","
-1992-11-25,1992,0,22,2,2,2,0,2,1992 Fall Tour,1992 Fall,My Sweet One,MSO,1,Keswick Theatre,Glenside,PA,USA,>
-1992-11-25,1992,0,23,5,2,2,0,2,1992 Fall Tour,1992 Fall,Tweezer Reprise,Tweeprise,1,Keswick Theatre,Glenside,PA,USA,
-1992-11-25,1992,0,24,1,e,2,0,4,1992 Fall Tour,1992 Fall,Harry Hood,Hood,1,Keswick Theatre,Glenside,PA,USA,","
-1992-11-25,1992,0,25,6,e,2,0,2,1992 Fall Tour,1992 Fall,Carolina,,0,Keswick Theatre,Glenside,PA,USA,
+1992-12-04,1992,0,1,1,1,0,0,2,1992 Fall Tour,1992 Fall,Llama,,1,Mississippi Nights,St. Louis,MO,USA,","
+1992-12-04,1992,0,2,1,1,0,0,2,1992 Fall Tour,1992 Fall,Foam,,1,Mississippi Nights,St. Louis,MO,USA,","
+1992-12-04,1992,0,3,1,1,0,0,2,1992 Fall Tour,1992 Fall,Poor Heart,,1,Mississippi Nights,St. Louis,MO,USA,","
+1992-12-04,1992,0,4,1,1,0,0,2,1992 Fall Tour,1992 Fall,Stash,,1,Mississippi Nights,St. Louis,MO,USA,","
+1992-12-04,1992,0,5,2,1,0,0,2,1992 Fall Tour,1992 Fall,Glide,,1,Mississippi Nights,St. Louis,MO,USA,>
+1992-12-04,1992,0,6,1,1,0,0,2,1992 Fall Tour,1992 Fall,Sparkle,,1,Mississippi Nights,St. Louis,MO,USA,","
+1992-12-04,1992,0,7,2,1,0,0,2,1992 Fall Tour,1992 Fall,Fast Enough for You,FEFY,1,Mississippi Nights,St. Louis,MO,USA,>
+1992-12-04,1992,0,8,1,1,0,0,1,1992 Fall Tour,1992 Fall,Maze,,1,Mississippi Nights,St. Louis,MO,USA,","
+1992-12-04,1992,0,9,2,1,0,0,6,1992 Fall Tour,1992 Fall,Colonel Forbin's Ascent,Forbin's,1,Mississippi Nights,St. Louis,MO,USA,>
+1992-12-04,1992,0,10,2,1,0,0,6,1992 Fall Tour,1992 Fall,Fly Famous Mockingbird,Mockingbird,1,Mississippi Nights,St. Louis,MO,USA,>
+1992-12-04,1992,0,11,4,1,0,0,1,1992 Fall Tour,1992 Fall,Cavern,,1,Mississippi Nights,St. Louis,MO,USA,
+1992-12-04,1992,0,12,2,2,0,0,2,1992 Fall Tour,1992 Fall,Suzy Greenberg,Suzy,1,Mississippi Nights,St. Louis,MO,USA,>
+1992-12-04,1992,0,13,1,2,0,0,3,1992 Fall Tour,1992 Fall,David Bowie,Bowie,1,Mississippi Nights,St. Louis,MO,USA,","
+1992-12-04,1992,0,14,2,2,0,0,5,1992 Fall Tour,1992 Fall,Esther,,1,Mississippi Nights,St. Louis,MO,USA,>
+1992-12-04,1992,0,15,1,2,0,0,2,1992 Fall Tour,1992 Fall,Possum,,1,Mississippi Nights,St. Louis,MO,USA,","
+1992-12-04,1992,0,16,1,2,0,0,1,1992 Fall Tour,1992 Fall,It's Ice,,1,Mississippi Nights,St. Louis,MO,USA,","
+1992-12-04,1992,0,17,1,2,0,0,2,1992 Fall Tour,1992 Fall,The Squirming Coil,Coil,1,Mississippi Nights,St. Louis,MO,USA,","
+1992-12-04,1992,0,18,1,2,0,0,7,1992 Fall Tour,1992 Fall,Carolina,,0,Mississippi Nights,St. Louis,MO,USA,","
+1992-12-04,1992,0,19,1,2,0,0,7,1992 Fall Tour,1992 Fall,Harry Hood,Hood,1,Mississippi Nights,St. Louis,MO,USA,","
+1992-12-04,1992,0,20,2,2,0,0,1,1992 Fall Tour,1992 Fall,Hold Your Head Up,HYHU,0,Mississippi Nights,St. Louis,MO,USA,>
+1992-12-04,1992,0,21,2,2,0,0,6,1992 Fall Tour,1992 Fall,Faht,,1,Mississippi Nights,St. Louis,MO,USA,>
+1992-12-04,1992,0,22,1,2,0,0,0,1992 Fall Tour,1992 Fall,Hold Your Head Up,HYHU,0,Mississippi Nights,St. Louis,MO,USA,","
+1992-12-04,1992,0,23,5,2,0,0,2,1992 Fall Tour,1992 Fall,You Enjoy Myself,YEM,1,Mississippi Nights,St. Louis,MO,USA,
+1992-12-04,1992,0,24,2,e,0,0,1,1992 Fall Tour,1992 Fall,Fee,,1,Mississippi Nights,St. Louis,MO,USA,>
+1992-12-04,1992,0,25,6,e,0,0,2,1992 Fall Tour,1992 Fall,Rocky Top,,0,Mississippi Nights,St. Louis,MO,USA,
 1992-12-10,1992,0,1,1,1,0,0,4,1992 Fall Tour,1992 Fall,Golgi Apparatus,Golgi,1,State Theater,Kalamazoo,MI,USA,","
 1992-12-10,1992,0,2,1,1,0,0,1,1992 Fall Tour,1992 Fall,Llama,,1,State Theater,Kalamazoo,MI,USA,","
 1992-12-10,1992,0,3,1,1,0,0,2,1992 Fall Tour,1992 Fall,Foam,,1,State Theater,Kalamazoo,MI,USA,","
@@ -1850,3 +1494,89 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1992-12-10,1992,0,26,1,e,0,0,6,1992 Fall Tour,1992 Fall,Bold As Love,,0,State Theater,Kalamazoo,MI,USA,","
 1992-12-10,1992,0,27,1,e,0,0,1,1992 Fall Tour,1992 Fall,Carolina,,0,State Theater,Kalamazoo,MI,USA,","
 1992-12-10,1992,0,28,6,e,0,0,4,1992 Fall Tour,1992 Fall,Tweezer Reprise,Tweeprise,1,State Theater,Kalamazoo,MI,USA,
+1992-12-28,1992,0,1,1,1,0,0,2,1992 NYE Run,1992 NYE,Maze,,1,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,2,1,1,0,0,1,1992 NYE Run,1992 NYE,Sparkle,,1,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,3,1,1,0,0,2,1992 NYE Run,1992 NYE,Foam,,1,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,4,2,1,0,0,1,1992 NYE Run,1992 NYE,Buried Alive,,1,Palace Theatre,New Haven,CT,USA,>
+1992-12-28,1992,0,5,2,1,0,0,1,1992 NYE Run,1992 NYE,Glide,,1,Palace Theatre,New Haven,CT,USA,>
+1992-12-28,1992,0,6,2,1,0,0,1,1992 NYE Run,1992 NYE,It's Ice,,1,Palace Theatre,New Haven,CT,USA,>
+1992-12-28,1992,0,7,2,1,0,0,1,1992 NYE Run,1992 NYE,Bouncing Around the Room,Bouncin',1,Palace Theatre,New Haven,CT,USA,>
+1992-12-28,1992,0,8,1,1,0,0,1,1992 NYE Run,1992 NYE,Rift,,1,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,9,1,1,0,0,2,1992 NYE Run,1992 NYE,Golgi Apparatus,Golgi,1,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,10,1,1,0,0,0,1992 NYE Run,1992 NYE,Sweet Adeline,,0,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,11,4,1,0,0,2,1992 NYE Run,1992 NYE,Run Like an Antelope,Antelope,1,Palace Theatre,New Haven,CT,USA,
+1992-12-28,1992,0,12,1,2,0,0,1,1992 NYE Run,1992 NYE,Poor Heart,,1,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,13,1,2,0,0,2,1992 NYE Run,1992 NYE,Split Open and Melt,SOAMelt,1,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,14,1,2,0,0,2,1992 NYE Run,1992 NYE,Reba,,1,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,15,1,2,0,0,7,1992 NYE Run,1992 NYE,The Sloth,Sloth,1,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,16,2,2,0,0,2,1992 NYE Run,1992 NYE,You Enjoy Myself,YEM,1,Palace Theatre,New Haven,CT,USA,>
+1992-12-28,1992,0,17,2,2,0,0,3,1992 NYE Run,1992 NYE,The Lizards,Lizards,1,Palace Theatre,New Haven,CT,USA,>
+1992-12-28,1992,0,18,2,2,0,0,0,1992 NYE Run,1992 NYE,Hold Your Head Up,HYHU,0,Palace Theatre,New Haven,CT,USA,>
+1992-12-28,1992,0,19,2,2,0,0,73,1992 NYE Run,1992 NYE,Bike,,0,Palace Theatre,New Haven,CT,USA,>
+1992-12-28,1992,0,20,1,2,0,0,0,1992 NYE Run,1992 NYE,Hold Your Head Up,HYHU,0,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,21,1,2,0,0,1,1992 NYE Run,1992 NYE,Harry Hood,Hood,1,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,22,5,2,0,0,1,1992 NYE Run,1992 NYE,Cavern,,1,Palace Theatre,New Haven,CT,USA,
+1992-12-28,1992,0,23,1,e,0,0,2,1992 NYE Run,1992 NYE,Memories,,0,Palace Theatre,New Haven,CT,USA,","
+1992-12-28,1992,0,24,6,e,0,0,4,1992 NYE Run,1992 NYE,Fire,,0,Palace Theatre,New Haven,CT,USA,
+1992-12-30,1992,0,1,1,1,0,0,4,1992 NYE Run,1992 NYE,The Landlady,Landlady,1,Symphony Hall,Springfield,MA,USA,","
+1992-12-30,1992,0,2,1,1,0,0,2,1992 NYE Run,1992 NYE,Sparkle,,1,Symphony Hall,Springfield,MA,USA,","
+1992-12-30,1992,0,3,1,1,0,0,2,1992 NYE Run,1992 NYE,Split Open and Melt,SOAMelt,1,Symphony Hall,Springfield,MA,USA,","
+1992-12-30,1992,0,4,2,1,0,0,5,1992 NYE Run,1992 NYE,Esther,,1,Symphony Hall,Springfield,MA,USA,>
+1992-12-30,1992,0,5,1,1,0,0,3,1992 NYE Run,1992 NYE,Chalk Dust Torture,CDT,1,Symphony Hall,Springfield,MA,USA,","
+1992-12-30,1992,0,6,1,1,0,0,3,1992 NYE Run,1992 NYE,Fluffhead,,1,Symphony Hall,Springfield,MA,USA,","
+1992-12-30,1992,0,7,2,1,0,0,5,1992 NYE Run,1992 NYE,Paul and Silas,,0,Symphony Hall,Springfield,MA,USA,>
+1992-12-30,1992,0,8,1,1,0,0,2,1992 NYE Run,1992 NYE,Reba,,1,Symphony Hall,Springfield,MA,USA,","
+1992-12-30,1992,0,9,1,1,0,0,6,1992 NYE Run,1992 NYE,I Walk the Line,,0,Symphony Hall,Springfield,MA,USA,","
+1992-12-30,1992,0,10,1,1,0,0,0,1992 NYE Run,1992 NYE,Reba,,1,Symphony Hall,Springfield,MA,USA,","
+1992-12-30,1992,0,11,1,1,0,0,3,1992 NYE Run,1992 NYE,I Didn't Know,IDK,1,Symphony Hall,Springfield,MA,USA,","
+1992-12-30,1992,0,12,3,1,0,0,3,1992 NYE Run,1992 NYE,David Bowie,Bowie,1,Symphony Hall,Springfield,MA,USA,->
+1992-12-30,1992,0,13,2,1,0,0,257,1992 NYE Run,1992 NYE,Timber (Jerry the Mule),Timber Ho,0,Symphony Hall,Springfield,MA,USA,>
+1992-12-30,1992,0,14,4,1,0,0,0,1992 NYE Run,1992 NYE,David Bowie,Bowie,1,Symphony Hall,Springfield,MA,USA,
+1992-12-30,1992,0,15,2,2,0,0,5,1992 NYE Run,1992 NYE,Axilla,,1,Symphony Hall,Springfield,MA,USA,>
+1992-12-30,1992,0,16,1,2,0,0,2,1992 NYE Run,1992 NYE,Rift,,1,Symphony Hall,Springfield,MA,USA,","
+1992-12-30,1992,0,17,1,2,0,0,9,1992 NYE Run,1992 NYE,Bathtub Gin,Gin,1,Symphony Hall,Springfield,MA,USA,","
+1992-12-30,1992,0,18,1,2,0,0,2,1992 NYE Run,1992 NYE,You Enjoy Myself,YEM,1,Symphony Hall,Springfield,MA,USA,","
+1992-12-30,1992,0,19,2,2,0,0,3,1992 NYE Run,1992 NYE,The Man Who Stepped Into Yesterday,TMWSIY,1,Symphony Hall,Springfield,MA,USA,>
+1992-12-30,1992,0,20,2,2,0,0,3,1992 NYE Run,1992 NYE,Avenu Malkenu,,0,Symphony Hall,Springfield,MA,USA,>
+1992-12-30,1992,0,21,2,2,0,0,0,1992 NYE Run,1992 NYE,The Man Who Stepped Into Yesterday,TMWSIY,1,Symphony Hall,Springfield,MA,USA,>
+1992-12-30,1992,0,22,2,2,0,0,5,1992 NYE Run,1992 NYE,Possum,,1,Symphony Hall,Springfield,MA,USA,>
+1992-12-30,1992,0,23,3,2,0,0,1,1992 NYE Run,1992 NYE,Big Ball Jam,BBJ,1,Symphony Hall,Springfield,MA,USA,->
+1992-12-30,1992,0,24,2,2,0,0,1,1992 NYE Run,1992 NYE,Hold Your Head Up,HYHU,0,Symphony Hall,Springfield,MA,USA,>
+1992-12-30,1992,0,25,2,2,0,0,6,1992 NYE Run,1992 NYE,Love You,,0,Symphony Hall,Springfield,MA,USA,>
+1992-12-30,1992,0,26,1,2,0,0,0,1992 NYE Run,1992 NYE,Hold Your Head Up,HYHU,0,Symphony Hall,Springfield,MA,USA,","
+1992-12-30,1992,0,27,2,2,0,0,12,1992 NYE Run,1992 NYE,Take the 'A' Train,'A' Train,0,Symphony Hall,Springfield,MA,USA,>
+1992-12-30,1992,0,28,5,2,0,0,1,1992 NYE Run,1992 NYE,Llama,,1,Symphony Hall,Springfield,MA,USA,
+1992-12-30,1992,0,29,1,e,0,0,4,1992 NYE Run,1992 NYE,Ride Captain Ride,,0,Symphony Hall,Springfield,MA,USA,","
+1992-12-30,1992,0,30,6,e,0,0,2,1992 NYE Run,1992 NYE,Sweet Adeline,,0,Symphony Hall,Springfield,MA,USA,
+1992-12-31,1992,0,1,2,1,0,0,3,1992 NYE Run,1992 NYE,Buried Alive,,1,"Matthews Arena, Northeastern University",Boston,MA,USA,>
+1992-12-31,1992,0,2,1,1,0,0,3,1992 NYE Run,1992 NYE,Poor Heart,,1,"Matthews Arena, Northeastern University",Boston,MA,USA,","
+1992-12-31,1992,0,3,1,1,0,0,3,1992 NYE Run,1992 NYE,Maze,,1,"Matthews Arena, Northeastern University",Boston,MA,USA,","
+1992-12-31,1992,0,4,2,1,0,0,3,1992 NYE Run,1992 NYE,Bouncing Around the Room,Bouncin',1,"Matthews Arena, Northeastern University",Boston,MA,USA,>
+1992-12-31,1992,0,5,2,1,0,0,1,1992 NYE Run,1992 NYE,Rift,,1,"Matthews Arena, Northeastern University",Boston,MA,USA,>
+1992-12-31,1992,0,6,2,1,0,0,2,1992 NYE Run,1992 NYE,Wilson,,1,"Matthews Arena, Northeastern University",Boston,MA,USA,>
+1992-12-31,1992,0,7,1,1,0,0,2,1992 NYE Run,1992 NYE,Divided Sky,Divided,1,"Matthews Arena, Northeastern University",Boston,MA,USA,","
+1992-12-31,1992,0,8,1,1,0,0,3,1992 NYE Run,1992 NYE,Cavern,,1,"Matthews Arena, Northeastern University",Boston,MA,USA,","
+1992-12-31,1992,0,9,1,1,0,0,3,1992 NYE Run,1992 NYE,Foam,,1,"Matthews Arena, Northeastern University",Boston,MA,USA,","
+1992-12-31,1992,0,10,2,1,0,0,1,1992 NYE Run,1992 NYE,I Didn't Know,IDK,1,"Matthews Arena, Northeastern University",Boston,MA,USA,>
+1992-12-31,1992,0,11,4,1,0,0,3,1992 NYE Run,1992 NYE,Run Like an Antelope,Antelope,1,"Matthews Arena, Northeastern University",Boston,MA,USA,
+1992-12-31,1992,0,12,1,2,0,0,2,1992 NYE Run,1992 NYE,Runaway Jim,,1,"Matthews Arena, Northeastern University",Boston,MA,USA,","
+1992-12-31,1992,0,13,2,2,0,0,3,1992 NYE Run,1992 NYE,It's Ice,,1,"Matthews Arena, Northeastern University",Boston,MA,USA,>
+1992-12-31,1992,0,14,2,2,0,0,1,1992 NYE Run,1992 NYE,Sparkle,,1,"Matthews Arena, Northeastern University",Boston,MA,USA,>
+1992-12-31,1992,0,15,2,2,0,0,8,1992 NYE Run,1992 NYE,Colonel Forbin's Ascent,Forbin's,1,"Matthews Arena, Northeastern University",Boston,MA,USA,>
+1992-12-31,1992,0,16,2,2,0,0,8,1992 NYE Run,1992 NYE,Fly Famous Mockingbird,Mockingbird,1,"Matthews Arena, Northeastern University",Boston,MA,USA,>
+1992-12-31,1992,0,17,2,2,0,0,2,1992 NYE Run,1992 NYE,My Sweet One,MSO,1,"Matthews Arena, Northeastern University",Boston,MA,USA,>
+1992-12-31,1992,0,18,2,2,0,0,0,1992 NYE Run,1992 NYE,Big Ball Jam,BBJ,1,"Matthews Arena, Northeastern University",Boston,MA,USA,>
+1992-12-31,1992,0,19,1,2,0,0,2,1992 NYE Run,1992 NYE,Stash,,1,"Matthews Arena, Northeastern University",Boston,MA,USA,","
+1992-12-31,1992,0,20,1,2,0,0,2,1992 NYE Run,1992 NYE,Glide,,1,"Matthews Arena, Northeastern University",Boston,MA,USA,","
+1992-12-31,1992,0,21,4,2,0,0,6,1992 NYE Run,1992 NYE,Good Times Bad Times,GTBT,0,"Matthews Arena, Northeastern University",Boston,MA,USA,
+1992-12-31,1992,0,22,2,3,0,0,2,1992 NYE Run,1992 NYE,Mike's Song,Mike's,1,"Matthews Arena, Northeastern University",Boston,MA,USA,>
+1992-12-31,1992,0,23,2,3,0,0,122,1992 NYE Run,1992 NYE,Auld Lang Syne,,0,"Matthews Arena, Northeastern University",Boston,MA,USA,>
+1992-12-31,1992,0,24,1,3,0,0,2,1992 NYE Run,1992 NYE,Weekapaug Groove,Weekapaug,1,"Matthews Arena, Northeastern University",Boston,MA,USA,","
+1992-12-31,1992,0,25,3,3,0,0,17,1992 NYE Run,1992 NYE,Harpua,,1,"Matthews Arena, Northeastern University",Boston,MA,USA,->
+1992-12-31,1992,0,26,3,3,0,0,417,1992 NYE Run,1992 NYE,Kung,,1,"Matthews Arena, Northeastern University",Boston,MA,USA,->
+1992-12-31,1992,0,27,1,3,0,0,0,1992 NYE Run,1992 NYE,Harpua,,1,"Matthews Arena, Northeastern University",Boston,MA,USA,","
+1992-12-31,1992,0,28,2,3,0,0,2,1992 NYE Run,1992 NYE,The Squirming Coil,Coil,1,"Matthews Arena, Northeastern University",Boston,MA,USA,>
+1992-12-31,1992,0,29,1,3,0,0,0,1992 NYE Run,1992 NYE,Diamond Girl,,0,"Matthews Arena, Northeastern University",Boston,MA,USA,","
+1992-12-31,1992,0,30,5,3,0,0,1,1992 NYE Run,1992 NYE,Llama,,1,"Matthews Arena, Northeastern University",Boston,MA,USA,
+1992-12-31,1992,0,31,1,e,0,0,2,1992 NYE Run,1992 NYE,Carolina,,0,"Matthews Arena, Northeastern University",Boston,MA,USA,","
+1992-12-31,1992,0,32,6,e,0,0,3,1992 NYE Run,1992 NYE,Fire,,0,"Matthews Arena, Northeastern University",Boston,MA,USA,

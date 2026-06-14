@@ -1,4 +1,53 @@
 showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,tourwhen,song,nickname,is_original,venue,city,state,country,trans_mark
+1999-05-17,1999,1,1,1,1,0,0,0,Not Part of a Tour,No Tour,Further On Up the Road,,0,The Flynn Theatre,Burlington,VT,USA,","
+1999-05-17,1999,1,2,6,1,0,0,0,Not Part of a Tour,No Tour,Voodoo Child (Slight Return),,0,The Flynn Theatre,Burlington,VT,USA,
+1999-06-24,1999,1,1,1,1,0,0,0,Not Part of a Tour,No Tour,Farmhouse,,1,The Barn,Outer Burlington,VT,USA,","
+1999-06-24,1999,1,2,1,1,0,0,0,Not Part of a Tour,No Tour,The Moma Dance,Moma,1,The Barn,Outer Burlington,VT,USA,","
+1999-06-24,1999,1,3,1,1,0,0,0,Not Part of a Tour,No Tour,Hey You,,0,The Barn,Outer Burlington,VT,USA,","
+1999-06-24,1999,1,4,2,1,0,0,0,Not Part of a Tour,No Tour,Meatstick,,1,The Barn,Outer Burlington,VT,USA,>
+1999-06-24,1999,1,5,4,1,0,0,0,Not Part of a Tour,No Tour,Come Together,,0,The Barn,Outer Burlington,VT,USA,
+1999-06-24,1999,1,6,1,2,0,0,0,Not Part of a Tour,No Tour,Back on the Train,BOTT,0,The Barn,Outer Burlington,VT,USA,","
+1999-06-24,1999,1,7,1,2,0,0,0,Not Part of a Tour,No Tour,Windora Bug,,0,The Barn,Outer Burlington,VT,USA,","
+1999-06-24,1999,1,8,1,2,0,0,0,Not Part of a Tour,No Tour,Dirt,,0,The Barn,Outer Burlington,VT,USA,","
+1999-06-24,1999,1,9,2,2,0,0,0,Not Part of a Tour,No Tour,Twist,,1,The Barn,Outer Burlington,VT,USA,>
+1999-06-24,1999,1,10,1,2,0,0,0,Not Part of a Tour,No Tour,Jam,,0,The Barn,Outer Burlington,VT,USA,","
+1999-06-24,1999,1,11,1,2,0,0,0,Not Part of a Tour,No Tour,Bug,,0,The Barn,Outer Burlington,VT,USA,","
+1999-06-24,1999,1,12,1,2,0,0,0,Not Part of a Tour,No Tour,Saw It Again,,1,The Barn,Outer Burlington,VT,USA,","
+1999-06-24,1999,1,13,6,2,0,0,0,Not Part of a Tour,No Tour,Rock A William,,1,The Barn,Outer Burlington,VT,USA,
+1999-06-30,1999,0,1,1,1,0,0,5,1999 Summer U.S. Tour,1999 Summer,Bathtub Gin,Gin,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
+1999-06-30,1999,0,2,1,1,0,0,4,1999 Summer U.S. Tour,1999 Summer,Farmhouse,,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
+1999-06-30,1999,0,3,1,1,0,0,4,1999 Summer U.S. Tour,1999 Summer,Tube,,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
+1999-06-30,1999,0,4,1,1,0,0,3,1999 Summer U.S. Tour,1999 Summer,Horn,,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
+1999-06-30,1999,0,5,1,1,0,0,1244,1999 Summer U.S. Tour,1999 Summer,Back on the Train,BOTT,0,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
+1999-06-30,1999,0,6,1,1,0,0,2,1999 Summer U.S. Tour,1999 Summer,Maze,,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
+1999-06-30,1999,0,7,1,1,0,0,3,1999 Summer U.S. Tour,1999 Summer,Limb By Limb,LxL,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
+1999-06-30,1999,0,8,4,1,0,0,4,1999 Summer U.S. Tour,1999 Summer,Golgi Apparatus,Golgi,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,
+1999-06-30,1999,0,9,2,2,0,0,2,1999 Summer U.S. Tour,1999 Summer,The Squirming Coil,Coil,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,>
+1999-06-30,1999,0,10,1,2,0,0,3,1999 Summer U.S. Tour,1999 Summer,Free,,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
+1999-06-30,1999,0,11,2,2,0,0,4,1999 Summer U.S. Tour,1999 Summer,Birds of a Feather,BOAF,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,>
+1999-06-30,1999,0,12,2,2,0,0,1,1999 Summer U.S. Tour,1999 Summer,Simple,,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,>
+1999-06-30,1999,0,13,2,2,0,0,63,1999 Summer U.S. Tour,1999 Summer,Swept Away,,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,>
+1999-06-30,1999,0,14,2,2,0,0,63,1999 Summer U.S. Tour,1999 Summer,Steep,,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,>
+1999-06-30,1999,0,15,1,2,0,0,2,1999 Summer U.S. Tour,1999 Summer,Piper,,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
+1999-06-30,1999,0,16,3,2,0,0,1244,1999 Summer U.S. Tour,1999 Summer,Bug,,0,Sandstone Amphitheatre,Bonner Springs,KS,USA,->
+1999-06-30,1999,0,17,1,2,0,0,1241,1999 Summer U.S. Tour,1999 Summer,My Left Toe,,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
+1999-06-30,1999,0,18,5,2,0,0,4,1999 Summer U.S. Tour,1999 Summer,Stash,,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,
+1999-06-30,1999,0,19,1,e,0,0,12,1999 Summer U.S. Tour,1999 Summer,Bouncing Around the Room,Bouncin',1,Sandstone Amphitheatre,Bonner Springs,KS,USA,","
+1999-06-30,1999,0,20,6,e,0,0,2,1999 Summer U.S. Tour,1999 Summer,Sample in a Jar,Sample,1,Sandstone Amphitheatre,Bonner Springs,KS,USA,
+1999-07-01,1999,0,1,1,1,0,0,4,1999 Summer U.S. Tour,1999 Summer,Punch You in the Eye,PYITE,1,First American Music Center,Antioch,TN,USA,","
+1999-07-01,1999,0,2,1,1,0,0,21,1999 Summer U.S. Tour,1999 Summer,Billy Breathes,,1,First American Music Center,Antioch,TN,USA,","
+1999-07-01,1999,0,3,1,1,0,0,4,1999 Summer U.S. Tour,1999 Summer,Guyute,,1,First American Music Center,Antioch,TN,USA,","
+1999-07-01,1999,0,4,1,1,0,0,5,1999 Summer U.S. Tour,1999 Summer,Wolfman's Brother,Wolfman's,1,First American Music Center,Antioch,TN,USA,","
+1999-07-01,1999,0,5,1,1,0,0,21,1999 Summer U.S. Tour,1999 Summer,Beauty of My Dreams,,0,First American Music Center,Antioch,TN,USA,","
+1999-07-01,1999,0,6,1,1,0,0,192,1999 Summer U.S. Tour,1999 Summer,Doin' My Time,,0,First American Music Center,Antioch,TN,USA,","
+1999-07-01,1999,0,7,1,1,0,0,3,1999 Summer U.S. Tour,1999 Summer,Roggae,,1,First American Music Center,Antioch,TN,USA,","
+1999-07-01,1999,0,8,1,1,0,0,17,1999 Summer U.S. Tour,1999 Summer,Water in the Sky,,1,First American Music Center,Antioch,TN,USA,","
+1999-07-01,1999,0,9,1,1,0,0,1,1999 Summer U.S. Tour,1999 Summer,Back on the Train,BOTT,0,First American Music Center,Antioch,TN,USA,","
+1999-07-01,1999,0,10,4,1,0,0,19,1999 Summer U.S. Tour,1999 Summer,Poor Heart,,1,First American Music Center,Antioch,TN,USA,
+1999-07-01,1999,0,11,2,2,0,0,3,1999 Summer U.S. Tour,1999 Summer,Down with Disease,DwD,1,First American Music Center,Antioch,TN,USA,>
+1999-07-01,1999,0,12,2,2,0,0,3,1999 Summer U.S. Tour,1999 Summer,Prince Caspian,Caspian,1,First American Music Center,Antioch,TN,USA,>
+1999-07-01,1999,0,13,5,2,0,0,4,1999 Summer U.S. Tour,1999 Summer,You Enjoy Myself,YEM,1,First American Music Center,Antioch,TN,USA,
+1999-07-01,1999,0,14,6,e,0,0,2,1999 Summer U.S. Tour,1999 Summer,Character Zero,,1,First American Music Center,Antioch,TN,USA,
 1999-07-03,1999,0,1,1,1,0,0,4,1999 Summer U.S. Tour,1999 Summer,Chalk Dust Torture,CDT,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
 1999-07-03,1999,0,2,1,1,0,0,8,1999 Summer U.S. Tour,1999 Summer,Gumbo,,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
 1999-07-03,1999,0,3,2,1,0,0,4,1999 Summer U.S. Tour,1999 Summer,Sparkle,,1,Lakewood Amphitheatre,Atlanta,GA,USA,>
@@ -42,6 +91,25 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1999-07-04,1999,0,20,2,e,0,0,7,1999 Summer U.S. Tour,1999 Summer,Carini,,1,Lakewood Amphitheatre,Atlanta,GA,USA,>
 1999-07-04,1999,0,21,7,e,0,1,1,1999 Summer U.S. Tour,1999 Summer,Meatstick,,1,Lakewood Amphitheatre,Atlanta,GA,USA,
 1999-07-04,1999,0,22,6,e2,0,0,83,1999 Summer U.S. Tour,1999 Summer,The Star-Spangled Banner,Star Spangled Banner,0,Lakewood Amphitheatre,Atlanta,GA,USA,
+1999-07-07,1999,0,1,1,1,0,0,3,1999 Summer U.S. Tour,1999 Summer,Back on the Train,BOTT,0,Blockbuster Pavilion,Charlotte,NC,USA,","
+1999-07-07,1999,0,2,1,1,0,0,1,1999 Summer U.S. Tour,1999 Summer,What's the Use?,WTU?,1,Blockbuster Pavilion,Charlotte,NC,USA,","
+1999-07-07,1999,0,3,1,1,0,0,3,1999 Summer U.S. Tour,1999 Summer,Billy Breathes,,1,Blockbuster Pavilion,Charlotte,NC,USA,","
+1999-07-07,1999,0,4,2,1,0,0,56,1999 Summer U.S. Tour,1999 Summer,My Mind's Got a Mind of its Own,MMGAMOIO,0,Blockbuster Pavilion,Charlotte,NC,USA,>
+1999-07-07,1999,0,5,1,1,0,0,28,1999 Summer U.S. Tour,1999 Summer,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,Blockbuster Pavilion,Charlotte,NC,USA,","
+1999-07-07,1999,0,6,2,1,0,0,8,1999 Summer U.S. Tour,1999 Summer,Axilla,,1,Blockbuster Pavilion,Charlotte,NC,USA,>
+1999-07-07,1999,0,7,1,1,0,0,15,1999 Summer U.S. Tour,1999 Summer,Rift,,1,Blockbuster Pavilion,Charlotte,NC,USA,","
+1999-07-07,1999,0,8,2,1,0,0,3,1999 Summer U.S. Tour,1999 Summer,Wolfman's Brother,Wolfman's,1,Blockbuster Pavilion,Charlotte,NC,USA,>
+1999-07-07,1999,0,9,1,1,0,0,4,1999 Summer U.S. Tour,1999 Summer,Maze,,1,Blockbuster Pavilion,Charlotte,NC,USA,","
+1999-07-07,1999,0,10,4,1,0,0,6,1999 Summer U.S. Tour,1999 Summer,Loving Cup,,0,Blockbuster Pavilion,Charlotte,NC,USA,
+1999-07-07,1999,0,11,2,2,0,0,7,1999 Summer U.S. Tour,1999 Summer,Also Sprach Zarathustra,2001,0,Blockbuster Pavilion,Charlotte,NC,USA,>
+1999-07-07,1999,0,12,2,2,0,0,3,1999 Summer U.S. Tour,1999 Summer,Down with Disease,DwD,1,Blockbuster Pavilion,Charlotte,NC,USA,>
+1999-07-07,1999,0,13,3,2,0,0,3,1999 Summer U.S. Tour,1999 Summer,My Left Toe,,1,Blockbuster Pavilion,Charlotte,NC,USA,->
+1999-07-07,1999,0,14,3,2,0,0,5,1999 Summer U.S. Tour,1999 Summer,Wading in the Velvet Sea,Velvet Sea,1,Blockbuster Pavilion,Charlotte,NC,USA,->
+1999-07-07,1999,0,15,2,2,0,0,3,1999 Summer U.S. Tour,1999 Summer,My Left Toe,,1,Blockbuster Pavilion,Charlotte,NC,USA,>
+1999-07-07,1999,0,16,2,2,0,0,4,1999 Summer U.S. Tour,1999 Summer,Bug,,0,Blockbuster Pavilion,Charlotte,NC,USA,>
+1999-07-07,1999,0,17,5,2,0,0,3,1999 Summer U.S. Tour,1999 Summer,You Enjoy Myself,YEM,1,Blockbuster Pavilion,Charlotte,NC,USA,
+1999-07-07,1999,0,18,2,e,0,0,6,1999 Summer U.S. Tour,1999 Summer,Possum,,1,Blockbuster Pavilion,Charlotte,NC,USA,>
+1999-07-07,1999,0,19,6,e,0,0,2,1999 Summer U.S. Tour,1999 Summer,Funky Bitch,,0,Blockbuster Pavilion,Charlotte,NC,USA,
 1999-07-08,1999,0,1,1,1,0,0,11,1999 Summer U.S. Tour,1999 Summer,Julius,,1,GTE Virginia Beach Amphitheater,Virginia Beach,VA,USA,","
 1999-07-08,1999,0,2,3,1,0,0,24,1999 Summer U.S. Tour,1999 Summer,Fee,,1,GTE Virginia Beach Amphitheater,Virginia Beach,VA,USA,->
 1999-07-08,1999,0,3,1,1,0,0,30,1999 Summer U.S. Tour,1999 Summer,Jam,,0,GTE Virginia Beach Amphitheater,Virginia Beach,VA,USA,","
@@ -61,6 +129,37 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1999-07-08,1999,0,17,2,e,0,0,212,1999 Summer U.S. Tour,1999 Summer,Terrapin,,0,GTE Virginia Beach Amphitheater,Virginia Beach,VA,USA,>
 1999-07-08,1999,0,18,1,e,0,0,16,1999 Summer U.S. Tour,1999 Summer,Hold Your Head Up,HYHU,0,GTE Virginia Beach Amphitheater,Virginia Beach,VA,USA,","
 1999-07-08,1999,0,19,6,e,0,0,4,1999 Summer U.S. Tour,1999 Summer,Character Zero,,1,GTE Virginia Beach Amphitheater,Virginia Beach,VA,USA,
+1999-07-09,1999,0,1,1,1,0,0,6,1999 Summer U.S. Tour,1999 Summer,Limb By Limb,LxL,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+1999-07-09,1999,0,2,1,1,0,0,3,1999 Summer U.S. Tour,1999 Summer,Farmhouse,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+1999-07-09,1999,0,3,1,1,0,0,2,1999 Summer U.S. Tour,1999 Summer,Back on the Train,BOTT,0,Merriweather Post Pavilion,Columbia,MD,USA,","
+1999-07-09,1999,0,4,1,1,0,0,9,1999 Summer U.S. Tour,1999 Summer,Divided Sky,Divided,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+1999-07-09,1999,0,5,1,1,0,0,17,1999 Summer U.S. Tour,1999 Summer,Train Song,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+1999-07-09,1999,0,6,1,1,0,0,7,1999 Summer U.S. Tour,1999 Summer,Llama,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+1999-07-09,1999,0,7,1,1,0,0,10,1999 Summer U.S. Tour,1999 Summer,Driver,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+1999-07-09,1999,0,8,4,1,0,0,7,1999 Summer U.S. Tour,1999 Summer,Runaway Jim,,1,Merriweather Post Pavilion,Columbia,MD,USA,
+1999-07-09,1999,0,9,2,2,0,0,5,1999 Summer U.S. Tour,1999 Summer,Punch You in the Eye,PYITE,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+1999-07-09,1999,0,10,2,2,0,0,6,1999 Summer U.S. Tour,1999 Summer,Free,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+1999-07-09,1999,0,11,2,2,0,0,2,1999 Summer U.S. Tour,1999 Summer,What's the Use?,WTU?,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+1999-07-09,1999,0,12,2,2,0,0,1,1999 Summer U.S. Tour,1999 Summer,Meatstick,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+1999-07-09,1999,0,13,3,2,0,0,3,1999 Summer U.S. Tour,1999 Summer,Mike's Song,Mike's,1,Merriweather Post Pavilion,Columbia,MD,USA,->
+1999-07-09,1999,0,14,2,2,0,0,4,1999 Summer U.S. Tour,1999 Summer,Twist,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+1999-07-09,1999,0,15,5,2,0,0,3,1999 Summer U.S. Tour,1999 Summer,Weekapaug Groove,Weekapaug,1,Merriweather Post Pavilion,Columbia,MD,USA,
+1999-07-09,1999,0,16,6,e,0,0,4,1999 Summer U.S. Tour,1999 Summer,Harry Hood,Hood,1,Merriweather Post Pavilion,Columbia,MD,USA,
+1999-07-10,1999,0,1,2,1,0,0,4,1999 Summer U.S. Tour,1999 Summer,Wilson,,1,E Centre,Camden,NJ,USA,>
+1999-07-10,1999,0,2,3,1,0,0,5,1999 Summer U.S. Tour,1999 Summer,Chalk Dust Torture,CDT,1,E Centre,Camden,NJ,USA,->
+1999-07-10,1999,0,3,1,1,0,0,6,1999 Summer U.S. Tour,1999 Summer,Roggae,,1,E Centre,Camden,NJ,USA,","
+1999-07-10,1999,0,4,2,1,0,0,6,1999 Summer U.S. Tour,1999 Summer,Water in the Sky,,1,E Centre,Camden,NJ,USA,>
+1999-07-10,1999,0,5,1,1,0,0,20,1999 Summer U.S. Tour,1999 Summer,Back at the Chicken Shack,,0,E Centre,Camden,NJ,USA,","
+1999-07-10,1999,0,6,2,1,0,0,5,1999 Summer U.S. Tour,1999 Summer,Sparkle,,1,E Centre,Camden,NJ,USA,>
+1999-07-10,1999,0,7,1,1,0,0,7,1999 Summer U.S. Tour,1999 Summer,Bathtub Gin,Gin,1,E Centre,Camden,NJ,USA,","
+1999-07-10,1999,0,8,4,1,0,0,7,1999 Summer U.S. Tour,1999 Summer,Golgi Apparatus,Golgi,1,E Centre,Camden,NJ,USA,
+1999-07-10,1999,0,9,2,2,0,0,8,1999 Summer U.S. Tour,1999 Summer,Tweezer,,1,E Centre,Camden,NJ,USA,>
+1999-07-10,1999,0,10,1,2,0,0,5,1999 Summer U.S. Tour,1999 Summer,Mountains in the Mist,Mist,0,E Centre,Camden,NJ,USA,","
+1999-07-10,1999,0,11,2,2,0,0,2,1999 Summer U.S. Tour,1999 Summer,Birds of a Feather,BOAF,1,E Centre,Camden,NJ,USA,>
+1999-07-10,1999,0,12,1,2,0,0,5,1999 Summer U.S. Tour,1999 Summer,When the Circus Comes,Circus,0,E Centre,Camden,NJ,USA,","
+1999-07-10,1999,0,13,5,2,0,0,20,1999 Summer U.S. Tour,1999 Summer,Fluffhead,,1,E Centre,Camden,NJ,USA,
+1999-07-10,1999,0,14,2,e,0,0,8,1999 Summer U.S. Tour,1999 Summer,While My Guitar Gently Weeps,WMGGW,0,E Centre,Camden,NJ,USA,>
+1999-07-10,1999,0,15,6,e,0,0,8,1999 Summer U.S. Tour,1999 Summer,Tweezer Reprise,Tweeprise,1,E Centre,Camden,NJ,USA,
 1999-07-12,1999,0,1,2,1,0,0,310,1999 Summer U.S. Tour,1999 Summer,Foreplay/Long Time,,0,Tweeter Center,Mansfield,MA,USA,>
 1999-07-12,1999,0,2,1,1,0,0,4,1999 Summer U.S. Tour,1999 Summer,Down with Disease,DwD,1,Tweeter Center,Mansfield,MA,USA,","
 1999-07-12,1999,0,3,1,1,0,0,2,1999 Summer U.S. Tour,1999 Summer,Back on the Train,BOTT,0,Tweeter Center,Mansfield,MA,USA,","
@@ -127,6 +226,26 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1999-07-16,1999,0,16,2,2,0,0,7,1999 Summer U.S. Tour,1999 Summer,Loving Cup,,0,PNC Bank Arts Center,Holmdel,NJ,USA,>
 1999-07-16,1999,0,17,5,2,0,0,4,1999 Summer U.S. Tour,1999 Summer,Golgi Apparatus,Golgi,1,PNC Bank Arts Center,Holmdel,NJ,USA,
 1999-07-16,1999,0,18,6,e,0,0,1252,1999 Summer U.S. Tour,1999 Summer,Born to Run,,0,PNC Bank Arts Center,Holmdel,NJ,USA,
+1999-07-17,1999,0,1,2,1,0,0,7,1999 Summer U.S. Tour,1999 Summer,Tube,,1,Oswego County Airport,Volney,NY,USA,>
+1999-07-17,1999,0,2,1,1,0,0,15,1999 Summer U.S. Tour,1999 Summer,Boogie On Reggae Woman,Boogie On,0,Oswego County Airport,Volney,NY,USA,","
+1999-07-17,1999,0,3,1,1,0,0,5,1999 Summer U.S. Tour,1999 Summer,Birds of a Feather,BOAF,1,Oswego County Airport,Volney,NY,USA,","
+1999-07-17,1999,0,4,1,1,0,0,23,1999 Summer U.S. Tour,1999 Summer,Guelah Papyrus,Guelah,1,Oswego County Airport,Volney,NY,USA,","
+1999-07-17,1999,0,5,1,1,0,0,62,1999 Summer U.S. Tour,1999 Summer,My Sweet One,MSO,1,Oswego County Airport,Volney,NY,USA,","
+1999-07-17,1999,0,6,1,1,0,0,5,1999 Summer U.S. Tour,1999 Summer,Roggae,,1,Oswego County Airport,Volney,NY,USA,","
+1999-07-17,1999,0,7,3,1,0,0,5,1999 Summer U.S. Tour,1999 Summer,Tweezer,,1,Oswego County Airport,Volney,NY,USA,->
+1999-07-17,1999,0,8,3,1,0,0,336,1999 Summer U.S. Tour,1999 Summer,Have Mercy,,0,Oswego County Airport,Volney,NY,USA,->
+1999-07-17,1999,0,9,2,1,0,0,10,1999 Summer U.S. Tour,1999 Summer,Taste,,1,Oswego County Airport,Volney,NY,USA,>
+1999-07-17,1999,0,10,4,1,0,0,4,1999 Summer U.S. Tour,1999 Summer,Character Zero,,1,Oswego County Airport,Volney,NY,USA,
+1999-07-17,1999,0,11,1,2,0,0,3,1999 Summer U.S. Tour,1999 Summer,Funky Bitch,,0,Oswego County Airport,Volney,NY,USA,","
+1999-07-17,1999,0,12,1,2,0,0,1253,1999 Summer U.S. Tour,1999 Summer,On My Knees,,0,Oswego County Airport,Volney,NY,USA,","
+1999-07-17,1999,0,13,2,2,0,0,2,1999 Summer U.S. Tour,1999 Summer,Jam,,0,Oswego County Airport,Volney,NY,USA,>
+1999-07-17,1999,0,14,1,2,0,0,4,1999 Summer U.S. Tour,1999 Summer,Down with Disease,DwD,1,Oswego County Airport,Volney,NY,USA,","
+1999-07-17,1999,0,15,3,2,0,0,3,1999 Summer U.S. Tour,1999 Summer,Wolfman's Brother,Wolfman's,1,Oswego County Airport,Volney,NY,USA,->
+1999-07-17,1999,0,16,2,2,0,0,8,1999 Summer U.S. Tour,1999 Summer,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,Oswego County Airport,Volney,NY,USA,>
+1999-07-17,1999,0,17,1,2,0,0,18,1999 Summer U.S. Tour,1999 Summer,Timber (Jerry the Mule),Timber Ho,0,Oswego County Airport,Volney,NY,USA,","
+1999-07-17,1999,0,18,5,2,0,0,2,1999 Summer U.S. Tour,1999 Summer,You Enjoy Myself,YEM,1,Oswego County Airport,Volney,NY,USA,
+1999-07-17,1999,0,19,1,e,0,0,12,1999 Summer U.S. Tour,1999 Summer,The Squirming Coil,Coil,1,Oswego County Airport,Volney,NY,USA,","
+1999-07-17,1999,0,20,6,e,0,0,5,1999 Summer U.S. Tour,1999 Summer,Tweezer Reprise,Tweeprise,1,Oswego County Airport,Volney,NY,USA,
 1999-07-18,1999,0,1,1,1,0,0,3,1999 Summer U.S. Tour,1999 Summer,Punch You in the Eye,PYITE,1,Oswego County Airport,Volney,NY,USA,","
 1999-07-18,1999,0,2,1,1,0,0,3,1999 Summer U.S. Tour,1999 Summer,Farmhouse,,1,Oswego County Airport,Volney,NY,USA,","
 1999-07-18,1999,0,3,2,1,0,0,5,1999 Summer U.S. Tour,1999 Summer,Water in the Sky,,1,Oswego County Airport,Volney,NY,USA,>
@@ -206,6 +325,26 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1999-07-23,1999,0,14,5,2,0,0,84,1999 Summer U.S. Tour,1999 Summer,Fire,,0,Polaris Amphitheater,Columbus,OH,USA,
 1999-07-23,1999,0,15,2,e,0,0,6,1999 Summer U.S. Tour,1999 Summer,Bouncing Around the Room,Bouncin',1,Polaris Amphitheater,Columbus,OH,USA,>
 1999-07-23,1999,0,16,6,e,0,0,30,1999 Summer U.S. Tour,1999 Summer,Rocky Top,,0,Polaris Amphitheater,Columbus,OH,USA,
+1999-07-24,1999,0,1,1,1,0,0,3,1999 Summer U.S. Tour,1999 Summer,Guyute,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+1999-07-24,1999,0,2,2,1,0,0,4,1999 Summer U.S. Tour,1999 Summer,Fluffhead,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+1999-07-24,1999,0,3,2,1,0,0,35,1999 Summer U.S. Tour,1999 Summer,The Man Who Stepped Into Yesterday,TMWSIY,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+1999-07-24,1999,0,4,2,1,0,0,35,1999 Summer U.S. Tour,1999 Summer,Avenu Malkenu,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+1999-07-24,1999,0,5,3,1,0,0,0,1999 Summer U.S. Tour,1999 Summer,The Man Who Stepped Into Yesterday,TMWSIY,1,Alpine Valley Music Theatre,East Troy,WI,USA,->
+1999-07-24,1999,0,6,3,1,0,0,5,1999 Summer U.S. Tour,1999 Summer,Jam,,0,Alpine Valley Music Theatre,East Troy,WI,USA,->
+1999-07-24,1999,0,7,1,1,0,0,14,1999 Summer U.S. Tour,1999 Summer,The Wedge,Wedge,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+1999-07-24,1999,0,8,4,1,0,0,5,1999 Summer U.S. Tour,1999 Summer,Character Zero,,1,Alpine Valley Music Theatre,East Troy,WI,USA,
+1999-07-24,1999,0,9,3,2,0,0,5,1999 Summer U.S. Tour,1999 Summer,Tweezer,,1,Alpine Valley Music Theatre,East Troy,WI,USA,->
+1999-07-24,1999,0,10,3,2,0,0,4,1999 Summer U.S. Tour,1999 Summer,Catapult,,1,Alpine Valley Music Theatre,East Troy,WI,USA,->
+1999-07-24,1999,0,11,2,2,0,0,0,1999 Summer U.S. Tour,1999 Summer,Tweezer,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+1999-07-24,1999,0,12,3,2,0,0,27,1999 Summer U.S. Tour,1999 Summer,The Mango Song,Mango,1,Alpine Valley Music Theatre,East Troy,WI,USA,->
+1999-07-24,1999,0,13,2,2,0,0,0,1999 Summer U.S. Tour,1999 Summer,Jam,,0,Alpine Valley Music Theatre,East Troy,WI,USA,>
+1999-07-24,1999,0,14,1,2,0,0,1258,1999 Summer U.S. Tour,1999 Summer,The Happy Whip and Dung Song,Happy Whip and Dung Song,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+1999-07-24,1999,0,15,2,2,0,0,3,1999 Summer U.S. Tour,1999 Summer,Waste,,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+1999-07-24,1999,0,16,5,2,0,0,3,1999 Summer U.S. Tour,1999 Summer,Chalk Dust Torture,CDT,1,Alpine Valley Music Theatre,East Troy,WI,USA,
+1999-07-24,1999,0,17,1,e,0,0,61,1999 Summer U.S. Tour,1999 Summer,Glide,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+1999-07-24,1999,0,18,1,e,0,0,62,1999 Summer U.S. Tour,1999 Summer,Camel Walk,,1,Alpine Valley Music Theatre,East Troy,WI,USA,","
+1999-07-24,1999,0,19,2,e,0,0,324,1999 Summer U.S. Tour,1999 Summer,Alumni Blues,Alumni,1,Alpine Valley Music Theatre,East Troy,WI,USA,>
+1999-07-24,1999,0,20,6,e,0,0,5,1999 Summer U.S. Tour,1999 Summer,Tweezer Reprise,Tweeprise,1,Alpine Valley Music Theatre,East Troy,WI,USA,
 1999-07-25,1999,0,1,1,1,0,0,25,1999 Summer U.S. Tour,1999 Summer,Meat,,1,Deer Creek Music Center,Noblesville,IN,USA,","
 1999-07-25,1999,0,2,3,1,0,0,32,1999 Summer U.S. Tour,1999 Summer,"My Friend, My Friend",My Friend,1,Deer Creek Music Center,Noblesville,IN,USA,->
 1999-07-25,1999,0,3,3,1,0,0,3,1999 Summer U.S. Tour,1999 Summer,My Left Toe,,1,Deer Creek Music Center,Noblesville,IN,USA,->
@@ -862,43 +1001,6 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1999-12-07,1999,0,16,5,2,0,0,7,1999 Winter Tour,1999 Winter,Suzy Greenberg,Suzy,1,Cumberland County Civic Center,Portland,ME,USA,
 1999-12-07,1999,0,17,2,e,0,0,34,1999 Winter Tour,1999 Winter,Walk Away,,0,Cumberland County Civic Center,Portland,ME,USA,>
 1999-12-07,1999,0,18,6,e,0,0,8,1999 Winter Tour,1999 Winter,Rocky Top,,0,Cumberland County Civic Center,Portland,ME,USA,
-1999-12-08,1999,0,1,1,1,0,0,4,1999 Winter Tour,1999 Winter,Limb By Limb,LxL,1,Cumberland County Civic Center,Portland,ME,USA,","
-1999-12-08,1999,0,2,1,1,0,0,2,1999 Winter Tour,1999 Winter,Back on the Train,BOTT,0,Cumberland County Civic Center,Portland,ME,USA,","
-1999-12-08,1999,0,3,2,1,0,0,3,1999 Winter Tour,1999 Winter,Down with Disease,DwD,1,Cumberland County Civic Center,Portland,ME,USA,>
-1999-12-08,1999,0,4,1,1,0,0,37,1999 Winter Tour,1999 Winter,Fast Enough for You,FEFY,1,Cumberland County Civic Center,Portland,ME,USA,","
-1999-12-08,1999,0,5,1,1,0,0,3,1999 Winter Tour,1999 Winter,Ya Mar,,0,Cumberland County Civic Center,Portland,ME,USA,","
-1999-12-08,1999,0,6,2,1,0,0,13,1999 Winter Tour,1999 Winter,The Horse,Horse,1,Cumberland County Civic Center,Portland,ME,USA,>
-1999-12-08,1999,0,7,1,1,0,0,13,1999 Winter Tour,1999 Winter,Silent in the Morning,Silent,1,Cumberland County Civic Center,Portland,ME,USA,","
-1999-12-08,1999,0,8,4,1,0,0,5,1999 Winter Tour,1999 Winter,Run Like an Antelope,Antelope,1,Cumberland County Civic Center,Portland,ME,USA,
-1999-12-08,1999,0,9,1,2,0,0,4,1999 Winter Tour,1999 Winter,Sand,,0,Cumberland County Civic Center,Portland,ME,USA,","
-1999-12-08,1999,0,10,2,2,0,0,3,1999 Winter Tour,1999 Winter,Dirt,,0,Cumberland County Civic Center,Portland,ME,USA,>
-1999-12-08,1999,0,11,3,2,0,0,4,1999 Winter Tour,1999 Winter,Piper,,1,Cumberland County Civic Center,Portland,ME,USA,->
-1999-12-08,1999,0,12,1,2,0,0,66,1999 Winter Tour,1999 Winter,Dog Faced Boy,,1,Cumberland County Civic Center,Portland,ME,USA,","
-1999-12-08,1999,0,13,1,2,0,0,18,1999 Winter Tour,1999 Winter,The Lizards,Lizards,1,Cumberland County Civic Center,Portland,ME,USA,","
-1999-12-08,1999,0,14,3,2,0,0,5,1999 Winter Tour,1999 Winter,You Enjoy Myself,YEM,1,Cumberland County Civic Center,Portland,ME,USA,->
-1999-12-08,1999,0,15,5,2,0,0,3,1999 Winter Tour,1999 Winter,Tweezer Reprise,Tweeprise,1,Cumberland County Civic Center,Portland,ME,USA,
-1999-12-08,1999,0,16,2,e,0,0,9,1999 Winter Tour,1999 Winter,Golgi Apparatus,Golgi,1,Cumberland County Civic Center,Portland,ME,USA,>
-1999-12-08,1999,0,17,6,e,0,0,0,1999 Winter Tour,1999 Winter,Tweezer Reprise,Tweeprise,1,Cumberland County Civic Center,Portland,ME,USA,
-1999-12-10,1999,0,1,2,1,0,0,4,1999 Winter Tour,1999 Winter,Tweezer,,1,First Union Spectrum,Philadelphia,PA,USA,>
-1999-12-10,1999,0,2,1,1,0,0,5,1999 Winter Tour,1999 Winter,Bouncing Around the Room,Bouncin',1,First Union Spectrum,Philadelphia,PA,USA,","
-1999-12-10,1999,0,3,1,1,0,0,12,1999 Winter Tour,1999 Winter,Horn,,1,First Union Spectrum,Philadelphia,PA,USA,","
-1999-12-10,1999,0,4,1,1,0,0,2,1999 Winter Tour,1999 Winter,Heavy Things,,1,First Union Spectrum,Philadelphia,PA,USA,","
-1999-12-10,1999,0,5,1,1,0,0,12,1999 Winter Tour,1999 Winter,Dogs Stole Things,,1,First Union Spectrum,Philadelphia,PA,USA,","
-1999-12-10,1999,0,6,1,1,0,0,20,1999 Winter Tour,1999 Winter,My Mind's Got a Mind of its Own,MMGAMOIO,0,First Union Spectrum,Philadelphia,PA,USA,","
-1999-12-10,1999,0,7,1,1,0,0,6,1999 Winter Tour,1999 Winter,Roggae,,1,First Union Spectrum,Philadelphia,PA,USA,","
-1999-12-10,1999,0,8,1,1,0,0,17,1999 Winter Tour,1999 Winter,Birds of a Feather,BOAF,1,First Union Spectrum,Philadelphia,PA,USA,","
-1999-12-10,1999,0,9,1,1,0,0,4,1999 Winter Tour,1999 Winter,Guyute,,1,First Union Spectrum,Philadelphia,PA,USA,","
-1999-12-10,1999,0,10,4,1,0,0,4,1999 Winter Tour,1999 Winter,Loving Cup,,0,First Union Spectrum,Philadelphia,PA,USA,
-1999-12-10,1999,0,11,1,2,0,0,3,1999 Winter Tour,1999 Winter,Gotta Jibboo,Jibboo,0,First Union Spectrum,Philadelphia,PA,USA,","
-1999-12-10,1999,0,12,1,2,0,0,11,1999 Winter Tour,1999 Winter,The Wedge,Wedge,1,First Union Spectrum,Philadelphia,PA,USA,","
-1999-12-10,1999,0,13,3,2,0,0,4,1999 Winter Tour,1999 Winter,David Bowie,Bowie,1,First Union Spectrum,Philadelphia,PA,USA,->
-1999-12-10,1999,0,14,3,2,0,0,42,1999 Winter Tour,1999 Winter,Have Mercy,,0,First Union Spectrum,Philadelphia,PA,USA,->
-1999-12-10,1999,0,15,2,2,0,0,33,1999 Winter Tour,1999 Winter,Hold Your Head Up,HYHU,0,First Union Spectrum,Philadelphia,PA,USA,>
-1999-12-10,1999,0,16,2,2,0,0,93,1999 Winter Tour,1999 Winter,Cracklin' Rosie,,0,First Union Spectrum,Philadelphia,PA,USA,>
-1999-12-10,1999,0,17,1,2,0,0,0,1999 Winter Tour,1999 Winter,Hold Your Head Up,HYHU,0,First Union Spectrum,Philadelphia,PA,USA,","
-1999-12-10,1999,0,18,1,2,0,0,3,1999 Winter Tour,1999 Winter,Twist,,1,First Union Spectrum,Philadelphia,PA,USA,","
-1999-12-10,1999,0,19,5,2,0,0,13,1999 Winter Tour,1999 Winter,Waste,,1,First Union Spectrum,Philadelphia,PA,USA,
-1999-12-10,1999,0,20,6,e,0,0,73,1999 Winter Tour,1999 Winter,Ride Captain Ride,,0,First Union Spectrum,Philadelphia,PA,USA,
 1999-12-11,1999,0,1,2,1,0,0,6,1999 Winter Tour,1999 Winter,Harry Hood,Hood,1,First Union Spectrum,Philadelphia,PA,USA,>
 1999-12-11,1999,0,2,2,1,0,0,4,1999 Winter Tour,1999 Winter,Mike's Song,Mike's,1,First Union Spectrum,Philadelphia,PA,USA,>
 1999-12-11,1999,0,3,2,1,0,0,3,1999 Winter Tour,1999 Winter,Simple,,1,First Union Spectrum,Philadelphia,PA,USA,>
@@ -913,69 +1015,6 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1999-12-11,1999,0,12,2,2,0,0,7,1999 Winter Tour,1999 Winter,Also Sprach Zarathustra,2001,0,First Union Spectrum,Philadelphia,PA,USA,>
 1999-12-11,1999,0,13,5,2,0,0,2,1999 Winter Tour,1999 Winter,Down with Disease,DwD,1,First Union Spectrum,Philadelphia,PA,USA,
 1999-12-11,1999,0,14,6,e,0,0,6,1999 Winter Tour,1999 Winter,Possum,,1,First Union Spectrum,Philadelphia,PA,USA,
-1999-12-12,1999,0,1,1,1,0,0,2,1999 Winter Tour,1999 Winter,Heavy Things,,1,Hartford Civic Center,Hartford,CT,USA,","
-1999-12-12,1999,0,2,1,1,0,0,7,1999 Winter Tour,1999 Winter,AC/DC Bag,Bag,1,Hartford Civic Center,Hartford,CT,USA,","
-1999-12-12,1999,0,3,1,1,0,0,23,1999 Winter Tour,1999 Winter,Strange Design,,1,Hartford Civic Center,Hartford,CT,USA,","
-1999-12-12,1999,0,4,1,1,0,0,14,1999 Winter Tour,1999 Winter,Divided Sky,Divided,1,Hartford Civic Center,Hartford,CT,USA,","
-1999-12-12,1999,0,5,1,1,0,0,22,1999 Winter Tour,1999 Winter,Beauty of My Dreams,,0,Hartford Civic Center,Hartford,CT,USA,","
-1999-12-12,1999,0,6,1,1,0,0,4,1999 Winter Tour,1999 Winter,Bug,,0,Hartford Civic Center,Hartford,CT,USA,","
-1999-12-12,1999,0,7,1,1,0,0,9,1999 Winter Tour,1999 Winter,Stash,,1,Hartford Civic Center,Hartford,CT,USA,","
-1999-12-12,1999,0,8,4,1,0,0,5,1999 Winter Tour,1999 Winter,Chalk Dust Torture,CDT,1,Hartford Civic Center,Hartford,CT,USA,
-1999-12-12,1999,0,9,2,2,0,0,23,1999 Winter Tour,1999 Winter,Drowned,,0,Hartford Civic Center,Hartford,CT,USA,>
-1999-12-12,1999,0,10,1,2,0,0,9,1999 Winter Tour,1999 Winter,Prince Caspian,Caspian,1,Hartford Civic Center,Hartford,CT,USA,","
-1999-12-12,1999,0,11,1,2,0,0,4,1999 Winter Tour,1999 Winter,The Squirming Coil,Coil,1,Hartford Civic Center,Hartford,CT,USA,","
-1999-12-12,1999,0,12,2,2,0,0,13,1999 Winter Tour,1999 Winter,Makisupa Policeman,Makisupa,1,Hartford Civic Center,Hartford,CT,USA,>
-1999-12-12,1999,0,13,5,2,0,0,3,1999 Winter Tour,1999 Winter,Run Like an Antelope,Antelope,1,Hartford Civic Center,Hartford,CT,USA,
-1999-12-12,1999,0,14,6,e,0,0,8,1999 Winter Tour,1999 Winter,Runaway Jim,,1,Hartford Civic Center,Hartford,CT,USA,
-1999-12-13,1999,0,1,1,1,0,0,6,1999 Winter Tour,1999 Winter,Tube,,1,Providence Civic Center,Providence,RI,USA,","
-1999-12-13,1999,0,2,1,1,0,0,20,1999 Winter Tour,1999 Winter,Cars Trucks Buses,CTB,1,Providence Civic Center,Providence,RI,USA,","
-1999-12-13,1999,0,3,1,1,0,0,17,1999 Winter Tour,1999 Winter,Gumbo,,1,Providence Civic Center,Providence,RI,USA,","
-1999-12-13,1999,0,4,2,1,0,0,7,1999 Winter Tour,1999 Winter,The Moma Dance,Moma,1,Providence Civic Center,Providence,RI,USA,>
-1999-12-13,1999,0,5,2,1,0,0,4,1999 Winter Tour,1999 Winter,Piper,,1,Providence Civic Center,Providence,RI,USA,>
-1999-12-13,1999,0,6,4,1,0,0,18,1999 Winter Tour,1999 Winter,Theme from the Bottom,Theme,1,Providence Civic Center,Providence,RI,USA,
-1999-12-13,1999,0,7,2,2,0,0,3,1999 Winter Tour,1999 Winter,Gotta Jibboo,Jibboo,0,Providence Civic Center,Providence,RI,USA,>
-1999-12-13,1999,0,8,1,2,0,0,5,1999 Winter Tour,1999 Winter,NICU,,1,Providence Civic Center,Providence,RI,USA,","
-1999-12-13,1999,0,9,1,2,0,0,4,1999 Winter Tour,1999 Winter,Sand,,0,Providence Civic Center,Providence,RI,USA,","
-1999-12-13,1999,0,10,1,2,0,0,33,1999 Winter Tour,1999 Winter,The Inlaw Josie Wales,,0,Providence Civic Center,Providence,RI,USA,","
-1999-12-13,1999,0,11,1,2,0,0,17,1999 Winter Tour,1999 Winter,Mountains in the Mist,Mist,0,Providence Civic Center,Providence,RI,USA,","
-1999-12-13,1999,0,12,1,2,0,0,4,1999 Winter Tour,1999 Winter,Limb By Limb,LxL,1,Providence Civic Center,Providence,RI,USA,","
-1999-12-13,1999,0,13,2,2,0,0,4,1999 Winter Tour,1999 Winter,Golgi Apparatus,Golgi,1,Providence Civic Center,Providence,RI,USA,>
-1999-12-13,1999,0,14,5,2,0,0,8,1999 Winter Tour,1999 Winter,Slave to the Traffic Light,Slave,1,Providence Civic Center,Providence,RI,USA,
-1999-12-13,1999,0,15,1,e,0,0,4,1999 Winter Tour,1999 Winter,Silent in the Morning,Silent,1,Providence Civic Center,Providence,RI,USA,","
-1999-12-13,1999,0,16,6,e,0,0,1,1999 Winter Tour,1999 Winter,Heavy Things,,1,Providence Civic Center,Providence,RI,USA,
-1999-12-15,1999,0,1,1,1,0,0,3,1999 Winter Tour,1999 Winter,Down with Disease,DwD,1,MCI Center,Washington,DC,USA,","
-1999-12-15,1999,0,2,1,1,0,0,6,1999 Winter Tour,1999 Winter,Farmhouse,,1,MCI Center,Washington,DC,USA,","
-1999-12-15,1999,0,3,1,1,0,0,6,1999 Winter Tour,1999 Winter,Bathtub Gin,Gin,1,MCI Center,Washington,DC,USA,","
-1999-12-15,1999,0,4,1,1,0,0,6,1999 Winter Tour,1999 Winter,Wolfman's Brother,Wolfman's,1,MCI Center,Washington,DC,USA,","
-1999-12-15,1999,0,5,1,1,0,0,4,1999 Winter Tour,1999 Winter,Guyute,,1,MCI Center,Washington,DC,USA,","
-1999-12-15,1999,0,6,1,1,0,0,11,1999 Winter Tour,1999 Winter,Train Song,,1,MCI Center,Washington,DC,USA,","
-1999-12-15,1999,0,7,4,1,0,0,5,1999 Winter Tour,1999 Winter,You Enjoy Myself,YEM,1,MCI Center,Washington,DC,USA,
-1999-12-15,1999,0,8,1,2,0,0,10,1999 Winter Tour,1999 Winter,Sample in a Jar,Sample,1,MCI Center,Washington,DC,USA,","
-1999-12-15,1999,0,9,1,2,0,0,7,1999 Winter Tour,1999 Winter,Maze,,1,MCI Center,Washington,DC,USA,","
-1999-12-15,1999,0,10,2,2,0,0,6,1999 Winter Tour,1999 Winter,Free,,1,MCI Center,Washington,DC,USA,>
-1999-12-15,1999,0,11,1,2,0,0,5,1999 Winter Tour,1999 Winter,Dirt,,0,MCI Center,Washington,DC,USA,","
-1999-12-15,1999,0,12,1,2,0,0,25,1999 Winter Tour,1999 Winter,Reba,,1,MCI Center,Washington,DC,USA,","
-1999-12-15,1999,0,13,2,2,0,0,6,1999 Winter Tour,1999 Winter,Halley's Comet,Halley's,1,MCI Center,Washington,DC,USA,>
-1999-12-15,1999,0,14,5,2,0,0,6,1999 Winter Tour,1999 Winter,Suzy Greenberg,Suzy,1,MCI Center,Washington,DC,USA,
-1999-12-15,1999,0,15,2,e,0,0,7,1999 Winter Tour,1999 Winter,Frankenstein,,0,MCI Center,Washington,DC,USA,>
-1999-12-15,1999,0,16,6,e,0,0,6,1999 Winter Tour,1999 Winter,Rocky Top,,0,MCI Center,Washington,DC,USA,
-1999-12-16,1999,0,1,2,1,0,0,13,1999 Winter Tour,1999 Winter,Wilson,,1,Reynolds Coliseum,Raleigh,NC,USA,>
-1999-12-16,1999,0,2,1,1,0,0,3,1999 Winter Tour,1999 Winter,Chalk Dust Torture,CDT,1,Reynolds Coliseum,Raleigh,NC,USA,","
-1999-12-16,1999,0,3,1,1,0,0,8,1999 Winter Tour,1999 Winter,Lawn Boy,,1,Reynolds Coliseum,Raleigh,NC,USA,","
-1999-12-16,1999,0,4,1,1,0,0,2,1999 Winter Tour,1999 Winter,Limb By Limb,LxL,1,Reynolds Coliseum,Raleigh,NC,USA,","
-1999-12-16,1999,0,5,1,1,0,0,5,1999 Winter Tour,1999 Winter,Horn,,1,Reynolds Coliseum,Raleigh,NC,USA,","
-1999-12-16,1999,0,6,1,1,0,0,6,1999 Winter Tour,1999 Winter,Back on the Train,BOTT,0,Reynolds Coliseum,Raleigh,NC,USA,","
-1999-12-16,1999,0,7,1,1,0,0,5,1999 Winter Tour,1999 Winter,Roggae,,1,Reynolds Coliseum,Raleigh,NC,USA,","
-1999-12-16,1999,0,8,1,1,0,0,2,1999 Winter Tour,1999 Winter,Heavy Things,,1,Reynolds Coliseum,Raleigh,NC,USA,","
-1999-12-16,1999,0,9,1,1,0,0,42,1999 Winter Tour,1999 Winter,Camel Walk,,1,Reynolds Coliseum,Raleigh,NC,USA,","
-1999-12-16,1999,0,10,4,1,0,0,4,1999 Winter Tour,1999 Winter,Possum,,1,Reynolds Coliseum,Raleigh,NC,USA,
-1999-12-16,1999,0,11,1,2,0,0,2,1999 Winter Tour,1999 Winter,Sand,,0,Reynolds Coliseum,Raleigh,NC,USA,","
-1999-12-16,1999,0,12,1,2,0,0,42,1999 Winter Tour,1999 Winter,The Mango Song,Mango,1,Reynolds Coliseum,Raleigh,NC,USA,","
-1999-12-16,1999,0,13,2,2,0,0,11,1999 Winter Tour,1999 Winter,Wading in the Velvet Sea,Velvet Sea,1,Reynolds Coliseum,Raleigh,NC,USA,>
-1999-12-16,1999,0,14,2,2,0,0,5,1999 Winter Tour,1999 Winter,Tweezer,,1,Reynolds Coliseum,Raleigh,NC,USA,>
-1999-12-16,1999,0,15,5,2,0,0,3,1999 Winter Tour,1999 Winter,Runaway Jim,,1,Reynolds Coliseum,Raleigh,NC,USA,
-1999-12-16,1999,0,16,2,e,0,0,44,1999 Winter Tour,1999 Winter,Bittersweet Motel,,1,Reynolds Coliseum,Raleigh,NC,USA,>
-1999-12-16,1999,0,17,6,e,0,0,6,1999 Winter Tour,1999 Winter,Tweezer Reprise,Tweeprise,1,Reynolds Coliseum,Raleigh,NC,USA,
 1999-12-17,1999,0,1,1,1,0,0,3,1999 Winter Tour,1999 Winter,Piper,,1,Hampton Coliseum,Hampton,VA,USA,","
 1999-12-17,1999,0,2,2,1,0,0,15,1999 Winter Tour,1999 Winter,Meat,,1,Hampton Coliseum,Hampton,VA,USA,>
 1999-12-17,1999,0,3,2,1,0,0,9,1999 Winter Tour,1999 Winter,Sparkle,,1,Hampton Coliseum,Hampton,VA,USA,>
@@ -994,34 +1033,6 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1999-12-17,1999,0,16,1,e,0,0,62,1999 Winter Tour,1999 Winter,The Old Home Place,,0,Hampton Coliseum,Hampton,VA,USA,","
 1999-12-17,1999,0,17,2,e,0,0,4,1999 Winter Tour,1999 Winter,The Squirming Coil,Coil,1,Hampton Coliseum,Hampton,VA,USA,>
 1999-12-17,1999,0,18,6,e,0,0,6,1999 Winter Tour,1999 Winter,Loving Cup,,0,Hampton Coliseum,Hampton,VA,USA,
-1999-12-18,1999,0,1,1,1,0,0,6,1999 Winter Tour,1999 Winter,Harry Hood,Hood,1,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-18,1999,0,2,1,1,0,0,37,1999 Winter Tour,1999 Winter,Back at the Chicken Shack,,0,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-18,1999,0,3,1,1,0,0,68,1999 Winter Tour,1999 Winter,Dog Log,,1,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-18,1999,0,4,1,1,0,0,4,1999 Winter Tour,1999 Winter,Tube,,1,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-18,1999,0,5,1,1,0,0,2,1999 Winter Tour,1999 Winter,Heavy Things,,1,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-18,1999,0,6,1,1,0,0,2,1999 Winter Tour,1999 Winter,Back on the Train,BOTT,0,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-18,1999,0,7,1,1,0,0,9,1999 Winter Tour,1999 Winter,First Tube,,0,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-18,1999,0,8,1,1,0,0,4,1999 Winter Tour,1999 Winter,The Inlaw Josie Wales,,0,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-18,1999,0,9,4,1,0,0,3,1999 Winter Tour,1999 Winter,You Enjoy Myself,YEM,1,Hampton Coliseum,Hampton,VA,USA,
-1999-12-18,1999,0,10,2,2,0,0,6,1999 Winter Tour,1999 Winter,Also Sprach Zarathustra,2001,0,Hampton Coliseum,Hampton,VA,USA,>
-1999-12-18,1999,0,11,1,2,0,0,2,1999 Winter Tour,1999 Winter,Sand,,0,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-18,1999,0,12,2,2,0,0,8,1999 Winter Tour,1999 Winter,The Horse,Horse,1,Hampton Coliseum,Hampton,VA,USA,>
-1999-12-18,1999,0,13,1,2,0,0,4,1999 Winter Tour,1999 Winter,Silent in the Morning,Silent,1,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-18,1999,0,14,1,2,0,0,2,1999 Winter Tour,1999 Winter,Possum,,1,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-18,1999,0,15,2,2,0,0,6,1999 Winter Tour,1999 Winter,Mike's Song,Mike's,1,Hampton Coliseum,Hampton,VA,USA,>
-1999-12-18,1999,0,16,1,2,0,0,6,1999 Winter Tour,1999 Winter,Simple,,1,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-18,1999,0,17,3,2,0,0,6,1999 Winter Tour,1999 Winter,Weekapaug Groove,Weekapaug,1,Hampton Coliseum,Hampton,VA,USA,->
-1999-12-18,1999,0,18,2,2,0,0,68,1999 Winter Tour,1999 Winter,Buffalo Bill,,1,Hampton Coliseum,Hampton,VA,USA,>
-1999-12-18,1999,0,19,5,2,0,0,0,1999 Winter Tour,1999 Winter,Weekapaug Groove,Weekapaug,1,Hampton Coliseum,Hampton,VA,USA,
-1999-12-18,1999,0,20,1,e,0,0,8,1999 Winter Tour,1999 Winter,Ya Mar,,0,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-18,1999,0,21,6,e,0,0,25,1999 Winter Tour,1999 Winter,Sleeping Monkey,,1,Hampton Coliseum,Hampton,VA,USA,
-1999-12-29,1999,1,1,1,1,0,0,0,Not Part of a Tour,No Tour,Jam,,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-29,1999,1,2,1,1,0,0,0,Not Part of a Tour,No Tour,What's the Use?,WTU?,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-29,1999,1,3,1,1,0,0,0,Not Part of a Tour,No Tour,Ginseng Sullivan,Ginseng,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-29,1999,1,4,1,1,0,0,0,Not Part of a Tour,No Tour,The Ballad of Curtis Loew,Curtis Loew,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-29,1999,1,5,1,1,0,0,0,Not Part of a Tour,No Tour,Quinn the Eskimo (The Mighty Quinn),Quinn,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-29,1999,1,6,1,1,0,0,0,Not Part of a Tour,No Tour,Timber (Jerry the Mule),Timber Ho,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-29,1999,1,7,6,1,0,0,0,Not Part of a Tour,No Tour,Jam,,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,
 1999-12-30,1999,0,1,1,1,0,0,2,Not Part of a Tour,No Tour,Water in the Sky,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
 1999-12-30,1999,0,2,2,1,0,0,1097,Not Part of a Tour,No Tour,Light Up Or Leave Me Alone,Light Up,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,>
 1999-12-30,1999,0,3,1,1,0,0,4,Not Part of a Tour,No Tour,Suzy Greenberg,Suzy,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
@@ -1055,54 +1066,3 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1999-12-30,1999,0,31,5,3,0,0,1,Not Part of a Tour,No Tour,Weekapaug Groove,Weekapaug,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,
 1999-12-30,1999,0,32,2,e,0,0,7,Not Part of a Tour,No Tour,Boogie On Reggae Woman,Boogie On,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,>
 1999-12-30,1999,0,33,6,e,0,0,3,Not Part of a Tour,No Tour,Tweezer Reprise,Tweeprise,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,
-1999-12-31,1999,0,1,1,1,0,0,4,Not Part of a Tour,No Tour,Runaway Jim,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,2,1,1,0,0,11,Not Part of a Tour,No Tour,Funky Bitch,,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,3,1,1,0,0,2,Not Part of a Tour,No Tour,Tube,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,4,1,1,0,0,24,Not Part of a Tour,No Tour,I Didn't Know,IDK,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,5,1,1,0,0,3,Not Part of a Tour,No Tour,Punch You in the Eye,PYITE,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,6,1,1,0,0,9,Not Part of a Tour,No Tour,Bouncing Around the Room,Bouncin',1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,7,1,1,0,0,15,Not Part of a Tour,No Tour,Poor Heart,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,8,1,1,0,0,4,Not Part of a Tour,No Tour,Roggae,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,9,3,1,0,0,3,Not Part of a Tour,No Tour,Split Open and Melt,SOAMelt,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,->
-1999-12-31,1999,0,10,1,1,0,0,24,Not Part of a Tour,No Tour,Catapult,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,11,1,1,0,0,2,Not Part of a Tour,No Tour,Back on the Train,BOTT,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,12,1,1,0,0,4,Not Part of a Tour,No Tour,Horn,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,13,1,1,0,0,5,Not Part of a Tour,No Tour,Guyute,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,14,4,1,0,0,1310,Not Part of a Tour,No Tour,After Midnight,,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,
-1999-12-31,1999,0,15,3,2,0,0,12,Not Part of a Tour,No Tour,Meatstick,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,->
-1999-12-31,1999,0,16,2,2,0,0,64,Not Part of a Tour,No Tour,Auld Lang Syne,,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,>
-1999-12-31,1999,0,17,3,2,0,0,5,Not Part of a Tour,No Tour,Down with Disease,DwD,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,->
-1999-12-31,1999,0,18,1,2,0,0,22,Not Part of a Tour,No Tour,Llama,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,19,1,2,0,0,5,Not Part of a Tour,No Tour,Bathtub Gin,Gin,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,20,1,2,0,0,2,Not Part of a Tour,No Tour,Heavy Things,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,21,3,2,0,0,3,Not Part of a Tour,No Tour,Twist,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,->
-1999-12-31,1999,0,22,2,2,0,0,7,Not Part of a Tour,No Tour,Prince Caspian,Caspian,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,>
-1999-12-31,1999,0,23,1,2,0,0,14,Not Part of a Tour,No Tour,Rock and Roll,R&amp;R,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,24,1,2,0,0,2,Not Part of a Tour,No Tour,You Enjoy Myself,YEM,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,25,1,2,0,0,159,Not Part of a Tour,No Tour,Crosseyed and Painless,C&amp;P,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,26,1,2,0,0,1,Not Part of a Tour,No Tour,The Inlaw Josie Wales,,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,27,3,2,0,0,2,Not Part of a Tour,No Tour,Sand,,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,->
-1999-12-31,1999,0,28,1,2,0,0,1306,Not Part of a Tour,No Tour,Quadrophonic Toppling,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,29,1,2,0,0,6,Not Part of a Tour,No Tour,Slave to the Traffic Light,Slave,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,30,1,2,0,0,67,Not Part of a Tour,No Tour,Albuquerque,,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,31,1,2,0,0,5,Not Part of a Tour,No Tour,Reba,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,32,1,2,0,0,29,Not Part of a Tour,No Tour,Axilla,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,33,1,2,0,0,20,Not Part of a Tour,No Tour,Uncle Pen,,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,34,1,2,0,0,9,Not Part of a Tour,No Tour,David Bowie,Bowie,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,35,1,2,0,0,19,Not Part of a Tour,No Tour,My Soul,,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,36,3,2,0,0,7,Not Part of a Tour,No Tour,Drowned,,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,->
-1999-12-31,1999,0,37,1,2,0,1,0,Not Part of a Tour,No Tour,After Midnight,,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,38,2,2,0,0,2,Not Part of a Tour,No Tour,The Horse,Horse,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,>
-1999-12-31,1999,0,39,2,2,0,0,2,Not Part of a Tour,No Tour,Silent in the Morning,Silent,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,>
-1999-12-31,1999,0,40,1,2,0,0,4,Not Part of a Tour,No Tour,Bittersweet Motel,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,41,3,2,0,0,3,Not Part of a Tour,No Tour,Piper,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,->
-1999-12-31,1999,0,42,1,2,0,0,5,Not Part of a Tour,No Tour,Free,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,43,1,2,0,0,4,Not Part of a Tour,No Tour,Lawn Boy,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,44,2,2,0,0,9,Not Part of a Tour,No Tour,Hold Your Head Up,HYHU,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,>
-1999-12-31,1999,0,45,2,2,0,0,179,Not Part of a Tour,No Tour,Love You,,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,>
-1999-12-31,1999,0,46,1,2,0,0,0,Not Part of a Tour,No Tour,Hold Your Head Up,HYHU,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,47,1,2,0,0,32,Not Part of a Tour,No Tour,Roses Are Free,Roses,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,48,1,2,0,0,3,Not Part of a Tour,No Tour,Bug,,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,","
-1999-12-31,1999,0,49,2,2,0,0,2,Not Part of a Tour,No Tour,Also Sprach Zarathustra,2001,0,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,>
-1999-12-31,1999,0,50,2,2,0,0,4,Not Part of a Tour,No Tour,Wading in the Velvet Sea,Velvet Sea,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,>
-1999-12-31,1999,0,51,6,2,0,0,0,Not Part of a Tour,No Tour,Meatstick,,1,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,
