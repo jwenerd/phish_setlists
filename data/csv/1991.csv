@@ -113,6 +113,30 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1991-02-07,1991,0,25,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Destiny Unbound,Destiny,1,Pickle Barrel Pub,Killington,VT,USA,","
 1991-02-07,1991,0,26,5,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,You Enjoy Myself,YEM,1,Pickle Barrel Pub,Killington,VT,USA,
 1991-02-07,1991,0,27,6,e,0,0,6,1991 Winter/Spring Tour,1991 Winter,AC/DC Bag,Bag,1,Pickle Barrel Pub,Killington,VT,USA,
+1991-02-08,1991,0,1,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,AC/DC Bag,Bag,1,The Music Hall,Portsmouth,NH,USA,>
+1991-02-08,1991,0,2,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,Reba,,1,The Music Hall,Portsmouth,NH,USA,","
+1991-02-08,1991,0,3,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Buried Alive,,1,The Music Hall,Portsmouth,NH,USA,","
+1991-02-08,1991,0,4,2,1,0,0,8,1991 Winter/Spring Tour,1991 Winter,Colonel Forbin's Ascent,Forbin's,1,The Music Hall,Portsmouth,NH,USA,>
+1991-02-08,1991,0,5,1,1,0,0,8,1991 Winter/Spring Tour,1991 Winter,Fly Famous Mockingbird,Mockingbird,1,The Music Hall,Portsmouth,NH,USA,","
+1991-02-08,1991,0,6,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,My Sweet One,MSO,1,The Music Hall,Portsmouth,NH,USA,","
+1991-02-08,1991,0,7,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Stash,,1,The Music Hall,Portsmouth,NH,USA,","
+1991-02-08,1991,0,8,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Squirming Coil,Coil,1,The Music Hall,Portsmouth,NH,USA,>
+1991-02-08,1991,0,9,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Runaway Jim,,1,The Music Hall,Portsmouth,NH,USA,","
+1991-02-08,1991,0,10,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Guelah Papyrus,Guelah,1,The Music Hall,Portsmouth,NH,USA,","
+1991-02-08,1991,0,11,4,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,David Bowie,Bowie,1,The Music Hall,Portsmouth,NH,USA,
+1991-02-08,1991,0,12,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Llama,,1,The Music Hall,Portsmouth,NH,USA,","
+1991-02-08,1991,0,13,1,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Mango Song,Mango,1,The Music Hall,Portsmouth,NH,USA,","
+1991-02-08,1991,0,14,1,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Cavern,,1,The Music Hall,Portsmouth,NH,USA,","
+1991-02-08,1991,0,15,2,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Lawn Boy,,1,The Music Hall,Portsmouth,NH,USA,>
+1991-02-08,1991,0,16,2,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Mike's Song,Mike's,1,The Music Hall,Portsmouth,NH,USA,>
+1991-02-08,1991,0,17,2,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,I Am Hydrogen,Hydrogen,1,The Music Hall,Portsmouth,NH,USA,>
+1991-02-08,1991,0,18,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Weekapaug Groove,Weekapaug,1,The Music Hall,Portsmouth,NH,USA,","
+1991-02-08,1991,0,19,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Horn,,1,The Music Hall,Portsmouth,NH,USA,","
+1991-02-08,1991,0,20,1,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Bouncing Around the Room,Bouncin',1,The Music Hall,Portsmouth,NH,USA,","
+1991-02-08,1991,0,21,1,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Lizards,Lizards,1,The Music Hall,Portsmouth,NH,USA,","
+1991-02-08,1991,0,22,5,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Run Like an Antelope,Antelope,1,The Music Hall,Portsmouth,NH,USA,
+1991-02-08,1991,0,23,1,e,0,0,5,1991 Winter/Spring Tour,1991 Winter,Magilla,,1,The Music Hall,Portsmouth,NH,USA,","
+1991-02-08,1991,0,24,6,e,0,0,2,1991 Winter/Spring Tour,1991 Winter,La Grange,,0,The Music Hall,Portsmouth,NH,USA,
 1991-02-09,1991,0,1,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Mango Song,Mango,1,"John M. Greene Hall, Smith College",Northampton,MA,USA,>
 1991-02-09,1991,0,2,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,The Sloth,Sloth,1,"John M. Greene Hall, Smith College",Northampton,MA,USA,","
 1991-02-09,1991,0,3,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,The Man Who Stepped Into Yesterday,TMWSIY,1,"John M. Greene Hall, Smith College",Northampton,MA,USA,>
@@ -166,6 +190,61 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1991-02-14,1991,0,23,5,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,Possum,,1,State Theatre Of Ithaca,Ithaca,NY,USA,
 1991-02-14,1991,0,24,1,e,0,0,3,1991 Winter/Spring Tour,1991 Winter,Uncle Pen,,0,State Theatre Of Ithaca,Ithaca,NY,USA,","
 1991-02-14,1991,0,25,6,e,0,0,2,1991 Winter/Spring Tour,1991 Winter,La Grange,,0,State Theatre Of Ithaca,Ithaca,NY,USA,
+1991-02-15,1991,0,1,2,1,0,0,27,1991 Winter/Spring Tour,1991 Winter,The Curtain,Curtain,1,The Colonial Theatre,Keene,NH,USA,>
+1991-02-15,1991,0,2,2,1,0,0,18,1991 Winter/Spring Tour,1991 Winter,Wilson,,1,The Colonial Theatre,Keene,NH,USA,>
+1991-02-15,1991,0,3,1,1,0,0,5,1991 Winter/Spring Tour,1991 Winter,Divided Sky,Divided,1,The Colonial Theatre,Keene,NH,USA,","
+1991-02-15,1991,0,4,1,1,0,0,4,1991 Winter/Spring Tour,1991 Winter,Split Open and Melt,SOAMelt,1,The Colonial Theatre,Keene,NH,USA,","
+1991-02-15,1991,0,5,3,1,0,0,23,1991 Winter/Spring Tour,1991 Winter,Fee,,1,The Colonial Theatre,Keene,NH,USA,->
+1991-02-15,1991,0,6,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Buried Alive,,1,The Colonial Theatre,Keene,NH,USA,","
+1991-02-15,1991,0,7,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Mango Song,Mango,1,The Colonial Theatre,Keene,NH,USA,","
+1991-02-15,1991,0,8,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,The Sloth,Sloth,1,The Colonial Theatre,Keene,NH,USA,","
+1991-02-15,1991,0,9,1,1,0,0,7,1991 Winter/Spring Tour,1991 Winter,Dinner and a Movie,,1,The Colonial Theatre,Keene,NH,USA,","
+1991-02-15,1991,0,10,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,Magilla,,1,The Colonial Theatre,Keene,NH,USA,","
+1991-02-15,1991,0,11,4,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Llama,,1,The Colonial Theatre,Keene,NH,USA,
+1991-02-15,1991,0,12,1,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,David Bowie,Bowie,1,The Colonial Theatre,Keene,NH,USA,","
+1991-02-15,1991,0,13,1,2,0,0,7,1991 Winter/Spring Tour,1991 Winter,Bathtub Gin,Gin,1,The Colonial Theatre,Keene,NH,USA,","
+1991-02-15,1991,0,14,1,2,0,0,14,1991 Winter/Spring Tour,1991 Winter,Ya Mar,,0,The Colonial Theatre,Keene,NH,USA,","
+1991-02-15,1991,0,15,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Guelah Papyrus,Guelah,1,The Colonial Theatre,Keene,NH,USA,","
+1991-02-15,1991,0,16,2,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,My Sweet One,MSO,1,The Colonial Theatre,Keene,NH,USA,>
+1991-02-15,1991,0,17,2,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Oh Kee Pa Ceremony,Oh Kee Pa,1,The Colonial Theatre,Keene,NH,USA,>
+1991-02-15,1991,0,18,1,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,AC/DC Bag,Bag,1,The Colonial Theatre,Keene,NH,USA,","
+1991-02-15,1991,0,19,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Harry Hood,Hood,1,The Colonial Theatre,Keene,NH,USA,","
+1991-02-15,1991,0,20,2,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Let's Go,,0,The Colonial Theatre,Keene,NH,USA,>
+1991-02-15,1991,0,21,2,2,0,0,5,1991 Winter/Spring Tour,1991 Winter,Terrapin,,0,The Colonial Theatre,Keene,NH,USA,>
+1991-02-15,1991,0,22,1,2,0,0,0,1991 Winter/Spring Tour,1991 Winter,Let's Go,,0,The Colonial Theatre,Keene,NH,USA,","
+1991-02-15,1991,0,23,5,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Chalk Dust Torture,CDT,1,The Colonial Theatre,Keene,NH,USA,
+1991-02-15,1991,0,24,2,e,0,0,16,1991 Winter/Spring Tour,1991 Winter,Caravan,,0,The Colonial Theatre,Keene,NH,USA,>
+1991-02-15,1991,0,25,7,e,0,0,6,1991 Winter/Spring Tour,1991 Winter,Big Black Furry Creature from Mars,BBFCFM,1,The Colonial Theatre,Keene,NH,USA,
+1991-02-15,1991,0,26,1,e2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Contact,,1,The Colonial Theatre,Keene,NH,USA,","
+1991-02-15,1991,0,27,6,e2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Golgi Apparatus,Golgi,1,The Colonial Theatre,Keene,NH,USA,
+1991-02-16,1991,0,1,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Sloth,Sloth,1,The Marquee,New York,NY,USA,","
+1991-02-16,1991,0,2,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,My Sweet One,MSO,1,The Marquee,New York,NY,USA,>
+1991-02-16,1991,0,3,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Divided Sky,Divided,1,The Marquee,New York,NY,USA,","
+1991-02-16,1991,0,4,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Cavern,,1,The Marquee,New York,NY,USA,","
+1991-02-16,1991,0,5,1,1,0,0,18,1991 Winter/Spring Tour,1991 Winter,Take the 'A' Train,'A' Train,0,The Marquee,New York,NY,USA,","
+1991-02-16,1991,0,6,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,The Landlady,Landlady,1,The Marquee,New York,NY,USA,>
+1991-02-16,1991,0,7,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Bouncing Around the Room,Bouncin',1,The Marquee,New York,NY,USA,","
+1991-02-16,1991,0,8,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Llama,,1,The Marquee,New York,NY,USA,","
+1991-02-16,1991,0,9,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Mango Song,Mango,1,The Marquee,New York,NY,USA,>
+1991-02-16,1991,0,10,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Mike's Song,Mike's,1,The Marquee,New York,NY,USA,>
+1991-02-16,1991,0,11,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,I Am Hydrogen,Hydrogen,1,The Marquee,New York,NY,USA,>
+1991-02-16,1991,0,12,4,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Weekapaug Groove,Weekapaug,1,The Marquee,New York,NY,USA,
+1991-02-16,1991,0,13,1,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Chalk Dust Torture,CDT,1,The Marquee,New York,NY,USA,","
+1991-02-16,1991,0,14,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Reba,,1,The Marquee,New York,NY,USA,","
+1991-02-16,1991,0,15,2,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Buried Alive,,1,The Marquee,New York,NY,USA,>
+1991-02-16,1991,0,16,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Runaway Jim,,1,The Marquee,New York,NY,USA,","
+1991-02-16,1991,0,17,1,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Guelah Papyrus,Guelah,1,The Marquee,New York,NY,USA,","
+1991-02-16,1991,0,18,1,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,Fluffhead,,1,The Marquee,New York,NY,USA,","
+1991-02-16,1991,0,19,1,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,Rocky Top,,0,The Marquee,New York,NY,USA,","
+1991-02-16,1991,0,20,2,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Let's Go,,0,The Marquee,New York,NY,USA,>
+1991-02-16,1991,0,21,2,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,Love You,,0,The Marquee,New York,NY,USA,>
+1991-02-16,1991,0,22,1,2,0,0,0,1991 Winter/Spring Tour,1991 Winter,Let's Go,,0,The Marquee,New York,NY,USA,","
+1991-02-16,1991,0,23,5,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Golgi Apparatus,Golgi,1,The Marquee,New York,NY,USA,
+1991-02-16,1991,0,24,1,e,0,0,2,1991 Winter/Spring Tour,1991 Winter,Lawn Boy,,1,The Marquee,New York,NY,USA,","
+1991-02-16,1991,0,25,7,e,0,0,19,1991 Winter/Spring Tour,1991 Winter,Fire,,0,The Marquee,New York,NY,USA,
+1991-02-16,1991,0,26,3,e2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Possum,,1,The Marquee,New York,NY,USA,->
+1991-02-16,1991,0,27,3,e2,1,0,470,1991 Winter/Spring Tour,1991 Winter,Rocky Mountain Way,,0,The Marquee,New York,NY,USA,->
+1991-02-16,1991,0,28,6,e2,0,0,0,1991 Winter/Spring Tour,1991 Winter,Possum,,1,The Marquee,New York,NY,USA,
 1991-02-19,1991,0,1,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Llama,,1,The Bayou,Washington,DC,USA,","
 1991-02-19,1991,0,2,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,The Curtain,Curtain,1,The Bayou,Washington,DC,USA,>
 1991-02-19,1991,0,3,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Golgi Apparatus,Golgi,1,The Bayou,Washington,DC,USA,","
@@ -192,6 +271,43 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1991-02-19,1991,0,24,5,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Rocky Top,,0,The Bayou,Washington,DC,USA,
 1991-02-19,1991,0,25,1,e,0,0,2,1991 Winter/Spring Tour,1991 Winter,Magilla,,1,The Bayou,Washington,DC,USA,","
 1991-02-19,1991,0,26,6,e,0,0,1,1991 Winter/Spring Tour,1991 Winter,Fire,,0,The Bayou,Washington,DC,USA,
+1991-02-20,1991,0,1,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Buried Alive,,1,Kahootz,Richmond,VA,USA,>
+1991-02-20,1991,0,2,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Cavern,,1,Kahootz,Richmond,VA,USA,>
+1991-02-20,1991,0,3,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Possum,,1,Kahootz,Richmond,VA,USA,","
+1991-02-20,1991,0,4,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Squirming Coil,Coil,1,Kahootz,Richmond,VA,USA,>
+1991-02-20,1991,0,5,1,1,0,0,5,1991 Winter/Spring Tour,1991 Winter,Tweezer,,1,Kahootz,Richmond,VA,USA,","
+1991-02-20,1991,0,6,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,My Sweet One,MSO,1,Kahootz,Richmond,VA,USA,","
+1991-02-20,1991,0,7,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Bouncing Around the Room,Bouncin',1,Kahootz,Richmond,VA,USA,","
+1991-02-20,1991,0,8,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Llama,,1,Kahootz,Richmond,VA,USA,","
+1991-02-20,1991,0,9,1,1,0,0,7,1991 Winter/Spring Tour,1991 Winter,You Enjoy Myself,YEM,1,Kahootz,Richmond,VA,USA,","
+1991-02-20,1991,0,10,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Magilla,,1,Kahootz,Richmond,VA,USA,","
+1991-02-20,1991,0,11,4,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Golgi Apparatus,Golgi,1,Kahootz,Richmond,VA,USA,
+1991-02-20,1991,0,12,1,2,0,0,4,1991 Winter/Spring Tour,1991 Winter,Foam,,1,Kahootz,Richmond,VA,USA,","
+1991-02-20,1991,0,13,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Divided Sky,Divided,1,Kahootz,Richmond,VA,USA,","
+1991-02-20,1991,0,14,6,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Guelah Papyrus,Guelah,1,Kahootz,Richmond,VA,USA,
+1991-02-21,1991,0,1,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Reba,,1,Trax,Charlottesville,VA,USA,","
+1991-02-21,1991,0,2,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Dinner and a Movie,,1,Trax,Charlottesville,VA,USA,>
+1991-02-21,1991,0,3,1,1,0,0,4,1991 Winter/Spring Tour,1991 Winter,Ya Mar,,0,Trax,Charlottesville,VA,USA,","
+1991-02-21,1991,0,4,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Split Open and Melt,SOAMelt,1,Trax,Charlottesville,VA,USA,","
+1991-02-21,1991,0,5,1,1,0,0,4,1991 Winter/Spring Tour,1991 Winter,Fee,,1,Trax,Charlottesville,VA,USA,","
+1991-02-21,1991,0,6,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Llama,,1,Trax,Charlottesville,VA,USA,","
+1991-02-21,1991,0,7,1,1,0,0,7,1991 Winter/Spring Tour,1991 Winter,The Lizards,Lizards,1,Trax,Charlottesville,VA,USA,","
+1991-02-21,1991,0,8,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,My Sweet One,MSO,1,Trax,Charlottesville,VA,USA,>
+1991-02-21,1991,0,9,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Mike's Song,Mike's,1,Trax,Charlottesville,VA,USA,>
+1991-02-21,1991,0,10,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,I Am Hydrogen,Hydrogen,1,Trax,Charlottesville,VA,USA,>
+1991-02-21,1991,0,11,4,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Weekapaug Groove,Weekapaug,1,Trax,Charlottesville,VA,USA,
+1991-02-21,1991,0,12,1,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Golgi Apparatus,Golgi,1,Trax,Charlottesville,VA,USA,","
+1991-02-21,1991,0,13,2,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Cavern,,1,Trax,Charlottesville,VA,USA,>
+1991-02-21,1991,0,14,2,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,The Landlady,Landlady,1,Trax,Charlottesville,VA,USA,>
+1991-02-21,1991,0,15,1,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Bouncing Around the Room,Bouncin',1,Trax,Charlottesville,VA,USA,","
+1991-02-21,1991,0,16,1,2,0,0,5,1991 Winter/Spring Tour,1991 Winter,Stash,,1,Trax,Charlottesville,VA,USA,","
+1991-02-21,1991,0,17,1,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Guelah Papyrus,Guelah,1,Trax,Charlottesville,VA,USA,","
+1991-02-21,1991,0,18,1,2,0,0,5,1991 Winter/Spring Tour,1991 Winter,Uncle Pen,,0,Trax,Charlottesville,VA,USA,","
+1991-02-21,1991,0,19,2,2,0,0,13,1991 Winter/Spring Tour,1991 Winter,Hold Your Head Up,HYHU,0,Trax,Charlottesville,VA,USA,>
+1991-02-21,1991,0,20,2,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Love You,,0,Trax,Charlottesville,VA,USA,>
+1991-02-21,1991,0,21,1,2,0,0,0,1991 Winter/Spring Tour,1991 Winter,Hold Your Head Up,HYHU,0,Trax,Charlottesville,VA,USA,","
+1991-02-21,1991,0,22,5,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,David Bowie,Bowie,1,Trax,Charlottesville,VA,USA,
+1991-02-21,1991,0,23,6,e,0,0,2,1991 Winter/Spring Tour,1991 Winter,Suzy Greenberg,Suzy,1,Trax,Charlottesville,VA,USA,
 1991-02-22,1991,0,1,1,1,0,0,4,1991 Winter/Spring Tour,1991 Winter,Chalk Dust Torture,CDT,1,Cat's Cradle,Chapel Hill,NC,USA,","
 1991-02-22,1991,0,2,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,The Squirming Coil,Coil,1,Cat's Cradle,Chapel Hill,NC,USA,","
 1991-02-22,1991,0,3,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Dinner and a Movie,,1,Cat's Cradle,Chapel Hill,NC,USA,>
@@ -204,6 +320,79 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1991-02-22,1991,0,10,2,1,1,0,3,1991 Winter/Spring Tour,1991 Winter,Whole Lotta Love,,0,Cat's Cradle,Chapel Hill,NC,USA,>
 1991-02-22,1991,0,11,1,1,0,0,0,1991 Winter/Spring Tour,1991 Winter,Hold Your Head Up,HYHU,0,Cat's Cradle,Chapel Hill,NC,USA,","
 1991-02-22,1991,0,12,6,1,0,0,8,1991 Winter/Spring Tour,1991 Winter,Run Like an Antelope,Antelope,1,Cat's Cradle,Chapel Hill,NC,USA,
+1991-02-26,1991,0,1,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,Cavern,,1,The Barrel House,Salem,VA,USA,","
+1991-02-26,1991,0,2,1,1,0,0,4,1991 Winter/Spring Tour,1991 Winter,Foam,,1,The Barrel House,Salem,VA,USA,","
+1991-02-26,1991,0,3,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,The Squirming Coil,Coil,1,The Barrel House,Salem,VA,USA,>
+1991-02-26,1991,0,4,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,Llama,,1,The Barrel House,Salem,VA,USA,","
+1991-02-26,1991,0,5,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,Guelah Papyrus,Guelah,1,The Barrel House,Salem,VA,USA,","
+1991-02-26,1991,0,6,2,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,My Sweet One,MSO,1,The Barrel House,Salem,VA,USA,>
+1991-02-26,1991,0,7,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,Reba,,1,The Barrel House,Salem,VA,USA,","
+1991-02-26,1991,0,8,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,The Oh Kee Pa Ceremony,Oh Kee Pa,1,The Barrel House,Salem,VA,USA,>
+1991-02-26,1991,0,9,1,1,0,0,7,1991 Winter/Spring Tour,1991 Winter,AC/DC Bag,Bag,1,The Barrel House,Salem,VA,USA,","
+1991-02-26,1991,0,10,2,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,Golgi Apparatus,Golgi,1,The Barrel House,Salem,VA,USA,>
+1991-02-26,1991,0,11,4,1,0,0,7,1991 Winter/Spring Tour,1991 Winter,La Grange,,0,The Barrel House,Salem,VA,USA,
+1991-02-26,1991,0,12,2,2,0,0,4,1991 Winter/Spring Tour,1991 Winter,Buried Alive,,1,The Barrel House,Salem,VA,USA,>
+1991-02-26,1991,0,13,1,2,0,0,5,1991 Winter/Spring Tour,1991 Winter,Runaway Jim,,1,The Barrel House,Salem,VA,USA,","
+1991-02-26,1991,0,14,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Dinner and a Movie,,1,The Barrel House,Salem,VA,USA,","
+1991-02-26,1991,0,15,2,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,Stash,,1,The Barrel House,Salem,VA,USA,>
+1991-02-26,1991,0,16,1,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,Bouncing Around the Room,Bouncin',1,The Barrel House,Salem,VA,USA,","
+1991-02-26,1991,0,17,1,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,The Landlady,Landlady,1,The Barrel House,Salem,VA,USA,","
+1991-02-26,1991,0,18,1,2,0,0,8,1991 Winter/Spring Tour,1991 Winter,Destiny Unbound,Destiny,1,The Barrel House,Salem,VA,USA,","
+1991-02-26,1991,0,19,1,2,0,0,4,1991 Winter/Spring Tour,1991 Winter,Possum,,1,The Barrel House,Salem,VA,USA,","
+1991-02-26,1991,0,20,1,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,The Lizards,Lizards,1,The Barrel House,Salem,VA,USA,","
+1991-02-26,1991,0,21,2,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,Mike's Song,Mike's,1,The Barrel House,Salem,VA,USA,>
+1991-02-26,1991,0,22,2,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,I Am Hydrogen,Hydrogen,1,The Barrel House,Salem,VA,USA,>
+1991-02-26,1991,0,23,5,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,Weekapaug Groove,Weekapaug,1,The Barrel House,Salem,VA,USA,
+1991-02-26,1991,0,24,2,e,0,0,1,1991 Winter/Spring Tour,1991 Winter,Hold Your Head Up,HYHU,0,The Barrel House,Salem,VA,USA,>
+1991-02-26,1991,0,25,2,e,0,0,2,1991 Winter/Spring Tour,1991 Winter,Love You,,0,The Barrel House,Salem,VA,USA,>
+1991-02-26,1991,0,26,1,e,0,0,1,1991 Winter/Spring Tour,1991 Winter,Hold Your Head Up,HYHU,0,The Barrel House,Salem,VA,USA,","
+1991-02-26,1991,0,27,6,e,0,0,24,1991 Winter/Spring Tour,1991 Winter,Good Times Bad Times,GTBT,0,The Barrel House,Salem,VA,USA,
+1991-02-27,1991,0,1,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Golgi Apparatus,Golgi,1,Arnold’s Flamingo Grill,Knoxville,TN,USA,","
+1991-02-27,1991,0,2,1,1,0,0,5,1991 Winter/Spring Tour,1991 Winter,Divided Sky,Divided,1,Arnold’s Flamingo Grill,Knoxville,TN,USA,","
+1991-02-27,1991,0,3,1,1,0,0,9,1991 Winter/Spring Tour,1991 Winter,I Didn't Know,IDK,1,Arnold’s Flamingo Grill,Knoxville,TN,USA,","
+1991-02-27,1991,0,4,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Landlady,Landlady,1,Arnold’s Flamingo Grill,Knoxville,TN,USA,","
+1991-02-27,1991,0,5,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,You Enjoy Myself,YEM,1,Arnold’s Flamingo Grill,Knoxville,TN,USA,","
+1991-02-27,1991,0,6,1,1,0,0,4,1991 Winter/Spring Tour,1991 Winter,Fee,,1,Arnold’s Flamingo Grill,Knoxville,TN,USA,","
+1991-02-27,1991,0,7,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,My Sweet One,MSO,1,Arnold’s Flamingo Grill,Knoxville,TN,USA,","
+1991-02-27,1991,0,8,1,1,0,0,4,1991 Winter/Spring Tour,1991 Winter,Split Open and Melt,SOAMelt,1,Arnold’s Flamingo Grill,Knoxville,TN,USA,","
+1991-02-27,1991,0,9,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Bouncing Around the Room,Bouncin',1,Arnold’s Flamingo Grill,Knoxville,TN,USA,","
+1991-02-27,1991,0,10,4,1,0,0,6,1991 Winter/Spring Tour,1991 Winter,Fire,,0,Arnold’s Flamingo Grill,Knoxville,TN,USA,
+1991-02-27,1991,0,11,2,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,Suzy Greenberg,Suzy,1,Arnold’s Flamingo Grill,Knoxville,TN,USA,>
+1991-02-27,1991,0,12,2,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Buried Alive,,1,Arnold’s Flamingo Grill,Knoxville,TN,USA,>
+1991-02-27,1991,0,13,1,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Cavern,,1,Arnold’s Flamingo Grill,Knoxville,TN,USA,","
+1991-02-27,1991,0,14,1,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Squirming Coil,Coil,1,Arnold’s Flamingo Grill,Knoxville,TN,USA,","
+1991-02-27,1991,0,15,1,2,0,0,4,1991 Winter/Spring Tour,1991 Winter,David Bowie,Bowie,1,Arnold’s Flamingo Grill,Knoxville,TN,USA,","
+1991-02-27,1991,0,16,2,2,0,0,7,1991 Winter/Spring Tour,1991 Winter,Lawn Boy,,1,Arnold’s Flamingo Grill,Knoxville,TN,USA,>
+1991-02-27,1991,0,17,2,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Arnold’s Flamingo Grill,Knoxville,TN,USA,>
+1991-02-27,1991,0,18,1,2,0,0,6,1991 Winter/Spring Tour,1991 Winter,The Sloth,Sloth,1,Arnold’s Flamingo Grill,Knoxville,TN,USA,","
+1991-02-27,1991,0,19,1,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Love You,,0,Arnold’s Flamingo Grill,Knoxville,TN,USA,","
+1991-02-27,1991,0,20,1,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Possum,,1,Arnold’s Flamingo Grill,Knoxville,TN,USA,","
+1991-02-27,1991,0,21,5,2,0,0,6,1991 Winter/Spring Tour,1991 Winter,Rocky Top,,0,Arnold’s Flamingo Grill,Knoxville,TN,USA,
+1991-02-27,1991,0,22,6,e,0,0,8,1991 Winter/Spring Tour,1991 Winter,Contact,,1,Arnold’s Flamingo Grill,Knoxville,TN,USA,
+1991-02-28,1991,0,1,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Landlady,Landlady,1,"Sarratt Student Center, Vanderbilt University",Nashville,TN,USA,>
+1991-02-28,1991,0,2,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Bouncing Around the Room,Bouncin',1,"Sarratt Student Center, Vanderbilt University",Nashville,TN,USA,","
+1991-02-28,1991,0,3,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Foam,,1,"Sarratt Student Center, Vanderbilt University",Nashville,TN,USA,","
+1991-02-28,1991,0,4,2,1,0,0,7,1991 Winter/Spring Tour,1991 Winter,Esther,,1,"Sarratt Student Center, Vanderbilt University",Nashville,TN,USA,>
+1991-02-28,1991,0,5,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Mike's Song,Mike's,1,"Sarratt Student Center, Vanderbilt University",Nashville,TN,USA,>
+1991-02-28,1991,0,6,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,I Am Hydrogen,Hydrogen,1,"Sarratt Student Center, Vanderbilt University",Nashville,TN,USA,>
+1991-02-28,1991,0,7,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Weekapaug Groove,Weekapaug,1,"Sarratt Student Center, Vanderbilt University",Nashville,TN,USA,","
+1991-02-28,1991,0,8,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Cavern,,1,"Sarratt Student Center, Vanderbilt University",Nashville,TN,USA,>
+1991-02-28,1991,0,9,2,1,0,0,11,1991 Winter/Spring Tour,1991 Winter,The Man Who Stepped Into Yesterday,TMWSIY,1,"Sarratt Student Center, Vanderbilt University",Nashville,TN,USA,>
+1991-02-28,1991,0,10,2,1,0,0,11,1991 Winter/Spring Tour,1991 Winter,Avenu Malkenu,,0,"Sarratt Student Center, Vanderbilt University",Nashville,TN,USA,>
+1991-02-28,1991,0,11,2,1,0,0,0,1991 Winter/Spring Tour,1991 Winter,The Man Who Stepped Into Yesterday,TMWSIY,1,"Sarratt Student Center, Vanderbilt University",Nashville,TN,USA,>
+1991-02-28,1991,0,12,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,My Sweet One,MSO,1,"Sarratt Student Center, Vanderbilt University",Nashville,TN,USA,","
+1991-02-28,1991,0,13,4,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Golgi Apparatus,Golgi,1,"Sarratt Student Center, Vanderbilt University",Nashville,TN,USA,
+1991-02-28,1991,0,14,2,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Squirming Coil,Coil,1,"Sarratt Student Center, Vanderbilt University",Nashville,TN,USA,>
+1991-02-28,1991,0,15,2,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Buried Alive,,1,"Sarratt Student Center, Vanderbilt University",Nashville,TN,USA,>
+1991-02-28,1991,0,16,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Reba,,1,"Sarratt Student Center, Vanderbilt University",Nashville,TN,USA,","
+1991-02-28,1991,0,17,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Llama,,1,"Sarratt Student Center, Vanderbilt University",Nashville,TN,USA,","
+1991-02-28,1991,0,18,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Guelah Papyrus,Guelah,1,"Sarratt Student Center, Vanderbilt University",Nashville,TN,USA,","
+1991-02-28,1991,0,19,1,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Divided Sky,Divided,1,"Sarratt Student Center, Vanderbilt University",Nashville,TN,USA,","
+1991-02-28,1991,0,20,2,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Hold Your Head Up,HYHU,0,"Sarratt Student Center, Vanderbilt University",Nashville,TN,USA,>
+1991-02-28,1991,0,21,2,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Love You,,0,"Sarratt Student Center, Vanderbilt University",Nashville,TN,USA,>
+1991-02-28,1991,0,22,1,2,0,0,0,1991 Winter/Spring Tour,1991 Winter,Hold Your Head Up,HYHU,0,"Sarratt Student Center, Vanderbilt University",Nashville,TN,USA,","
+1991-02-28,1991,0,23,5,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,The Lizards,Lizards,1,"Sarratt Student Center, Vanderbilt University",Nashville,TN,USA,
+1991-02-28,1991,0,24,6,e,0,0,1,1991 Winter/Spring Tour,1991 Winter,You Enjoy Myself,YEM,1,"Sarratt Student Center, Vanderbilt University",Nashville,TN,USA,
 1991-03-01,1991,0,1,2,1,0,0,10,1991 Winter/Spring Tour,1991 Winter,Wilson,,1,The Georgia Theatre,Athens,GA,USA,>
 1991-03-01,1991,0,2,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Foam,,1,The Georgia Theatre,Athens,GA,USA,","
 1991-03-01,1991,0,3,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Divided Sky,Divided,1,The Georgia Theatre,Athens,GA,USA,","
@@ -231,6 +420,71 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1991-03-01,1991,0,25,5,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,David Bowie,Bowie,1,The Georgia Theatre,Athens,GA,USA,
 1991-03-01,1991,0,26,2,e,0,0,2,1991 Winter/Spring Tour,1991 Winter,The Oh Kee Pa Ceremony,Oh Kee Pa,1,The Georgia Theatre,Athens,GA,USA,>
 1991-03-01,1991,0,27,6,e,0,0,2,1991 Winter/Spring Tour,1991 Winter,Suzy Greenberg,Suzy,1,The Georgia Theatre,Athens,GA,USA,
+1991-03-06,1991,0,1,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Golgi Apparatus,Golgi,1,New Daisy Theatre,Memphis,TN,USA,","
+1991-03-06,1991,0,2,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,You Enjoy Myself,YEM,1,New Daisy Theatre,Memphis,TN,USA,","
+1991-03-06,1991,0,3,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,The Landlady,Landlady,1,New Daisy Theatre,Memphis,TN,USA,","
+1991-03-06,1991,0,4,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,The Squirming Coil,Coil,1,New Daisy Theatre,Memphis,TN,USA,","
+1991-03-06,1991,0,5,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Possum,,1,New Daisy Theatre,Memphis,TN,USA,","
+1991-03-06,1991,0,6,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Cavern,,1,New Daisy Theatre,Memphis,TN,USA,","
+1991-03-06,1991,0,7,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Divided Sky,Divided,1,New Daisy Theatre,Memphis,TN,USA,","
+1991-03-06,1991,0,8,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Hold Your Head Up,HYHU,0,New Daisy Theatre,Memphis,TN,USA,>
+1991-03-06,1991,0,9,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Love You,,0,New Daisy Theatre,Memphis,TN,USA,>
+1991-03-06,1991,0,10,1,1,0,0,0,1991 Winter/Spring Tour,1991 Winter,Hold Your Head Up,HYHU,0,New Daisy Theatre,Memphis,TN,USA,","
+1991-03-06,1991,0,11,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,My Sweet One,MSO,1,New Daisy Theatre,Memphis,TN,USA,","
+1991-03-06,1991,0,12,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Bouncing Around the Room,Bouncin',1,New Daisy Theatre,Memphis,TN,USA,","
+1991-03-06,1991,0,13,5,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,David Bowie,Bowie,1,New Daisy Theatre,Memphis,TN,USA,
+1991-03-06,1991,0,14,6,e,0,0,18,1991 Winter/Spring Tour,1991 Winter,Jesus Just Left Chicago,JJLC,0,New Daisy Theatre,Memphis,TN,USA,
+1991-03-07,1991,0,1,2,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,The Oh Kee Pa Ceremony,Oh Kee Pa,1,The Gin,Oxford,MS,USA,>
+1991-03-07,1991,0,2,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Landlady,Landlady,1,The Gin,Oxford,MS,USA,","
+1991-03-07,1991,0,3,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,The Sloth,Sloth,1,The Gin,Oxford,MS,USA,","
+1991-03-07,1991,0,4,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,Runaway Jim,,1,The Gin,Oxford,MS,USA,","
+1991-03-07,1991,0,5,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,Reba,,1,The Gin,Oxford,MS,USA,","
+1991-03-07,1991,0,6,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Possum,,1,The Gin,Oxford,MS,USA,","
+1991-03-07,1991,0,7,1,1,0,0,5,1991 Winter/Spring Tour,1991 Winter,I Didn't Know,IDK,1,The Gin,Oxford,MS,USA,","
+1991-03-07,1991,0,8,2,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,Mike's Song,Mike's,1,The Gin,Oxford,MS,USA,>
+1991-03-07,1991,0,9,2,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,I Am Hydrogen,Hydrogen,1,The Gin,Oxford,MS,USA,>
+1991-03-07,1991,0,10,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,Weekapaug Groove,Weekapaug,1,The Gin,Oxford,MS,USA,","
+1991-03-07,1991,0,11,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,Guelah Papyrus,Guelah,1,The Gin,Oxford,MS,USA,","
+1991-03-07,1991,0,12,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,My Sweet One,MSO,1,The Gin,Oxford,MS,USA,","
+1991-03-07,1991,0,13,5,1,0,0,6,1991 Winter/Spring Tour,1991 Winter,Good Times Bad Times,GTBT,0,The Gin,Oxford,MS,USA,
+1991-03-07,1991,0,14,6,e,0,0,13,1991 Winter/Spring Tour,1991 Winter,Bathtub Gin,Gin,1,The Gin,Oxford,MS,USA,
+1991-03-08,1991,0,1,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Golgi Apparatus,Golgi,1,College Station Theater,Tuscaloosa,AL,USA,","
+1991-03-08,1991,0,2,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,You Enjoy Myself,YEM,1,College Station Theater,Tuscaloosa,AL,USA,","
+1991-03-08,1991,0,3,2,1,0,0,13,1991 Winter/Spring Tour,1991 Winter,Fluffhead,,1,College Station Theater,Tuscaloosa,AL,USA,>
+1991-03-08,1991,0,4,1,1,0,0,7,1991 Winter/Spring Tour,1991 Winter,Stash,,1,College Station Theater,Tuscaloosa,AL,USA,","
+1991-03-08,1991,0,5,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Oh Kee Pa Ceremony,Oh Kee Pa,1,College Station Theater,Tuscaloosa,AL,USA,>
+1991-03-08,1991,0,6,1,1,0,0,4,1991 Winter/Spring Tour,1991 Winter,Suzy Greenberg,Suzy,1,College Station Theater,Tuscaloosa,AL,USA,","
+1991-03-08,1991,0,7,1,1,0,0,6,1991 Winter/Spring Tour,1991 Winter,Split Open and Melt,SOAMelt,1,College Station Theater,Tuscaloosa,AL,USA,","
+1991-03-08,1991,0,8,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,The Squirming Coil,Coil,1,College Station Theater,Tuscaloosa,AL,USA,","
+1991-03-08,1991,0,9,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,My Sweet One,MSO,1,College Station Theater,Tuscaloosa,AL,USA,>
+1991-03-08,1991,0,10,3,1,0,0,4,1991 Winter/Spring Tour,1991 Winter,Tweezer,,1,College Station Theater,Tuscaloosa,AL,USA,->
+1991-03-08,1991,0,11,3,1,0,0,275,1991 Winter/Spring Tour,1991 Winter,Dave's Energy Guide,DEG,1,College Station Theater,Tuscaloosa,AL,USA,->
+1991-03-08,1991,0,12,1,1,0,0,0,1991 Winter/Spring Tour,1991 Winter,Tweezer,,1,College Station Theater,Tuscaloosa,AL,USA,","
+1991-03-08,1991,0,13,6,1,0,0,14,1991 Winter/Spring Tour,1991 Winter,Big Black Furry Creature from Mars,BBFCFM,1,College Station Theater,Tuscaloosa,AL,USA,
+1991-03-09,1991,0,1,1,1,0,0,23,1991 Winter/Spring Tour,1991 Winter,Carolina,,0,Tipitina's,New Orleans,LA,USA,","
+1991-03-09,1991,0,2,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,The Landlady,Landlady,1,Tipitina's,New Orleans,LA,USA,>
+1991-03-09,1991,0,3,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,You Enjoy Myself,YEM,1,Tipitina's,New Orleans,LA,USA,","
+1991-03-09,1991,0,4,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,My Sweet One,MSO,1,Tipitina's,New Orleans,LA,USA,","
+1991-03-09,1991,0,5,2,1,0,0,5,1991 Winter/Spring Tour,1991 Winter,Foam,,1,Tipitina's,New Orleans,LA,USA,>
+1991-03-09,1991,0,6,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,Divided Sky,Divided,1,Tipitina's,New Orleans,LA,USA,","
+1991-03-09,1991,0,7,2,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,Cavern,,1,Tipitina's,New Orleans,LA,USA,>
+1991-03-09,1991,0,8,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Reba,,1,Tipitina's,New Orleans,LA,USA,","
+1991-03-09,1991,0,9,4,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Possum,,1,Tipitina's,New Orleans,LA,USA,
+1991-03-09,1991,0,10,2,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Tipitina's,New Orleans,LA,USA,>
+1991-03-09,1991,0,11,1,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Suzy Greenberg,Suzy,1,Tipitina's,New Orleans,LA,USA,","
+1991-03-09,1991,0,12,2,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Squirming Coil,Coil,1,Tipitina's,New Orleans,LA,USA,>
+1991-03-09,1991,0,13,2,2,0,0,5,1991 Winter/Spring Tour,1991 Winter,Buried Alive,,1,Tipitina's,New Orleans,LA,USA,>
+1991-03-09,1991,0,14,2,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Runaway Jim,,1,Tipitina's,New Orleans,LA,USA,>
+1991-03-09,1991,0,15,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Guelah Papyrus,Guelah,1,Tipitina's,New Orleans,LA,USA,","
+1991-03-09,1991,0,16,1,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,David Bowie,Bowie,1,Tipitina's,New Orleans,LA,USA,","
+1991-03-09,1991,0,17,1,2,0,0,6,1991 Winter/Spring Tour,1991 Winter,The Lizards,Lizards,1,Tipitina's,New Orleans,LA,USA,","
+1991-03-09,1991,0,18,2,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,Hold Your Head Up,HYHU,0,Tipitina's,New Orleans,LA,USA,>
+1991-03-09,1991,0,19,2,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,Love You,,0,Tipitina's,New Orleans,LA,USA,>
+1991-03-09,1991,0,20,1,2,0,0,0,1991 Winter/Spring Tour,1991 Winter,Hold Your Head Up,HYHU,0,Tipitina's,New Orleans,LA,USA,","
+1991-03-09,1991,0,21,5,2,0,0,7,1991 Winter/Spring Tour,1991 Winter,Fire,,0,Tipitina's,New Orleans,LA,USA,
+1991-03-09,1991,0,22,2,e,0,0,7,1991 Winter/Spring Tour,1991 Winter,Lawn Boy,,1,Tipitina's,New Orleans,LA,USA,>
+1991-03-09,1991,0,23,7,e,0,0,1,1991 Winter/Spring Tour,1991 Winter,Golgi Apparatus,Golgi,1,Tipitina's,New Orleans,LA,USA,
+1991-03-09,1991,0,24,6,e2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Good Times Bad Times,GTBT,0,Tipitina's,New Orleans,LA,USA,
 1991-03-13,1991,0,1,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Fluffhead,,1,Boulder Theater,Boulder,CO,USA,>
 1991-03-13,1991,0,2,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Landlady,Landlady,1,Boulder Theater,Boulder,CO,USA,>
 1991-03-13,1991,0,3,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,You Enjoy Myself,YEM,1,Boulder Theater,Boulder,CO,USA,","
@@ -305,6 +559,56 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1991-03-16,1991,0,24,5,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,You Enjoy Myself,YEM,1,Ten Mile Room,Breckenridge,CO,USA,
 1991-03-16,1991,0,25,2,e,0,0,29,1991 Winter/Spring Tour,1991 Winter,Manteca,,0,Ten Mile Room,Breckenridge,CO,USA,>
 1991-03-16,1991,0,26,6,e,0,0,1,1991 Winter/Spring Tour,1991 Winter,Possum,,1,Ten Mile Room,Breckenridge,CO,USA,
+1991-03-17,1991,0,1,1,1,0,0,4,1991 Winter/Spring Tour,1991 Winter,Carolina,,0,Wheeler Opera House,Aspen,CO,USA,","
+1991-03-17,1991,0,2,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Bouncing Around the Room,Bouncin',1,Wheeler Opera House,Aspen,CO,USA,","
+1991-03-17,1991,0,3,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Landlady,Landlady,1,Wheeler Opera House,Aspen,CO,USA,>
+1991-03-17,1991,0,4,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Mike's Song,Mike's,1,Wheeler Opera House,Aspen,CO,USA,>
+1991-03-17,1991,0,5,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,I Am Hydrogen,Hydrogen,1,Wheeler Opera House,Aspen,CO,USA,>
+1991-03-17,1991,0,6,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Weekapaug Groove,Weekapaug,1,Wheeler Opera House,Aspen,CO,USA,","
+1991-03-17,1991,0,7,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Foam,,1,Wheeler Opera House,Aspen,CO,USA,","
+1991-03-17,1991,0,8,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,Fluffhead,,1,Wheeler Opera House,Aspen,CO,USA,","
+1991-03-17,1991,0,9,1,1,0,0,15,1991 Winter/Spring Tour,1991 Winter,Uncle Pen,,0,Wheeler Opera House,Aspen,CO,USA,","
+1991-03-17,1991,0,10,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Stash,,1,Wheeler Opera House,Aspen,CO,USA,","
+1991-03-17,1991,0,11,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,The Lizards,Lizards,1,Wheeler Opera House,Aspen,CO,USA,","
+1991-03-17,1991,0,12,4,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,David Bowie,Bowie,1,Wheeler Opera House,Aspen,CO,USA,
+1991-03-17,1991,0,13,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Runaway Jim,,1,Wheeler Opera House,Aspen,CO,USA,","
+1991-03-17,1991,0,14,2,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,Esther,,1,Wheeler Opera House,Aspen,CO,USA,>
+1991-03-17,1991,0,15,1,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,My Sweet One,MSO,1,Wheeler Opera House,Aspen,CO,USA,","
+1991-03-17,1991,0,16,2,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Squirming Coil,Coil,1,Wheeler Opera House,Aspen,CO,USA,>
+1991-03-17,1991,0,17,1,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,Tweezer,,1,Wheeler Opera House,Aspen,CO,USA,","
+1991-03-17,1991,0,18,1,2,0,0,11,1991 Winter/Spring Tour,1991 Winter,Fee,,1,Wheeler Opera House,Aspen,CO,USA,","
+1991-03-17,1991,0,19,1,2,0,0,41,1991 Winter/Spring Tour,1991 Winter,Slave to the Traffic Light,Slave,1,Wheeler Opera House,Aspen,CO,USA,","
+1991-03-17,1991,0,20,5,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Chalk Dust Torture,CDT,1,Wheeler Opera House,Aspen,CO,USA,
+1991-03-17,1991,0,21,1,e,0,0,4,1991 Winter/Spring Tour,1991 Winter,Lawn Boy,,1,Wheeler Opera House,Aspen,CO,USA,","
+1991-03-17,1991,0,22,6,e,0,0,12,1991 Winter/Spring Tour,1991 Winter,La Grange,,0,Wheeler Opera House,Aspen,CO,USA,
+1991-03-22,1991,0,1,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Chalk Dust Torture,CDT,1,The Inferno,Steamboat Springs,CO,USA,","
+1991-03-22,1991,0,2,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Llama,,1,The Inferno,Steamboat Springs,CO,USA,","
+1991-03-22,1991,0,3,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,You Enjoy Myself,YEM,1,The Inferno,Steamboat Springs,CO,USA,","
+1991-03-22,1991,0,4,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Landlady,Landlady,1,The Inferno,Steamboat Springs,CO,USA,>
+1991-03-22,1991,0,5,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,Destiny Unbound,Destiny,1,The Inferno,Steamboat Springs,CO,USA,","
+1991-03-22,1991,0,6,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Bouncing Around the Room,Bouncin',1,The Inferno,Steamboat Springs,CO,USA,","
+1991-03-22,1991,0,7,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Split Open and Melt,SOAMelt,1,The Inferno,Steamboat Springs,CO,USA,","
+1991-03-22,1991,0,8,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Squirming Coil,Coil,1,The Inferno,Steamboat Springs,CO,USA,>
+1991-03-22,1991,0,9,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Buried Alive,,1,The Inferno,Steamboat Springs,CO,USA,>
+1991-03-22,1991,0,10,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Cavern,,1,The Inferno,Steamboat Springs,CO,USA,>
+1991-03-22,1991,0,11,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Reba,,1,The Inferno,Steamboat Springs,CO,USA,","
+1991-03-22,1991,0,12,4,1,0,0,5,1991 Winter/Spring Tour,1991 Winter,Fire,,0,The Inferno,Steamboat Springs,CO,USA,
+1991-03-22,1991,0,13,2,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,The Oh Kee Pa Ceremony,Oh Kee Pa,1,The Inferno,Steamboat Springs,CO,USA,>
+1991-03-22,1991,0,14,2,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Suzy Greenberg,Suzy,1,The Inferno,Steamboat Springs,CO,USA,>
+1991-03-22,1991,0,15,2,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Run Like an Antelope,Antelope,1,The Inferno,Steamboat Springs,CO,USA,>
+1991-03-22,1991,0,16,1,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Foam,,1,The Inferno,Steamboat Springs,CO,USA,","
+1991-03-22,1991,0,17,1,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,Paul and Silas,,0,The Inferno,Steamboat Springs,CO,USA,","
+1991-03-22,1991,0,18,1,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Stash,,1,The Inferno,Steamboat Springs,CO,USA,","
+1991-03-22,1991,0,19,2,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Runaway Jim,,1,The Inferno,Steamboat Springs,CO,USA,>
+1991-03-22,1991,0,20,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Guelah Papyrus,Guelah,1,The Inferno,Steamboat Springs,CO,USA,","
+1991-03-22,1991,0,21,2,2,0,0,4,1991 Winter/Spring Tour,1991 Winter,Hold Your Head Up,HYHU,0,The Inferno,Steamboat Springs,CO,USA,>
+1991-03-22,1991,0,22,2,2,0,0,4,1991 Winter/Spring Tour,1991 Winter,Terrapin,,0,The Inferno,Steamboat Springs,CO,USA,>
+1991-03-22,1991,0,23,1,2,0,0,19,1991 Winter/Spring Tour,1991 Winter,Let's Go,,0,The Inferno,Steamboat Springs,CO,USA,","
+1991-03-22,1991,0,24,2,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Mike's Song,Mike's,1,The Inferno,Steamboat Springs,CO,USA,>
+1991-03-22,1991,0,25,2,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,I Am Hydrogen,Hydrogen,1,The Inferno,Steamboat Springs,CO,USA,>
+1991-03-22,1991,0,26,5,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Weekapaug Groove,Weekapaug,1,The Inferno,Steamboat Springs,CO,USA,
+1991-03-22,1991,0,27,1,e,0,0,2,1991 Winter/Spring Tour,1991 Winter,Magilla,,1,The Inferno,Steamboat Springs,CO,USA,","
+1991-03-22,1991,0,28,6,e,0,0,2,1991 Winter/Spring Tour,1991 Winter,Golgi Apparatus,Golgi,1,The Inferno,Steamboat Springs,CO,USA,
 1991-03-23,1991,0,1,1,1,0,0,5,1991 Winter/Spring Tour,1991 Winter,The Sloth,Sloth,1,The Inferno,Steamboat Springs,CO,USA,","
 1991-03-23,1991,0,2,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,Divided Sky,Divided,1,The Inferno,Steamboat Springs,CO,USA,","
 1991-03-23,1991,0,3,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Fee,,1,The Inferno,Steamboat Springs,CO,USA,>
@@ -390,6 +694,26 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1991-03-31,1991,0,21,5,2,0,0,5,1991 Winter/Spring Tour,1991 Winter,Run Like an Antelope,Antelope,1,Berkeley Square,Berkeley,CA,USA,
 1991-03-31,1991,0,22,1,e,0,0,1,1991 Winter/Spring Tour,1991 Winter,Reba,,1,Berkeley Square,Berkeley,CA,USA,","
 1991-03-31,1991,0,23,6,e,0,0,36,1991 Winter/Spring Tour,1991 Winter,Highway to Hell,,0,Berkeley Square,Berkeley,CA,USA,
+1991-04-02,1991,0,1,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Runaway Jim,,1,International Beer Garden,Arcata,CA,USA,","
+1991-04-02,1991,0,2,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Landlady,Landlady,1,International Beer Garden,Arcata,CA,USA,","
+1991-04-02,1991,0,3,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Reba,,1,International Beer Garden,Arcata,CA,USA,","
+1991-04-02,1991,0,4,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Llama,,1,International Beer Garden,Arcata,CA,USA,","
+1991-04-02,1991,0,5,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Bouncing Around the Room,Bouncin',1,International Beer Garden,Arcata,CA,USA,","
+1991-04-02,1991,0,6,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Foam,,1,International Beer Garden,Arcata,CA,USA,","
+1991-04-02,1991,0,7,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,You Enjoy Myself,YEM,1,International Beer Garden,Arcata,CA,USA,","
+1991-04-02,1991,0,8,2,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,The Oh Kee Pa Ceremony,Oh Kee Pa,1,International Beer Garden,Arcata,CA,USA,>
+1991-04-02,1991,0,9,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,Suzy Greenberg,Suzy,1,International Beer Garden,Arcata,CA,USA,","
+1991-04-02,1991,0,10,4,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,Chalk Dust Torture,CDT,1,International Beer Garden,Arcata,CA,USA,
+1991-04-02,1991,0,11,1,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,Divided Sky,Divided,1,International Beer Garden,Arcata,CA,USA,","
+1991-04-02,1991,0,12,2,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,Lawn Boy,,1,International Beer Garden,Arcata,CA,USA,>
+1991-04-02,1991,0,13,2,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Cavern,,1,International Beer Garden,Arcata,CA,USA,>
+1991-04-02,1991,0,14,2,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Fluffhead,,1,International Beer Garden,Arcata,CA,USA,>
+1991-04-02,1991,0,15,1,2,0,0,148,1991 Winter/Spring Tour,1991 Winter,Dog Log,,1,International Beer Garden,Arcata,CA,USA,","
+1991-04-02,1991,0,16,2,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Buried Alive,,1,International Beer Garden,Arcata,CA,USA,>
+1991-04-02,1991,0,17,2,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Squirming Coil,Coil,1,International Beer Garden,Arcata,CA,USA,>
+1991-04-02,1991,0,18,5,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Run Like an Antelope,Antelope,1,International Beer Garden,Arcata,CA,USA,
+1991-04-02,1991,0,19,2,e,0,0,6,1991 Winter/Spring Tour,1991 Winter,Magilla,,1,International Beer Garden,Arcata,CA,USA,>
+1991-04-02,1991,0,20,6,e,0,0,1,1991 Winter/Spring Tour,1991 Winter,Possum,,1,International Beer Garden,Arcata,CA,USA,
 1991-04-03,1991,0,1,1,1,0,0,4,1991 Winter/Spring Tour,1991 Winter,Golgi Apparatus,Golgi,1,"Britt Ballroom, Southern Oregon State College",Ashland,OR,USA,","
 1991-04-03,1991,0,2,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,I Didn't Know,IDK,1,"Britt Ballroom, Southern Oregon State College",Ashland,OR,USA,","
 1991-04-03,1991,0,3,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Llama,,1,"Britt Ballroom, Southern Oregon State College",Ashland,OR,USA,","
@@ -439,6 +763,29 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1991-04-04,1991,0,24,7,e,0,0,3,1991 Winter/Spring Tour,1991 Winter,Highway to Hell,,0,WOW Hall,Eugene,OR,USA,
 1991-04-04,1991,0,25,2,e2,0,0,4,1991 Winter/Spring Tour,1991 Winter,Contact,,1,WOW Hall,Eugene,OR,USA,>
 1991-04-04,1991,0,26,6,e2,0,0,3,1991 Winter/Spring Tour,1991 Winter,Uncle Pen,,0,WOW Hall,Eugene,OR,USA,
+1991-04-05,1991,0,1,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Landlady,Landlady,1,Starry Night,Portland,OR,USA,>
+1991-04-05,1991,0,2,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Bouncing Around the Room,Bouncin',1,Starry Night,Portland,OR,USA,>
+1991-04-05,1991,0,3,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Divided Sky,Divided,1,Starry Night,Portland,OR,USA,","
+1991-04-05,1991,0,4,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Cavern,,1,Starry Night,Portland,OR,USA,>
+1991-04-05,1991,0,5,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Take the 'A' Train,'A' Train,0,Starry Night,Portland,OR,USA,>
+1991-04-05,1991,0,6,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,Reba,,1,Starry Night,Portland,OR,USA,","
+1991-04-05,1991,0,7,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Chalk Dust Torture,CDT,1,Starry Night,Portland,OR,USA,","
+1991-04-05,1991,0,8,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Foam,,1,Starry Night,Portland,OR,USA,","
+1991-04-05,1991,0,9,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Mike's Song,Mike's,1,Starry Night,Portland,OR,USA,>
+1991-04-05,1991,0,10,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,I Am Hydrogen,Hydrogen,1,Starry Night,Portland,OR,USA,>
+1991-04-05,1991,0,11,4,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Weekapaug Groove,Weekapaug,1,Starry Night,Portland,OR,USA,
+1991-04-05,1991,0,12,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Rocky Top,,0,Starry Night,Portland,OR,USA,","
+1991-04-05,1991,0,13,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Stash,,1,Starry Night,Portland,OR,USA,","
+1991-04-05,1991,0,14,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,The Lizards,Lizards,1,Starry Night,Portland,OR,USA,","
+1991-04-05,1991,0,15,1,2,0,0,4,1991 Winter/Spring Tour,1991 Winter,The Sloth,Sloth,1,Starry Night,Portland,OR,USA,","
+1991-04-05,1991,0,16,2,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Dinner and a Movie,,1,Starry Night,Portland,OR,USA,>
+1991-04-05,1991,0,17,1,2,0,0,4,1991 Winter/Spring Tour,1991 Winter,Harry Hood,Hood,1,Starry Night,Portland,OR,USA,","
+1991-04-05,1991,0,18,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,I Didn't Know,IDK,1,Starry Night,Portland,OR,USA,","
+1991-04-05,1991,0,19,1,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,My Sweet One,MSO,1,Starry Night,Portland,OR,USA,","
+1991-04-05,1991,0,20,5,2,0,0,5,1991 Winter/Spring Tour,1991 Winter,Good Times Bad Times,GTBT,0,Starry Night,Portland,OR,USA,
+1991-04-05,1991,0,21,2,e,0,0,2,1991 Winter/Spring Tour,1991 Winter,Fee,,1,Starry Night,Portland,OR,USA,>
+1991-04-05,1991,0,22,2,e,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Starry Night,Portland,OR,USA,>
+1991-04-05,1991,0,23,6,e,0,0,1,1991 Winter/Spring Tour,1991 Winter,Suzy Greenberg,Suzy,1,Starry Night,Portland,OR,USA,
 1991-04-06,1991,0,1,2,1,0,0,12,1991 Winter/Spring Tour,1991 Winter,The Man Who Stepped Into Yesterday,TMWSIY,1,"The Library Building, Evergreen College",Olympia,WA,USA,>
 1991-04-06,1991,0,2,2,1,0,0,12,1991 Winter/Spring Tour,1991 Winter,Avenu Malkenu,,0,"The Library Building, Evergreen College",Olympia,WA,USA,>
 1991-04-06,1991,0,3,2,1,0,0,0,1991 Winter/Spring Tour,1991 Winter,The Man Who Stepped Into Yesterday,TMWSIY,1,"The Library Building, Evergreen College",Olympia,WA,USA,>
@@ -1619,6 +1966,61 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1991-10-04,1991,0,27,2,e2,0,0,3,1991 Fall Tour,1991 Fall,Love You,,0,Barrymore Theatre,Madison,WI,USA,>
 1991-10-04,1991,0,28,1,e2,0,0,0,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,Barrymore Theatre,Madison,WI,USA,","
 1991-10-04,1991,0,29,6,e2,0,0,1,1991 Fall Tour,1991 Fall,Llama,,1,Barrymore Theatre,Madison,WI,USA,
+1991-10-06,1991,0,1,1,1,0,0,2,1991 Fall Tour,1991 Fall,Suzy Greenberg,Suzy,1,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,","
+1991-10-06,1991,0,2,1,1,0,0,2,1991 Fall Tour,1991 Fall,Foam,,1,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,","
+1991-10-06,1991,0,3,1,1,0,0,2,1991 Fall Tour,1991 Fall,Divided Sky,Divided,1,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,","
+1991-10-06,1991,0,4,1,1,0,0,2,1991 Fall Tour,1991 Fall,Bouncing Around the Room,Bouncin',1,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,","
+1991-10-06,1991,0,5,2,1,0,0,2,1991 Fall Tour,1991 Fall,Poor Heart,,1,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,>
+1991-10-06,1991,0,6,2,1,0,0,4,1991 Fall Tour,1991 Fall,The Oh Kee Pa Ceremony,Oh Kee Pa,1,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,>
+1991-10-06,1991,0,7,2,1,0,0,14,1991 Fall Tour,1991 Fall,AC/DC Bag,Bag,1,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,>
+1991-10-06,1991,0,8,2,1,0,0,12,1991 Fall Tour,1991 Fall,The Man Who Stepped Into Yesterday,TMWSIY,1,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,>
+1991-10-06,1991,0,9,2,1,0,0,12,1991 Fall Tour,1991 Fall,Avenu Malkenu,,0,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,>
+1991-10-06,1991,0,10,1,1,0,0,0,1991 Fall Tour,1991 Fall,The Man Who Stepped Into Yesterday,TMWSIY,1,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,","
+1991-10-06,1991,0,11,1,1,0,0,2,1991 Fall Tour,1991 Fall,Brother,,1,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,","
+1991-10-06,1991,0,12,2,1,0,0,2,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,>
+1991-10-06,1991,0,13,2,1,0,0,3,1991 Fall Tour,1991 Fall,Terrapin,,0,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,>
+1991-10-06,1991,0,14,1,1,0,0,0,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,","
+1991-10-06,1991,0,15,4,1,0,0,2,1991 Fall Tour,1991 Fall,Golgi Apparatus,Golgi,1,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,
+1991-10-06,1991,0,16,1,2,0,0,2,1991 Fall Tour,1991 Fall,My Sweet One,MSO,1,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,","
+1991-10-06,1991,0,17,1,2,0,0,2,1991 Fall Tour,1991 Fall,Stash,,1,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,","
+1991-10-06,1991,0,18,1,2,0,0,3,1991 Fall Tour,1991 Fall,Fee,,1,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,","
+1991-10-06,1991,0,19,2,2,0,0,3,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,>
+1991-10-06,1991,0,20,1,2,0,0,3,1991 Fall Tour,1991 Fall,Destiny Unbound,Destiny,1,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,","
+1991-10-06,1991,0,21,1,2,0,0,11,1991 Fall Tour,1991 Fall,Harry Hood,Hood,1,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,","
+1991-10-06,1991,0,22,1,2,0,0,4,1991 Fall Tour,1991 Fall,I Didn't Know,IDK,1,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,","
+1991-10-06,1991,0,23,1,2,0,0,2,1991 Fall Tour,1991 Fall,Cavern,,1,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,","
+1991-10-06,1991,0,24,1,2,0,0,2,1991 Fall Tour,1991 Fall,The Squirming Coil,Coil,1,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,","
+1991-10-06,1991,0,25,5,2,0,0,2,1991 Fall Tour,1991 Fall,Rocky Top,,0,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,
+1991-10-06,1991,0,26,1,e,0,0,2,1991 Fall Tour,1991 Fall,Sweet Adeline,,0,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,","
+1991-10-06,1991,0,27,1,e,0,0,3,1991 Fall Tour,1991 Fall,Possum,,1,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,","
+1991-10-06,1991,0,28,6,e,0,0,2,1991 Fall Tour,1991 Fall,Llama,,1,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,
+1991-10-10,1991,0,1,1,1,0,0,3,1991 Fall Tour,1991 Fall,Chalk Dust Torture,CDT,1,"EMU Ballroom, University of Oregon",Eugene,OR,USA,","
+1991-10-10,1991,0,2,1,1,0,0,1,1991 Fall Tour,1991 Fall,Foam,,1,"EMU Ballroom, University of Oregon",Eugene,OR,USA,","
+1991-10-10,1991,0,3,2,1,0,0,4,1991 Fall Tour,1991 Fall,Paul and Silas,,0,"EMU Ballroom, University of Oregon",Eugene,OR,USA,>
+1991-10-10,1991,0,4,2,1,0,0,9,1991 Fall Tour,1991 Fall,Split Open and Melt,SOAMelt,1,"EMU Ballroom, University of Oregon",Eugene,OR,USA,>
+1991-10-10,1991,0,5,1,1,0,0,1,1991 Fall Tour,1991 Fall,Bouncing Around the Room,Bouncin',1,"EMU Ballroom, University of Oregon",Eugene,OR,USA,","
+1991-10-10,1991,0,6,1,1,0,0,1,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,"EMU Ballroom, University of Oregon",Eugene,OR,USA,","
+1991-10-10,1991,0,7,1,1,0,0,3,1991 Fall Tour,1991 Fall,Runaway Jim,,1,"EMU Ballroom, University of Oregon",Eugene,OR,USA,","
+1991-10-10,1991,0,8,2,1,0,0,4,1991 Fall Tour,1991 Fall,It's Ice,,1,"EMU Ballroom, University of Oregon",Eugene,OR,USA,>
+1991-10-10,1991,0,9,2,1,0,0,7,1991 Fall Tour,1991 Fall,Eliza,,1,"EMU Ballroom, University of Oregon",Eugene,OR,USA,>
+1991-10-10,1991,0,10,1,1,0,0,1,1991 Fall Tour,1991 Fall,Llama,,1,"EMU Ballroom, University of Oregon",Eugene,OR,USA,","
+1991-10-10,1991,0,11,1,1,0,0,3,1991 Fall Tour,1991 Fall,Memories,,0,"EMU Ballroom, University of Oregon",Eugene,OR,USA,","
+1991-10-10,1991,0,12,4,1,0,0,1,1991 Fall Tour,1991 Fall,Golgi Apparatus,Golgi,1,"EMU Ballroom, University of Oregon",Eugene,OR,USA,
+1991-10-10,1991,0,13,1,2,0,0,1,1991 Fall Tour,1991 Fall,Brother,,1,"EMU Ballroom, University of Oregon",Eugene,OR,USA,","
+1991-10-10,1991,0,14,1,2,0,0,3,1991 Fall Tour,1991 Fall,Reba,,1,"EMU Ballroom, University of Oregon",Eugene,OR,USA,","
+1991-10-10,1991,0,15,1,2,0,0,1,1991 Fall Tour,1991 Fall,Poor Heart,,1,"EMU Ballroom, University of Oregon",Eugene,OR,USA,","
+1991-10-10,1991,0,16,2,2,0,0,1,1991 Fall Tour,1991 Fall,Cavern,,1,"EMU Ballroom, University of Oregon",Eugene,OR,USA,>
+1991-10-10,1991,0,17,1,2,0,0,8,1991 Fall Tour,1991 Fall,Run Like an Antelope,Antelope,1,"EMU Ballroom, University of Oregon",Eugene,OR,USA,","
+1991-10-10,1991,0,18,1,2,0,0,1,1991 Fall Tour,1991 Fall,I Didn't Know,IDK,1,"EMU Ballroom, University of Oregon",Eugene,OR,USA,","
+1991-10-10,1991,0,19,2,2,0,0,3,1991 Fall Tour,1991 Fall,Sparkle,,1,"EMU Ballroom, University of Oregon",Eugene,OR,USA,>
+1991-10-10,1991,0,20,2,2,0,0,1,1991 Fall Tour,1991 Fall,The Oh Kee Pa Ceremony,Oh Kee Pa,1,"EMU Ballroom, University of Oregon",Eugene,OR,USA,>
+1991-10-10,1991,0,21,1,2,0,0,1,1991 Fall Tour,1991 Fall,Suzy Greenberg,Suzy,1,"EMU Ballroom, University of Oregon",Eugene,OR,USA,","
+1991-10-10,1991,0,22,2,2,0,0,1,1991 Fall Tour,1991 Fall,Fee,,1,"EMU Ballroom, University of Oregon",Eugene,OR,USA,>
+1991-10-10,1991,0,23,2,2,0,0,3,1991 Fall Tour,1991 Fall,Mike's Song,Mike's,1,"EMU Ballroom, University of Oregon",Eugene,OR,USA,>
+1991-10-10,1991,0,24,2,2,0,0,3,1991 Fall Tour,1991 Fall,I Am Hydrogen,Hydrogen,1,"EMU Ballroom, University of Oregon",Eugene,OR,USA,>
+1991-10-10,1991,0,25,5,2,0,0,3,1991 Fall Tour,1991 Fall,Weekapaug Groove,Weekapaug,1,"EMU Ballroom, University of Oregon",Eugene,OR,USA,
+1991-10-10,1991,0,26,1,e,0,0,1,1991 Fall Tour,1991 Fall,The Squirming Coil,Coil,1,"EMU Ballroom, University of Oregon",Eugene,OR,USA,","
+1991-10-10,1991,0,27,6,e,0,0,39,1991 Fall Tour,1991 Fall,Fire,,0,"EMU Ballroom, University of Oregon",Eugene,OR,USA,
 1991-10-11,1991,0,1,1,1,0,0,1,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,Backstage,Seattle,WA,USA,","
 1991-10-11,1991,0,2,1,1,0,0,2,1991 Fall Tour,1991 Fall,My Sweet One,MSO,1,Backstage,Seattle,WA,USA,","
 1991-10-11,1991,0,3,1,1,0,0,2,1991 Fall Tour,1991 Fall,Divided Sky,Divided,1,Backstage,Seattle,WA,USA,","
@@ -1640,6 +2042,31 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1991-10-11,1991,0,19,5,2,0,0,2,1991 Fall Tour,1991 Fall,Possum,,1,Backstage,Seattle,WA,USA,
 1991-10-11,1991,0,20,1,e,0,0,2,1991 Fall Tour,1991 Fall,Sweet Adeline,,0,Backstage,Seattle,WA,USA,","
 1991-10-11,1991,0,21,6,e,0,0,9,1991 Fall Tour,1991 Fall,Big Black Furry Creature from Mars,BBFCFM,1,Backstage,Seattle,WA,USA,
+1991-10-12,1991,0,1,2,1,0,0,6,1991 Fall Tour,1991 Fall,Buried Alive,,1,Roseland Theater,Portland,OR,USA,>
+1991-10-12,1991,0,2,1,1,0,0,1,1991 Fall Tour,1991 Fall,Possum,,1,Roseland Theater,Portland,OR,USA,","
+1991-10-12,1991,0,3,1,1,0,0,1,1991 Fall Tour,1991 Fall,Foam,,1,Roseland Theater,Portland,OR,USA,","
+1991-10-12,1991,0,4,1,1,0,0,1,1991 Fall Tour,1991 Fall,My Sweet One,MSO,1,Roseland Theater,Portland,OR,USA,","
+1991-10-12,1991,0,5,1,1,0,0,3,1991 Fall Tour,1991 Fall,Stash,,1,Roseland Theater,Portland,OR,USA,","
+1991-10-12,1991,0,6,2,1,0,0,6,1991 Fall Tour,1991 Fall,Esther,,1,Roseland Theater,Portland,OR,USA,>
+1991-10-12,1991,0,7,1,1,0,0,1,1991 Fall Tour,1991 Fall,Divided Sky,Divided,1,Roseland Theater,Portland,OR,USA,","
+1991-10-12,1991,0,8,1,1,0,0,1,1991 Fall Tour,1991 Fall,Guelah Papyrus,Guelah,1,Roseland Theater,Portland,OR,USA,","
+1991-10-12,1991,0,9,4,1,0,0,1,1991 Fall Tour,1991 Fall,You Enjoy Myself,YEM,1,Roseland Theater,Portland,OR,USA,
+1991-10-12,1991,0,10,2,2,0,0,6,1991 Fall Tour,1991 Fall,Tweezer,,1,Roseland Theater,Portland,OR,USA,>
+1991-10-12,1991,0,11,1,2,0,0,6,1991 Fall Tour,1991 Fall,Uncle Pen,,0,Roseland Theater,Portland,OR,USA,","
+1991-10-12,1991,0,12,2,2,0,0,14,1991 Fall Tour,1991 Fall,Fluffhead,,1,Roseland Theater,Portland,OR,USA,>
+1991-10-12,1991,0,13,1,2,0,0,1,1991 Fall Tour,1991 Fall,Chalk Dust Torture,CDT,1,Roseland Theater,Portland,OR,USA,","
+1991-10-12,1991,0,14,1,2,0,0,8,1991 Fall Tour,1991 Fall,Take the 'A' Train,'A' Train,0,Roseland Theater,Portland,OR,USA,","
+1991-10-12,1991,0,15,2,2,0,0,11,1991 Fall Tour,1991 Fall,Dinner and a Movie,,1,Roseland Theater,Portland,OR,USA,>
+1991-10-12,1991,0,16,1,2,0,0,2,1991 Fall Tour,1991 Fall,Brother,,1,Roseland Theater,Portland,OR,USA,","
+1991-10-12,1991,0,17,2,2,0,0,3,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,Roseland Theater,Portland,OR,USA,>
+1991-10-12,1991,0,18,2,2,0,0,26,1991 Fall Tour,1991 Fall,If I Only Had a Brain,,0,Roseland Theater,Portland,OR,USA,>
+1991-10-12,1991,0,19,1,2,0,0,0,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,Roseland Theater,Portland,OR,USA,","
+1991-10-12,1991,0,20,1,2,0,0,3,1991 Fall Tour,1991 Fall,Harry Hood,Hood,1,Roseland Theater,Portland,OR,USA,","
+1991-10-12,1991,0,21,5,2,0,0,6,1991 Fall Tour,1991 Fall,Tweezer Reprise,Tweeprise,1,Roseland Theater,Portland,OR,USA,
+1991-10-12,1991,0,22,2,e,0,0,5,1991 Fall Tour,1991 Fall,Lawn Boy,,1,Roseland Theater,Portland,OR,USA,>
+1991-10-12,1991,0,23,7,e,0,0,3,1991 Fall Tour,1991 Fall,Rocky Top,,0,Roseland Theater,Portland,OR,USA,
+1991-10-12,1991,0,24,1,e2,0,0,10,1991 Fall Tour,1991 Fall,Contact,,1,Roseland Theater,Portland,OR,USA,","
+1991-10-12,1991,0,25,6,e2,0,0,2,1991 Fall Tour,1991 Fall,Golgi Apparatus,Golgi,1,Roseland Theater,Portland,OR,USA,
 1991-10-13,1991,0,1,1,1,0,0,2,1991 Fall Tour,1991 Fall,Runaway Jim,,1,North Shore Surf Club,Olympia,WA,USA,","
 1991-10-13,1991,0,2,2,1,0,0,15,1991 Fall Tour,1991 Fall,Wilson,,1,North Shore Surf Club,Olympia,WA,USA,>
 1991-10-13,1991,0,3,1,1,0,0,3,1991 Fall Tour,1991 Fall,Reba,,1,North Shore Surf Club,Olympia,WA,USA,","
@@ -1667,6 +2094,765 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1991-10-13,1991,0,25,2,e,0,0,3,1991 Fall Tour,1991 Fall,Eliza,,1,North Shore Surf Club,Olympia,WA,USA,>
 1991-10-13,1991,0,26,1,e,0,0,1,1991 Fall Tour,1991 Fall,Uncle Pen,,0,North Shore Surf Club,Olympia,WA,USA,","
 1991-10-13,1991,0,27,6,e,0,0,49,1991 Fall Tour,1991 Fall,Carolina,,0,North Shore Surf Club,Olympia,WA,USA,
+1991-10-15,1991,0,1,1,1,0,0,2,1991 Fall Tour,1991 Fall,Chalk Dust Torture,CDT,1,International Beer Garden,Arcata,CA,USA,","
+1991-10-15,1991,0,2,1,1,0,0,2,1991 Fall Tour,1991 Fall,Foam,,1,International Beer Garden,Arcata,CA,USA,","
+1991-10-15,1991,0,3,2,1,0,0,1,1991 Fall Tour,1991 Fall,The Squirming Coil,Coil,1,International Beer Garden,Arcata,CA,USA,>
+1991-10-15,1991,0,4,1,1,0,0,4,1991 Fall Tour,1991 Fall,Split Open and Melt,SOAMelt,1,International Beer Garden,Arcata,CA,USA,","
+1991-10-15,1991,0,5,1,1,0,0,4,1991 Fall Tour,1991 Fall,Sparkle,,1,International Beer Garden,Arcata,CA,USA,","
+1991-10-15,1991,0,6,1,1,0,0,1,1991 Fall Tour,1991 Fall,Reba,,1,International Beer Garden,Arcata,CA,USA,","
+1991-10-15,1991,0,7,2,1,0,0,1,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,International Beer Garden,Arcata,CA,USA,>
+1991-10-15,1991,0,8,1,1,0,0,5,1991 Fall Tour,1991 Fall,Destiny Unbound,Destiny,1,International Beer Garden,Arcata,CA,USA,","
+1991-10-15,1991,0,9,1,1,0,0,2,1991 Fall Tour,1991 Fall,You Enjoy Myself,YEM,1,International Beer Garden,Arcata,CA,USA,","
+1991-10-15,1991,0,10,4,1,0,0,2,1991 Fall Tour,1991 Fall,Rocky Top,,0,International Beer Garden,Arcata,CA,USA,
+1991-10-15,1991,0,11,1,2,0,0,2,1991 Fall Tour,1991 Fall,Brother,,1,International Beer Garden,Arcata,CA,USA,","
+1991-10-15,1991,0,12,2,2,0,0,1,1991 Fall Tour,1991 Fall,Bouncing Around the Room,Bouncin',1,International Beer Garden,Arcata,CA,USA,>
+1991-10-15,1991,0,13,1,2,0,0,1,1991 Fall Tour,1991 Fall,Runaway Jim,,1,International Beer Garden,Arcata,CA,USA,","
+1991-10-15,1991,0,14,1,2,0,0,2,1991 Fall Tour,1991 Fall,Guelah Papyrus,Guelah,1,International Beer Garden,Arcata,CA,USA,","
+1991-10-15,1991,0,15,2,2,0,0,3,1991 Fall Tour,1991 Fall,Poor Heart,,1,International Beer Garden,Arcata,CA,USA,>
+1991-10-15,1991,0,16,1,2,0,0,1,1991 Fall Tour,1991 Fall,Llama,,1,International Beer Garden,Arcata,CA,USA,","
+1991-10-15,1991,0,17,1,2,0,0,10,1991 Fall Tour,1991 Fall,Horn,,1,International Beer Garden,Arcata,CA,USA,","
+1991-10-15,1991,0,18,2,2,0,0,4,1991 Fall Tour,1991 Fall,The Oh Kee Pa Ceremony,Oh Kee Pa,1,International Beer Garden,Arcata,CA,USA,>
+1991-10-15,1991,0,19,2,2,0,0,4,1991 Fall Tour,1991 Fall,Suzy Greenberg,Suzy,1,International Beer Garden,Arcata,CA,USA,>
+1991-10-15,1991,0,20,2,2,0,0,1,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,International Beer Garden,Arcata,CA,USA,>
+1991-10-15,1991,0,21,2,2,0,0,5,1991 Fall Tour,1991 Fall,Terrapin,,0,International Beer Garden,Arcata,CA,USA,>
+1991-10-15,1991,0,22,1,2,0,0,0,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,International Beer Garden,Arcata,CA,USA,","
+1991-10-15,1991,0,23,1,2,0,0,18,1991 Fall Tour,1991 Fall,Funky Bitch,,0,International Beer Garden,Arcata,CA,USA,","
+1991-10-15,1991,0,24,5,2,0,0,2,1991 Fall Tour,1991 Fall,Golgi Apparatus,Golgi,1,International Beer Garden,Arcata,CA,USA,
+1991-10-15,1991,0,25,1,e,0,0,4,1991 Fall Tour,1991 Fall,Memories,,0,International Beer Garden,Arcata,CA,USA,","
+1991-10-15,1991,0,26,6,e,0,0,2,1991 Fall Tour,1991 Fall,Harry Hood,Hood,1,International Beer Garden,Arcata,CA,USA,
+1991-10-17,1991,0,1,1,1,0,0,1,1991 Fall Tour,1991 Fall,Memories,,0,Great American Music Hall,San Francisco,CA,USA,","
+1991-10-17,1991,0,2,2,1,0,0,1,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,Great American Music Hall,San Francisco,CA,USA,>
+1991-10-17,1991,0,3,2,1,0,0,1,1991 Fall Tour,1991 Fall,Bouncing Around the Room,Bouncin',1,Great American Music Hall,San Francisco,CA,USA,>
+1991-10-17,1991,0,4,1,1,0,0,3,1991 Fall Tour,1991 Fall,Divided Sky,Divided,1,Great American Music Hall,San Francisco,CA,USA,","
+1991-10-17,1991,0,5,1,1,0,0,4,1991 Fall Tour,1991 Fall,Cavern,,1,Great American Music Hall,San Francisco,CA,USA,","
+1991-10-17,1991,0,6,1,1,0,0,1,1991 Fall Tour,1991 Fall,Poor Heart,,1,Great American Music Hall,San Francisco,CA,USA,","
+1991-10-17,1991,0,7,1,1,0,0,3,1991 Fall Tour,1991 Fall,Stash,,1,Great American Music Hall,San Francisco,CA,USA,","
+1991-10-17,1991,0,8,2,1,0,0,3,1991 Fall Tour,1991 Fall,Esther,,1,Great American Music Hall,San Francisco,CA,USA,>
+1991-10-17,1991,0,9,1,1,0,0,1,1991 Fall Tour,1991 Fall,Chalk Dust Torture,CDT,1,Great American Music Hall,San Francisco,CA,USA,","
+1991-10-17,1991,0,10,4,1,0,0,1,1991 Fall Tour,1991 Fall,Golgi Apparatus,Golgi,1,Great American Music Hall,San Francisco,CA,USA,
+1991-10-17,1991,0,11,2,2,0,0,4,1991 Fall Tour,1991 Fall,The Curtain,Curtain,1,Great American Music Hall,San Francisco,CA,USA,>
+1991-10-17,1991,0,12,2,2,0,0,1,1991 Fall Tour,1991 Fall,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Great American Music Hall,San Francisco,CA,USA,>
+1991-10-17,1991,0,13,2,2,0,0,1,1991 Fall Tour,1991 Fall,Suzy Greenberg,Suzy,1,Great American Music Hall,San Francisco,CA,USA,>
+1991-10-17,1991,0,14,1,2,0,0,2,1991 Fall Tour,1991 Fall,David Bowie,Bowie,1,Great American Music Hall,San Francisco,CA,USA,","
+1991-10-17,1991,0,15,2,2,0,0,3,1991 Fall Tour,1991 Fall,Lawn Boy,,1,Great American Music Hall,San Francisco,CA,USA,>
+1991-10-17,1991,0,16,2,2,0,0,3,1991 Fall Tour,1991 Fall,Fluffhead,,1,Great American Music Hall,San Francisco,CA,USA,>
+1991-10-17,1991,0,17,1,2,0,0,1,1991 Fall Tour,1991 Fall,You Enjoy Myself,YEM,1,Great American Music Hall,San Francisco,CA,USA,","
+1991-10-17,1991,0,18,1,2,0,0,2,1991 Fall Tour,1991 Fall,Love You,,0,Great American Music Hall,San Francisco,CA,USA,","
+1991-10-17,1991,0,19,5,2,0,0,3,1991 Fall Tour,1991 Fall,Possum,,1,Great American Music Hall,San Francisco,CA,USA,
+1991-10-17,1991,0,20,1,e,0,0,4,1991 Fall Tour,1991 Fall,Magilla,,1,Great American Music Hall,San Francisco,CA,USA,","
+1991-10-17,1991,0,21,6,e,0,0,1,1991 Fall Tour,1991 Fall,Rocky Top,,0,Great American Music Hall,San Francisco,CA,USA,
+1991-10-18,1991,0,1,1,1,0,0,2,1991 Fall Tour,1991 Fall,Runaway Jim,,1,Great American Music Hall,San Francisco,CA,USA,","
+1991-10-18,1991,0,2,1,1,0,0,2,1991 Fall Tour,1991 Fall,Foam,,1,Great American Music Hall,San Francisco,CA,USA,","
+1991-10-18,1991,0,3,1,1,0,0,6,1991 Fall Tour,1991 Fall,Paul and Silas,,0,Great American Music Hall,San Francisco,CA,USA,","
+1991-10-18,1991,0,4,1,1,0,0,2,1991 Fall Tour,1991 Fall,Reba,,1,Great American Music Hall,San Francisco,CA,USA,","
+1991-10-18,1991,0,5,2,1,0,0,3,1991 Fall Tour,1991 Fall,Wilson,,1,Great American Music Hall,San Francisco,CA,USA,>
+1991-10-18,1991,0,6,1,1,0,0,2,1991 Fall Tour,1991 Fall,Llama,,1,Great American Music Hall,San Francisco,CA,USA,","
+1991-10-18,1991,0,7,1,1,0,0,5,1991 Fall Tour,1991 Fall,The Lizards,Lizards,1,Great American Music Hall,San Francisco,CA,USA,","
+1991-10-18,1991,0,8,1,1,0,0,5,1991 Fall Tour,1991 Fall,Sweet Adeline,,0,Great American Music Hall,San Francisco,CA,USA,","
+1991-10-18,1991,0,9,4,1,0,0,6,1991 Fall Tour,1991 Fall,Run Like an Antelope,Antelope,1,Great American Music Hall,San Francisco,CA,USA,
+1991-10-18,1991,0,10,1,2,0,0,2,1991 Fall Tour,1991 Fall,Brother,,1,Great American Music Hall,San Francisco,CA,USA,","
+1991-10-18,1991,0,11,1,2,0,0,3,1991 Fall Tour,1991 Fall,Uncle Pen,,0,Great American Music Hall,San Francisco,CA,USA,","
+1991-10-18,1991,0,12,1,2,0,0,2,1991 Fall Tour,1991 Fall,Guelah Papyrus,Guelah,1,Great American Music Hall,San Francisco,CA,USA,","
+1991-10-18,1991,0,13,2,2,0,0,4,1991 Fall Tour,1991 Fall,Dinner and a Movie,,1,Great American Music Hall,San Francisco,CA,USA,>
+1991-10-18,1991,0,14,2,2,0,0,3,1991 Fall Tour,1991 Fall,Mike's Song,Mike's,1,Great American Music Hall,San Francisco,CA,USA,>
+1991-10-18,1991,0,15,2,2,0,0,3,1991 Fall Tour,1991 Fall,I Am Hydrogen,Hydrogen,1,Great American Music Hall,San Francisco,CA,USA,>
+1991-10-18,1991,0,16,1,2,0,0,3,1991 Fall Tour,1991 Fall,Weekapaug Groove,Weekapaug,1,Great American Music Hall,San Francisco,CA,USA,","
+1991-10-18,1991,0,17,1,2,0,0,6,1991 Fall Tour,1991 Fall,I Didn't Know,IDK,1,Great American Music Hall,San Francisco,CA,USA,","
+1991-10-18,1991,0,18,2,2,0,0,6,1991 Fall Tour,1991 Fall,Fee,,1,Great American Music Hall,San Francisco,CA,USA,>
+1991-10-18,1991,0,19,1,2,0,0,2,1991 Fall Tour,1991 Fall,Split Open and Melt,SOAMelt,1,Great American Music Hall,San Francisco,CA,USA,","
+1991-10-18,1991,0,20,1,2,0,0,3,1991 Fall Tour,1991 Fall,My Sweet One,MSO,1,Great American Music Hall,San Francisco,CA,USA,","
+1991-10-18,1991,0,21,5,2,0,0,1,1991 Fall Tour,1991 Fall,Cavern,,1,Great American Music Hall,San Francisco,CA,USA,
+1991-10-18,1991,0,22,2,e,0,0,2,1991 Fall Tour,1991 Fall,Sparkle,,1,Great American Music Hall,San Francisco,CA,USA,>
+1991-10-18,1991,0,23,7,e,0,0,123,1991 Fall Tour,1991 Fall,Walk Away,,0,Great American Music Hall,San Francisco,CA,USA,
+1991-10-18,1991,0,24,6,e2,0,0,2,1991 Fall Tour,1991 Fall,The Squirming Coil,Coil,1,Great American Music Hall,San Francisco,CA,USA,
+1991-10-19,1991,0,1,2,1,0,0,2,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,The Catalyst,Santa Cruz,CA,USA,>
+1991-10-19,1991,0,2,2,1,0,0,2,1991 Fall Tour,1991 Fall,Suzy Greenberg,Suzy,1,The Catalyst,Santa Cruz,CA,USA,>
+1991-10-19,1991,0,3,2,1,0,0,4,1991 Fall Tour,1991 Fall,It's Ice,,1,The Catalyst,Santa Cruz,CA,USA,>
+1991-10-19,1991,0,4,1,1,0,0,1,1991 Fall Tour,1991 Fall,Runaway Jim,,1,The Catalyst,Santa Cruz,CA,USA,","
+1991-10-19,1991,0,5,1,1,0,0,1,1991 Fall Tour,1991 Fall,Foam,,1,The Catalyst,Santa Cruz,CA,USA,","
+1991-10-19,1991,0,6,2,1,0,0,2,1991 Fall Tour,1991 Fall,Chalk Dust Torture,CDT,1,The Catalyst,Santa Cruz,CA,USA,>
+1991-10-19,1991,0,7,1,1,0,0,2,1991 Fall Tour,1991 Fall,Bouncing Around the Room,Bouncin',1,The Catalyst,Santa Cruz,CA,USA,","
+1991-10-19,1991,0,8,1,1,0,0,1,1991 Fall Tour,1991 Fall,My Sweet One,MSO,1,The Catalyst,Santa Cruz,CA,USA,","
+1991-10-19,1991,0,9,1,1,0,0,2,1991 Fall Tour,1991 Fall,Stash,,1,The Catalyst,Santa Cruz,CA,USA,","
+1991-10-19,1991,0,10,4,1,0,0,2,1991 Fall Tour,1991 Fall,Golgi Apparatus,Golgi,1,The Catalyst,Santa Cruz,CA,USA,
+1991-10-19,1991,0,11,1,2,0,0,1,1991 Fall Tour,1991 Fall,Llama,,1,The Catalyst,Santa Cruz,CA,USA,","
+1991-10-19,1991,0,12,1,2,0,0,4,1991 Fall Tour,1991 Fall,Bathtub Gin,Gin,1,The Catalyst,Santa Cruz,CA,USA,","
+1991-10-19,1991,0,13,2,2,0,0,1,1991 Fall Tour,1991 Fall,Sparkle,,1,The Catalyst,Santa Cruz,CA,USA,>
+1991-10-19,1991,0,14,2,2,0,0,5,1991 Fall Tour,1991 Fall,Tweezer,,1,The Catalyst,Santa Cruz,CA,USA,>
+1991-10-19,1991,0,15,1,2,0,0,3,1991 Fall Tour,1991 Fall,Horn,,1,The Catalyst,Santa Cruz,CA,USA,","
+1991-10-19,1991,0,16,1,2,0,0,2,1991 Fall Tour,1991 Fall,Poor Heart,,1,The Catalyst,Santa Cruz,CA,USA,","
+1991-10-19,1991,0,17,1,2,0,0,2,1991 Fall Tour,1991 Fall,You Enjoy Myself,YEM,1,The Catalyst,Santa Cruz,CA,USA,","
+1991-10-19,1991,0,18,2,2,0,0,2,1991 Fall Tour,1991 Fall,The Oh Kee Pa Ceremony,Oh Kee Pa,1,The Catalyst,Santa Cruz,CA,USA,>
+1991-10-19,1991,0,19,2,2,0,0,3,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,The Catalyst,Santa Cruz,CA,USA,>
+1991-10-19,1991,0,20,2,2,0,0,3,1991 Fall Tour,1991 Fall,Terrapin,,0,The Catalyst,Santa Cruz,CA,USA,>
+1991-10-19,1991,0,21,1,2,0,0,0,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,The Catalyst,Santa Cruz,CA,USA,","
+1991-10-19,1991,0,22,5,2,0,0,3,1991 Fall Tour,1991 Fall,Harry Hood,Hood,1,The Catalyst,Santa Cruz,CA,USA,
+1991-10-19,1991,0,23,6,e,0,0,13,1991 Fall Tour,1991 Fall,Good Times Bad Times,GTBT,0,The Catalyst,Santa Cruz,CA,USA,
+1991-10-23,1991,0,1,1,1,0,0,1,1991 Fall Tour,1991 Fall,Chalk Dust Torture,CDT,1,Chuy's,Tempe,AZ,USA,","
+1991-10-23,1991,0,2,1,1,0,0,2,1991 Fall Tour,1991 Fall,Reba,,1,Chuy's,Tempe,AZ,USA,","
+1991-10-23,1991,0,3,2,1,0,0,1,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,Chuy's,Tempe,AZ,USA,>
+1991-10-23,1991,0,4,1,1,0,0,4,1991 Fall Tour,1991 Fall,Destiny Unbound,Destiny,1,Chuy's,Tempe,AZ,USA,","
+1991-10-23,1991,0,5,2,1,0,0,2,1991 Fall Tour,1991 Fall,Paul and Silas,,0,Chuy's,Tempe,AZ,USA,>
+1991-10-23,1991,0,6,2,1,0,0,1,1991 Fall Tour,1991 Fall,It's Ice,,1,Chuy's,Tempe,AZ,USA,>
+1991-10-23,1991,0,7,1,1,0,0,1,1991 Fall Tour,1991 Fall,Horn,,1,Chuy's,Tempe,AZ,USA,","
+1991-10-23,1991,0,8,1,1,0,0,1,1991 Fall Tour,1991 Fall,Llama,,1,Chuy's,Tempe,AZ,USA,","
+1991-10-23,1991,0,9,1,1,0,0,1,1991 Fall Tour,1991 Fall,Bouncing Around the Room,Bouncin',1,Chuy's,Tempe,AZ,USA,","
+1991-10-23,1991,0,10,1,1,0,0,1,1991 Fall Tour,1991 Fall,Runaway Jim,,1,Chuy's,Tempe,AZ,USA,","
+1991-10-23,1991,0,11,4,1,0,0,2,1991 Fall Tour,1991 Fall,Cavern,,1,Chuy's,Tempe,AZ,USA,
+1991-10-23,1991,0,12,1,2,0,0,2,1991 Fall Tour,1991 Fall,Brother,,1,Chuy's,Tempe,AZ,USA,","
+1991-10-23,1991,0,13,2,2,0,0,2,1991 Fall Tour,1991 Fall,The Squirming Coil,Coil,1,Chuy's,Tempe,AZ,USA,>
+1991-10-23,1991,0,14,1,2,0,0,1,1991 Fall Tour,1991 Fall,Sparkle,,1,Chuy's,Tempe,AZ,USA,","
+1991-10-23,1991,0,15,1,2,0,0,1,1991 Fall Tour,1991 Fall,Golgi Apparatus,Golgi,1,Chuy's,Tempe,AZ,USA,","
+1991-10-23,1991,0,16,1,2,0,0,7,1991 Fall Tour,1991 Fall,The Mango Song,Mango,1,Chuy's,Tempe,AZ,USA,","
+1991-10-23,1991,0,17,1,2,0,0,2,1991 Fall Tour,1991 Fall,Split Open and Melt,SOAMelt,1,Chuy's,Tempe,AZ,USA,","
+1991-10-23,1991,0,18,2,2,0,0,1,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,Chuy's,Tempe,AZ,USA,>
+1991-10-23,1991,0,19,2,2,0,0,3,1991 Fall Tour,1991 Fall,Love You,,0,Chuy's,Tempe,AZ,USA,>
+1991-10-23,1991,0,20,1,2,0,0,0,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,Chuy's,Tempe,AZ,USA,","
+1991-10-23,1991,0,21,2,2,0,0,2,1991 Fall Tour,1991 Fall,Fee,,1,Chuy's,Tempe,AZ,USA,>
+1991-10-23,1991,0,22,2,2,0,0,1,1991 Fall Tour,1991 Fall,You Enjoy Myself,YEM,1,Chuy's,Tempe,AZ,USA,>
+1991-10-23,1991,0,23,5,2,0,0,3,1991 Fall Tour,1991 Fall,Possum,,1,Chuy's,Tempe,AZ,USA,
+1991-10-23,1991,0,24,6,e,0,0,6,1991 Fall Tour,1991 Fall,Take the 'A' Train,'A' Train,0,Chuy's,Tempe,AZ,USA,
+1991-10-24,1991,0,1,2,1,0,0,2,1991 Fall Tour,1991 Fall,The Oh Kee Pa Ceremony,Oh Kee Pa,1,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,>
+1991-10-24,1991,0,2,1,1,0,0,2,1991 Fall Tour,1991 Fall,Suzy Greenberg,Suzy,1,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,","
+1991-10-24,1991,0,3,1,1,0,0,2,1991 Fall Tour,1991 Fall,Foam,,1,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,","
+1991-10-24,1991,0,4,1,1,0,0,2,1991 Fall Tour,1991 Fall,Poor Heart,,1,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,","
+1991-10-24,1991,0,5,1,1,0,0,2,1991 Fall Tour,1991 Fall,Stash,,1,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,","
+1991-10-24,1991,0,6,1,1,0,0,21,1991 Fall Tour,1991 Fall,Ya Mar,,0,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,","
+1991-10-24,1991,0,7,1,1,0,0,4,1991 Fall Tour,1991 Fall,Divided Sky,Divided,1,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,","
+1991-10-24,1991,0,8,1,1,0,0,3,1991 Fall Tour,1991 Fall,I Didn't Know,IDK,1,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,","
+1991-10-24,1991,0,9,2,1,0,0,10,1991 Fall Tour,1991 Fall,The Man Who Stepped Into Yesterday,TMWSIY,1,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,>
+1991-10-24,1991,0,10,2,1,0,0,10,1991 Fall Tour,1991 Fall,Avenu Malkenu,,0,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,>
+1991-10-24,1991,0,11,2,1,0,0,0,1991 Fall Tour,1991 Fall,The Man Who Stepped Into Yesterday,TMWSIY,1,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,>
+1991-10-24,1991,0,12,4,1,0,0,4,1991 Fall Tour,1991 Fall,David Bowie,Bowie,1,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,
+1991-10-24,1991,0,13,2,2,0,0,3,1991 Fall Tour,1991 Fall,Mike's Song,Mike's,1,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,>
+1991-10-24,1991,0,14,2,2,0,0,3,1991 Fall Tour,1991 Fall,I Am Hydrogen,Hydrogen,1,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,>
+1991-10-24,1991,0,15,1,2,0,0,3,1991 Fall Tour,1991 Fall,Weekapaug Groove,Weekapaug,1,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,","
+1991-10-24,1991,0,16,1,2,0,0,3,1991 Fall Tour,1991 Fall,The Lizards,Lizards,1,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,","
+1991-10-24,1991,0,17,1,2,0,0,3,1991 Fall Tour,1991 Fall,Uncle Pen,,0,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,","
+1991-10-24,1991,0,18,1,2,0,0,111,1991 Fall Tour,1991 Fall,Tube,,1,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,","
+1991-10-24,1991,0,19,2,2,0,0,71,1991 Fall Tour,1991 Fall,Slave to the Traffic Light,Slave,1,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,>
+1991-10-24,1991,0,20,2,2,0,0,3,1991 Fall Tour,1991 Fall,Dinner and a Movie,,1,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,>
+1991-10-24,1991,0,21,1,2,0,0,1,1991 Fall Tour,1991 Fall,Bouncing Around the Room,Bouncin',1,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,","
+1991-10-24,1991,0,22,2,2,0,0,1,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,>
+1991-10-24,1991,0,23,2,2,0,0,2,1991 Fall Tour,1991 Fall,Terrapin,,0,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,>
+1991-10-24,1991,0,24,1,2,0,0,0,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,","
+1991-10-24,1991,0,25,5,2,0,0,1,1991 Fall Tour,1991 Fall,Possum,,1,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,
+1991-10-24,1991,0,26,1,e,0,0,4,1991 Fall Tour,1991 Fall,Memories,,0,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,","
+1991-10-24,1991,0,27,1,e,0,0,3,1991 Fall Tour,1991 Fall,Sweet Adeline,,0,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,","
+1991-10-24,1991,0,28,6,e,0,0,4,1991 Fall Tour,1991 Fall,Rocky Top,,0,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,
+1991-10-26,1991,0,1,1,1,0,0,2,1991 Fall Tour,1991 Fall,Cavern,,1,Club West,Santa Fe,NM,USA,","
+1991-10-26,1991,0,2,1,1,0,0,2,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,Club West,Santa Fe,NM,USA,","
+1991-10-26,1991,0,3,1,1,0,0,2,1991 Fall Tour,1991 Fall,Reba,,1,Club West,Santa Fe,NM,USA,","
+1991-10-26,1991,0,4,1,1,0,0,1,1991 Fall Tour,1991 Fall,Poor Heart,,1,Club West,Santa Fe,NM,USA,","
+1991-10-26,1991,0,5,1,1,0,0,1,1991 Fall Tour,1991 Fall,Tube,,1,Club West,Santa Fe,NM,USA,","
+1991-10-26,1991,0,6,1,1,0,0,2,1991 Fall Tour,1991 Fall,Fee,,1,Club West,Santa Fe,NM,USA,","
+1991-10-26,1991,0,7,1,1,0,0,1,1991 Fall Tour,1991 Fall,Divided Sky,Divided,1,Club West,Santa Fe,NM,USA,","
+1991-10-26,1991,0,8,1,1,0,0,2,1991 Fall Tour,1991 Fall,Llama,,1,Club West,Santa Fe,NM,USA,","
+1991-10-26,1991,0,9,2,1,0,0,2,1991 Fall Tour,1991 Fall,You Enjoy Myself,YEM,1,Club West,Santa Fe,NM,USA,>
+1991-10-26,1991,0,10,4,1,0,0,53,1991 Fall Tour,1991 Fall,Setting Sail,,1,Club West,Santa Fe,NM,USA,
+1991-10-26,1991,0,11,1,2,0,0,1,1991 Fall Tour,1991 Fall,Dinner and a Movie,,1,Club West,Santa Fe,NM,USA,","
+1991-10-26,1991,0,12,1,2,0,0,2,1991 Fall Tour,1991 Fall,Runaway Jim,,1,Club West,Santa Fe,NM,USA,","
+1991-10-26,1991,0,13,1,2,0,0,1,1991 Fall Tour,1991 Fall,Foam,,1,Club West,Santa Fe,NM,USA,","
+1991-10-26,1991,0,14,1,2,0,0,2,1991 Fall Tour,1991 Fall,Horn,,1,Club West,Santa Fe,NM,USA,","
+1991-10-26,1991,0,15,1,2,0,0,2,1991 Fall Tour,1991 Fall,Sparkle,,1,Club West,Santa Fe,NM,USA,","
+1991-10-26,1991,0,16,1,2,0,0,3,1991 Fall Tour,1991 Fall,Tweezer,,1,Club West,Santa Fe,NM,USA,","
+1991-10-26,1991,0,17,1,2,0,0,2,1991 Fall Tour,1991 Fall,The Squirming Coil,Coil,1,Club West,Santa Fe,NM,USA,","
+1991-10-26,1991,0,18,1,2,0,0,1,1991 Fall Tour,1991 Fall,I Didn't Know,IDK,1,Club West,Santa Fe,NM,USA,","
+1991-10-26,1991,0,19,1,2,0,0,2,1991 Fall Tour,1991 Fall,Paul and Silas,,0,Club West,Santa Fe,NM,USA,","
+1991-10-26,1991,0,20,1,2,0,0,7,1991 Fall Tour,1991 Fall,Jesus Just Left Chicago,JJLC,0,Club West,Santa Fe,NM,USA,","
+1991-10-26,1991,0,21,5,2,0,0,8,1991 Fall Tour,1991 Fall,Tweezer Reprise,Tweeprise,1,Club West,Santa Fe,NM,USA,
+1991-10-26,1991,0,22,1,e,0,0,5,1991 Fall Tour,1991 Fall,Lawn Boy,,1,Club West,Santa Fe,NM,USA,","
+1991-10-26,1991,0,23,6,e,0,0,10,1991 Fall Tour,1991 Fall,Fire,,0,Club West,Santa Fe,NM,USA,
+1991-10-27,1991,0,1,1,1,0,0,2,1991 Fall Tour,1991 Fall,Memories,,0,Elk Ballroom,Telluride,CO,USA,","
+1991-10-27,1991,0,2,1,1,0,0,4,1991 Fall Tour,1991 Fall,My Sweet One,MSO,1,Elk Ballroom,Telluride,CO,USA,","
+1991-10-27,1991,0,3,1,1,0,0,3,1991 Fall Tour,1991 Fall,Chalk Dust Torture,CDT,1,Elk Ballroom,Telluride,CO,USA,","
+1991-10-27,1991,0,4,2,1,0,0,3,1991 Fall Tour,1991 Fall,The Mango Song,Mango,1,Elk Ballroom,Telluride,CO,USA,>
+1991-10-27,1991,0,5,2,1,0,0,9,1991 Fall Tour,1991 Fall,Buried Alive,,1,Elk Ballroom,Telluride,CO,USA,>
+1991-10-27,1991,0,6,1,1,0,0,5,1991 Fall Tour,1991 Fall,Guelah Papyrus,Guelah,1,Elk Ballroom,Telluride,CO,USA,","
+1991-10-27,1991,0,7,2,1,0,0,6,1991 Fall Tour,1991 Fall,Fluffhead,,1,Elk Ballroom,Telluride,CO,USA,>
+1991-10-27,1991,0,8,1,1,0,0,3,1991 Fall Tour,1991 Fall,Brother,,1,Elk Ballroom,Telluride,CO,USA,","
+1991-10-27,1991,0,9,1,1,0,0,2,1991 Fall Tour,1991 Fall,Bouncing Around the Room,Bouncin',1,Elk Ballroom,Telluride,CO,USA,","
+1991-10-27,1991,0,10,1,1,0,0,4,1991 Fall Tour,1991 Fall,Harry Hood,Hood,1,Elk Ballroom,Telluride,CO,USA,","
+1991-10-27,1991,0,11,4,1,0,0,3,1991 Fall Tour,1991 Fall,Golgi Apparatus,Golgi,1,Elk Ballroom,Telluride,CO,USA,
+1991-10-27,1991,0,12,1,2,0,0,1,1991 Fall Tour,1991 Fall,Llama,,1,Elk Ballroom,Telluride,CO,USA,","
+1991-10-27,1991,0,13,2,2,0,0,8,1991 Fall Tour,1991 Fall,Colonel Forbin's Ascent,Forbin's,1,Elk Ballroom,Telluride,CO,USA,>
+1991-10-27,1991,0,14,2,2,0,0,8,1991 Fall Tour,1991 Fall,Fly Famous Mockingbird,Mockingbird,1,Elk Ballroom,Telluride,CO,USA,>
+1991-10-27,1991,0,15,2,2,0,0,1,1991 Fall Tour,1991 Fall,Sparkle,,1,Elk Ballroom,Telluride,CO,USA,>
+1991-10-27,1991,0,16,2,2,0,0,3,1991 Fall Tour,1991 Fall,It's Ice,,1,Elk Ballroom,Telluride,CO,USA,>
+1991-10-27,1991,0,17,2,2,0,0,2,1991 Fall Tour,1991 Fall,Mike's Song,Mike's,1,Elk Ballroom,Telluride,CO,USA,>
+1991-10-27,1991,0,18,2,2,0,0,2,1991 Fall Tour,1991 Fall,I Am Hydrogen,Hydrogen,1,Elk Ballroom,Telluride,CO,USA,>
+1991-10-27,1991,0,19,1,2,0,0,2,1991 Fall Tour,1991 Fall,Weekapaug Groove,Weekapaug,1,Elk Ballroom,Telluride,CO,USA,","
+1991-10-27,1991,0,20,1,2,0,0,8,1991 Fall Tour,1991 Fall,Tela,,1,Elk Ballroom,Telluride,CO,USA,","
+1991-10-27,1991,0,21,2,2,0,0,1,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,Elk Ballroom,Telluride,CO,USA,>
+1991-10-27,1991,0,22,1,2,0,0,3,1991 Fall Tour,1991 Fall,Destiny Unbound,Destiny,1,Elk Ballroom,Telluride,CO,USA,","
+1991-10-27,1991,0,23,2,2,0,0,3,1991 Fall Tour,1991 Fall,Take the 'A' Train,'A' Train,0,Elk Ballroom,Telluride,CO,USA,>
+1991-10-27,1991,0,24,5,2,0,0,5,1991 Fall Tour,1991 Fall,Run Like an Antelope,Antelope,1,Elk Ballroom,Telluride,CO,USA,
+1991-10-27,1991,0,25,1,e,0,0,2,1991 Fall Tour,1991 Fall,Sweet Adeline,,0,Elk Ballroom,Telluride,CO,USA,","
+1991-10-27,1991,0,26,1,e,0,0,20,1991 Fall Tour,1991 Fall,Glide,,1,Elk Ballroom,Telluride,CO,USA,","
+1991-10-27,1991,0,27,6,e,0,0,2,1991 Fall Tour,1991 Fall,Possum,,1,Elk Ballroom,Telluride,CO,USA,
+1991-10-28,1991,0,1,2,1,0,0,7,1991 Fall Tour,1991 Fall,The Curtain,Curtain,1,Elk Ballroom,Telluride,CO,USA,>
+1991-10-28,1991,0,2,1,1,0,0,2,1991 Fall Tour,1991 Fall,Runaway Jim,,1,Elk Ballroom,Telluride,CO,USA,","
+1991-10-28,1991,0,3,1,1,0,0,2,1991 Fall Tour,1991 Fall,Cavern,,1,Elk Ballroom,Telluride,CO,USA,","
+1991-10-28,1991,0,4,2,1,0,0,2,1991 Fall Tour,1991 Fall,Poor Heart,,1,Elk Ballroom,Telluride,CO,USA,>
+1991-10-28,1991,0,5,1,1,0,0,2,1991 Fall Tour,1991 Fall,Reba,,1,Elk Ballroom,Telluride,CO,USA,","
+1991-10-28,1991,0,6,1,1,0,0,2,1991 Fall Tour,1991 Fall,I Didn't Know,IDK,1,Elk Ballroom,Telluride,CO,USA,","
+1991-10-28,1991,0,7,2,1,0,0,2,1991 Fall Tour,1991 Fall,Tube,,1,Elk Ballroom,Telluride,CO,USA,>
+1991-10-28,1991,0,8,2,1,0,0,3,1991 Fall Tour,1991 Fall,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Elk Ballroom,Telluride,CO,USA,>
+1991-10-28,1991,0,9,1,1,0,0,2,1991 Fall Tour,1991 Fall,Foam,,1,Elk Ballroom,Telluride,CO,USA,","
+1991-10-28,1991,0,10,3,1,0,0,2,1991 Fall Tour,1991 Fall,Fee,,1,Elk Ballroom,Telluride,CO,USA,->
+1991-10-28,1991,0,11,4,1,0,0,3,1991 Fall Tour,1991 Fall,David Bowie,Bowie,1,Elk Ballroom,Telluride,CO,USA,
+1991-10-28,1991,0,12,2,2,0,0,2,1991 Fall Tour,1991 Fall,Divided Sky,Divided,1,Elk Ballroom,Telluride,CO,USA,>
+1991-10-28,1991,0,13,2,2,0,0,6,1991 Fall Tour,1991 Fall,Wilson,,1,Elk Ballroom,Telluride,CO,USA,>
+1991-10-28,1991,0,14,2,2,0,0,2,1991 Fall Tour,1991 Fall,Dinner and a Movie,,1,Elk Ballroom,Telluride,CO,USA,>
+1991-10-28,1991,0,15,1,2,0,0,3,1991 Fall Tour,1991 Fall,Stash,,1,Elk Ballroom,Telluride,CO,USA,","
+1991-10-28,1991,0,16,2,2,0,0,2,1991 Fall Tour,1991 Fall,Paul and Silas,,0,Elk Ballroom,Telluride,CO,USA,>
+1991-10-28,1991,0,17,1,2,0,0,5,1991 Fall Tour,1991 Fall,Bathtub Gin,Gin,1,Elk Ballroom,Telluride,CO,USA,","
+1991-10-28,1991,0,18,1,2,0,0,2,1991 Fall Tour,1991 Fall,You Enjoy Myself,YEM,1,Elk Ballroom,Telluride,CO,USA,","
+1991-10-28,1991,0,19,1,2,0,0,2,1991 Fall Tour,1991 Fall,The Squirming Coil,Coil,1,Elk Ballroom,Telluride,CO,USA,","
+1991-10-28,1991,0,20,1,2,0,0,48,1991 Fall Tour,1991 Fall,Harpua,,1,Elk Ballroom,Telluride,CO,USA,","
+1991-10-28,1991,0,21,2,2,0,0,3,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,Elk Ballroom,Telluride,CO,USA,>
+1991-10-28,1991,0,22,2,2,0,0,111,1991 Fall Tour,1991 Fall,Whipping Post,,0,Elk Ballroom,Telluride,CO,USA,>
+1991-10-28,1991,0,23,1,2,0,0,0,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,Elk Ballroom,Telluride,CO,USA,","
+1991-10-28,1991,0,24,5,2,0,0,45,1991 Fall Tour,1991 Fall,Highway to Hell,,0,Elk Ballroom,Telluride,CO,USA,
+1991-10-28,1991,0,25,1,e,0,0,2,1991 Fall Tour,1991 Fall,Horn,,1,Elk Ballroom,Telluride,CO,USA,","
+1991-10-28,1991,0,26,6,e,0,0,3,1991 Fall Tour,1991 Fall,Rocky Top,,0,Elk Ballroom,Telluride,CO,USA,
+1991-10-30,1991,0,1,1,1,0,0,2,1991 Fall Tour,1991 Fall,My Sweet One,MSO,1,Boulder Theater,Boulder,CO,USA,","
+1991-10-30,1991,0,2,1,1,0,0,1,1991 Fall Tour,1991 Fall,Foam,,1,Boulder Theater,Boulder,CO,USA,","
+1991-10-30,1991,0,3,1,1,0,0,1,1991 Fall Tour,1991 Fall,Runaway Jim,,1,Boulder Theater,Boulder,CO,USA,","
+1991-10-30,1991,0,4,1,1,0,0,1,1991 Fall Tour,1991 Fall,Cavern,,1,Boulder Theater,Boulder,CO,USA,","
+1991-10-30,1991,0,5,1,1,0,0,2,1991 Fall Tour,1991 Fall,Sparkle,,1,Boulder Theater,Boulder,CO,USA,","
+1991-10-30,1991,0,6,1,1,0,0,2,1991 Fall Tour,1991 Fall,Brother,,1,Boulder Theater,Boulder,CO,USA,","
+1991-10-30,1991,0,7,1,1,0,0,4,1991 Fall Tour,1991 Fall,The Lizards,Lizards,1,Boulder Theater,Boulder,CO,USA,","
+1991-10-30,1991,0,8,4,1,0,0,2,1991 Fall Tour,1991 Fall,Possum,,1,Boulder Theater,Boulder,CO,USA,
+1991-10-30,1991,0,9,2,2,0,0,1,1991 Fall Tour,1991 Fall,Tube,,1,Boulder Theater,Boulder,CO,USA,>
+1991-10-30,1991,0,10,1,2,0,0,1,1991 Fall Tour,1991 Fall,Divided Sky,Divided,1,Boulder Theater,Boulder,CO,USA,","
+1991-10-30,1991,0,11,1,2,0,0,1,1991 Fall Tour,1991 Fall,Horn,,1,Boulder Theater,Boulder,CO,USA,","
+1991-10-30,1991,0,12,1,2,0,0,1,1991 Fall Tour,1991 Fall,Poor Heart,,1,Boulder Theater,Boulder,CO,USA,","
+1991-10-30,1991,0,13,1,2,0,0,2,1991 Fall Tour,1991 Fall,Run Like an Antelope,Antelope,1,Boulder Theater,Boulder,CO,USA,","
+1991-10-30,1991,0,14,2,2,0,0,3,1991 Fall Tour,1991 Fall,Lawn Boy,,1,Boulder Theater,Boulder,CO,USA,>
+1991-10-30,1991,0,15,2,2,0,0,1,1991 Fall Tour,1991 Fall,Wilson,,1,Boulder Theater,Boulder,CO,USA,>
+1991-10-30,1991,0,16,2,2,0,0,2,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,Boulder Theater,Boulder,CO,USA,>
+1991-10-30,1991,0,17,2,2,0,0,2,1991 Fall Tour,1991 Fall,Bouncing Around the Room,Bouncin',1,Boulder Theater,Boulder,CO,USA,>
+1991-10-30,1991,0,18,2,2,0,0,2,1991 Fall Tour,1991 Fall,Mike's Song,Mike's,1,Boulder Theater,Boulder,CO,USA,>
+1991-10-30,1991,0,19,2,2,0,0,2,1991 Fall Tour,1991 Fall,I Am Hydrogen,Hydrogen,1,Boulder Theater,Boulder,CO,USA,>
+1991-10-30,1991,0,20,5,2,0,0,2,1991 Fall Tour,1991 Fall,Weekapaug Groove,Weekapaug,1,Boulder Theater,Boulder,CO,USA,
+1991-10-30,1991,0,21,2,e,0,0,314,1991 Fall Tour,1991 Fall,Jam,,0,Boulder Theater,Boulder,CO,USA,>
+1991-10-30,1991,0,22,1,e,0,0,1,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,Boulder Theater,Boulder,CO,USA,","
+1991-10-30,1991,0,23,6,e,0,0,3,1991 Fall Tour,1991 Fall,Fire,,0,Boulder Theater,Boulder,CO,USA,
+1991-10-31,1991,0,1,1,1,0,0,3,1991 Fall Tour,1991 Fall,Memories,,0,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,","
+1991-10-31,1991,0,2,1,1,0,0,1,1991 Fall Tour,1991 Fall,Brother,,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,","
+1991-10-31,1991,0,3,1,1,0,0,5,1991 Fall Tour,1991 Fall,Ya Mar,,0,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,","
+1991-10-31,1991,0,4,2,1,0,0,11,1991 Fall Tour,1991 Fall,The Sloth,Sloth,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,>
+1991-10-31,1991,0,5,1,1,0,0,3,1991 Fall Tour,1991 Fall,Chalk Dust Torture,CDT,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,","
+1991-10-31,1991,0,6,1,1,0,0,1,1991 Fall Tour,1991 Fall,Sparkle,,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,","
+1991-10-31,1991,0,7,1,1,0,0,1,1991 Fall Tour,1991 Fall,Foam,,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,","
+1991-10-31,1991,0,8,1,1,0,0,2,1991 Fall Tour,1991 Fall,Bathtub Gin,Gin,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,","
+1991-10-31,1991,0,9,1,1,0,0,2,1991 Fall Tour,1991 Fall,Paul and Silas,,0,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,","
+1991-10-31,1991,0,10,1,1,0,0,2,1991 Fall Tour,1991 Fall,You Enjoy Myself,YEM,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,","
+1991-10-31,1991,0,11,4,1,0,0,1,1991 Fall Tour,1991 Fall,Runaway Jim,,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,
+1991-10-31,1991,0,12,1,2,0,0,1,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,","
+1991-10-31,1991,0,13,1,2,0,0,383,1991 Fall Tour,1991 Fall,Costume Contest,,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,","
+1991-10-31,1991,0,14,3,2,0,0,564,1991 Fall Tour,1991 Fall,Wait,,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,->
+1991-10-31,1991,0,15,1,2,0,0,3,1991 Fall Tour,1991 Fall,Llama,,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,","
+1991-10-31,1991,0,16,3,2,0,0,2,1991 Fall Tour,1991 Fall,Fee,,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,->
+1991-10-31,1991,0,17,3,2,0,0,0,1991 Fall Tour,1991 Fall,Wait,,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,->
+1991-10-31,1991,0,18,2,2,0,0,1,1991 Fall Tour,1991 Fall,My Sweet One,MSO,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,>
+1991-10-31,1991,0,19,3,2,0,0,0,1991 Fall Tour,1991 Fall,Wait,,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,->
+1991-10-31,1991,0,20,1,2,0,0,2,1991 Fall Tour,1991 Fall,David Bowie,Bowie,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,","
+1991-10-31,1991,0,21,1,2,0,0,1,1991 Fall Tour,1991 Fall,Horn,,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,","
+1991-10-31,1991,0,22,1,2,0,0,2,1991 Fall Tour,1991 Fall,Dinner and a Movie,,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,","
+1991-10-31,1991,0,23,2,2,0,0,1,1991 Fall Tour,1991 Fall,Tube,,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,>
+1991-10-31,1991,0,24,1,2,0,0,2,1991 Fall Tour,1991 Fall,I Didn't Know,IDK,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,","
+1991-10-31,1991,0,25,5,2,0,0,3,1991 Fall Tour,1991 Fall,Harry Hood,Hood,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,
+1991-10-31,1991,0,26,1,e,0,0,3,1991 Fall Tour,1991 Fall,Glide,,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,","
+1991-10-31,1991,0,27,6,e,0,0,2,1991 Fall Tour,1991 Fall,Rocky Top,,0,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,
+1991-11-01,1991,0,1,2,1,0,0,12,1991 Fall Tour,1991 Fall,AC/DC Bag,Bag,1,Gothic Theatre,Englewood,CO,USA,>
+1991-11-01,1991,0,2,1,1,0,0,1,1991 Fall Tour,1991 Fall,Sparkle,,1,Gothic Theatre,Englewood,CO,USA,","
+1991-11-01,1991,0,3,2,1,0,0,1,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,Gothic Theatre,Englewood,CO,USA,>
+1991-11-01,1991,0,4,1,1,0,0,4,1991 Fall Tour,1991 Fall,Destiny Unbound,Destiny,1,Gothic Theatre,Englewood,CO,USA,","
+1991-11-01,1991,0,5,1,1,0,0,3,1991 Fall Tour,1991 Fall,The Squirming Coil,Coil,1,Gothic Theatre,Englewood,CO,USA,","
+1991-11-01,1991,0,6,1,1,0,0,7,1991 Fall Tour,1991 Fall,Split Open and Melt,SOAMelt,1,Gothic Theatre,Englewood,CO,USA,","
+1991-11-01,1991,0,7,2,1,0,0,4,1991 Fall Tour,1991 Fall,Fluffhead,,1,Gothic Theatre,Englewood,CO,USA,>
+1991-11-01,1991,0,8,1,1,0,0,6,1991 Fall Tour,1991 Fall,Uncle Pen,,0,Gothic Theatre,Englewood,CO,USA,","
+1991-11-01,1991,0,9,1,1,0,0,1,1991 Fall Tour,1991 Fall,Tube,,1,Gothic Theatre,Englewood,CO,USA,","
+1991-11-01,1991,0,10,1,1,0,0,2,1991 Fall Tour,1991 Fall,Divided Sky,Divided,1,Gothic Theatre,Englewood,CO,USA,","
+1991-11-01,1991,0,11,4,1,0,0,4,1991 Fall Tour,1991 Fall,Sweet Adeline,,0,Gothic Theatre,Englewood,CO,USA,
+1991-11-01,1991,0,12,1,2,0,0,5,1991 Fall Tour,1991 Fall,Tweezer,,1,Gothic Theatre,Englewood,CO,USA,","
+1991-11-01,1991,0,13,2,2,0,0,1,1991 Fall Tour,1991 Fall,My Sweet One,MSO,1,Gothic Theatre,Englewood,CO,USA,>
+1991-11-01,1991,0,14,2,2,0,0,4,1991 Fall Tour,1991 Fall,It's Ice,,1,Gothic Theatre,Englewood,CO,USA,>
+1991-11-01,1991,0,15,1,2,0,0,1,1991 Fall Tour,1991 Fall,Chalk Dust Torture,CDT,1,Gothic Theatre,Englewood,CO,USA,","
+1991-11-01,1991,0,16,2,2,0,0,12,1991 Fall Tour,1991 Fall,Eliza,,1,Gothic Theatre,Englewood,CO,USA,>
+1991-11-01,1991,0,17,2,2,0,0,2,1991 Fall Tour,1991 Fall,Mike's Song,Mike's,1,Gothic Theatre,Englewood,CO,USA,>
+1991-11-01,1991,0,18,2,2,0,0,2,1991 Fall Tour,1991 Fall,I Am Hydrogen,Hydrogen,1,Gothic Theatre,Englewood,CO,USA,>
+1991-11-01,1991,0,19,1,2,0,0,2,1991 Fall Tour,1991 Fall,Weekapaug Groove,Weekapaug,1,Gothic Theatre,Englewood,CO,USA,","
+1991-11-01,1991,0,20,2,2,0,0,4,1991 Fall Tour,1991 Fall,Take the 'A' Train,'A' Train,0,Gothic Theatre,Englewood,CO,USA,>
+1991-11-01,1991,0,21,1,2,0,0,4,1991 Fall Tour,1991 Fall,Tela,,1,Gothic Theatre,Englewood,CO,USA,","
+1991-11-01,1991,0,22,1,2,0,0,2,1991 Fall Tour,1991 Fall,Cavern,,1,Gothic Theatre,Englewood,CO,USA,","
+1991-11-01,1991,0,23,2,2,0,0,2,1991 Fall Tour,1991 Fall,Poor Heart,,1,Gothic Theatre,Englewood,CO,USA,>
+1991-11-01,1991,0,24,5,2,0,0,5,1991 Fall Tour,1991 Fall,Tweezer Reprise,Tweeprise,1,Gothic Theatre,Englewood,CO,USA,
+1991-11-01,1991,0,25,2,e,0,0,2,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,Gothic Theatre,Englewood,CO,USA,>
+1991-11-01,1991,0,26,2,e,0,0,7,1991 Fall Tour,1991 Fall,Love You,,0,Gothic Theatre,Englewood,CO,USA,>
+1991-11-01,1991,0,27,1,e,1,0,565,1991 Fall Tour,1991 Fall,Pusherman,,0,Gothic Theatre,Englewood,CO,USA,","
+1991-11-01,1991,0,28,6,e,0,0,3,1991 Fall Tour,1991 Fall,Stash,,1,Gothic Theatre,Englewood,CO,USA,
+1991-11-02,1991,0,1,1,1,0,0,7,1991 Fall Tour,1991 Fall,Suzy Greenberg,Suzy,1,"Lory Student Center Theatre, Colorado State University",Fort Collins,CO,USA,","
+1991-11-02,1991,0,2,2,1,0,0,4,1991 Fall Tour,1991 Fall,The Curtain,Curtain,1,"Lory Student Center Theatre, Colorado State University",Fort Collins,CO,USA,>
+1991-11-02,1991,0,3,1,1,0,0,2,1991 Fall Tour,1991 Fall,Llama,,1,"Lory Student Center Theatre, Colorado State University",Fort Collins,CO,USA,","
+1991-11-02,1991,0,4,1,1,0,0,4,1991 Fall Tour,1991 Fall,Reba,,1,"Lory Student Center Theatre, Colorado State University",Fort Collins,CO,USA,","
+1991-11-02,1991,0,5,1,1,0,0,2,1991 Fall Tour,1991 Fall,Paul and Silas,,0,"Lory Student Center Theatre, Colorado State University",Fort Collins,CO,USA,","
+1991-11-02,1991,0,6,2,1,0,0,2,1991 Fall Tour,1991 Fall,Foam,,1,"Lory Student Center Theatre, Colorado State University",Fort Collins,CO,USA,>
+1991-11-02,1991,0,7,1,1,0,0,3,1991 Fall Tour,1991 Fall,Bouncing Around the Room,Bouncin',1,"Lory Student Center Theatre, Colorado State University",Fort Collins,CO,USA,","
+1991-11-02,1991,0,8,2,1,0,0,5,1991 Fall Tour,1991 Fall,Colonel Forbin's Ascent,Forbin's,1,"Lory Student Center Theatre, Colorado State University",Fort Collins,CO,USA,>
+1991-11-02,1991,0,9,2,1,0,0,5,1991 Fall Tour,1991 Fall,Fly Famous Mockingbird,Mockingbird,1,"Lory Student Center Theatre, Colorado State University",Fort Collins,CO,USA,>
+1991-11-02,1991,0,10,4,1,0,0,3,1991 Fall Tour,1991 Fall,Possum,,1,"Lory Student Center Theatre, Colorado State University",Fort Collins,CO,USA,
+1991-11-02,1991,0,11,1,2,0,0,5,1991 Fall Tour,1991 Fall,Golgi Apparatus,Golgi,1,"Lory Student Center Theatre, Colorado State University",Fort Collins,CO,USA,","
+1991-11-02,1991,0,12,1,2,0,0,3,1991 Fall Tour,1991 Fall,Run Like an Antelope,Antelope,1,"Lory Student Center Theatre, Colorado State University",Fort Collins,CO,USA,","
+1991-11-02,1991,0,13,2,2,0,0,7,1991 Fall Tour,1991 Fall,The Man Who Stepped Into Yesterday,TMWSIY,1,"Lory Student Center Theatre, Colorado State University",Fort Collins,CO,USA,>
+1991-11-02,1991,0,14,2,2,0,0,7,1991 Fall Tour,1991 Fall,Avenu Malkenu,,0,"Lory Student Center Theatre, Colorado State University",Fort Collins,CO,USA,>
+1991-11-02,1991,0,15,1,2,0,0,0,1991 Fall Tour,1991 Fall,The Man Who Stepped Into Yesterday,TMWSIY,1,"Lory Student Center Theatre, Colorado State University",Fort Collins,CO,USA,","
+1991-11-02,1991,0,16,1,2,0,0,1,1991 Fall Tour,1991 Fall,Sparkle,,1,"Lory Student Center Theatre, Colorado State University",Fort Collins,CO,USA,","
+1991-11-02,1991,0,17,1,2,0,0,5,1991 Fall Tour,1991 Fall,Guelah Papyrus,Guelah,1,"Lory Student Center Theatre, Colorado State University",Fort Collins,CO,USA,","
+1991-11-02,1991,0,18,1,2,0,0,10,1991 Fall Tour,1991 Fall,Walk Away,,0,"Lory Student Center Theatre, Colorado State University",Fort Collins,CO,USA,","
+1991-11-02,1991,0,19,1,2,0,0,1,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,"Lory Student Center Theatre, Colorado State University",Fort Collins,CO,USA,","
+1991-11-02,1991,0,20,1,2,0,0,2,1991 Fall Tour,1991 Fall,Runaway Jim,,1,"Lory Student Center Theatre, Colorado State University",Fort Collins,CO,USA,","
+1991-11-02,1991,0,21,5,2,0,0,2,1991 Fall Tour,1991 Fall,You Enjoy Myself,YEM,1,"Lory Student Center Theatre, Colorado State University",Fort Collins,CO,USA,
+1991-11-02,1991,0,22,1,e,0,0,14,1991 Fall Tour,1991 Fall,Contact,,1,"Lory Student Center Theatre, Colorado State University",Fort Collins,CO,USA,","
+1991-11-02,1991,0,23,6,e,0,0,15,1991 Fall Tour,1991 Fall,Big Black Furry Creature from Mars,BBFCFM,1,"Lory Student Center Theatre, Colorado State University",Fort Collins,CO,USA,
+1991-11-07,1991,0,1,1,1,2,0,4,1991 Fall Tour,1991 Fall,Memories,,0,Tipitina's,New Orleans,LA,USA,","
+1991-11-07,1991,0,2,1,1,2,0,3,1991 Fall Tour,1991 Fall,Chalk Dust Torture,CDT,1,Tipitina's,New Orleans,LA,USA,","
+1991-11-07,1991,0,3,1,1,2,0,2,1991 Fall Tour,1991 Fall,Foam,,1,Tipitina's,New Orleans,LA,USA,","
+1991-11-07,1991,0,4,2,1,2,0,2,1991 Fall Tour,1991 Fall,Sparkle,,1,Tipitina's,New Orleans,LA,USA,>
+1991-11-07,1991,0,5,1,1,2,0,3,1991 Fall Tour,1991 Fall,Cavern,,1,Tipitina's,New Orleans,LA,USA,","
+1991-11-07,1991,0,6,2,1,2,0,3,1991 Fall Tour,1991 Fall,It's Ice,,1,Tipitina's,New Orleans,LA,USA,>
+1991-11-07,1991,0,7,1,1,2,0,2,1991 Fall Tour,1991 Fall,You Enjoy Myself,YEM,1,Tipitina's,New Orleans,LA,USA,","
+1991-11-07,1991,0,8,2,1,2,0,2,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,Tipitina's,New Orleans,LA,USA,>
+1991-11-07,1991,0,9,1,1,2,0,2,1991 Fall Tour,1991 Fall,Runaway Jim,,1,Tipitina's,New Orleans,LA,USA,","
+1991-11-07,1991,0,10,1,1,2,0,4,1991 Fall Tour,1991 Fall,I Didn't Know,IDK,1,Tipitina's,New Orleans,LA,USA,","
+1991-11-07,1991,0,11,4,1,2,0,2,1991 Fall Tour,1991 Fall,Llama,,1,Tipitina's,New Orleans,LA,USA,
+1991-11-07,1991,0,12,2,2,2,0,4,1991 Fall Tour,1991 Fall,Brother,,1,Tipitina's,New Orleans,LA,USA,>
+1991-11-07,1991,0,13,1,2,2,0,2,1991 Fall Tour,1991 Fall,Bouncing Around the Room,Bouncin',1,Tipitina's,New Orleans,LA,USA,","
+1991-11-07,1991,0,14,2,2,2,0,3,1991 Fall Tour,1991 Fall,My Sweet One,MSO,1,Tipitina's,New Orleans,LA,USA,>
+1991-11-07,1991,0,15,1,2,2,0,2,1991 Fall Tour,1991 Fall,Reba,,1,Tipitina's,New Orleans,LA,USA,","
+1991-11-07,1991,0,16,2,2,2,0,3,1991 Fall Tour,1991 Fall,Tube,,1,Tipitina's,New Orleans,LA,USA,>
+1991-11-07,1991,0,17,2,2,2,0,4,1991 Fall Tour,1991 Fall,Horn,,1,Tipitina's,New Orleans,LA,USA,>
+1991-11-07,1991,0,18,1,2,2,0,4,1991 Fall Tour,1991 Fall,David Bowie,Bowie,1,Tipitina's,New Orleans,LA,USA,","
+1991-11-07,1991,0,19,1,2,2,0,3,1991 Fall Tour,1991 Fall,Take the 'A' Train,'A' Train,0,Tipitina's,New Orleans,LA,USA,","
+1991-11-07,1991,0,20,3,2,1,0,3,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,Tipitina's,New Orleans,LA,USA,->
+1991-11-07,1991,0,21,2,2,2,0,3,1991 Fall Tour,1991 Fall,Love You,,0,Tipitina's,New Orleans,LA,USA,>
+1991-11-07,1991,0,22,1,2,2,0,0,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,Tipitina's,New Orleans,LA,USA,","
+1991-11-07,1991,0,23,5,2,2,0,2,1991 Fall Tour,1991 Fall,Possum,,1,Tipitina's,New Orleans,LA,USA,
+1991-11-07,1991,0,24,1,e,2,0,4,1991 Fall Tour,1991 Fall,Fee,,1,Tipitina's,New Orleans,LA,USA,","
+1991-11-07,1991,0,25,7,e,2,0,4,1991 Fall Tour,1991 Fall,Rocky Top,,0,Tipitina's,New Orleans,LA,USA,
+1991-11-07,1991,0,26,1,e2,2,0,5,1991 Fall Tour,1991 Fall,Lawn Boy,,1,Tipitina's,New Orleans,LA,USA,","
+1991-11-07,1991,0,27,6,e2,2,0,5,1991 Fall Tour,1991 Fall,Fire,,0,Tipitina's,New Orleans,LA,USA,
+1991-11-08,1991,0,1,1,1,0,0,1,1991 Fall Tour,1991 Fall,Tube,,1,Ivory Tusk,Tuscaloosa,AL,USA,","
+1991-11-08,1991,0,2,2,1,0,0,1,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,Ivory Tusk,Tuscaloosa,AL,USA,>
+1991-11-08,1991,0,3,2,1,0,0,5,1991 Fall Tour,1991 Fall,Dinner and a Movie,,1,Ivory Tusk,Tuscaloosa,AL,USA,>
+1991-11-08,1991,0,4,1,1,0,0,4,1991 Fall Tour,1991 Fall,Stash,,1,Ivory Tusk,Tuscaloosa,AL,USA,","
+1991-11-08,1991,0,5,2,1,0,0,3,1991 Fall Tour,1991 Fall,Paul and Silas,,0,Ivory Tusk,Tuscaloosa,AL,USA,>
+1991-11-08,1991,0,6,1,1,0,0,4,1991 Fall Tour,1991 Fall,Divided Sky,Divided,1,Ivory Tusk,Tuscaloosa,AL,USA,","
+1991-11-08,1991,0,7,1,1,0,0,3,1991 Fall Tour,1991 Fall,Guelah Papyrus,Guelah,1,Ivory Tusk,Tuscaloosa,AL,USA,","
+1991-11-08,1991,0,8,1,1,0,0,8,1991 Fall Tour,1991 Fall,The Mango Song,Mango,1,Ivory Tusk,Tuscaloosa,AL,USA,","
+1991-11-08,1991,0,9,1,1,0,0,1,1991 Fall Tour,1991 Fall,Brother,,1,Ivory Tusk,Tuscaloosa,AL,USA,","
+1991-11-08,1991,0,10,1,1,0,0,3,1991 Fall Tour,1991 Fall,Eliza,,1,Ivory Tusk,Tuscaloosa,AL,USA,","
+1991-11-08,1991,0,11,4,1,0,0,3,1991 Fall Tour,1991 Fall,Golgi Apparatus,Golgi,1,Ivory Tusk,Tuscaloosa,AL,USA,
+1991-11-08,1991,0,12,1,2,0,0,5,1991 Fall Tour,1991 Fall,The Sloth,Sloth,1,Ivory Tusk,Tuscaloosa,AL,USA,","
+1991-11-08,1991,0,13,1,2,0,0,1,1991 Fall Tour,1991 Fall,Sparkle,,1,Ivory Tusk,Tuscaloosa,AL,USA,","
+1991-11-08,1991,0,14,1,2,0,0,4,1991 Fall Tour,1991 Fall,Split Open and Melt,SOAMelt,1,Ivory Tusk,Tuscaloosa,AL,USA,","
+1991-11-08,1991,0,15,1,2,0,0,4,1991 Fall Tour,1991 Fall,The Squirming Coil,Coil,1,Ivory Tusk,Tuscaloosa,AL,USA,","
+1991-11-08,1991,0,16,1,2,0,0,1,1991 Fall Tour,1991 Fall,I Didn't Know,IDK,1,Ivory Tusk,Tuscaloosa,AL,USA,","
+1991-11-08,1991,0,17,2,2,0,0,4,1991 Fall Tour,1991 Fall,Mike's Song,Mike's,1,Ivory Tusk,Tuscaloosa,AL,USA,>
+1991-11-08,1991,0,18,2,2,0,0,4,1991 Fall Tour,1991 Fall,I Am Hydrogen,Hydrogen,1,Ivory Tusk,Tuscaloosa,AL,USA,>
+1991-11-08,1991,0,19,1,2,0,0,4,1991 Fall Tour,1991 Fall,Weekapaug Groove,Weekapaug,1,Ivory Tusk,Tuscaloosa,AL,USA,","
+1991-11-08,1991,0,20,2,2,0,0,9,1991 Fall Tour,1991 Fall,Jesus Just Left Chicago,JJLC,0,Ivory Tusk,Tuscaloosa,AL,USA,>
+1991-11-08,1991,0,21,2,2,0,0,6,1991 Fall Tour,1991 Fall,Jam,,0,Ivory Tusk,Tuscaloosa,AL,USA,>
+1991-11-08,1991,0,22,1,2,0,0,31,1991 Fall Tour,1991 Fall,Self,,0,Ivory Tusk,Tuscaloosa,AL,USA,","
+1991-11-08,1991,0,23,1,2,0,0,569,1991 Fall Tour,1991 Fall,T.V. Show,,0,Ivory Tusk,Tuscaloosa,AL,USA,","
+1991-11-08,1991,0,24,1,2,0,0,0,1991 Fall Tour,1991 Fall,Family Picture,,0,Ivory Tusk,Tuscaloosa,AL,USA,","
+1991-11-08,1991,0,25,5,2,0,0,31,1991 Fall Tour,1991 Fall,Crimes of the Mind,,0,Ivory Tusk,Tuscaloosa,AL,USA,
+1991-11-08,1991,0,26,2,e,0,0,1,1991 Fall Tour,1991 Fall,Fee,,1,Ivory Tusk,Tuscaloosa,AL,USA,>
+1991-11-08,1991,0,27,6,e,0,0,3,1991 Fall Tour,1991 Fall,Suzy Greenberg,Suzy,1,Ivory Tusk,Tuscaloosa,AL,USA,
+1991-11-09,1991,0,1,2,1,0,0,4,1991 Fall Tour,1991 Fall,The Curtain,Curtain,1,Variety Playhouse,Atlanta,GA,USA,>
+1991-11-09,1991,0,2,1,1,0,0,2,1991 Fall Tour,1991 Fall,Runaway Jim,,1,Variety Playhouse,Atlanta,GA,USA,","
+1991-11-09,1991,0,3,1,1,0,0,2,1991 Fall Tour,1991 Fall,Foam,,1,Variety Playhouse,Atlanta,GA,USA,","
+1991-11-09,1991,0,4,1,1,0,0,1,1991 Fall Tour,1991 Fall,Sparkle,,1,Variety Playhouse,Atlanta,GA,USA,","
+1991-11-09,1991,0,5,1,1,0,0,2,1991 Fall Tour,1991 Fall,Llama,,1,Variety Playhouse,Atlanta,GA,USA,","
+1991-11-09,1991,0,6,1,1,0,0,2,1991 Fall Tour,1991 Fall,Reba,,1,Variety Playhouse,Atlanta,GA,USA,","
+1991-11-09,1991,0,7,2,1,0,0,1,1991 Fall Tour,1991 Fall,Tube,,1,Variety Playhouse,Atlanta,GA,USA,>
+1991-11-09,1991,0,8,1,1,0,0,2,1991 Fall Tour,1991 Fall,You Enjoy Myself,YEM,1,Variety Playhouse,Atlanta,GA,USA,","
+1991-11-09,1991,0,9,1,1,0,0,2,1991 Fall Tour,1991 Fall,Horn,,1,Variety Playhouse,Atlanta,GA,USA,","
+1991-11-09,1991,0,10,1,1,0,0,1,1991 Fall Tour,1991 Fall,Brother,,1,Variety Playhouse,Atlanta,GA,USA,","
+1991-11-09,1991,0,11,4,1,0,0,5,1991 Fall Tour,1991 Fall,Sweet Adeline,,0,Variety Playhouse,Atlanta,GA,USA,
+1991-11-09,1991,0,12,1,2,0,0,2,1991 Fall Tour,1991 Fall,Chalk Dust Torture,CDT,1,Variety Playhouse,Atlanta,GA,USA,","
+1991-11-09,1991,0,13,2,2,0,0,5,1991 Fall Tour,1991 Fall,Fluffhead,,1,Variety Playhouse,Atlanta,GA,USA,>
+1991-11-09,1991,0,14,2,2,0,0,5,1991 Fall Tour,1991 Fall,Poor Heart,,1,Variety Playhouse,Atlanta,GA,USA,>
+1991-11-09,1991,0,15,2,2,0,0,2,1991 Fall Tour,1991 Fall,It's Ice,,1,Variety Playhouse,Atlanta,GA,USA,>
+1991-11-09,1991,0,16,2,2,0,0,5,1991 Fall Tour,1991 Fall,Tweezer,,1,Variety Playhouse,Atlanta,GA,USA,>
+1991-11-09,1991,0,17,1,2,0,0,5,1991 Fall Tour,1991 Fall,Tela,,1,Variety Playhouse,Atlanta,GA,USA,","
+1991-11-09,1991,0,18,1,2,0,0,1,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,Variety Playhouse,Atlanta,GA,USA,","
+1991-11-09,1991,0,19,2,2,0,0,2,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,Variety Playhouse,Atlanta,GA,USA,>
+1991-11-09,1991,0,20,2,2,0,0,11,1991 Fall Tour,1991 Fall,Terrapin,,0,Variety Playhouse,Atlanta,GA,USA,>
+1991-11-09,1991,0,21,1,2,0,0,0,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,Variety Playhouse,Atlanta,GA,USA,","
+1991-11-09,1991,0,22,2,2,0,0,2,1991 Fall Tour,1991 Fall,My Sweet One,MSO,1,Variety Playhouse,Atlanta,GA,USA,>
+1991-11-09,1991,0,23,5,2,0,0,5,1991 Fall Tour,1991 Fall,Tweezer Reprise,Tweeprise,1,Variety Playhouse,Atlanta,GA,USA,
+1991-11-09,1991,0,24,1,e,0,0,6,1991 Fall Tour,1991 Fall,Glide,,1,Variety Playhouse,Atlanta,GA,USA,","
+1991-11-09,1991,0,25,6,e,0,0,2,1991 Fall Tour,1991 Fall,Possum,,1,Variety Playhouse,Atlanta,GA,USA,
+1991-11-10,1991,0,1,1,1,0,0,2,1991 Fall Tour,1991 Fall,Golgi Apparatus,Golgi,1,Music Farm,Charleston,SC,USA,","
+1991-11-10,1991,0,2,1,1,0,0,1,1991 Fall Tour,1991 Fall,Chalk Dust Torture,CDT,1,Music Farm,Charleston,SC,USA,","
+1991-11-10,1991,0,3,1,1,0,0,1,1991 Fall Tour,1991 Fall,Foam,,1,Music Farm,Charleston,SC,USA,","
+1991-11-10,1991,0,4,2,1,0,0,8,1991 Fall Tour,1991 Fall,Wilson,,1,Music Farm,Charleston,SC,USA,>
+1991-11-10,1991,0,5,2,1,0,0,1,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,Music Farm,Charleston,SC,USA,>
+1991-11-10,1991,0,6,1,1,0,0,6,1991 Fall Tour,1991 Fall,Destiny Unbound,Destiny,1,Music Farm,Charleston,SC,USA,","
+1991-11-10,1991,0,7,2,1,0,0,212,1991 Fall Tour,1991 Fall,Rhombus Narration,,1,Music Farm,Charleston,SC,USA,>
+1991-11-10,1991,0,8,1,1,0,0,2,1991 Fall Tour,1991 Fall,Divided Sky,Divided,1,Music Farm,Charleston,SC,USA,","
+1991-11-10,1991,0,9,1,1,0,0,1,1991 Fall Tour,1991 Fall,Tube,,1,Music Farm,Charleston,SC,USA,","
+1991-11-10,1991,0,10,1,1,0,0,2,1991 Fall Tour,1991 Fall,I Didn't Know,IDK,1,Music Farm,Charleston,SC,USA,","
+1991-11-10,1991,0,11,1,1,0,0,1,1991 Fall Tour,1991 Fall,You Enjoy Myself,YEM,1,Music Farm,Charleston,SC,USA,","
+1991-11-10,1991,0,12,4,1,0,0,3,1991 Fall Tour,1991 Fall,Cavern,,1,Music Farm,Charleston,SC,USA,
+1991-11-10,1991,0,13,2,2,0,0,10,1991 Fall Tour,1991 Fall,Buried Alive,,1,Music Farm,Charleston,SC,USA,>
+1991-11-10,1991,0,14,1,2,0,0,2,1991 Fall Tour,1991 Fall,The Sloth,Sloth,1,Music Farm,Charleston,SC,USA,","
+1991-11-10,1991,0,15,1,2,0,0,6,1991 Fall Tour,1991 Fall,Uncle Pen,,0,Music Farm,Charleston,SC,USA,","
+1991-11-10,1991,0,16,1,2,0,0,3,1991 Fall Tour,1991 Fall,David Bowie,Bowie,1,Music Farm,Charleston,SC,USA,","
+1991-11-10,1991,0,17,1,2,0,0,2,1991 Fall Tour,1991 Fall,Fee,,1,Music Farm,Charleston,SC,USA,","
+1991-11-10,1991,0,18,1,2,0,0,2,1991 Fall Tour,1991 Fall,The Squirming Coil,Coil,1,Music Farm,Charleston,SC,USA,","
+1991-11-10,1991,0,19,2,2,0,0,9,1991 Fall Tour,1991 Fall,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Music Farm,Charleston,SC,USA,>
+1991-11-10,1991,0,20,1,2,0,0,2,1991 Fall Tour,1991 Fall,Suzy Greenberg,Suzy,1,Music Farm,Charleston,SC,USA,","
+1991-11-10,1991,0,21,1,2,0,0,3,1991 Fall Tour,1991 Fall,Take the 'A' Train,'A' Train,0,Music Farm,Charleston,SC,USA,","
+1991-11-10,1991,0,22,1,2,0,0,2,1991 Fall Tour,1991 Fall,Split Open and Melt,SOAMelt,1,Music Farm,Charleston,SC,USA,","
+1991-11-10,1991,0,23,2,2,0,0,1,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,Music Farm,Charleston,SC,USA,>
+1991-11-10,1991,0,24,2,2,0,0,1,1991 Fall Tour,1991 Fall,Terrapin,,0,Music Farm,Charleston,SC,USA,>
+1991-11-10,1991,0,25,1,2,0,0,0,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,Music Farm,Charleston,SC,USA,","
+1991-11-10,1991,0,26,1,2,0,0,3,1991 Fall Tour,1991 Fall,Memories,,0,Music Farm,Charleston,SC,USA,","
+1991-11-10,1991,0,27,6,2,0,0,1,1991 Fall Tour,1991 Fall,Llama,,1,Music Farm,Charleston,SC,USA,
+1991-11-12,1991,0,1,2,1,0,0,1,1991 Fall Tour,1991 Fall,Buried Alive,,1,The Georgia Theatre,Athens,GA,USA,>
+1991-11-12,1991,0,2,1,1,0,0,1,1991 Fall Tour,1991 Fall,Golgi Apparatus,Golgi,1,The Georgia Theatre,Athens,GA,USA,","
+1991-11-12,1991,0,3,1,1,0,0,1,1991 Fall Tour,1991 Fall,Uncle Pen,,0,The Georgia Theatre,Athens,GA,USA,","
+1991-11-12,1991,0,4,2,1,0,0,2,1991 Fall Tour,1991 Fall,Brother,,1,The Georgia Theatre,Athens,GA,USA,>
+1991-11-12,1991,0,5,1,1,0,0,4,1991 Fall Tour,1991 Fall,Bouncing Around the Room,Bouncin',1,The Georgia Theatre,Athens,GA,USA,","
+1991-11-12,1991,0,6,2,1,0,0,1,1991 Fall Tour,1991 Fall,Tube,,1,The Georgia Theatre,Athens,GA,USA,>
+1991-11-12,1991,0,7,1,1,0,0,1,1991 Fall Tour,1991 Fall,The Sloth,Sloth,1,The Georgia Theatre,Athens,GA,USA,","
+1991-11-12,1991,0,8,1,1,0,0,8,1991 Fall Tour,1991 Fall,Harry Hood,Hood,1,The Georgia Theatre,Athens,GA,USA,","
+1991-11-12,1991,0,9,2,1,0,0,1,1991 Fall Tour,1991 Fall,Fee,,1,The Georgia Theatre,Athens,GA,USA,>
+1991-11-12,1991,0,10,1,1,0,0,1,1991 Fall Tour,1991 Fall,Foam,,1,The Georgia Theatre,Athens,GA,USA,","
+1991-11-12,1991,0,11,4,1,0,0,1,1991 Fall Tour,1991 Fall,Llama,,1,The Georgia Theatre,Athens,GA,USA,
+1991-11-12,1991,0,12,2,2,0,0,3,1991 Fall Tour,1991 Fall,Dinner and a Movie,,1,The Georgia Theatre,Athens,GA,USA,>
+1991-11-12,1991,0,13,1,2,0,0,3,1991 Fall Tour,1991 Fall,Stash,,1,The Georgia Theatre,Athens,GA,USA,","
+1991-11-12,1991,0,14,1,2,0,0,1,1991 Fall Tour,1991 Fall,The Squirming Coil,Coil,1,The Georgia Theatre,Athens,GA,USA,","
+1991-11-12,1991,0,15,2,2,0,0,3,1991 Fall Tour,1991 Fall,Paul and Silas,,0,The Georgia Theatre,Athens,GA,USA,>
+1991-11-12,1991,0,16,2,2,0,0,3,1991 Fall Tour,1991 Fall,Mike's Song,Mike's,1,The Georgia Theatre,Athens,GA,USA,>
+1991-11-12,1991,0,17,2,2,0,0,3,1991 Fall Tour,1991 Fall,I Am Hydrogen,Hydrogen,1,The Georgia Theatre,Athens,GA,USA,>
+1991-11-12,1991,0,18,1,2,0,0,3,1991 Fall Tour,1991 Fall,Weekapaug Groove,Weekapaug,1,The Georgia Theatre,Athens,GA,USA,","
+1991-11-12,1991,0,19,1,2,0,0,3,1991 Fall Tour,1991 Fall,Guelah Papyrus,Guelah,1,The Georgia Theatre,Athens,GA,USA,","
+1991-11-12,1991,0,20,1,2,0,0,1,1991 Fall Tour,1991 Fall,Chalk Dust Torture,CDT,1,The Georgia Theatre,Athens,GA,USA,","
+1991-11-12,1991,0,21,2,2,0,0,17,1991 Fall Tour,1991 Fall,Magilla,,1,The Georgia Theatre,Athens,GA,USA,>
+1991-11-12,1991,0,22,2,2,0,0,1,1991 Fall Tour,1991 Fall,Cavern,,1,The Georgia Theatre,Athens,GA,USA,>
+1991-11-12,1991,0,23,2,2,0,0,1,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,The Georgia Theatre,Athens,GA,USA,>
+1991-11-12,1991,0,24,2,2,0,0,4,1991 Fall Tour,1991 Fall,Love You,,0,The Georgia Theatre,Athens,GA,USA,>
+1991-11-12,1991,0,25,1,2,0,0,0,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,The Georgia Theatre,Athens,GA,USA,","
+1991-11-12,1991,0,26,5,2,0,0,6,1991 Fall Tour,1991 Fall,Run Like an Antelope,Antelope,1,The Georgia Theatre,Athens,GA,USA,
+1991-11-12,1991,0,27,1,e,0,0,8,1991 Fall Tour,1991 Fall,Ya Mar,,0,The Georgia Theatre,Athens,GA,USA,","
+1991-11-12,1991,0,28,7,e,0,0,6,1991 Fall Tour,1991 Fall,Big Black Furry Creature from Mars,BBFCFM,1,The Georgia Theatre,Athens,GA,USA,
+1991-11-12,1991,0,29,1,e2,0,0,1,1991 Fall Tour,1991 Fall,Split Open and Melt,SOAMelt,1,The Georgia Theatre,Athens,GA,USA,","
+1991-11-12,1991,0,30,6,e2,0,0,1,1991 Fall Tour,1991 Fall,Memories,,0,The Georgia Theatre,Athens,GA,USA,
+1991-11-13,1991,0,1,2,1,0,0,2,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,"Love Auditorium, Davidson College",Davidson,NC,USA,>
+1991-11-13,1991,0,2,1,1,0,0,3,1991 Fall Tour,1991 Fall,Runaway Jim,,1,"Love Auditorium, Davidson College",Davidson,NC,USA,","
+1991-11-13,1991,0,3,2,1,0,0,3,1991 Fall Tour,1991 Fall,It's Ice,,1,"Love Auditorium, Davidson College",Davidson,NC,USA,>
+1991-11-13,1991,0,4,1,1,0,0,3,1991 Fall Tour,1991 Fall,Sparkle,,1,"Love Auditorium, Davidson College",Davidson,NC,USA,","
+1991-11-13,1991,0,5,1,1,0,0,1,1991 Fall Tour,1991 Fall,Chalk Dust Torture,CDT,1,"Love Auditorium, Davidson College",Davidson,NC,USA,","
+1991-11-13,1991,0,6,2,1,0,0,18,1991 Fall Tour,1991 Fall,Esther,,1,"Love Auditorium, Davidson College",Davidson,NC,USA,>
+1991-11-13,1991,0,7,2,1,0,0,1,1991 Fall Tour,1991 Fall,Cavern,,1,"Love Auditorium, Davidson College",Davidson,NC,USA,>
+1991-11-13,1991,0,8,2,1,0,0,2,1991 Fall Tour,1991 Fall,Rhombus Narration,,1,"Love Auditorium, Davidson College",Davidson,NC,USA,>
+1991-11-13,1991,0,9,1,1,0,0,2,1991 Fall Tour,1991 Fall,Divided Sky,Divided,1,"Love Auditorium, Davidson College",Davidson,NC,USA,","
+1991-11-13,1991,0,10,1,1,0,0,2,1991 Fall Tour,1991 Fall,I Didn't Know,IDK,1,"Love Auditorium, Davidson College",Davidson,NC,USA,","
+1991-11-13,1991,0,11,4,1,0,0,2,1991 Fall Tour,1991 Fall,You Enjoy Myself,YEM,1,"Love Auditorium, Davidson College",Davidson,NC,USA,
+1991-11-13,1991,0,12,1,2,0,0,2,1991 Fall Tour,1991 Fall,David Bowie,Bowie,1,"Love Auditorium, Davidson College",Davidson,NC,USA,","
+1991-11-13,1991,0,13,2,2,0,0,7,1991 Fall Tour,1991 Fall,Colonel Forbin's Ascent,Forbin's,1,"Love Auditorium, Davidson College",Davidson,NC,USA,>
+1991-11-13,1991,0,14,1,2,0,0,7,1991 Fall Tour,1991 Fall,Fly Famous Mockingbird,Mockingbird,1,"Love Auditorium, Davidson College",Davidson,NC,USA,","
+1991-11-13,1991,0,15,1,2,0,0,1,1991 Fall Tour,1991 Fall,Golgi Apparatus,Golgi,1,"Love Auditorium, Davidson College",Davidson,NC,USA,","
+1991-11-13,1991,0,16,1,2,0,0,9,1991 Fall Tour,1991 Fall,Bathtub Gin,Gin,1,"Love Auditorium, Davidson College",Davidson,NC,USA,","
+1991-11-13,1991,0,17,2,2,0,0,1,1991 Fall Tour,1991 Fall,The Squirming Coil,Coil,1,"Love Auditorium, Davidson College",Davidson,NC,USA,>
+1991-11-13,1991,0,18,1,2,0,0,1,1991 Fall Tour,1991 Fall,Llama,,1,"Love Auditorium, Davidson College",Davidson,NC,USA,","
+1991-11-13,1991,0,19,2,2,0,0,1,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,"Love Auditorium, Davidson College",Davidson,NC,USA,>
+1991-11-13,1991,0,20,2,2,0,0,2,1991 Fall Tour,1991 Fall,Terrapin,,0,"Love Auditorium, Davidson College",Davidson,NC,USA,>
+1991-11-13,1991,0,21,1,2,0,0,0,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,"Love Auditorium, Davidson College",Davidson,NC,USA,","
+1991-11-13,1991,0,22,5,2,0,0,3,1991 Fall Tour,1991 Fall,Possum,,1,"Love Auditorium, Davidson College",Davidson,NC,USA,
+1991-11-13,1991,0,23,1,e,0,0,3,1991 Fall Tour,1991 Fall,Horn,,1,"Love Auditorium, Davidson College",Davidson,NC,USA,","
+1991-11-13,1991,0,24,1,e,0,0,3,1991 Fall Tour,1991 Fall,My Sweet One,MSO,1,"Love Auditorium, Davidson College",Davidson,NC,USA,","
+1991-11-13,1991,0,25,6,e,0,0,3,1991 Fall Tour,1991 Fall,Sweet Adeline,,0,"Love Auditorium, Davidson College",Davidson,NC,USA,
+1991-11-14,1991,0,1,2,1,0,0,3,1991 Fall Tour,1991 Fall,Wilson,,1,Cat's Cradle,Chapel Hill,NC,USA,>
+1991-11-14,1991,0,2,1,1,0,0,2,1991 Fall Tour,1991 Fall,Uncle Pen,,0,Cat's Cradle,Chapel Hill,NC,USA,","
+1991-11-14,1991,0,3,1,1,0,0,1,1991 Fall Tour,1991 Fall,Llama,,1,Cat's Cradle,Chapel Hill,NC,USA,","
+1991-11-14,1991,0,4,1,1,0,0,4,1991 Fall Tour,1991 Fall,Reba,,1,Cat's Cradle,Chapel Hill,NC,USA,","
+1991-11-14,1991,0,5,1,1,0,0,2,1991 Fall Tour,1991 Fall,Foam,,1,Cat's Cradle,Chapel Hill,NC,USA,","
+1991-11-14,1991,0,6,2,1,0,0,2,1991 Fall Tour,1991 Fall,Tube,,1,Cat's Cradle,Chapel Hill,NC,USA,>
+1991-11-14,1991,0,7,1,1,0,0,1,1991 Fall Tour,1991 Fall,Sparkle,,1,Cat's Cradle,Chapel Hill,NC,USA,","
+1991-11-14,1991,0,8,1,1,0,0,2,1991 Fall Tour,1991 Fall,Brother,,1,Cat's Cradle,Chapel Hill,NC,USA,","
+1991-11-14,1991,0,9,1,1,0,0,5,1991 Fall Tour,1991 Fall,The Mango Song,Mango,1,Cat's Cradle,Chapel Hill,NC,USA,","
+1991-11-14,1991,0,10,2,1,0,0,1,1991 Fall Tour,1991 Fall,Golgi Apparatus,Golgi,1,Cat's Cradle,Chapel Hill,NC,USA,>
+1991-11-14,1991,0,11,4,1,0,0,1,1991 Fall Tour,1991 Fall,Runaway Jim,,1,Cat's Cradle,Chapel Hill,NC,USA,
+1991-11-14,1991,0,12,2,2,0,0,2,1991 Fall Tour,1991 Fall,Dinner and a Movie,,1,Cat's Cradle,Chapel Hill,NC,USA,>
+1991-11-14,1991,0,13,1,2,0,0,225,1991 Fall Tour,1991 Fall,Roll Like a Cantaloupe,,1,Cat's Cradle,Chapel Hill,NC,USA,","
+1991-11-14,1991,0,14,1,2,0,0,2,1991 Fall Tour,1991 Fall,Fee,,1,Cat's Cradle,Chapel Hill,NC,USA,","
+1991-11-14,1991,0,15,2,2,0,0,2,1991 Fall Tour,1991 Fall,Paul and Silas,,0,Cat's Cradle,Chapel Hill,NC,USA,>
+1991-11-14,1991,0,16,2,2,0,0,1,1991 Fall Tour,1991 Fall,It's Ice,,1,Cat's Cradle,Chapel Hill,NC,USA,>
+1991-11-14,1991,0,17,2,2,0,0,4,1991 Fall Tour,1991 Fall,Glide,,1,Cat's Cradle,Chapel Hill,NC,USA,>
+1991-11-14,1991,0,18,2,2,0,0,4,1991 Fall Tour,1991 Fall,Tweezer,,1,Cat's Cradle,Chapel Hill,NC,USA,>
+1991-11-14,1991,0,19,2,2,0,0,3,1991 Fall Tour,1991 Fall,Take the 'A' Train,'A' Train,0,Cat's Cradle,Chapel Hill,NC,USA,>
+1991-11-14,1991,0,20,2,2,0,0,1,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,Cat's Cradle,Chapel Hill,NC,USA,>
+1991-11-14,1991,0,21,2,2,0,0,22,1991 Fall Tour,1991 Fall,If I Only Had a Brain,,0,Cat's Cradle,Chapel Hill,NC,USA,>
+1991-11-14,1991,0,22,2,2,0,0,0,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,Cat's Cradle,Chapel Hill,NC,USA,>
+1991-11-14,1991,0,23,1,2,0,0,11,1991 Fall Tour,1991 Fall,The Lizards,Lizards,1,Cat's Cradle,Chapel Hill,NC,USA,","
+1991-11-14,1991,0,24,5,2,0,0,4,1991 Fall Tour,1991 Fall,Tweezer Reprise,Tweeprise,1,Cat's Cradle,Chapel Hill,NC,USA,
+1991-11-14,1991,0,25,1,e,0,0,2,1991 Fall Tour,1991 Fall,Bouncing Around the Room,Bouncin',1,Cat's Cradle,Chapel Hill,NC,USA,","
+1991-11-14,1991,0,26,7,e,0,0,17,1991 Fall Tour,1991 Fall,Good Times Bad Times,GTBT,0,Cat's Cradle,Chapel Hill,NC,USA,
+1991-11-14,1991,0,27,6,e2,0,0,1,1991 Fall Tour,1991 Fall,You Enjoy Myself,YEM,1,Cat's Cradle,Chapel Hill,NC,USA,
+1991-11-15,1991,0,1,1,1,0,0,2,1991 Fall Tour,1991 Fall,Chalk Dust Torture,CDT,1,Trax,Charlottesville,VA,USA,","
+1991-11-15,1991,0,2,1,1,0,0,1,1991 Fall Tour,1991 Fall,Sparkle,,1,Trax,Charlottesville,VA,USA,","
+1991-11-15,1991,0,3,1,1,0,0,2,1991 Fall Tour,1991 Fall,Cavern,,1,Trax,Charlottesville,VA,USA,","
+1991-11-15,1991,0,4,2,1,0,0,5,1991 Fall Tour,1991 Fall,The Curtain,Curtain,1,Trax,Charlottesville,VA,USA,>
+1991-11-15,1991,0,5,1,1,0,0,3,1991 Fall Tour,1991 Fall,Split Open and Melt,SOAMelt,1,Trax,Charlottesville,VA,USA,","
+1991-11-15,1991,0,6,1,1,0,0,2,1991 Fall Tour,1991 Fall,The Squirming Coil,Coil,1,Trax,Charlottesville,VA,USA,","
+1991-11-15,1991,0,7,2,1,0,0,2,1991 Fall Tour,1991 Fall,My Sweet One,MSO,1,Trax,Charlottesville,VA,USA,>
+1991-11-15,1991,0,8,1,1,0,0,3,1991 Fall Tour,1991 Fall,Guelah Papyrus,Guelah,1,Trax,Charlottesville,VA,USA,","
+1991-11-15,1991,0,9,2,1,0,0,2,1991 Fall Tour,1991 Fall,Rhombus Narration,,1,Trax,Charlottesville,VA,USA,>
+1991-11-15,1991,0,10,1,1,0,0,2,1991 Fall Tour,1991 Fall,Divided Sky,Divided,1,Trax,Charlottesville,VA,USA,","
+1991-11-15,1991,0,11,1,1,0,0,7,1991 Fall Tour,1991 Fall,Lawn Boy,,1,Trax,Charlottesville,VA,USA,","
+1991-11-15,1991,0,12,4,1,0,0,1,1991 Fall Tour,1991 Fall,Golgi Apparatus,Golgi,1,Trax,Charlottesville,VA,USA,
+1991-11-15,1991,0,13,2,2,0,0,1,1991 Fall Tour,1991 Fall,Llama,,1,Trax,Charlottesville,VA,USA,>
+1991-11-15,1991,0,14,1,2,0,0,2,1991 Fall Tour,1991 Fall,Bathtub Gin,Gin,1,Trax,Charlottesville,VA,USA,","
+1991-11-15,1991,0,15,1,2,0,0,5,1991 Fall Tour,1991 Fall,Poor Heart,,1,Trax,Charlottesville,VA,USA,","
+1991-11-15,1991,0,16,2,2,0,0,3,1991 Fall Tour,1991 Fall,Mike's Song,Mike's,1,Trax,Charlottesville,VA,USA,>
+1991-11-15,1991,0,17,2,2,0,0,3,1991 Fall Tour,1991 Fall,I Am Hydrogen,Hydrogen,1,Trax,Charlottesville,VA,USA,>
+1991-11-15,1991,0,18,1,2,0,0,3,1991 Fall Tour,1991 Fall,Weekapaug Groove,Weekapaug,1,Trax,Charlottesville,VA,USA,","
+1991-11-15,1991,0,19,1,2,0,0,6,1991 Fall Tour,1991 Fall,Eliza,,1,Trax,Charlottesville,VA,USA,","
+1991-11-15,1991,0,20,1,2,0,0,1,1991 Fall Tour,1991 Fall,Tube,,1,Trax,Charlottesville,VA,USA,","
+1991-11-15,1991,0,21,2,2,0,0,2,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,Trax,Charlottesville,VA,USA,>
+1991-11-15,1991,0,22,1,2,0,0,4,1991 Fall Tour,1991 Fall,Destiny Unbound,Destiny,1,Trax,Charlottesville,VA,USA,","
+1991-11-15,1991,0,23,1,2,0,0,3,1991 Fall Tour,1991 Fall,Harry Hood,Hood,1,Trax,Charlottesville,VA,USA,","
+1991-11-15,1991,0,24,2,2,0,0,1,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,Trax,Charlottesville,VA,USA,>
+1991-11-15,1991,0,25,2,2,0,0,3,1991 Fall Tour,1991 Fall,Love You,,0,Trax,Charlottesville,VA,USA,>
+1991-11-15,1991,0,26,1,2,0,0,0,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,Trax,Charlottesville,VA,USA,","
+1991-11-15,1991,0,27,2,2,0,0,1,1991 Fall Tour,1991 Fall,Bouncing Around the Room,Bouncin',1,Trax,Charlottesville,VA,USA,>
+1991-11-15,1991,0,28,5,2,0,0,2,1991 Fall Tour,1991 Fall,Possum,,1,Trax,Charlottesville,VA,USA,
+1991-11-15,1991,0,29,1,e,0,0,13,1991 Fall Tour,1991 Fall,Highway to Hell,,0,Trax,Charlottesville,VA,USA,","
+1991-11-15,1991,0,30,6,e,0,0,4,1991 Fall Tour,1991 Fall,Suzy Greenberg,Suzy,1,Trax,Charlottesville,VA,USA,
+1991-11-16,1991,0,1,1,1,0,0,1,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,The Bayou,Washington,DC,USA,","
+1991-11-16,1991,0,2,1,1,0,0,1,1991 Fall Tour,1991 Fall,Uncle Pen,,0,The Bayou,Washington,DC,USA,","
+1991-11-16,1991,0,3,2,1,0,0,2,1991 Fall Tour,1991 Fall,Wilson,,1,The Bayou,Washington,DC,USA,>
+1991-11-16,1991,0,4,1,1,0,0,2,1991 Fall Tour,1991 Fall,Runaway Jim,,1,The Bayou,Washington,DC,USA,","
+1991-11-16,1991,0,5,2,1,0,0,2,1991 Fall Tour,1991 Fall,It's Ice,,1,The Bayou,Washington,DC,USA,>
+1991-11-16,1991,0,6,2,1,0,0,1,1991 Fall Tour,1991 Fall,Sparkle,,1,The Bayou,Washington,DC,USA,>
+1991-11-16,1991,0,7,1,1,0,0,6,1991 Fall Tour,1991 Fall,Fluffhead,,1,The Bayou,Washington,DC,USA,","
+1991-11-16,1991,0,8,1,1,0,0,2,1991 Fall Tour,1991 Fall,Foam,,1,The Bayou,Washington,DC,USA,","
+1991-11-16,1991,0,9,1,1,0,0,4,1991 Fall Tour,1991 Fall,Stash,,1,The Bayou,Washington,DC,USA,","
+1991-11-16,1991,0,10,1,1,0,0,4,1991 Fall Tour,1991 Fall,Ya Mar,,0,The Bayou,Washington,DC,USA,","
+1991-11-16,1991,0,11,4,1,0,0,1,1991 Fall Tour,1991 Fall,Cavern,,1,The Bayou,Washington,DC,USA,
+1991-11-16,1991,0,12,2,2,0,0,1,1991 Fall Tour,1991 Fall,Tube,,1,The Bayou,Washington,DC,USA,>
+1991-11-16,1991,0,13,2,2,0,0,0,1991 Fall Tour,1991 Fall,My Sweet One,MSO,1,The Bayou,Washington,DC,USA,>
+1991-11-16,1991,0,14,1,2,0,0,1,1991 Fall Tour,1991 Fall,Bathtub Gin,Gin,1,The Bayou,Washington,DC,USA,","
+1991-11-16,1991,0,15,1,2,0,0,1,1991 Fall Tour,1991 Fall,Brother,,1,The Bayou,Washington,DC,USA,","
+1991-11-16,1991,0,16,1,2,0,0,2,1991 Fall Tour,1991 Fall,You Enjoy Myself,YEM,1,The Bayou,Washington,DC,USA,","
+1991-11-16,1991,0,17,2,2,0,0,3,1991 Fall Tour,1991 Fall,Horn,,1,The Bayou,Washington,DC,USA,>
+1991-11-16,1991,0,18,1,2,0,0,1,1991 Fall Tour,1991 Fall,Chalk Dust Torture,CDT,1,The Bayou,Washington,DC,USA,","
+1991-11-16,1991,0,19,2,2,0,0,0,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,The Bayou,Washington,DC,USA,>
+1991-11-16,1991,0,20,2,2,0,0,2,1991 Fall Tour,1991 Fall,Terrapin,,0,The Bayou,Washington,DC,USA,>
+1991-11-16,1991,0,21,1,2,0,0,0,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,The Bayou,Washington,DC,USA,","
+1991-11-16,1991,0,22,5,2,0,0,1,1991 Fall Tour,1991 Fall,Llama,,1,The Bayou,Washington,DC,USA,
+1991-11-16,1991,0,23,1,e,0,0,1,1991 Fall Tour,1991 Fall,Glide,,1,The Bayou,Washington,DC,USA,","
+1991-11-16,1991,0,24,6,e,0,0,8,1991 Fall Tour,1991 Fall,Rocky Top,,0,The Bayou,Washington,DC,USA,
+1991-11-19,1991,0,1,1,1,0,0,1,1991 Fall Tour,1991 Fall,Uncle Pen,,0,The Sting,New Britain,CT,USA,","
+1991-11-19,1991,0,2,1,1,0,0,1,1991 Fall Tour,1991 Fall,Foam,,1,The Sting,New Britain,CT,USA,","
+1991-11-19,1991,0,3,1,1,0,0,1,1991 Fall Tour,1991 Fall,Runaway Jim,,1,The Sting,New Britain,CT,USA,","
+1991-11-19,1991,0,4,2,1,0,0,3,1991 Fall Tour,1991 Fall,Fee,,1,The Sting,New Britain,CT,USA,>
+1991-11-19,1991,0,5,1,1,0,0,1,1991 Fall Tour,1991 Fall,Sparkle,,1,The Sting,New Britain,CT,USA,","
+1991-11-19,1991,0,6,1,1,0,0,1,1991 Fall Tour,1991 Fall,Brother,,1,The Sting,New Britain,CT,USA,","
+1991-11-19,1991,0,7,2,1,0,0,1,1991 Fall Tour,1991 Fall,Horn,,1,The Sting,New Britain,CT,USA,>
+1991-11-19,1991,0,8,1,1,0,0,1,1991 Fall Tour,1991 Fall,Chalk Dust Torture,CDT,1,The Sting,New Britain,CT,USA,","
+1991-11-19,1991,0,9,2,1,0,0,1,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,The Sting,New Britain,CT,USA,>
+1991-11-19,1991,0,10,2,1,0,0,2,1991 Fall Tour,1991 Fall,Love You,,0,The Sting,New Britain,CT,USA,>
+1991-11-19,1991,0,11,1,1,0,0,0,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,The Sting,New Britain,CT,USA,","
+1991-11-19,1991,0,12,2,1,0,0,1,1991 Fall Tour,1991 Fall,Wilson,,1,The Sting,New Britain,CT,USA,>
+1991-11-19,1991,0,13,4,1,0,0,2,1991 Fall Tour,1991 Fall,Divided Sky,Divided,1,The Sting,New Britain,CT,USA,
+1991-11-19,1991,0,14,1,2,0,0,1,1991 Fall Tour,1991 Fall,Tube,,1,The Sting,New Britain,CT,USA,","
+1991-11-19,1991,0,15,2,2,0,0,1,1991 Fall Tour,1991 Fall,My Sweet One,MSO,1,The Sting,New Britain,CT,USA,>
+1991-11-19,1991,0,16,2,2,0,0,2,1991 Fall Tour,1991 Fall,Mike's Song,Mike's,1,The Sting,New Britain,CT,USA,>
+1991-11-19,1991,0,17,2,2,0,0,2,1991 Fall Tour,1991 Fall,I Am Hydrogen,Hydrogen,1,The Sting,New Britain,CT,USA,>
+1991-11-19,1991,0,18,1,2,0,0,2,1991 Fall Tour,1991 Fall,Weekapaug Groove,Weekapaug,1,The Sting,New Britain,CT,USA,","
+1991-11-19,1991,0,19,1,2,0,0,3,1991 Fall Tour,1991 Fall,The Mango Song,Mango,1,The Sting,New Britain,CT,USA,","
+1991-11-19,1991,0,20,1,2,0,0,5,1991 Fall Tour,1991 Fall,The Sloth,Sloth,1,The Sting,New Britain,CT,USA,","
+1991-11-19,1991,0,21,1,2,0,0,3,1991 Fall Tour,1991 Fall,Reba,,1,The Sting,New Britain,CT,USA,","
+1991-11-19,1991,0,22,2,2,0,0,3,1991 Fall Tour,1991 Fall,Dinner and a Movie,,1,The Sting,New Britain,CT,USA,>
+1991-11-19,1991,0,23,2,2,0,0,1,1991 Fall Tour,1991 Fall,Cavern,,1,The Sting,New Britain,CT,USA,>
+1991-11-19,1991,0,24,5,2,0,0,4,1991 Fall Tour,1991 Fall,David Bowie,Bowie,1,The Sting,New Britain,CT,USA,
+1991-11-19,1991,0,25,2,e,0,0,1,1991 Fall Tour,1991 Fall,Glide,,1,The Sting,New Britain,CT,USA,>
+1991-11-19,1991,0,26,6,e,0,0,1,1991 Fall Tour,1991 Fall,Rocky Top,,0,The Sting,New Britain,CT,USA,
+1991-11-20,1991,0,1,2,1,0,0,6,1991 Fall Tour,1991 Fall,Buried Alive,,1,Campus Club,Providence,RI,USA,>
+1991-11-20,1991,0,2,1,1,0,0,3,1991 Fall Tour,1991 Fall,Possum,,1,Campus Club,Providence,RI,USA,","
+1991-11-20,1991,0,3,2,1,0,0,5,1991 Fall Tour,1991 Fall,Colonel Forbin's Ascent,Forbin's,1,Campus Club,Providence,RI,USA,>
+1991-11-20,1991,0,4,2,1,0,0,5,1991 Fall Tour,1991 Fall,Fly Famous Mockingbird,Mockingbird,1,Campus Club,Providence,RI,USA,>
+1991-11-20,1991,0,5,1,1,0,0,1,1991 Fall Tour,1991 Fall,Sparkle,,1,Campus Club,Providence,RI,USA,","
+1991-11-20,1991,0,6,1,1,0,0,2,1991 Fall Tour,1991 Fall,Stash,,1,Campus Club,Providence,RI,USA,","
+1991-11-20,1991,0,7,2,1,0,0,4,1991 Fall Tour,1991 Fall,Paul and Silas,,0,Campus Club,Providence,RI,USA,>
+1991-11-20,1991,0,8,1,1,0,0,2,1991 Fall Tour,1991 Fall,Bathtub Gin,Gin,1,Campus Club,Providence,RI,USA,","
+1991-11-20,1991,0,9,2,1,0,0,3,1991 Fall Tour,1991 Fall,The Squirming Coil,Coil,1,Campus Club,Providence,RI,USA,>
+1991-11-20,1991,0,10,1,1,0,0,2,1991 Fall Tour,1991 Fall,Llama,,1,Campus Club,Providence,RI,USA,","
+1991-11-20,1991,0,11,4,1,0,0,2,1991 Fall Tour,1991 Fall,You Enjoy Myself,YEM,1,Campus Club,Providence,RI,USA,
+1991-11-20,1991,0,12,2,2,0,0,3,1991 Fall Tour,1991 Fall,Golgi Apparatus,Golgi,1,Campus Club,Providence,RI,USA,>
+1991-11-20,1991,0,13,2,2,0,0,2,1991 Fall Tour,1991 Fall,It's Ice,,1,Campus Club,Providence,RI,USA,>
+1991-11-20,1991,0,14,2,2,0,0,1,1991 Fall Tour,1991 Fall,My Sweet One,MSO,1,Campus Club,Providence,RI,USA,>
+1991-11-20,1991,0,15,1,2,0,0,6,1991 Fall Tour,1991 Fall,Run Like an Antelope,Antelope,1,Campus Club,Providence,RI,USA,","
+1991-11-20,1991,0,16,1,2,0,0,8,1991 Fall Tour,1991 Fall,Tela,,1,Campus Club,Providence,RI,USA,","
+1991-11-20,1991,0,17,1,2,0,0,2,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,Campus Club,Providence,RI,USA,","
+1991-11-20,1991,0,18,2,2,0,0,1,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,Campus Club,Providence,RI,USA,>
+1991-11-20,1991,0,19,2,2,0,0,57,1991 Fall Tour,1991 Fall,Bike,,0,Campus Club,Providence,RI,USA,>
+1991-11-20,1991,0,20,1,2,0,0,0,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,Campus Club,Providence,RI,USA,","
+1991-11-20,1991,0,21,5,2,0,0,1,1991 Fall Tour,1991 Fall,Cavern,,1,Campus Club,Providence,RI,USA,
+1991-11-20,1991,0,22,2,e,0,0,6,1991 Fall Tour,1991 Fall,Magilla,,1,Campus Club,Providence,RI,USA,>
+1991-11-20,1991,0,23,6,e,0,0,1,1991 Fall Tour,1991 Fall,Brother,,1,Campus Club,Providence,RI,USA,
+1991-11-21,1991,0,1,1,1,0,0,2,1991 Fall Tour,1991 Fall,Chalk Dust Torture,CDT,1,Somerville Theatre,Somerville,MA,USA,","
+1991-11-21,1991,0,2,1,1,0,0,4,1991 Fall Tour,1991 Fall,Bouncing Around the Room,Bouncin',1,Somerville Theatre,Somerville,MA,USA,","
+1991-11-21,1991,0,3,2,1,0,0,4,1991 Fall Tour,1991 Fall,Poor Heart,,1,Somerville Theatre,Somerville,MA,USA,>
+1991-11-21,1991,0,4,1,1,0,0,4,1991 Fall Tour,1991 Fall,Guelah Papyrus,Guelah,1,Somerville Theatre,Somerville,MA,USA,","
+1991-11-21,1991,0,5,1,1,0,0,2,1991 Fall Tour,1991 Fall,Reba,,1,Somerville Theatre,Somerville,MA,USA,","
+1991-11-21,1991,0,6,1,1,0,0,2,1991 Fall Tour,1991 Fall,Foam,,1,Somerville Theatre,Somerville,MA,USA,","
+1991-11-21,1991,0,7,1,1,0,0,2,1991 Fall Tour,1991 Fall,Horn,,1,Somerville Theatre,Somerville,MA,USA,","
+1991-11-21,1991,0,8,1,1,0,0,4,1991 Fall Tour,1991 Fall,Split Open and Melt,SOAMelt,1,Somerville Theatre,Somerville,MA,USA,","
+1991-11-21,1991,0,9,2,1,0,0,6,1991 Fall Tour,1991 Fall,Esther,,1,Somerville Theatre,Somerville,MA,USA,>
+1991-11-21,1991,0,10,2,1,0,0,2,1991 Fall Tour,1991 Fall,Mike's Song,Mike's,1,Somerville Theatre,Somerville,MA,USA,>
+1991-11-21,1991,0,11,2,1,0,0,2,1991 Fall Tour,1991 Fall,I Am Hydrogen,Hydrogen,1,Somerville Theatre,Somerville,MA,USA,>
+1991-11-21,1991,0,12,4,1,0,0,2,1991 Fall Tour,1991 Fall,Weekapaug Groove,Weekapaug,1,Somerville Theatre,Somerville,MA,USA,
+1991-11-21,1991,0,13,2,2,0,0,2,1991 Fall Tour,1991 Fall,Wilson,,1,Somerville Theatre,Somerville,MA,USA,>
+1991-11-21,1991,0,14,1,2,0,0,4,1991 Fall Tour,1991 Fall,Harry Hood,Hood,1,Somerville Theatre,Somerville,MA,USA,","
+1991-11-21,1991,0,15,1,2,0,0,1,1991 Fall Tour,1991 Fall,It's Ice,,1,Somerville Theatre,Somerville,MA,USA,","
+1991-11-21,1991,0,16,1,2,0,0,2,1991 Fall Tour,1991 Fall,The Mango Song,Mango,1,Somerville Theatre,Somerville,MA,USA,","
+1991-11-21,1991,0,17,1,2,0,0,2,1991 Fall Tour,1991 Fall,Uncle Pen,,0,Somerville Theatre,Somerville,MA,USA,","
+1991-11-21,1991,0,18,3,2,0,0,5,1991 Fall Tour,1991 Fall,Tweezer,,1,Somerville Theatre,Somerville,MA,USA,->
+1991-11-21,1991,0,19,2,2,0,0,13,1991 Fall Tour,1991 Fall,The Man Who Stepped Into Yesterday,TMWSIY,1,Somerville Theatre,Somerville,MA,USA,>
+1991-11-21,1991,0,20,2,2,0,0,13,1991 Fall Tour,1991 Fall,Avenu Malkenu,,0,Somerville Theatre,Somerville,MA,USA,>
+1991-11-21,1991,0,21,2,2,0,0,0,1991 Fall Tour,1991 Fall,The Man Who Stepped Into Yesterday,TMWSIY,1,Somerville Theatre,Somerville,MA,USA,>
+1991-11-21,1991,0,22,5,2,0,0,2,1991 Fall Tour,1991 Fall,Runaway Jim,,1,Somerville Theatre,Somerville,MA,USA,
+1991-11-21,1991,0,23,1,e,0,0,7,1991 Fall Tour,1991 Fall,Memories,,0,Somerville Theatre,Somerville,MA,USA,","
+1991-11-21,1991,0,24,1,e,0,0,6,1991 Fall Tour,1991 Fall,Sweet Adeline,,0,Somerville Theatre,Somerville,MA,USA,","
+1991-11-21,1991,0,25,6,e,0,0,1,1991 Fall Tour,1991 Fall,Golgi Apparatus,Golgi,1,Somerville Theatre,Somerville,MA,USA,
+1991-11-22,1991,0,1,1,1,0,0,2,1991 Fall Tour,1991 Fall,Possum,,1,"Sullivan Gymnasium, University of Southern Maine",Portland,ME,USA,","
+1991-11-22,1991,0,2,2,1,0,0,2,1991 Fall Tour,1991 Fall,Cavern,,1,"Sullivan Gymnasium, University of Southern Maine",Portland,ME,USA,>
+1991-11-22,1991,0,3,1,1,0,0,2,1991 Fall Tour,1991 Fall,Sparkle,,1,"Sullivan Gymnasium, University of Southern Maine",Portland,ME,USA,","
+1991-11-22,1991,0,4,1,1,0,0,2,1991 Fall Tour,1991 Fall,Brother,,1,"Sullivan Gymnasium, University of Southern Maine",Portland,ME,USA,","
+1991-11-22,1991,0,5,2,1,0,0,3,1991 Fall Tour,1991 Fall,Fee,,1,"Sullivan Gymnasium, University of Southern Maine",Portland,ME,USA,>
+1991-11-22,1991,0,6,1,1,0,0,1,1991 Fall Tour,1991 Fall,Foam,,1,"Sullivan Gymnasium, University of Southern Maine",Portland,ME,USA,","
+1991-11-22,1991,0,7,1,1,0,0,3,1991 Fall Tour,1991 Fall,Divided Sky,Divided,1,"Sullivan Gymnasium, University of Southern Maine",Portland,ME,USA,","
+1991-11-22,1991,0,8,1,1,0,0,5,1991 Fall Tour,1991 Fall,Lawn Boy,,1,"Sullivan Gymnasium, University of Southern Maine",Portland,ME,USA,","
+1991-11-22,1991,0,9,1,1,0,0,3,1991 Fall Tour,1991 Fall,Dinner and a Movie,,1,"Sullivan Gymnasium, University of Southern Maine",Portland,ME,USA,","
+1991-11-22,1991,0,10,1,1,0,0,2,1991 Fall Tour,1991 Fall,Stash,,1,"Sullivan Gymnasium, University of Southern Maine",Portland,ME,USA,","
+1991-11-22,1991,0,11,4,1,0,0,3,1991 Fall Tour,1991 Fall,Rocky Top,,0,"Sullivan Gymnasium, University of Southern Maine",Portland,ME,USA,
+1991-11-22,1991,0,12,2,2,0,0,3,1991 Fall Tour,1991 Fall,Tube,,1,"Sullivan Gymnasium, University of Southern Maine",Portland,ME,USA,>
+1991-11-22,1991,0,13,1,2,0,0,2,1991 Fall Tour,1991 Fall,My Sweet One,MSO,1,"Sullivan Gymnasium, University of Southern Maine",Portland,ME,USA,","
+1991-11-22,1991,0,14,2,2,0,0,2,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,"Sullivan Gymnasium, University of Southern Maine",Portland,ME,USA,>
+1991-11-22,1991,0,15,1,2,0,0,2,1991 Fall Tour,1991 Fall,Bathtub Gin,Gin,1,"Sullivan Gymnasium, University of Southern Maine",Portland,ME,USA,","
+1991-11-22,1991,0,16,1,2,0,0,2,1991 Fall Tour,1991 Fall,Run Like an Antelope,Antelope,1,"Sullivan Gymnasium, University of Southern Maine",Portland,ME,USA,","
+1991-11-22,1991,0,17,1,2,0,0,2,1991 Fall Tour,1991 Fall,The Squirming Coil,Coil,1,"Sullivan Gymnasium, University of Southern Maine",Portland,ME,USA,","
+1991-11-22,1991,0,18,1,2,0,0,7,1991 Fall Tour,1991 Fall,I Didn't Know,IDK,1,"Sullivan Gymnasium, University of Southern Maine",Portland,ME,USA,","
+1991-11-22,1991,0,19,1,2,0,0,2,1991 Fall Tour,1991 Fall,Llama,,1,"Sullivan Gymnasium, University of Southern Maine",Portland,ME,USA,","
+1991-11-22,1991,0,20,1,2,0,0,6,1991 Fall Tour,1991 Fall,The Lizards,Lizards,1,"Sullivan Gymnasium, University of Southern Maine",Portland,ME,USA,","
+1991-11-22,1991,0,21,5,2,0,0,2,1991 Fall Tour,1991 Fall,You Enjoy Myself,YEM,1,"Sullivan Gymnasium, University of Southern Maine",Portland,ME,USA,
+1991-11-22,1991,0,22,1,e,0,0,3,1991 Fall Tour,1991 Fall,Glide,,1,"Sullivan Gymnasium, University of Southern Maine",Portland,ME,USA,","
+1991-11-22,1991,0,23,6,e,0,0,5,1991 Fall Tour,1991 Fall,Suzy Greenberg,Suzy,1,"Sullivan Gymnasium, University of Southern Maine",Portland,ME,USA,
+1991-11-23,1991,0,1,1,1,0,0,1,1991 Fall Tour,1991 Fall,Llama,,1,Alumni Hall,Barre,VT,USA,","
+1991-11-23,1991,0,2,1,1,0,0,2,1991 Fall Tour,1991 Fall,Reba,,1,Alumni Hall,Barre,VT,USA,","
+1991-11-23,1991,0,3,1,1,0,0,1,1991 Fall Tour,1991 Fall,Foam,,1,Alumni Hall,Barre,VT,USA,","
+1991-11-23,1991,0,4,1,1,0,0,2,1991 Fall Tour,1991 Fall,Runaway Jim,,1,Alumni Hall,Barre,VT,USA,","
+1991-11-23,1991,0,5,2,1,0,0,2,1991 Fall Tour,1991 Fall,Guelah Papyrus,Guelah,1,Alumni Hall,Barre,VT,USA,>
+1991-11-23,1991,0,6,1,1,0,0,1,1991 Fall Tour,1991 Fall,Sparkle,,1,Alumni Hall,Barre,VT,USA,","
+1991-11-23,1991,0,7,1,1,0,0,2,1991 Fall Tour,1991 Fall,Chalk Dust Torture,CDT,1,Alumni Hall,Barre,VT,USA,","
+1991-11-23,1991,0,8,1,1,0,0,2,1991 Fall Tour,1991 Fall,Uncle Pen,,0,Alumni Hall,Barre,VT,USA,","
+1991-11-23,1991,0,9,1,1,0,0,1,1991 Fall Tour,1991 Fall,Brother,,1,Alumni Hall,Barre,VT,USA,","
+1991-11-23,1991,0,10,1,1,0,0,2,1991 Fall Tour,1991 Fall,Bouncing Around the Room,Bouncin',1,Alumni Hall,Barre,VT,USA,","
+1991-11-23,1991,0,11,4,1,0,0,2,1991 Fall Tour,1991 Fall,Golgi Apparatus,Golgi,1,Alumni Hall,Barre,VT,USA,
+1991-11-23,1991,0,12,2,2,0,0,6,1991 Fall Tour,1991 Fall,The Curtain,Curtain,1,Alumni Hall,Barre,VT,USA,>
+1991-11-23,1991,0,13,2,2,0,0,2,1991 Fall Tour,1991 Fall,Mike's Song,Mike's,1,Alumni Hall,Barre,VT,USA,>
+1991-11-23,1991,0,14,2,2,0,0,2,1991 Fall Tour,1991 Fall,I Am Hydrogen,Hydrogen,1,Alumni Hall,Barre,VT,USA,>
+1991-11-23,1991,0,15,1,2,0,0,2,1991 Fall Tour,1991 Fall,Weekapaug Groove,Weekapaug,1,Alumni Hall,Barre,VT,USA,","
+1991-11-23,1991,0,16,1,2,0,0,2,1991 Fall Tour,1991 Fall,Horn,,1,Alumni Hall,Barre,VT,USA,","
+1991-11-23,1991,0,17,2,2,0,0,2,1991 Fall Tour,1991 Fall,Poor Heart,,1,Alumni Hall,Barre,VT,USA,>
+1991-11-23,1991,0,18,1,2,0,0,2,1991 Fall Tour,1991 Fall,Tweezer,,1,Alumni Hall,Barre,VT,USA,","
+1991-11-23,1991,0,19,1,2,0,0,6,1991 Fall Tour,1991 Fall,Eliza,,1,Alumni Hall,Barre,VT,USA,","
+1991-11-23,1991,0,20,1,2,0,0,1,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,Alumni Hall,Barre,VT,USA,","
+1991-11-23,1991,0,21,2,2,0,0,1,1991 Fall Tour,1991 Fall,Fee,,1,Alumni Hall,Barre,VT,USA,>
+1991-11-23,1991,0,22,2,2,0,0,3,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,Alumni Hall,Barre,VT,USA,>
+1991-11-23,1991,0,23,2,2,0,0,4,1991 Fall Tour,1991 Fall,Love You,,0,Alumni Hall,Barre,VT,USA,>
+1991-11-23,1991,0,24,1,2,0,0,0,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,Alumni Hall,Barre,VT,USA,","
+1991-11-23,1991,0,25,2,2,0,0,1,1991 Fall Tour,1991 Fall,My Sweet One,MSO,1,Alumni Hall,Barre,VT,USA,>
+1991-11-23,1991,0,26,5,2,0,0,7,1991 Fall Tour,1991 Fall,Tweezer Reprise,Tweeprise,1,Alumni Hall,Barre,VT,USA,
+1991-11-23,1991,0,27,2,e,0,0,12,1991 Fall Tour,1991 Fall,Jesus Just Left Chicago,JJLC,0,Alumni Hall,Barre,VT,USA,>
+1991-11-23,1991,0,28,6,e,0,0,9,1991 Fall Tour,1991 Fall,Big Black Furry Creature from Mars,BBFCFM,1,Alumni Hall,Barre,VT,USA,
+1991-11-24,1991,0,1,1,1,0,0,5,1991 Fall Tour,1991 Fall,The Sloth,Sloth,1,"Webster Hall, Dartmouth College",Hanover,NH,USA,","
+1991-11-24,1991,0,2,1,1,0,0,4,1991 Fall Tour,1991 Fall,Paul and Silas,,0,"Webster Hall, Dartmouth College",Hanover,NH,USA,","
+1991-11-24,1991,0,3,1,1,0,0,2,1991 Fall Tour,1991 Fall,Stash,,1,"Webster Hall, Dartmouth College",Hanover,NH,USA,","
+1991-11-24,1991,0,4,1,1,0,0,2,1991 Fall Tour,1991 Fall,The Squirming Coil,Coil,1,"Webster Hall, Dartmouth College",Hanover,NH,USA,","
+1991-11-24,1991,0,5,2,1,0,0,1,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,"Webster Hall, Dartmouth College",Hanover,NH,USA,>
+1991-11-24,1991,0,6,2,1,0,0,6,1991 Fall Tour,1991 Fall,Fluffhead,,1,"Webster Hall, Dartmouth College",Hanover,NH,USA,>
+1991-11-24,1991,0,7,1,1,0,0,1,1991 Fall Tour,1991 Fall,Sparkle,,1,"Webster Hall, Dartmouth College",Hanover,NH,USA,","
+1991-11-24,1991,0,8,2,1,0,0,3,1991 Fall Tour,1991 Fall,It's Ice,,1,"Webster Hall, Dartmouth College",Hanover,NH,USA,>
+1991-11-24,1991,0,9,2,1,0,0,2,1991 Fall Tour,1991 Fall,I Didn't Know,IDK,1,"Webster Hall, Dartmouth College",Hanover,NH,USA,>
+1991-11-24,1991,0,10,4,1,0,0,5,1991 Fall Tour,1991 Fall,David Bowie,Bowie,1,"Webster Hall, Dartmouth College",Hanover,NH,USA,
+1991-11-24,1991,0,11,2,2,0,0,2,1991 Fall Tour,1991 Fall,Tube,,1,"Webster Hall, Dartmouth College",Hanover,NH,USA,>
+1991-11-24,1991,0,12,1,2,0,0,2,1991 Fall Tour,1991 Fall,Divided Sky,Divided,1,"Webster Hall, Dartmouth College",Hanover,NH,USA,","
+1991-11-24,1991,0,13,2,2,0,0,2,1991 Fall Tour,1991 Fall,Cavern,,1,"Webster Hall, Dartmouth College",Hanover,NH,USA,>
+1991-11-24,1991,0,14,2,2,0,0,3,1991 Fall Tour,1991 Fall,The Mango Song,Mango,1,"Webster Hall, Dartmouth College",Hanover,NH,USA,>
+1991-11-24,1991,0,15,1,2,0,0,1,1991 Fall Tour,1991 Fall,Chalk Dust Torture,CDT,1,"Webster Hall, Dartmouth College",Hanover,NH,USA,","
+1991-11-24,1991,0,16,1,2,0,0,8,1991 Fall Tour,1991 Fall,Take the 'A' Train,'A' Train,0,"Webster Hall, Dartmouth College",Hanover,NH,USA,","
+1991-11-24,1991,0,17,1,2,0,0,2,1991 Fall Tour,1991 Fall,You Enjoy Myself,YEM,1,"Webster Hall, Dartmouth College",Hanover,NH,USA,","
+1991-11-24,1991,0,18,5,2,0,0,1,1991 Fall Tour,1991 Fall,Golgi Apparatus,Golgi,1,"Webster Hall, Dartmouth College",Hanover,NH,USA,
+1991-11-24,1991,0,19,1,e,0,0,3,1991 Fall Tour,1991 Fall,Sweet Adeline,,0,"Webster Hall, Dartmouth College",Hanover,NH,USA,","
+1991-11-24,1991,0,20,6,e,0,0,2,1991 Fall Tour,1991 Fall,Rocky Top,,0,"Webster Hall, Dartmouth College",Hanover,NH,USA,
+1991-11-30,1991,0,1,1,1,0,0,3,1991 Fall Tour,1991 Fall,Glide,,1,The Capitol Theatre,Port Chester,NY,USA,","
+1991-11-30,1991,0,2,1,1,0,0,2,1991 Fall Tour,1991 Fall,Llama,,1,The Capitol Theatre,Port Chester,NY,USA,","
+1991-11-30,1991,0,3,1,1,0,0,2,1991 Fall Tour,1991 Fall,Foam,,1,The Capitol Theatre,Port Chester,NY,USA,","
+1991-11-30,1991,0,4,1,1,0,0,1,1991 Fall Tour,1991 Fall,Sparkle,,1,The Capitol Theatre,Port Chester,NY,USA,","
+1991-11-30,1991,0,5,1,1,0,0,1,1991 Fall Tour,1991 Fall,Divided Sky,Divided,1,The Capitol Theatre,Port Chester,NY,USA,","
+1991-11-30,1991,0,6,1,1,0,0,1,1991 Fall Tour,1991 Fall,Cavern,,1,The Capitol Theatre,Port Chester,NY,USA,","
+1991-11-30,1991,0,7,2,1,0,0,1,1991 Fall Tour,1991 Fall,The Squirming Coil,Coil,1,The Capitol Theatre,Port Chester,NY,USA,>
+1991-11-30,1991,0,8,1,1,0,0,2,1991 Fall Tour,1991 Fall,Brother,,1,The Capitol Theatre,Port Chester,NY,USA,","
+1991-11-30,1991,0,9,2,1,0,0,1,1991 Fall Tour,1991 Fall,Paul and Silas,,0,The Capitol Theatre,Port Chester,NY,USA,>
+1991-11-30,1991,0,10,1,1,0,0,2,1991 Fall Tour,1991 Fall,Guelah Papyrus,Guelah,1,The Capitol Theatre,Port Chester,NY,USA,","
+1991-11-30,1991,0,11,4,1,0,0,1,1991 Fall Tour,1991 Fall,You Enjoy Myself,YEM,1,The Capitol Theatre,Port Chester,NY,USA,
+1991-11-30,1991,0,12,1,2,0,0,1,1991 Fall Tour,1991 Fall,Chalk Dust Torture,CDT,1,The Capitol Theatre,Port Chester,NY,USA,","
+1991-11-30,1991,0,13,1,2,0,0,2,1991 Fall Tour,1991 Fall,Uncle Pen,,0,The Capitol Theatre,Port Chester,NY,USA,","
+1991-11-30,1991,0,14,1,2,0,0,4,1991 Fall Tour,1991 Fall,Harry Hood,Hood,1,The Capitol Theatre,Port Chester,NY,USA,","
+1991-11-30,1991,0,15,2,2,0,0,1,1991 Fall Tour,1991 Fall,It's Ice,,1,The Capitol Theatre,Port Chester,NY,USA,>
+1991-11-30,1991,0,16,1,2,0,0,2,1991 Fall Tour,1991 Fall,Bouncing Around the Room,Bouncin',1,The Capitol Theatre,Port Chester,NY,USA,","
+1991-11-30,1991,0,17,2,2,0,0,2,1991 Fall Tour,1991 Fall,My Sweet One,MSO,1,The Capitol Theatre,Port Chester,NY,USA,>
+1991-11-30,1991,0,18,1,2,0,0,2,1991 Fall Tour,1991 Fall,Horn,,1,The Capitol Theatre,Port Chester,NY,USA,","
+1991-11-30,1991,0,19,2,2,0,0,1,1991 Fall Tour,1991 Fall,I Didn't Know,IDK,1,The Capitol Theatre,Port Chester,NY,USA,>
+1991-11-30,1991,0,20,1,2,0,0,3,1991 Fall Tour,1991 Fall,Run Like an Antelope,Antelope,1,The Capitol Theatre,Port Chester,NY,USA,","
+1991-11-30,1991,0,21,5,2,0,0,1,1991 Fall Tour,1991 Fall,Golgi Apparatus,Golgi,1,The Capitol Theatre,Port Chester,NY,USA,
+1991-11-30,1991,0,22,2,e,0,0,17,1991 Fall Tour,1991 Fall,Contact,,1,The Capitol Theatre,Port Chester,NY,USA,>
+1991-11-30,1991,0,23,6,e,0,0,1,1991 Fall Tour,1991 Fall,Rocky Top,,0,The Capitol Theatre,Port Chester,NY,USA,
+1991-12-04,1991,0,1,1,1,0,0,1,1991 Fall Tour,1991 Fall,Llama,,1,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,","
+1991-12-04,1991,0,2,1,1,0,0,3,1991 Fall Tour,1991 Fall,Reba,,1,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,","
+1991-12-04,1991,0,3,2,1,0,0,2,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,>
+1991-12-04,1991,0,4,1,1,0,0,3,1991 Fall Tour,1991 Fall,Runaway Jim,,1,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,","
+1991-12-04,1991,0,5,1,1,0,0,1,1991 Fall Tour,1991 Fall,Cavern,,1,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,","
+1991-12-04,1991,0,6,1,1,0,0,3,1991 Fall Tour,1991 Fall,Poor Heart,,1,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,","
+1991-12-04,1991,0,7,1,1,0,0,1,1991 Fall Tour,1991 Fall,Brother,,1,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,","
+1991-12-04,1991,0,8,1,1,0,0,1,1991 Fall Tour,1991 Fall,The Squirming Coil,Coil,1,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,","
+1991-12-04,1991,0,9,2,1,0,0,4,1991 Fall Tour,1991 Fall,Dinner and a Movie,,1,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,>
+1991-12-04,1991,0,10,3,1,0,0,1,1991 Fall Tour,1991 Fall,Bouncing Around the Room,Bouncin',1,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,->
+1991-12-04,1991,0,11,4,1,0,0,2,1991 Fall Tour,1991 Fall,David Bowie,Bowie,1,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,
+1991-12-04,1991,0,12,1,2,0,0,1,1991 Fall Tour,1991 Fall,My Sweet One,MSO,1,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,","
+1991-12-04,1991,0,13,1,2,0,0,2,1991 Fall Tour,1991 Fall,Stash,,1,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,","
+1991-12-04,1991,0,14,2,2,0,0,2,1991 Fall Tour,1991 Fall,The Mango Song,Mango,1,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,>
+1991-12-04,1991,0,15,2,2,0,0,3,1991 Fall Tour,1991 Fall,Mike's Song,Mike's,1,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,>
+1991-12-04,1991,0,16,2,2,0,0,3,1991 Fall Tour,1991 Fall,I Am Hydrogen,Hydrogen,1,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,>
+1991-12-04,1991,0,17,1,2,0,0,3,1991 Fall Tour,1991 Fall,Weekapaug Groove,Weekapaug,1,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,","
+1991-12-04,1991,0,18,2,2,0,0,1,1991 Fall Tour,1991 Fall,Sparkle,,1,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,>
+1991-12-04,1991,0,19,1,2,0,0,4,1991 Fall Tour,1991 Fall,The Lizards,Lizards,1,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,","
+1991-12-04,1991,0,20,1,2,0,0,1,1991 Fall Tour,1991 Fall,Chalk Dust Torture,CDT,1,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,","
+1991-12-04,1991,0,21,2,2,0,0,3,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,>
+1991-12-04,1991,0,22,2,2,0,0,3,1991 Fall Tour,1991 Fall,Love You,,0,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,>
+1991-12-04,1991,0,23,1,2,0,0,0,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,","
+1991-12-04,1991,0,24,5,2,0,0,1,1991 Fall Tour,1991 Fall,Golgi Apparatus,Golgi,1,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,
+1991-12-04,1991,0,25,1,e,0,0,2,1991 Fall Tour,1991 Fall,Sweet Adeline,,0,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,","
+1991-12-04,1991,0,26,6,e,0,0,4,1991 Fall Tour,1991 Fall,Suzy Greenberg,Suzy,1,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,
 1991-12-05,1991,0,1,1,1,0,0,1,1991 Fall Tour,1991 Fall,Golgi Apparatus,Golgi,1,Greenfield Armory Castle,Greenfield,MA,USA,","
 1991-12-05,1991,0,2,2,1,0,0,2,1991 Fall Tour,1991 Fall,Paul and Silas,,0,Greenfield Armory Castle,Greenfield,MA,USA,>
 1991-12-05,1991,0,3,1,1,0,0,6,1991 Fall Tour,1991 Fall,Split Open and Melt,SOAMelt,1,Greenfield Armory Castle,Greenfield,MA,USA,","
@@ -1692,6 +2878,32 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1991-12-05,1991,0,23,5,2,0,0,4,1991 Fall Tour,1991 Fall,Tweezer Reprise,Tweeprise,1,Greenfield Armory Castle,Greenfield,MA,USA,
 1991-12-05,1991,0,24,1,e,0,0,2,1991 Fall Tour,1991 Fall,Glide,,1,Greenfield Armory Castle,Greenfield,MA,USA,","
 1991-12-05,1991,0,25,6,e,0,0,1,1991 Fall Tour,1991 Fall,Cavern,,1,Greenfield Armory Castle,Greenfield,MA,USA,
+1991-12-06,1991,0,1,1,1,2,0,7,1991 Fall Tour,1991 Fall,Memories,,0,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,","
+1991-12-06,1991,0,2,1,1,2,0,1,1991 Fall Tour,1991 Fall,Foam,,1,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,","
+1991-12-06,1991,0,3,1,1,2,0,2,1991 Fall Tour,1991 Fall,Reba,,1,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,","
+1991-12-06,1991,0,4,1,1,2,0,3,1991 Fall Tour,1991 Fall,Uncle Pen,,0,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,","
+1991-12-06,1991,0,5,2,1,2,0,1,1991 Fall Tour,1991 Fall,The Squirming Coil,Coil,1,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,>
+1991-12-06,1991,0,6,2,1,2,0,8,1991 Fall Tour,1991 Fall,Magilla,,1,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,>
+1991-12-06,1991,0,7,1,1,2,0,2,1991 Fall Tour,1991 Fall,The Landlady,Landlady,1,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,","
+1991-12-06,1991,0,8,1,1,2,0,3,1991 Fall Tour,1991 Fall,Guelah Papyrus,Guelah,1,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,","
+1991-12-06,1991,0,9,4,1,2,0,1,1991 Fall Tour,1991 Fall,I Didn't Know,IDK,1,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,
+1991-12-06,1991,0,10,2,2,2,0,1,1991 Fall Tour,1991 Fall,It's Ice,,1,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,>
+1991-12-06,1991,0,11,2,2,2,0,5,1991 Fall Tour,1991 Fall,Eliza,,1,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,>
+1991-12-06,1991,0,12,1,2,2,0,1,1991 Fall Tour,1991 Fall,Sparkle,,1,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,","
+1991-12-06,1991,0,13,2,2,2,0,3,1991 Fall Tour,1991 Fall,You Enjoy Myself,YEM,1,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,>
+1991-12-06,1991,0,14,2,2,2,0,3,1991 Fall Tour,1991 Fall,Horn,,1,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,>
+1991-12-06,1991,0,15,1,2,2,0,3,1991 Fall Tour,1991 Fall,Divided Sky,Divided,1,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,","
+1991-12-06,1991,0,16,2,2,2,0,8,1991 Fall Tour,1991 Fall,Tela,,1,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,>
+1991-12-06,1991,0,17,1,2,2,0,1,1991 Fall Tour,1991 Fall,Llama,,1,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,","
+1991-12-06,1991,0,18,2,2,2,0,2,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,>
+1991-12-06,1991,0,19,2,2,2,0,24,1991 Fall Tour,1991 Fall,Whipping Post,,0,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,>
+1991-12-06,1991,0,20,1,2,2,0,0,1991 Fall Tour,1991 Fall,Hold Your Head Up,HYHU,0,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,","
+1991-12-06,1991,0,21,3,2,2,0,1,1991 Fall Tour,1991 Fall,Possum,,1,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,->
+1991-12-06,1991,0,22,3,2,2,0,22,1991 Fall Tour,1991 Fall,Wait,,1,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,->
+1991-12-06,1991,0,23,5,2,2,0,0,1991 Fall Tour,1991 Fall,Possum,,1,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,
+1991-12-06,1991,0,24,1,e,2,0,0,1991 Fall Tour,1991 Fall,Wait,,1,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,","
+1991-12-06,1991,0,25,2,e,2,0,6,1991 Fall Tour,1991 Fall,Lawn Boy,,1,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,>
+1991-12-06,1991,0,26,6,e,2,0,3,1991 Fall Tour,1991 Fall,Rocky Top,,0,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,
 1991-12-07,1991,0,1,2,1,0,0,8,1991 Fall Tour,1991 Fall,Wilson,,1,The Music Hall,Portsmouth,NH,USA,>
 1991-12-07,1991,0,2,1,1,0,0,3,1991 Fall Tour,1991 Fall,Runaway Jim,,1,The Music Hall,Portsmouth,NH,USA,","
 1991-12-07,1991,0,3,1,1,0,0,1,1991 Fall Tour,1991 Fall,Foam,,1,The Music Hall,Portsmouth,NH,USA,","
@@ -1715,3 +2927,33 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1991-12-07,1991,0,21,5,2,0,0,25,1991 Fall Tour,1991 Fall,Harpua,,1,The Music Hall,Portsmouth,NH,USA,
 1991-12-07,1991,0,22,1,e,0,0,3,1991 Fall Tour,1991 Fall,Sweet Adeline,,0,The Music Hall,Portsmouth,NH,USA,","
 1991-12-07,1991,0,23,6,e,0,0,2,1991 Fall Tour,1991 Fall,Golgi Apparatus,Golgi,1,The Music Hall,Portsmouth,NH,USA,
+1991-12-31,1991,0,1,1,1,0,0,2,Not Part of a Tour,No Tour,Possum,,1,Worcester Memorial Auditorium,Worcester,MA,USA,","
+1991-12-31,1991,0,2,1,1,0,0,1,Not Part of a Tour,No Tour,Foam,,1,Worcester Memorial Auditorium,Worcester,MA,USA,","
+1991-12-31,1991,0,3,1,1,0,0,1,Not Part of a Tour,No Tour,Sparkle,,1,Worcester Memorial Auditorium,Worcester,MA,USA,","
+1991-12-31,1991,0,4,1,1,0,0,1,Not Part of a Tour,No Tour,Stash,,1,Worcester Memorial Auditorium,Worcester,MA,USA,","
+1991-12-31,1991,0,5,1,1,0,0,1,Not Part of a Tour,No Tour,The Lizards,Lizards,1,Worcester Memorial Auditorium,Worcester,MA,USA,","
+1991-12-31,1991,0,6,1,1,0,0,2,Not Part of a Tour,No Tour,Guelah Papyrus,Guelah,1,Worcester Memorial Auditorium,Worcester,MA,USA,","
+1991-12-31,1991,0,7,1,1,0,0,2,Not Part of a Tour,No Tour,Divided Sky,Divided,1,Worcester Memorial Auditorium,Worcester,MA,USA,","
+1991-12-31,1991,0,8,2,1,0,0,9,Not Part of a Tour,No Tour,Esther,,1,Worcester Memorial Auditorium,Worcester,MA,USA,>
+1991-12-31,1991,0,9,1,1,0,0,2,Not Part of a Tour,No Tour,Llama,,1,Worcester Memorial Auditorium,Worcester,MA,USA,","
+1991-12-31,1991,0,10,4,1,0,0,1,Not Part of a Tour,No Tour,Golgi Apparatus,Golgi,1,Worcester Memorial Auditorium,Worcester,MA,USA,
+1991-12-31,1991,0,11,1,2,0,0,1,Not Part of a Tour,No Tour,Brother,,1,Worcester Memorial Auditorium,Worcester,MA,USA,","
+1991-12-31,1991,0,12,1,2,0,0,3,Not Part of a Tour,No Tour,Bouncing Around the Room,Bouncin',1,Worcester Memorial Auditorium,Worcester,MA,USA,","
+1991-12-31,1991,0,13,2,2,0,0,1,Not Part of a Tour,No Tour,Buried Alive,,1,Worcester Memorial Auditorium,Worcester,MA,USA,>
+1991-12-31,1991,0,14,2,2,0,0,274,Not Part of a Tour,No Tour,Auld Lang Syne,,0,Worcester Memorial Auditorium,Worcester,MA,USA,>
+1991-12-31,1991,0,15,1,2,0,0,1,Not Part of a Tour,No Tour,Runaway Jim,,1,Worcester Memorial Auditorium,Worcester,MA,USA,","
+1991-12-31,1991,0,16,2,2,0,0,2,Not Part of a Tour,No Tour,The Landlady,Landlady,1,Worcester Memorial Auditorium,Worcester,MA,USA,>
+1991-12-31,1991,0,17,1,2,0,0,1,Not Part of a Tour,No Tour,Reba,,1,Worcester Memorial Auditorium,Worcester,MA,USA,","
+1991-12-31,1991,0,18,1,2,0,0,1,Not Part of a Tour,No Tour,Cavern,,1,Worcester Memorial Auditorium,Worcester,MA,USA,","
+1991-12-31,1991,0,19,1,2,0,0,1,Not Part of a Tour,No Tour,My Sweet One,MSO,1,Worcester Memorial Auditorium,Worcester,MA,USA,","
+1991-12-31,1991,0,20,4,2,0,0,1,Not Part of a Tour,No Tour,Run Like an Antelope,Antelope,1,Worcester Memorial Auditorium,Worcester,MA,USA,
+1991-12-31,1991,0,21,2,3,0,0,1,Not Part of a Tour,No Tour,Wilson,,1,Worcester Memorial Auditorium,Worcester,MA,USA,>
+1991-12-31,1991,0,22,2,3,0,0,2,Not Part of a Tour,No Tour,The Squirming Coil,Coil,1,Worcester Memorial Auditorium,Worcester,MA,USA,>
+1991-12-31,1991,0,23,2,3,0,0,3,Not Part of a Tour,No Tour,Tweezer,,1,Worcester Memorial Auditorium,Worcester,MA,USA,>
+1991-12-31,1991,0,24,2,3,0,0,35,Not Part of a Tour,No Tour,McGrupp and the Watchful Hosemasters,McGrupp,1,Worcester Memorial Auditorium,Worcester,MA,USA,>
+1991-12-31,1991,0,25,2,3,0,0,3,Not Part of a Tour,No Tour,Mike's Song,Mike's,1,Worcester Memorial Auditorium,Worcester,MA,USA,>
+1991-12-31,1991,0,26,2,3,0,0,3,Not Part of a Tour,No Tour,I Am Hydrogen,Hydrogen,1,Worcester Memorial Auditorium,Worcester,MA,USA,>
+1991-12-31,1991,0,27,5,3,0,0,3,Not Part of a Tour,No Tour,Weekapaug Groove,Weekapaug,1,Worcester Memorial Auditorium,Worcester,MA,USA,
+1991-12-31,1991,0,28,2,e,0,0,2,Not Part of a Tour,No Tour,Lawn Boy,,1,Worcester Memorial Auditorium,Worcester,MA,USA,>
+1991-12-31,1991,0,29,2,e,0,0,2,Not Part of a Tour,No Tour,Rocky Top,,0,Worcester Memorial Auditorium,Worcester,MA,USA,>
+1991-12-31,1991,0,30,6,e,0,0,3,Not Part of a Tour,No Tour,Tweezer Reprise,Tweeprise,1,Worcester Memorial Auditorium,Worcester,MA,USA,

@@ -222,6 +222,24 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-07-11,2023,0,19,1,e,0,0,36,2023 Summer Tour,2023 Summer,Fuck Your Face,FYF,1,Orion Amphitheater,Huntsville,AL,USA,","
 2023-07-11,2023,0,20,1,e,0,0,17,2023 Summer Tour,2023 Summer,Icculus,,1,Orion Amphitheater,Huntsville,AL,USA,","
 2023-07-11,2023,0,21,6,e,2,2,5,2023 Summer Tour,2023 Summer,Character Zero,,1,Orion Amphitheater,Huntsville,AL,USA,
+2023-07-12,2023,0,1,2,1,0,0,9,2023 Summer Tour,2023 Summer,Plasma,,0,Orion Amphitheater,Huntsville,AL,USA,>
+2023-07-12,2023,0,2,2,1,0,0,4,2023 Summer Tour,2023 Summer,Sigma Oasis,,0,Orion Amphitheater,Huntsville,AL,USA,>
+2023-07-12,2023,0,3,1,1,0,0,2,2023 Summer Tour,2023 Summer,Wolfman's Brother,Wolfman's,1,Orion Amphitheater,Huntsville,AL,USA,","
+2023-07-12,2023,0,4,1,1,0,0,44,2023 Summer Tour,2023 Summer,Evolve,,0,Orion Amphitheater,Huntsville,AL,USA,","
+2023-07-12,2023,0,5,2,1,0,0,7,2023 Summer Tour,2023 Summer,Mull,,1,Orion Amphitheater,Huntsville,AL,USA,>
+2023-07-12,2023,0,6,1,1,0,0,9,2023 Summer Tour,2023 Summer,Bouncing Around the Room,Bouncin',1,Orion Amphitheater,Huntsville,AL,USA,","
+2023-07-12,2023,0,7,1,1,0,0,7,2023 Summer Tour,2023 Summer,Stash,,1,Orion Amphitheater,Huntsville,AL,USA,","
+2023-07-12,2023,0,8,4,1,0,0,3,2023 Summer Tour,2023 Summer,David Bowie,Bowie,1,Orion Amphitheater,Huntsville,AL,USA,
+2023-07-12,2023,0,9,3,2,0,0,4,2023 Summer Tour,2023 Summer,A Wave of Hope,,0,Orion Amphitheater,Huntsville,AL,USA,->
+2023-07-12,2023,0,10,3,2,0,0,6,2023 Summer Tour,2023 Summer,Fuego,,1,Orion Amphitheater,Huntsville,AL,USA,->
+2023-07-12,2023,0,11,2,2,0,0,8,2023 Summer Tour,2023 Summer,Piper,,1,Orion Amphitheater,Huntsville,AL,USA,>
+2023-07-12,2023,0,12,1,2,0,0,1964,2023 Summer Tour,2023 Summer,Ether Edge,,0,Orion Amphitheater,Huntsville,AL,USA,","
+2023-07-12,2023,0,13,2,2,0,0,4,2023 Summer Tour,2023 Summer,Mercury,,1,Orion Amphitheater,Huntsville,AL,USA,>
+2023-07-12,2023,0,14,5,2,0,0,8,2023 Summer Tour,2023 Summer,Free,,1,Orion Amphitheater,Huntsville,AL,USA,
+2023-07-12,2023,0,15,2,e,0,0,32,2023 Summer Tour,2023 Summer,Alumni Blues,Alumni,1,Orion Amphitheater,Huntsville,AL,USA,>
+2023-07-12,2023,0,16,2,e,0,0,32,2023 Summer Tour,2023 Summer,Letter to Jimmy Page,LTJP,1,Orion Amphitheater,Huntsville,AL,USA,>
+2023-07-12,2023,0,17,1,e,0,0,0,2023 Summer Tour,2023 Summer,Alumni Blues,Alumni,1,Orion Amphitheater,Huntsville,AL,USA,","
+2023-07-12,2023,0,18,6,e,0,0,3,2023 Summer Tour,2023 Summer,Run Like an Antelope,Antelope,1,Orion Amphitheater,Huntsville,AL,USA,
 2023-07-14,2023,0,1,1,1,0,0,7,2023 Summer Tour,2023 Summer,Kill Devil Falls,KDF,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
 2023-07-14,2023,0,2,2,1,0,0,8,2023 Summer Tour,2023 Summer,Theme from the Bottom,Theme,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
 2023-07-14,2023,0,3,1,1,0,0,10,2023 Summer Tour,2023 Summer,No Men In No Man's Land,NMINML,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
@@ -237,6 +255,115 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-07-14,2023,0,13,5,2,0,0,4,2023 Summer Tour,2023 Summer,First Tube,,0,Ameris Bank Amphitheatre,Alpharetta,GA,USA,
 2023-07-14,2023,0,14,1,e,0,0,16,2023 Summer Tour,2023 Summer,If I Could,,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
 2023-07-14,2023,0,15,6,e,0,0,3,2023 Summer Tour,2023 Summer,Possum,,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,
+2023-07-15,2023,0,1,1,1,0,0,7,2023 Summer Tour,2023 Summer,Runaway Jim,,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2023-07-15,2023,0,2,1,1,0,0,17,2023 Summer Tour,2023 Summer,Foam,,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2023-07-15,2023,0,3,2,1,0,0,7,2023 Summer Tour,2023 Summer,Set Your Soul Free,,0,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2023-07-15,2023,0,4,2,1,0,0,11,2023 Summer Tour,2023 Summer,Fluffhead,,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2023-07-15,2023,0,5,2,1,0,0,6,2023 Summer Tour,2023 Summer,Everything's Right,,0,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2023-07-15,2023,0,6,2,1,0,0,5,2023 Summer Tour,2023 Summer,Esther,,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2023-07-15,2023,0,7,4,1,0,0,14,2023 Summer Tour,2023 Summer,Golgi Apparatus,Golgi,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,
+2023-07-15,2023,0,8,2,2,0,0,7,2023 Summer Tour,2023 Summer,Rift,,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2023-07-15,2023,0,9,3,2,0,0,9,2023 Summer Tour,2023 Summer,Tweezer,,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,->
+2023-07-15,2023,0,10,2,2,0,0,11,2023 Summer Tour,2023 Summer,Golden Age,,0,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2023-07-15,2023,0,11,2,2,0,0,17,2023 Summer Tour,2023 Summer,I Always Wanted It This Way,,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2023-07-15,2023,0,12,2,2,0,0,0,2023 Summer Tour,2023 Summer,Tweezer,,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2023-07-15,2023,0,13,5,2,0,0,5,2023 Summer Tour,2023 Summer,Harry Hood,Hood,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,
+2023-07-15,2023,0,14,2,e,0,0,5,2023 Summer Tour,2023 Summer,A Life Beyond The Dream,,0,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2023-07-15,2023,0,15,2,e,0,0,7,2023 Summer Tour,2023 Summer,Tweezer Reprise,Tweeprise,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2023-07-15,2023,0,16,6,e,0,0,35,2023 Summer Tour,2023 Summer,Big Black Furry Creature from Mars,BBFCFM,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,
+2023-07-16,2023,0,1,2,1,0,0,20,2023 Summer Tour,2023 Summer,Buried Alive,,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2023-07-16,2023,0,2,2,1,0,0,5,2023 Summer Tour,2023 Summer,Wilson,,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2023-07-16,2023,0,3,1,1,0,0,20,2023 Summer Tour,2023 Summer,NICU,,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2023-07-16,2023,0,4,1,1,0,0,9,2023 Summer Tour,2023 Summer,Bathtub Gin,Gin,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2023-07-16,2023,0,5,1,1,0,0,29,2023 Summer Tour,2023 Summer,Gumbo,,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2023-07-16,2023,0,6,2,1,0,0,39,2023 Summer Tour,2023 Summer,Limb By Limb,LxL,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2023-07-16,2023,0,7,1,1,0,0,1967,2023 Summer Tour,2023 Summer,The Well,,0,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2023-07-16,2023,0,8,1,1,0,0,9,2023 Summer Tour,2023 Summer,Mountains in the Mist,Mist,0,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2023-07-16,2023,0,9,1,1,0,0,10,2023 Summer Tour,2023 Summer,Halfway to the Moon,,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2023-07-16,2023,0,10,4,1,0,0,6,2023 Summer Tour,2023 Summer,Split Open and Melt,SOAMelt,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,
+2023-07-16,2023,0,11,2,2,0,0,8,2023 Summer Tour,2023 Summer,Mike's Song,Mike's,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2023-07-16,2023,0,12,2,2,0,0,10,2023 Summer Tour,2023 Summer,Carini,,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2023-07-16,2023,0,13,1,2,0,0,8,2023 Summer Tour,2023 Summer,Weekapaug Groove,Weekapaug,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2023-07-16,2023,0,14,2,2,0,0,10,2023 Summer Tour,2023 Summer,Sand,,0,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2023-07-16,2023,0,15,1,2,0,0,11,2023 Summer Tour,2023 Summer,Reba,,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2023-07-16,2023,0,16,5,2,0,0,21,2023 Summer Tour,2023 Summer,More,,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,
+2023-07-16,2023,0,17,2,e,0,0,0,2023 Summer Tour,2023 Summer,The Night the Lights Went Out in Georgia,,0,Ameris Bank Amphitheatre,Alpharetta,GA,USA,>
+2023-07-16,2023,0,18,1,e,0,0,25,2023 Summer Tour,2023 Summer,Hold Your Head Up,HYHU,0,Ameris Bank Amphitheatre,Alpharetta,GA,USA,","
+2023-07-16,2023,0,19,6,e,0,0,4,2023 Summer Tour,2023 Summer,You Enjoy Myself,YEM,1,Ameris Bank Amphitheatre,Alpharetta,GA,USA,
+2023-07-18,2023,0,1,1,1,0,0,251,2023 Summer Tour,2023 Summer,Happy Birthday to You,Happy Birthday,0,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,","
+2023-07-18,2023,0,2,2,1,0,0,11,2023 Summer Tour,2023 Summer,Simple,,1,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,>
+2023-07-18,2023,0,3,1,1,0,0,33,2023 Summer Tour,2023 Summer,Camel Walk,,1,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,","
+2023-07-18,2023,0,4,1,1,0,0,6,2023 Summer Tour,2023 Summer,Gotta Jibboo,Jibboo,0,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,","
+2023-07-18,2023,0,5,1,1,0,0,13,2023 Summer Tour,2023 Summer,Steam,,1,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,","
+2023-07-18,2023,0,6,1,1,0,0,15,2023 Summer Tour,2023 Summer,Poor Heart,,1,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,","
+2023-07-18,2023,0,7,1,1,0,0,8,2023 Summer Tour,2023 Summer,Cavern,,1,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,","
+2023-07-18,2023,0,8,1,1,0,0,6,2023 Summer Tour,2023 Summer,Divided Sky,Divided,1,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,","
+2023-07-18,2023,0,9,1,1,0,0,72,2023 Summer Tour,2023 Summer,Casual Enlightenment,,1,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,","
+2023-07-18,2023,0,10,1,1,0,0,8,2023 Summer Tour,2023 Summer,Shade,,1,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,","
+2023-07-18,2023,0,11,4,1,0,0,8,2023 Summer Tour,2023 Summer,Drift While You're Sleeping,,0,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,
+2023-07-18,2023,0,12,2,2,0,0,9,2023 Summer Tour,2023 Summer,Timber (Jerry the Mule),Timber Ho,0,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,>
+2023-07-18,2023,0,13,2,2,0,0,6,2023 Summer Tour,2023 Summer,A Song I Heard the Ocean Sing,ASIHTOS,1,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,>
+2023-07-18,2023,0,14,2,2,0,0,10,2023 Summer Tour,2023 Summer,Light,,0,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,>
+2023-07-18,2023,0,15,1,2,0,0,1967,2023 Summer Tour,2023 Summer,Mercy,,0,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,","
+2023-07-18,2023,0,16,2,2,0,0,29,2023 Summer Tour,2023 Summer,Twenty Years Later,,1,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,>
+2023-07-18,2023,0,17,2,2,0,0,10,2023 Summer Tour,2023 Summer,Backwards Down the Number Line,BDTNL,0,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,>
+2023-07-18,2023,0,18,2,2,0,0,13,2023 Summer Tour,2023 Summer,Bug,,0,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,>
+2023-07-18,2023,0,19,5,2,0,0,5,2023 Summer Tour,2023 Summer,Say It To Me S.A.N.T.O.S.,,1,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,
+2023-07-18,2023,0,20,2,e,0,0,10,2023 Summer Tour,2023 Summer,The Howling,,1,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,>
+2023-07-18,2023,0,21,6,e,2,2,14,2023 Summer Tour,2023 Summer,Suzy Greenberg,Suzy,1,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,
+2023-07-19,2023,0,1,1,1,0,0,18,2023 Summer Tour,2023 Summer,Cars Trucks Buses,CTB,1,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,","
+2023-07-19,2023,0,2,1,1,0,0,5,2023 Summer Tour,2023 Summer,A Wave of Hope,,0,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,","
+2023-07-19,2023,0,3,1,1,0,0,9,2023 Summer Tour,2023 Summer,Funky Bitch,,0,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,","
+2023-07-19,2023,0,4,1,1,0,0,21,2023 Summer Tour,2023 Summer,Hey Stranger,,0,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,","
+2023-07-19,2023,0,5,1,1,0,0,10,2023 Summer Tour,2023 Summer,Lawn Boy,,1,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,","
+2023-07-19,2023,0,6,1,1,0,0,6,2023 Summer Tour,2023 Summer,Back on the Train,BOTT,0,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,","
+2023-07-19,2023,0,7,1,1,0,0,13,2023 Summer Tour,2023 Summer,When the Circus Comes,Circus,0,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,","
+2023-07-19,2023,0,8,1,1,0,0,22,2023 Summer Tour,2023 Summer,It's Ice,,1,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,","
+2023-07-19,2023,0,9,4,1,0,0,6,2023 Summer Tour,2023 Summer,Blaze On,,1,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,
+2023-07-19,2023,0,10,2,2,0,0,6,2023 Summer Tour,2023 Summer,Chalk Dust Torture,CDT,1,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,>
+2023-07-19,2023,0,11,1,2,0,0,6,2023 Summer Tour,2023 Summer,Oblivion,,0,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,","
+2023-07-19,2023,0,12,1,2,0,0,14,2023 Summer Tour,2023 Summer,The Wedge,Wedge,1,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,","
+2023-07-19,2023,0,13,6,2,0,0,35,2023 Summer Tour,2023 Summer,Scents and Subtle Sounds,,1,Live Oak Bank Pavilion at Riverfront Park,Wilmington,NC,USA,
+2023-07-21,2023,0,1,1,1,0,0,10,2023 Summer Tour,2023 Summer,Party Time,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,","
+2023-07-21,2023,0,2,2,1,0,0,11,2023 Summer Tour,2023 Summer,AC/DC Bag,Bag,1,The Pavilion at Star Lake,Burgettstown,PA,USA,>
+2023-07-21,2023,0,3,1,1,0,0,7,2023 Summer Tour,2023 Summer,46 Days,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,","
+2023-07-21,2023,0,4,1,1,0,0,8,2023 Summer Tour,2023 Summer,Birds of a Feather,BOAF,1,The Pavilion at Star Lake,Burgettstown,PA,USA,","
+2023-07-21,2023,0,5,1,1,0,0,6,2023 Summer Tour,2023 Summer,Bouncing Around the Room,Bouncin',1,The Pavilion at Star Lake,Burgettstown,PA,USA,","
+2023-07-21,2023,0,6,1,1,0,0,6,2023 Summer Tour,2023 Summer,Stash,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,","
+2023-07-21,2023,0,7,1,1,0,0,9,2023 Summer Tour,2023 Summer,Leaves,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,","
+2023-07-21,2023,0,8,1,1,0,0,7,2023 Summer Tour,2023 Summer,Maze,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,","
+2023-07-21,2023,0,9,4,1,0,0,1,2023 Summer Tour,2023 Summer,Scents and Subtle Sounds,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,
+2023-07-21,2023,0,10,3,2,0,0,6,2023 Summer Tour,2023 Summer,Sigma Oasis,,0,The Pavilion at Star Lake,Burgettstown,PA,USA,->
+2023-07-21,2023,0,11,2,2,0,0,42,2023 Summer Tour,2023 Summer,The Final Hurrah,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,>
+2023-07-21,2023,0,12,2,2,0,0,1970,2023 Summer Tour,2023 Summer,Pillow Jets,,0,The Pavilion at Star Lake,Burgettstown,PA,USA,>
+2023-07-21,2023,0,13,1,2,0,0,6,2023 Summer Tour,2023 Summer,David Bowie,Bowie,1,The Pavilion at Star Lake,Burgettstown,PA,USA,","
+2023-07-21,2023,0,14,3,2,0,0,8,2023 Summer Tour,2023 Summer,Cities,,0,The Pavilion at Star Lake,Burgettstown,PA,USA,->
+2023-07-21,2023,0,15,2,2,0,0,6,2023 Summer Tour,2023 Summer,Fuego,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,>
+2023-07-21,2023,0,16,5,2,0,0,5,2023 Summer Tour,2023 Summer,Ruby Waves,,0,The Pavilion at Star Lake,Burgettstown,PA,USA,
+2023-07-21,2023,0,17,2,e,0,0,7,2023 Summer Tour,2023 Summer,Character Zero,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,>
+2023-07-21,2023,0,18,6,e,0,0,8,2023 Summer Tour,2023 Summer,Slave to the Traffic Light,Slave,1,The Pavilion at Star Lake,Burgettstown,PA,USA,
+2023-07-22,2023,0,1,1,1,0,0,12,2023 Summer Tour,2023 Summer,I Never Needed You Like This Before,,0,The Pavilion at Star Lake,Burgettstown,PA,USA,","
+2023-07-22,2023,0,2,1,1,0,0,44,2023 Summer Tour,2023 Summer,Turtle in the Clouds,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,","
+2023-07-22,2023,0,3,1,1,0,0,39,2023 Summer Tour,2023 Summer,Llama,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,","
+2023-07-22,2023,0,4,2,1,0,0,30,2023 Summer Tour,2023 Summer,Clear Your Mind,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,>
+2023-07-22,2023,0,5,1,1,0,0,11,2023 Summer Tour,2023 Summer,Sample in a Jar,Sample,1,The Pavilion at Star Lake,Burgettstown,PA,USA,","
+2023-07-22,2023,0,6,1,1,0,0,9,2023 Summer Tour,2023 Summer,Taste,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,","
+2023-07-22,2023,0,7,1,1,0,0,28,2023 Summer Tour,2023 Summer,Ocelot,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,","
+2023-07-22,2023,0,8,1,1,0,0,17,2023 Summer Tour,2023 Summer,Julius,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,","
+2023-07-22,2023,0,9,2,1,0,0,18,2023 Summer Tour,2023 Summer,Saw It Again,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,>
+2023-07-22,2023,0,10,1,1,0,0,38,2023 Summer Tour,2023 Summer,Sparkle,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,","
+2023-07-22,2023,0,11,1,1,0,0,30,2023 Summer Tour,2023 Summer,Ass Handed,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,","
+2023-07-22,2023,0,12,4,1,0,0,4,2023 Summer Tour,2023 Summer,Sand,,0,The Pavilion at Star Lake,Burgettstown,PA,USA,
+2023-07-22,2023,0,13,2,2,0,0,5,2023 Summer Tour,2023 Summer,Everything's Right,,0,The Pavilion at Star Lake,Burgettstown,PA,USA,>
+2023-07-22,2023,0,14,3,2,0,0,18,2023 Summer Tour,2023 Summer,Soul Planet,,0,The Pavilion at Star Lake,Burgettstown,PA,USA,->
+2023-07-22,2023,0,15,2,2,0,0,8,2023 Summer Tour,2023 Summer,Twist,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,>
+2023-07-22,2023,0,16,1,2,0,0,18,2023 Summer Tour,2023 Summer,Most Events Aren't Planned,,0,The Pavilion at Star Lake,Burgettstown,PA,USA,","
+2023-07-22,2023,0,17,1,2,0,0,1971,2023 Summer Tour,2023 Summer,Monsters,,0,The Pavilion at Star Lake,Burgettstown,PA,USA,","
+2023-07-22,2023,0,18,2,2,0,0,8,2023 Summer Tour,2023 Summer,Also Sprach Zarathustra,2001,0,The Pavilion at Star Lake,Burgettstown,PA,USA,>
+2023-07-22,2023,0,19,5,2,0,0,14,2023 Summer Tour,2023 Summer,Rock and Roll,R&amp;R,0,The Pavilion at Star Lake,Burgettstown,PA,USA,
+2023-07-22,2023,0,20,1,e,0,0,51,2023 Summer Tour,2023 Summer,Grind,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,","
+2023-07-22,2023,0,21,2,e,0,0,6,2023 Summer Tour,2023 Summer,Tube,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,>
+2023-07-22,2023,0,22,6,e,0,0,6,2023 Summer Tour,2023 Summer,Ghost,,1,The Pavilion at Star Lake,Burgettstown,PA,USA,
 2023-07-23,2023,0,1,2,1,0,0,4,2023 Summer Tour,2023 Summer,Happy Birthday to You,Happy Birthday,0,St. Joseph's Health Amphitheater at Lakeview,Syracuse,NY,USA,>
 2023-07-23,2023,0,2,1,1,0,0,8,2023 Summer Tour,2023 Summer,Free,,1,St. Joseph's Health Amphitheater at Lakeview,Syracuse,NY,USA,","
 2023-07-23,2023,0,3,2,1,0,0,4,2023 Summer Tour,2023 Summer,Steam,,1,St. Joseph's Health Amphitheater at Lakeview,Syracuse,NY,USA,>
@@ -256,6 +383,25 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-07-23,2023,0,17,1,e,0,0,47,2023 Summer Tour,2023 Summer,I Didn't Know,IDK,1,St. Joseph's Health Amphitheater at Lakeview,Syracuse,NY,USA,","
 2023-07-23,2023,0,18,2,e,0,0,13,2023 Summer Tour,2023 Summer,What's the Use?,WTU?,1,St. Joseph's Health Amphitheater at Lakeview,Syracuse,NY,USA,>
 2023-07-23,2023,0,19,6,e,0,0,6,2023 Summer Tour,2023 Summer,Tweezer Reprise,Tweeprise,1,St. Joseph's Health Amphitheater at Lakeview,Syracuse,NY,USA,
+2023-07-25,2023,0,1,2,1,0,0,13,2023 Summer Tour,2023 Summer,Strawberry Letter 23,,0,TD Pavilion at the Mann,Philadelphia,PA,USA,>
+2023-07-25,2023,0,2,3,1,0,0,6,2023 Summer Tour,2023 Summer,Bathtub Gin,Gin,1,TD Pavilion at the Mann,Philadelphia,PA,USA,->
+2023-07-25,2023,0,3,1,1,0,0,4,2023 Summer Tour,2023 Summer,Back on the Train,BOTT,0,TD Pavilion at the Mann,Philadelphia,PA,USA,","
+2023-07-25,2023,0,4,1,1,0,0,12,2023 Summer Tour,2023 Summer,The Squirming Coil,Coil,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
+2023-07-25,2023,0,5,1,1,0,0,8,2023 Summer Tour,2023 Summer,Axilla (Part II),,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
+2023-07-25,2023,0,6,1,1,0,0,18,2023 Summer Tour,2023 Summer,Ya Mar,,0,TD Pavilion at the Mann,Philadelphia,PA,USA,","
+2023-07-25,2023,0,7,1,1,0,0,4,2023 Summer Tour,2023 Summer,Blaze On,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
+2023-07-25,2023,0,8,1,1,0,0,14,2023 Summer Tour,2023 Summer,Waste,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
+2023-07-25,2023,0,9,2,1,0,0,18,2023 Summer Tour,2023 Summer,Walls of the Cave,WotC,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
+2023-07-25,2023,0,10,4,1,0,0,3,2023 Summer Tour,2023 Summer,46 Days,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,
+2023-07-25,2023,0,11,2,2,0,0,10,2023 Summer Tour,2023 Summer,Down with Disease,DwD,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
+2023-07-25,2023,0,12,1,2,0,0,6,2023 Summer Tour,2023 Summer,The Well,,0,TD Pavilion at the Mann,Philadelphia,PA,USA,","
+2023-07-25,2023,0,13,2,2,0,0,8,2023 Summer Tour,2023 Summer,No Men In No Man's Land,NMINML,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
+2023-07-25,2023,0,14,2,2,0,0,14,2023 Summer Tour,2023 Summer,Beneath a Sea of Stars Part 1,,0,TD Pavilion at the Mann,Philadelphia,PA,USA,>
+2023-07-25,2023,0,15,2,2,0,0,9,2023 Summer Tour,2023 Summer,Piper,,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
+2023-07-25,2023,0,16,3,2,0,0,23,2023 Summer Tour,2023 Summer,Crosseyed and Painless,C&amp;P,0,TD Pavilion at the Mann,Philadelphia,PA,USA,->
+2023-07-25,2023,0,17,5,2,0,0,4,2023 Summer Tour,2023 Summer,Chalk Dust Torture,CDT,1,TD Pavilion at the Mann,Philadelphia,PA,USA,
+2023-07-25,2023,0,18,1,e,0,0,17,2023 Summer Tour,2023 Summer,Wading in the Velvet Sea,Velvet Sea,1,TD Pavilion at the Mann,Philadelphia,PA,USA,","
+2023-07-25,2023,0,19,6,e,0,0,46,2023 Summer Tour,2023 Summer,Fire,,0,TD Pavilion at the Mann,Philadelphia,PA,USA,
 2023-07-26,2023,0,1,2,1,0,0,7,2023 Summer Tour,2023 Summer,Mike's Song,Mike's,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
 2023-07-26,2023,0,2,3,1,0,0,29,2023 Summer Tour,2023 Summer,Boogie On Reggae Woman,Boogie On,0,TD Pavilion at the Mann,Philadelphia,PA,USA,->
 2023-07-26,2023,0,3,2,1,0,0,0,2023 Summer Tour,2023 Summer,Mike's Song,Mike's,1,TD Pavilion at the Mann,Philadelphia,PA,USA,>
@@ -292,6 +438,77 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-07-28,2023,0,13,1,2,0,0,8,2023 Summer Tour,2023 Summer,Mountains in the Mist,Mist,0,Madison Square Garden,New York,NY,USA,","
 2023-07-28,2023,0,14,5,2,0,0,8,2023 Summer Tour,2023 Summer,Split Open and Melt,SOAMelt,1,Madison Square Garden,New York,NY,USA,
 2023-07-28,2023,0,15,6,e,0,0,56,2023 Summer Tour,2023 Summer,Good Times Bad Times,GTBT,0,Madison Square Garden,New York,NY,USA,
+2023-07-29,2023,0,1,2,1,0,0,3,2023 Summer Tour,2023 Summer,Back on the Train,BOTT,0,Madison Square Garden,New York,NY,USA,>
+2023-07-29,2023,0,2,1,1,0,0,3,2023 Summer Tour,2023 Summer,Down with Disease,DwD,1,Madison Square Garden,New York,NY,USA,","
+2023-07-29,2023,0,3,1,1,0,0,74,2023 Summer Tour,2023 Summer,The Dogs,,1,Madison Square Garden,New York,NY,USA,","
+2023-07-29,2023,0,4,1,1,0,0,8,2023 Summer Tour,2023 Summer,Bug,,0,Madison Square Garden,New York,NY,USA,","
+2023-07-29,2023,0,5,1,1,0,0,34,2023 Summer Tour,2023 Summer,Sugar Shack,,1,Madison Square Garden,New York,NY,USA,","
+2023-07-29,2023,0,6,1,1,0,0,4,2023 Summer Tour,2023 Summer,Evolve,,0,Madison Square Garden,New York,NY,USA,","
+2023-07-29,2023,0,7,2,1,0,0,45,2023 Summer Tour,2023 Summer,Horn,,1,Madison Square Garden,New York,NY,USA,>
+2023-07-29,2023,0,8,1,1,0,0,10,2023 Summer Tour,2023 Summer,Foam,,1,Madison Square Garden,New York,NY,USA,","
+2023-07-29,2023,0,9,4,1,0,0,32,2023 Summer Tour,2023 Summer,Moonage Daydream,,0,Madison Square Garden,New York,NY,USA,
+2023-07-29,2023,0,10,1,2,0,0,7,2023 Summer Tour,2023 Summer,The Wedge,Wedge,1,Madison Square Garden,New York,NY,USA,","
+2023-07-29,2023,0,11,2,2,0,0,6,2023 Summer Tour,2023 Summer,Fuego,,1,Madison Square Garden,New York,NY,USA,>
+2023-07-29,2023,0,12,2,2,0,0,4,2023 Summer Tour,2023 Summer,Oblivion,,0,Madison Square Garden,New York,NY,USA,>
+2023-07-29,2023,0,13,2,2,0,0,43,2023 Summer Tour,2023 Summer,Wingsuit,,1,Madison Square Garden,New York,NY,USA,>
+2023-07-29,2023,0,14,3,2,0,0,5,2023 Summer Tour,2023 Summer,Also Sprach Zarathustra,2001,0,Madison Square Garden,New York,NY,USA,->
+2023-07-29,2023,0,15,2,2,0,0,9,2023 Summer Tour,2023 Summer,Hold Your Head Up,HYHU,0,Madison Square Garden,New York,NY,USA,>
+2023-07-29,2023,0,16,2,2,0,0,397,2023 Summer Tour,2023 Summer,Cracklin' Rosie,,0,Madison Square Garden,New York,NY,USA,>
+2023-07-29,2023,0,17,1,2,0,0,0,2023 Summer Tour,2023 Summer,Hold Your Head Up,HYHU,0,Madison Square Garden,New York,NY,USA,","
+2023-07-29,2023,0,18,5,2,0,0,8,2023 Summer Tour,2023 Summer,Say It To Me S.A.N.T.O.S.,,1,Madison Square Garden,New York,NY,USA,
+2023-07-29,2023,0,19,1,e,0,0,18,2023 Summer Tour,2023 Summer,Farmhouse,,1,Madison Square Garden,New York,NY,USA,","
+2023-07-29,2023,0,20,6,e,0,0,11,2023 Summer Tour,2023 Summer,First Tube,,0,Madison Square Garden,New York,NY,USA,
+2023-07-30,2023,0,1,3,1,0,0,7,2023 Summer Tour,2023 Summer,AC/DC Bag,Bag,1,Madison Square Garden,New York,NY,USA,->
+2023-07-30,2023,0,2,3,1,0,0,12,2023 Summer Tour,2023 Summer,"My Friend, My Friend",My Friend,1,Madison Square Garden,New York,NY,USA,->
+2023-07-30,2023,0,3,1,1,0,0,4,2023 Summer Tour,2023 Summer,Bathtub Gin,Gin,1,Madison Square Garden,New York,NY,USA,","
+2023-07-30,2023,0,4,2,1,0,0,5,2023 Summer Tour,2023 Summer,Theme from the Bottom,Theme,1,Madison Square Garden,New York,NY,USA,>
+2023-07-30,2023,0,5,1,1,0,0,6,2023 Summer Tour,2023 Summer,Llama,,1,Madison Square Garden,New York,NY,USA,","
+2023-07-30,2023,0,6,2,1,0,0,6,2023 Summer Tour,2023 Summer,Tube,,1,Madison Square Garden,New York,NY,USA,>
+2023-07-30,2023,0,7,4,1,0,0,3,2023 Summer Tour,2023 Summer,Golgi Apparatus,Golgi,1,Madison Square Garden,New York,NY,USA,
+2023-07-30,2023,0,8,1,2,0,0,7,2023 Summer Tour,2023 Summer,Sigma Oasis,,0,Madison Square Garden,New York,NY,USA,","
+2023-07-30,2023,0,9,2,2,0,0,1977,2023 Summer Tour,2023 Summer,Life Saving Gun,,1,Madison Square Garden,New York,NY,USA,>
+2023-07-30,2023,0,10,2,2,0,0,4,2023 Summer Tour,2023 Summer,No Men In No Man's Land,NMINML,1,Madison Square Garden,New York,NY,USA,>
+2023-07-30,2023,0,11,2,2,0,0,14,2023 Summer Tour,2023 Summer,Lonely Trip,,0,Madison Square Garden,New York,NY,USA,>
+2023-07-30,2023,0,12,2,2,0,0,73,2023 Summer Tour,2023 Summer,Frankie Says,,1,Madison Square Garden,New York,NY,USA,>
+2023-07-30,2023,0,13,2,2,0,0,9,2023 Summer Tour,2023 Summer,Gotta Jibboo,Jibboo,0,Madison Square Garden,New York,NY,USA,>
+2023-07-30,2023,0,14,5,2,0,0,9,2023 Summer Tour,2023 Summer,Light,,0,Madison Square Garden,New York,NY,USA,
+2023-07-30,2023,0,15,1,e,0,0,5,2023 Summer Tour,2023 Summer,Suzy Greenberg,Suzy,1,Madison Square Garden,New York,NY,USA,","
+2023-07-30,2023,0,16,6,e,0,0,21,2023 Summer Tour,2023 Summer,Izabella,,0,Madison Square Garden,New York,NY,USA,
+2023-08-01,2023,0,1,1,1,0,0,7,2023 Summer Tour,2023 Summer,Ghost,,1,Madison Square Garden,New York,NY,USA,","
+2023-08-01,2023,0,2,1,1,0,0,11,2023 Summer Tour,2023 Summer,Reba,,1,Madison Square Garden,New York,NY,USA,","
+2023-08-01,2023,0,3,1,1,0,0,9,2023 Summer Tour,2023 Summer,Funky Bitch,,0,Madison Square Garden,New York,NY,USA,","
+2023-08-01,2023,0,4,1,1,0,0,10,2023 Summer Tour,2023 Summer,Timber (Jerry the Mule),Timber Ho,0,Madison Square Garden,New York,NY,USA,","
+2023-08-01,2023,0,5,1,1,0,0,1973,2023 Summer Tour,2023 Summer,Broken Into Pieces,,0,Madison Square Garden,New York,NY,USA,","
+2023-08-01,2023,0,6,1,1,0,0,6,2023 Summer Tour,2023 Summer,Wolfman's Brother,Wolfman's,1,Madison Square Garden,New York,NY,USA,","
+2023-08-01,2023,0,7,4,1,0,0,76,2023 Summer Tour,2023 Summer,I Am the Walrus,,0,Madison Square Garden,New York,NY,USA,
+2023-08-01,2023,0,8,2,2,0,0,7,2023 Summer Tour,2023 Summer,Sample in a Jar,Sample,1,Madison Square Garden,New York,NY,USA,>
+2023-08-01,2023,0,9,2,2,0,0,6,2023 Summer Tour,2023 Summer,Kill Devil Falls,KDF,1,Madison Square Garden,New York,NY,USA,>
+2023-08-01,2023,0,10,1,2,0,0,4,2023 Summer Tour,2023 Summer,Golden Age,,0,Madison Square Garden,New York,NY,USA,","
+2023-08-01,2023,0,11,2,2,0,0,10,2023 Summer Tour,2023 Summer,Shade,,1,Madison Square Garden,New York,NY,USA,>
+2023-08-01,2023,0,12,2,2,0,0,17,2023 Summer Tour,2023 Summer,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,Madison Square Garden,New York,NY,USA,>
+2023-08-01,2023,0,13,1,2,0,0,7,2023 Summer Tour,2023 Summer,Twist,,1,Madison Square Garden,New York,NY,USA,","
+2023-08-01,2023,0,14,5,2,0,0,11,2023 Summer Tour,2023 Summer,You Enjoy Myself,YEM,1,Madison Square Garden,New York,NY,USA,
+2023-08-01,2023,0,15,2,e,0,0,11,2023 Summer Tour,2023 Summer,Wilson,,1,Madison Square Garden,New York,NY,USA,>
+2023-08-01,2023,0,16,1,e,0,0,103,2023 Summer Tour,2023 Summer,Sanity,,1,Madison Square Garden,New York,NY,USA,","
+2023-08-01,2023,0,17,2,e,0,0,8,2023 Summer Tour,2023 Summer,David Bowie,Bowie,1,Madison Square Garden,New York,NY,USA,>
+2023-08-01,2023,0,18,6,e,0,0,8,2023 Summer Tour,2023 Summer,Character Zero,,1,Madison Square Garden,New York,NY,USA,
+2023-08-02,2023,0,1,1,1,0,0,7,2023 Summer Tour,2023 Summer,Possum,,1,Madison Square Garden,New York,NY,USA,","
+2023-08-02,2023,0,2,1,1,0,0,31,2023 Summer Tour,2023 Summer,Guyute,,1,Madison Square Garden,New York,NY,USA,","
+2023-08-02,2023,0,3,2,1,0,0,6,2023 Summer Tour,2023 Summer,Axilla (Part II),,1,Madison Square Garden,New York,NY,USA,>
+2023-08-02,2023,0,4,3,1,0,0,37,2023 Summer Tour,2023 Summer,Energy,,0,Madison Square Garden,New York,NY,USA,->
+2023-08-02,2023,0,5,3,1,0,0,16,2023 Summer Tour,2023 Summer,Meatstick,,1,Madison Square Garden,New York,NY,USA,->
+2023-08-02,2023,0,6,2,1,0,0,10,2023 Summer Tour,2023 Summer,It's Ice,,1,Madison Square Garden,New York,NY,USA,>
+2023-08-02,2023,0,7,4,1,0,0,6,2023 Summer Tour,2023 Summer,Blaze On,,1,Madison Square Garden,New York,NY,USA,
+2023-08-02,2023,0,8,2,2,0,0,11,2023 Summer Tour,2023 Summer,Cavern,,1,Madison Square Garden,New York,NY,USA,>
+2023-08-02,2023,0,9,2,2,0,0,5,2023 Summer Tour,2023 Summer,Carini,,1,Madison Square Garden,New York,NY,USA,>
+2023-08-02,2023,0,10,2,2,0,0,6,2023 Summer Tour,2023 Summer,Piper,,1,Madison Square Garden,New York,NY,USA,>
+2023-08-02,2023,0,11,2,2,0,0,6,2023 Summer Tour,2023 Summer,The Well,,0,Madison Square Garden,New York,NY,USA,>
+2023-08-02,2023,0,12,2,2,0,0,11,2023 Summer Tour,2023 Summer,The Howling,,1,Madison Square Garden,New York,NY,USA,>
+2023-08-02,2023,0,13,2,2,0,0,8,2023 Summer Tour,2023 Summer,Taste,,1,Madison Square Garden,New York,NY,USA,>
+2023-08-02,2023,0,14,1,2,0,0,5,2023 Summer Tour,2023 Summer,About to Run,,0,Madison Square Garden,New York,NY,USA,","
+2023-08-02,2023,0,15,5,2,0,0,6,2023 Summer Tour,2023 Summer,Chalk Dust Torture,CDT,1,Madison Square Garden,New York,NY,USA,
+2023-08-02,2023,0,16,1,e,0,0,120,2023 Summer Tour,2023 Summer,Frankenstein,,0,Madison Square Garden,New York,NY,USA,","
+2023-08-02,2023,0,17,6,e,0,0,9,2023 Summer Tour,2023 Summer,Slave to the Traffic Light,Slave,1,Madison Square Garden,New York,NY,USA,
 2023-08-04,2023,0,1,1,1,0,0,13,2023 Summer Tour,2023 Summer,Buried Alive,,1,Madison Square Garden,New York,NY,USA,","
 2023-08-04,2023,0,2,1,1,0,0,6,2023 Summer Tour,2023 Summer,The Moma Dance,Moma,1,Madison Square Garden,New York,NY,USA,","
 2023-08-04,2023,0,3,2,1,0,0,7,2023 Summer Tour,2023 Summer,46 Days,,1,Madison Square Garden,New York,NY,USA,>
@@ -309,6 +526,40 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-08-04,2023,0,15,5,2,0,0,60,2023 Summer Tour,2023 Summer,While My Guitar Gently Weeps,WMGGW,0,Madison Square Garden,New York,NY,USA,
 2023-08-04,2023,0,16,2,e,0,0,6,2023 Summer Tour,2023 Summer,Weekapaug Groove,Weekapaug,1,Madison Square Garden,New York,NY,USA,>
 2023-08-04,2023,0,17,6,e,0,0,6,2023 Summer Tour,2023 Summer,Fluffhead,,1,Madison Square Garden,New York,NY,USA,
+2023-08-05,2023,0,1,2,1,0,0,22,2023 Summer Tour,2023 Summer,Loving Cup,,0,Madison Square Garden,New York,NY,USA,>
+2023-08-05,2023,0,2,1,1,0,0,11,2023 Summer Tour,2023 Summer,Maze,,1,Madison Square Garden,New York,NY,USA,","
+2023-08-05,2023,0,3,2,1,0,0,18,2023 Summer Tour,2023 Summer,Martian Monster,,1,Madison Square Garden,New York,NY,USA,>
+2023-08-05,2023,0,4,2,1,0,0,13,2023 Summer Tour,2023 Summer,Divided Sky,Divided,1,Madison Square Garden,New York,NY,USA,>
+2023-08-05,2023,0,5,3,1,0,0,7,2023 Summer Tour,2023 Summer,Prince Caspian,Caspian,1,Madison Square Garden,New York,NY,USA,->
+2023-08-05,2023,0,6,2,1,0,0,14,2023 Summer Tour,2023 Summer,NICU,,1,Madison Square Garden,New York,NY,USA,>
+2023-08-05,2023,0,7,1,1,0,0,9,2023 Summer Tour,2023 Summer,Steam,,1,Madison Square Garden,New York,NY,USA,","
+2023-08-05,2023,0,8,4,1,0,0,13,2023 Summer Tour,2023 Summer,Drift While You're Sleeping,,0,Madison Square Garden,New York,NY,USA,
+2023-08-05,2023,0,9,1,2,0,0,7,2023 Summer Tour,2023 Summer,Set Your Soul Free,,0,Madison Square Garden,New York,NY,USA,","
+2023-08-05,2023,0,10,3,2,0,0,9,2023 Summer Tour,2023 Summer,Tweezer,,1,Madison Square Garden,New York,NY,USA,->
+2023-08-05,2023,0,11,3,2,0,0,425,2023 Summer Tour,2023 Summer,Guy Forget,,1,Madison Square Garden,New York,NY,USA,->
+2023-08-05,2023,0,12,2,2,0,0,0,2023 Summer Tour,2023 Summer,Tweezer,,1,Madison Square Garden,New York,NY,USA,>
+2023-08-05,2023,0,13,2,2,0,0,9,2023 Summer Tour,2023 Summer,What's the Use?,WTU?,1,Madison Square Garden,New York,NY,USA,>
+2023-08-05,2023,0,14,3,2,0,0,11,2023 Summer Tour,2023 Summer,Scents and Subtle Sounds,,1,Madison Square Garden,New York,NY,USA,->
+2023-08-05,2023,0,15,3,2,0,0,0,2023 Summer Tour,2023 Summer,Tweezer,,1,Madison Square Garden,New York,NY,USA,->
+2023-08-05,2023,0,16,2,2,0,0,10,2023 Summer Tour,2023 Summer,Everything's Right,,0,Madison Square Garden,New York,NY,USA,>
+2023-08-05,2023,0,17,2,2,0,0,7,2023 Summer Tour,2023 Summer,Backwards Down the Number Line,BDTNL,0,Madison Square Garden,New York,NY,USA,>
+2023-08-05,2023,0,18,5,2,0,0,9,2023 Summer Tour,2023 Summer,Tweezer Reprise,Tweeprise,1,Madison Square Garden,New York,NY,USA,
+2023-08-05,2023,0,19,6,e,2,2,7,2023 Summer Tour,2023 Summer,Harry Hood,Hood,1,Madison Square Garden,New York,NY,USA,
+2023-08-25,2023,0,1,1,1,0,0,4,Not Part of a Tour,No Tour,Kill Devil Falls,KDF,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,","
+2023-08-25,2023,0,2,1,1,0,0,2,Not Part of a Tour,No Tour,The Moma Dance,Moma,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,","
+2023-08-25,2023,0,3,1,1,0,0,11,Not Part of a Tour,No Tour,Ocelot,,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,","
+2023-08-25,2023,0,4,1,1,0,0,6,Not Part of a Tour,No Tour,The Wedge,Wedge,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,","
+2023-08-25,2023,0,5,2,1,0,0,18,Not Part of a Tour,No Tour,Mull,,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,>
+2023-08-25,2023,0,6,1,1,0,0,37,Not Part of a Tour,No Tour,Punch You in the Eye,PYITE,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,","
+2023-08-25,2023,0,7,1,1,0,0,2,Not Part of a Tour,No Tour,Sand,,0,Broadview Stage at SPAC,Saratoga Springs,NY,USA,","
+2023-08-25,2023,0,8,4,1,0,0,11,Not Part of a Tour,No Tour,Rock and Roll,R&amp;R,0,Broadview Stage at SPAC,Saratoga Springs,NY,USA,
+2023-08-25,2023,0,9,1,2,0,0,6,Not Part of a Tour,No Tour,Evolve,,0,Broadview Stage at SPAC,Saratoga Springs,NY,USA,","
+2023-08-25,2023,0,10,3,2,0,0,7,Not Part of a Tour,No Tour,A Wave of Hope,,0,Broadview Stage at SPAC,Saratoga Springs,NY,USA,->
+2023-08-25,2023,0,11,2,2,0,0,7,Not Part of a Tour,No Tour,Simple,,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,>
+2023-08-25,2023,0,12,3,2,0,0,6,Not Part of a Tour,No Tour,Fuego,,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,->
+2023-08-25,2023,0,13,5,2,0,0,3,Not Part of a Tour,No Tour,Chalk Dust Torture,CDT,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,
+2023-08-25,2023,0,14,1,e,0,0,9,Not Part of a Tour,No Tour,Wading in the Velvet Sea,Velvet Sea,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,","
+2023-08-25,2023,0,15,6,e,0,0,6,Not Part of a Tour,No Tour,Say It To Me S.A.N.T.O.S.,,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,
 2023-08-26,2023,0,1,1,1,0,0,8,Not Part of a Tour,No Tour,Free,,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,","
 2023-08-26,2023,0,2,1,1,0,0,5,Not Part of a Tour,No Tour,Wolfman's Brother,Wolfman's,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,","
 2023-08-26,2023,0,3,1,1,0,0,2,Not Part of a Tour,No Tour,Maze,,1,Broadview Stage at SPAC,Saratoga Springs,NY,USA,","
@@ -532,6 +783,28 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2023-10-14,2023,0,18,5,2,0,0,8,2023 Fall Tour,2023 Fall,Fluffhead,,1,United Center,Chicago,IL,USA,
 2023-10-14,2023,0,19,1,e,0,0,11,2023 Fall Tour,2023 Fall,A Life Beyond The Dream,,0,United Center,Chicago,IL,USA,","
 2023-10-14,2023,0,20,6,e,0,0,6,2023 Fall Tour,2023 Fall,Character Zero,,1,United Center,Chicago,IL,USA,
+2023-10-15,2023,0,1,2,1,0,0,134,2023 Fall Tour,2023 Fall,Everything is Hollow,,1,United Center,Chicago,IL,USA,>
+2023-10-15,2023,0,2,1,1,0,0,17,2023 Fall Tour,2023 Fall,Timber (Jerry the Mule),Timber Ho,0,United Center,Chicago,IL,USA,","
+2023-10-15,2023,0,3,1,1,0,0,13,2023 Fall Tour,2023 Fall,Ocelot,,1,United Center,Chicago,IL,USA,","
+2023-10-15,2023,0,4,1,1,0,0,40,2023 Fall Tour,2023 Fall,Vultures,,1,United Center,Chicago,IL,USA,","
+2023-10-15,2023,0,5,1,1,0,0,24,2023 Fall Tour,2023 Fall,Monsters,,0,United Center,Chicago,IL,USA,","
+2023-10-15,2023,0,6,1,1,0,0,20,2023 Fall Tour,2023 Fall,Plasma,,0,United Center,Chicago,IL,USA,","
+2023-10-15,2023,0,7,1,1,0,0,11,2023 Fall Tour,2023 Fall,Mercury,,1,United Center,Chicago,IL,USA,","
+2023-10-15,2023,0,8,1,1,0,0,6,2023 Fall Tour,2023 Fall,Stash,,1,United Center,Chicago,IL,USA,","
+2023-10-15,2023,0,9,1,1,0,0,25,2023 Fall Tour,2023 Fall,Leaves,,1,United Center,Chicago,IL,USA,","
+2023-10-15,2023,0,10,4,1,0,0,10,2023 Fall Tour,2023 Fall,David Bowie,Bowie,1,United Center,Chicago,IL,USA,
+2023-10-15,2023,0,11,2,2,0,0,113,2023 Fall Tour,2023 Fall,Drowned,,0,United Center,Chicago,IL,USA,>
+2023-10-15,2023,0,12,3,2,0,0,27,2023 Fall Tour,2023 Fall,A Song I Heard the Ocean Sing,ASIHTOS,1,United Center,Chicago,IL,USA,->
+2023-10-15,2023,0,13,3,2,0,0,2,2023 Fall Tour,2023 Fall,Tweezer,,1,United Center,Chicago,IL,USA,->
+2023-10-15,2023,0,14,1,2,0,0,13,2023 Fall Tour,2023 Fall,Simple,,1,United Center,Chicago,IL,USA,","
+2023-10-15,2023,0,15,1,2,0,0,46,2023 Fall Tour,2023 Fall,Pebbles and Marbles,,0,United Center,Chicago,IL,USA,","
+2023-10-15,2023,0,16,1,2,0,0,171,2023 Fall Tour,2023 Fall,Spanish Moon,,0,United Center,Chicago,IL,USA,","
+2023-10-15,2023,0,17,2,2,0,0,5,2023 Fall Tour,2023 Fall,A Wave of Hope,,0,United Center,Chicago,IL,USA,>
+2023-10-15,2023,0,18,1,2,0,0,5,2023 Fall Tour,2023 Fall,Evolve,,0,United Center,Chicago,IL,USA,","
+2023-10-15,2023,0,19,5,2,0,0,14,2023 Fall Tour,2023 Fall,Loving Cup,,0,United Center,Chicago,IL,USA,
+2023-10-15,2023,0,20,2,e,0,0,7,2023 Fall Tour,2023 Fall,Run Like an Antelope,Antelope,1,United Center,Chicago,IL,USA,>
+2023-10-15,2023,0,21,2,e,0,0,7,2023 Fall Tour,2023 Fall,Say It To Me S.A.N.T.O.S.,,1,United Center,Chicago,IL,USA,>
+2023-10-15,2023,0,22,6,e,0,0,8,2023 Fall Tour,2023 Fall,Tweezer Reprise,Tweeprise,1,United Center,Chicago,IL,USA,
 2023-12-28,2023,0,1,1,1,0,0,5,2023 NYE Run,2023 NYE,No Men In No Man's Land,NMINML,1,Madison Square Garden,New York,NY,USA,","
 2023-12-28,2023,0,2,2,1,0,0,3,2023 NYE Run,2023 NYE,Halley's Comet,Halley's,1,Madison Square Garden,New York,NY,USA,>
 2023-12-28,2023,0,3,1,1,0,0,2,2023 NYE Run,2023 NYE,Sample in a Jar,Sample,1,Madison Square Garden,New York,NY,USA,","

@@ -648,6 +648,27 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2016-09-04,2016,0,17,6,e,0,0,5,2016 Summer Tour,2016 Summer,Walls of the Cave,WotC,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
 2016-10-10,2016,1,1,1,1,0,0,0,Not Part of a Tour,No Tour,Breath and Burning,,1,NBC Studios,New York,NY,USA,","
 2016-10-10,2016,1,2,6,1,0,0,0,Not Part of a Tour,No Tour,Blaze On,,1,NBC Studios,New York,NY,USA,
+2016-10-14,2016,0,1,1,1,0,0,1739,2016 Fall Tour,2016 Fall,Petrichor,,0,North Charleston Coliseum,North Charleston,SC,USA,","
+2016-10-14,2016,0,2,1,1,0,0,3,2016 Fall Tour,2016 Fall,Ghost,,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2016-10-14,2016,0,3,1,1,0,0,3,2016 Fall Tour,2016 Fall,Heavy Things,,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2016-10-14,2016,0,4,1,1,0,0,1735,2016 Fall Tour,2016 Fall,Home,,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2016-10-14,2016,0,5,1,1,0,0,15,2016 Fall Tour,2016 Fall,Poor Heart,,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2016-10-14,2016,0,6,1,1,0,0,1,2016 Fall Tour,2016 Fall,Bathtub Gin,Gin,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2016-10-14,2016,0,7,1,1,0,0,2,2016 Fall Tour,2016 Fall,555,,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2016-10-14,2016,0,8,1,1,0,0,7,2016 Fall Tour,2016 Fall,Horn,,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2016-10-14,2016,0,9,4,1,0,0,1740,2016 Fall Tour,2016 Fall,More,,1,North Charleston Coliseum,North Charleston,SC,USA,
+2016-10-14,2016,0,10,2,2,0,0,3,2016 Fall Tour,2016 Fall,No Men In No Man's Land,NMINML,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2016-10-14,2016,0,11,3,2,0,0,2,2016 Fall Tour,2016 Fall,Down with Disease,DwD,1,North Charleston Coliseum,North Charleston,SC,USA,->
+2016-10-14,2016,0,12,2,2,0,0,9,2016 Fall Tour,2016 Fall,Cities,,0,North Charleston Coliseum,North Charleston,SC,USA,>
+2016-10-14,2016,0,13,2,2,0,0,10,2016 Fall Tour,2016 Fall,Roggae,,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2016-10-14,2016,0,14,2,2,0,0,14,2016 Fall Tour,2016 Fall,Twenty Years Later,,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2016-10-14,2016,0,15,2,2,0,0,1,2016 Fall Tour,2016 Fall,Light,,0,North Charleston Coliseum,North Charleston,SC,USA,>
+2016-10-14,2016,0,16,1,2,0,0,5,2016 Fall Tour,2016 Fall,Free,,1,North Charleston Coliseum,North Charleston,SC,USA,","
+2016-10-14,2016,0,17,2,2,0,0,7,2016 Fall Tour,2016 Fall,Boogie On Reggae Woman,Boogie On,0,North Charleston Coliseum,North Charleston,SC,USA,>
+2016-10-14,2016,0,18,5,2,0,0,2,2016 Fall Tour,2016 Fall,Harry Hood,Hood,1,North Charleston Coliseum,North Charleston,SC,USA,
+2016-10-14,2016,0,19,1,e,0,0,13,2016 Fall Tour,2016 Fall,Winterqueen,,0,North Charleston Coliseum,North Charleston,SC,USA,","
+2016-10-14,2016,0,20,2,e,0,0,1,2016 Fall Tour,2016 Fall,Tube,,1,North Charleston Coliseum,North Charleston,SC,USA,>
+2016-10-14,2016,0,21,6,e,0,0,13,2016 Fall Tour,2016 Fall,Rocky Top,,0,North Charleston Coliseum,North Charleston,SC,USA,
 2016-10-15,2016,0,1,1,1,0,0,3,2016 Fall Tour,2016 Fall,Blaze On,,1,North Charleston Coliseum,North Charleston,SC,USA,","
 2016-10-15,2016,0,2,1,1,0,0,3,2016 Fall Tour,2016 Fall,What's the Use?,WTU?,1,North Charleston Coliseum,North Charleston,SC,USA,","
 2016-10-15,2016,0,3,1,1,0,0,5,2016 Fall Tour,2016 Fall,Martian Monster,,1,North Charleston Coliseum,North Charleston,SC,USA,","
@@ -671,6 +692,47 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2016-10-15,2016,0,21,1,2,0,0,8,2016 Fall Tour,2016 Fall,Joy,,1,North Charleston Coliseum,North Charleston,SC,USA,","
 2016-10-15,2016,0,22,5,2,0,0,5,2016 Fall Tour,2016 Fall,Possum,,1,North Charleston Coliseum,North Charleston,SC,USA,
 2016-10-15,2016,0,23,6,e,0,0,13,2016 Fall Tour,2016 Fall,Good Times Bad Times,GTBT,0,North Charleston Coliseum,North Charleston,SC,USA,
+2016-10-16,2016,0,1,2,1,0,0,9,2016 Fall Tour,2016 Fall,Kill Devil Falls,KDF,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,>
+2016-10-16,2016,0,2,2,1,0,0,3,2016 Fall Tour,2016 Fall,The Moma Dance,Moma,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,>
+2016-10-16,2016,0,3,1,1,0,0,9,2016 Fall Tour,2016 Fall,Back on the Train,BOTT,0,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,4,1,1,0,0,5,2016 Fall Tour,2016 Fall,Undermind,,0,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,5,1,1,0,0,23,2016 Fall Tour,2016 Fall,Nellie Kane,,0,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,6,1,1,0,0,5,2016 Fall Tour,2016 Fall,Stash,,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,7,1,1,0,0,2,2016 Fall Tour,2016 Fall,Petrichor,,0,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,8,2,1,0,0,3,2016 Fall Tour,2016 Fall,Mike's Song,Mike's,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,>
+2016-10-16,2016,0,9,1,1,0,0,9,2016 Fall Tour,2016 Fall,Bouncing Around the Room,Bouncin',1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,10,4,1,0,0,3,2016 Fall Tour,2016 Fall,Weekapaug Groove,Weekapaug,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,
+2016-10-16,2016,0,11,2,2,0,0,3,2016 Fall Tour,2016 Fall,Crosseyed and Painless,C&amp;P,0,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,>
+2016-10-16,2016,0,12,2,2,0,0,3,2016 Fall Tour,2016 Fall,Steam,,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,>
+2016-10-16,2016,0,13,2,2,0,0,3,2016 Fall Tour,2016 Fall,Piper,,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,>
+2016-10-16,2016,0,14,1,2,0,0,3,2016 Fall Tour,2016 Fall,Wingsuit,,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,15,2,2,0,0,11,2016 Fall Tour,2016 Fall,Sparkle,,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,>
+2016-10-16,2016,0,16,1,2,0,0,5,2016 Fall Tour,2016 Fall,The Wedge,Wedge,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,17,2,2,0,0,10,2016 Fall Tour,2016 Fall,Wading in the Velvet Sea,Velvet Sea,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,>
+2016-10-16,2016,0,18,5,2,0,0,5,2016 Fall Tour,2016 Fall,Run Like an Antelope,Antelope,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,
+2016-10-16,2016,0,19,1,e,0,0,15,2016 Fall Tour,2016 Fall,The Ballad of Curtis Loew,Curtis Loew,0,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,20,6,e,0,0,3,2016 Fall Tour,2016 Fall,Character Zero,,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,
+2016-10-18,2016,0,1,1,1,0,0,4,2016 Fall Tour,2016 Fall,Chalk Dust Torture,CDT,1,Ascend Amphitheater,Nashville,TN,USA,","
+2016-10-18,2016,0,2,1,1,0,0,2,2016 Fall Tour,2016 Fall,Blaze On,,1,Ascend Amphitheater,Nashville,TN,USA,","
+2016-10-18,2016,0,3,1,1,0,0,3,2016 Fall Tour,2016 Fall,Ghost,,1,Ascend Amphitheater,Nashville,TN,USA,","
+2016-10-18,2016,0,4,1,1,0,0,15,2016 Fall Tour,2016 Fall,Lawn Boy,,1,Ascend Amphitheater,Nashville,TN,USA,","
+2016-10-18,2016,0,5,2,1,0,0,7,2016 Fall Tour,2016 Fall,Halley's Comet,Halley's,1,Ascend Amphitheater,Nashville,TN,USA,>
+2016-10-18,2016,0,6,1,1,0,0,2,2016 Fall Tour,2016 Fall,Sand,,0,Ascend Amphitheater,Nashville,TN,USA,","
+2016-10-18,2016,0,7,1,1,0,0,14,2016 Fall Tour,2016 Fall,Tide Turns,,1,Ascend Amphitheater,Nashville,TN,USA,","
+2016-10-18,2016,0,8,2,1,0,0,6,2016 Fall Tour,2016 Fall,46 Days,,1,Ascend Amphitheater,Nashville,TN,USA,>
+2016-10-18,2016,0,9,1,1,0,0,5,2016 Fall Tour,2016 Fall,Breath and Burning,,1,Ascend Amphitheater,Nashville,TN,USA,","
+2016-10-18,2016,0,10,2,1,0,0,7,2016 Fall Tour,2016 Fall,Limb By Limb,LxL,1,Ascend Amphitheater,Nashville,TN,USA,>
+2016-10-18,2016,0,11,2,1,0,0,10,2016 Fall Tour,2016 Fall,Cavern,,1,Ascend Amphitheater,Nashville,TN,USA,>
+2016-10-18,2016,0,12,4,1,0,0,5,2016 Fall Tour,2016 Fall,Also Sprach Zarathustra,2001,0,Ascend Amphitheater,Nashville,TN,USA,
+2016-10-18,2016,0,13,2,2,0,0,11,2016 Fall Tour,2016 Fall,Julius,,1,Ascend Amphitheater,Nashville,TN,USA,>
+2016-10-18,2016,0,14,2,2,0,0,2,2016 Fall Tour,2016 Fall,Fuego,,1,Ascend Amphitheater,Nashville,TN,USA,>
+2016-10-18,2016,0,15,1,2,0,0,16,2016 Fall Tour,2016 Fall,"My Friend, My Friend",My Friend,1,Ascend Amphitheater,Nashville,TN,USA,","
+2016-10-18,2016,0,16,1,2,0,0,0,2016 Fall Tour,2016 Fall,Samson and Delilah,,0,Ascend Amphitheater,Nashville,TN,USA,","
+2016-10-18,2016,0,17,2,2,0,0,2,2016 Fall Tour,2016 Fall,Twist,,1,Ascend Amphitheater,Nashville,TN,USA,>
+2016-10-18,2016,0,18,1,2,0,0,2,2016 Fall Tour,2016 Fall,Miss You,,1,Ascend Amphitheater,Nashville,TN,USA,","
+2016-10-18,2016,0,19,2,2,0,0,383,2016 Fall Tour,2016 Fall,West L.A. Fadeaway,,0,Ascend Amphitheater,Nashville,TN,USA,>
+2016-10-18,2016,0,20,5,2,0,0,0,2016 Fall Tour,2016 Fall,Playing in the Band,,0,Ascend Amphitheater,Nashville,TN,USA,
+2016-10-18,2016,0,21,6,e,0,0,24,2016 Fall Tour,2016 Fall,Quinn the Eskimo (The Mighty Quinn),Quinn,0,Ascend Amphitheater,Nashville,TN,USA,
 2016-10-19,2016,0,1,1,1,0,0,6,2016 Fall Tour,2016 Fall,Theme from the Bottom,Theme,1,Ascend Amphitheater,Nashville,TN,USA,","
 2016-10-19,2016,0,2,1,1,0,0,26,2016 Fall Tour,2016 Fall,Camel Walk,,1,Ascend Amphitheater,Nashville,TN,USA,","
 2016-10-19,2016,0,3,1,1,0,0,32,2016 Fall Tour,2016 Fall,My Soul,,0,Ascend Amphitheater,Nashville,TN,USA,","
@@ -690,6 +752,24 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2016-10-19,2016,0,17,5,2,0,0,7,2016 Fall Tour,2016 Fall,Suzy Greenberg,Suzy,1,Ascend Amphitheater,Nashville,TN,USA,
 2016-10-19,2016,0,18,2,e,0,0,5,2016 Fall Tour,2016 Fall,Walls of the Cave,WotC,1,Ascend Amphitheater,Nashville,TN,USA,>
 2016-10-19,2016,0,19,6,e,0,0,7,2016 Fall Tour,2016 Fall,Tweezer Reprise,Tweeprise,1,Ascend Amphitheater,Nashville,TN,USA,
+2016-10-21,2016,0,1,1,1,0,0,14,2016 Fall Tour,2016 Fall,A Song I Heard the Ocean Sing,ASIHTOS,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2016-10-21,2016,0,2,2,1,0,0,9,2016 Fall Tour,2016 Fall,AC/DC Bag,Bag,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2016-10-21,2016,0,3,1,1,0,0,3,2016 Fall Tour,2016 Fall,Back on the Train,BOTT,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2016-10-21,2016,0,4,1,1,0,0,2,2016 Fall Tour,2016 Fall,Blaze On,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2016-10-21,2016,0,5,1,1,0,0,15,2016 Fall Tour,2016 Fall,Sugar Shack,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2016-10-21,2016,0,6,1,1,0,0,4,2016 Fall Tour,2016 Fall,Things People Do,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2016-10-21,2016,0,7,1,1,0,0,8,2016 Fall Tour,2016 Fall,Birds of a Feather,BOAF,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2016-10-21,2016,0,8,1,1,0,0,4,2016 Fall Tour,2016 Fall,Mercury,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2016-10-21,2016,0,9,1,1,0,0,24,2016 Fall Tour,2016 Fall,Let's Go,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2016-10-21,2016,0,10,1,1,0,0,8,2016 Fall Tour,2016 Fall,Alaska,,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2016-10-21,2016,0,11,4,1,0,0,5,2016 Fall Tour,2016 Fall,More,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
+2016-10-21,2016,0,12,2,2,0,0,5,2016 Fall Tour,2016 Fall,Down with Disease,DwD,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2016-10-21,2016,0,13,2,2,0,0,4,2016 Fall Tour,2016 Fall,Carini,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2016-10-21,2016,0,14,1,2,0,0,5,2016 Fall Tour,2016 Fall,Winterqueen,,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2016-10-21,2016,0,15,2,2,0,0,2,2016 Fall Tour,2016 Fall,Ghost,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2016-10-21,2016,0,16,1,2,0,0,4,2016 Fall Tour,2016 Fall,Possum,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2016-10-21,2016,0,17,5,2,0,0,7,2016 Fall Tour,2016 Fall,Slave to the Traffic Light,Slave,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
+2016-10-21,2016,0,18,6,e,0,0,9,2016 Fall Tour,2016 Fall,Loving Cup,,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
 2016-10-22,2016,0,1,2,1,0,0,4,2016 Fall Tour,2016 Fall,Mike's Song,Mike's,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
 2016-10-22,2016,0,2,2,1,0,0,5,2016 Fall Tour,2016 Fall,Ass Handed,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
 2016-10-22,2016,0,3,1,1,0,0,4,2016 Fall Tour,2016 Fall,Weekapaug Groove,Weekapaug,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
@@ -711,6 +791,30 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2016-10-22,2016,0,19,5,2,0,0,0,2016 Fall Tour,2016 Fall,46 Days,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
 2016-10-22,2016,0,20,2,e,0,0,18,2016 Fall Tour,2016 Fall,Makisupa Policeman,Makisupa,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
 2016-10-22,2016,0,21,6,e,0,0,7,2016 Fall Tour,2016 Fall,First Tube,,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
+2016-10-24,2016,0,1,1,1,0,0,3,2016 Fall Tour,2016 Fall,No Men In No Man's Land,NMINML,1,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,","
+2016-10-24,2016,0,2,1,1,0,0,4,2016 Fall Tour,2016 Fall,Breath and Burning,,1,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,","
+2016-10-24,2016,0,3,1,1,0,0,7,2016 Fall Tour,2016 Fall,Poor Heart,,1,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,","
+2016-10-24,2016,0,4,1,1,0,0,6,2016 Fall Tour,2016 Fall,Wolfman's Brother,Wolfman's,1,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,","
+2016-10-24,2016,0,5,1,1,0,0,13,2016 Fall Tour,2016 Fall,Water in the Sky,,1,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,","
+2016-10-24,2016,0,6,2,1,0,0,3,2016 Fall Tour,2016 Fall,My Soul,,0,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,>
+2016-10-24,2016,0,7,2,1,0,0,26,2016 Fall Tour,2016 Fall,NICU,,1,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,>
+2016-10-24,2016,0,8,2,1,0,0,12,2016 Fall Tour,2016 Fall,It's Ice,,1,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,>
+2016-10-24,2016,0,9,1,1,0,0,17,2016 Fall Tour,2016 Fall,Ocelot,,1,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,","
+2016-10-24,2016,0,10,1,1,0,0,11,2016 Fall Tour,2016 Fall,Fuck Your Face,FYF,1,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,","
+2016-10-24,2016,0,11,1,1,0,0,1,2016 Fall Tour,2016 Fall,Ass Handed,,1,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,","
+2016-10-24,2016,0,12,1,1,0,0,14,2016 Fall Tour,2016 Fall,Saw It Again,,1,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,","
+2016-10-24,2016,0,13,2,1,0,0,3,2016 Fall Tour,2016 Fall,Running Out of Time,,1,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,>
+2016-10-24,2016,0,14,4,1,0,0,15,2016 Fall Tour,2016 Fall,David Bowie,Bowie,1,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,
+2016-10-24,2016,0,15,2,2,0,0,50,2016 Fall Tour,2016 Fall,Dog Faced Boy,,1,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,>
+2016-10-24,2016,0,16,2,2,0,0,10,2016 Fall Tour,2016 Fall,Seven Below,,1,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,>
+2016-10-24,2016,0,17,1,2,0,0,3,2016 Fall Tour,2016 Fall,Petrichor,,0,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,","
+2016-10-24,2016,0,18,2,2,0,0,6,2016 Fall Tour,2016 Fall,Maze,,1,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,>
+2016-10-24,2016,0,19,1,2,0,0,37,2016 Fall Tour,2016 Fall,Dirt,,0,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,","
+2016-10-24,2016,0,20,2,2,0,0,6,2016 Fall Tour,2016 Fall,I Always Wanted It This Way,,1,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,>
+2016-10-24,2016,0,21,1,2,0,0,5,2016 Fall Tour,2016 Fall,Piper,,1,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,","
+2016-10-24,2016,0,22,5,2,0,0,10,2016 Fall Tour,2016 Fall,Bug,,0,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,
+2016-10-24,2016,0,23,2,e,0,0,43,2016 Fall Tour,2016 Fall,Buffalo Bill,,1,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,>
+2016-10-24,2016,0,24,6,e,0,0,9,2016 Fall Tour,2016 Fall,Rock and Roll,R&amp;R,0,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,
 2016-10-25,2016,0,1,1,1,0,0,18,2016 Fall Tour,2016 Fall,Daniel Saw the Stone,,0,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,","
 2016-10-25,2016,0,2,2,1,0,0,6,2016 Fall Tour,2016 Fall,The Moma Dance,Moma,1,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,>
 2016-10-25,2016,0,3,1,1,0,0,5,2016 Fall Tour,2016 Fall,Chalk Dust Torture,CDT,1,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,","
@@ -734,6 +838,27 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2016-10-25,2016,0,21,1,2,0,0,5,2016 Fall Tour,2016 Fall,Julius,,1,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,","
 2016-10-25,2016,0,22,5,2,0,0,7,2016 Fall Tour,2016 Fall,Good Times Bad Times,GTBT,0,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,
 2016-10-25,2016,0,23,6,e,0,0,25,2016 Fall Tour,2016 Fall,Show of Life,,0,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,
+2016-10-28,2016,0,1,1,1,0,0,8,2016 Fall Tour,2016 Fall,Martian Monster,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2016-10-28,2016,0,2,1,1,0,0,2,2016 Fall Tour,2016 Fall,No Men In No Man's Land,NMINML,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2016-10-28,2016,0,3,1,1,0,0,182,2016 Fall Tour,2016 Fall,Dogs Stole Things,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2016-10-28,2016,0,4,1,1,0,0,227,2016 Fall Tour,2016 Fall,Beauty of My Dreams,,0,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2016-10-28,2016,0,5,1,1,0,0,22,2016 Fall Tour,2016 Fall,Destiny Unbound,Destiny,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2016-10-28,2016,0,6,1,1,0,0,6,2016 Fall Tour,2016 Fall,Limb By Limb,LxL,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2016-10-28,2016,0,7,1,1,0,0,9,2016 Fall Tour,2016 Fall,Home,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2016-10-28,2016,0,8,1,1,0,0,19,2016 Fall Tour,2016 Fall,When the Circus Comes,Circus,0,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2016-10-28,2016,0,9,2,1,0,0,7,2016 Fall Tour,2016 Fall,Steam,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2016-10-28,2016,0,10,1,1,0,0,7,2016 Fall Tour,2016 Fall,The Wedge,Wedge,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2016-10-28,2016,0,11,1,1,0,0,6,2016 Fall Tour,2016 Fall,Cavern,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2016-10-28,2016,0,12,4,1,0,0,5,2016 Fall Tour,2016 Fall,Walls of the Cave,WotC,1,MGM Grand Garden Arena,Las Vegas,NV,USA,
+2016-10-28,2016,0,13,1,2,0,0,283,2016 Fall Tour,2016 Fall,Crimes of the Mind,,0,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2016-10-28,2016,0,14,2,2,0,0,5,2016 Fall Tour,2016 Fall,Golden Age,,0,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2016-10-28,2016,0,15,2,2,0,0,3,2016 Fall Tour,2016 Fall,Simple,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2016-10-28,2016,0,16,2,2,0,0,9,2016 Fall Tour,2016 Fall,Light,,0,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2016-10-28,2016,0,17,2,2,0,0,9,2016 Fall Tour,2016 Fall,Twenty Years Later,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
+2016-10-28,2016,0,18,1,2,0,0,4,2016 Fall Tour,2016 Fall,Blaze On,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2016-10-28,2016,0,19,5,2,0,0,11,2016 Fall Tour,2016 Fall,The Squirming Coil,Coil,1,MGM Grand Garden Arena,Las Vegas,NV,USA,
+2016-10-28,2016,0,20,1,e,0,0,7,2016 Fall Tour,2016 Fall,Bouncing Around the Room,Bouncin',1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
+2016-10-28,2016,0,21,6,e,0,0,22,2016 Fall Tour,2016 Fall,Bold As Love,,0,MGM Grand Garden Arena,Las Vegas,NV,USA,
 2016-10-29,2016,0,1,1,1,0,0,29,2016 Fall Tour,2016 Fall,The Birds,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
 2016-10-29,2016,0,2,1,1,0,0,8,2016 Fall Tour,2016 Fall,Kill Devil Falls,KDF,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
 2016-10-29,2016,0,3,1,1,0,0,10,2016 Fall Tour,2016 Fall,555,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
@@ -804,6 +929,28 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2016-10-31,2016,0,29,2,3,0,0,4,2016 Fall Tour,2016 Fall,Backwards Down the Number Line,BDTNL,0,MGM Grand Garden Arena,Las Vegas,NV,USA,>
 2016-10-31,2016,0,30,5,3,0,0,7,2016 Fall Tour,2016 Fall,Slave to the Traffic Light,Slave,1,MGM Grand Garden Arena,Las Vegas,NV,USA,
 2016-10-31,2016,0,31,6,e,0,0,17,2016 Fall Tour,2016 Fall,Space Oddity,,0,MGM Grand Garden Arena,Las Vegas,NV,USA,
+2016-12-28,2016,0,1,1,1,0,0,76,2016 NYE Run,2016 NYE,The Star-Spangled Banner,Star Spangled Banner,0,Madison Square Garden,New York,NY,USA,","
+2016-12-28,2016,0,2,1,1,0,0,5,2016 NYE Run,2016 NYE,Stealing Time From the Faulty Plan,STFTFP,1,Madison Square Garden,New York,NY,USA,","
+2016-12-28,2016,0,3,2,1,0,0,177,2016 NYE Run,2016 NYE,Lonesome Cowboy Bill,,0,Madison Square Garden,New York,NY,USA,>
+2016-12-28,2016,0,4,1,1,0,0,1,2016 NYE Run,2016 NYE,Free,,1,Madison Square Garden,New York,NY,USA,","
+2016-12-28,2016,0,5,2,1,0,0,42,2016 NYE Run,2016 NYE,Train Song,,1,Madison Square Garden,New York,NY,USA,>
+2016-12-28,2016,0,6,1,1,0,0,20,2016 NYE Run,2016 NYE,Prince Caspian,Caspian,1,Madison Square Garden,New York,NY,USA,","
+2016-12-28,2016,0,7,1,1,0,0,3,2016 NYE Run,2016 NYE,Roggae,,1,Madison Square Garden,New York,NY,USA,","
+2016-12-28,2016,0,8,1,1,0,0,2,2016 NYE Run,2016 NYE,Funky Bitch,,0,Madison Square Garden,New York,NY,USA,","
+2016-12-28,2016,0,9,1,1,0,0,9,2016 NYE Run,2016 NYE,Halfway to the Moon,,1,Madison Square Garden,New York,NY,USA,","
+2016-12-28,2016,0,10,1,1,0,0,170,2016 NYE Run,2016 NYE,Corinna,,0,Madison Square Garden,New York,NY,USA,","
+2016-12-28,2016,0,11,1,1,0,0,2,2016 NYE Run,2016 NYE,Stash,,1,Madison Square Garden,New York,NY,USA,","
+2016-12-28,2016,0,12,4,1,0,0,4,2016 NYE Run,2016 NYE,Cavern,,1,Madison Square Garden,New York,NY,USA,
+2016-12-28,2016,0,13,1,2,0,0,1,2016 NYE Run,2016 NYE,Wolfman's Brother,Wolfman's,1,Madison Square Garden,New York,NY,USA,","
+2016-12-28,2016,0,14,3,2,0,0,4,2016 NYE Run,2016 NYE,Golden Age,,0,Madison Square Garden,New York,NY,USA,->
+2016-12-28,2016,0,15,2,2,0,0,4,2016 NYE Run,2016 NYE,Simple,,1,Madison Square Garden,New York,NY,USA,>
+2016-12-28,2016,0,16,1,2,0,0,2,2016 NYE Run,2016 NYE,Chalk Dust Torture,CDT,1,Madison Square Garden,New York,NY,USA,","
+2016-12-28,2016,0,17,3,2,0,0,4,2016 NYE Run,2016 NYE,Martian Monster,,1,Madison Square Garden,New York,NY,USA,->
+2016-12-28,2016,0,18,2,2,1,0,3,2016 NYE Run,2016 NYE,Tweezer Reprise,Tweeprise,1,Madison Square Garden,New York,NY,USA,>
+2016-12-28,2016,0,19,1,2,0,0,0,2016 NYE Run,2016 NYE,Martian Monster,,1,Madison Square Garden,New York,NY,USA,","
+2016-12-28,2016,0,20,2,2,0,0,3,2016 NYE Run,2016 NYE,Wingsuit,,1,Madison Square Garden,New York,NY,USA,>
+2016-12-28,2016,0,21,5,2,0,0,1,2016 NYE Run,2016 NYE,Possum,,1,Madison Square Garden,New York,NY,USA,
+2016-12-28,2016,0,22,6,e,0,0,5,2016 NYE Run,2016 NYE,Good Times Bad Times,GTBT,0,Madison Square Garden,New York,NY,USA,
 2016-12-29,2016,0,1,1,1,0,0,200,2016 NYE Run,2016 NYE,Sweet Adeline,,0,Madison Square Garden,New York,NY,USA,","
 2016-12-29,2016,0,2,2,1,0,0,164,2016 NYE Run,2016 NYE,Peaches en Regalia,Peaches,0,Madison Square Garden,New York,NY,USA,>
 2016-12-29,2016,0,3,2,1,0,0,8,2016 NYE Run,2016 NYE,Mike's Song,Mike's,1,Madison Square Garden,New York,NY,USA,>

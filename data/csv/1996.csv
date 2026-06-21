@@ -1047,3 +1047,238 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1996-11-24,1996,0,18,5,2,0,0,5,1996 Fall Tour,1996 Fall,Suzy Greenberg,Suzy,1,Memorial Coliseum,Portland,OR,USA,
 1996-11-24,1996,0,19,2,e,0,0,2,1996 Fall Tour,1996 Fall,Ginseng Sullivan,Ginseng,0,Memorial Coliseum,Portland,OR,USA,>
 1996-11-24,1996,0,20,6,e,0,0,2,1996 Fall Tour,1996 Fall,Cavern,,1,Memorial Coliseum,Portland,OR,USA,
+1996-11-27,1996,0,1,2,1,2,0,3,1996 Fall Tour,1996 Fall,Julius,,1,Key Arena,Seattle,WA,USA,>
+1996-11-27,1996,0,2,1,1,2,0,15,1996 Fall Tour,1996 Fall,"My Friend, My Friend",My Friend,1,Key Arena,Seattle,WA,USA,","
+1996-11-27,1996,0,3,1,1,2,0,4,1996 Fall Tour,1996 Fall,Ya Mar,,0,Key Arena,Seattle,WA,USA,","
+1996-11-27,1996,0,4,1,1,2,0,2,1996 Fall Tour,1996 Fall,Chalk Dust Torture,CDT,1,Key Arena,Seattle,WA,USA,","
+1996-11-27,1996,0,5,1,1,2,0,11,1996 Fall Tour,1996 Fall,The Sloth,Sloth,1,Key Arena,Seattle,WA,USA,","
+1996-11-27,1996,0,6,1,1,2,0,8,1996 Fall Tour,1996 Fall,Uncle Pen,,0,Key Arena,Seattle,WA,USA,","
+1996-11-27,1996,0,7,2,1,2,0,6,1996 Fall Tour,1996 Fall,Free,,1,Key Arena,Seattle,WA,USA,>
+1996-11-27,1996,0,8,1,1,2,0,3,1996 Fall Tour,1996 Fall,Theme from the Bottom,Theme,1,Key Arena,Seattle,WA,USA,","
+1996-11-27,1996,0,9,4,1,2,0,67,1996 Fall Tour,1996 Fall,Bold As Love,,0,Key Arena,Seattle,WA,USA,
+1996-11-27,1996,0,10,3,2,2,0,3,1996 Fall Tour,1996 Fall,Down with Disease,DwD,1,Key Arena,Seattle,WA,USA,->
+1996-11-27,1996,0,11,2,2,2,0,17,1996 Fall Tour,1996 Fall,Jesus Just Left Chicago,JJLC,0,Key Arena,Seattle,WA,USA,>
+1996-11-27,1996,0,12,1,2,2,0,5,1996 Fall Tour,1996 Fall,Scent of a Mule,SOAMule,1,Key Arena,Seattle,WA,USA,","
+1996-11-27,1996,0,13,3,2,2,0,5,1996 Fall Tour,1996 Fall,Tweezer,,1,Key Arena,Seattle,WA,USA,->
+1996-11-27,1996,0,14,3,2,1,0,236,1996 Fall Tour,1996 Fall,Sweet Emotion,,0,Key Arena,Seattle,WA,USA,->
+1996-11-27,1996,0,15,1,2,2,0,0,1996 Fall Tour,1996 Fall,Down with Disease,DwD,1,Key Arena,Seattle,WA,USA,","
+1996-11-27,1996,0,16,1,2,2,0,3,1996 Fall Tour,1996 Fall,The Star-Spangled Banner,Star Spangled Banner,0,Key Arena,Seattle,WA,USA,","
+1996-11-27,1996,0,17,5,2,2,0,4,1996 Fall Tour,1996 Fall,Fire,,0,Key Arena,Seattle,WA,USA,
+1996-11-27,1996,0,18,2,e,2,0,2,1996 Fall Tour,1996 Fall,Waste,,1,Key Arena,Seattle,WA,USA,>
+1996-11-27,1996,0,19,6,e,2,0,5,1996 Fall Tour,1996 Fall,Tweezer Reprise,Tweeprise,1,Key Arena,Seattle,WA,USA,
+1996-11-29,1996,0,1,1,1,0,0,7,1996 Fall Tour,1996 Fall,Frankenstein,,0,The Cow Palace,Daly City,CA,USA,","
+1996-11-29,1996,0,2,1,1,0,0,16,1996 Fall Tour,1996 Fall,NICU,,1,The Cow Palace,Daly City,CA,USA,","
+1996-11-29,1996,0,3,1,1,0,0,3,1996 Fall Tour,1996 Fall,Cars Trucks Buses,CTB,1,The Cow Palace,Daly City,CA,USA,","
+1996-11-29,1996,0,4,2,1,0,0,2,1996 Fall Tour,1996 Fall,Character Zero,,1,The Cow Palace,Daly City,CA,USA,>
+1996-11-29,1996,0,5,1,1,0,0,3,1996 Fall Tour,1996 Fall,Divided Sky,Divided,1,The Cow Palace,Daly City,CA,USA,","
+1996-11-29,1996,0,6,1,1,0,0,5,1996 Fall Tour,1996 Fall,Bathtub Gin,Gin,1,The Cow Palace,Daly City,CA,USA,","
+1996-11-29,1996,0,7,1,1,0,0,9,1996 Fall Tour,1996 Fall,Life on Mars?,,0,The Cow Palace,Daly City,CA,USA,","
+1996-11-29,1996,0,8,1,1,0,0,4,1996 Fall Tour,1996 Fall,Maze,,1,The Cow Palace,Daly City,CA,USA,","
+1996-11-29,1996,0,9,4,1,0,0,2,1996 Fall Tour,1996 Fall,Suzy Greenberg,Suzy,1,The Cow Palace,Daly City,CA,USA,
+1996-11-29,1996,0,10,2,2,0,0,8,1996 Fall Tour,1996 Fall,Wilson,,1,The Cow Palace,Daly City,CA,USA,>
+1996-11-29,1996,0,11,3,2,0,0,3,1996 Fall Tour,1996 Fall,Simple,,1,The Cow Palace,Daly City,CA,USA,->
+1996-11-29,1996,0,12,2,2,0,0,174,1996 Fall Tour,1996 Fall,Sparks,,0,The Cow Palace,Daly City,CA,USA,>
+1996-11-29,1996,0,13,2,2,0,0,2,1996 Fall Tour,1996 Fall,Sparkle,,1,The Cow Palace,Daly City,CA,USA,>
+1996-11-29,1996,0,14,2,2,0,0,2,1996 Fall Tour,1996 Fall,Taste,,1,The Cow Palace,Daly City,CA,USA,>
+1996-11-29,1996,0,15,2,2,0,0,4,1996 Fall Tour,1996 Fall,Swept Away,,1,The Cow Palace,Daly City,CA,USA,>
+1996-11-29,1996,0,16,2,2,0,0,4,1996 Fall Tour,1996 Fall,Steep,,1,The Cow Palace,Daly City,CA,USA,>
+1996-11-29,1996,0,17,1,2,0,0,2,1996 Fall Tour,1996 Fall,You Enjoy Myself,YEM,1,The Cow Palace,Daly City,CA,USA,","
+1996-11-29,1996,0,18,2,2,0,0,1,1996 Fall Tour,1996 Fall,Waste,,1,The Cow Palace,Daly City,CA,USA,>
+1996-11-29,1996,0,19,5,2,0,0,3,1996 Fall Tour,1996 Fall,Harry Hood,Hood,1,The Cow Palace,Daly City,CA,USA,
+1996-11-29,1996,0,20,6,e,0,0,2,1996 Fall Tour,1996 Fall,Sample in a Jar,Sample,1,The Cow Palace,Daly City,CA,USA,
+1996-11-30,1996,0,1,2,1,0,0,5,1996 Fall Tour,1996 Fall,Runaway Jim,,1,ARCO Arena,Sacramento,CA,USA,>
+1996-11-30,1996,0,2,1,1,0,0,4,1996 Fall Tour,1996 Fall,Punch You in the Eye,PYITE,1,ARCO Arena,Sacramento,CA,USA,","
+1996-11-30,1996,0,3,1,1,0,0,2,1996 Fall Tour,1996 Fall,All Things Reconsidered,ATR,1,ARCO Arena,Sacramento,CA,USA,","
+1996-11-30,1996,0,4,1,1,0,0,3,1996 Fall Tour,1996 Fall,Bouncing Around the Room,Bouncin',1,ARCO Arena,Sacramento,CA,USA,","
+1996-11-30,1996,0,5,1,1,0,0,5,1996 Fall Tour,1996 Fall,Stash,,1,ARCO Arena,Sacramento,CA,USA,","
+1996-11-30,1996,0,6,1,1,0,0,21,1996 Fall Tour,1996 Fall,Fluffhead,,1,ARCO Arena,Sacramento,CA,USA,","
+1996-11-30,1996,0,7,1,1,0,0,8,1996 Fall Tour,1996 Fall,The Old Home Place,,0,ARCO Arena,Sacramento,CA,USA,","
+1996-11-30,1996,0,8,1,1,0,0,1,1996 Fall Tour,1996 Fall,Uncle Pen,,0,ARCO Arena,Sacramento,CA,USA,","
+1996-11-30,1996,0,9,2,1,0,0,5,1996 Fall Tour,1996 Fall,Prince Caspian,Caspian,1,ARCO Arena,Sacramento,CA,USA,>
+1996-11-30,1996,0,10,4,1,0,0,2,1996 Fall Tour,1996 Fall,Chalk Dust Torture,CDT,1,ARCO Arena,Sacramento,CA,USA,
+1996-11-30,1996,0,11,1,2,0,0,7,1996 Fall Tour,1996 Fall,La Grange,,0,ARCO Arena,Sacramento,CA,USA,","
+1996-11-30,1996,0,12,2,2,0,0,5,1996 Fall Tour,1996 Fall,It's Ice,,1,ARCO Arena,Sacramento,CA,USA,>
+1996-11-30,1996,0,13,1,2,0,0,33,1996 Fall Tour,1996 Fall,Glide,,1,ARCO Arena,Sacramento,CA,USA,","
+1996-11-30,1996,0,14,1,2,0,0,11,1996 Fall Tour,1996 Fall,Brother,,1,ARCO Arena,Sacramento,CA,USA,","
+1996-11-30,1996,0,15,2,2,0,0,12,1996 Fall Tour,1996 Fall,Contact,,1,ARCO Arena,Sacramento,CA,USA,>
+1996-11-30,1996,0,16,2,2,0,0,3,1996 Fall Tour,1996 Fall,Also Sprach Zarathustra,2001,0,ARCO Arena,Sacramento,CA,USA,>
+1996-11-30,1996,0,17,2,2,0,0,7,1996 Fall Tour,1996 Fall,Timber (Jerry the Mule),Timber Ho,0,ARCO Arena,Sacramento,CA,USA,>
+1996-11-30,1996,0,18,1,2,0,0,1,1996 Fall Tour,1996 Fall,Taste,,1,ARCO Arena,Sacramento,CA,USA,","
+1996-11-30,1996,0,19,1,2,0,0,4,1996 Fall Tour,1996 Fall,Funky Bitch,,0,ARCO Arena,Sacramento,CA,USA,","
+1996-11-30,1996,0,20,1,2,0,0,3,1996 Fall Tour,1996 Fall,Amazing Grace,,0,ARCO Arena,Sacramento,CA,USA,","
+1996-11-30,1996,0,21,5,2,1,0,3,1996 Fall Tour,1996 Fall,Amazing Grace,,0,ARCO Arena,Sacramento,CA,USA,
+1996-11-30,1996,0,22,6,e,0,0,17,1996 Fall Tour,1996 Fall,Possum,,1,ARCO Arena,Sacramento,CA,USA,
+1996-12-01,1996,0,1,2,1,0,0,144,1996 Fall Tour,1996 Fall,Peaches en Regalia,Peaches,0,"Pauley Pavilion, University of California Los Angeles",Los Angeles,CA,USA,>
+1996-12-01,1996,0,2,2,1,0,0,4,1996 Fall Tour,1996 Fall,Poor Heart,,1,"Pauley Pavilion, University of California Los Angeles",Los Angeles,CA,USA,>
+1996-12-01,1996,0,3,2,1,0,0,4,1996 Fall Tour,1996 Fall,Cavern,,1,"Pauley Pavilion, University of California Los Angeles",Los Angeles,CA,USA,>
+1996-12-01,1996,0,4,1,1,0,0,2,1996 Fall Tour,1996 Fall,Cars Trucks Buses,CTB,1,"Pauley Pavilion, University of California Los Angeles",Los Angeles,CA,USA,","
+1996-12-01,1996,0,5,1,1,0,0,2,1996 Fall Tour,1996 Fall,Character Zero,,1,"Pauley Pavilion, University of California Los Angeles",Los Angeles,CA,USA,","
+1996-12-01,1996,0,6,2,1,0,0,5,1996 Fall Tour,1996 Fall,The Curtain,Curtain,1,"Pauley Pavilion, University of California Los Angeles",Los Angeles,CA,USA,>
+1996-12-01,1996,0,7,1,1,0,0,3,1996 Fall Tour,1996 Fall,Down with Disease,DwD,1,"Pauley Pavilion, University of California Los Angeles",Los Angeles,CA,USA,","
+1996-12-01,1996,0,8,1,1,0,0,6,1996 Fall Tour,1996 Fall,Train Song,,1,"Pauley Pavilion, University of California Los Angeles",Los Angeles,CA,USA,","
+1996-12-01,1996,0,9,2,1,0,0,21,1996 Fall Tour,1996 Fall,The Horse,Horse,1,"Pauley Pavilion, University of California Los Angeles",Los Angeles,CA,USA,>
+1996-12-01,1996,0,10,1,1,0,0,21,1996 Fall Tour,1996 Fall,Silent in the Morning,Silent,1,"Pauley Pavilion, University of California Los Angeles",Los Angeles,CA,USA,","
+1996-12-01,1996,0,11,2,1,0,0,2,1996 Fall Tour,1996 Fall,Sample in a Jar,Sample,1,"Pauley Pavilion, University of California Los Angeles",Los Angeles,CA,USA,>
+1996-12-01,1996,0,12,4,1,0,0,4,1996 Fall Tour,1996 Fall,Run Like an Antelope,Antelope,1,"Pauley Pavilion, University of California Los Angeles",Los Angeles,CA,USA,
+1996-12-01,1996,0,13,2,2,0,0,3,1996 Fall Tour,1996 Fall,Tweezer,,1,"Pauley Pavilion, University of California Los Angeles",Los Angeles,CA,USA,>
+1996-12-01,1996,0,14,2,2,0,0,2,1996 Fall Tour,1996 Fall,Sparkle,,1,"Pauley Pavilion, University of California Los Angeles",Los Angeles,CA,USA,>
+1996-12-01,1996,0,15,3,2,0,0,2,1996 Fall Tour,1996 Fall,Simple,,1,"Pauley Pavilion, University of California Los Angeles",Los Angeles,CA,USA,->
+1996-12-01,1996,0,16,1,2,0,0,4,1996 Fall Tour,1996 Fall,A Day in the Life,ADITL,0,"Pauley Pavilion, University of California Los Angeles",Los Angeles,CA,USA,","
+1996-12-01,1996,0,17,1,2,0,0,4,1996 Fall Tour,1996 Fall,Reba,,1,"Pauley Pavilion, University of California Los Angeles",Los Angeles,CA,USA,","
+1996-12-01,1996,0,18,2,2,0,0,2,1996 Fall Tour,1996 Fall,Swept Away,,1,"Pauley Pavilion, University of California Los Angeles",Los Angeles,CA,USA,>
+1996-12-01,1996,0,19,2,2,0,0,2,1996 Fall Tour,1996 Fall,Steep,,1,"Pauley Pavilion, University of California Los Angeles",Los Angeles,CA,USA,>
+1996-12-01,1996,0,20,2,2,0,0,3,1996 Fall Tour,1996 Fall,Tweezer Reprise,Tweeprise,1,"Pauley Pavilion, University of California Los Angeles",Los Angeles,CA,USA,>
+1996-12-01,1996,0,21,2,2,0,0,8,1996 Fall Tour,1996 Fall,Johnny B. Goode,JBG,0,"Pauley Pavilion, University of California Los Angeles",Los Angeles,CA,USA,>
+1996-12-01,1996,0,22,5,2,0,0,6,1996 Fall Tour,1996 Fall,Slave to the Traffic Light,Slave,1,"Pauley Pavilion, University of California Los Angeles",Los Angeles,CA,USA,
+1996-12-01,1996,0,23,6,e,0,0,20,1996 Fall Tour,1996 Fall,Highway to Hell,,0,"Pauley Pavilion, University of California Los Angeles",Los Angeles,CA,USA,
+1996-12-02,1996,0,1,2,1,0,0,18,1996 Fall Tour,1996 Fall,Rocky Top,,0,America West Arena,Phoenix,AZ,USA,>
+1996-12-02,1996,0,2,1,1,0,0,5,1996 Fall Tour,1996 Fall,AC/DC Bag,Bag,1,America West Arena,Phoenix,AZ,USA,","
+1996-12-02,1996,0,3,1,1,0,0,2,1996 Fall Tour,1996 Fall,Bouncing Around the Room,Bouncin',1,America West Arena,Phoenix,AZ,USA,","
+1996-12-02,1996,0,4,1,1,0,0,3,1996 Fall Tour,1996 Fall,You Enjoy Myself,YEM,1,America West Arena,Phoenix,AZ,USA,","
+1996-12-02,1996,0,5,1,1,0,0,5,1996 Fall Tour,1996 Fall,I Didn't Know,IDK,1,America West Arena,Phoenix,AZ,USA,","
+1996-12-02,1996,0,6,1,1,0,0,4,1996 Fall Tour,1996 Fall,Theme from the Bottom,Theme,1,America West Arena,Phoenix,AZ,USA,","
+1996-12-02,1996,0,7,1,1,0,0,10,1996 Fall Tour,1996 Fall,Gumbo,,1,America West Arena,Phoenix,AZ,USA,","
+1996-12-02,1996,0,8,4,1,0,0,4,1996 Fall Tour,1996 Fall,Julius,,1,America West Arena,Phoenix,AZ,USA,
+1996-12-02,1996,0,9,1,2,0,0,4,1996 Fall Tour,1996 Fall,Ya Mar,,0,America West Arena,Phoenix,AZ,USA,","
+1996-12-02,1996,0,10,1,2,0,0,3,1996 Fall Tour,1996 Fall,Divided Sky,Divided,1,America West Arena,Phoenix,AZ,USA,","
+1996-12-02,1996,0,11,2,2,0,0,7,1996 Fall Tour,1996 Fall,Wolfman's Brother,Wolfman's,1,America West Arena,Phoenix,AZ,USA,>
+1996-12-02,1996,0,12,2,2,0,0,2,1996 Fall Tour,1996 Fall,Taste,,1,America West Arena,Phoenix,AZ,USA,>
+1996-12-02,1996,0,13,1,2,0,0,4,1996 Fall Tour,1996 Fall,Free,,1,America West Arena,Phoenix,AZ,USA,","
+1996-12-02,1996,0,14,1,2,0,0,4,1996 Fall Tour,1996 Fall,Scent of a Mule,SOAMule,1,America West Arena,Phoenix,AZ,USA,","
+1996-12-02,1996,0,15,1,2,0,0,3,1996 Fall Tour,1996 Fall,Harry Hood,Hood,1,America West Arena,Phoenix,AZ,USA,","
+1996-12-02,1996,0,16,5,2,0,0,13,1996 Fall Tour,1996 Fall,Sweet Adeline,,0,America West Arena,Phoenix,AZ,USA,
+1996-12-02,1996,0,17,6,e,0,0,4,1996 Fall Tour,1996 Fall,Fire,,0,America West Arena,Phoenix,AZ,USA,
+1996-12-03,1996,1,1,6,1,0,0,0,Not Part of a Tour,No Tour,The Star-Spangled Banner,Star Spangled Banner,0,Great Western Forum,Inglewood,CA,USA,
+1996-12-04,1996,0,1,1,1,0,0,5,1996 Fall Tour,1996 Fall,"My Friend, My Friend",My Friend,1,Sports Arena,San Diego,CA,USA,","
+1996-12-04,1996,0,2,1,1,0,0,3,1996 Fall Tour,1996 Fall,Chalk Dust Torture,CDT,1,Sports Arena,San Diego,CA,USA,","
+1996-12-04,1996,0,3,1,1,0,0,16,1996 Fall Tour,1996 Fall,Horn,,1,Sports Arena,San Diego,CA,USA,","
+1996-12-04,1996,0,4,1,1,0,0,3,1996 Fall Tour,1996 Fall,Uncle Pen,,0,Sports Arena,San Diego,CA,USA,","
+1996-12-04,1996,0,5,2,1,0,0,3,1996 Fall Tour,1996 Fall,Timber (Jerry the Mule),Timber Ho,0,Sports Arena,San Diego,CA,USA,>
+1996-12-04,1996,0,6,1,1,0,0,2,1996 Fall Tour,1996 Fall,Sample in a Jar,Sample,1,Sports Arena,San Diego,CA,USA,","
+1996-12-04,1996,0,7,1,1,0,0,2,1996 Fall Tour,1996 Fall,Train Song,,1,Sports Arena,San Diego,CA,USA,","
+1996-12-04,1996,0,8,1,1,0,0,11,1996 Fall Tour,1996 Fall,Guyute,,1,Sports Arena,San Diego,CA,USA,","
+1996-12-04,1996,0,9,1,1,0,0,2,1996 Fall Tour,1996 Fall,Character Zero,,1,Sports Arena,San Diego,CA,USA,","
+1996-12-04,1996,0,10,1,1,0,0,16,1996 Fall Tour,1996 Fall,The Lizards,Lizards,1,Sports Arena,San Diego,CA,USA,","
+1996-12-04,1996,0,11,4,1,0,0,6,1996 Fall Tour,1996 Fall,David Bowie,Bowie,1,Sports Arena,San Diego,CA,USA,
+1996-12-04,1996,0,12,2,2,0,0,26,1996 Fall Tour,1996 Fall,Ha Ha Ha,,1,Sports Arena,San Diego,CA,USA,>
+1996-12-04,1996,0,13,2,2,0,0,7,1996 Fall Tour,1996 Fall,Mike's Song,Mike's,1,Sports Arena,San Diego,CA,USA,>
+1996-12-04,1996,0,14,2,2,0,0,3,1996 Fall Tour,1996 Fall,Prince Caspian,Caspian,1,Sports Arena,San Diego,CA,USA,>
+1996-12-04,1996,0,15,2,2,0,0,2,1996 Fall Tour,1996 Fall,Sparkle,,1,Sports Arena,San Diego,CA,USA,>
+1996-12-04,1996,0,16,1,2,0,0,3,1996 Fall Tour,1996 Fall,Punch You in the Eye,PYITE,1,Sports Arena,San Diego,CA,USA,","
+1996-12-04,1996,0,17,1,2,0,0,4,1996 Fall Tour,1996 Fall,Life on Mars?,,0,Sports Arena,San Diego,CA,USA,","
+1996-12-04,1996,0,18,1,2,0,0,2,1996 Fall Tour,1996 Fall,Reba,,1,Sports Arena,San Diego,CA,USA,","
+1996-12-04,1996,0,19,1,2,0,0,11,1996 Fall Tour,1996 Fall,Lawn Boy,,1,Sports Arena,San Diego,CA,USA,","
+1996-12-04,1996,0,20,5,2,0,0,7,1996 Fall Tour,1996 Fall,Weekapaug Groove,Weekapaug,1,Sports Arena,San Diego,CA,USA,
+1996-12-04,1996,0,21,6,e,0,0,5,1996 Fall Tour,1996 Fall,Jesus Just Left Chicago,JJLC,0,Sports Arena,San Diego,CA,USA,
+1996-12-06,1996,0,1,2,1,0,0,5,1996 Fall Tour,1996 Fall,Wilson,,1,The Aladdin Theatre,Las Vegas,NV,USA,>
+1996-12-06,1996,0,2,2,1,0,0,3,1996 Fall Tour,1996 Fall,Peaches en Regalia,Peaches,0,The Aladdin Theatre,Las Vegas,NV,USA,>
+1996-12-06,1996,0,3,2,1,0,0,3,1996 Fall Tour,1996 Fall,Poor Heart,,1,The Aladdin Theatre,Las Vegas,NV,USA,>
+1996-12-06,1996,0,4,2,1,0,0,4,1996 Fall Tour,1996 Fall,Also Sprach Zarathustra,2001,0,The Aladdin Theatre,Las Vegas,NV,USA,>
+1996-12-06,1996,0,5,1,1,0,0,11,1996 Fall Tour,1996 Fall,Llama,,1,The Aladdin Theatre,Las Vegas,NV,USA,","
+1996-12-06,1996,0,6,1,1,0,0,2,1996 Fall Tour,1996 Fall,You Enjoy Myself,YEM,1,The Aladdin Theatre,Las Vegas,NV,USA,","
+1996-12-06,1996,0,7,2,1,0,0,3,1996 Fall Tour,1996 Fall,Cars Trucks Buses,CTB,1,The Aladdin Theatre,Las Vegas,NV,USA,>
+1996-12-06,1996,0,8,2,1,0,0,3,1996 Fall Tour,1996 Fall,Down with Disease,DwD,1,The Aladdin Theatre,Las Vegas,NV,USA,>
+1996-12-06,1996,0,9,4,1,0,0,5,1996 Fall Tour,1996 Fall,Frankenstein,,0,The Aladdin Theatre,Las Vegas,NV,USA,
+1996-12-06,1996,0,10,1,2,0,0,2,1996 Fall Tour,1996 Fall,Julius,,1,The Aladdin Theatre,Las Vegas,NV,USA,","
+1996-12-06,1996,0,11,2,2,0,0,1,1996 Fall Tour,1996 Fall,Sparkle,,1,The Aladdin Theatre,Las Vegas,NV,USA,>
+1996-12-06,1996,0,12,2,2,0,0,1,1996 Fall Tour,1996 Fall,Mike's Song,Mike's,1,The Aladdin Theatre,Las Vegas,NV,USA,>
+1996-12-06,1996,0,13,2,2,0,0,3,1996 Fall Tour,1996 Fall,Simple,,1,The Aladdin Theatre,Las Vegas,NV,USA,>
+1996-12-06,1996,0,14,2,2,0,0,2,1996 Fall Tour,1996 Fall,Harry Hood,Hood,1,The Aladdin Theatre,Las Vegas,NV,USA,>
+1996-12-06,1996,0,15,1,2,0,0,1,1996 Fall Tour,1996 Fall,Weekapaug Groove,Weekapaug,1,The Aladdin Theatre,Las Vegas,NV,USA,","
+1996-12-06,1996,0,16,1,2,0,0,2,1996 Fall Tour,1996 Fall,Sweet Adeline,,0,The Aladdin Theatre,Las Vegas,NV,USA,","
+1996-12-06,1996,0,17,5,2,0,0,8,1996 Fall Tour,1996 Fall,Good Times Bad Times,GTBT,0,The Aladdin Theatre,Las Vegas,NV,USA,
+1996-12-06,1996,0,18,3,e,0,0,35,1996 Fall Tour,1996 Fall,Harpua,,1,The Aladdin Theatre,Las Vegas,NV,USA,->
+1996-12-06,1996,0,19,3,e,0,0,1091,1996 Fall Tour,1996 Fall,Wildwood Weed,,0,The Aladdin Theatre,Las Vegas,NV,USA,->
+1996-12-06,1996,0,20,3,e,0,0,0,1996 Fall Tour,1996 Fall,Harpua,,1,The Aladdin Theatre,Las Vegas,NV,USA,->
+1996-12-06,1996,0,21,3,e,0,0,1091,1996 Fall Tour,1996 Fall,I Want To Be a Cowboy's Sweetheart,,0,The Aladdin Theatre,Las Vegas,NV,USA,->
+1996-12-06,1996,0,22,3,e,0,0,0,1996 Fall Tour,1996 Fall,Harpua,,1,The Aladdin Theatre,Las Vegas,NV,USA,->
+1996-12-06,1996,0,23,3,e,0,0,24,1996 Fall Tour,1996 Fall,Suspicious Minds,,0,The Aladdin Theatre,Las Vegas,NV,USA,->
+1996-12-06,1996,0,24,1,e,0,0,0,1996 Fall Tour,1996 Fall,Harpua,,1,The Aladdin Theatre,Las Vegas,NV,USA,","
+1996-12-06,1996,0,25,6,e,0,0,5,1996 Fall Tour,1996 Fall,Suzy Greenberg,Suzy,1,The Aladdin Theatre,Las Vegas,NV,USA,
+1996-12-28,1996,0,1,1,1,0,0,5,1996 NYE Run,1996 NYE,Runaway Jim,,1,CoreStates Spectrum,Philadelphia,PA,USA,","
+1996-12-28,1996,0,2,1,1,0,0,6,1996 NYE Run,1996 NYE,NICU,,1,CoreStates Spectrum,Philadelphia,PA,USA,","
+1996-12-28,1996,0,3,1,1,0,0,3,1996 NYE Run,1996 NYE,Wolfman's Brother,Wolfman's,1,CoreStates Spectrum,Philadelphia,PA,USA,","
+1996-12-28,1996,0,4,1,1,0,0,5,1996 NYE Run,1996 NYE,It's Ice,,1,CoreStates Spectrum,Philadelphia,PA,USA,","
+1996-12-28,1996,0,5,1,1,0,0,10,1996 NYE Run,1996 NYE,Billy Breathes,,1,CoreStates Spectrum,Philadelphia,PA,USA,","
+1996-12-28,1996,0,6,1,1,0,0,8,1996 NYE Run,1996 NYE,Ginseng Sullivan,Ginseng,0,CoreStates Spectrum,Philadelphia,PA,USA,","
+1996-12-28,1996,0,7,1,1,0,0,9,1996 NYE Run,1996 NYE,Split Open and Melt,SOAMelt,1,CoreStates Spectrum,Philadelphia,PA,USA,","
+1996-12-28,1996,0,8,1,1,0,0,30,1996 NYE Run,1996 NYE,The Mango Song,Mango,1,CoreStates Spectrum,Philadelphia,PA,USA,","
+1996-12-28,1996,0,9,4,1,0,0,1,1996 NYE Run,1996 NYE,Frankenstein,,0,CoreStates Spectrum,Philadelphia,PA,USA,
+1996-12-28,1996,0,10,3,2,0,0,9,1996 NYE Run,1996 NYE,Makisupa Policeman,Makisupa,1,CoreStates Spectrum,Philadelphia,PA,USA,->
+1996-12-28,1996,0,11,1,2,0,0,6,1996 NYE Run,1996 NYE,Maze,,1,CoreStates Spectrum,Philadelphia,PA,USA,","
+1996-12-28,1996,0,12,1,2,0,0,3,1996 NYE Run,1996 NYE,Bouncing Around the Room,Bouncin',1,CoreStates Spectrum,Philadelphia,PA,USA,","
+1996-12-28,1996,0,13,3,2,0,0,67,1996 NYE Run,1996 NYE,Digital Delay Loop Jam,,1,CoreStates Spectrum,Philadelphia,PA,USA,->
+1996-12-28,1996,0,14,2,2,0,0,14,1996 NYE Run,1996 NYE,The Man Who Stepped Into Yesterday,TMWSIY,1,CoreStates Spectrum,Philadelphia,PA,USA,>
+1996-12-28,1996,0,15,2,2,0,0,14,1996 NYE Run,1996 NYE,Avenu Malkenu,,0,CoreStates Spectrum,Philadelphia,PA,USA,>
+1996-12-28,1996,0,16,3,2,0,0,1,1996 NYE Run,1996 NYE,Mike's Song,Mike's,1,CoreStates Spectrum,Philadelphia,PA,USA,->
+1996-12-28,1996,0,17,2,2,0,0,8,1996 NYE Run,1996 NYE,Strange Design,,1,CoreStates Spectrum,Philadelphia,PA,USA,>
+1996-12-28,1996,0,18,1,2,0,0,1,1996 NYE Run,1996 NYE,Weekapaug Groove,Weekapaug,1,CoreStates Spectrum,Philadelphia,PA,USA,","
+1996-12-28,1996,0,19,5,2,0,0,7,1996 NYE Run,1996 NYE,The Star-Spangled Banner,Star Spangled Banner,0,CoreStates Spectrum,Philadelphia,PA,USA,
+1996-12-28,1996,0,20,6,e,0,0,4,1996 NYE Run,1996 NYE,Johnny B. Goode,JBG,0,CoreStates Spectrum,Philadelphia,PA,USA,
+1996-12-29,1996,0,1,2,1,0,0,2,1996 NYE Run,1996 NYE,Poor Heart,,1,CoreStates Spectrum,Philadelphia,PA,USA,>
+1996-12-29,1996,0,2,2,1,0,0,160,1996 NYE Run,1996 NYE,Caravan,,0,CoreStates Spectrum,Philadelphia,PA,USA,>
+1996-12-29,1996,0,3,2,1,0,0,5,1996 NYE Run,1996 NYE,Cavern,,1,CoreStates Spectrum,Philadelphia,PA,USA,>
+1996-12-29,1996,0,4,1,1,0,0,4,1996 NYE Run,1996 NYE,Taste,,1,CoreStates Spectrum,Philadelphia,PA,USA,","
+1996-12-29,1996,0,5,1,1,0,0,10,1996 NYE Run,1996 NYE,Guelah Papyrus,Guelah,1,CoreStates Spectrum,Philadelphia,PA,USA,","
+1996-12-29,1996,0,6,1,1,0,0,3,1996 NYE Run,1996 NYE,Train Song,,1,CoreStates Spectrum,Philadelphia,PA,USA,","
+1996-12-29,1996,0,7,2,1,0,0,10,1996 NYE Run,1996 NYE,Rift,,1,CoreStates Spectrum,Philadelphia,PA,USA,>
+1996-12-29,1996,0,8,1,1,0,0,4,1996 NYE Run,1996 NYE,Free,,1,CoreStates Spectrum,Philadelphia,PA,USA,","
+1996-12-29,1996,0,9,1,1,0,0,12,1996 NYE Run,1996 NYE,The Squirming Coil,Coil,1,CoreStates Spectrum,Philadelphia,PA,USA,","
+1996-12-29,1996,0,10,4,1,0,0,6,1996 NYE Run,1996 NYE,La Grange,,0,CoreStates Spectrum,Philadelphia,PA,USA,
+1996-12-29,1996,0,11,1,2,0,0,3,1996 NYE Run,1996 NYE,David Bowie,Bowie,1,CoreStates Spectrum,Philadelphia,PA,USA,","
+1996-12-29,1996,0,12,1,2,0,0,5,1996 NYE Run,1996 NYE,A Day in the Life,ADITL,0,CoreStates Spectrum,Philadelphia,PA,USA,","
+1996-12-29,1996,0,13,3,2,0,0,7,1996 NYE Run,1996 NYE,Bathtub Gin,Gin,1,CoreStates Spectrum,Philadelphia,PA,USA,->
+1996-12-29,1996,0,14,1,2,0,0,3,1996 NYE Run,1996 NYE,The Lizards,Lizards,1,CoreStates Spectrum,Philadelphia,PA,USA,","
+1996-12-29,1996,0,15,3,2,0,0,2,1996 NYE Run,1996 NYE,You Enjoy Myself,YEM,1,CoreStates Spectrum,Philadelphia,PA,USA,->
+1996-12-29,1996,0,16,2,2,0,0,74,1996 NYE Run,1996 NYE,Rotation Jam,,1,CoreStates Spectrum,Philadelphia,PA,USA,>
+1996-12-29,1996,0,17,2,2,0,0,1093,1996 NYE Run,1996 NYE,Sixteen Candles,,0,CoreStates Spectrum,Philadelphia,PA,USA,>
+1996-12-29,1996,0,18,1,2,0,0,0,1996 NYE Run,1996 NYE,You Enjoy Myself,YEM,1,CoreStates Spectrum,Philadelphia,PA,USA,","
+1996-12-29,1996,0,19,3,2,0,0,2,1996 NYE Run,1996 NYE,Harpua,,1,CoreStates Spectrum,Philadelphia,PA,USA,->
+1996-12-29,1996,0,20,3,2,0,0,1093,1996 NYE Run,1996 NYE,Champagne Supernova,,0,CoreStates Spectrum,Philadelphia,PA,USA,->
+1996-12-29,1996,0,21,5,2,0,0,0,1996 NYE Run,1996 NYE,Harpua,,1,CoreStates Spectrum,Philadelphia,PA,USA,
+1996-12-29,1996,0,22,6,e,0,0,4,1996 NYE Run,1996 NYE,Rocky Top,,0,CoreStates Spectrum,Philadelphia,PA,USA,
+1996-12-30,1996,0,1,1,1,0,0,5,1996 NYE Run,1996 NYE,Ya Mar,,0,FleetCenter,Boston,MA,USA,","
+1996-12-30,1996,0,2,1,1,0,0,9,1996 NYE Run,1996 NYE,The Sloth,Sloth,1,FleetCenter,Boston,MA,USA,","
+1996-12-30,1996,0,3,1,1,0,0,3,1996 NYE Run,1996 NYE,Llama,,1,FleetCenter,Boston,MA,USA,","
+1996-12-30,1996,0,4,1,1,0,0,5,1996 NYE Run,1996 NYE,Gumbo,,1,FleetCenter,Boston,MA,USA,","
+1996-12-30,1996,0,5,1,1,0,0,4,1996 NYE Run,1996 NYE,Reba,,1,FleetCenter,Boston,MA,USA,","
+1996-12-30,1996,0,6,1,1,0,0,17,1996 NYE Run,1996 NYE,Talk,,1,FleetCenter,Boston,MA,USA,","
+1996-12-30,1996,0,7,1,1,0,0,7,1996 NYE Run,1996 NYE,Funky Bitch,,0,FleetCenter,Boston,MA,USA,","
+1996-12-30,1996,0,8,2,1,0,0,5,1996 NYE Run,1996 NYE,Theme from the Bottom,Theme,1,FleetCenter,Boston,MA,USA,>
+1996-12-30,1996,0,9,4,1,0,0,3,1996 NYE Run,1996 NYE,Good Times Bad Times,GTBT,0,FleetCenter,Boston,MA,USA,
+1996-12-30,1996,0,10,2,2,0,0,4,1996 NYE Run,1996 NYE,Timber (Jerry the Mule),Timber Ho,0,FleetCenter,Boston,MA,USA,>
+1996-12-30,1996,0,11,1,2,0,0,4,1996 NYE Run,1996 NYE,Uncle Pen,,0,FleetCenter,Boston,MA,USA,","
+1996-12-30,1996,0,12,1,2,0,0,5,1996 NYE Run,1996 NYE,AC/DC Bag,Bag,1,FleetCenter,Boston,MA,USA,","
+1996-12-30,1996,0,13,1,2,0,0,4,1996 NYE Run,1996 NYE,Guyute,,1,FleetCenter,Boston,MA,USA,","
+1996-12-30,1996,0,14,3,2,0,0,6,1996 NYE Run,1996 NYE,Tweezer,,1,FleetCenter,Boston,MA,USA,->
+1996-12-30,1996,0,15,2,2,0,0,41,1996 NYE Run,1996 NYE,Lifeboy,,1,FleetCenter,Boston,MA,USA,>
+1996-12-30,1996,0,16,1,2,0,0,5,1996 NYE Run,1996 NYE,Scent of a Mule,SOAMule,1,FleetCenter,Boston,MA,USA,","
+1996-12-30,1996,0,17,5,2,0,0,6,1996 NYE Run,1996 NYE,Slave to the Traffic Light,Slave,1,FleetCenter,Boston,MA,USA,
+1996-12-30,1996,0,18,6,e,0,0,7,1996 NYE Run,1996 NYE,Possum,,1,FleetCenter,Boston,MA,USA,
+1996-12-31,1996,0,1,2,1,0,0,12,1996 NYE Run,1996 NYE,Axilla,,1,FleetCenter,Boston,MA,USA,>
+1996-12-31,1996,0,2,2,1,0,0,4,1996 NYE Run,1996 NYE,Peaches en Regalia,Peaches,0,FleetCenter,Boston,MA,USA,>
+1996-12-31,1996,0,3,1,1,0,0,5,1996 NYE Run,1996 NYE,Punch You in the Eye,PYITE,1,FleetCenter,Boston,MA,USA,","
+1996-12-31,1996,0,4,1,1,0,0,4,1996 NYE Run,1996 NYE,Cars Trucks Buses,CTB,1,FleetCenter,Boston,MA,USA,","
+1996-12-31,1996,0,5,1,1,0,0,8,1996 NYE Run,1996 NYE,Stash,,1,FleetCenter,Boston,MA,USA,","
+1996-12-31,1996,0,6,2,1,0,0,7,1996 NYE Run,1996 NYE,The Horse,Horse,1,FleetCenter,Boston,MA,USA,>
+1996-12-31,1996,0,7,2,1,0,0,7,1996 NYE Run,1996 NYE,Silent in the Morning,Silent,1,FleetCenter,Boston,MA,USA,>
+1996-12-31,1996,0,8,1,1,0,0,6,1996 NYE Run,1996 NYE,Divided Sky,Divided,1,FleetCenter,Boston,MA,USA,","
+1996-12-31,1996,0,9,2,1,0,0,5,1996 NYE Run,1996 NYE,Sample in a Jar,Sample,1,FleetCenter,Boston,MA,USA,>
+1996-12-31,1996,0,10,4,1,0,0,7,1996 NYE Run,1996 NYE,Tweezer Reprise,Tweeprise,1,FleetCenter,Boston,MA,USA,
+1996-12-31,1996,0,11,2,2,0,0,5,1996 NYE Run,1996 NYE,Chalk Dust Torture,CDT,1,FleetCenter,Boston,MA,USA,>
+1996-12-31,1996,0,12,2,2,0,0,4,1996 NYE Run,1996 NYE,Wilson,,1,FleetCenter,Boston,MA,USA,>
+1996-12-31,1996,0,13,2,2,0,0,4,1996 NYE Run,1996 NYE,Sparkle,,1,FleetCenter,Boston,MA,USA,>
+1996-12-31,1996,0,14,3,2,0,0,4,1996 NYE Run,1996 NYE,Simple,,1,FleetCenter,Boston,MA,USA,->
+1996-12-31,1996,0,15,2,2,0,0,7,1996 NYE Run,1996 NYE,Swept Away,,1,FleetCenter,Boston,MA,USA,>
+1996-12-31,1996,0,16,2,2,0,0,7,1996 NYE Run,1996 NYE,Steep,,1,FleetCenter,Boston,MA,USA,>
+1996-12-31,1996,0,17,3,2,0,0,4,1996 NYE Run,1996 NYE,Harry Hood,Hood,1,FleetCenter,Boston,MA,USA,->
+1996-12-31,1996,0,18,2,2,0,0,5,1996 NYE Run,1996 NYE,Prince Caspian,Caspian,1,FleetCenter,Boston,MA,USA,>
+1996-12-31,1996,0,19,4,2,0,0,5,1996 NYE Run,1996 NYE,Character Zero,,1,FleetCenter,Boston,MA,USA,
+1996-12-31,1996,0,20,2,3,0,0,4,1996 NYE Run,1996 NYE,Also Sprach Zarathustra,2001,0,FleetCenter,Boston,MA,USA,>
+1996-12-31,1996,0,21,3,3,0,0,70,1996 NYE Run,1996 NYE,Auld Lang Syne,,0,FleetCenter,Boston,MA,USA,->
+1996-12-31,1996,0,22,2,3,0,0,4,1996 NYE Run,1996 NYE,Down with Disease,DwD,1,FleetCenter,Boston,MA,USA,>
+1996-12-31,1996,0,23,1,3,0,0,4,1996 NYE Run,1996 NYE,Suzy Greenberg,Suzy,1,FleetCenter,Boston,MA,USA,","
+1996-12-31,1996,0,24,1,3,0,0,7,1996 NYE Run,1996 NYE,Run Like an Antelope,Antelope,1,FleetCenter,Boston,MA,USA,","
+1996-12-31,1996,0,25,1,3,0,0,1101,1996 NYE Run,1996 NYE,Bohemian Rhapsody,,0,FleetCenter,Boston,MA,USA,","
+1996-12-31,1996,0,26,5,3,0,0,4,1996 NYE Run,1996 NYE,Julius,,1,FleetCenter,Boston,MA,USA,
+1996-12-31,1996,0,27,6,e,0,0,8,1996 NYE Run,1996 NYE,Amazing Grace,,0,FleetCenter,Boston,MA,USA,
