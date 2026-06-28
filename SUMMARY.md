@@ -1,23 +1,23 @@
 # Phish Setlist Summary
 
-*Generated on 2026-06-21*
+*Generated on 2026-06-28*
 
 ## Fun with Stats
 
-### Past 1 Year (47 Shows)
-47 shows across 17 venues
+### Past 1 Year (43 Shows)
+43 shows across 14 venues
 
-849 total songs played
+779 total songs played
 
-Number of unique songs played: 226
+Number of unique songs played: 219
 
-66 songs were played exactly once
+63 songs were played exactly once
 
-Bust-outs (Gap > 50): 60
+Bust-outs (Gap > 50): 53
 
 Most common show opener: Buried Alive (5 times)
 
-Most common encore: Bug (3 times)
+Most common encore: Fee (3 times)
 
 
 ### Past 2 Years (98 Shows)
@@ -52,38 +52,38 @@ Most common show opener: Buried Alive (13 times)
 Most common encore: A Life Beyond The Dream (18 times)
 
 
-### Past 10 Years (396 Shows)
-396 shows across 92 venues
+### Past 10 Years (391 Shows)
+391 shows across 89 venues
 
-7553 total songs played
+7447 total songs played
 
-Number of unique songs played: 458
+Number of unique songs played: 456
 
-114 songs were played exactly once
+115 songs were played exactly once
 
-Bust-outs (Gap > 50): 512
+Bust-outs (Gap > 50): 503
 
-Most common show opener: The Moma Dance (18 times)
+Most common show opener: Buried Alive (17 times)
 
 Most common encore: A Life Beyond The Dream (20 times)
 
 
 ## Most Common Songs
 
-### Past 1 Year (47 Shows)
+### Past 1 Year (43 Shows)
 
 | Song                           |   Times Played |
 |:-------------------------------|---------------:|
-| Tweezer Reprise                |             13 |
-| Tweezer                        |             11 |
-| Chalk Dust Torture             |             10 |
+| Tweezer Reprise                |             12 |
 | Carini                         |             10 |
 | Harry Hood                     |             10 |
-| What's Going Through Your Mind |              9 |
-| Ghost                          |              9 |
-| Mike's Song                    |              9 |
-| Weekapaug Groove               |              9 |
-| Fuego                          |              9 |
+| Chalk Dust Torture             |              9 |
+| Wolfman's Brother              |              8 |
+| Sand                           |              8 |
+| Light                          |              8 |
+| Also Sprach Zarathustra        |              8 |
+| Bathtub Gin                    |              8 |
+| What's Going Through Your Mind |              8 |
 
 ### Past 2 Years (98 Shows)
 
@@ -115,20 +115,20 @@ Most common encore: A Life Beyond The Dream (20 times)
 | Carini             |             49 |
 | Free               |             48 |
 
-### Past 10 Years (396 Shows)
+### Past 10 Years (391 Shows)
 
 | Song               |   Times Played |
 |:-------------------|---------------:|
-| Tweezer            |             92 |
 | Ghost              |             92 |
-| Blaze On           |             90 |
-| Chalk Dust Torture |             89 |
-| Harry Hood         |             89 |
-| Sand               |             84 |
-| 46 Days            |             84 |
-| Carini             |             81 |
-| Free               |             80 |
-| Twist              |             80 |
+| Tweezer            |             91 |
+| Chalk Dust Torture |             88 |
+| Blaze On           |             88 |
+| Harry Hood         |             87 |
+| Sand               |             83 |
+| 46 Days            |             83 |
+| Carini             |             80 |
+| Free               |             79 |
+| Twist              |             79 |
 
 ## Newest Songs (Debuts Past 2 Years - 98 Shows)
 
@@ -185,25 +185,25 @@ Most common encore: A Life Beyond The Dream (20 times)
 
 ### The Marathons (Most Unique Songs - Past 10 Years)
 
-| Date       | Venue                  | City      | State   |   Unique Songs |
-|:-----------|:-----------------------|:----------|:--------|---------------:|
-| 2016-10-31 | MGM Grand Garden Arena | Las Vegas | NV      |             31 |
-| 2022-12-31 | Madison Square Garden  | New York  | NY      |             31 |
-| 2023-12-31 | Madison Square Garden  | New York  | NY      |             30 |
-| 2024-12-31 | Madison Square Garden  | New York  | NY      |             29 |
-| 2018-10-31 | MGM Grand Garden Arena | Las Vegas | NV      |             28 |
+| Date       | Venue                     | City             | State   |   Unique Songs |
+|:-----------|:--------------------------|:-----------------|:--------|---------------:|
+| 2022-12-31 | Madison Square Garden     | New York         | NY      |             31 |
+| 2016-10-31 | MGM Grand Garden Arena    | Las Vegas        | NV      |             31 |
+| 2023-12-31 | Madison Square Garden     | New York         | NY      |             30 |
+| 2024-12-31 | Madison Square Garden     | New York         | NY      |             29 |
+| 2019-12-08 | North Charleston Coliseum | North Charleston | SC      |             28 |
 
-## Rarest Songs Played (Past 1 Year - 47 Shows)
+## Rarest Songs Played (Past 1 Year - 43 Shows)
 
 | Song                    | Date Played   |   Gap |
 |:------------------------|:--------------|------:|
 | On Your Way Down        | 2025-07-18    |   521 |
 | Jam                     | 2026-01-27    |   429 |
-| Paul and Silas          | 2025-06-24    |   322 |
 | Devotion to a Dream     | 2025-07-11    |   322 |
-| Daniel Saw the Stone    | 2025-06-27    |   283 |
 | The Line                | 2025-07-19    |   258 |
 | Spock's Brain           | 2025-12-31    |   237 |
 | Sleep                   | 2025-12-28    |   230 |
 | Jesus Just Left Chicago | 2025-07-12    |   207 |
 | Carolina                | 2025-07-12    |   205 |
+| Rocky Top               | 2025-07-03    |   198 |
+| Dog Faced Boy           | 2026-01-28    |   185 |
