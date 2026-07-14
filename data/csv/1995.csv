@@ -14,19 +14,19 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-05-16,1995,0,2,2,1,0,0,951,Not Part of a Tour,No Tour,Ha Ha Ha,,1,Lowell Memorial Auditorium,Lowell,MA,USA,>
 1995-05-16,1995,0,3,1,1,0,0,951,Not Part of a Tour,No Tour,Spock's Brain,,1,Lowell Memorial Auditorium,Lowell,MA,USA,","
 1995-05-16,1995,0,4,1,1,0,0,947,Not Part of a Tour,No Tour,Strange Design,,1,Lowell Memorial Auditorium,Lowell,MA,USA,","
-1995-05-16,1995,0,5,1,1,0,0,4,Not Part of a Tour,No Tour,Reba,,1,Lowell Memorial Auditorium,Lowell,MA,USA,","
-1995-05-16,1995,0,6,1,1,0,0,948,Not Part of a Tour,No Tour,Theme from the Bottom,Theme,1,Lowell Memorial Auditorium,Lowell,MA,USA,","
+1995-05-16,1995,0,5,1,1,0,0,3,Not Part of a Tour,No Tour,Reba,,1,Lowell Memorial Auditorium,Lowell,MA,USA,","
+1995-05-16,1995,0,6,1,1,0,0,947,Not Part of a Tour,No Tour,Theme from the Bottom,Theme,1,Lowell Memorial Auditorium,Lowell,MA,USA,","
 1995-05-16,1995,0,7,2,1,0,0,2,Not Part of a Tour,No Tour,Hold Your Head Up,HYHU,0,Lowell Memorial Auditorium,Lowell,MA,USA,>
 1995-05-16,1995,0,8,2,1,0,0,951,Not Part of a Tour,No Tour,Lonesome Cowboy Bill,,0,Lowell Memorial Auditorium,Lowell,MA,USA,>
 1995-05-16,1995,0,9,1,1,0,0,0,Not Part of a Tour,No Tour,Hold Your Head Up,HYHU,0,Lowell Memorial Auditorium,Lowell,MA,USA,","
 1995-05-16,1995,0,10,1,1,0,0,948,Not Part of a Tour,No Tour,Free,,1,Lowell Memorial Auditorium,Lowell,MA,USA,","
 1995-05-16,1995,0,11,2,1,0,0,951,Not Part of a Tour,No Tour,Glide II,,1,Lowell Memorial Auditorium,Lowell,MA,USA,>
-1995-05-16,1995,0,12,1,1,0,0,2,Not Part of a Tour,No Tour,You Enjoy Myself,YEM,1,Lowell Memorial Auditorium,Lowell,MA,USA,","
+1995-05-16,1995,0,12,1,1,0,0,1,Not Part of a Tour,No Tour,You Enjoy Myself,YEM,1,Lowell Memorial Auditorium,Lowell,MA,USA,","
 1995-05-16,1995,0,13,1,1,0,0,7,Not Part of a Tour,No Tour,Sweet Adeline,,0,Lowell Memorial Auditorium,Lowell,MA,USA,","
 1995-05-16,1995,0,14,5,1,0,0,2,Not Part of a Tour,No Tour,Sample in a Jar,Sample,1,Lowell Memorial Auditorium,Lowell,MA,USA,
 1995-05-16,1995,0,15,3,e,0,0,945,Not Part of a Tour,No Tour,I'll Come Running,,0,Lowell Memorial Auditorium,Lowell,MA,USA,->
 1995-05-16,1995,0,16,6,e,0,0,945,Not Part of a Tour,No Tour,Gloria,,0,Lowell Memorial Auditorium,Lowell,MA,USA,
-1995-06-07,1995,0,1,1,1,0,0,4,1995 Summer Tour,1995 Summer,Possum,,1,Boise State University Pavilion,Boise,ID,USA,","
+1995-06-07,1995,0,1,1,1,0,0,3,1995 Summer Tour,1995 Summer,Possum,,1,Boise State University Pavilion,Boise,ID,USA,","
 1995-06-07,1995,0,2,1,1,0,0,90,1995 Summer Tour,1995 Summer,Weigh,,1,Boise State University Pavilion,Boise,ID,USA,","
 1995-06-07,1995,0,3,1,1,0,0,949,1995 Summer Tour,1995 Summer,Taste,,1,Boise State University Pavilion,Boise,ID,USA,","
 1995-06-07,1995,0,4,1,1,0,0,1,1995 Summer Tour,1995 Summer,Strange Design,,1,Boise State University Pavilion,Boise,ID,USA,","
@@ -39,13 +39,13 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-06-07,1995,0,11,2,2,0,0,1,1995 Summer Tour,1995 Summer,Ha Ha Ha,,1,Boise State University Pavilion,Boise,ID,USA,>
 1995-06-07,1995,0,12,1,2,0,0,2,1995 Summer Tour,1995 Summer,Maze,,1,Boise State University Pavilion,Boise,ID,USA,","
 1995-06-07,1995,0,13,1,2,0,0,1,1995 Summer Tour,1995 Summer,Spock's Brain,,1,Boise State University Pavilion,Boise,ID,USA,","
-1995-06-07,1995,0,14,1,2,0,0,1,1995 Summer Tour,1995 Summer,Theme from the Bottom,Theme,1,Boise State University Pavilion,Boise,ID,USA,","
+1995-06-07,1995,0,14,1,2,0,0,0,1995 Summer Tour,1995 Summer,Theme from the Bottom,Theme,1,Boise State University Pavilion,Boise,ID,USA,","
 1995-06-07,1995,0,15,2,2,0,0,1,1995 Summer Tour,1995 Summer,Hold Your Head Up,HYHU,0,Boise State University Pavilion,Boise,ID,USA,>
 1995-06-07,1995,0,16,2,2,0,0,1,1995 Summer Tour,1995 Summer,Lonesome Cowboy Bill,,0,Boise State University Pavilion,Boise,ID,USA,>
 1995-06-07,1995,0,17,1,2,0,0,0,1995 Summer Tour,1995 Summer,Hold Your Head Up,HYHU,0,Boise State University Pavilion,Boise,ID,USA,","
 1995-06-07,1995,0,18,1,2,0,0,946,1995 Summer Tour,1995 Summer,Acoustic Army,,1,Boise State University Pavilion,Boise,ID,USA,","
 1995-06-07,1995,0,19,1,2,0,0,1,1995 Summer Tour,1995 Summer,Sample in a Jar,Sample,1,Boise State University Pavilion,Boise,ID,USA,","
-1995-06-07,1995,0,20,1,2,0,0,3,1995 Summer Tour,1995 Summer,Harry Hood,Hood,1,Boise State University Pavilion,Boise,ID,USA,","
+1995-06-07,1995,0,20,1,2,0,0,2,1995 Summer Tour,1995 Summer,Harry Hood,Hood,1,Boise State University Pavilion,Boise,ID,USA,","
 1995-06-07,1995,0,21,5,2,0,0,2,1995 Summer Tour,1995 Summer,Suzy Greenberg,Suzy,1,Boise State University Pavilion,Boise,ID,USA,
 1995-06-07,1995,0,22,6,e,0,0,8,1995 Summer Tour,1995 Summer,While My Guitar Gently Weeps,WMGGW,0,Boise State University Pavilion,Boise,ID,USA,
 1995-06-08,1995,0,1,1,1,0,0,2,1995 Summer Tour,1995 Summer,Don't You Want To Go?,,0,The Delta Center,Salt Lake City,UT,USA,","
@@ -54,31 +54,31 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-06-08,1995,0,4,1,1,0,0,13,1995 Summer Tour,1995 Summer,Guelah Papyrus,Guelah,1,The Delta Center,Salt Lake City,UT,USA,","
 1995-06-08,1995,0,5,1,1,0,0,3,1995 Summer Tour,1995 Summer,Mound,,1,The Delta Center,Salt Lake City,UT,USA,","
 1995-06-08,1995,0,6,1,1,0,0,15,1995 Summer Tour,1995 Summer,Fast Enough for You,FEFY,1,The Delta Center,Salt Lake City,UT,USA,","
-1995-06-08,1995,0,7,1,1,0,0,2,1995 Summer Tour,1995 Summer,Reba,,1,The Delta Center,Salt Lake City,UT,USA,","
-1995-06-08,1995,0,8,1,1,0,0,950,1995 Summer Tour,1995 Summer,Prince Caspian,Caspian,1,The Delta Center,Salt Lake City,UT,USA,","
+1995-06-08,1995,0,7,1,1,0,0,1,1995 Summer Tour,1995 Summer,Reba,,1,The Delta Center,Salt Lake City,UT,USA,","
+1995-06-08,1995,0,8,1,1,0,0,949,1995 Summer Tour,1995 Summer,Prince Caspian,Caspian,1,The Delta Center,Salt Lake City,UT,USA,","
 1995-06-08,1995,0,9,4,1,0,0,3,1995 Summer Tour,1995 Summer,Chalk Dust Torture,CDT,1,The Delta Center,Salt Lake City,UT,USA,
 1995-06-08,1995,0,10,2,2,0,0,3,1995 Summer Tour,1995 Summer,Simple,,1,The Delta Center,Salt Lake City,UT,USA,>
 1995-06-08,1995,0,11,2,2,0,0,4,1995 Summer Tour,1995 Summer,Rift,,1,The Delta Center,Salt Lake City,UT,USA,>
 1995-06-08,1995,0,12,2,2,0,0,2,1995 Summer Tour,1995 Summer,Free,,1,The Delta Center,Salt Lake City,UT,USA,>
-1995-06-08,1995,0,13,2,2,0,0,3,1995 Summer Tour,1995 Summer,Bouncing Around the Room,Bouncin',1,The Delta Center,Salt Lake City,UT,USA,>
-1995-06-08,1995,0,14,3,2,0,0,4,1995 Summer Tour,1995 Summer,Tweezer,,1,The Delta Center,Salt Lake City,UT,USA,->
+1995-06-08,1995,0,13,2,2,0,0,2,1995 Summer Tour,1995 Summer,Bouncing Around the Room,Bouncin',1,The Delta Center,Salt Lake City,UT,USA,>
+1995-06-08,1995,0,14,3,2,0,0,3,1995 Summer Tour,1995 Summer,Tweezer,,1,The Delta Center,Salt Lake City,UT,USA,->
 1995-06-08,1995,0,15,2,2,0,0,10,1995 Summer Tour,1995 Summer,Lifeboy,,1,The Delta Center,Salt Lake City,UT,USA,>
 1995-06-08,1995,0,16,2,2,0,0,4,1995 Summer Tour,1995 Summer,Poor Heart,,1,The Delta Center,Salt Lake City,UT,USA,>
 1995-06-08,1995,0,17,5,2,0,0,6,1995 Summer Tour,1995 Summer,Julius,,1,The Delta Center,Salt Lake City,UT,USA,
 1995-06-08,1995,0,18,6,e,0,0,5,1995 Summer Tour,1995 Summer,Good Times Bad Times,GTBT,0,The Delta Center,Salt Lake City,UT,USA,
-1995-06-09,1995,0,1,1,1,0,0,17,1995 Summer Tour,1995 Summer,"My Friend, My Friend",My Friend,1,Red Rocks Amphitheatre,Morrison,CO,USA,","
+1995-06-09,1995,0,1,1,1,0,0,16,1995 Summer Tour,1995 Summer,"My Friend, My Friend",My Friend,1,Red Rocks Amphitheatre,Morrison,CO,USA,","
 1995-06-09,1995,0,2,1,1,0,0,4,1995 Summer Tour,1995 Summer,Divided Sky,Divided,1,Red Rocks Amphitheatre,Morrison,CO,USA,","
 1995-06-09,1995,0,3,2,1,0,0,2,1995 Summer Tour,1995 Summer,Strange Design,,1,Red Rocks Amphitheatre,Morrison,CO,USA,>
 1995-06-09,1995,0,4,2,1,0,0,21,1995 Summer Tour,1995 Summer,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Red Rocks Amphitheatre,Morrison,CO,USA,>
-1995-06-09,1995,0,5,2,1,0,0,5,1995 Summer Tour,1995 Summer,AC/DC Bag,Bag,1,Red Rocks Amphitheatre,Morrison,CO,USA,>
-1995-06-09,1995,0,6,1,1,0,0,2,1995 Summer Tour,1995 Summer,Theme from the Bottom,Theme,1,Red Rocks Amphitheatre,Morrison,CO,USA,","
+1995-06-09,1995,0,5,2,1,0,0,4,1995 Summer Tour,1995 Summer,AC/DC Bag,Bag,1,Red Rocks Amphitheatre,Morrison,CO,USA,>
+1995-06-09,1995,0,6,1,1,0,0,1,1995 Summer Tour,1995 Summer,Theme from the Bottom,Theme,1,Red Rocks Amphitheatre,Morrison,CO,USA,","
 1995-06-09,1995,0,7,1,1,0,0,2,1995 Summer Tour,1995 Summer,Taste,,1,Red Rocks Amphitheatre,Morrison,CO,USA,","
 1995-06-09,1995,0,8,2,1,0,0,5,1995 Summer Tour,1995 Summer,Sparkle,,1,Red Rocks Amphitheatre,Morrison,CO,USA,>
 1995-06-09,1995,0,9,4,1,0,0,4,1995 Summer Tour,1995 Summer,Run Like an Antelope,Antelope,1,Red Rocks Amphitheatre,Morrison,CO,USA,
 1995-06-09,1995,0,10,1,2,0,0,6,1995 Summer Tour,1995 Summer,Split Open and Melt,SOAMelt,1,Red Rocks Amphitheatre,Morrison,CO,USA,","
 1995-06-09,1995,0,11,1,2,0,0,2,1995 Summer Tour,1995 Summer,The Wedge,Wedge,1,Red Rocks Amphitheatre,Morrison,CO,USA,","
 1995-06-09,1995,0,12,1,2,0,0,2,1995 Summer Tour,1995 Summer,Scent of a Mule,SOAMule,1,Red Rocks Amphitheatre,Morrison,CO,USA,","
-1995-06-09,1995,0,13,2,2,0,0,5,1995 Summer Tour,1995 Summer,Cavern,,1,Red Rocks Amphitheatre,Morrison,CO,USA,>
+1995-06-09,1995,0,13,2,2,0,0,4,1995 Summer Tour,1995 Summer,Cavern,,1,Red Rocks Amphitheatre,Morrison,CO,USA,>
 1995-06-09,1995,0,14,1,2,0,0,6,1995 Summer Tour,1995 Summer,David Bowie,Bowie,1,Red Rocks Amphitheatre,Morrison,CO,USA,","
 1995-06-09,1995,0,15,1,2,0,0,2,1995 Summer Tour,1995 Summer,Acoustic Army,,1,Red Rocks Amphitheatre,Morrison,CO,USA,","
 1995-06-09,1995,0,16,1,2,0,0,3,1995 Summer Tour,1995 Summer,Sweet Adeline,,0,Red Rocks Amphitheatre,Morrison,CO,USA,","
@@ -86,11 +86,11 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-06-09,1995,0,18,6,e,0,0,7,1995 Summer Tour,1995 Summer,The Squirming Coil,Coil,1,Red Rocks Amphitheatre,Morrison,CO,USA,
 1995-06-10,1995,0,1,3,1,0,0,11,1995 Summer Tour,1995 Summer,Makisupa Policeman,Makisupa,1,Red Rocks Amphitheatre,Morrison,CO,USA,->
 1995-06-10,1995,0,2,1,1,0,0,8,1995 Summer Tour,1995 Summer,Llama,,1,Red Rocks Amphitheatre,Morrison,CO,USA,","
-1995-06-10,1995,0,3,2,1,0,0,2,1995 Summer Tour,1995 Summer,Prince Caspian,Caspian,1,Red Rocks Amphitheatre,Morrison,CO,USA,>
+1995-06-10,1995,0,3,2,1,0,0,1,1995 Summer Tour,1995 Summer,Prince Caspian,Caspian,1,Red Rocks Amphitheatre,Morrison,CO,USA,>
 1995-06-10,1995,0,4,2,1,0,0,8,1995 Summer Tour,1995 Summer,It's Ice,,1,Red Rocks Amphitheatre,Morrison,CO,USA,>
 1995-06-10,1995,0,5,2,1,0,0,2,1995 Summer Tour,1995 Summer,Free,,1,Red Rocks Amphitheatre,Morrison,CO,USA,>
 1995-06-10,1995,0,6,1,1,0,0,2,1995 Summer Tour,1995 Summer,Rift,,1,Red Rocks Amphitheatre,Morrison,CO,USA,","
-1995-06-10,1995,0,7,3,1,0,0,4,1995 Summer Tour,1995 Summer,You Enjoy Myself,YEM,1,Red Rocks Amphitheatre,Morrison,CO,USA,->
+1995-06-10,1995,0,7,3,1,0,0,3,1995 Summer Tour,1995 Summer,You Enjoy Myself,YEM,1,Red Rocks Amphitheatre,Morrison,CO,USA,->
 1995-06-10,1995,0,8,2,1,0,0,3,1995 Summer Tour,1995 Summer,Hold Your Head Up,HYHU,0,Red Rocks Amphitheatre,Morrison,CO,USA,>
 1995-06-10,1995,0,9,2,1,0,0,3,1995 Summer Tour,1995 Summer,Lonesome Cowboy Bill,,0,Red Rocks Amphitheatre,Morrison,CO,USA,>
 1995-06-10,1995,0,10,1,1,0,0,0,1995 Summer Tour,1995 Summer,Hold Your Head Up,HYHU,0,Red Rocks Amphitheatre,Morrison,CO,USA,","
@@ -106,11 +106,11 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-06-10,1995,0,20,6,e,0,0,951,1995 Summer Tour,1995 Summer,A Day in the Life,ADITL,0,Red Rocks Amphitheatre,Morrison,CO,USA,
 1995-06-13,1995,0,1,2,1,0,0,3,1995 Summer Tour,1995 Summer,Runaway Jim,,1,Riverport Amphitheater,Maryland Heights,MO,USA,>
 1995-06-13,1995,0,2,1,1,0,0,8,1995 Summer Tour,1995 Summer,Foam,,1,Riverport Amphitheater,Maryland Heights,MO,USA,","
-1995-06-13,1995,0,3,1,1,0,0,3,1995 Summer Tour,1995 Summer,Bouncing Around the Room,Bouncin',1,Riverport Amphitheater,Maryland Heights,MO,USA,","
+1995-06-13,1995,0,3,1,1,0,0,2,1995 Summer Tour,1995 Summer,Bouncing Around the Room,Bouncin',1,Riverport Amphitheater,Maryland Heights,MO,USA,","
 1995-06-13,1995,0,4,1,1,0,0,4,1995 Summer Tour,1995 Summer,Stash,,1,Riverport Amphitheater,Maryland Heights,MO,USA,","
 1995-06-13,1995,0,5,2,1,0,0,2,1995 Summer Tour,1995 Summer,Strange Design,,1,Riverport Amphitheater,Maryland Heights,MO,USA,>
 1995-06-13,1995,0,6,1,1,0,0,2,1995 Summer Tour,1995 Summer,Taste,,1,Riverport Amphitheater,Maryland Heights,MO,USA,","
-1995-06-13,1995,0,7,1,1,0,0,3,1995 Summer Tour,1995 Summer,Reba,,1,Riverport Amphitheater,Maryland Heights,MO,USA,","
+1995-06-13,1995,0,7,1,1,0,0,2,1995 Summer Tour,1995 Summer,Reba,,1,Riverport Amphitheater,Maryland Heights,MO,USA,","
 1995-06-13,1995,0,8,2,1,0,0,1,1995 Summer Tour,1995 Summer,Hold Your Head Up,HYHU,0,Riverport Amphitheater,Maryland Heights,MO,USA,>
 1995-06-13,1995,0,9,2,1,0,0,25,1995 Summer Tour,1995 Summer,Terrapin,,0,Riverport Amphitheater,Maryland Heights,MO,USA,>
 1995-06-13,1995,0,10,1,1,0,0,0,1995 Summer Tour,1995 Summer,Hold Your Head Up,HYHU,0,Riverport Amphitheater,Maryland Heights,MO,USA,","
@@ -119,9 +119,9 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-06-13,1995,0,13,1,2,0,0,2,1995 Summer Tour,1995 Summer,David Bowie,Bowie,1,Riverport Amphitheater,Maryland Heights,MO,USA,","
 1995-06-13,1995,0,14,1,2,0,0,8,1995 Summer Tour,1995 Summer,The Lizards,Lizards,1,Riverport Amphitheater,Maryland Heights,MO,USA,","
 1995-06-13,1995,0,15,2,2,0,0,9,1995 Summer Tour,1995 Summer,Axilla (Part II),,1,Riverport Amphitheater,Maryland Heights,MO,USA,>
-1995-06-13,1995,0,16,1,2,0,0,2,1995 Summer Tour,1995 Summer,Theme from the Bottom,Theme,1,Riverport Amphitheater,Maryland Heights,MO,USA,","
+1995-06-13,1995,0,16,1,2,0,0,1,1995 Summer Tour,1995 Summer,Theme from the Bottom,Theme,1,Riverport Amphitheater,Maryland Heights,MO,USA,","
 1995-06-13,1995,0,17,1,2,0,0,2,1995 Summer Tour,1995 Summer,Acoustic Army,,1,Riverport Amphitheater,Maryland Heights,MO,USA,","
-1995-06-13,1995,0,18,1,2,0,0,4,1995 Summer Tour,1995 Summer,Harry Hood,Hood,1,Riverport Amphitheater,Maryland Heights,MO,USA,","
+1995-06-13,1995,0,18,1,2,0,0,3,1995 Summer Tour,1995 Summer,Harry Hood,Hood,1,Riverport Amphitheater,Maryland Heights,MO,USA,","
 1995-06-13,1995,0,19,5,2,0,0,6,1995 Summer Tour,1995 Summer,Golgi Apparatus,Golgi,1,Riverport Amphitheater,Maryland Heights,MO,USA,
 1995-06-13,1995,0,20,1,e,0,0,2,1995 Summer Tour,1995 Summer,Sweet Adeline,,0,Riverport Amphitheater,Maryland Heights,MO,USA,","
 1995-06-13,1995,0,21,6,e,0,0,3,1995 Summer Tour,1995 Summer,Julius,,1,Riverport Amphitheater,Maryland Heights,MO,USA,
@@ -129,8 +129,8 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-06-14,1995,0,2,2,1,0,0,17,1995 Summer Tour,1995 Summer,Gumbo,,1,Mud Island Amphitheater,Memphis,TN,USA,>
 1995-06-14,1995,0,3,1,1,0,0,7,1995 Summer Tour,1995 Summer,NICU,,1,Mud Island Amphitheater,Memphis,TN,USA,","
 1995-06-14,1995,0,4,1,1,0,0,4,1995 Summer Tour,1995 Summer,Mound,,1,Mud Island Amphitheater,Memphis,TN,USA,","
-1995-06-14,1995,0,5,2,1,0,0,3,1995 Summer Tour,1995 Summer,Cavern,,1,Mud Island Amphitheater,Memphis,TN,USA,>
-1995-06-14,1995,0,6,1,1,0,0,5,1995 Summer Tour,1995 Summer,Possum,,1,Mud Island Amphitheater,Memphis,TN,USA,","
+1995-06-14,1995,0,5,2,1,0,0,2,1995 Summer Tour,1995 Summer,Cavern,,1,Mud Island Amphitheater,Memphis,TN,USA,>
+1995-06-14,1995,0,6,1,1,0,0,4,1995 Summer Tour,1995 Summer,Possum,,1,Mud Island Amphitheater,Memphis,TN,USA,","
 1995-06-14,1995,0,7,1,1,0,0,40,1995 Summer Tour,1995 Summer,All Things Reconsidered,ATR,1,Mud Island Amphitheater,Memphis,TN,USA,","
 1995-06-14,1995,0,8,1,1,0,0,2,1995 Summer Tour,1995 Summer,Amazing Grace,,0,Mud Island Amphitheater,Memphis,TN,USA,","
 1995-06-14,1995,0,9,2,1,0,0,7,1995 Summer Tour,1995 Summer,The Horse,Horse,1,Mud Island Amphitheater,Memphis,TN,USA,>
@@ -139,15 +139,15 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-06-14,1995,0,12,4,1,0,0,3,1995 Summer Tour,1995 Summer,Split Open and Melt,SOAMelt,1,Mud Island Amphitheater,Memphis,TN,USA,
 1995-06-14,1995,0,13,2,2,0,0,7,1995 Summer Tour,1995 Summer,Also Sprach Zarathustra,2001,0,Mud Island Amphitheater,Memphis,TN,USA,>
 1995-06-14,1995,0,14,2,2,0,0,4,1995 Summer Tour,1995 Summer,Poor Heart,,1,Mud Island Amphitheater,Memphis,TN,USA,>
-1995-06-14,1995,0,15,1,2,0,0,4,1995 Summer Tour,1995 Summer,Tweezer,,1,Mud Island Amphitheater,Memphis,TN,USA,","
+1995-06-14,1995,0,15,1,2,0,0,3,1995 Summer Tour,1995 Summer,Tweezer,,1,Mud Island Amphitheater,Memphis,TN,USA,","
 1995-06-14,1995,0,16,1,2,0,0,1,1995 Summer Tour,1995 Summer,Acoustic Army,,1,Mud Island Amphitheater,Memphis,TN,USA,","
 1995-06-14,1995,0,17,5,2,0,0,5,1995 Summer Tour,1995 Summer,While My Guitar Gently Weeps,WMGGW,0,Mud Island Amphitheater,Memphis,TN,USA,
 1995-06-14,1995,0,18,1,e,0,0,4,1995 Summer Tour,1995 Summer,Simple,,1,Mud Island Amphitheater,Memphis,TN,USA,","
 1995-06-14,1995,0,19,2,e,0,0,13,1995 Summer Tour,1995 Summer,Rocky Top,,0,Mud Island Amphitheater,Memphis,TN,USA,>
-1995-06-14,1995,0,20,6,e,0,0,8,1995 Summer Tour,1995 Summer,Tweezer Reprise,Tweeprise,1,Mud Island Amphitheater,Memphis,TN,USA,
-1995-06-15,1995,0,1,2,1,0,0,4,1995 Summer Tour,1995 Summer,"My Friend, My Friend",My Friend,1,Lakewood Amphitheatre,Atlanta,GA,USA,>
+1995-06-14,1995,0,20,6,e,0,0,7,1995 Summer Tour,1995 Summer,Tweezer Reprise,Tweeprise,1,Mud Island Amphitheater,Memphis,TN,USA,
+1995-06-15,1995,0,1,2,1,0,0,3,1995 Summer Tour,1995 Summer,"My Friend, My Friend",My Friend,1,Lakewood Amphitheatre,Atlanta,GA,USA,>
 1995-06-15,1995,0,2,2,1,0,0,2,1995 Summer Tour,1995 Summer,Sparkle,,1,Lakewood Amphitheatre,Atlanta,GA,USA,>
-1995-06-15,1995,0,3,1,1,0,0,4,1995 Summer Tour,1995 Summer,AC/DC Bag,Bag,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
+1995-06-15,1995,0,3,1,1,0,0,3,1995 Summer Tour,1995 Summer,AC/DC Bag,Bag,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
 1995-06-15,1995,0,4,1,1,0,0,8,1995 Summer Tour,1995 Summer,The Old Home Place,,0,Lakewood Amphitheatre,Atlanta,GA,USA,","
 1995-06-15,1995,0,5,1,1,0,0,2,1995 Summer Tour,1995 Summer,Taste,,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
 1995-06-15,1995,0,6,1,1,0,0,4,1995 Summer Tour,1995 Summer,The Wedge,Wedge,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
@@ -159,14 +159,14 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-06-15,1995,0,12,2,2,0,0,5,1995 Summer Tour,1995 Summer,Ha Ha Ha,,1,Lakewood Amphitheatre,Atlanta,GA,USA,>
 1995-06-15,1995,0,13,1,2,0,0,2,1995 Summer Tour,1995 Summer,David Bowie,Bowie,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
 1995-06-15,1995,0,14,2,2,0,0,2,1995 Summer Tour,1995 Summer,Strange Design,,1,Lakewood Amphitheatre,Atlanta,GA,USA,>
-1995-06-15,1995,0,15,1,2,0,0,2,1995 Summer Tour,1995 Summer,Theme from the Bottom,Theme,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
+1995-06-15,1995,0,15,1,2,0,0,1,1995 Summer Tour,1995 Summer,Theme from the Bottom,Theme,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
 1995-06-15,1995,0,16,1,2,0,0,4,1995 Summer Tour,1995 Summer,Scent of a Mule,SOAMule,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
 1995-06-15,1995,0,17,1,2,0,0,1,1995 Summer Tour,1995 Summer,Acoustic Army,,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
 1995-06-15,1995,0,18,5,2,0,0,4,1995 Summer Tour,1995 Summer,Slave to the Traffic Light,Slave,1,Lakewood Amphitheatre,Atlanta,GA,USA,
-1995-06-15,1995,0,19,1,e,0,0,2,1995 Summer Tour,1995 Summer,Bouncing Around the Room,Bouncin',1,Lakewood Amphitheatre,Atlanta,GA,USA,","
+1995-06-15,1995,0,19,1,e,0,0,1,1995 Summer Tour,1995 Summer,Bouncing Around the Room,Bouncin',1,Lakewood Amphitheatre,Atlanta,GA,USA,","
 1995-06-15,1995,0,20,6,e,0,0,9,1995 Summer Tour,1995 Summer,Frankenstein,,0,Lakewood Amphitheatre,Atlanta,GA,USA,
 1995-06-16,1995,0,1,2,1,0,0,11,1995 Summer Tour,1995 Summer,Halley's Comet,Halley's,1,Walnut Creek Amphitheater,Raleigh,NC,USA,>
-1995-06-16,1995,0,2,2,1,0,0,17,1995 Summer Tour,1995 Summer,Down with Disease,DwD,1,Walnut Creek Amphitheater,Raleigh,NC,USA,>
+1995-06-16,1995,0,2,2,1,0,0,16,1995 Summer Tour,1995 Summer,Down with Disease,DwD,1,Walnut Creek Amphitheater,Raleigh,NC,USA,>
 1995-06-16,1995,0,3,2,1,0,0,25,1995 Summer Tour,1995 Summer,Esther,,1,Walnut Creek Amphitheater,Raleigh,NC,USA,>
 1995-06-16,1995,0,4,1,1,0,0,16,1995 Summer Tour,1995 Summer,Ya Mar,,0,Walnut Creek Amphitheater,Raleigh,NC,USA,","
 1995-06-16,1995,0,5,1,1,0,0,27,1995 Summer Tour,1995 Summer,Cry Baby Cry,,0,Walnut Creek Amphitheater,Raleigh,NC,USA,","
@@ -178,7 +178,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-06-16,1995,0,11,3,2,0,0,3,1995 Summer Tour,1995 Summer,Runaway Jim,,1,Walnut Creek Amphitheater,Raleigh,NC,USA,->
 1995-06-16,1995,0,12,1,2,0,0,4,1995 Summer Tour,1995 Summer,Free,,1,Walnut Creek Amphitheater,Raleigh,NC,USA,","
 1995-06-16,1995,0,13,1,2,0,0,42,1995 Summer Tour,1995 Summer,Carolina,,0,Walnut Creek Amphitheater,Raleigh,NC,USA,","
-1995-06-16,1995,0,14,1,2,0,0,4,1995 Summer Tour,1995 Summer,You Enjoy Myself,YEM,1,Walnut Creek Amphitheater,Raleigh,NC,USA,","
+1995-06-16,1995,0,14,1,2,0,0,3,1995 Summer Tour,1995 Summer,You Enjoy Myself,YEM,1,Walnut Creek Amphitheater,Raleigh,NC,USA,","
 1995-06-16,1995,0,15,5,2,0,0,5,1995 Summer Tour,1995 Summer,The Squirming Coil,Coil,1,Walnut Creek Amphitheater,Raleigh,NC,USA,
 1995-06-16,1995,0,16,6,e,0,0,12,1995 Summer Tour,1995 Summer,Bold As Love,,0,Walnut Creek Amphitheater,Raleigh,NC,USA,
 1995-06-17,1995,0,1,1,1,0,0,6,1995 Summer Tour,1995 Summer,Divided Sky,Divided,1,Nissan Pavilion at Stone Ridge,Bristow,VA,USA,","
@@ -193,33 +193,33 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-06-17,1995,0,10,2,2,0,0,11,1995 Summer Tour,1995 Summer,Wilson,,1,Nissan Pavilion at Stone Ridge,Bristow,VA,USA,>
 1995-06-17,1995,0,11,1,2,0,0,5,1995 Summer Tour,1995 Summer,Maze,,1,Nissan Pavilion at Stone Ridge,Bristow,VA,USA,","
 1995-06-17,1995,0,12,2,2,0,0,3,1995 Summer Tour,1995 Summer,Mound,,1,Nissan Pavilion at Stone Ridge,Bristow,VA,USA,>
-1995-06-17,1995,0,13,3,2,0,0,3,1995 Summer Tour,1995 Summer,Tweezer,,1,Nissan Pavilion at Stone Ridge,Bristow,VA,USA,->
+1995-06-17,1995,0,13,3,2,0,0,2,1995 Summer Tour,1995 Summer,Tweezer,,1,Nissan Pavilion at Stone Ridge,Bristow,VA,USA,->
 1995-06-17,1995,0,14,3,2,0,0,954,1995 Summer Tour,1995 Summer,Johnny B. Goode,JBG,0,Nissan Pavilion at Stone Ridge,Bristow,VA,USA,->
 1995-06-17,1995,0,15,3,2,0,0,0,1995 Summer Tour,1995 Summer,Tweezer,,1,Nissan Pavilion at Stone Ridge,Bristow,VA,USA,->
 1995-06-17,1995,0,16,1,2,0,0,15,1995 Summer Tour,1995 Summer,McGrupp and the Watchful Hosemasters,McGrupp,1,Nissan Pavilion at Stone Ridge,Bristow,VA,USA,","
 1995-06-17,1995,0,17,1,2,0,0,2,1995 Summer Tour,1995 Summer,Acoustic Army,,1,Nissan Pavilion at Stone Ridge,Bristow,VA,USA,","
 1995-06-17,1995,0,18,1,2,0,0,4,1995 Summer Tour,1995 Summer,Sweet Adeline,,0,Nissan Pavilion at Stone Ridge,Bristow,VA,USA,","
-1995-06-17,1995,0,19,1,2,0,0,4,1995 Summer Tour,1995 Summer,Harry Hood,Hood,1,Nissan Pavilion at Stone Ridge,Bristow,VA,USA,","
+1995-06-17,1995,0,19,1,2,0,0,3,1995 Summer Tour,1995 Summer,Harry Hood,Hood,1,Nissan Pavilion at Stone Ridge,Bristow,VA,USA,","
 1995-06-17,1995,0,20,5,2,0,0,5,1995 Summer Tour,1995 Summer,Sample in a Jar,Sample,1,Nissan Pavilion at Stone Ridge,Bristow,VA,USA,
 1995-06-17,1995,0,21,6,e,0,0,954,1995 Summer Tour,1995 Summer,Three Little Birds,,0,Nissan Pavilion at Stone Ridge,Bristow,VA,USA,
-1995-06-19,1995,0,1,2,1,0,0,3,1995 Summer Tour,1995 Summer,Theme from the Bottom,Theme,1,Deer Creek Music Center,Noblesville,IN,USA,>
+1995-06-19,1995,0,1,2,1,0,0,2,1995 Summer Tour,1995 Summer,Theme from the Bottom,Theme,1,Deer Creek Music Center,Noblesville,IN,USA,>
 1995-06-19,1995,0,2,1,1,0,0,4,1995 Summer Tour,1995 Summer,Poor Heart,,1,Deer Creek Music Center,Noblesville,IN,USA,","
-1995-06-19,1995,0,3,2,1,0,0,3,1995 Summer Tour,1995 Summer,AC/DC Bag,Bag,1,Deer Creek Music Center,Noblesville,IN,USA,>
+1995-06-19,1995,0,3,2,1,0,0,2,1995 Summer Tour,1995 Summer,AC/DC Bag,Bag,1,Deer Creek Music Center,Noblesville,IN,USA,>
 1995-06-19,1995,0,4,1,1,0,0,33,1995 Summer Tour,1995 Summer,Tela,,1,Deer Creek Music Center,Noblesville,IN,USA,","
-1995-06-19,1995,0,5,1,1,0,0,17,1995 Summer Tour,1995 Summer,Punch You in the Eye,PYITE,1,Deer Creek Music Center,Noblesville,IN,USA,","
-1995-06-19,1995,0,6,1,1,0,0,5,1995 Summer Tour,1995 Summer,Reba,,1,Deer Creek Music Center,Noblesville,IN,USA,","
+1995-06-19,1995,0,5,1,1,0,0,16,1995 Summer Tour,1995 Summer,Punch You in the Eye,PYITE,1,Deer Creek Music Center,Noblesville,IN,USA,","
+1995-06-19,1995,0,6,1,1,0,0,4,1995 Summer Tour,1995 Summer,Reba,,1,Deer Creek Music Center,Noblesville,IN,USA,","
 1995-06-19,1995,0,7,1,1,0,0,3,1995 Summer Tour,1995 Summer,Strange Design,,1,Deer Creek Music Center,Noblesville,IN,USA,","
 1995-06-19,1995,0,8,2,1,0,0,6,1995 Summer Tour,1995 Summer,Rift,,1,Deer Creek Music Center,Noblesville,IN,USA,>
-1995-06-19,1995,0,9,2,1,0,0,4,1995 Summer Tour,1995 Summer,Cavern,,1,Deer Creek Music Center,Noblesville,IN,USA,>
+1995-06-19,1995,0,9,2,1,0,0,3,1995 Summer Tour,1995 Summer,Cavern,,1,Deer Creek Music Center,Noblesville,IN,USA,>
 1995-06-19,1995,0,10,4,1,0,0,3,1995 Summer Tour,1995 Summer,Run Like an Antelope,Antelope,1,Deer Creek Music Center,Noblesville,IN,USA,
 1995-06-19,1995,0,11,3,2,0,0,4,1995 Summer Tour,1995 Summer,Simple,,1,Deer Creek Music Center,Noblesville,IN,USA,->
 1995-06-19,1995,0,12,1,2,0,0,3,1995 Summer Tour,1995 Summer,David Bowie,Bowie,1,Deer Creek Music Center,Noblesville,IN,USA,","
 1995-06-19,1995,0,13,1,2,0,0,14,1995 Summer Tour,1995 Summer,The Mango Song,Mango,1,Deer Creek Music Center,Noblesville,IN,USA,","
-1995-06-19,1995,0,14,1,2,0,0,39,1995 Summer Tour,1995 Summer,Loving Cup,,0,Deer Creek Music Center,Noblesville,IN,USA,","
+1995-06-19,1995,0,14,1,2,0,0,38,1995 Summer Tour,1995 Summer,Loving Cup,,0,Deer Creek Music Center,Noblesville,IN,USA,","
 1995-06-19,1995,0,15,2,2,0,0,3,1995 Summer Tour,1995 Summer,Sparkle,,1,Deer Creek Music Center,Noblesville,IN,USA,>
-1995-06-19,1995,0,16,1,2,0,0,2,1995 Summer Tour,1995 Summer,You Enjoy Myself,YEM,1,Deer Creek Music Center,Noblesville,IN,USA,","
+1995-06-19,1995,0,16,1,2,0,0,1,1995 Summer Tour,1995 Summer,You Enjoy Myself,YEM,1,Deer Creek Music Center,Noblesville,IN,USA,","
 1995-06-19,1995,0,17,1,2,0,0,1,1995 Summer Tour,1995 Summer,Acoustic Army,,1,Deer Creek Music Center,Noblesville,IN,USA,","
-1995-06-19,1995,0,18,5,2,0,0,4,1995 Summer Tour,1995 Summer,Possum,,1,Deer Creek Music Center,Noblesville,IN,USA,
+1995-06-19,1995,0,18,5,2,0,0,3,1995 Summer Tour,1995 Summer,Possum,,1,Deer Creek Music Center,Noblesville,IN,USA,
 1995-06-19,1995,0,19,6,e,0,0,6,1995 Summer Tour,1995 Summer,A Day in the Life,ADITL,0,Deer Creek Music Center,Noblesville,IN,USA,
 1995-06-20,1995,0,1,1,1,0,0,7,1995 Summer Tour,1995 Summer,Llama,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
 1995-06-20,1995,0,2,1,1,0,0,5,1995 Summer Tour,1995 Summer,Spock's Brain,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
@@ -232,7 +232,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-06-20,1995,0,9,4,1,0,0,3,1995 Summer Tour,1995 Summer,Split Open and Melt,SOAMelt,1,Blossom Music Center,Cuyahoga Falls,OH,USA,
 1995-06-20,1995,0,10,2,2,0,0,3,1995 Summer Tour,1995 Summer,Halley's Comet,Halley's,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
 1995-06-20,1995,0,11,1,2,0,0,6,1995 Summer Tour,1995 Summer,Chalk Dust Torture,CDT,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
-1995-06-20,1995,0,12,1,2,0,0,7,1995 Summer Tour,1995 Summer,Prince Caspian,Caspian,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
+1995-06-20,1995,0,12,1,2,0,0,6,1995 Summer Tour,1995 Summer,Prince Caspian,Caspian,1,Blossom Music Center,Cuyahoga Falls,OH,USA,","
 1995-06-20,1995,0,13,1,2,0,0,2,1995 Summer Tour,1995 Summer,Uncle Pen,,0,Blossom Music Center,Cuyahoga Falls,OH,USA,","
 1995-06-20,1995,0,14,3,2,0,0,7,1995 Summer Tour,1995 Summer,Mike's Song,Mike's,1,Blossom Music Center,Cuyahoga Falls,OH,USA,->
 1995-06-20,1995,0,15,2,2,0,0,15,1995 Summer Tour,1995 Summer,Contact,,1,Blossom Music Center,Cuyahoga Falls,OH,USA,>
@@ -251,22 +251,22 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-06-22,1995,0,6,1,1,0,0,4,1995 Summer Tour,1995 Summer,It's Ice,,1,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,","
 1995-06-22,1995,0,7,1,1,0,0,2,1995 Summer Tour,1995 Summer,Strange Design,,1,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,","
 1995-06-22,1995,0,8,1,1,0,0,3,1995 Summer Tour,1995 Summer,Maze,,1,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,","
-1995-06-22,1995,0,9,1,1,0,0,2,1995 Summer Tour,1995 Summer,Cavern,,1,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,","
+1995-06-22,1995,0,9,1,1,0,0,1,1995 Summer Tour,1995 Summer,Cavern,,1,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,","
 1995-06-22,1995,0,10,4,1,0,0,3,1995 Summer Tour,1995 Summer,Sweet Adeline,,0,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,
-1995-06-22,1995,0,11,3,2,0,0,2,1995 Summer Tour,1995 Summer,Theme from the Bottom,Theme,1,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,->
+1995-06-22,1995,0,11,3,2,0,0,1,1995 Summer Tour,1995 Summer,Theme from the Bottom,Theme,1,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,->
 1995-06-22,1995,0,12,3,2,0,0,31,1995 Summer Tour,1995 Summer,Jam,,0,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,->
-1995-06-22,1995,0,13,3,2,0,0,3,1995 Summer Tour,1995 Summer,Tweezer,,1,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,->
-1995-06-22,1995,0,14,5,2,0,0,6,1995 Summer Tour,1995 Summer,Tweezer Reprise,Tweeprise,1,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,
+1995-06-22,1995,0,13,3,2,0,0,2,1995 Summer Tour,1995 Summer,Tweezer,,1,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,->
+1995-06-22,1995,0,14,5,2,0,0,5,1995 Summer Tour,1995 Summer,Tweezer Reprise,Tweeprise,1,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,
 1995-06-22,1995,0,15,1,e,0,0,2,1995 Summer Tour,1995 Summer,Acoustic Army,,1,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,","
 1995-06-22,1995,0,16,6,e,0,0,6,1995 Summer Tour,1995 Summer,While My Guitar Gently Weeps,WMGGW,0,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,
 1995-06-23,1995,0,1,2,1,0,0,3,1995 Summer Tour,1995 Summer,Simple,,1,Waterloo Village,Stanhope,NJ,USA,>
 1995-06-23,1995,0,2,1,1,0,0,2,1995 Summer Tour,1995 Summer,Chalk Dust Torture,CDT,1,Waterloo Village,Stanhope,NJ,USA,","
-1995-06-23,1995,0,3,1,1,0,0,2,1995 Summer Tour,1995 Summer,Prince Caspian,Caspian,1,Waterloo Village,Stanhope,NJ,USA,","
-1995-06-23,1995,0,4,1,1,0,0,3,1995 Summer Tour,1995 Summer,Reba,,1,Waterloo Village,Stanhope,NJ,USA,","
+1995-06-23,1995,0,3,1,1,0,0,1,1995 Summer Tour,1995 Summer,Prince Caspian,Caspian,1,Waterloo Village,Stanhope,NJ,USA,","
+1995-06-23,1995,0,4,1,1,0,0,2,1995 Summer Tour,1995 Summer,Reba,,1,Waterloo Village,Stanhope,NJ,USA,","
 1995-06-23,1995,0,5,2,1,0,0,2,1995 Summer Tour,1995 Summer,Ginseng Sullivan,Ginseng,0,Waterloo Village,Stanhope,NJ,USA,>
 1995-06-23,1995,0,6,2,1,0,0,5,1995 Summer Tour,1995 Summer,Free,,1,Waterloo Village,Stanhope,NJ,USA,>
 1995-06-23,1995,0,7,1,1,0,0,2,1995 Summer Tour,1995 Summer,Taste,,1,Waterloo Village,Stanhope,NJ,USA,","
-1995-06-23,1995,0,8,4,1,0,0,3,1995 Summer Tour,1995 Summer,You Enjoy Myself,YEM,1,Waterloo Village,Stanhope,NJ,USA,
+1995-06-23,1995,0,8,4,1,0,0,2,1995 Summer Tour,1995 Summer,You Enjoy Myself,YEM,1,Waterloo Village,Stanhope,NJ,USA,
 1995-06-23,1995,0,9,3,2,0,0,5,1995 Summer Tour,1995 Summer,Runaway Jim,,1,Waterloo Village,Stanhope,NJ,USA,->
 1995-06-23,1995,0,10,1,2,0,0,8,1995 Summer Tour,1995 Summer,The Lizards,Lizards,1,Waterloo Village,Stanhope,NJ,USA,","
 1995-06-23,1995,0,11,1,2,0,0,6,1995 Summer Tour,1995 Summer,The Wedge,Wedge,1,Waterloo Village,Stanhope,NJ,USA,","
@@ -291,15 +291,15 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-06-24,1995,0,13,1,2,0,0,4,1995 Summer Tour,1995 Summer,David Bowie,Bowie,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
 1995-06-24,1995,0,14,1,2,0,0,12,1995 Summer Tour,1995 Summer,Lifeboy,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
 1995-06-24,1995,0,15,1,2,0,0,5,1995 Summer Tour,1995 Summer,Suzy Greenberg,Suzy,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
-1995-06-24,1995,0,16,1,2,0,0,5,1995 Summer Tour,1995 Summer,Harry Hood,Hood,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+1995-06-24,1995,0,16,1,2,0,0,4,1995 Summer Tour,1995 Summer,Harry Hood,Hood,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
 1995-06-24,1995,0,17,1,2,0,0,2,1995 Summer Tour,1995 Summer,Acoustic Army,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
 1995-06-24,1995,0,18,1,2,0,0,2,1995 Summer Tour,1995 Summer,Sweet Adeline,,0,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
 1995-06-24,1995,0,19,5,2,0,0,9,1995 Summer Tour,1995 Summer,Golgi Apparatus,Golgi,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,
 1995-06-24,1995,0,20,6,e,0,0,6,1995 Summer Tour,1995 Summer,Bold As Love,,0,The Mann Center for the Performing Arts,Philadelphia,PA,USA,
 1995-06-25,1995,0,1,2,1,0,0,7,1995 Summer Tour,1995 Summer,Ya Mar,,0,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
-1995-06-25,1995,0,2,2,1,0,0,5,1995 Summer Tour,1995 Summer,AC/DC Bag,Bag,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
+1995-06-25,1995,0,2,2,1,0,0,4,1995 Summer Tour,1995 Summer,AC/DC Bag,Bag,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
 1995-06-25,1995,0,3,2,1,0,0,2,1995 Summer Tour,1995 Summer,Taste,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
-1995-06-25,1995,0,4,1,1,0,0,3,1995 Summer Tour,1995 Summer,Theme from the Bottom,Theme,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+1995-06-25,1995,0,4,1,1,0,0,2,1995 Summer Tour,1995 Summer,Theme from the Bottom,Theme,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
 1995-06-25,1995,0,5,2,1,0,0,4,1995 Summer Tour,1995 Summer,If I Could,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
 1995-06-25,1995,0,6,2,1,0,0,5,1995 Summer Tour,1995 Summer,Sparkle,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,>
 1995-06-25,1995,0,7,1,1,0,0,3,1995 Summer Tour,1995 Summer,Divided Sky,Divided,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
@@ -314,10 +314,10 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-06-25,1995,0,16,3,2,0,0,2,1995 Summer Tour,1995 Summer,Jam,,0,The Mann Center for the Performing Arts,Philadelphia,PA,USA,->
 1995-06-25,1995,0,17,1,2,0,0,4,1995 Summer Tour,1995 Summer,Weekapaug Groove,Weekapaug,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
 1995-06-25,1995,0,18,1,2,0,0,4,1995 Summer Tour,1995 Summer,Amazing Grace,,0,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
-1995-06-25,1995,0,19,5,2,0,0,3,1995 Summer Tour,1995 Summer,Cavern,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,
-1995-06-25,1995,0,20,1,e,0,0,8,1995 Summer Tour,1995 Summer,Bouncing Around the Room,Bouncin',1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
+1995-06-25,1995,0,19,5,2,0,0,2,1995 Summer Tour,1995 Summer,Cavern,,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,
+1995-06-25,1995,0,20,1,e,0,0,7,1995 Summer Tour,1995 Summer,Bouncing Around the Room,Bouncin',1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,","
 1995-06-25,1995,0,21,6,e,0,0,4,1995 Summer Tour,1995 Summer,Slave to the Traffic Light,Slave,1,The Mann Center for the Performing Arts,Philadelphia,PA,USA,
-1995-06-26,1995,0,1,1,1,0,0,9,1995 Summer Tour,1995 Summer,"My Friend, My Friend",My Friend,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+1995-06-26,1995,0,1,1,1,0,0,8,1995 Summer Tour,1995 Summer,"My Friend, My Friend",My Friend,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 1995-06-26,1995,0,2,1,1,0,0,10,1995 Summer Tour,1995 Summer,Don't You Want To Go?,,0,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 1995-06-26,1995,0,3,1,1,0,0,5,1995 Summer Tour,1995 Summer,Bathtub Gin,Gin,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 1995-06-26,1995,0,4,2,1,0,0,10,1995 Summer Tour,1995 Summer,NICU,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
@@ -326,11 +326,11 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-06-26,1995,0,7,2,1,0,0,4,1995 Summer Tour,1995 Summer,It's Ice,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 1995-06-26,1995,0,8,2,1,0,0,8,1995 Summer Tour,1995 Summer,Dog Faced Boy,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 1995-06-26,1995,0,9,2,1,0,0,6,1995 Summer Tour,1995 Summer,Tela,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-1995-06-26,1995,0,10,4,1,0,0,6,1995 Summer Tour,1995 Summer,Possum,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
-1995-06-26,1995,0,11,3,2,0,0,8,1995 Summer Tour,1995 Summer,Down with Disease,DwD,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
+1995-06-26,1995,0,10,4,1,0,0,5,1995 Summer Tour,1995 Summer,Possum,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
+1995-06-26,1995,0,11,3,2,0,0,7,1995 Summer Tour,1995 Summer,Down with Disease,DwD,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,->
 1995-06-26,1995,0,12,2,2,0,0,3,1995 Summer Tour,1995 Summer,Free,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 1995-06-26,1995,0,13,2,2,0,0,6,1995 Summer Tour,1995 Summer,Poor Heart,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
-1995-06-26,1995,0,14,1,2,0,0,3,1995 Summer Tour,1995 Summer,You Enjoy Myself,YEM,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
+1995-06-26,1995,0,14,1,2,0,0,2,1995 Summer Tour,1995 Summer,You Enjoy Myself,YEM,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,","
 1995-06-26,1995,0,15,2,2,0,0,4,1995 Summer Tour,1995 Summer,Strange Design,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
 1995-06-26,1995,0,16,5,2,0,0,3,1995 Summer Tour,1995 Summer,Run Like an Antelope,Antelope,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,
 1995-06-26,1995,0,17,2,e,0,0,19,1995 Summer Tour,1995 Summer,Sleeping Monkey,,1,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,>
@@ -338,21 +338,21 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-06-28,1995,0,1,2,1,0,0,12,1995 Summer Tour,1995 Summer,Axilla (Part II),,1,Jones Beach Amphitheater,Wantagh,NY,USA,>
 1995-06-28,1995,0,2,1,1,0,0,6,1995 Summer Tour,1995 Summer,Foam,,1,Jones Beach Amphitheater,Wantagh,NY,USA,","
 1995-06-28,1995,0,3,1,1,0,0,15,1995 Summer Tour,1995 Summer,Fast Enough for You,FEFY,1,Jones Beach Amphitheater,Wantagh,NY,USA,","
-1995-06-28,1995,0,4,1,1,0,0,4,1995 Summer Tour,1995 Summer,Reba,,1,Jones Beach Amphitheater,Wantagh,NY,USA,","
-1995-06-28,1995,0,5,1,1,0,0,7,1995 Summer Tour,1995 Summer,Punch You in the Eye,PYITE,1,Jones Beach Amphitheater,Wantagh,NY,USA,","
+1995-06-28,1995,0,4,1,1,0,0,3,1995 Summer Tour,1995 Summer,Reba,,1,Jones Beach Amphitheater,Wantagh,NY,USA,","
+1995-06-28,1995,0,5,1,1,0,0,6,1995 Summer Tour,1995 Summer,Punch You in the Eye,PYITE,1,Jones Beach Amphitheater,Wantagh,NY,USA,","
 1995-06-28,1995,0,6,1,1,0,0,3,1995 Summer Tour,1995 Summer,Stash,,1,Jones Beach Amphitheater,Wantagh,NY,USA,","
 1995-06-28,1995,0,7,2,1,0,0,10,1995 Summer Tour,1995 Summer,Fluffhead,,1,Jones Beach Amphitheater,Wantagh,NY,USA,>
 1995-06-28,1995,0,8,4,1,0,0,4,1995 Summer Tour,1995 Summer,Chalk Dust Torture,CDT,1,Jones Beach Amphitheater,Wantagh,NY,USA,
 1995-06-28,1995,0,9,1,2,0,0,2,1995 Summer Tour,1995 Summer,Sample in a Jar,Sample,1,Jones Beach Amphitheater,Wantagh,NY,USA,","
 1995-06-28,1995,0,10,2,2,0,0,1,1995 Summer Tour,1995 Summer,Poor Heart,,1,Jones Beach Amphitheater,Wantagh,NY,USA,>
-1995-06-28,1995,0,11,3,2,0,0,5,1995 Summer Tour,1995 Summer,Tweezer,,1,Jones Beach Amphitheater,Wantagh,NY,USA,->
+1995-06-28,1995,0,11,3,2,0,0,0,1995 Summer Tour,1995 Summer,Tweezer,,1,Jones Beach Amphitheater,Wantagh,NY,USA,->
 1995-06-28,1995,0,12,3,2,0,0,481,1995 Summer Tour,1995 Summer,Dave's Energy Guide,DEG,1,Jones Beach Amphitheater,Wantagh,NY,USA,->
-1995-06-28,1995,0,13,2,2,0,0,0,1995 Summer Tour,1995 Summer,Tweezer,,1,Jones Beach Amphitheater,Wantagh,NY,USA,>
+1995-06-28,1995,0,13,2,2,0,0,4,1995 Summer Tour,1995 Summer,Tweezer,,1,Jones Beach Amphitheater,Wantagh,NY,USA,>
 1995-06-28,1995,0,14,2,2,0,0,11,1995 Summer Tour,1995 Summer,Gumbo,,1,Jones Beach Amphitheater,Wantagh,NY,USA,>
 1995-06-28,1995,0,15,2,2,0,0,2,1995 Summer Tour,1995 Summer,Sparkle,,1,Jones Beach Amphitheater,Wantagh,NY,USA,>
 1995-06-28,1995,0,16,1,2,0,0,3,1995 Summer Tour,1995 Summer,Suzy Greenberg,Suzy,1,Jones Beach Amphitheater,Wantagh,NY,USA,","
-1995-06-28,1995,0,17,1,2,0,0,3,1995 Summer Tour,1995 Summer,Harry Hood,Hood,1,Jones Beach Amphitheater,Wantagh,NY,USA,","
-1995-06-28,1995,0,18,5,2,0,0,5,1995 Summer Tour,1995 Summer,Tweezer Reprise,Tweeprise,1,Jones Beach Amphitheater,Wantagh,NY,USA,
+1995-06-28,1995,0,17,1,2,0,0,2,1995 Summer Tour,1995 Summer,Harry Hood,Hood,1,Jones Beach Amphitheater,Wantagh,NY,USA,","
+1995-06-28,1995,0,18,5,2,0,0,4,1995 Summer Tour,1995 Summer,Tweezer Reprise,Tweeprise,1,Jones Beach Amphitheater,Wantagh,NY,USA,
 1995-06-28,1995,0,19,1,e,0,0,3,1995 Summer Tour,1995 Summer,Sweet Adeline,,0,Jones Beach Amphitheater,Wantagh,NY,USA,","
 1995-06-28,1995,0,20,6,e,0,0,5,1995 Summer Tour,1995 Summer,While My Guitar Gently Weeps,WMGGW,0,Jones Beach Amphitheater,Wantagh,NY,USA,
 1995-06-29,1995,0,1,2,1,0,0,5,1995 Summer Tour,1995 Summer,Runaway Jim,,1,Jones Beach Amphitheater,Wantagh,NY,USA,>
@@ -360,7 +360,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-06-29,1995,0,3,2,1,0,0,4,1995 Summer Tour,1995 Summer,The Horse,Horse,1,Jones Beach Amphitheater,Wantagh,NY,USA,>
 1995-06-29,1995,0,4,1,1,0,0,4,1995 Summer Tour,1995 Summer,Silent in the Morning,Silent,1,Jones Beach Amphitheater,Wantagh,NY,USA,","
 1995-06-29,1995,0,5,1,1,0,0,3,1995 Summer Tour,1995 Summer,Divided Sky,Divided,1,Jones Beach Amphitheater,Wantagh,NY,USA,","
-1995-06-29,1995,0,6,2,1,0,0,3,1995 Summer Tour,1995 Summer,Cavern,,1,Jones Beach Amphitheater,Wantagh,NY,USA,>
+1995-06-29,1995,0,6,2,1,0,0,2,1995 Summer Tour,1995 Summer,Cavern,,1,Jones Beach Amphitheater,Wantagh,NY,USA,>
 1995-06-29,1995,0,7,2,1,0,0,4,1995 Summer Tour,1995 Summer,Rift,,1,Jones Beach Amphitheater,Wantagh,NY,USA,>
 1995-06-29,1995,0,8,2,1,0,0,5,1995 Summer Tour,1995 Summer,Simple,,1,Jones Beach Amphitheater,Wantagh,NY,USA,>
 1995-06-29,1995,0,9,1,1,0,0,3,1995 Summer Tour,1995 Summer,Split Open and Melt,SOAMelt,1,Jones Beach Amphitheater,Wantagh,NY,USA,","
@@ -368,11 +368,11 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-06-29,1995,0,11,3,2,0,0,2,1995 Summer Tour,1995 Summer,Free,,1,Jones Beach Amphitheater,Wantagh,NY,USA,->
 1995-06-29,1995,0,12,1,2,0,0,4,1995 Summer Tour,1995 Summer,David Bowie,Bowie,1,Jones Beach Amphitheater,Wantagh,NY,USA,","
 1995-06-29,1995,0,13,1,2,0,0,2,1995 Summer Tour,1995 Summer,Strange Design,,1,Jones Beach Amphitheater,Wantagh,NY,USA,","
-1995-06-29,1995,0,14,1,2,0,0,2,1995 Summer Tour,1995 Summer,You Enjoy Myself,YEM,1,Jones Beach Amphitheater,Wantagh,NY,USA,","
+1995-06-29,1995,0,14,1,2,0,0,1,1995 Summer Tour,1995 Summer,You Enjoy Myself,YEM,1,Jones Beach Amphitheater,Wantagh,NY,USA,","
 1995-06-29,1995,0,15,1,2,0,0,4,1995 Summer Tour,1995 Summer,Acoustic Army,,1,Jones Beach Amphitheater,Wantagh,NY,USA,","
 1995-06-29,1995,0,16,5,2,0,0,5,1995 Summer Tour,1995 Summer,A Day in the Life,ADITL,0,Jones Beach Amphitheater,Wantagh,NY,USA,
-1995-06-29,1995,0,17,6,e,0,0,3,1995 Summer Tour,1995 Summer,Theme from the Bottom,Theme,1,Jones Beach Amphitheater,Wantagh,NY,USA,
-1995-06-30,1995,0,1,2,1,0,0,4,1995 Summer Tour,1995 Summer,AC/DC Bag,Bag,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,>
+1995-06-29,1995,0,17,6,e,0,0,2,1995 Summer Tour,1995 Summer,Theme from the Bottom,Theme,1,Jones Beach Amphitheater,Wantagh,NY,USA,
+1995-06-30,1995,0,1,2,1,0,0,3,1995 Summer Tour,1995 Summer,AC/DC Bag,Bag,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,>
 1995-06-30,1995,0,2,1,1,0,0,4,1995 Summer Tour,1995 Summer,Scent of a Mule,SOAMule,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,","
 1995-06-30,1995,0,3,1,1,0,0,38,1995 Summer Tour,1995 Summer,Horn,,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,","
 1995-06-30,1995,0,4,1,1,0,0,1,1995 Summer Tour,1995 Summer,Taste,,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,","
@@ -382,7 +382,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-06-30,1995,0,8,3,1,0,0,5,1995 Summer Tour,1995 Summer,Fee,,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,->
 1995-06-30,1995,0,9,4,1,0,0,3,1995 Summer Tour,1995 Summer,Run Like an Antelope,Antelope,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,
 1995-06-30,1995,0,10,2,2,0,0,5,1995 Summer Tour,1995 Summer,Also Sprach Zarathustra,2001,0,Great Woods Center for the Performing Arts,Mansfield,MA,USA,>
-1995-06-30,1995,0,11,2,2,0,0,3,1995 Summer Tour,1995 Summer,Possum,,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,>
+1995-06-30,1995,0,11,2,2,0,0,2,1995 Summer Tour,1995 Summer,Possum,,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,>
 1995-06-30,1995,0,12,2,2,0,0,7,1995 Summer Tour,1995 Summer,Ha Ha Ha,,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,>
 1995-06-30,1995,0,13,2,2,0,0,40,1995 Summer Tour,1995 Summer,The Man Who Stepped Into Yesterday,TMWSIY,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,>
 1995-06-30,1995,0,14,2,2,0,0,40,1995 Summer Tour,1995 Summer,Avenu Malkenu,,0,Great Woods Center for the Performing Arts,Mansfield,MA,USA,>
@@ -400,18 +400,18 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-07-01,1995,0,3,2,1,0,0,5,1995 Summer Tour,1995 Summer,If I Could,,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,>
 1995-07-01,1995,0,4,1,1,0,0,14,1995 Summer Tour,1995 Summer,All Things Reconsidered,ATR,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,","
 1995-07-01,1995,0,5,2,1,0,0,4,1995 Summer Tour,1995 Summer,It's Ice,,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,>
-1995-07-01,1995,0,6,2,1,0,0,7,1995 Summer Tour,1995 Summer,Prince Caspian,Caspian,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,>
+1995-07-01,1995,0,6,2,1,0,0,6,1995 Summer Tour,1995 Summer,Prince Caspian,Caspian,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,>
 1995-07-01,1995,0,7,1,1,0,0,2,1995 Summer Tour,1995 Summer,Split Open and Melt,SOAMelt,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,","
-1995-07-01,1995,0,8,2,1,0,0,5,1995 Summer Tour,1995 Summer,Bouncing Around the Room,Bouncin',1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,>
+1995-07-01,1995,0,8,2,1,0,0,4,1995 Summer Tour,1995 Summer,Bouncing Around the Room,Bouncin',1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,>
 1995-07-01,1995,0,9,4,1,0,0,3,1995 Summer Tour,1995 Summer,Chalk Dust Torture,CDT,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,
 1995-07-01,1995,0,10,2,2,0,0,11,1995 Summer Tour,1995 Summer,Wilson,,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,>
 1995-07-01,1995,0,11,1,2,0,0,5,1995 Summer Tour,1995 Summer,Maze,,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,","
-1995-07-01,1995,0,12,1,2,0,0,2,1995 Summer Tour,1995 Summer,Theme from the Bottom,Theme,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,","
+1995-07-01,1995,0,12,1,2,0,0,1,1995 Summer Tour,1995 Summer,Theme from the Bottom,Theme,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,","
 1995-07-01,1995,0,13,1,2,0,0,9,1995 Summer Tour,1995 Summer,Uncle Pen,,0,Great Woods Center for the Performing Arts,Mansfield,MA,USA,","
 1995-07-01,1995,0,14,2,2,0,0,3,1995 Summer Tour,1995 Summer,Stash,,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,>
 1995-07-01,1995,0,15,1,2,0,0,2,1995 Summer Tour,1995 Summer,Strange Design,,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,","
 1995-07-01,1995,0,16,1,2,0,0,2,1995 Summer Tour,1995 Summer,Acoustic Army,,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,","
-1995-07-01,1995,0,17,1,2,0,0,3,1995 Summer Tour,1995 Summer,Harry Hood,Hood,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,","
+1995-07-01,1995,0,17,1,2,0,0,2,1995 Summer Tour,1995 Summer,Harry Hood,Hood,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,","
 1995-07-01,1995,0,18,5,2,0,0,3,1995 Summer Tour,1995 Summer,Suzy Greenberg,Suzy,1,Great Woods Center for the Performing Arts,Mansfield,MA,USA,
 1995-07-01,1995,0,19,6,e,0,0,19,1995 Summer Tour,1995 Summer,Funky Bitch,,0,Great Woods Center for the Performing Arts,Mansfield,MA,USA,
 1995-07-02,1995,0,1,2,1,0,0,4,1995 Summer Tour,1995 Summer,Sample in a Jar,Sample,1,Summerstage at Sugarbush North,Fayston,VT,USA,>
@@ -420,45 +420,45 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-07-02,1995,0,4,2,1,0,0,12,1995 Summer Tour,1995 Summer,The Curtain,Curtain,1,Summerstage at Sugarbush North,Fayston,VT,USA,>
 1995-07-02,1995,0,5,1,1,0,0,7,1995 Summer Tour,1995 Summer,Julius,,1,Summerstage at Sugarbush North,Fayston,VT,USA,","
 1995-07-02,1995,0,6,1,1,0,0,762,1995 Summer Tour,1995 Summer,Camel Walk,,1,Summerstage at Sugarbush North,Fayston,VT,USA,","
-1995-07-02,1995,0,7,1,1,0,0,4,1995 Summer Tour,1995 Summer,Reba,,1,Summerstage at Sugarbush North,Fayston,VT,USA,","
+1995-07-02,1995,0,7,1,1,0,0,3,1995 Summer Tour,1995 Summer,Reba,,1,Summerstage at Sugarbush North,Fayston,VT,USA,","
 1995-07-02,1995,0,8,1,1,0,0,6,1995 Summer Tour,1995 Summer,I Didn't Know,IDK,1,Summerstage at Sugarbush North,Fayston,VT,USA,","
 1995-07-02,1995,0,9,1,1,0,0,3,1995 Summer Tour,1995 Summer,Rift,,1,Summerstage at Sugarbush North,Fayston,VT,USA,","
 1995-07-02,1995,0,10,4,1,0,0,4,1995 Summer Tour,1995 Summer,While My Guitar Gently Weeps,WMGGW,0,Summerstage at Sugarbush North,Fayston,VT,USA,
 1995-07-02,1995,0,11,3,2,0,0,3,1995 Summer Tour,1995 Summer,Runaway Jim,,1,Summerstage at Sugarbush North,Fayston,VT,USA,->
 1995-07-02,1995,0,12,3,2,0,0,17,1995 Summer Tour,1995 Summer,Makisupa Policeman,Makisupa,1,Summerstage at Sugarbush North,Fayston,VT,USA,->
 1995-07-02,1995,0,13,1,2,0,0,2,1995 Summer Tour,1995 Summer,Scent of a Mule,SOAMule,1,Summerstage at Sugarbush North,Fayston,VT,USA,","
-1995-07-02,1995,0,14,3,2,0,0,4,1995 Summer Tour,1995 Summer,Tweezer,,1,Summerstage at Sugarbush North,Fayston,VT,USA,->
+1995-07-02,1995,0,14,3,2,0,0,3,1995 Summer Tour,1995 Summer,Tweezer,,1,Summerstage at Sugarbush North,Fayston,VT,USA,->
 1995-07-02,1995,0,15,2,2,0,0,2,1995 Summer Tour,1995 Summer,Ha Ha Ha,,1,Summerstage at Sugarbush North,Fayston,VT,USA,>
 1995-07-02,1995,0,16,1,2,0,0,5,1995 Summer Tour,1995 Summer,Sleeping Monkey,,1,Summerstage at Sugarbush North,Fayston,VT,USA,","
 1995-07-02,1995,0,17,1,2,0,0,1,1995 Summer Tour,1995 Summer,Acoustic Army,,1,Summerstage at Sugarbush North,Fayston,VT,USA,","
 1995-07-02,1995,0,18,5,2,0,0,6,1995 Summer Tour,1995 Summer,Slave to the Traffic Light,Slave,1,Summerstage at Sugarbush North,Fayston,VT,USA,
 1995-07-02,1995,0,19,2,e,0,0,7,1995 Summer Tour,1995 Summer,Halley's Comet,Halley's,1,Summerstage at Sugarbush North,Fayston,VT,USA,>
-1995-07-02,1995,0,20,6,e,0,0,4,1995 Summer Tour,1995 Summer,Tweezer Reprise,Tweeprise,1,Summerstage at Sugarbush North,Fayston,VT,USA,
-1995-07-03,1995,0,1,2,1,0,0,6,1995 Summer Tour,1995 Summer,"My Friend, My Friend",My Friend,1,Summerstage at Sugarbush North,Fayston,VT,USA,>
+1995-07-02,1995,0,20,6,e,0,0,3,1995 Summer Tour,1995 Summer,Tweezer Reprise,Tweeprise,1,Summerstage at Sugarbush North,Fayston,VT,USA,
+1995-07-03,1995,0,1,2,1,0,0,5,1995 Summer Tour,1995 Summer,"My Friend, My Friend",My Friend,1,Summerstage at Sugarbush North,Fayston,VT,USA,>
 1995-07-03,1995,0,2,2,1,0,0,5,1995 Summer Tour,1995 Summer,Poor Heart,,1,Summerstage at Sugarbush North,Fayston,VT,USA,>
 1995-07-03,1995,0,3,1,1,0,0,3,1995 Summer Tour,1995 Summer,Run Like an Antelope,Antelope,1,Summerstage at Sugarbush North,Fayston,VT,USA,","
-1995-07-03,1995,0,4,1,1,0,0,12,1995 Summer Tour,1995 Summer,Loving Cup,,0,Summerstage at Sugarbush North,Fayston,VT,USA,","
+1995-07-03,1995,0,4,1,1,0,0,11,1995 Summer Tour,1995 Summer,Loving Cup,,0,Summerstage at Sugarbush North,Fayston,VT,USA,","
 1995-07-03,1995,0,5,2,1,0,0,5,1995 Summer Tour,1995 Summer,Sparkle,,1,Summerstage at Sugarbush North,Fayston,VT,USA,>
 1995-07-03,1995,0,6,1,1,0,0,2,1995 Summer Tour,1995 Summer,It's Ice,,1,Summerstage at Sugarbush North,Fayston,VT,USA,","
 1995-07-03,1995,0,7,1,1,0,0,2,1995 Summer Tour,1995 Summer,If I Could,,1,Summerstage at Sugarbush North,Fayston,VT,USA,","
 1995-07-03,1995,0,8,1,1,0,0,2,1995 Summer Tour,1995 Summer,Maze,,1,Summerstage at Sugarbush North,Fayston,VT,USA,","
 1995-07-03,1995,0,9,1,1,0,0,2,1995 Summer Tour,1995 Summer,Strange Design,,1,Summerstage at Sugarbush North,Fayston,VT,USA,","
 1995-07-03,1995,0,10,2,1,0,0,4,1995 Summer Tour,1995 Summer,Free,,1,Summerstage at Sugarbush North,Fayston,VT,USA,>
-1995-07-03,1995,0,11,4,1,0,0,4,1995 Summer Tour,1995 Summer,Cavern,,1,Summerstage at Sugarbush North,Fayston,VT,USA,
-1995-07-03,1995,0,12,2,2,0,0,260,1995 Summer Tour,1995 Summer,Timber (Jerry the Mule),Timber Ho,0,Summerstage at Sugarbush North,Fayston,VT,USA,>
+1995-07-03,1995,0,11,4,1,0,0,3,1995 Summer Tour,1995 Summer,Cavern,,1,Summerstage at Sugarbush North,Fayston,VT,USA,
+1995-07-03,1995,0,12,2,2,0,0,259,1995 Summer Tour,1995 Summer,Timber (Jerry the Mule),Timber Ho,0,Summerstage at Sugarbush North,Fayston,VT,USA,>
 1995-07-03,1995,0,13,3,2,0,0,4,1995 Summer Tour,1995 Summer,David Bowie,Bowie,1,Summerstage at Sugarbush North,Fayston,VT,USA,->
 1995-07-03,1995,0,14,3,2,0,0,13,1995 Summer Tour,1995 Summer,Johnny B. Goode,JBG,0,Summerstage at Sugarbush North,Fayston,VT,USA,->
 1995-07-03,1995,0,15,1,2,0,0,0,1995 Summer Tour,1995 Summer,David Bowie,Bowie,1,Summerstage at Sugarbush North,Fayston,VT,USA,","
-1995-07-03,1995,0,16,2,2,0,0,3,1995 Summer Tour,1995 Summer,AC/DC Bag,Bag,1,Summerstage at Sugarbush North,Fayston,VT,USA,>
+1995-07-03,1995,0,16,2,2,0,0,2,1995 Summer Tour,1995 Summer,AC/DC Bag,Bag,1,Summerstage at Sugarbush North,Fayston,VT,USA,>
 1995-07-03,1995,0,17,2,2,0,0,3,1995 Summer Tour,1995 Summer,The Lizards,Lizards,1,Summerstage at Sugarbush North,Fayston,VT,USA,>
 1995-07-03,1995,0,18,1,2,0,0,35,1995 Summer Tour,1995 Summer,Big Black Furry Creature from Mars,BBFCFM,1,Summerstage at Sugarbush North,Fayston,VT,USA,","
 1995-07-03,1995,0,19,2,2,0,0,4,1995 Summer Tour,1995 Summer,A Day in the Life,ADITL,0,Summerstage at Sugarbush North,Fayston,VT,USA,>
-1995-07-03,1995,0,20,1,2,0,0,3,1995 Summer Tour,1995 Summer,Possum,,1,Summerstage at Sugarbush North,Fayston,VT,USA,","
+1995-07-03,1995,0,20,1,2,0,0,2,1995 Summer Tour,1995 Summer,Possum,,1,Summerstage at Sugarbush North,Fayston,VT,USA,","
 1995-07-03,1995,0,21,5,2,0,0,3,1995 Summer Tour,1995 Summer,The Squirming Coil,Coil,1,Summerstage at Sugarbush North,Fayston,VT,USA,
 1995-07-03,1995,0,22,1,e,0,0,4,1995 Summer Tour,1995 Summer,Simple,,1,Summerstage at Sugarbush North,Fayston,VT,USA,","
 1995-07-03,1995,0,23,6,e,0,0,3,1995 Summer Tour,1995 Summer,Amazing Grace,,0,Summerstage at Sugarbush North,Fayston,VT,USA,
 1995-07-13,1995,1,1,6,1,0,0,0,Not Part of a Tour,No Tour,Julius,,1,Ed Sullivan Theater,New York,NY,USA,
-1995-09-27,1995,0,1,1,1,0,0,89,1995 Fall Tour,1995 Fall,Wolfman's Brother,Wolfman's,1,Cal Expo Amphitheater,Sacramento,CA,USA,","
+1995-09-27,1995,0,1,1,1,0,0,88,1995 Fall Tour,1995 Fall,Wolfman's Brother,Wolfman's,1,Cal Expo Amphitheater,Sacramento,CA,USA,","
 1995-09-27,1995,0,2,2,1,0,0,2,1995 Fall Tour,1995 Fall,Rift,,1,Cal Expo Amphitheater,Sacramento,CA,USA,>
 1995-09-27,1995,0,3,1,1,0,0,1,1995 Fall Tour,1995 Fall,Free,,1,Cal Expo Amphitheater,Sacramento,CA,USA,","
 1995-09-27,1995,0,4,2,1,0,0,1,1995 Fall Tour,1995 Fall,It's Ice,,1,Cal Expo Amphitheater,Sacramento,CA,USA,>
@@ -468,14 +468,14 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-09-27,1995,0,8,1,1,0,0,3,1995 Fall Tour,1995 Fall,Chalk Dust Torture,CDT,1,Cal Expo Amphitheater,Sacramento,CA,USA,","
 1995-09-27,1995,0,9,4,1,0,0,1,1995 Fall Tour,1995 Fall,The Squirming Coil,Coil,1,Cal Expo Amphitheater,Sacramento,CA,USA,
 1995-09-27,1995,0,10,1,2,0,0,970,1995 Fall Tour,1995 Fall,Cars Trucks Buses,CTB,1,Cal Expo Amphitheater,Sacramento,CA,USA,","
-1995-09-27,1995,0,11,1,2,0,0,1,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,Cal Expo Amphitheater,Sacramento,CA,USA,","
+1995-09-27,1995,0,11,1,2,0,0,0,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,Cal Expo Amphitheater,Sacramento,CA,USA,","
 1995-09-27,1995,0,12,1,2,0,0,1,1995 Fall Tour,1995 Fall,David Bowie,Bowie,1,Cal Expo Amphitheater,Sacramento,CA,USA,","
 1995-09-27,1995,0,13,1,2,0,0,971,1995 Fall Tour,1995 Fall,Billy Breathes,,1,Cal Expo Amphitheater,Sacramento,CA,USA,","
 1995-09-27,1995,0,14,1,2,0,0,974,1995 Fall Tour,1995 Fall,Keyboard Army,,1,Cal Expo Amphitheater,Sacramento,CA,USA,","
-1995-09-27,1995,0,15,1,2,0,0,3,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,Cal Expo Amphitheater,Sacramento,CA,USA,","
+1995-09-27,1995,0,15,1,2,0,0,2,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,Cal Expo Amphitheater,Sacramento,CA,USA,","
 1995-09-27,1995,0,16,1,2,0,0,974,1995 Fall Tour,1995 Fall,Hello My Baby,,0,Cal Expo Amphitheater,Sacramento,CA,USA,","
 1995-09-27,1995,0,17,5,2,0,0,1,1995 Fall Tour,1995 Fall,A Day in the Life,ADITL,0,Cal Expo Amphitheater,Sacramento,CA,USA,
-1995-09-27,1995,0,18,6,e,0,0,1,1995 Fall Tour,1995 Fall,Possum,,1,Cal Expo Amphitheater,Sacramento,CA,USA,
+1995-09-27,1995,0,18,6,e,0,0,0,1995 Fall Tour,1995 Fall,Possum,,1,Cal Expo Amphitheater,Sacramento,CA,USA,
 1995-09-28,1995,0,1,1,1,0,0,1,1995 Fall Tour,1995 Fall,Cars Trucks Buses,CTB,1,"Summer Pops, Embarcadero Center",San Diego,CA,USA,","
 1995-09-28,1995,0,2,1,1,0,0,3,1995 Fall Tour,1995 Fall,Runaway Jim,,1,"Summer Pops, Embarcadero Center",San Diego,CA,USA,","
 1995-09-28,1995,0,3,1,1,0,0,1,1995 Fall Tour,1995 Fall,Billy Breathes,,1,"Summer Pops, Embarcadero Center",San Diego,CA,USA,","
@@ -485,21 +485,21 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-09-28,1995,0,7,1,1,0,0,1,1995 Fall Tour,1995 Fall,The Fog That Surrounds,Fog That Surrounds,1,"Summer Pops, Embarcadero Center",San Diego,CA,USA,","
 1995-09-28,1995,0,8,1,1,0,0,3,1995 Fall Tour,1995 Fall,Acoustic Army,,1,"Summer Pops, Embarcadero Center",San Diego,CA,USA,","
 1995-09-28,1995,0,9,4,1,0,0,3,1995 Fall Tour,1995 Fall,Slave to the Traffic Light,Slave,1,"Summer Pops, Embarcadero Center",San Diego,CA,USA,
-1995-09-28,1995,0,10,2,2,0,0,4,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,"Summer Pops, Embarcadero Center",San Diego,CA,USA,>
+1995-09-28,1995,0,10,2,2,0,0,3,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,"Summer Pops, Embarcadero Center",San Diego,CA,USA,>
 1995-09-28,1995,0,11,1,2,0,0,2,1995 Fall Tour,1995 Fall,Poor Heart,,1,"Summer Pops, Embarcadero Center",San Diego,CA,USA,","
 1995-09-28,1995,0,12,1,2,0,0,8,1995 Fall Tour,1995 Fall,Don't You Want To Go?,,0,"Summer Pops, Embarcadero Center",San Diego,CA,USA,","
-1995-09-28,1995,0,13,2,2,0,0,3,1995 Fall Tour,1995 Fall,Tweezer,,1,"Summer Pops, Embarcadero Center",San Diego,CA,USA,>
+1995-09-28,1995,0,13,2,2,0,0,2,1995 Fall Tour,1995 Fall,Tweezer,,1,"Summer Pops, Embarcadero Center",San Diego,CA,USA,>
 1995-09-28,1995,0,14,1,2,0,0,1,1995 Fall Tour,1995 Fall,Keyboard Army,,1,"Summer Pops, Embarcadero Center",San Diego,CA,USA,","
 1995-09-28,1995,0,15,1,2,0,0,2,1995 Fall Tour,1995 Fall,Amazing Grace,,0,"Summer Pops, Embarcadero Center",San Diego,CA,USA,","
 1995-09-28,1995,0,16,1,2,0,0,3,1995 Fall Tour,1995 Fall,Sample in a Jar,Sample,1,"Summer Pops, Embarcadero Center",San Diego,CA,USA,","
 1995-09-28,1995,0,17,5,2,0,0,2,1995 Fall Tour,1995 Fall,Run Like an Antelope,Antelope,1,"Summer Pops, Embarcadero Center",San Diego,CA,USA,
 1995-09-28,1995,0,18,6,e,0,0,44,1995 Fall Tour,1995 Fall,Fire,,0,"Summer Pops, Embarcadero Center",San Diego,CA,USA,
-1995-09-29,1995,0,1,2,1,0,0,2,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,Greek Theatre,Los Angeles,CA,USA,>
+1995-09-29,1995,0,1,2,1,0,0,1,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,Greek Theatre,Los Angeles,CA,USA,>
 1995-09-29,1995,0,2,2,1,0,0,3,1995 Fall Tour,1995 Fall,Sparkle,,1,Greek Theatre,Los Angeles,CA,USA,>
 1995-09-29,1995,0,3,1,1,0,0,4,1995 Fall Tour,1995 Fall,Divided Sky,Divided,1,Greek Theatre,Los Angeles,CA,USA,","
 1995-09-29,1995,0,4,1,1,0,0,2,1995 Fall Tour,1995 Fall,Strange Design,,1,Greek Theatre,Los Angeles,CA,USA,","
 1995-09-29,1995,0,5,1,1,0,0,1,1995 Fall Tour,1995 Fall,Cars Trucks Buses,CTB,1,Greek Theatre,Los Angeles,CA,USA,","
-1995-09-29,1995,0,6,1,1,0,0,7,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,Greek Theatre,Los Angeles,CA,USA,","
+1995-09-29,1995,0,6,1,1,0,0,6,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,Greek Theatre,Los Angeles,CA,USA,","
 1995-09-29,1995,0,7,1,1,0,0,8,1995 Fall Tour,1995 Fall,Sweet Adeline,,0,Greek Theatre,Los Angeles,CA,USA,","
 1995-09-29,1995,0,8,4,1,0,0,5,1995 Fall Tour,1995 Fall,Suzy Greenberg,Suzy,1,Greek Theatre,Los Angeles,CA,USA,
 1995-09-29,1995,0,9,2,2,0,0,6,1995 Fall Tour,1995 Fall,Also Sprach Zarathustra,2001,0,Greek Theatre,Los Angeles,CA,USA,>
@@ -513,10 +513,10 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-09-29,1995,0,17,1,2,0,0,0,1995 Fall Tour,1995 Fall,Hold Your Head Up,HYHU,0,Greek Theatre,Los Angeles,CA,USA,","
 1995-09-29,1995,0,18,5,2,0,0,2,1995 Fall Tour,1995 Fall,A Day in the Life,ADITL,0,Greek Theatre,Los Angeles,CA,USA,
 1995-09-29,1995,0,19,6,e,0,0,2,1995 Fall Tour,1995 Fall,Chalk Dust Torture,CDT,1,Greek Theatre,Los Angeles,CA,USA,
-1995-09-30,1995,0,1,1,1,0,0,4,1995 Fall Tour,1995 Fall,"My Friend, My Friend",My Friend,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+1995-09-30,1995,0,1,1,1,0,0,3,1995 Fall Tour,1995 Fall,"My Friend, My Friend",My Friend,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
 1995-09-30,1995,0,2,1,1,0,0,1,1995 Fall Tour,1995 Fall,Cars Trucks Buses,CTB,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
 1995-09-30,1995,0,3,2,1,1,0,971,1995 Fall Tour,1995 Fall,White Rabbit,,0,Shoreline Amphitheatre,Mountain View,CA,USA,>
-1995-09-30,1995,0,4,1,1,0,0,5,1995 Fall Tour,1995 Fall,Reba,,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
+1995-09-30,1995,0,4,1,1,0,0,4,1995 Fall Tour,1995 Fall,Reba,,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
 1995-09-30,1995,0,5,1,1,0,0,6,1995 Fall Tour,1995 Fall,Uncle Pen,,0,Shoreline Amphitheatre,Mountain View,CA,USA,","
 1995-09-30,1995,0,6,1,1,0,0,7,1995 Fall Tour,1995 Fall,Horn,,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
 1995-09-30,1995,0,7,1,1,0,0,2,1995 Fall Tour,1995 Fall,Run Like an Antelope,Antelope,1,Shoreline Amphitheatre,Mountain View,CA,USA,","
@@ -531,17 +531,17 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-09-30,1995,0,16,3,2,0,0,7,1995 Fall Tour,1995 Fall,Weekapaug Groove,Weekapaug,1,Shoreline Amphitheatre,Mountain View,CA,USA,->
 1995-09-30,1995,0,17,2,2,0,0,971,1995 Fall Tour,1995 Fall,Suspicious Minds,,0,Shoreline Amphitheatre,Mountain View,CA,USA,>
 1995-09-30,1995,0,18,2,2,0,0,1,1995 Fall Tour,1995 Fall,Hold Your Head Up,HYHU,0,Shoreline Amphitheatre,Mountain View,CA,USA,>
-1995-09-30,1995,0,19,5,2,0,0,4,1995 Fall Tour,1995 Fall,Cavern,,1,Shoreline Amphitheatre,Mountain View,CA,USA,
+1995-09-30,1995,0,19,5,2,0,0,3,1995 Fall Tour,1995 Fall,Cavern,,1,Shoreline Amphitheatre,Mountain View,CA,USA,
 1995-09-30,1995,0,20,1,e,0,0,2,1995 Fall Tour,1995 Fall,Amazing Grace,,0,Shoreline Amphitheatre,Mountain View,CA,USA,","
 1995-09-30,1995,0,21,6,e,0,0,13,1995 Fall Tour,1995 Fall,Good Times Bad Times,GTBT,0,Shoreline Amphitheatre,Mountain View,CA,USA,
 1995-10-02,1995,0,1,1,1,0,0,3,1995 Fall Tour,1995 Fall,Poor Heart,,1,Seattle Center Arena,Seattle,WA,USA,","
-1995-10-02,1995,0,2,1,1,0,0,4,1995 Fall Tour,1995 Fall,Wolfman's Brother,Wolfman's,1,Seattle Center Arena,Seattle,WA,USA,","
+1995-10-02,1995,0,2,1,1,0,0,3,1995 Fall Tour,1995 Fall,Wolfman's Brother,Wolfman's,1,Seattle Center Arena,Seattle,WA,USA,","
 1995-10-02,1995,0,3,1,1,0,0,4,1995 Fall Tour,1995 Fall,Rift,,1,Seattle Center Arena,Seattle,WA,USA,","
 1995-10-02,1995,0,4,2,1,1,0,972,1995 Fall Tour,1995 Fall,Night Moves,,0,Seattle Center Arena,Seattle,WA,USA,>
 1995-10-02,1995,0,5,1,1,0,0,3,1995 Fall Tour,1995 Fall,Stash,,1,Seattle Center Arena,Seattle,WA,USA,","
 1995-10-02,1995,0,6,1,1,0,0,3,1995 Fall Tour,1995 Fall,Acoustic Army,,1,Seattle Center Arena,Seattle,WA,USA,","
 1995-10-02,1995,0,7,1,1,0,0,1,1995 Fall Tour,1995 Fall,The Fog That Surrounds,Fog That Surrounds,1,Seattle Center Arena,Seattle,WA,USA,","
-1995-10-02,1995,0,8,1,1,0,0,3,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,Seattle Center Arena,Seattle,WA,USA,","
+1995-10-02,1995,0,8,1,1,0,0,2,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,Seattle Center Arena,Seattle,WA,USA,","
 1995-10-02,1995,0,9,2,1,0,0,11,1995 Fall Tour,1995 Fall,Tela,,1,Seattle Center Arena,Seattle,WA,USA,>
 1995-10-02,1995,0,10,4,1,0,0,4,1995 Fall Tour,1995 Fall,David Bowie,Bowie,1,Seattle Center Arena,Seattle,WA,USA,
 1995-10-02,1995,0,11,2,2,0,0,7,1995 Fall Tour,1995 Fall,Wilson,,1,Seattle Center Arena,Seattle,WA,USA,>
@@ -565,11 +565,11 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-10-03,1995,0,8,2,1,0,0,9,1995 Fall Tour,1995 Fall,Avenu Malkenu,,0,Seattle Center Arena,Seattle,WA,USA,>
 1995-10-03,1995,0,9,1,1,0,0,0,1995 Fall Tour,1995 Fall,The Man Who Stepped Into Yesterday,TMWSIY,1,Seattle Center Arena,Seattle,WA,USA,","
 1995-10-03,1995,0,10,2,1,0,0,2,1995 Fall Tour,1995 Fall,Sample in a Jar,Sample,1,Seattle Center Arena,Seattle,WA,USA,>
-1995-10-03,1995,0,11,4,1,0,0,3,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,Seattle Center Arena,Seattle,WA,USA,
-1995-10-03,1995,0,12,2,2,0,0,6,1995 Fall Tour,1995 Fall,Timber (Jerry the Mule),Timber Ho,0,Seattle Center Arena,Seattle,WA,USA,>
+1995-10-03,1995,0,11,4,1,0,0,2,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,Seattle Center Arena,Seattle,WA,USA,
+1995-10-03,1995,0,12,2,2,0,0,5,1995 Fall Tour,1995 Fall,Timber (Jerry the Mule),Timber Ho,0,Seattle Center Arena,Seattle,WA,USA,>
 1995-10-03,1995,0,13,2,2,0,0,5,1995 Fall Tour,1995 Fall,It's Ice,,1,Seattle Center Arena,Seattle,WA,USA,>
 1995-10-03,1995,0,14,2,2,0,0,3,1995 Fall Tour,1995 Fall,Sparkle,,1,Seattle Center Arena,Seattle,WA,USA,>
-1995-10-03,1995,0,15,1,2,0,0,5,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,Seattle Center Arena,Seattle,WA,USA,","
+1995-10-03,1995,0,15,1,2,0,0,4,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,Seattle Center Arena,Seattle,WA,USA,","
 1995-10-03,1995,0,16,1,2,0,0,3,1995 Fall Tour,1995 Fall,Billy Breathes,,1,Seattle Center Arena,Seattle,WA,USA,","
 1995-10-03,1995,0,17,1,2,0,0,99,1995 Fall Tour,1995 Fall,Faht,,1,Seattle Center Arena,Seattle,WA,USA,","
 1995-10-03,1995,0,18,1,2,0,0,3,1995 Fall Tour,1995 Fall,Sweet Adeline,,0,Seattle Center Arena,Seattle,WA,USA,","
@@ -592,7 +592,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-10-05,1995,0,14,2,2,0,0,43,1995 Fall Tour,1995 Fall,Colonel Forbin's Ascent,Forbin's,1,Memorial Coliseum,Portland,OR,USA,>
 1995-10-05,1995,0,15,2,2,0,0,43,1995 Fall Tour,1995 Fall,Fly Famous Mockingbird,Mockingbird,1,Memorial Coliseum,Portland,OR,USA,>
 1995-10-05,1995,0,16,2,2,0,0,3,1995 Fall Tour,1995 Fall,Scent of a Mule,SOAMule,1,Memorial Coliseum,Portland,OR,USA,>
-1995-10-05,1995,0,17,2,2,0,0,3,1995 Fall Tour,1995 Fall,Cavern,,1,Memorial Coliseum,Portland,OR,USA,>
+1995-10-05,1995,0,17,2,2,0,0,2,1995 Fall Tour,1995 Fall,Cavern,,1,Memorial Coliseum,Portland,OR,USA,>
 1995-10-05,1995,0,18,1,2,0,0,2,1995 Fall Tour,1995 Fall,David Bowie,Bowie,1,Memorial Coliseum,Portland,OR,USA,","
 1995-10-05,1995,0,19,1,2,0,0,15,1995 Fall Tour,1995 Fall,Lifeboy,,1,Memorial Coliseum,Portland,OR,USA,","
 1995-10-05,1995,0,20,5,2,0,0,3,1995 Fall Tour,1995 Fall,Amazing Grace,,0,Memorial Coliseum,Portland,OR,USA,
@@ -600,7 +600,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-10-06,1995,0,1,1,1,0,0,5,1995 Fall Tour,1995 Fall,Ya Mar,,0,The Orpheum Theatre,"Vancouver, British Columbia",,Canada,","
 1995-10-06,1995,0,2,1,1,0,0,3,1995 Fall Tour,1995 Fall,Stash,,1,The Orpheum Theatre,"Vancouver, British Columbia",,Canada,","
 1995-10-06,1995,0,3,1,1,0,0,2,1995 Fall Tour,1995 Fall,Billy Breathes,,1,The Orpheum Theatre,"Vancouver, British Columbia",,Canada,","
-1995-10-06,1995,0,4,1,1,0,0,4,1995 Fall Tour,1995 Fall,Reba,,1,The Orpheum Theatre,"Vancouver, British Columbia",,Canada,","
+1995-10-06,1995,0,4,1,1,0,0,3,1995 Fall Tour,1995 Fall,Reba,,1,The Orpheum Theatre,"Vancouver, British Columbia",,Canada,","
 1995-10-06,1995,0,5,1,1,0,0,2,1995 Fall Tour,1995 Fall,"I'm Blue, I'm Lonesome",,0,The Orpheum Theatre,"Vancouver, British Columbia",,Canada,","
 1995-10-06,1995,0,6,2,1,0,0,3,1995 Fall Tour,1995 Fall,Rift,,1,The Orpheum Theatre,"Vancouver, British Columbia",,Canada,>
 1995-10-06,1995,0,7,1,1,0,0,2,1995 Fall Tour,1995 Fall,Free,,1,The Orpheum Theatre,"Vancouver, British Columbia",,Canada,","
@@ -608,9 +608,9 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-10-06,1995,0,9,4,1,0,0,2,1995 Fall Tour,1995 Fall,Sample in a Jar,Sample,1,The Orpheum Theatre,"Vancouver, British Columbia",,Canada,
 1995-10-06,1995,0,10,2,2,0,0,3,1995 Fall Tour,1995 Fall,Poor Heart,,1,The Orpheum Theatre,"Vancouver, British Columbia",,Canada,>
 1995-10-06,1995,0,11,1,2,0,0,2,1995 Fall Tour,1995 Fall,Maze,,1,The Orpheum Theatre,"Vancouver, British Columbia",,Canada,","
-1995-10-06,1995,0,12,1,2,0,0,3,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,The Orpheum Theatre,"Vancouver, British Columbia",,Canada,","
+1995-10-06,1995,0,12,1,2,0,0,2,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,The Orpheum Theatre,"Vancouver, British Columbia",,Canada,","
 1995-10-06,1995,0,13,2,2,0,0,14,1995 Fall Tour,1995 Fall,NICU,,1,The Orpheum Theatre,"Vancouver, British Columbia",,Canada,>
-1995-10-06,1995,0,14,2,2,0,0,6,1995 Fall Tour,1995 Fall,Tweezer,,1,The Orpheum Theatre,"Vancouver, British Columbia",,Canada,>
+1995-10-06,1995,0,14,2,2,0,0,5,1995 Fall Tour,1995 Fall,Tweezer,,1,The Orpheum Theatre,"Vancouver, British Columbia",,Canada,>
 1995-10-06,1995,0,15,2,2,0,0,3,1995 Fall Tour,1995 Fall,Keyboard Army,,1,The Orpheum Theatre,"Vancouver, British Columbia",,Canada,>
 1995-10-06,1995,0,16,2,2,0,0,4,1995 Fall Tour,1995 Fall,Suspicious Minds,,0,The Orpheum Theatre,"Vancouver, British Columbia",,Canada,>
 1995-10-06,1995,0,17,1,2,0,0,4,1995 Fall Tour,1995 Fall,Hold Your Head Up,HYHU,0,The Orpheum Theatre,"Vancouver, British Columbia",,Canada,","
@@ -621,7 +621,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-10-07,1995,0,2,2,1,0,0,10,1995 Fall Tour,1995 Fall,Gumbo,,1,Spokane Opera House,Spokane,WA,USA,>
 1995-10-07,1995,0,3,2,1,0,0,2,1995 Fall Tour,1995 Fall,The Fog That Surrounds,Fog That Surrounds,1,Spokane Opera House,Spokane,WA,USA,>
 1995-10-07,1995,0,4,1,1,0,0,12,1995 Fall Tour,1995 Fall,Mound,,1,Spokane Opera House,Spokane,WA,USA,","
-1995-10-07,1995,0,5,1,1,0,0,8,1995 Fall Tour,1995 Fall,Possum,,1,Spokane Opera House,Spokane,WA,USA,","
+1995-10-07,1995,0,5,1,1,0,0,7,1995 Fall Tour,1995 Fall,Possum,,1,Spokane Opera House,Spokane,WA,USA,","
 1995-10-07,1995,0,6,1,1,0,0,21,1995 Fall Tour,1995 Fall,The Mango Song,Mango,1,Spokane Opera House,Spokane,WA,USA,","
 1995-10-07,1995,0,7,1,1,0,0,2,1995 Fall Tour,1995 Fall,Acoustic Army,,1,Spokane Opera House,Spokane,WA,USA,","
 1995-10-07,1995,0,8,2,1,0,0,4,1995 Fall Tour,1995 Fall,Wilson,,1,Spokane Opera House,Spokane,WA,USA,>
@@ -633,41 +633,41 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-10-07,1995,0,14,2,2,0,0,3,1995 Fall Tour,1995 Fall,It's Ice,,1,Spokane Opera House,Spokane,WA,USA,>
 1995-10-07,1995,0,15,2,2,0,0,12,1995 Fall Tour,1995 Fall,Contact,,1,Spokane Opera House,Spokane,WA,USA,>
 1995-10-07,1995,0,16,1,2,0,0,24,1995 Fall Tour,1995 Fall,Frankenstein,,0,Spokane Opera House,Spokane,WA,USA,","
-1995-10-07,1995,0,17,1,2,0,0,3,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,Spokane Opera House,Spokane,WA,USA,","
+1995-10-07,1995,0,17,1,2,0,0,2,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,Spokane Opera House,Spokane,WA,USA,","
 1995-10-07,1995,0,18,5,2,0,0,3,1995 Fall Tour,1995 Fall,Sweet Adeline,,0,Spokane Opera House,Spokane,WA,USA,
 1995-10-07,1995,0,19,6,e,0,0,7,1995 Fall Tour,1995 Fall,Fire,,0,Spokane Opera House,Spokane,WA,USA,
-1995-10-08,1995,0,1,1,1,0,0,7,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,","
+1995-10-08,1995,0,1,1,1,0,0,6,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,","
 1995-10-08,1995,0,2,1,1,0,0,98,1995 Fall Tour,1995 Fall,Demand,,1,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,","
 1995-10-08,1995,0,3,2,1,0,0,4,1995 Fall Tour,1995 Fall,Sparkle,,1,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,>
-1995-10-08,1995,0,4,1,1,0,0,5,1995 Fall Tour,1995 Fall,Wolfman's Brother,Wolfman's,1,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,","
-1995-10-08,1995,0,5,1,1,0,0,2,1995 Fall Tour,1995 Fall,Reba,,1,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,","
+1995-10-08,1995,0,4,1,1,0,0,4,1995 Fall Tour,1995 Fall,Wolfman's Brother,Wolfman's,1,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,","
+1995-10-08,1995,0,5,1,1,0,0,1,1995 Fall Tour,1995 Fall,Reba,,1,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,","
 1995-10-08,1995,0,6,1,1,0,0,2,1995 Fall Tour,1995 Fall,"I'm Blue, I'm Lonesome",,0,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,","
-1995-10-08,1995,0,7,1,1,0,0,12,1995 Fall Tour,1995 Fall,Prince Caspian,Caspian,1,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,","
+1995-10-08,1995,0,7,1,1,0,0,11,1995 Fall Tour,1995 Fall,Prince Caspian,Caspian,1,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,","
 1995-10-08,1995,0,8,1,1,0,0,6,1995 Fall Tour,1995 Fall,Uncle Pen,,0,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,","
 1995-10-08,1995,0,9,4,1,0,0,2,1995 Fall Tour,1995 Fall,Free,,1,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,
 1995-10-08,1995,0,10,1,2,0,0,2,1995 Fall Tour,1995 Fall,Keyboard Army,,1,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,","
 1995-10-08,1995,0,11,1,2,0,0,1,1995 Fall Tour,1995 Fall,Cars Trucks Buses,CTB,1,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,","
-1995-10-08,1995,0,12,2,2,0,0,4,1995 Fall Tour,1995 Fall,Timber (Jerry the Mule),Timber Ho,0,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,>
+1995-10-08,1995,0,12,2,2,0,0,3,1995 Fall Tour,1995 Fall,Timber (Jerry the Mule),Timber Ho,0,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,>
 1995-10-08,1995,0,13,1,2,0,0,2,1995 Fall Tour,1995 Fall,Ya Mar,,0,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,","
 1995-10-08,1995,0,14,1,2,0,0,2,1995 Fall Tour,1995 Fall,Sample in a Jar,Sample,1,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,","
-1995-10-08,1995,0,15,1,2,0,0,4,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,","
+1995-10-08,1995,0,15,1,2,0,0,3,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,","
 1995-10-08,1995,0,16,2,2,0,0,2,1995 Fall Tour,1995 Fall,Suspicious Minds,,0,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,>
 1995-10-08,1995,0,17,1,2,0,0,2,1995 Fall Tour,1995 Fall,Hold Your Head Up,HYHU,0,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,","
 1995-10-08,1995,0,18,1,2,0,0,16,1995 Fall Tour,1995 Fall,Dog Faced Boy,,1,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,","
 1995-10-08,1995,0,19,1,2,0,0,3,1995 Fall Tour,1995 Fall,David Bowie,Bowie,1,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,","
 1995-10-08,1995,0,20,5,2,0,0,0,1995 Fall Tour,1995 Fall,Keyboard Army,,1,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,
-1995-10-08,1995,0,21,1,e,0,0,12,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,","
+1995-10-08,1995,0,21,1,e,0,0,11,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,","
 1995-10-08,1995,0,22,6,e,0,0,4,1995 Fall Tour,1995 Fall,Rocky Top,,0,"Adams Fieldhouse, University of Montana",Missoula,MT,USA,
 1995-10-11,1995,0,1,1,1,0,0,3,1995 Fall Tour,1995 Fall,Stash,,1,Compton Terrace Amphitheater,Chandler,AZ,USA,","
 1995-10-11,1995,0,2,2,1,0,0,26,1995 Fall Tour,1995 Fall,The Old Home Place,,0,Compton Terrace Amphitheater,Chandler,AZ,USA,>
-1995-10-11,1995,0,3,2,1,0,0,4,1995 Fall Tour,1995 Fall,Cavern,,1,Compton Terrace Amphitheater,Chandler,AZ,USA,>
+1995-10-11,1995,0,3,2,1,0,0,3,1995 Fall Tour,1995 Fall,Cavern,,1,Compton Terrace Amphitheater,Chandler,AZ,USA,>
 1995-10-11,1995,0,4,1,1,0,0,4,1995 Fall Tour,1995 Fall,Divided Sky,Divided,1,Compton Terrace Amphitheater,Chandler,AZ,USA,","
 1995-10-11,1995,0,5,1,1,0,0,7,1995 Fall Tour,1995 Fall,If I Could,,1,Compton Terrace Amphitheater,Chandler,AZ,USA,","
 1995-10-11,1995,0,6,1,1,0,0,2,1995 Fall Tour,1995 Fall,The Fog That Surrounds,Fog That Surrounds,1,Compton Terrace Amphitheater,Chandler,AZ,USA,","
 1995-10-11,1995,0,7,1,1,0,0,2,1995 Fall Tour,1995 Fall,Acoustic Army,,1,Compton Terrace Amphitheater,Chandler,AZ,USA,","
 1995-10-11,1995,0,8,1,1,0,0,2,1995 Fall Tour,1995 Fall,Julius,,1,Compton Terrace Amphitheater,Chandler,AZ,USA,","
 1995-10-11,1995,0,9,4,1,0,0,1,1995 Fall Tour,1995 Fall,Sample in a Jar,Sample,1,Compton Terrace Amphitheater,Chandler,AZ,USA,
-1995-10-11,1995,0,10,2,2,0,0,2,1995 Fall Tour,1995 Fall,Possum,,1,Compton Terrace Amphitheater,Chandler,AZ,USA,>
+1995-10-11,1995,0,10,2,2,0,0,1,1995 Fall Tour,1995 Fall,Possum,,1,Compton Terrace Amphitheater,Chandler,AZ,USA,>
 1995-10-11,1995,0,11,1,2,0,0,6,1995 Fall Tour,1995 Fall,Bathtub Gin,Gin,1,Compton Terrace Amphitheater,Chandler,AZ,USA,","
 1995-10-11,1995,0,12,1,2,0,0,2,1995 Fall Tour,1995 Fall,Mound,,1,Compton Terrace Amphitheater,Chandler,AZ,USA,","
 1995-10-11,1995,0,13,3,2,0,0,7,1995 Fall Tour,1995 Fall,Mike's Song,Mike's,1,Compton Terrace Amphitheater,Chandler,AZ,USA,->
@@ -684,13 +684,13 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-10-13,1995,0,3,1,1,0,0,4,1995 Fall Tour,1995 Fall,Maze,,1,Will Rogers Auditorium,Fort Worth,TX,USA,","
 1995-10-13,1995,0,4,1,1,0,0,4,1995 Fall Tour,1995 Fall,Billy Breathes,,1,Will Rogers Auditorium,Fort Worth,TX,USA,","
 1995-10-13,1995,0,5,1,1,0,0,2,1995 Fall Tour,1995 Fall,"I'm Blue, I'm Lonesome",,0,Will Rogers Auditorium,Fort Worth,TX,USA,","
-1995-10-13,1995,0,6,1,1,0,0,2,1995 Fall Tour,1995 Fall,Prince Caspian,Caspian,1,Will Rogers Auditorium,Fort Worth,TX,USA,","
+1995-10-13,1995,0,6,1,1,0,0,1,1995 Fall Tour,1995 Fall,Prince Caspian,Caspian,1,Will Rogers Auditorium,Fort Worth,TX,USA,","
 1995-10-13,1995,0,7,1,1,0,0,3,1995 Fall Tour,1995 Fall,Split Open and Melt,SOAMelt,1,Will Rogers Auditorium,Fort Worth,TX,USA,","
 1995-10-13,1995,0,8,1,1,0,0,17,1995 Fall Tour,1995 Fall,Fluffhead,,1,Will Rogers Auditorium,Fort Worth,TX,USA,","
 1995-10-13,1995,0,9,4,1,0,0,985,1995 Fall Tour,1995 Fall,Life on Mars?,,0,Will Rogers Auditorium,Fort Worth,TX,USA,
-1995-10-13,1995,0,10,1,2,0,0,100,1995 Fall Tour,1995 Fall,Tube,,1,Will Rogers Auditorium,Fort Worth,TX,USA,","
+1995-10-13,1995,0,10,1,2,0,0,99,1995 Fall Tour,1995 Fall,Tube,,1,Will Rogers Auditorium,Fort Worth,TX,USA,","
 1995-10-13,1995,0,11,1,2,0,0,2,1995 Fall Tour,1995 Fall,Uncle Pen,,0,Will Rogers Auditorium,Fort Worth,TX,USA,","
-1995-10-13,1995,0,12,3,2,0,0,4,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,Will Rogers Auditorium,Fort Worth,TX,USA,->
+1995-10-13,1995,0,12,3,2,0,0,3,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,Will Rogers Auditorium,Fort Worth,TX,USA,->
 1995-10-13,1995,0,13,3,2,0,0,3,1995 Fall Tour,1995 Fall,Wilson,,1,Will Rogers Auditorium,Fort Worth,TX,USA,->
 1995-10-13,1995,0,14,2,2,0,0,3,1995 Fall Tour,1995 Fall,Run Like an Antelope,Antelope,1,Will Rogers Auditorium,Fort Worth,TX,USA,>
 1995-10-13,1995,0,15,1,2,0,0,2,1995 Fall Tour,1995 Fall,Keyboard Army,,1,Will Rogers Auditorium,Fort Worth,TX,USA,","
@@ -699,7 +699,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-10-13,1995,0,18,1,2,0,0,3,1995 Fall Tour,1995 Fall,Sweet Adeline,,0,Will Rogers Auditorium,Fort Worth,TX,USA,","
 1995-10-13,1995,0,19,5,2,0,0,6,1995 Fall Tour,1995 Fall,The Squirming Coil,Coil,1,Will Rogers Auditorium,Fort Worth,TX,USA,
 1995-10-13,1995,0,20,6,e,0,0,20,1995 Fall Tour,1995 Fall,Bold As Love,,0,Will Rogers Auditorium,Fort Worth,TX,USA,
-1995-10-14,1995,0,1,1,1,0,0,3,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,Austin Music Hall,Austin,TX,USA,","
+1995-10-14,1995,0,1,1,1,0,0,2,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,Austin Music Hall,Austin,TX,USA,","
 1995-10-14,1995,0,2,1,1,0,0,3,1995 Fall Tour,1995 Fall,Cars Trucks Buses,CTB,1,Austin Music Hall,Austin,TX,USA,","
 1995-10-14,1995,0,3,2,1,0,0,76,1995 Fall Tour,1995 Fall,Kung,,1,Austin Music Hall,Austin,TX,USA,>
 1995-10-14,1995,0,4,1,1,0,0,3,1995 Fall Tour,1995 Fall,Free,,1,Austin Music Hall,Austin,TX,USA,","
@@ -710,12 +710,12 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-10-14,1995,0,9,2,1,0,0,4,1995 Fall Tour,1995 Fall,It's Ice,,1,Austin Music Hall,Austin,TX,USA,>
 1995-10-14,1995,0,10,1,1,0,0,8,1995 Fall Tour,1995 Fall,Tela,,1,Austin Music Hall,Austin,TX,USA,","
 1995-10-14,1995,0,11,4,1,0,0,6,1995 Fall Tour,1995 Fall,Runaway Jim,,1,Austin Music Hall,Austin,TX,USA,
-1995-10-14,1995,0,12,1,2,0,0,3,1995 Fall Tour,1995 Fall,Reba,,1,Austin Music Hall,Austin,TX,USA,","
+1995-10-14,1995,0,12,1,2,0,0,2,1995 Fall Tour,1995 Fall,Reba,,1,Austin Music Hall,Austin,TX,USA,","
 1995-10-14,1995,0,13,1,2,0,0,5,1995 Fall Tour,1995 Fall,Rift,,1,Austin Music Hall,Austin,TX,USA,","
-1995-10-14,1995,0,14,1,2,0,0,3,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,Austin Music Hall,Austin,TX,USA,","
+1995-10-14,1995,0,14,1,2,0,0,2,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,Austin Music Hall,Austin,TX,USA,","
 1995-10-14,1995,0,15,1,2,0,0,2,1995 Fall Tour,1995 Fall,Hello My Baby,,0,Austin Music Hall,Austin,TX,USA,","
 1995-10-14,1995,0,16,1,2,0,0,6,1995 Fall Tour,1995 Fall,Scent of a Mule,SOAMule,1,Austin Music Hall,Austin,TX,USA,","
-1995-10-14,1995,0,17,5,2,0,0,2,1995 Fall Tour,1995 Fall,Cavern,,1,Austin Music Hall,Austin,TX,USA,
+1995-10-14,1995,0,17,5,2,0,0,1,1995 Fall Tour,1995 Fall,Cavern,,1,Austin Music Hall,Austin,TX,USA,
 1995-10-14,1995,0,18,6,e,0,0,2,1995 Fall Tour,1995 Fall,A Day in the Life,ADITL,0,Austin Music Hall,Austin,TX,USA,
 1995-10-15,1995,0,1,2,1,0,0,47,1995 Fall Tour,1995 Fall,Buried Alive,,1,Austin Music Hall,Austin,TX,USA,>
 1995-10-15,1995,0,2,2,1,0,0,6,1995 Fall Tour,1995 Fall,Poor Heart,,1,Austin Music Hall,Austin,TX,USA,>
@@ -729,18 +729,18 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-10-15,1995,0,10,4,1,0,0,4,1995 Fall Tour,1995 Fall,David Bowie,Bowie,1,Austin Music Hall,Austin,TX,USA,
 1995-10-15,1995,0,11,1,2,0,0,3,1995 Fall Tour,1995 Fall,Julius,,1,Austin Music Hall,Austin,TX,USA,","
 1995-10-15,1995,0,12,2,2,0,0,9,1995 Fall Tour,1995 Fall,Simple,,1,Austin Music Hall,Austin,TX,USA,>
-1995-10-15,1995,0,13,3,2,0,0,6,1995 Fall Tour,1995 Fall,Tweezer,,1,Austin Music Hall,Austin,TX,USA,->
+1995-10-15,1995,0,13,3,2,0,0,5,1995 Fall Tour,1995 Fall,Tweezer,,1,Austin Music Hall,Austin,TX,USA,->
 1995-10-15,1995,0,14,1,2,0,0,2,1995 Fall Tour,1995 Fall,The Lizards,Lizards,1,Austin Music Hall,Austin,TX,USA,","
 1995-10-15,1995,0,15,1,2,0,0,3,1995 Fall Tour,1995 Fall,Sample in a Jar,Sample,1,Austin Music Hall,Austin,TX,USA,","
 1995-10-15,1995,0,16,2,2,0,0,4,1995 Fall Tour,1995 Fall,Suspicious Minds,,0,Austin Music Hall,Austin,TX,USA,>
 1995-10-15,1995,0,17,1,2,0,0,4,1995 Fall Tour,1995 Fall,Hold Your Head Up,HYHU,0,Austin Music Hall,Austin,TX,USA,","
-1995-10-15,1995,0,18,1,2,0,0,5,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,Austin Music Hall,Austin,TX,USA,","
-1995-10-15,1995,0,19,5,2,0,0,15,1995 Fall Tour,1995 Fall,Tweezer Reprise,Tweeprise,1,Austin Music Hall,Austin,TX,USA,
+1995-10-15,1995,0,18,1,2,0,0,4,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,Austin Music Hall,Austin,TX,USA,","
+1995-10-15,1995,0,19,5,2,0,0,14,1995 Fall Tour,1995 Fall,Tweezer Reprise,Tweeprise,1,Austin Music Hall,Austin,TX,USA,
 1995-10-15,1995,0,20,6,e,0,0,16,1995 Fall Tour,1995 Fall,Funky Bitch,,0,Austin Music Hall,Austin,TX,USA,
 1995-10-17,1995,0,1,1,1,0,0,1,1995 Fall Tour,1995 Fall,Sample in a Jar,Sample,1,State Palace Theatre,New Orleans,LA,USA,","
 1995-10-17,1995,0,2,1,1,0,0,2,1995 Fall Tour,1995 Fall,Stash,,1,State Palace Theatre,New Orleans,LA,USA,","
 1995-10-17,1995,0,3,1,1,0,0,3,1995 Fall Tour,1995 Fall,Uncle Pen,,0,State Palace Theatre,New Orleans,LA,USA,","
-1995-10-17,1995,0,4,2,1,0,0,2,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,State Palace Theatre,New Orleans,LA,USA,>
+1995-10-17,1995,0,4,2,1,0,0,1,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,State Palace Theatre,New Orleans,LA,USA,>
 1995-10-17,1995,0,5,1,1,0,0,3,1995 Fall Tour,1995 Fall,Maze,,1,State Palace Theatre,New Orleans,LA,USA,","
 1995-10-17,1995,0,6,1,1,0,0,23,1995 Fall Tour,1995 Fall,Glide,,1,State Palace Theatre,New Orleans,LA,USA,","
 1995-10-17,1995,0,7,2,1,0,0,2,1995 Fall Tour,1995 Fall,Sparkle,,1,State Palace Theatre,New Orleans,LA,USA,>
@@ -748,7 +748,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-10-17,1995,0,9,1,1,0,0,1,1995 Fall Tour,1995 Fall,Strange Design,,1,State Palace Theatre,New Orleans,LA,USA,","
 1995-10-17,1995,0,10,4,1,0,0,8,1995 Fall Tour,1995 Fall,Amazing Grace,,0,State Palace Theatre,New Orleans,LA,USA,
 1995-10-17,1995,0,11,2,2,0,0,4,1995 Fall Tour,1995 Fall,Mound,,1,State Palace Theatre,New Orleans,LA,USA,>
-1995-10-17,1995,0,12,1,2,0,0,3,1995 Fall Tour,1995 Fall,Prince Caspian,Caspian,1,State Palace Theatre,New Orleans,LA,USA,","
+1995-10-17,1995,0,12,1,2,0,0,2,1995 Fall Tour,1995 Fall,Prince Caspian,Caspian,1,State Palace Theatre,New Orleans,LA,USA,","
 1995-10-17,1995,0,13,1,2,0,0,4,1995 Fall Tour,1995 Fall,The Fog That Surrounds,Fog That Surrounds,1,State Palace Theatre,New Orleans,LA,USA,","
 1995-10-17,1995,0,14,3,2,0,0,4,1995 Fall Tour,1995 Fall,Suzy Greenberg,Suzy,1,State Palace Theatre,New Orleans,LA,USA,->
 1995-10-17,1995,0,15,3,2,0,0,3,1995 Fall Tour,1995 Fall,Keyboard Army,,1,State Palace Theatre,New Orleans,LA,USA,->
@@ -758,14 +758,14 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-10-19,1995,0,1,1,1,0,0,3,1995 Fall Tour,1995 Fall,Cars Trucks Buses,CTB,1,Municipal Auditorium,Kansas City,MO,USA,","
 1995-10-19,1995,0,2,1,1,0,0,3,1995 Fall Tour,1995 Fall,Runaway Jim,,1,Municipal Auditorium,Kansas City,MO,USA,","
 1995-10-19,1995,0,3,1,1,0,0,12,1995 Fall Tour,1995 Fall,Horn,,1,Municipal Auditorium,Kansas City,MO,USA,","
-1995-10-19,1995,0,4,2,1,0,0,21,1995 Fall Tour,1995 Fall,Punch You in the Eye,PYITE,1,Municipal Auditorium,Kansas City,MO,USA,>
+1995-10-19,1995,0,4,2,1,0,0,20,1995 Fall Tour,1995 Fall,Punch You in the Eye,PYITE,1,Municipal Auditorium,Kansas City,MO,USA,>
 1995-10-19,1995,0,5,2,1,0,0,30,1995 Fall Tour,1995 Fall,Esther,,1,Municipal Auditorium,Kansas City,MO,USA,>
 1995-10-19,1995,0,6,1,1,0,0,5,1995 Fall Tour,1995 Fall,Chalk Dust Torture,CDT,1,Municipal Auditorium,Kansas City,MO,USA,","
-1995-10-19,1995,0,7,1,1,0,0,4,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,Municipal Auditorium,Kansas City,MO,USA,","
+1995-10-19,1995,0,7,1,1,0,0,3,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,Municipal Auditorium,Kansas City,MO,USA,","
 1995-10-19,1995,0,8,1,1,0,0,3,1995 Fall Tour,1995 Fall,Acoustic Army,,1,Municipal Auditorium,Kansas City,MO,USA,","
 1995-10-19,1995,0,9,1,1,0,0,4,1995 Fall Tour,1995 Fall,Split Open and Melt,SOAMelt,1,Municipal Auditorium,Kansas City,MO,USA,","
 1995-10-19,1995,0,10,1,1,0,0,4,1995 Fall Tour,1995 Fall,Billy Breathes,,1,Municipal Auditorium,Kansas City,MO,USA,","
-1995-10-19,1995,0,11,4,1,0,0,3,1995 Fall Tour,1995 Fall,Cavern,,1,Municipal Auditorium,Kansas City,MO,USA,
+1995-10-19,1995,0,11,4,1,0,0,2,1995 Fall Tour,1995 Fall,Cavern,,1,Municipal Auditorium,Kansas City,MO,USA,
 1995-10-19,1995,0,12,1,2,0,0,7,1995 Fall Tour,1995 Fall,Frankenstein,,0,Municipal Auditorium,Kansas City,MO,USA,","
 1995-10-19,1995,0,13,2,2,0,0,2,1995 Fall Tour,1995 Fall,Poor Heart,,1,Municipal Auditorium,Kansas City,MO,USA,>
 1995-10-19,1995,0,14,2,2,0,0,5,1995 Fall Tour,1995 Fall,Mike's Song,Mike's,1,Municipal Auditorium,Kansas City,MO,USA,>
@@ -776,9 +776,9 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-10-19,1995,0,19,2,2,0,0,3,1995 Fall Tour,1995 Fall,Kung,,1,Municipal Auditorium,Kansas City,MO,USA,>
 1995-10-19,1995,0,20,2,2,0,0,2,1995 Fall Tour,1995 Fall,Suspicious Minds,,0,Municipal Auditorium,Kansas City,MO,USA,>
 1995-10-19,1995,0,21,1,2,0,0,2,1995 Fall Tour,1995 Fall,Hold Your Head Up,HYHU,0,Municipal Auditorium,Kansas City,MO,USA,","
-1995-10-19,1995,0,22,5,2,0,0,5,1995 Fall Tour,1995 Fall,Possum,,1,Municipal Auditorium,Kansas City,MO,USA,
+1995-10-19,1995,0,22,5,2,0,0,4,1995 Fall Tour,1995 Fall,Possum,,1,Municipal Auditorium,Kansas City,MO,USA,
 1995-10-19,1995,0,23,6,e,0,0,3,1995 Fall Tour,1995 Fall,A Day in the Life,ADITL,0,Municipal Auditorium,Kansas City,MO,USA,
-1995-10-20,1995,0,1,1,1,0,0,13,1995 Fall Tour,1995 Fall,"My Friend, My Friend",My Friend,1,Five Seasons Arena,Cedar Rapids,IA,USA,","
+1995-10-20,1995,0,1,1,1,0,0,12,1995 Fall Tour,1995 Fall,"My Friend, My Friend",My Friend,1,Five Seasons Arena,Cedar Rapids,IA,USA,","
 1995-10-20,1995,0,2,1,1,0,0,5,1995 Fall Tour,1995 Fall,Ya Mar,,0,Five Seasons Arena,Cedar Rapids,IA,USA,","
 1995-10-20,1995,0,3,2,1,0,0,10,1995 Fall Tour,1995 Fall,Ha Ha Ha,,1,Five Seasons Arena,Cedar Rapids,IA,USA,>
 1995-10-20,1995,0,4,1,1,0,0,6,1995 Fall Tour,1995 Fall,Divided Sky,Divided,1,Five Seasons Arena,Cedar Rapids,IA,USA,","
@@ -788,7 +788,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-10-20,1995,0,8,1,1,0,0,4,1995 Fall Tour,1995 Fall,Hello My Baby,,0,Five Seasons Arena,Cedar Rapids,IA,USA,","
 1995-10-20,1995,0,9,1,1,0,0,2,1995 Fall Tour,1995 Fall,Amazing Grace,,0,Five Seasons Arena,Cedar Rapids,IA,USA,","
 1995-10-20,1995,0,10,4,1,1,0,0,1995 Fall Tour,1995 Fall,Amazing Grace,,0,Five Seasons Arena,Cedar Rapids,IA,USA,
-1995-10-20,1995,0,11,2,2,0,0,7,1995 Fall Tour,1995 Fall,Timber (Jerry the Mule),Timber Ho,0,Five Seasons Arena,Cedar Rapids,IA,USA,>
+1995-10-20,1995,0,11,2,2,0,0,6,1995 Fall Tour,1995 Fall,Timber (Jerry the Mule),Timber Ho,0,Five Seasons Arena,Cedar Rapids,IA,USA,>
 1995-10-20,1995,0,12,2,2,0,0,4,1995 Fall Tour,1995 Fall,Scent of a Mule,SOAMule,1,Five Seasons Arena,Cedar Rapids,IA,USA,>
 1995-10-20,1995,0,13,2,2,0,0,3,1995 Fall Tour,1995 Fall,Simple,,1,Five Seasons Arena,Cedar Rapids,IA,USA,>
 1995-10-20,1995,0,14,1,2,0,0,2,1995 Fall Tour,1995 Fall,Maze,,1,Five Seasons Arena,Cedar Rapids,IA,USA,","
@@ -796,14 +796,14 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-10-20,1995,0,16,1,2,0,0,5,1995 Fall Tour,1995 Fall,While My Guitar Gently Weeps,WMGGW,0,Five Seasons Arena,Cedar Rapids,IA,USA,","
 1995-10-20,1995,0,17,1,2,0,0,2,1995 Fall Tour,1995 Fall,My Long Journey Home,,0,Five Seasons Arena,Cedar Rapids,IA,USA,","
 1995-10-20,1995,0,18,1,2,0,0,2,1995 Fall Tour,1995 Fall,"I'm Blue, I'm Lonesome",,0,Five Seasons Arena,Cedar Rapids,IA,USA,","
-1995-10-20,1995,0,19,2,2,0,0,7,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,Five Seasons Arena,Cedar Rapids,IA,USA,>
+1995-10-20,1995,0,19,2,2,0,0,6,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,Five Seasons Arena,Cedar Rapids,IA,USA,>
 1995-10-20,1995,0,20,5,2,0,0,5,1995 Fall Tour,1995 Fall,Run Like an Antelope,Antelope,1,Five Seasons Arena,Cedar Rapids,IA,USA,
 1995-10-20,1995,0,21,1,e,0,0,18,1995 Fall Tour,1995 Fall,Sleeping Monkey,,1,Five Seasons Arena,Cedar Rapids,IA,USA,","
 1995-10-20,1995,0,22,6,e,0,0,7,1995 Fall Tour,1995 Fall,Rocky Top,,0,Five Seasons Arena,Cedar Rapids,IA,USA,
-1995-10-21,1995,0,1,1,1,0,0,4,1995 Fall Tour,1995 Fall,Tweezer Reprise,Tweeprise,1,Pershing Auditorium,Lincoln,NE,USA,","
+1995-10-21,1995,0,1,1,1,0,0,3,1995 Fall Tour,1995 Fall,Tweezer Reprise,Tweeprise,1,Pershing Auditorium,Lincoln,NE,USA,","
 1995-10-21,1995,0,2,1,1,0,0,2,1995 Fall Tour,1995 Fall,Chalk Dust Torture,CDT,1,Pershing Auditorium,Lincoln,NE,USA,","
 1995-10-21,1995,0,3,1,1,0,0,12,1995 Fall Tour,1995 Fall,Guelah Papyrus,Guelah,1,Pershing Auditorium,Lincoln,NE,USA,","
-1995-10-21,1995,0,4,1,1,0,0,5,1995 Fall Tour,1995 Fall,Reba,,1,Pershing Auditorium,Lincoln,NE,USA,","
+1995-10-21,1995,0,4,1,1,0,0,4,1995 Fall Tour,1995 Fall,Reba,,1,Pershing Auditorium,Lincoln,NE,USA,","
 1995-10-21,1995,0,5,2,1,0,0,6,1995 Fall Tour,1995 Fall,Wilson,,1,Pershing Auditorium,Lincoln,NE,USA,>
 1995-10-21,1995,0,6,1,1,0,0,2,1995 Fall Tour,1995 Fall,Cars Trucks Buses,CTB,1,Pershing Auditorium,Lincoln,NE,USA,","
 1995-10-21,1995,0,7,2,1,0,0,2,1995 Fall Tour,1995 Fall,Kung,,1,Pershing Auditorium,Lincoln,NE,USA,>
@@ -816,13 +816,13 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-10-21,1995,0,14,1,2,0,0,4,1995 Fall Tour,1995 Fall,David Bowie,Bowie,1,Pershing Auditorium,Lincoln,NE,USA,","
 1995-10-21,1995,0,15,1,2,0,0,11,1995 Fall Tour,1995 Fall,Lifeboy,,1,Pershing Auditorium,Lincoln,NE,USA,","
 1995-10-21,1995,0,16,2,2,0,0,3,1995 Fall Tour,1995 Fall,Sparkle,,1,Pershing Auditorium,Lincoln,NE,USA,>
-1995-10-21,1995,0,17,2,2,0,0,5,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,Pershing Auditorium,Lincoln,NE,USA,>
+1995-10-21,1995,0,17,2,2,0,0,4,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,Pershing Auditorium,Lincoln,NE,USA,>
 1995-10-21,1995,0,18,2,2,0,0,42,1995 Fall Tour,1995 Fall,Purple Rain,,0,Pershing Auditorium,Lincoln,NE,USA,>
 1995-10-21,1995,0,19,1,2,0,0,2,1995 Fall Tour,1995 Fall,Hold Your Head Up,HYHU,0,Pershing Auditorium,Lincoln,NE,USA,","
-1995-10-21,1995,0,20,1,2,0,0,4,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,Pershing Auditorium,Lincoln,NE,USA,","
+1995-10-21,1995,0,20,1,2,0,0,3,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,Pershing Auditorium,Lincoln,NE,USA,","
 1995-10-21,1995,0,21,5,2,0,0,3,1995 Fall Tour,1995 Fall,Suzy Greenberg,Suzy,1,Pershing Auditorium,Lincoln,NE,USA,
 1995-10-21,1995,0,22,6,e,0,0,29,1995 Fall Tour,1995 Fall,Highway to Hell,,0,Pershing Auditorium,Lincoln,NE,USA,
-1995-10-22,1995,0,1,1,1,0,0,4,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,","
+1995-10-22,1995,0,1,1,1,0,0,3,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,","
 1995-10-22,1995,0,2,1,1,0,0,25,1995 Fall Tour,1995 Fall,My Mind's Got a Mind of its Own,MMGAMOIO,0,"Assembly Hall, University of Illinois",Champaign,IL,USA,","
 1995-10-22,1995,0,3,1,1,0,0,25,1995 Fall Tour,1995 Fall,The Sloth,Sloth,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,","
 1995-10-22,1995,0,4,1,1,0,0,3,1995 Fall Tour,1995 Fall,Runaway Jim,,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,","
@@ -835,19 +835,19 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-10-22,1995,0,11,1,1,0,0,2,1995 Fall Tour,1995 Fall,"I'm Blue, I'm Lonesome",,0,"Assembly Hall, University of Illinois",Champaign,IL,USA,","
 1995-10-22,1995,0,12,4,1,0,0,4,1995 Fall Tour,1995 Fall,Stash,,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,
 1995-10-22,1995,0,13,1,2,0,0,22,1995 Fall Tour,1995 Fall,Golgi Apparatus,Golgi,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,","
-1995-10-22,1995,0,14,3,2,0,0,3,1995 Fall Tour,1995 Fall,Possum,,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,->
+1995-10-22,1995,0,14,3,2,0,0,2,1995 Fall Tour,1995 Fall,Possum,,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,->
 1995-10-22,1995,0,15,1,2,0,0,6,1995 Fall Tour,1995 Fall,Catapult,,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,","
 1995-10-22,1995,0,16,2,2,0,0,20,1995 Fall Tour,1995 Fall,The Curtain,Curtain,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,>
-1995-10-22,1995,0,17,3,2,0,0,5,1995 Fall Tour,1995 Fall,Tweezer,,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,->
+1995-10-22,1995,0,17,3,2,0,0,4,1995 Fall Tour,1995 Fall,Tweezer,,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,->
 1995-10-22,1995,0,18,3,2,0,0,10,1995 Fall Tour,1995 Fall,Makisupa Policeman,Makisupa,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,->
 1995-10-22,1995,0,19,1,2,0,0,3,1995 Fall Tour,1995 Fall,Big Black Furry Creature from Mars,BBFCFM,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,","
 1995-10-22,1995,0,20,1,2,0,0,7,1995 Fall Tour,1995 Fall,Life on Mars?,,0,"Assembly Hall, University of Illinois",Champaign,IL,USA,","
 1995-10-22,1995,0,21,1,2,0,0,4,1995 Fall Tour,1995 Fall,Uncle Pen,,0,"Assembly Hall, University of Illinois",Champaign,IL,USA,","
 1995-10-22,1995,0,22,2,2,0,0,5,1995 Fall Tour,1995 Fall,Slave to the Traffic Light,Slave,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,>
-1995-10-22,1995,0,23,5,2,0,0,3,1995 Fall Tour,1995 Fall,Cavern,,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,
+1995-10-22,1995,0,23,5,2,0,0,2,1995 Fall Tour,1995 Fall,Cavern,,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,
 1995-10-22,1995,0,24,1,e,0,0,7,1995 Fall Tour,1995 Fall,Sweet Adeline,,0,"Assembly Hall, University of Illinois",Champaign,IL,USA,","
 1995-10-22,1995,0,25,6,e,0,0,7,1995 Fall Tour,1995 Fall,The Squirming Coil,Coil,1,"Assembly Hall, University of Illinois",Champaign,IL,USA,
-1995-10-24,1995,0,1,1,1,0,0,3,1995 Fall Tour,1995 Fall,"My Friend, My Friend",My Friend,1,Dane County Coliseum,Madison,WI,USA,","
+1995-10-24,1995,0,1,1,1,0,0,2,1995 Fall Tour,1995 Fall,"My Friend, My Friend",My Friend,1,Dane County Coliseum,Madison,WI,USA,","
 1995-10-24,1995,0,2,1,1,0,0,63,1995 Fall Tour,1995 Fall,Paul and Silas,,0,Dane County Coliseum,Madison,WI,USA,","
 1995-10-24,1995,0,3,1,1,0,0,987,1995 Fall Tour,1995 Fall,Taste That Surrounds,,1,Dane County Coliseum,Madison,WI,USA,","
 1995-10-24,1995,0,4,3,1,0,0,3,1995 Fall Tour,1995 Fall,Fee,,1,Dane County Coliseum,Madison,WI,USA,->
@@ -856,18 +856,18 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-10-24,1995,0,7,1,1,0,0,13,1995 Fall Tour,1995 Fall,Silent in the Morning,Silent,1,Dane County Coliseum,Madison,WI,USA,","
 1995-10-24,1995,0,8,2,1,0,0,6,1995 Fall Tour,1995 Fall,Demand,,1,Dane County Coliseum,Madison,WI,USA,>
 1995-10-24,1995,0,9,1,1,0,0,3,1995 Fall Tour,1995 Fall,Maze,,1,Dane County Coliseum,Madison,WI,USA,","
-1995-10-24,1995,0,10,1,1,0,0,10,1995 Fall Tour,1995 Fall,Wolfman's Brother,Wolfman's,1,Dane County Coliseum,Madison,WI,USA,","
+1995-10-24,1995,0,10,1,1,0,0,9,1995 Fall Tour,1995 Fall,Wolfman's Brother,Wolfman's,1,Dane County Coliseum,Madison,WI,USA,","
 1995-10-24,1995,0,11,1,1,0,0,2,1995 Fall Tour,1995 Fall,Acoustic Army,,1,Dane County Coliseum,Madison,WI,USA,","
-1995-10-24,1995,0,12,1,1,0,0,5,1995 Fall Tour,1995 Fall,Prince Caspian,Caspian,1,Dane County Coliseum,Madison,WI,USA,","
+1995-10-24,1995,0,12,1,1,0,0,4,1995 Fall Tour,1995 Fall,Prince Caspian,Caspian,1,Dane County Coliseum,Madison,WI,USA,","
 1995-10-24,1995,0,13,4,1,0,0,4,1995 Fall Tour,1995 Fall,Split Open and Melt,SOAMelt,1,Dane County Coliseum,Madison,WI,USA,
 1995-10-24,1995,0,14,1,2,0,0,6,1995 Fall Tour,1995 Fall,Julius,,1,Dane County Coliseum,Madison,WI,USA,","
-1995-10-24,1995,0,15,1,2,0,0,4,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,Dane County Coliseum,Madison,WI,USA,","
-1995-10-24,1995,0,16,1,2,0,0,3,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,Dane County Coliseum,Madison,WI,USA,","
-1995-10-24,1995,0,17,3,2,0,0,2,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,Dane County Coliseum,Madison,WI,USA,->
+1995-10-24,1995,0,15,1,2,0,0,3,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,Dane County Coliseum,Madison,WI,USA,","
+1995-10-24,1995,0,16,1,2,0,0,2,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,Dane County Coliseum,Madison,WI,USA,","
+1995-10-24,1995,0,17,3,2,0,0,1,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,Dane County Coliseum,Madison,WI,USA,->
 1995-10-24,1995,0,18,2,2,0,0,3,1995 Fall Tour,1995 Fall,Sleeping Monkey,,1,Dane County Coliseum,Madison,WI,USA,>
 1995-10-24,1995,0,19,1,2,0,0,3,1995 Fall Tour,1995 Fall,Run Like an Antelope,Antelope,1,Dane County Coliseum,Madison,WI,USA,","
 1995-10-24,1995,0,20,2,2,0,0,11,1995 Fall Tour,1995 Fall,Contact,,1,Dane County Coliseum,Madison,WI,USA,>
-1995-10-24,1995,0,21,5,2,0,0,1,1995 Fall Tour,1995 Fall,Cavern,,1,Dane County Coliseum,Madison,WI,USA,
+1995-10-24,1995,0,21,5,2,0,0,0,1995 Fall Tour,1995 Fall,Cavern,,1,Dane County Coliseum,Madison,WI,USA,
 1995-10-24,1995,0,22,6,e,0,0,4,1995 Fall Tour,1995 Fall,A Day in the Life,ADITL,0,Dane County Coliseum,Madison,WI,USA,
 1995-10-25,1995,0,1,1,1,0,0,4,1995 Fall Tour,1995 Fall,Ya Mar,,0,St. Paul Civic Center,St. Paul,MN,USA,","
 1995-10-25,1995,0,2,2,1,0,0,2,1995 Fall Tour,1995 Fall,Sample in a Jar,Sample,1,St. Paul Civic Center,St. Paul,MN,USA,>
@@ -879,7 +879,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-10-25,1995,0,8,1,1,0,0,4,1995 Fall Tour,1995 Fall,My Long Journey Home,,0,St. Paul Civic Center,St. Paul,MN,USA,","
 1995-10-25,1995,0,9,1,1,0,0,2,1995 Fall Tour,1995 Fall,"I'm Blue, I'm Lonesome",,0,St. Paul Civic Center,St. Paul,MN,USA,","
 1995-10-25,1995,0,10,4,1,0,0,3,1995 Fall Tour,1995 Fall,Chalk Dust Torture,CDT,1,St. Paul Civic Center,St. Paul,MN,USA,
-1995-10-25,1995,0,11,1,2,0,0,3,1995 Fall Tour,1995 Fall,Reba,,1,St. Paul Civic Center,St. Paul,MN,USA,","
+1995-10-25,1995,0,11,1,2,0,0,2,1995 Fall Tour,1995 Fall,Reba,,1,St. Paul Civic Center,St. Paul,MN,USA,","
 1995-10-25,1995,0,12,1,2,0,0,2,1995 Fall Tour,1995 Fall,Life on Mars?,,0,St. Paul Civic Center,St. Paul,MN,USA,","
 1995-10-25,1995,0,13,1,2,0,0,3,1995 Fall Tour,1995 Fall,Cars Trucks Buses,CTB,1,St. Paul Civic Center,St. Paul,MN,USA,","
 1995-10-25,1995,0,14,3,2,0,0,5,1995 Fall Tour,1995 Fall,Mike's Song,Mike's,1,St. Paul Civic Center,St. Paul,MN,USA,->
@@ -906,23 +906,23 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-10-27,1995,0,15,2,2,0,0,5,1995 Fall Tour,1995 Fall,Simple,,1,Wing's Stadium,Kalamazoo,MI,USA,>
 1995-10-27,1995,0,16,2,2,0,0,11,1995 Fall Tour,1995 Fall,McGrupp and the Watchful Hosemasters,McGrupp,1,Wing's Stadium,Kalamazoo,MI,USA,>
 1995-10-27,1995,0,17,1,2,0,0,7,1995 Fall Tour,1995 Fall,Keyboard Army,,1,Wing's Stadium,Kalamazoo,MI,USA,","
-1995-10-27,1995,0,18,1,2,0,0,2,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,Wing's Stadium,Kalamazoo,MI,USA,","
-1995-10-27,1995,0,19,5,2,0,0,3,1995 Fall Tour,1995 Fall,Possum,,1,Wing's Stadium,Kalamazoo,MI,USA,
+1995-10-27,1995,0,18,1,2,0,0,1,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,Wing's Stadium,Kalamazoo,MI,USA,","
+1995-10-27,1995,0,19,5,2,0,0,2,1995 Fall Tour,1995 Fall,Possum,,1,Wing's Stadium,Kalamazoo,MI,USA,
 1995-10-27,1995,0,20,6,e,0,0,1,1995 Fall Tour,1995 Fall,Life on Mars?,,0,Wing's Stadium,Kalamazoo,MI,USA,
-1995-10-28,1995,0,1,2,1,0,0,4,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,>
+1995-10-28,1995,0,1,2,1,0,0,3,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,>
 1995-10-28,1995,0,2,1,1,0,0,8,1995 Fall Tour,1995 Fall,Mound,,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,","
-1995-10-28,1995,0,3,1,1,0,0,6,1995 Fall Tour,1995 Fall,Timber (Jerry the Mule),Timber Ho,0,The Palace of Auburn Hills,Auburn Hills,MI,USA,","
+1995-10-28,1995,0,3,1,1,0,0,5,1995 Fall Tour,1995 Fall,Timber (Jerry the Mule),Timber Ho,0,The Palace of Auburn Hills,Auburn Hills,MI,USA,","
 1995-10-28,1995,0,4,1,1,0,0,4,1995 Fall Tour,1995 Fall,Uncle Pen,,0,The Palace of Auburn Hills,Auburn Hills,MI,USA,","
 1995-10-28,1995,0,5,1,1,0,0,2,1995 Fall Tour,1995 Fall,Sample in a Jar,Sample,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,","
 1995-10-28,1995,0,6,1,1,0,0,5,1995 Fall Tour,1995 Fall,The Lizards,Lizards,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,","
 1995-10-28,1995,0,7,1,1,0,0,7,1995 Fall Tour,1995 Fall,Billy Breathes,,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,","
 1995-10-28,1995,0,8,1,1,0,0,3,1995 Fall Tour,1995 Fall,Acoustic Army,,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,","
-1995-10-28,1995,0,9,1,1,0,0,3,1995 Fall Tour,1995 Fall,Prince Caspian,Caspian,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,","
+1995-10-28,1995,0,9,1,1,0,0,2,1995 Fall Tour,1995 Fall,Prince Caspian,Caspian,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,","
 1995-10-28,1995,0,10,4,1,0,0,3,1995 Fall Tour,1995 Fall,Run Like an Antelope,Antelope,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,
 1995-10-28,1995,0,11,1,2,0,0,3,1995 Fall Tour,1995 Fall,Maze,,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,","
-1995-10-28,1995,0,12,2,2,0,0,3,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,>
+1995-10-28,1995,0,12,2,2,0,0,2,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,>
 1995-10-28,1995,0,13,1,2,0,0,2,1995 Fall Tour,1995 Fall,Scent of a Mule,SOAMule,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,","
-1995-10-28,1995,0,14,1,2,0,0,3,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,","
+1995-10-28,1995,0,14,1,2,0,0,2,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,","
 1995-10-28,1995,0,15,2,2,0,0,2,1995 Fall Tour,1995 Fall,Strange Design,,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,>
 1995-10-28,1995,0,16,2,2,0,0,7,1995 Fall Tour,1995 Fall,Frankenstein,,0,The Palace of Auburn Hills,Auburn Hills,MI,USA,>
 1995-10-28,1995,0,17,5,2,0,0,2,1995 Fall Tour,1995 Fall,Chalk Dust Torture,CDT,1,The Palace of Auburn Hills,Auburn Hills,MI,USA,
@@ -930,7 +930,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-10-29,1995,0,1,2,1,0,0,10,1995 Fall Tour,1995 Fall,Buried Alive,,1,Louisville Gardens,Louisville,KY,USA,>
 1995-10-29,1995,0,2,2,1,0,0,2,1995 Fall Tour,1995 Fall,Poor Heart,,1,Louisville Gardens,Louisville,KY,USA,>
 1995-10-29,1995,0,3,1,1,0,0,4,1995 Fall Tour,1995 Fall,Julius,,1,Louisville Gardens,Louisville,KY,USA,","
-1995-10-29,1995,0,4,2,1,0,0,8,1995 Fall Tour,1995 Fall,Punch You in the Eye,PYITE,1,Louisville Gardens,Louisville,KY,USA,>
+1995-10-29,1995,0,4,2,1,0,0,7,1995 Fall Tour,1995 Fall,Punch You in the Eye,PYITE,1,Louisville Gardens,Louisville,KY,USA,>
 1995-10-29,1995,0,5,2,1,0,0,3,1995 Fall Tour,1995 Fall,Cars Trucks Buses,CTB,1,Louisville Gardens,Louisville,KY,USA,>
 1995-10-29,1995,0,6,2,1,0,0,4,1995 Fall Tour,1995 Fall,The Horse,Horse,1,Louisville Gardens,Louisville,KY,USA,>
 1995-10-29,1995,0,7,1,1,0,0,4,1995 Fall Tour,1995 Fall,Silent in the Morning,Silent,1,Louisville Gardens,Louisville,KY,USA,","
@@ -946,7 +946,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-10-29,1995,0,17,3,2,0,0,6,1995 Fall Tour,1995 Fall,Kung,,1,Louisville Gardens,Louisville,KY,USA,->
 1995-10-29,1995,0,18,2,2,0,0,0,1995 Fall Tour,1995 Fall,It's Ice,,1,Louisville Gardens,Louisville,KY,USA,>
 1995-10-29,1995,0,19,3,2,0,0,361,1995 Fall Tour,1995 Fall,Shaggy Dog,,0,Louisville Gardens,Louisville,KY,USA,->
-1995-10-29,1995,0,20,1,2,0,0,2,1995 Fall Tour,1995 Fall,Possum,,1,Louisville Gardens,Louisville,KY,USA,","
+1995-10-29,1995,0,20,1,2,0,0,1,1995 Fall Tour,1995 Fall,Possum,,1,Louisville Gardens,Louisville,KY,USA,","
 1995-10-29,1995,0,21,1,2,0,0,6,1995 Fall Tour,1995 Fall,Lifeboy,,1,Louisville Gardens,Louisville,KY,USA,","
 1995-10-29,1995,0,22,5,2,0,0,7,1995 Fall Tour,1995 Fall,Amazing Grace,,0,Louisville Gardens,Louisville,KY,USA,
 1995-10-29,1995,0,23,6,e,0,0,10,1995 Fall Tour,1995 Fall,Funky Bitch,,0,Louisville Gardens,Louisville,KY,USA,
@@ -976,20 +976,20 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-10-31,1995,0,24,2,2,0,0,992,1995 Fall Tour,1995 Fall,Doctor Jimmy,,0,Rosemont Horizon,Rosemont,IL,USA,>
 1995-10-31,1995,0,25,1,2,0,0,992,1995 Fall Tour,1995 Fall,The Rock,,0,Rosemont Horizon,Rosemont,IL,USA,","
 1995-10-31,1995,0,26,4,2,0,0,992,1995 Fall Tour,1995 Fall,"Love, Reign O'er Me",,0,Rosemont Horizon,Rosemont,IL,USA,
-1995-10-31,1995,0,27,1,3,0,0,2,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,Rosemont Horizon,Rosemont,IL,USA,","
+1995-10-31,1995,0,27,1,3,0,0,1,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,Rosemont Horizon,Rosemont,IL,USA,","
 1995-10-31,1995,0,28,1,3,0,0,56,1995 Fall Tour,1995 Fall,Jesus Just Left Chicago,JJLC,0,Rosemont Horizon,Rosemont,IL,USA,","
 1995-10-31,1995,0,29,2,3,0,0,5,1995 Fall Tour,1995 Fall,A Day in the Life,ADITL,0,Rosemont Horizon,Rosemont,IL,USA,>
 1995-10-31,1995,0,30,5,3,0,0,4,1995 Fall Tour,1995 Fall,Suzy Greenberg,Suzy,1,Rosemont Horizon,Rosemont,IL,USA,
 1995-10-31,1995,0,31,6,e,0,0,992,1995 Fall Tour,1995 Fall,My Generation,,0,Rosemont Horizon,Rosemont,IL,USA,
-1995-11-09,1995,0,1,1,1,0,0,8,1995 Fall Tour,1995 Fall,Tweezer Reprise,Tweeprise,1,The Fox Theatre,Atlanta,GA,USA,","
+1995-11-09,1995,0,1,1,1,0,0,7,1995 Fall Tour,1995 Fall,Tweezer Reprise,Tweeprise,1,The Fox Theatre,Atlanta,GA,USA,","
 1995-11-09,1995,0,2,1,1,0,0,1,1995 Fall Tour,1995 Fall,Divided Sky,Divided,1,The Fox Theatre,Atlanta,GA,USA,","
-1995-11-09,1995,0,3,1,1,0,0,3,1995 Fall Tour,1995 Fall,Prince Caspian,Caspian,1,The Fox Theatre,Atlanta,GA,USA,","
-1995-11-09,1995,0,4,1,1,0,0,2,1995 Fall Tour,1995 Fall,Punch You in the Eye,PYITE,1,The Fox Theatre,Atlanta,GA,USA,","
+1995-11-09,1995,0,3,1,1,0,0,2,1995 Fall Tour,1995 Fall,Prince Caspian,Caspian,1,The Fox Theatre,Atlanta,GA,USA,","
+1995-11-09,1995,0,4,1,1,0,0,1,1995 Fall Tour,1995 Fall,Punch You in the Eye,PYITE,1,The Fox Theatre,Atlanta,GA,USA,","
 1995-11-09,1995,0,5,2,1,0,0,4,1995 Fall Tour,1995 Fall,Simple,,1,The Fox Theatre,Atlanta,GA,USA,>
-1995-11-09,1995,0,6,1,1,0,0,5,1995 Fall Tour,1995 Fall,Reba,,1,The Fox Theatre,Atlanta,GA,USA,","
+1995-11-09,1995,0,6,1,1,0,0,4,1995 Fall Tour,1995 Fall,Reba,,1,The Fox Theatre,Atlanta,GA,USA,","
 1995-11-09,1995,0,7,2,1,0,0,13,1995 Fall Tour,1995 Fall,Tela,,1,The Fox Theatre,Atlanta,GA,USA,>
 1995-11-09,1995,0,8,4,1,0,0,3,1995 Fall Tour,1995 Fall,Sample in a Jar,Sample,1,The Fox Theatre,Atlanta,GA,USA,
-1995-11-09,1995,0,9,1,2,0,0,3,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,The Fox Theatre,Atlanta,GA,USA,","
+1995-11-09,1995,0,9,1,2,0,0,2,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,The Fox Theatre,Atlanta,GA,USA,","
 1995-11-09,1995,0,10,1,2,0,0,2,1995 Fall Tour,1995 Fall,Julius,,1,The Fox Theatre,Atlanta,GA,USA,","
 1995-11-09,1995,0,11,1,2,0,0,3,1995 Fall Tour,1995 Fall,The Lizards,Lizards,1,The Fox Theatre,Atlanta,GA,USA,","
 1995-11-09,1995,0,12,3,2,0,0,15,1995 Fall Tour,1995 Fall,Bathtub Gin,Gin,1,The Fox Theatre,Atlanta,GA,USA,->
@@ -999,8 +999,8 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-11-09,1995,0,16,1,2,0,0,4,1995 Fall Tour,1995 Fall,Life on Mars?,,0,The Fox Theatre,Atlanta,GA,USA,","
 1995-11-09,1995,0,17,1,2,0,0,9,1995 Fall Tour,1995 Fall,Hello My Baby,,0,The Fox Theatre,Atlanta,GA,USA,","
 1995-11-09,1995,0,18,5,2,0,0,7,1995 Fall Tour,1995 Fall,The Squirming Coil,Coil,1,The Fox Theatre,Atlanta,GA,USA,
-1995-11-09,1995,0,19,6,e,0,0,26,1995 Fall Tour,1995 Fall,Loving Cup,,0,The Fox Theatre,Atlanta,GA,USA,
-1995-11-10,1995,0,1,1,1,0,0,5,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,The Fox Theatre,Atlanta,GA,USA,","
+1995-11-09,1995,0,19,6,e,0,0,25,1995 Fall Tour,1995 Fall,Loving Cup,,0,The Fox Theatre,Atlanta,GA,USA,
+1995-11-10,1995,0,1,1,1,0,0,4,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,The Fox Theatre,Atlanta,GA,USA,","
 1995-11-10,1995,0,2,1,1,0,0,5,1995 Fall Tour,1995 Fall,Runaway Jim,,1,The Fox Theatre,Atlanta,GA,USA,","
 1995-11-10,1995,0,3,1,1,0,0,5,1995 Fall Tour,1995 Fall,Taste That Surrounds,,1,The Fox Theatre,Atlanta,GA,USA,","
 1995-11-10,1995,0,4,1,1,0,0,16,1995 Fall Tour,1995 Fall,The Old Home Place,,0,The Fox Theatre,Atlanta,GA,USA,","
@@ -1008,17 +1008,17 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-11-10,1995,0,6,1,1,0,0,5,1995 Fall Tour,1995 Fall,Dog Faced Boy,,1,The Fox Theatre,Atlanta,GA,USA,","
 1995-11-10,1995,0,7,1,1,0,0,4,1995 Fall Tour,1995 Fall,Maze,,1,The Fox Theatre,Atlanta,GA,USA,","
 1995-11-10,1995,0,8,1,1,0,0,2,1995 Fall Tour,1995 Fall,Guyute,,1,The Fox Theatre,Atlanta,GA,USA,","
-1995-11-10,1995,0,9,4,1,0,0,7,1995 Fall Tour,1995 Fall,Cavern,,1,The Fox Theatre,Atlanta,GA,USA,
+1995-11-10,1995,0,9,4,1,0,0,6,1995 Fall Tour,1995 Fall,Cavern,,1,The Fox Theatre,Atlanta,GA,USA,
 1995-11-10,1995,0,10,1,2,0,0,2,1995 Fall Tour,1995 Fall,Free,,1,The Fox Theatre,Atlanta,GA,USA,","
 1995-11-10,1995,0,11,1,2,0,0,4,1995 Fall Tour,1995 Fall,Scent of a Mule,SOAMule,1,The Fox Theatre,Atlanta,GA,USA,","
-1995-11-10,1995,0,12,3,2,0,0,2,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,The Fox Theatre,Atlanta,GA,USA,->
+1995-11-10,1995,0,12,3,2,0,0,1,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,The Fox Theatre,Atlanta,GA,USA,->
 1995-11-10,1995,0,13,3,2,0,0,6,1995 Fall Tour,1995 Fall,Crossroads,,0,The Fox Theatre,Atlanta,GA,USA,->
 1995-11-10,1995,0,14,1,2,0,0,0,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,The Fox Theatre,Atlanta,GA,USA,","
 1995-11-10,1995,0,15,1,2,0,0,4,1995 Fall Tour,1995 Fall,Strange Design,,1,The Fox Theatre,Atlanta,GA,USA,","
 1995-11-10,1995,0,16,2,2,0,0,2,1995 Fall Tour,1995 Fall,Sparkle,,1,The Fox Theatre,Atlanta,GA,USA,>
-1995-11-10,1995,0,17,1,2,0,0,4,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,The Fox Theatre,Atlanta,GA,USA,","
+1995-11-10,1995,0,17,1,2,0,0,3,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,The Fox Theatre,Atlanta,GA,USA,","
 1995-11-10,1995,0,18,5,2,0,0,3,1995 Fall Tour,1995 Fall,Sweet Adeline,,0,The Fox Theatre,Atlanta,GA,USA,
-1995-11-10,1995,0,19,6,e,0,0,9,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,The Fox Theatre,Atlanta,GA,USA,
+1995-11-10,1995,0,19,6,e,0,0,8,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,The Fox Theatre,Atlanta,GA,USA,
 1995-11-11,1995,0,1,2,1,0,0,4,1995 Fall Tour,1995 Fall,Cars Trucks Buses,CTB,1,The Fox Theatre,Atlanta,GA,USA,>
 1995-11-11,1995,0,2,2,1,0,0,7,1995 Fall Tour,1995 Fall,Mike's Song,Mike's,1,The Fox Theatre,Atlanta,GA,USA,>
 1995-11-11,1995,0,3,2,1,0,0,3,1995 Fall Tour,1995 Fall,A Day in the Life,ADITL,0,The Fox Theatre,Atlanta,GA,USA,>
@@ -1043,26 +1043,26 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-11-11,1995,0,22,5,2,0,0,3,1995 Fall Tour,1995 Fall,Run Like an Antelope,Antelope,1,The Fox Theatre,Atlanta,GA,USA,
 1995-11-11,1995,0,23,1,e,0,0,5,1995 Fall Tour,1995 Fall,Acoustic Army,,1,The Fox Theatre,Atlanta,GA,USA,","
 1995-11-11,1995,0,24,6,e,0,0,10,1995 Fall Tour,1995 Fall,Good Times Bad Times,GTBT,0,The Fox Theatre,Atlanta,GA,USA,
-1995-11-12,1995,0,1,1,1,0,0,9,1995 Fall Tour,1995 Fall,"My Friend, My Friend",My Friend,1,"O'Connell Center, University of Florida",Gainesville,FL,USA,","
+1995-11-12,1995,0,1,1,1,0,0,8,1995 Fall Tour,1995 Fall,"My Friend, My Friend",My Friend,1,"O'Connell Center, University of Florida",Gainesville,FL,USA,","
 1995-11-12,1995,0,2,1,1,0,0,9,1995 Fall Tour,1995 Fall,Llama,,1,"O'Connell Center, University of Florida",Gainesville,FL,USA,","
-1995-11-12,1995,0,3,1,1,0,0,2,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,"O'Connell Center, University of Florida",Gainesville,FL,USA,","
+1995-11-12,1995,0,3,1,1,0,0,1,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,"O'Connell Center, University of Florida",Gainesville,FL,USA,","
 1995-11-12,1995,0,4,1,1,0,0,11,1995 Fall Tour,1995 Fall,Guelah Papyrus,Guelah,1,"O'Connell Center, University of Florida",Gainesville,FL,USA,","
-1995-11-12,1995,0,5,1,1,0,0,3,1995 Fall Tour,1995 Fall,Reba,,1,"O'Connell Center, University of Florida",Gainesville,FL,USA,","
+1995-11-12,1995,0,5,1,1,0,0,2,1995 Fall Tour,1995 Fall,Reba,,1,"O'Connell Center, University of Florida",Gainesville,FL,USA,","
 1995-11-12,1995,0,6,1,1,0,0,7,1995 Fall Tour,1995 Fall,I Didn't Know,IDK,1,"O'Connell Center, University of Florida",Gainesville,FL,USA,","
 1995-11-12,1995,0,7,1,1,0,0,2,1995 Fall Tour,1995 Fall,Taste That Surrounds,,1,"O'Connell Center, University of Florida",Gainesville,FL,USA,","
 1995-11-12,1995,0,8,1,1,0,0,18,1995 Fall Tour,1995 Fall,If I Could,,1,"O'Connell Center, University of Florida",Gainesville,FL,USA,","
 1995-11-12,1995,0,9,1,1,0,0,5,1995 Fall Tour,1995 Fall,Split Open and Melt,SOAMelt,1,"O'Connell Center, University of Florida",Gainesville,FL,USA,","
 1995-11-12,1995,0,10,4,1,0,0,3,1995 Fall Tour,1995 Fall,Hello My Baby,,0,"O'Connell Center, University of Florida",Gainesville,FL,USA,
 1995-11-12,1995,0,11,2,2,0,0,10,1995 Fall Tour,1995 Fall,The Curtain,Curtain,1,"O'Connell Center, University of Florida",Gainesville,FL,USA,>
-1995-11-12,1995,0,12,2,2,0,0,10,1995 Fall Tour,1995 Fall,Tweezer,,1,"O'Connell Center, University of Florida",Gainesville,FL,USA,>
+1995-11-12,1995,0,12,2,2,0,0,9,1995 Fall Tour,1995 Fall,Tweezer,,1,"O'Connell Center, University of Florida",Gainesville,FL,USA,>
 1995-11-12,1995,0,13,1,2,0,0,7,1995 Fall Tour,1995 Fall,Keyboard Army,,1,"O'Connell Center, University of Florida",Gainesville,FL,USA,","
 1995-11-12,1995,0,14,2,2,0,0,3,1995 Fall Tour,1995 Fall,Sample in a Jar,Sample,1,"O'Connell Center, University of Florida",Gainesville,FL,USA,>
 1995-11-12,1995,0,15,1,2,0,0,5,1995 Fall Tour,1995 Fall,Slave to the Traffic Light,Slave,1,"O'Connell Center, University of Florida",Gainesville,FL,USA,","
 1995-11-12,1995,0,16,2,2,0,0,1,1995 Fall Tour,1995 Fall,Hold Your Head Up,HYHU,0,"O'Connell Center, University of Florida",Gainesville,FL,USA,>
 1995-11-12,1995,0,17,2,2,0,0,32,1995 Fall Tour,1995 Fall,Cracklin' Rosie,,0,"O'Connell Center, University of Florida",Gainesville,FL,USA,>
 1995-11-12,1995,0,18,1,2,0,0,0,1995 Fall Tour,1995 Fall,Hold Your Head Up,HYHU,0,"O'Connell Center, University of Florida",Gainesville,FL,USA,","
-1995-11-12,1995,0,19,2,2,0,0,5,1995 Fall Tour,1995 Fall,Possum,,1,"O'Connell Center, University of Florida",Gainesville,FL,USA,>
-1995-11-12,1995,0,20,5,2,0,0,3,1995 Fall Tour,1995 Fall,Tweezer Reprise,Tweeprise,1,"O'Connell Center, University of Florida",Gainesville,FL,USA,
+1995-11-12,1995,0,19,2,2,0,0,4,1995 Fall Tour,1995 Fall,Possum,,1,"O'Connell Center, University of Florida",Gainesville,FL,USA,>
+1995-11-12,1995,0,20,5,2,0,0,2,1995 Fall Tour,1995 Fall,Tweezer Reprise,Tweeprise,1,"O'Connell Center, University of Florida",Gainesville,FL,USA,
 1995-11-12,1995,0,21,6,e,0,0,8,1995 Fall Tour,1995 Fall,Fire,,0,"O'Connell Center, University of Florida",Gainesville,FL,USA,
 1995-11-14,1995,0,1,1,1,0,0,2,1995 Fall Tour,1995 Fall,Chalk Dust Torture,CDT,1,University of Central Florida Arena,Orlando,FL,USA,","
 1995-11-14,1995,0,2,1,1,0,0,16,1995 Fall Tour,1995 Fall,Foam,,1,University of Central Florida Arena,Orlando,FL,USA,","
@@ -1072,7 +1072,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-11-14,1995,0,6,1,1,0,0,3,1995 Fall Tour,1995 Fall,Free,,1,University of Central Florida Arena,Orlando,FL,USA,","
 1995-11-14,1995,0,7,1,1,0,0,4,1995 Fall Tour,1995 Fall,Julius,,1,University of Central Florida Arena,Orlando,FL,USA,","
 1995-11-14,1995,0,8,1,1,0,0,9,1995 Fall Tour,1995 Fall,"I'm Blue, I'm Lonesome",,0,University of Central Florida Arena,Orlando,FL,USA,","
-1995-11-14,1995,0,9,4,1,0,0,3,1995 Fall Tour,1995 Fall,Cavern,,1,University of Central Florida Arena,Orlando,FL,USA,
+1995-11-14,1995,0,9,4,1,0,0,2,1995 Fall Tour,1995 Fall,Cavern,,1,University of Central Florida Arena,Orlando,FL,USA,
 1995-11-14,1995,0,10,1,2,0,0,3,1995 Fall Tour,1995 Fall,Maze,,1,University of Central Florida Arena,Orlando,FL,USA,","
 1995-11-14,1995,0,11,1,2,0,0,6,1995 Fall Tour,1995 Fall,Gumbo,,1,University of Central Florida Arena,Orlando,FL,USA,","
 1995-11-14,1995,0,12,3,2,0,0,2,1995 Fall Tour,1995 Fall,Stash,,1,University of Central Florida Arena,Orlando,FL,USA,->
@@ -1081,22 +1081,22 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-11-14,1995,0,15,3,2,0,0,3,1995 Fall Tour,1995 Fall,Dog Faced Boy,,1,University of Central Florida Arena,Orlando,FL,USA,->
 1995-11-14,1995,0,16,1,2,0,0,0,1995 Fall Tour,1995 Fall,Stash,,1,University of Central Florida Arena,Orlando,FL,USA,","
 1995-11-14,1995,0,17,1,2,0,0,3,1995 Fall Tour,1995 Fall,Strange Design,,1,University of Central Florida Arena,Orlando,FL,USA,","
-1995-11-14,1995,0,18,3,2,0,0,3,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,University of Central Florida Arena,Orlando,FL,USA,->
+1995-11-14,1995,0,18,3,2,0,0,2,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,University of Central Florida Arena,Orlando,FL,USA,->
 1995-11-14,1995,0,19,3,2,1,0,736,1995 Fall Tour,1995 Fall,Immigrant Song,,0,University of Central Florida Arena,Orlando,FL,USA,->
 1995-11-14,1995,0,20,5,2,0,0,0,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,University of Central Florida Arena,Orlando,FL,USA,
 1995-11-14,1995,0,21,1,e,0,0,9,1995 Fall Tour,1995 Fall,The Wedge,Wedge,1,University of Central Florida Arena,Orlando,FL,USA,","
 1995-11-14,1995,0,22,6,e,0,0,13,1995 Fall Tour,1995 Fall,Rocky Top,,0,University of Central Florida Arena,Orlando,FL,USA,
 1995-11-15,1995,0,1,2,1,0,0,3,1995 Fall Tour,1995 Fall,Poor Heart,,1,"Sun Dome, University of South Florida",Tampa,FL,USA,>
-1995-11-15,1995,0,2,2,1,0,0,4,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,"Sun Dome, University of South Florida",Tampa,FL,USA,>
+1995-11-15,1995,0,2,2,1,0,0,3,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,"Sun Dome, University of South Florida",Tampa,FL,USA,>
 1995-11-15,1995,0,3,1,1,0,0,12,1995 Fall Tour,1995 Fall,Fast Enough for You,FEFY,1,"Sun Dome, University of South Florida",Tampa,FL,USA,","
 1995-11-15,1995,0,4,2,1,0,0,9,1995 Fall Tour,1995 Fall,Rift,,1,"Sun Dome, University of South Florida",Tampa,FL,USA,>
-1995-11-15,1995,0,5,2,1,0,0,5,1995 Fall Tour,1995 Fall,Prince Caspian,Caspian,1,"Sun Dome, University of South Florida",Tampa,FL,USA,>
+1995-11-15,1995,0,5,2,1,0,0,4,1995 Fall Tour,1995 Fall,Prince Caspian,Caspian,1,"Sun Dome, University of South Florida",Tampa,FL,USA,>
 1995-11-15,1995,0,6,2,1,0,0,4,1995 Fall Tour,1995 Fall,Sparkle,,1,"Sun Dome, University of South Florida",Tampa,FL,USA,>
 1995-11-15,1995,0,7,1,1,0,0,2,1995 Fall Tour,1995 Fall,Split Open and Melt,SOAMelt,1,"Sun Dome, University of South Florida",Tampa,FL,USA,","
 1995-11-15,1995,0,8,1,1,0,0,4,1995 Fall Tour,1995 Fall,Sweet Adeline,,0,"Sun Dome, University of South Florida",Tampa,FL,USA,","
 1995-11-15,1995,0,9,4,1,0,0,5,1995 Fall Tour,1995 Fall,The Squirming Coil,Coil,1,"Sun Dome, University of South Florida",Tampa,FL,USA,
 1995-11-15,1995,0,10,2,2,0,0,6,1995 Fall Tour,1995 Fall,Wilson,,1,"Sun Dome, University of South Florida",Tampa,FL,USA,>
-1995-11-15,1995,0,11,2,2,0,0,5,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,"Sun Dome, University of South Florida",Tampa,FL,USA,>
+1995-11-15,1995,0,11,2,2,0,0,4,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,"Sun Dome, University of South Florida",Tampa,FL,USA,>
 1995-11-15,1995,0,12,2,2,0,0,4,1995 Fall Tour,1995 Fall,Scent of a Mule,SOAMule,1,"Sun Dome, University of South Florida",Tampa,FL,USA,>
 1995-11-15,1995,0,13,2,2,0,0,3,1995 Fall Tour,1995 Fall,Mike's Song,Mike's,1,"Sun Dome, University of South Florida",Tampa,FL,USA,>
 1995-11-15,1995,0,14,2,2,0,0,5,1995 Fall Tour,1995 Fall,Life on Mars?,,0,"Sun Dome, University of South Florida",Tampa,FL,USA,>
@@ -1111,7 +1111,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-11-16,1995,0,5,1,1,0,0,9,1995 Fall Tour,1995 Fall,Mound,,1,West Palm Beach Auditorium,West Palm Beach,FL,USA,","
 1995-11-16,1995,0,6,1,1,0,0,4,1995 Fall Tour,1995 Fall,Ya Mar,,0,West Palm Beach Auditorium,West Palm Beach,FL,USA,","
 1995-11-16,1995,0,7,3,1,0,0,6,1995 Fall Tour,1995 Fall,Simple,,1,West Palm Beach Auditorium,West Palm Beach,FL,USA,->
-1995-11-16,1995,0,8,2,1,0,0,9,1995 Fall Tour,1995 Fall,Timber (Jerry the Mule),Timber Ho,0,West Palm Beach Auditorium,West Palm Beach,FL,USA,>
+1995-11-16,1995,0,8,2,1,0,0,8,1995 Fall Tour,1995 Fall,Timber (Jerry the Mule),Timber Ho,0,West Palm Beach Auditorium,West Palm Beach,FL,USA,>
 1995-11-16,1995,0,9,1,1,0,0,5,1995 Fall Tour,1995 Fall,Guyute,,1,West Palm Beach Auditorium,West Palm Beach,FL,USA,","
 1995-11-16,1995,0,10,4,1,0,0,8,1995 Fall Tour,1995 Fall,Funky Bitch,,0,West Palm Beach Auditorium,West Palm Beach,FL,USA,
 1995-11-16,1995,0,11,2,2,0,0,4,1995 Fall Tour,1995 Fall,A Day in the Life,ADITL,0,West Palm Beach Auditorium,West Palm Beach,FL,USA,>
@@ -1119,31 +1119,31 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-11-16,1995,0,13,1,2,0,0,8,1995 Fall Tour,1995 Fall,Lifeboy,,1,West Palm Beach Auditorium,West Palm Beach,FL,USA,","
 1995-11-16,1995,0,14,1,2,0,0,4,1995 Fall Tour,1995 Fall,Uncle Pen,,0,West Palm Beach Auditorium,West Palm Beach,FL,USA,","
 1995-11-16,1995,0,15,2,2,0,0,15,1995 Fall Tour,1995 Fall,Ha Ha Ha,,1,West Palm Beach Auditorium,West Palm Beach,FL,USA,>
-1995-11-16,1995,0,16,1,2,0,0,5,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,West Palm Beach Auditorium,West Palm Beach,FL,USA,","
+1995-11-16,1995,0,16,1,2,0,0,4,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,West Palm Beach Auditorium,West Palm Beach,FL,USA,","
 1995-11-16,1995,0,17,2,2,0,0,3,1995 Fall Tour,1995 Fall,Hold Your Head Up,HYHU,0,West Palm Beach Auditorium,West Palm Beach,FL,USA,>
 1995-11-16,1995,0,18,2,2,0,0,90,1995 Fall Tour,1995 Fall,If I Only Had a Brain,,0,West Palm Beach Auditorium,West Palm Beach,FL,USA,>
 1995-11-16,1995,0,19,1,2,0,0,0,1995 Fall Tour,1995 Fall,Hold Your Head Up,HYHU,0,West Palm Beach Auditorium,West Palm Beach,FL,USA,","
 1995-11-16,1995,0,20,1,2,0,0,4,1995 Fall Tour,1995 Fall,Amazing Grace,,0,West Palm Beach Auditorium,West Palm Beach,FL,USA,","
-1995-11-16,1995,0,21,5,2,0,0,3,1995 Fall Tour,1995 Fall,Possum,,1,West Palm Beach Auditorium,West Palm Beach,FL,USA,
+1995-11-16,1995,0,21,5,2,0,0,2,1995 Fall Tour,1995 Fall,Possum,,1,West Palm Beach Auditorium,West Palm Beach,FL,USA,
 1995-11-16,1995,0,22,6,e,0,0,999,1995 Fall Tour,1995 Fall,Brown Eyed Girl,,0,West Palm Beach Auditorium,West Palm Beach,FL,USA,
 1995-11-18,1995,0,1,2,1,0,0,94,1995 Fall Tour,1995 Fall,Dinner and a Movie,,1,North Charleston Coliseum,North Charleston,SC,USA,>
-1995-11-18,1995,0,2,2,1,0,0,4,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,North Charleston Coliseum,North Charleston,SC,USA,>
-1995-11-18,1995,0,3,1,1,0,0,4,1995 Fall Tour,1995 Fall,Reba,,1,North Charleston Coliseum,North Charleston,SC,USA,","
+1995-11-18,1995,0,2,2,1,0,0,3,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,North Charleston Coliseum,North Charleston,SC,USA,>
+1995-11-18,1995,0,3,1,1,0,0,3,1995 Fall Tour,1995 Fall,Reba,,1,North Charleston Coliseum,North Charleston,SC,USA,","
 1995-11-18,1995,0,4,1,1,0,0,17,1995 Fall Tour,1995 Fall,Lawn Boy,,1,North Charleston Coliseum,North Charleston,SC,USA,","
-1995-11-18,1995,0,5,2,1,0,0,7,1995 Fall Tour,1995 Fall,Punch You in the Eye,PYITE,1,North Charleston Coliseum,North Charleston,SC,USA,>
+1995-11-18,1995,0,5,2,1,0,0,6,1995 Fall Tour,1995 Fall,Punch You in the Eye,PYITE,1,North Charleston Coliseum,North Charleston,SC,USA,>
 1995-11-18,1995,0,6,1,1,0,0,4,1995 Fall Tour,1995 Fall,Slave to the Traffic Light,Slave,1,North Charleston Coliseum,North Charleston,SC,USA,","
 1995-11-18,1995,0,7,1,1,0,0,3,1995 Fall Tour,1995 Fall,"I'm Blue, I'm Lonesome",,0,North Charleston Coliseum,North Charleston,SC,USA,","
 1995-11-18,1995,0,8,4,1,0,0,4,1995 Fall Tour,1995 Fall,Sample in a Jar,Sample,1,North Charleston Coliseum,North Charleston,SC,USA,
-1995-11-18,1995,0,9,2,2,0,0,2,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,North Charleston Coliseum,North Charleston,SC,USA,>
+1995-11-18,1995,0,9,2,2,0,0,1,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,North Charleston Coliseum,North Charleston,SC,USA,>
 1995-11-18,1995,0,10,2,2,0,0,2,1995 Fall Tour,1995 Fall,Sparkle,,1,North Charleston Coliseum,North Charleston,SC,USA,>
 1995-11-18,1995,0,11,1,2,0,0,3,1995 Fall Tour,1995 Fall,Free,,1,North Charleston Coliseum,North Charleston,SC,USA,","
 1995-11-18,1995,0,12,1,2,0,0,86,1995 Fall Tour,1995 Fall,I'm So Tired,,0,North Charleston Coliseum,North Charleston,SC,USA,","
-1995-11-18,1995,0,13,1,2,0,0,3,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,North Charleston Coliseum,North Charleston,SC,USA,","
+1995-11-18,1995,0,13,1,2,0,0,2,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,North Charleston Coliseum,North Charleston,SC,USA,","
 1995-11-18,1995,0,14,2,2,0,0,13,1995 Fall Tour,1995 Fall,Contact,,1,North Charleston Coliseum,North Charleston,SC,USA,>
 1995-11-18,1995,0,15,1,2,0,0,14,1995 Fall Tour,1995 Fall,Big Black Furry Creature from Mars,BBFCFM,1,North Charleston Coliseum,North Charleston,SC,USA,","
 1995-11-18,1995,0,16,1,2,0,0,5,1995 Fall Tour,1995 Fall,Acoustic Army,,1,North Charleston Coliseum,North Charleston,SC,USA,","
 1995-11-18,1995,0,17,1,2,0,0,0,1995 Fall Tour,1995 Fall,Big Black Furry Creature from Mars,BBFCFM,1,North Charleston Coliseum,North Charleston,SC,USA,","
-1995-11-18,1995,0,18,5,2,0,0,3,1995 Fall Tour,1995 Fall,Cavern,,1,North Charleston Coliseum,North Charleston,SC,USA,
+1995-11-18,1995,0,18,5,2,0,0,2,1995 Fall Tour,1995 Fall,Cavern,,1,North Charleston Coliseum,North Charleston,SC,USA,
 1995-11-18,1995,0,19,6,e,0,0,165,1995 Fall Tour,1995 Fall,"Bill Bailey, Won't You Please Come Home?",,0,North Charleston Coliseum,North Charleston,SC,USA,
 1995-11-19,1995,0,1,3,1,0,0,10,1995 Fall Tour,1995 Fall,Makisupa Policeman,Makisupa,1,Charlotte Coliseum,Charlotte,NC,USA,->
 1995-11-19,1995,0,2,1,1,0,0,4,1995 Fall Tour,1995 Fall,Maze,,1,Charlotte Coliseum,Charlotte,NC,USA,","
@@ -1155,24 +1155,24 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-11-19,1995,0,8,1,1,0,0,5,1995 Fall Tour,1995 Fall,Hello My Baby,,0,Charlotte Coliseum,Charlotte,NC,USA,","
 1995-11-19,1995,0,9,1,1,0,0,4,1995 Fall Tour,1995 Fall,Julius,,1,Charlotte Coliseum,Charlotte,NC,USA,","
 1995-11-19,1995,0,10,4,1,0,0,3,1995 Fall Tour,1995 Fall,The Squirming Coil,Coil,1,Charlotte Coliseum,Charlotte,NC,USA,
-1995-11-19,1995,0,11,2,2,0,0,3,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,Charlotte Coliseum,Charlotte,NC,USA,>
+1995-11-19,1995,0,11,2,2,0,0,2,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,Charlotte Coliseum,Charlotte,NC,USA,>
 1995-11-19,1995,0,12,2,2,0,0,6,1995 Fall Tour,1995 Fall,Also Sprach Zarathustra,2001,0,Charlotte Coliseum,Charlotte,NC,USA,>
 1995-11-19,1995,0,13,2,2,0,0,5,1995 Fall Tour,1995 Fall,The Curtain,Curtain,1,Charlotte Coliseum,Charlotte,NC,USA,>
-1995-11-19,1995,0,14,2,2,0,0,5,1995 Fall Tour,1995 Fall,Tweezer,,1,Charlotte Coliseum,Charlotte,NC,USA,>
+1995-11-19,1995,0,14,2,2,0,0,4,1995 Fall Tour,1995 Fall,Tweezer,,1,Charlotte Coliseum,Charlotte,NC,USA,>
 1995-11-19,1995,0,15,1,2,0,0,4,1995 Fall Tour,1995 Fall,Billy Breathes,,1,Charlotte Coliseum,Charlotte,NC,USA,","
 1995-11-19,1995,0,16,1,2,0,0,3,1995 Fall Tour,1995 Fall,Scent of a Mule,SOAMule,1,Charlotte Coliseum,Charlotte,NC,USA,","
-1995-11-19,1995,0,17,1,2,0,0,2,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,Charlotte Coliseum,Charlotte,NC,USA,","
+1995-11-19,1995,0,17,1,2,0,0,1,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,Charlotte Coliseum,Charlotte,NC,USA,","
 1995-11-19,1995,0,18,5,2,0,0,3,1995 Fall Tour,1995 Fall,Suzy Greenberg,Suzy,1,Charlotte Coliseum,Charlotte,NC,USA,
 1995-11-19,1995,0,19,2,e,0,0,3,1995 Fall Tour,1995 Fall,Life on Mars?,,0,Charlotte Coliseum,Charlotte,NC,USA,>
-1995-11-19,1995,0,20,6,e,0,0,5,1995 Fall Tour,1995 Fall,Tweezer Reprise,Tweeprise,1,Charlotte Coliseum,Charlotte,NC,USA,
+1995-11-19,1995,0,20,6,e,0,0,4,1995 Fall Tour,1995 Fall,Tweezer Reprise,Tweeprise,1,Charlotte Coliseum,Charlotte,NC,USA,
 1995-11-21,1995,0,1,2,1,0,0,4,1995 Fall Tour,1995 Fall,Fee,,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,>
 1995-11-21,1995,0,2,1,1,0,0,5,1995 Fall Tour,1995 Fall,Chalk Dust Torture,CDT,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,","
-1995-11-21,1995,0,3,1,1,0,0,4,1995 Fall Tour,1995 Fall,Prince Caspian,Caspian,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,","
+1995-11-21,1995,0,3,1,1,0,0,3,1995 Fall Tour,1995 Fall,Prince Caspian,Caspian,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,","
 1995-11-21,1995,0,4,1,1,0,0,5,1995 Fall Tour,1995 Fall,Divided Sky,Divided,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,","
 1995-11-21,1995,0,5,1,1,0,0,14,1995 Fall Tour,1995 Fall,My Long Journey Home,,0,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,","
 1995-11-21,1995,0,6,1,1,0,0,2,1995 Fall Tour,1995 Fall,"I'm Blue, I'm Lonesome",,0,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,","
 1995-11-21,1995,0,7,1,1,0,0,3,1995 Fall Tour,1995 Fall,Guyute,,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,","
-1995-11-21,1995,0,8,3,1,0,0,6,1995 Fall Tour,1995 Fall,"My Friend, My Friend",My Friend,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,->
+1995-11-21,1995,0,8,3,1,0,0,5,1995 Fall Tour,1995 Fall,"My Friend, My Friend",My Friend,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,->
 1995-11-21,1995,0,9,2,1,0,0,5,1995 Fall Tour,1995 Fall,Dog Faced Boy,,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,>
 1995-11-21,1995,0,10,4,1,0,0,3,1995 Fall Tour,1995 Fall,Runaway Jim,,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,
 1995-11-21,1995,0,11,3,2,0,0,3,1995 Fall Tour,1995 Fall,Simple,,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,->
@@ -1194,7 +1194,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-11-22,1995,0,3,1,1,0,0,8,1995 Fall Tour,1995 Fall,Run Like an Antelope,Antelope,1,USAir Arena,Landover,MD,USA,","
 1995-11-22,1995,0,4,1,1,0,0,8,1995 Fall Tour,1995 Fall,Fluffhead,,1,USAir Arena,Landover,MD,USA,","
 1995-11-22,1995,0,5,1,1,0,0,4,1995 Fall Tour,1995 Fall,Uncle Pen,,0,USAir Arena,Landover,MD,USA,","
-1995-11-22,1995,0,6,2,1,0,0,3,1995 Fall Tour,1995 Fall,Cavern,,1,USAir Arena,Landover,MD,USA,>
+1995-11-22,1995,0,6,2,1,0,0,2,1995 Fall Tour,1995 Fall,Cavern,,1,USAir Arena,Landover,MD,USA,>
 1995-11-22,1995,0,7,1,1,0,0,7,1995 Fall Tour,1995 Fall,Taste That Surrounds,,1,USAir Arena,Landover,MD,USA,","
 1995-11-22,1995,0,8,1,1,0,0,10,1995 Fall Tour,1995 Fall,The Lizards,Lizards,1,USAir Arena,Landover,MD,USA,","
 1995-11-22,1995,0,9,1,1,0,0,3,1995 Fall Tour,1995 Fall,Sample in a Jar,Sample,1,USAir Arena,Landover,MD,USA,","
@@ -1202,13 +1202,13 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-11-22,1995,0,11,1,2,0,0,2,1995 Fall Tour,1995 Fall,Rift,,1,USAir Arena,Landover,MD,USA,","
 1995-11-22,1995,0,12,3,2,0,0,3,1995 Fall Tour,1995 Fall,Free,,1,USAir Arena,Landover,MD,USA,->
 1995-11-22,1995,0,13,1,2,0,0,7,1995 Fall Tour,1995 Fall,Llama,,1,USAir Arena,Landover,MD,USA,","
-1995-11-22,1995,0,14,1,2,0,0,3,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,USAir Arena,Landover,MD,USA,","
-1995-11-22,1995,0,15,1,2,0,0,3,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,USAir Arena,Landover,MD,USA,","
+1995-11-22,1995,0,14,1,2,0,0,2,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,USAir Arena,Landover,MD,USA,","
+1995-11-22,1995,0,15,1,2,0,0,2,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,USAir Arena,Landover,MD,USA,","
 1995-11-22,1995,0,16,5,2,0,0,2,1995 Fall Tour,1995 Fall,Strange Design,,1,USAir Arena,Landover,MD,USA,
 1995-11-22,1995,0,17,1,e,0,0,2,1995 Fall Tour,1995 Fall,Poor Heart,,1,USAir Arena,Landover,MD,USA,","
 1995-11-22,1995,0,18,6,e,0,0,8,1995 Fall Tour,1995 Fall,Frankenstein,,0,USAir Arena,Landover,MD,USA,
 1995-11-24,1995,0,1,2,1,0,0,56,1995 Fall Tour,1995 Fall,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Civic Arena,Pittsburgh,PA,USA,>
-1995-11-24,1995,0,2,2,1,0,0,4,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,Civic Arena,Pittsburgh,PA,USA,>
+1995-11-24,1995,0,2,2,1,0,0,3,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,Civic Arena,Pittsburgh,PA,USA,>
 1995-11-24,1995,0,3,2,1,0,0,3,1995 Fall Tour,1995 Fall,The Curtain,Curtain,1,Civic Arena,Pittsburgh,PA,USA,>
 1995-11-24,1995,0,4,2,1,0,0,4,1995 Fall Tour,1995 Fall,Sparkle,,1,Civic Arena,Pittsburgh,PA,USA,>
 1995-11-24,1995,0,5,1,1,0,0,3,1995 Fall Tour,1995 Fall,Stash,,1,Civic Arena,Pittsburgh,PA,USA,","
@@ -1217,8 +1217,8 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-11-24,1995,0,8,1,1,0,0,3,1995 Fall Tour,1995 Fall,Maze,,1,Civic Arena,Pittsburgh,PA,USA,","
 1995-11-24,1995,0,9,4,1,0,0,3,1995 Fall Tour,1995 Fall,Suzy Greenberg,Suzy,1,Civic Arena,Pittsburgh,PA,USA,
 1995-11-24,1995,0,10,1,2,0,0,2,1995 Fall Tour,1995 Fall,Chalk Dust Torture,CDT,1,Civic Arena,Pittsburgh,PA,USA,","
-1995-11-24,1995,0,11,2,2,0,0,3,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,Civic Arena,Pittsburgh,PA,USA,>
-1995-11-24,1995,0,12,1,2,0,0,4,1995 Fall Tour,1995 Fall,Reba,,1,Civic Arena,Pittsburgh,PA,USA,","
+1995-11-24,1995,0,11,2,2,0,0,2,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,Civic Arena,Pittsburgh,PA,USA,>
+1995-11-24,1995,0,12,1,2,0,0,3,1995 Fall Tour,1995 Fall,Reba,,1,Civic Arena,Pittsburgh,PA,USA,","
 1995-11-24,1995,0,13,1,2,0,0,18,1995 Fall Tour,1995 Fall,Catapult,,1,Civic Arena,Pittsburgh,PA,USA,","
 1995-11-24,1995,0,14,1,2,0,0,3,1995 Fall Tour,1995 Fall,Scent of a Mule,SOAMule,1,Civic Arena,Pittsburgh,PA,USA,","
 1995-11-24,1995,0,15,1,2,0,0,11,1995 Fall Tour,1995 Fall,Bathtub Gin,Gin,1,Civic Arena,Pittsburgh,PA,USA,","
@@ -1235,11 +1235,11 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-11-25,1995,0,3,1,1,0,0,3,1995 Fall Tour,1995 Fall,David Bowie,Bowie,1,Hampton Coliseum,Hampton,VA,USA,","
 1995-11-25,1995,0,4,2,1,0,0,4,1995 Fall Tour,1995 Fall,Billy Breathes,,1,Hampton Coliseum,Hampton,VA,USA,>
 1995-11-25,1995,0,5,1,1,0,0,2,1995 Fall Tour,1995 Fall,Taste That Surrounds,,1,Hampton Coliseum,Hampton,VA,USA,","
-1995-11-25,1995,0,6,2,1,0,0,2,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,Hampton Coliseum,Hampton,VA,USA,>
+1995-11-25,1995,0,6,2,1,0,0,1,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,Hampton Coliseum,Hampton,VA,USA,>
 1995-11-25,1995,0,7,1,1,0,0,2,1995 Fall Tour,1995 Fall,Rift,,1,Hampton Coliseum,Hampton,VA,USA,","
-1995-11-25,1995,0,8,2,1,0,0,18,1995 Fall Tour,1995 Fall,Wolfman's Brother,Wolfman's,1,Hampton Coliseum,Hampton,VA,USA,>
+1995-11-25,1995,0,8,2,1,0,0,17,1995 Fall Tour,1995 Fall,Wolfman's Brother,Wolfman's,1,Hampton Coliseum,Hampton,VA,USA,>
 1995-11-25,1995,0,9,4,1,0,0,3,1995 Fall Tour,1995 Fall,Runaway Jim,,1,Hampton Coliseum,Hampton,VA,USA,
-1995-11-25,1995,0,10,2,2,0,0,6,1995 Fall Tour,1995 Fall,Timber (Jerry the Mule),Timber Ho,0,Hampton Coliseum,Hampton,VA,USA,>
+1995-11-25,1995,0,10,2,2,0,0,5,1995 Fall Tour,1995 Fall,Timber (Jerry the Mule),Timber Ho,0,Hampton Coliseum,Hampton,VA,USA,>
 1995-11-25,1995,0,11,1,2,0,0,14,1995 Fall Tour,1995 Fall,Kung,,1,Hampton Coliseum,Hampton,VA,USA,","
 1995-11-25,1995,0,12,3,2,0,0,3,1995 Fall Tour,1995 Fall,Mike's Song,Mike's,1,Hampton Coliseum,Hampton,VA,USA,->
 1995-11-25,1995,0,13,3,2,0,0,1005,1995 Fall Tour,1995 Fall,Rotation Jam,,1,Hampton Coliseum,Hampton,VA,USA,->
@@ -1248,14 +1248,14 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-11-25,1995,0,16,1,2,0,0,1,1995 Fall Tour,1995 Fall,"I'm Blue, I'm Lonesome",,0,Hampton Coliseum,Hampton,VA,USA,","
 1995-11-25,1995,0,17,2,2,0,0,2,1995 Fall Tour,1995 Fall,Strange Design,,1,Hampton Coliseum,Hampton,VA,USA,>
 1995-11-25,1995,0,18,1,2,0,0,7,1995 Fall Tour,1995 Fall,Weekapaug Groove,Weekapaug,1,Hampton Coliseum,Hampton,VA,USA,","
-1995-11-25,1995,0,19,1,2,0,0,4,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,Hampton Coliseum,Hampton,VA,USA,","
+1995-11-25,1995,0,19,1,2,0,0,3,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,Hampton Coliseum,Hampton,VA,USA,","
 1995-11-25,1995,0,20,1,2,0,0,4,1995 Fall Tour,1995 Fall,Hello My Baby,,0,Hampton Coliseum,Hampton,VA,USA,","
 1995-11-25,1995,0,21,5,2,0,0,0,1995 Fall Tour,1995 Fall,Poor Heart,,1,Hampton Coliseum,Hampton,VA,USA,
 1995-11-25,1995,0,22,1,e,0,1,0,1995 Fall Tour,1995 Fall,Poor Heart,,1,Hampton Coliseum,Hampton,VA,USA,","
 1995-11-25,1995,0,23,6,e,0,0,9,1995 Fall Tour,1995 Fall,Fire,,0,Hampton Coliseum,Hampton,VA,USA,
 1995-11-28,1995,0,1,1,1,0,0,2,1995 Fall Tour,1995 Fall,Stash,,1,Knoxville Civic Coliseum,Knoxville,TN,USA,","
 1995-11-28,1995,0,2,2,1,0,0,6,1995 Fall Tour,1995 Fall,Dinner and a Movie,,1,Knoxville Civic Coliseum,Knoxville,TN,USA,>
-1995-11-28,1995,0,3,2,1,0,0,1,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,Knoxville Civic Coliseum,Knoxville,TN,USA,>
+1995-11-28,1995,0,3,2,1,0,0,0,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,Knoxville Civic Coliseum,Knoxville,TN,USA,>
 1995-11-28,1995,0,4,1,1,0,0,9,1995 Fall Tour,1995 Fall,Foam,,1,Knoxville Civic Coliseum,Knoxville,TN,USA,","
 1995-11-28,1995,0,5,1,1,0,0,10,1995 Fall Tour,1995 Fall,I Didn't Know,IDK,1,Knoxville Civic Coliseum,Knoxville,TN,USA,","
 1995-11-28,1995,0,6,1,1,0,0,4,1995 Fall Tour,1995 Fall,Divided Sky,Divided,1,Knoxville Civic Coliseum,Knoxville,TN,USA,","
@@ -1275,20 +1275,20 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-11-28,1995,0,20,1,2,0,0,6,1995 Fall Tour,1995 Fall,Big Black Furry Creature from Mars,BBFCFM,1,Knoxville Civic Coliseum,Knoxville,TN,USA,","
 1995-11-28,1995,0,21,5,2,0,0,7,1995 Fall Tour,1995 Fall,Funky Bitch,,0,Knoxville Civic Coliseum,Knoxville,TN,USA,
 1995-11-28,1995,0,22,6,e,0,0,5,1995 Fall Tour,1995 Fall,The Squirming Coil,Coil,1,Knoxville Civic Coliseum,Knoxville,TN,USA,
-1995-11-29,1995,0,1,2,1,0,0,3,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,Municipal Auditorium,Nashville,TN,USA,>
+1995-11-29,1995,0,1,2,1,0,0,2,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,Municipal Auditorium,Nashville,TN,USA,>
 1995-11-29,1995,0,2,1,1,0,0,5,1995 Fall Tour,1995 Fall,Ya Mar,,0,Municipal Auditorium,Nashville,TN,USA,","
-1995-11-29,1995,0,3,1,1,0,0,3,1995 Fall Tour,1995 Fall,Reba,,1,Municipal Auditorium,Nashville,TN,USA,","
+1995-11-29,1995,0,3,1,1,0,0,2,1995 Fall Tour,1995 Fall,Reba,,1,Municipal Auditorium,Nashville,TN,USA,","
 1995-11-29,1995,0,4,2,1,0,0,11,1995 Fall Tour,1995 Fall,If I Could,,1,Municipal Auditorium,Nashville,TN,USA,>
 1995-11-29,1995,0,5,2,1,0,0,6,1995 Fall Tour,1995 Fall,It's Ice,,1,Municipal Auditorium,Nashville,TN,USA,>
-1995-11-29,1995,0,6,1,1,0,0,3,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,Municipal Auditorium,Nashville,TN,USA,","
+1995-11-29,1995,0,6,1,1,0,0,2,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,Municipal Auditorium,Nashville,TN,USA,","
 1995-11-29,1995,0,7,1,1,0,0,2,1995 Fall Tour,1995 Fall,Acoustic Army,,1,Municipal Auditorium,Nashville,TN,USA,","
 1995-11-29,1995,0,8,2,1,0,0,3,1995 Fall Tour,1995 Fall,Fee,,1,Municipal Auditorium,Nashville,TN,USA,>
 1995-11-29,1995,0,9,4,1,0,0,9,1995 Fall Tour,1995 Fall,Split Open and Melt,SOAMelt,1,Municipal Auditorium,Nashville,TN,USA,
-1995-11-29,1995,0,10,2,2,0,0,2,1995 Fall Tour,1995 Fall,Timber (Jerry the Mule),Timber Ho,0,Municipal Auditorium,Nashville,TN,USA,>
+1995-11-29,1995,0,10,2,2,0,0,1,1995 Fall Tour,1995 Fall,Timber (Jerry the Mule),Timber Ho,0,Municipal Auditorium,Nashville,TN,USA,>
 1995-11-29,1995,0,11,2,2,0,0,3,1995 Fall Tour,1995 Fall,Sparkle,,1,Municipal Auditorium,Nashville,TN,USA,>
 1995-11-29,1995,0,12,2,2,0,0,5,1995 Fall Tour,1995 Fall,Simple,,1,Municipal Auditorium,Nashville,TN,USA,>
-1995-11-29,1995,0,13,1,2,0,0,8,1995 Fall Tour,1995 Fall,Possum,,1,Municipal Auditorium,Nashville,TN,USA,","
-1995-11-29,1995,0,14,1,2,0,0,4,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,Municipal Auditorium,Nashville,TN,USA,","
+1995-11-29,1995,0,13,1,2,0,0,7,1995 Fall Tour,1995 Fall,Possum,,1,Municipal Auditorium,Nashville,TN,USA,","
+1995-11-29,1995,0,14,1,2,0,0,3,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,Municipal Auditorium,Nashville,TN,USA,","
 1995-11-29,1995,0,15,2,2,0,0,1,1995 Fall Tour,1995 Fall,Taste That Surrounds,,1,Municipal Auditorium,Nashville,TN,USA,>
 1995-11-29,1995,0,16,2,2,0,0,0,1995 Fall Tour,1995 Fall,Heart and Soul,,0,Municipal Auditorium,Nashville,TN,USA,>
 1995-11-29,1995,0,17,1,2,0,0,2,1995 Fall Tour,1995 Fall,Poor Heart,,1,Municipal Auditorium,Nashville,TN,USA,","
@@ -1307,24 +1307,24 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-11-30,1995,0,9,1,1,0,0,5,1995 Fall Tour,1995 Fall,The Lizards,Lizards,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
 1995-11-30,1995,0,10,4,1,0,0,3,1995 Fall Tour,1995 Fall,Fire,,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,
 1995-11-30,1995,0,11,2,2,0,0,5,1995 Fall Tour,1995 Fall,Cars Trucks Buses,CTB,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
-1995-11-30,1995,0,12,3,2,0,0,7,1995 Fall Tour,1995 Fall,Tweezer,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,->
+1995-11-30,1995,0,12,3,2,0,0,6,1995 Fall Tour,1995 Fall,Tweezer,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,->
 1995-11-30,1995,0,13,2,2,0,0,7,1995 Fall Tour,1995 Fall,Makisupa Policeman,Makisupa,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
 1995-11-30,1995,0,14,2,2,0,0,2,1995 Fall Tour,1995 Fall,Run Like an Antelope,Antelope,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,>
 1995-11-30,1995,0,15,1,2,0,0,4,1995 Fall Tour,1995 Fall,Scent of a Mule,SOAMule,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
 1995-11-30,1995,0,16,1,2,0,0,2,1995 Fall Tour,1995 Fall,Free,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
 1995-11-30,1995,0,17,1,2,0,0,3,1995 Fall Tour,1995 Fall,Strange Design,,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,","
 1995-11-30,1995,0,18,5,2,0,0,9,1995 Fall Tour,1995 Fall,Amazing Grace,,0,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,
-1995-11-30,1995,0,19,6,e,0,0,3,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,
+1995-11-30,1995,0,19,6,e,0,0,2,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,
 1995-12-01,1995,0,1,2,1,0,0,18,1995 Fall Tour,1995 Fall,Buried Alive,,1,Hersheypark Arena,Hershey,PA,USA,>
-1995-12-01,1995,0,2,2,1,0,0,48,1995 Fall Tour,1995 Fall,Down with Disease,DwD,1,Hersheypark Arena,Hershey,PA,USA,>
-1995-12-01,1995,0,3,1,1,0,0,2,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,Hersheypark Arena,Hershey,PA,USA,","
+1995-12-01,1995,0,2,2,1,0,0,47,1995 Fall Tour,1995 Fall,Down with Disease,DwD,1,Hersheypark Arena,Hershey,PA,USA,>
+1995-12-01,1995,0,3,1,1,0,0,1,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,Hersheypark Arena,Hershey,PA,USA,","
 1995-12-01,1995,0,4,1,1,0,0,2,1995 Fall Tour,1995 Fall,Poor Heart,,1,Hersheypark Arena,Hershey,PA,USA,","
-1995-12-01,1995,0,5,2,1,0,0,4,1995 Fall Tour,1995 Fall,Wolfman's Brother,Wolfman's,1,Hersheypark Arena,Hershey,PA,USA,>
+1995-12-01,1995,0,5,2,1,0,0,3,1995 Fall Tour,1995 Fall,Wolfman's Brother,Wolfman's,1,Hersheypark Arena,Hershey,PA,USA,>
 1995-12-01,1995,0,6,1,1,0,0,5,1995 Fall Tour,1995 Fall,Chalk Dust Torture,CDT,1,Hersheypark Arena,Hershey,PA,USA,","
 1995-12-01,1995,0,7,2,1,0,0,35,1995 Fall Tour,1995 Fall,Colonel Forbin's Ascent,Forbin's,1,Hersheypark Arena,Hershey,PA,USA,>
 1995-12-01,1995,0,8,1,1,0,0,35,1995 Fall Tour,1995 Fall,Fly Famous Mockingbird,Mockingbird,1,Hersheypark Arena,Hershey,PA,USA,","
 1995-12-01,1995,0,9,1,1,0,0,3,1995 Fall Tour,1995 Fall,Stash,,1,Hersheypark Arena,Hershey,PA,USA,","
-1995-12-01,1995,0,10,4,1,0,0,6,1995 Fall Tour,1995 Fall,Cavern,,1,Hersheypark Arena,Hershey,PA,USA,
+1995-12-01,1995,0,10,4,1,0,0,5,1995 Fall Tour,1995 Fall,Cavern,,1,Hersheypark Arena,Hershey,PA,USA,
 1995-12-01,1995,0,11,2,2,0,0,43,1995 Fall Tour,1995 Fall,Halley's Comet,Halley's,1,Hersheypark Arena,Hershey,PA,USA,>
 1995-12-01,1995,0,12,3,2,0,0,4,1995 Fall Tour,1995 Fall,Mike's Song,Mike's,1,Hersheypark Arena,Hershey,PA,USA,->
 1995-12-01,1995,0,13,1,2,0,0,4,1995 Fall Tour,1995 Fall,Weekapaug Groove,Weekapaug,1,Hersheypark Arena,Hershey,PA,USA,","
@@ -1336,30 +1336,30 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-12-01,1995,0,19,3,2,0,0,5,1995 Fall Tour,1995 Fall,Catapult,,1,Hersheypark Arena,Hershey,PA,USA,->
 1995-12-01,1995,0,20,5,2,0,0,0,1995 Fall Tour,1995 Fall,David Bowie,Bowie,1,Hersheypark Arena,Hershey,PA,USA,
 1995-12-01,1995,0,21,6,e,0,0,3,1995 Fall Tour,1995 Fall,Suzy Greenberg,Suzy,1,Hersheypark Arena,Hershey,PA,USA,
-1995-12-02,1995,0,1,1,1,0,0,8,1995 Fall Tour,1995 Fall,Prince Caspian,Caspian,1,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,","
+1995-12-02,1995,0,1,1,1,0,0,7,1995 Fall Tour,1995 Fall,Prince Caspian,Caspian,1,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,","
 1995-12-02,1995,0,2,1,1,0,0,5,1995 Fall Tour,1995 Fall,Runaway Jim,,1,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,","
 1995-12-02,1995,0,3,2,1,0,0,11,1995 Fall Tour,1995 Fall,Mound,,1,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,>
 1995-12-02,1995,0,4,1,1,0,0,14,1995 Fall Tour,1995 Fall,Guelah Papyrus,Guelah,1,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,","
-1995-12-02,1995,0,5,1,1,0,0,3,1995 Fall Tour,1995 Fall,Reba,,1,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,","
+1995-12-02,1995,0,5,1,1,0,0,2,1995 Fall Tour,1995 Fall,Reba,,1,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,","
 1995-12-02,1995,0,6,1,1,0,0,58,1995 Fall Tour,1995 Fall,My Sweet One,MSO,1,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,","
 1995-12-02,1995,0,7,1,1,0,0,2,1995 Fall Tour,1995 Fall,Free,,1,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,","
 1995-12-02,1995,0,8,1,1,0,0,3,1995 Fall Tour,1995 Fall,Taste That Surrounds,,1,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,","
-1995-12-02,1995,0,9,1,1,0,0,4,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,","
-1995-12-02,1995,0,10,4,1,0,0,3,1995 Fall Tour,1995 Fall,Possum,,1,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,
+1995-12-02,1995,0,9,1,1,0,0,3,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,","
+1995-12-02,1995,0,10,4,1,0,0,2,1995 Fall Tour,1995 Fall,Possum,,1,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,
 1995-12-02,1995,0,11,2,2,0,0,4,1995 Fall Tour,1995 Fall,Also Sprach Zarathustra,2001,0,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,>
 1995-12-02,1995,0,12,2,2,0,0,4,1995 Fall Tour,1995 Fall,Maze,,1,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,>
 1995-12-02,1995,0,13,3,2,0,0,3,1995 Fall Tour,1995 Fall,Simple,,1,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,->
 1995-12-02,1995,0,14,1,2,0,0,37,1995 Fall Tour,1995 Fall,Faht,,1,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,","
-1995-12-02,1995,0,15,2,2,0,0,2,1995 Fall Tour,1995 Fall,Tweezer,,1,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,>
+1995-12-02,1995,0,15,2,2,0,0,1,1995 Fall Tour,1995 Fall,Tweezer,,1,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,>
 1995-12-02,1995,0,16,2,2,0,0,3,1995 Fall Tour,1995 Fall,A Day in the Life,ADITL,0,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,>
 1995-12-02,1995,0,17,1,2,0,0,24,1995 Fall Tour,1995 Fall,Golgi Apparatus,Golgi,1,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,","
 1995-12-02,1995,0,18,1,2,0,0,4,1995 Fall Tour,1995 Fall,The Squirming Coil,Coil,1,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,","
-1995-12-02,1995,0,19,5,2,0,0,9,1995 Fall Tour,1995 Fall,Tweezer Reprise,Tweeprise,1,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,
+1995-12-02,1995,0,19,5,2,0,0,8,1995 Fall Tour,1995 Fall,Tweezer Reprise,Tweeprise,1,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,
 1995-12-02,1995,0,20,6,e,0,0,31,1995 Fall Tour,1995 Fall,Bold As Love,,0,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,
 1995-12-04,1995,0,1,1,1,0,0,3,1995 Fall Tour,1995 Fall,Julius,,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
 1995-12-04,1995,0,2,1,1,0,0,14,1995 Fall Tour,1995 Fall,Gumbo,,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
 1995-12-04,1995,0,3,1,1,0,0,5,1995 Fall Tour,1995 Fall,Divided Sky,Divided,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
-1995-12-04,1995,0,4,1,1,0,0,11,1995 Fall Tour,1995 Fall,Punch You in the Eye,PYITE,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+1995-12-04,1995,0,4,1,1,0,0,10,1995 Fall Tour,1995 Fall,Punch You in the Eye,PYITE,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
 1995-12-04,1995,0,5,1,1,0,0,2,1995 Fall Tour,1995 Fall,Stash,,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
 1995-12-04,1995,0,6,1,1,0,0,25,1995 Fall Tour,1995 Fall,My Mind's Got a Mind of its Own,MMGAMOIO,0,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
 1995-12-04,1995,0,7,1,1,0,0,49,1995 Fall Tour,1995 Fall,Axilla (Part II),,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
@@ -1367,16 +1367,16 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-12-04,1995,0,9,1,1,0,0,16,1995 Fall Tour,1995 Fall,Silent in the Morning,Silent,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
 1995-12-04,1995,0,10,1,1,0,0,5,1995 Fall Tour,1995 Fall,Hello My Baby,,0,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
 1995-12-04,1995,0,11,4,1,0,0,13,1995 Fall Tour,1995 Fall,While My Guitar Gently Weeps,WMGGW,0,"Mullins Center, University of Massachusetts",Amherst,MA,USA,
-1995-12-04,1995,0,12,2,2,0,0,4,1995 Fall Tour,1995 Fall,Timber (Jerry the Mule),Timber Ho,0,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+1995-12-04,1995,0,12,2,2,0,0,3,1995 Fall Tour,1995 Fall,Timber (Jerry the Mule),Timber Ho,0,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
 1995-12-04,1995,0,13,2,2,0,0,4,1995 Fall Tour,1995 Fall,Sparkle,,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
 1995-12-04,1995,0,14,1,2,0,0,4,1995 Fall Tour,1995 Fall,Ya Mar,,0,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
 1995-12-04,1995,0,15,1,2,0,0,3,1995 Fall Tour,1995 Fall,Run Like an Antelope,Antelope,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
 1995-12-04,1995,0,16,1,2,0,0,6,1995 Fall Tour,1995 Fall,Billy Breathes,,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
 1995-12-04,1995,0,17,1,2,0,0,3,1995 Fall Tour,1995 Fall,Cars Trucks Buses,CTB,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
-1995-12-04,1995,0,18,1,2,0,0,4,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+1995-12-04,1995,0,18,1,2,0,0,3,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
 1995-12-04,1995,0,19,2,2,0,0,3,1995 Fall Tour,1995 Fall,Sample in a Jar,Sample,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
 1995-12-04,1995,0,20,5,2,0,0,8,1995 Fall Tour,1995 Fall,Frankenstein,,0,"Mullins Center, University of Massachusetts",Amherst,MA,USA,
-1995-12-04,1995,0,21,1,e,0,0,1,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+1995-12-04,1995,0,21,1,e,0,0,0,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
 1995-12-04,1995,0,22,6,e,0,0,7,1995 Fall Tour,1995 Fall,Rocky Top,,0,"Mullins Center, University of Massachusetts",Amherst,MA,USA,
 1995-12-05,1995,0,1,2,1,0,0,13,1995 Fall Tour,1995 Fall,Horn,,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
 1995-12-05,1995,0,2,1,1,0,0,3,1995 Fall Tour,1995 Fall,Chalk Dust Torture,CDT,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
@@ -1392,24 +1392,24 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-12-05,1995,0,12,2,2,0,0,4,1995 Fall Tour,1995 Fall,Scent of a Mule,SOAMule,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
 1995-12-05,1995,0,13,2,2,0,0,13,1995 Fall Tour,1995 Fall,Jam,,0,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
 1995-12-05,1995,0,14,1,2,0,0,13,1995 Fall Tour,1995 Fall,Lifeboy,,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
-1995-12-05,1995,0,15,1,2,0,0,4,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
-1995-12-05,1995,0,16,5,2,0,0,3,1995 Fall Tour,1995 Fall,Cavern,,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,
-1995-12-05,1995,0,17,1,e,0,0,3,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+1995-12-05,1995,0,15,1,2,0,0,3,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+1995-12-05,1995,0,16,5,2,0,0,2,1995 Fall Tour,1995 Fall,Cavern,,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,
+1995-12-05,1995,0,17,1,e,0,0,2,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
 1995-12-05,1995,0,18,6,e,0,0,9,1995 Fall Tour,1995 Fall,Sweet Adeline,,0,"Mullins Center, University of Massachusetts",Amherst,MA,USA,
 1995-12-07,1995,0,1,2,1,0,0,19,1995 Fall Tour,1995 Fall,The Old Home Place,,0,Niagara Falls Convention Center,Niagara Falls,NY,USA,>
 1995-12-07,1995,0,2,2,1,0,0,5,1995 Fall Tour,1995 Fall,The Curtain,Curtain,1,Niagara Falls Convention Center,Niagara Falls,NY,USA,>
-1995-12-07,1995,0,3,1,1,0,0,6,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,Niagara Falls Convention Center,Niagara Falls,NY,USA,","
+1995-12-07,1995,0,3,1,1,0,0,5,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,Niagara Falls Convention Center,Niagara Falls,NY,USA,","
 1995-12-07,1995,0,4,2,1,0,0,26,1995 Fall Tour,1995 Fall,Demand,,1,Niagara Falls Convention Center,Niagara Falls,NY,USA,>
 1995-12-07,1995,0,5,1,1,0,0,5,1995 Fall Tour,1995 Fall,Rift,,1,Niagara Falls Convention Center,Niagara Falls,NY,USA,","
 1995-12-07,1995,0,6,1,1,0,0,6,1995 Fall Tour,1995 Fall,Slave to the Traffic Light,Slave,1,Niagara Falls Convention Center,Niagara Falls,NY,USA,","
 1995-12-07,1995,0,7,1,1,0,0,7,1995 Fall Tour,1995 Fall,Guyute,,1,Niagara Falls Convention Center,Niagara Falls,NY,USA,","
-1995-12-07,1995,0,8,1,1,0,0,2,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,Niagara Falls Convention Center,Niagara Falls,NY,USA,","
-1995-12-07,1995,0,9,1,1,0,0,3,1995 Fall Tour,1995 Fall,Possum,,1,Niagara Falls Convention Center,Niagara Falls,NY,USA,","
+1995-12-07,1995,0,8,1,1,0,0,1,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,Niagara Falls Convention Center,Niagara Falls,NY,USA,","
+1995-12-07,1995,0,9,1,1,0,0,2,1995 Fall Tour,1995 Fall,Possum,,1,Niagara Falls Convention Center,Niagara Falls,NY,USA,","
 1995-12-07,1995,0,10,4,1,0,0,2,1995 Fall Tour,1995 Fall,Hello My Baby,,0,Niagara Falls Convention Center,Niagara Falls,NY,USA,
 1995-12-07,1995,0,11,1,2,0,0,6,1995 Fall Tour,1995 Fall,Split Open and Melt,SOAMelt,1,Niagara Falls Convention Center,Niagara Falls,NY,USA,","
 1995-12-07,1995,0,12,2,2,0,0,5,1995 Fall Tour,1995 Fall,Strange Design,,1,Niagara Falls Convention Center,Niagara Falls,NY,USA,>
 1995-12-07,1995,0,13,1,2,0,0,1,1995 Fall Tour,1995 Fall,Taste That Surrounds,,1,Niagara Falls Convention Center,Niagara Falls,NY,USA,","
-1995-12-07,1995,0,14,1,2,0,0,3,1995 Fall Tour,1995 Fall,Reba,,1,Niagara Falls Convention Center,Niagara Falls,NY,USA,","
+1995-12-07,1995,0,14,1,2,0,0,2,1995 Fall Tour,1995 Fall,Reba,,1,Niagara Falls Convention Center,Niagara Falls,NY,USA,","
 1995-12-07,1995,0,15,1,2,0,0,2,1995 Fall Tour,1995 Fall,Julius,,1,Niagara Falls Convention Center,Niagara Falls,NY,USA,","
 1995-12-07,1995,0,16,2,2,0,0,18,1995 Fall Tour,1995 Fall,Sleeping Monkey,,1,Niagara Falls Convention Center,Niagara Falls,NY,USA,>
 1995-12-07,1995,0,17,2,2,0,0,2,1995 Fall Tour,1995 Fall,Sparkle,,1,Niagara Falls Convention Center,Niagara Falls,NY,USA,>
@@ -1425,56 +1425,56 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-12-08,1995,0,5,1,1,0,0,11,1995 Fall Tour,1995 Fall,Fluffhead,,1,CSU Convocation Center,Cleveland,OH,USA,","
 1995-12-08,1995,0,6,1,1,0,0,7,1995 Fall Tour,1995 Fall,It's Ice,,1,CSU Convocation Center,Cleveland,OH,USA,","
 1995-12-08,1995,0,7,1,1,0,0,7,1995 Fall Tour,1995 Fall,Acoustic Army,,1,CSU Convocation Center,Cleveland,OH,USA,","
-1995-12-08,1995,0,8,1,1,0,0,4,1995 Fall Tour,1995 Fall,Prince Caspian,Caspian,1,CSU Convocation Center,Cleveland,OH,USA,","
+1995-12-08,1995,0,8,1,1,0,0,3,1995 Fall Tour,1995 Fall,Prince Caspian,Caspian,1,CSU Convocation Center,Cleveland,OH,USA,","
 1995-12-08,1995,0,9,4,1,0,0,12,1995 Fall Tour,1995 Fall,Good Times Bad Times,GTBT,0,CSU Convocation Center,Cleveland,OH,USA,
 1995-12-08,1995,0,10,2,2,0,0,4,1995 Fall Tour,1995 Fall,Also Sprach Zarathustra,2001,0,CSU Convocation Center,Cleveland,OH,USA,>
-1995-12-08,1995,0,11,3,2,0,0,4,1995 Fall Tour,1995 Fall,Tweezer,,1,CSU Convocation Center,Cleveland,OH,USA,->
+1995-12-08,1995,0,11,3,2,0,0,0,1995 Fall Tour,1995 Fall,Tweezer,,1,CSU Convocation Center,Cleveland,OH,USA,->
 1995-12-08,1995,0,12,3,2,0,0,9,1995 Fall Tour,1995 Fall,Kung,,1,CSU Convocation Center,Cleveland,OH,USA,->
-1995-12-08,1995,0,13,1,2,0,0,0,1995 Fall Tour,1995 Fall,Tweezer,,1,CSU Convocation Center,Cleveland,OH,USA,","
+1995-12-08,1995,0,13,1,2,0,0,3,1995 Fall Tour,1995 Fall,Tweezer,,1,CSU Convocation Center,Cleveland,OH,USA,","
 1995-12-08,1995,0,14,2,2,0,0,73,1995 Fall Tour,1995 Fall,Love You,,0,CSU Convocation Center,Cleveland,OH,USA,>
 1995-12-08,1995,0,15,1,2,0,0,5,1995 Fall Tour,1995 Fall,Hold Your Head Up,HYHU,0,CSU Convocation Center,Cleveland,OH,USA,","
 1995-12-08,1995,0,16,1,2,0,0,4,1995 Fall Tour,1995 Fall,The Squirming Coil,Coil,1,CSU Convocation Center,Cleveland,OH,USA,","
-1995-12-08,1995,0,17,2,2,0,0,4,1995 Fall Tour,1995 Fall,Tweezer Reprise,Tweeprise,1,CSU Convocation Center,Cleveland,OH,USA,>
+1995-12-08,1995,0,17,2,2,0,0,3,1995 Fall Tour,1995 Fall,Tweezer Reprise,Tweeprise,1,CSU Convocation Center,Cleveland,OH,USA,>
 1995-12-08,1995,0,18,5,2,0,0,3,1995 Fall Tour,1995 Fall,Run Like an Antelope,Antelope,1,CSU Convocation Center,Cleveland,OH,USA,
 1995-12-08,1995,0,19,2,e,0,0,1020,1995 Fall Tour,1995 Fall,Come Together,,0,CSU Convocation Center,Cleveland,OH,USA,>
 1995-12-08,1995,0,20,6,e,0,0,4,1995 Fall Tour,1995 Fall,A Day in the Life,ADITL,0,CSU Convocation Center,Cleveland,OH,USA,
 1995-12-09,1995,0,1,1,1,0,0,5,1995 Fall Tour,1995 Fall,Maze,,1,Knickerbocker Arena,Albany,NY,USA,","
-1995-12-09,1995,0,2,2,1,0,0,3,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,Knickerbocker Arena,Albany,NY,USA,>
+1995-12-09,1995,0,2,2,1,0,0,2,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,Knickerbocker Arena,Albany,NY,USA,>
 1995-12-09,1995,0,3,2,1,0,0,7,1995 Fall Tour,1995 Fall,NICU,,1,Knickerbocker Arena,Albany,NY,USA,>
 1995-12-09,1995,0,4,2,1,0,0,29,1995 Fall Tour,1995 Fall,The Sloth,Sloth,1,Knickerbocker Arena,Albany,NY,USA,>
 1995-12-09,1995,0,5,1,1,0,0,2,1995 Fall Tour,1995 Fall,Rift,,1,Knickerbocker Arena,Albany,NY,USA,","
-1995-12-09,1995,0,6,1,1,0,0,2,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,Knickerbocker Arena,Albany,NY,USA,","
+1995-12-09,1995,0,6,1,1,0,0,1,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,Knickerbocker Arena,Albany,NY,USA,","
 1995-12-09,1995,0,7,1,1,0,0,3,1995 Fall Tour,1995 Fall,Free,,1,Knickerbocker Arena,Albany,NY,USA,","
 1995-12-09,1995,0,8,1,1,0,0,4,1995 Fall Tour,1995 Fall,Billy Breathes,,1,Knickerbocker Arena,Albany,NY,USA,","
 1995-12-09,1995,0,9,1,1,0,0,13,1995 Fall Tour,1995 Fall,Dog Faced Boy,,1,Knickerbocker Arena,Albany,NY,USA,","
 1995-12-09,1995,0,10,4,1,0,0,3,1995 Fall Tour,1995 Fall,Chalk Dust Torture,CDT,1,Knickerbocker Arena,Albany,NY,USA,
-1995-12-09,1995,0,11,1,2,0,0,4,1995 Fall Tour,1995 Fall,Timber (Jerry the Mule),Timber Ho,0,Knickerbocker Arena,Albany,NY,USA,","
+1995-12-09,1995,0,11,1,2,0,0,3,1995 Fall Tour,1995 Fall,Timber (Jerry the Mule),Timber Ho,0,Knickerbocker Arena,Albany,NY,USA,","
 1995-12-09,1995,0,12,2,2,0,0,6,1995 Fall Tour,1995 Fall,Wilson,,1,Knickerbocker Arena,Albany,NY,USA,>
 1995-12-09,1995,0,13,1,2,0,0,4,1995 Fall Tour,1995 Fall,Gumbo,,1,Knickerbocker Arena,Albany,NY,USA,","
-1995-12-09,1995,0,14,1,2,0,0,4,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,Knickerbocker Arena,Albany,NY,USA,","
+1995-12-09,1995,0,14,1,2,0,0,3,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,Knickerbocker Arena,Albany,NY,USA,","
 1995-12-09,1995,0,15,1,2,0,0,15,1995 Fall Tour,1995 Fall,Lawn Boy,,1,Knickerbocker Arena,Albany,NY,USA,","
 1995-12-09,1995,0,16,2,2,0,0,2,1995 Fall Tour,1995 Fall,Slave to the Traffic Light,Slave,1,Knickerbocker Arena,Albany,NY,USA,>
 1995-12-09,1995,0,17,1,2,0,0,21,1995 Fall Tour,1995 Fall,Crossroads,,0,Knickerbocker Arena,Albany,NY,USA,","
 1995-12-09,1995,0,18,5,2,0,0,3,1995 Fall Tour,1995 Fall,Sweet Adeline,,0,Knickerbocker Arena,Albany,NY,USA,
-1995-12-09,1995,0,19,6,e,0,0,22,1995 Fall Tour,1995 Fall,Loving Cup,,0,Knickerbocker Arena,Albany,NY,USA,
-1995-12-11,1995,0,1,2,1,0,0,14,1995 Fall Tour,1995 Fall,"My Friend, My Friend",My Friend,1,Cumberland County Civic Center,Portland,ME,USA,>
+1995-12-09,1995,0,19,6,e,0,0,21,1995 Fall Tour,1995 Fall,Loving Cup,,0,Knickerbocker Arena,Albany,NY,USA,
+1995-12-11,1995,0,1,2,1,0,0,13,1995 Fall Tour,1995 Fall,"My Friend, My Friend",My Friend,1,Cumberland County Civic Center,Portland,ME,USA,>
 1995-12-11,1995,0,2,1,1,0,0,8,1995 Fall Tour,1995 Fall,Ha Ha Ha,,1,Cumberland County Civic Center,Portland,ME,USA,","
 1995-12-11,1995,0,3,1,1,0,0,5,1995 Fall Tour,1995 Fall,Stash,,1,Cumberland County Civic Center,Portland,ME,USA,","
-1995-12-11,1995,0,4,1,1,0,0,2,1995 Fall Tour,1995 Fall,Prince Caspian,Caspian,1,Cumberland County Civic Center,Portland,ME,USA,","
-1995-12-11,1995,0,5,1,1,0,0,3,1995 Fall Tour,1995 Fall,Reba,,1,Cumberland County Civic Center,Portland,ME,USA,","
+1995-12-11,1995,0,4,1,1,0,0,1,1995 Fall Tour,1995 Fall,Prince Caspian,Caspian,1,Cumberland County Civic Center,Portland,ME,USA,","
+1995-12-11,1995,0,5,1,1,0,0,2,1995 Fall Tour,1995 Fall,Reba,,1,Cumberland County Civic Center,Portland,ME,USA,","
 1995-12-11,1995,0,6,1,1,0,0,219,1995 Fall Tour,1995 Fall,Dog Log,,1,Cumberland County Civic Center,Portland,ME,USA,","
 1995-12-11,1995,0,7,1,1,0,0,13,1995 Fall Tour,1995 Fall,Llama,,1,Cumberland County Civic Center,Portland,ME,USA,","
 1995-12-11,1995,0,8,1,1,0,0,0,1995 Fall Tour,1995 Fall,Dog Log,,1,Cumberland County Civic Center,Portland,ME,USA,","
-1995-12-11,1995,0,9,1,1,0,0,37,1995 Fall Tour,1995 Fall,Tube,,1,Cumberland County Civic Center,Portland,ME,USA,","
+1995-12-11,1995,0,9,1,1,0,0,36,1995 Fall Tour,1995 Fall,Tube,,1,Cumberland County Civic Center,Portland,ME,USA,","
 1995-12-11,1995,0,10,1,1,0,0,27,1995 Fall Tour,1995 Fall,McGrupp and the Watchful Hosemasters,McGrupp,1,Cumberland County Civic Center,Portland,ME,USA,","
 1995-12-11,1995,0,11,2,1,0,0,3,1995 Fall Tour,1995 Fall,Julius,,1,Cumberland County Civic Center,Portland,ME,USA,>
-1995-12-11,1995,0,12,4,1,0,0,4,1995 Fall Tour,1995 Fall,Cavern,,1,Cumberland County Civic Center,Portland,ME,USA,
+1995-12-11,1995,0,12,4,1,0,0,3,1995 Fall Tour,1995 Fall,Cavern,,1,Cumberland County Civic Center,Portland,ME,USA,
 1995-12-11,1995,0,13,2,2,0,0,3,1995 Fall Tour,1995 Fall,The Curtain,Curtain,1,Cumberland County Civic Center,Portland,ME,USA,>
 1995-12-11,1995,0,14,1,2,0,0,4,1995 Fall Tour,1995 Fall,David Bowie,Bowie,1,Cumberland County Civic Center,Portland,ME,USA,","
 1995-12-11,1995,0,15,2,2,0,0,7,1995 Fall Tour,1995 Fall,The Mango Song,Mango,1,Cumberland County Civic Center,Portland,ME,USA,>
 1995-12-11,1995,0,16,1,2,0,0,3,1995 Fall Tour,1995 Fall,Taste That Surrounds,,1,Cumberland County Civic Center,Portland,ME,USA,","
 1995-12-11,1995,0,17,1,2,0,0,4,1995 Fall Tour,1995 Fall,Scent of a Mule,SOAMule,1,Cumberland County Civic Center,Portland,ME,USA,","
-1995-12-11,1995,0,18,1,2,0,0,4,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,Cumberland County Civic Center,Portland,ME,USA,","
+1995-12-11,1995,0,18,1,2,0,0,3,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,Cumberland County Civic Center,Portland,ME,USA,","
 1995-12-11,1995,0,19,2,2,0,0,7,1995 Fall Tour,1995 Fall,Suspicious Minds,,0,Cumberland County Civic Center,Portland,ME,USA,>
 1995-12-11,1995,0,20,1,2,0,0,2,1995 Fall Tour,1995 Fall,Hold Your Head Up,HYHU,0,Cumberland County Civic Center,Portland,ME,USA,","
 1995-12-11,1995,0,21,5,2,0,0,10,1995 Fall Tour,1995 Fall,Funky Bitch,,0,Cumberland County Civic Center,Portland,ME,USA,
@@ -1483,7 +1483,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-12-12,1995,0,2,2,1,0,0,3,1995 Fall Tour,1995 Fall,Sample in a Jar,Sample,1,Providence Civic Center,Providence,RI,USA,>
 1995-12-12,1995,0,3,1,1,0,0,6,1995 Fall Tour,1995 Fall,Divided Sky,Divided,1,Providence Civic Center,Providence,RI,USA,","
 1995-12-12,1995,0,4,1,1,0,0,5,1995 Fall Tour,1995 Fall,Lifeboy,,1,Providence Civic Center,Providence,RI,USA,","
-1995-12-12,1995,0,5,1,1,0,0,6,1995 Fall Tour,1995 Fall,Punch You in the Eye,PYITE,1,Providence Civic Center,Providence,RI,USA,","
+1995-12-12,1995,0,5,1,1,0,0,5,1995 Fall Tour,1995 Fall,Punch You in the Eye,PYITE,1,Providence Civic Center,Providence,RI,USA,","
 1995-12-12,1995,0,6,2,1,0,0,6,1995 Fall Tour,1995 Fall,The Horse,Horse,1,Providence Civic Center,Providence,RI,USA,>
 1995-12-12,1995,0,7,1,1,0,0,6,1995 Fall Tour,1995 Fall,Silent in the Morning,Silent,1,Providence Civic Center,Providence,RI,USA,","
 1995-12-12,1995,0,8,1,1,0,0,3,1995 Fall Tour,1995 Fall,Run Like an Antelope,Antelope,1,Providence Civic Center,Providence,RI,USA,","
@@ -1491,7 +1491,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-12-12,1995,0,10,4,1,0,0,3,1995 Fall Tour,1995 Fall,The Squirming Coil,Coil,1,Providence Civic Center,Providence,RI,USA,
 1995-12-12,1995,0,11,1,2,0,0,2,1995 Fall Tour,1995 Fall,Free,,1,Providence Civic Center,Providence,RI,USA,","
 1995-12-12,1995,0,12,2,2,0,0,4,1995 Fall Tour,1995 Fall,Sparkle,,1,Providence Civic Center,Providence,RI,USA,>
-1995-12-12,1995,0,13,3,2,0,0,8,1995 Fall Tour,1995 Fall,Down with Disease,DwD,1,Providence Civic Center,Providence,RI,USA,->
+1995-12-12,1995,0,13,3,2,0,0,7,1995 Fall Tour,1995 Fall,Down with Disease,DwD,1,Providence Civic Center,Providence,RI,USA,->
 1995-12-12,1995,0,14,2,2,0,0,5,1995 Fall Tour,1995 Fall,The Lizards,Lizards,1,Providence Civic Center,Providence,RI,USA,>
 1995-12-12,1995,0,15,1,2,0,0,3,1995 Fall Tour,1995 Fall,Simple,,1,Providence Civic Center,Providence,RI,USA,","
 1995-12-12,1995,0,16,5,2,0,0,3,1995 Fall Tour,1995 Fall,Runaway Jim,,1,Providence Civic Center,Providence,RI,USA,
@@ -1507,26 +1507,26 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-12-14,1995,0,9,1,1,0,0,8,1995 Fall Tour,1995 Fall,My Sweet One,MSO,1,Broome County Veterans Memorial Arena,Binghamton,NY,USA,","
 1995-12-14,1995,0,10,4,1,0,0,7,1995 Fall Tour,1995 Fall,Frankenstein,,0,Broome County Veterans Memorial Arena,Binghamton,NY,USA,
 1995-12-14,1995,0,11,2,2,0,0,2,1995 Fall Tour,1995 Fall,The Curtain,Curtain,1,Broome County Veterans Memorial Arena,Binghamton,NY,USA,>
-1995-12-14,1995,0,12,3,2,0,0,4,1995 Fall Tour,1995 Fall,Tweezer,,1,Broome County Veterans Memorial Arena,Binghamton,NY,USA,->
-1995-12-14,1995,0,13,3,2,0,0,3,1995 Fall Tour,1995 Fall,Timber (Jerry the Mule),Timber Ho,0,Broome County Veterans Memorial Arena,Binghamton,NY,USA,->
-1995-12-14,1995,0,14,3,2,0,0,0,1995 Fall Tour,1995 Fall,Tweezer,,1,Broome County Veterans Memorial Arena,Binghamton,NY,USA,->
+1995-12-14,1995,0,12,3,2,0,0,0,1995 Fall Tour,1995 Fall,Tweezer,,1,Broome County Veterans Memorial Arena,Binghamton,NY,USA,->
+1995-12-14,1995,0,13,3,2,0,0,2,1995 Fall Tour,1995 Fall,Timber (Jerry the Mule),Timber Ho,0,Broome County Veterans Memorial Arena,Binghamton,NY,USA,->
+1995-12-14,1995,0,14,3,2,0,0,3,1995 Fall Tour,1995 Fall,Tweezer,,1,Broome County Veterans Memorial Arena,Binghamton,NY,USA,->
 1995-12-14,1995,0,15,1,2,0,0,6,1995 Fall Tour,1995 Fall,Keyboard Army,,1,Broome County Veterans Memorial Arena,Binghamton,NY,USA,","
 1995-12-14,1995,0,16,3,2,0,0,9,1995 Fall Tour,1995 Fall,Halley's Comet,Halley's,1,Broome County Veterans Memorial Arena,Binghamton,NY,USA,->
 1995-12-14,1995,0,17,3,2,0,0,3,1995 Fall Tour,1995 Fall,NICU,,1,Broome County Veterans Memorial Arena,Binghamton,NY,USA,->
 1995-12-14,1995,0,18,5,2,0,0,3,1995 Fall Tour,1995 Fall,Slave to the Traffic Light,Slave,1,Broome County Veterans Memorial Arena,Binghamton,NY,USA,
 1995-12-14,1995,0,19,6,e,0,0,8,1995 Fall Tour,1995 Fall,Bold As Love,,0,Broome County Veterans Memorial Arena,Binghamton,NY,USA,
 1995-12-15,1995,0,1,2,1,0,0,4,1995 Fall Tour,1995 Fall,Chalk Dust Torture,CDT,1,CoreStates Spectrum,Philadelphia,PA,USA,>
-1995-12-15,1995,0,2,2,1,0,0,3,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,CoreStates Spectrum,Philadelphia,PA,USA,>
+1995-12-15,1995,0,2,2,1,0,0,2,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,CoreStates Spectrum,Philadelphia,PA,USA,>
 1995-12-15,1995,0,3,2,1,0,0,4,1995 Fall Tour,1995 Fall,Wilson,,1,CoreStates Spectrum,Philadelphia,PA,USA,>
 1995-12-15,1995,0,4,2,1,0,0,4,1995 Fall Tour,1995 Fall,Maze,,1,CoreStates Spectrum,Philadelphia,PA,USA,>
 1995-12-15,1995,0,5,2,1,0,0,3,1995 Fall Tour,1995 Fall,Ha Ha Ha,,1,CoreStates Spectrum,Philadelphia,PA,USA,>
 1995-12-15,1995,0,6,2,1,0,0,3,1995 Fall Tour,1995 Fall,Suspicious Minds,,0,CoreStates Spectrum,Philadelphia,PA,USA,>
 1995-12-15,1995,0,7,2,1,0,0,3,1995 Fall Tour,1995 Fall,Hold Your Head Up,HYHU,0,CoreStates Spectrum,Philadelphia,PA,USA,>
 1995-12-15,1995,0,8,1,1,0,0,8,1995 Fall Tour,1995 Fall,Cars Trucks Buses,CTB,1,CoreStates Spectrum,Philadelphia,PA,USA,","
-1995-12-15,1995,0,9,1,1,0,0,4,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,CoreStates Spectrum,Philadelphia,PA,USA,","
+1995-12-15,1995,0,9,1,1,0,0,3,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,CoreStates Spectrum,Philadelphia,PA,USA,","
 1995-12-15,1995,0,10,2,1,0,0,2,1995 Fall Tour,1995 Fall,Free,,1,CoreStates Spectrum,Philadelphia,PA,USA,>
-1995-12-15,1995,0,11,4,1,0,0,6,1995 Fall Tour,1995 Fall,Possum,,1,CoreStates Spectrum,Philadelphia,PA,USA,
-1995-12-15,1995,0,12,2,2,0,0,5,1995 Fall Tour,1995 Fall,Tweezer Reprise,Tweeprise,1,CoreStates Spectrum,Philadelphia,PA,USA,>
+1995-12-15,1995,0,11,4,1,0,0,5,1995 Fall Tour,1995 Fall,Possum,,1,CoreStates Spectrum,Philadelphia,PA,USA,
+1995-12-15,1995,0,12,2,2,0,0,4,1995 Fall Tour,1995 Fall,Tweezer Reprise,Tweeprise,1,CoreStates Spectrum,Philadelphia,PA,USA,>
 1995-12-15,1995,0,13,2,2,0,0,2,1995 Fall Tour,1995 Fall,Runaway Jim,,1,CoreStates Spectrum,Philadelphia,PA,USA,>
 1995-12-15,1995,0,14,2,2,0,0,5,1995 Fall Tour,1995 Fall,It's Ice,,1,CoreStates Spectrum,Philadelphia,PA,USA,>
 1995-12-15,1995,0,15,3,2,0,0,7,1995 Fall Tour,1995 Fall,Bathtub Gin,Gin,1,CoreStates Spectrum,Philadelphia,PA,USA,->
@@ -1538,7 +1538,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-12-15,1995,0,21,3,e,0,0,5,1995 Fall Tour,1995 Fall,Good Times Bad Times,GTBT,0,CoreStates Spectrum,Philadelphia,PA,USA,->
 1995-12-15,1995,0,22,6,e,0,0,0,1995 Fall Tour,1995 Fall,Tweezer Reprise,Tweeprise,1,CoreStates Spectrum,Philadelphia,PA,USA,
 1995-12-16,1995,0,1,1,1,0,0,11,1995 Fall Tour,1995 Fall,Buried Alive,,1,Olympic Center,Lake Placid,NY,USA,","
-1995-12-16,1995,0,2,2,1,0,0,7,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,Olympic Center,Lake Placid,NY,USA,>
+1995-12-16,1995,0,2,2,1,0,0,6,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,Olympic Center,Lake Placid,NY,USA,>
 1995-12-16,1995,0,3,1,1,0,0,2,1995 Fall Tour,1995 Fall,Taste That Surrounds,,1,Olympic Center,Lake Placid,NY,USA,","
 1995-12-16,1995,0,4,1,1,0,0,3,1995 Fall Tour,1995 Fall,Ya Mar,,0,Olympic Center,Lake Placid,NY,USA,","
 1995-12-16,1995,0,5,1,1,0,0,5,1995 Fall Tour,1995 Fall,The Sloth,Sloth,1,Olympic Center,Lake Placid,NY,USA,","
@@ -1547,31 +1547,31 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-12-16,1995,0,8,2,1,0,0,4,1995 Fall Tour,1995 Fall,Julius,,1,Olympic Center,Lake Placid,NY,USA,>
 1995-12-16,1995,0,9,4,1,0,0,2,1995 Fall Tour,1995 Fall,Suzy Greenberg,Suzy,1,Olympic Center,Lake Placid,NY,USA,
 1995-12-16,1995,0,10,1,2,0,0,3,1995 Fall Tour,1995 Fall,Sample in a Jar,Sample,1,Olympic Center,Lake Placid,NY,USA,","
-1995-12-16,1995,0,11,1,2,0,0,4,1995 Fall Tour,1995 Fall,Reba,,1,Olympic Center,Lake Placid,NY,USA,","
+1995-12-16,1995,0,11,1,2,0,0,3,1995 Fall Tour,1995 Fall,Reba,,1,Olympic Center,Lake Placid,NY,USA,","
 1995-12-16,1995,0,12,1,2,0,0,4,1995 Fall Tour,1995 Fall,Scent of a Mule,SOAMule,1,Olympic Center,Lake Placid,NY,USA,","
-1995-12-16,1995,0,13,2,2,0,0,4,1995 Fall Tour,1995 Fall,Cavern,,1,Olympic Center,Lake Placid,NY,USA,>
+1995-12-16,1995,0,13,2,2,0,0,3,1995 Fall Tour,1995 Fall,Cavern,,1,Olympic Center,Lake Placid,NY,USA,>
 1995-12-16,1995,0,14,2,2,0,0,7,1995 Fall Tour,1995 Fall,Mike's Song,Mike's,1,Olympic Center,Lake Placid,NY,USA,>
 1995-12-16,1995,0,15,3,2,0,0,3,1995 Fall Tour,1995 Fall,Simple,,1,Olympic Center,Lake Placid,NY,USA,->
 1995-12-16,1995,0,16,2,2,0,0,7,1995 Fall Tour,1995 Fall,Weekapaug Groove,Weekapaug,1,Olympic Center,Lake Placid,NY,USA,>
 1995-12-16,1995,0,17,5,2,0,0,3,1995 Fall Tour,1995 Fall,The Squirming Coil,Coil,1,Olympic Center,Lake Placid,NY,USA,
 1995-12-16,1995,0,18,6,e,0,0,3,1995 Fall Tour,1995 Fall,Fire,,0,Olympic Center,Lake Placid,NY,USA,
-1995-12-17,1995,0,1,2,1,0,0,5,1995 Fall Tour,1995 Fall,"My Friend, My Friend",My Friend,1,Olympic Center,Lake Placid,NY,USA,>
+1995-12-17,1995,0,1,2,1,0,0,4,1995 Fall Tour,1995 Fall,"My Friend, My Friend",My Friend,1,Olympic Center,Lake Placid,NY,USA,>
 1995-12-17,1995,0,2,2,1,0,0,7,1995 Fall Tour,1995 Fall,Poor Heart,,1,Olympic Center,Lake Placid,NY,USA,>
 1995-12-17,1995,0,3,2,1,0,0,7,1995 Fall Tour,1995 Fall,A Day in the Life,ADITL,0,Olympic Center,Lake Placid,NY,USA,>
 1995-12-17,1995,0,4,1,1,0,0,4,1995 Fall Tour,1995 Fall,Run Like an Antelope,Antelope,1,Olympic Center,Lake Placid,NY,USA,","
 1995-12-17,1995,0,5,2,1,0,0,5,1995 Fall Tour,1995 Fall,The Mango Song,Mango,1,Olympic Center,Lake Placid,NY,USA,>
-1995-12-17,1995,0,6,2,1,0,0,5,1995 Fall Tour,1995 Fall,Tube,,1,Olympic Center,Lake Placid,NY,USA,>
+1995-12-17,1995,0,6,2,1,0,0,4,1995 Fall Tour,1995 Fall,Tube,,1,Olympic Center,Lake Placid,NY,USA,>
 1995-12-17,1995,0,7,1,1,0,0,5,1995 Fall Tour,1995 Fall,Stash,,1,Olympic Center,Lake Placid,NY,USA,","
 1995-12-17,1995,0,8,1,1,0,0,4,1995 Fall Tour,1995 Fall,The Lizards,Lizards,1,Olympic Center,Lake Placid,NY,USA,","
 1995-12-17,1995,0,9,4,1,0,0,2,1995 Fall Tour,1995 Fall,Chalk Dust Torture,CDT,1,Olympic Center,Lake Placid,NY,USA,
-1995-12-17,1995,0,10,2,2,0,0,2,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,Olympic Center,Lake Placid,NY,USA,>
+1995-12-17,1995,0,10,2,2,0,0,1,1995 Fall Tour,1995 Fall,Bouncing Around the Room,Bouncin',1,Olympic Center,Lake Placid,NY,USA,>
 1995-12-17,1995,0,11,1,2,0,0,2,1995 Fall Tour,1995 Fall,Maze,,1,Olympic Center,Lake Placid,NY,USA,","
 1995-12-17,1995,0,12,2,2,0,0,2,1995 Fall Tour,1995 Fall,Free,,1,Olympic Center,Lake Placid,NY,USA,>
 1995-12-17,1995,0,13,2,2,0,0,2,1995 Fall Tour,1995 Fall,Also Sprach Zarathustra,2001,0,Olympic Center,Lake Placid,NY,USA,>
-1995-12-17,1995,0,14,2,2,0,0,2,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,Olympic Center,Lake Placid,NY,USA,>
+1995-12-17,1995,0,14,2,2,0,0,1,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,Olympic Center,Lake Placid,NY,USA,>
 1995-12-17,1995,0,15,2,2,0,0,4,1995 Fall Tour,1995 Fall,Sparkle,,1,Olympic Center,Lake Placid,NY,USA,>
-1995-12-17,1995,0,16,3,2,0,0,3,1995 Fall Tour,1995 Fall,Tweezer,,1,Olympic Center,Lake Placid,NY,USA,->
-1995-12-17,1995,0,17,5,2,0,0,2,1995 Fall Tour,1995 Fall,Tweezer Reprise,Tweeprise,1,Olympic Center,Lake Placid,NY,USA,
+1995-12-17,1995,0,16,3,2,0,0,2,1995 Fall Tour,1995 Fall,Tweezer,,1,Olympic Center,Lake Placid,NY,USA,->
+1995-12-17,1995,0,17,5,2,0,0,1,1995 Fall Tour,1995 Fall,Tweezer Reprise,Tweeprise,1,Olympic Center,Lake Placid,NY,USA,
 1995-12-17,1995,0,18,1,e,0,0,8,1995 Fall Tour,1995 Fall,Hello My Baby,,0,Olympic Center,Lake Placid,NY,USA,","
 1995-12-17,1995,0,19,6,e,0,0,2,1995 Fall Tour,1995 Fall,Runaway Jim,,1,Olympic Center,Lake Placid,NY,USA,
 1995-12-28,1995,0,1,1,1,0,0,4,1995 NYE Run,1995 NYE,Split Open and Melt,SOAMelt,1,Worcester Centrum Centre,Worcester,MA,USA,","
@@ -1582,20 +1582,20 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-12-28,1995,0,6,2,1,0,0,4,1995 NYE Run,1995 NYE,Horn,,1,Worcester Centrum Centre,Worcester,MA,USA,>
 1995-12-28,1995,0,7,2,1,0,0,7,1995 NYE Run,1995 NYE,Rift,,1,Worcester Centrum Centre,Worcester,MA,USA,>
 1995-12-28,1995,0,8,1,1,0,0,14,1995 NYE Run,1995 NYE,Fast Enough for You,FEFY,1,Worcester Centrum Centre,Worcester,MA,USA,","
-1995-12-28,1995,0,9,4,1,0,0,3,1995 NYE Run,1995 NYE,Possum,,1,Worcester Centrum Centre,Worcester,MA,USA,
-1995-12-28,1995,0,10,2,2,0,0,4,1995 NYE Run,1995 NYE,Timber (Jerry the Mule),Timber Ho,0,Worcester Centrum Centre,Worcester,MA,USA,>
-1995-12-28,1995,0,11,2,2,0,0,7,1995 NYE Run,1995 NYE,Theme from the Bottom,Theme,1,Worcester Centrum Centre,Worcester,MA,USA,>
+1995-12-28,1995,0,9,4,1,0,0,2,1995 NYE Run,1995 NYE,Possum,,1,Worcester Centrum Centre,Worcester,MA,USA,
+1995-12-28,1995,0,10,2,2,0,0,3,1995 NYE Run,1995 NYE,Timber (Jerry the Mule),Timber Ho,0,Worcester Centrum Centre,Worcester,MA,USA,>
+1995-12-28,1995,0,11,2,2,0,0,6,1995 NYE Run,1995 NYE,Theme from the Bottom,Theme,1,Worcester Centrum Centre,Worcester,MA,USA,>
 1995-12-28,1995,0,12,2,2,0,0,3,1995 NYE Run,1995 NYE,Wilson,,1,Worcester Centrum Centre,Worcester,MA,USA,>
 1995-12-28,1995,0,13,2,2,0,0,2,1995 NYE Run,1995 NYE,Buried Alive,,1,Worcester Centrum Centre,Worcester,MA,USA,>
-1995-12-28,1995,0,14,3,2,0,0,1,1995 NYE Run,1995 NYE,Tweezer,,1,Worcester Centrum Centre,Worcester,MA,USA,->
+1995-12-28,1995,0,14,3,2,0,0,0,1995 NYE Run,1995 NYE,Tweezer,,1,Worcester Centrum Centre,Worcester,MA,USA,->
 1995-12-28,1995,0,15,1,2,0,0,16,1995 NYE Run,1995 NYE,I Didn't Know,IDK,1,Worcester Centrum Centre,Worcester,MA,USA,","
 1995-12-28,1995,0,16,1,2,0,0,9,1995 NYE Run,1995 NYE,Uncle Pen,,0,Worcester Centrum Centre,Worcester,MA,USA,","
 1995-12-28,1995,0,17,5,2,0,0,4,1995 NYE Run,1995 NYE,Slave to the Traffic Light,Slave,1,Worcester Centrum Centre,Worcester,MA,USA,
 1995-12-28,1995,0,18,2,e,0,0,15,1995 NYE Run,1995 NYE,Fee,,1,Worcester Centrum Centre,Worcester,MA,USA,>
-1995-12-28,1995,0,19,6,e,0,0,1,1995 NYE Run,1995 NYE,Tweezer Reprise,Tweeprise,1,Worcester Centrum Centre,Worcester,MA,USA,
-1995-12-29,1995,0,1,2,1,0,0,2,1995 NYE Run,1995 NYE,"My Friend, My Friend",My Friend,1,Worcester Centrum Centre,Worcester,MA,USA,>
+1995-12-28,1995,0,19,6,e,0,0,0,1995 NYE Run,1995 NYE,Tweezer Reprise,Tweeprise,1,Worcester Centrum Centre,Worcester,MA,USA,
+1995-12-29,1995,0,1,2,1,0,0,1,1995 NYE Run,1995 NYE,"My Friend, My Friend",My Friend,1,Worcester Centrum Centre,Worcester,MA,USA,>
 1995-12-29,1995,0,2,2,1,0,0,2,1995 NYE Run,1995 NYE,Poor Heart,,1,Worcester Centrum Centre,Worcester,MA,USA,>
-1995-12-29,1995,0,3,2,1,0,0,6,1995 NYE Run,1995 NYE,Down with Disease,DwD,1,Worcester Centrum Centre,Worcester,MA,USA,>
+1995-12-29,1995,0,3,2,1,0,0,5,1995 NYE Run,1995 NYE,Down with Disease,DwD,1,Worcester Centrum Centre,Worcester,MA,USA,>
 1995-12-29,1995,0,4,2,1,0,0,3,1995 NYE Run,1995 NYE,Taste That Surrounds,,1,Worcester Centrum Centre,Worcester,MA,USA,>
 1995-12-29,1995,0,5,2,1,0,0,5,1995 NYE Run,1995 NYE,NICU,,1,Worcester Centrum Centre,Worcester,MA,USA,>
 1995-12-29,1995,0,6,1,1,0,0,2,1995 NYE Run,1995 NYE,Stash,,1,Worcester Centrum Centre,Worcester,MA,USA,","
@@ -1611,10 +1611,10 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-12-29,1995,0,16,2,2,0,0,17,1995 NYE Run,1995 NYE,Big Black Furry Creature from Mars,BBFCFM,1,Worcester Centrum Centre,Worcester,MA,USA,>
 1995-12-29,1995,0,17,3,2,0,0,11,1995 NYE Run,1995 NYE,Jam,,0,Worcester Centrum Centre,Worcester,MA,USA,->
 1995-12-29,1995,0,18,1,2,0,0,217,1995 NYE Run,1995 NYE,La Grange,,0,Worcester Centrum Centre,Worcester,MA,USA,","
-1995-12-29,1995,0,19,1,2,0,0,2,1995 NYE Run,1995 NYE,Bouncing Around the Room,Bouncin',1,Worcester Centrum Centre,Worcester,MA,USA,","
+1995-12-29,1995,0,19,1,2,0,0,1,1995 NYE Run,1995 NYE,Bouncing Around the Room,Bouncin',1,Worcester Centrum Centre,Worcester,MA,USA,","
 1995-12-29,1995,0,20,5,2,0,0,3,1995 NYE Run,1995 NYE,Fire,,0,Worcester Centrum Centre,Worcester,MA,USA,
 1995-12-29,1995,0,21,6,e,0,0,13,1995 NYE Run,1995 NYE,Golgi Apparatus,Golgi,1,Worcester Centrum Centre,Worcester,MA,USA,
-1995-12-30,1995,0,1,2,1,0,0,8,1995 NYE Run,1995 NYE,Prince Caspian,Caspian,1,Madison Square Garden,New York,NY,USA,>
+1995-12-30,1995,0,1,2,1,0,0,7,1995 NYE Run,1995 NYE,Prince Caspian,Caspian,1,Madison Square Garden,New York,NY,USA,>
 1995-12-30,1995,0,2,2,1,0,0,3,1995 NYE Run,1995 NYE,Also Sprach Zarathustra,2001,0,Madison Square Garden,New York,NY,USA,>
 1995-12-30,1995,0,3,2,1,0,0,4,1995 NYE Run,1995 NYE,Suzy Greenberg,Suzy,1,Madison Square Garden,New York,NY,USA,>
 1995-12-30,1995,0,4,1,1,0,0,5,1995 NYE Run,1995 NYE,David Bowie,Bowie,1,Madison Square Garden,New York,NY,USA,","
@@ -1629,16 +1629,16 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-12-30,1995,0,13,4,1,0,0,4,1995 NYE Run,1995 NYE,Sample in a Jar,Sample,1,Madison Square Garden,New York,NY,USA,
 1995-12-30,1995,0,14,1,2,0,0,4,1995 NYE Run,1995 NYE,Ya Mar,,0,Madison Square Garden,New York,NY,USA,","
 1995-12-30,1995,0,15,2,2,0,0,3,1995 NYE Run,1995 NYE,Free,,1,Madison Square Garden,New York,NY,USA,>
-1995-12-30,1995,0,16,2,2,0,0,3,1995 NYE Run,1995 NYE,Harry Hood,Hood,1,Madison Square Garden,New York,NY,USA,>
-1995-12-30,1995,0,17,2,2,0,0,4,1995 NYE Run,1995 NYE,AC/DC Bag,Bag,1,Madison Square Garden,New York,NY,USA,>
+1995-12-30,1995,0,16,2,2,0,0,2,1995 NYE Run,1995 NYE,Harry Hood,Hood,1,Madison Square Garden,New York,NY,USA,>
+1995-12-30,1995,0,17,2,2,0,0,3,1995 NYE Run,1995 NYE,AC/DC Bag,Bag,1,Madison Square Garden,New York,NY,USA,>
 1995-12-30,1995,0,18,1,2,0,0,7,1995 NYE Run,1995 NYE,Lifeboy,,1,Madison Square Garden,New York,NY,USA,","
 1995-12-30,1995,0,19,2,2,0,0,4,1995 NYE Run,1995 NYE,Scent of a Mule,SOAMule,1,Madison Square Garden,New York,NY,USA,>
-1995-12-30,1995,0,20,2,2,0,0,4,1995 NYE Run,1995 NYE,Cavern,,1,Madison Square Garden,New York,NY,USA,>
+1995-12-30,1995,0,20,2,2,0,0,3,1995 NYE Run,1995 NYE,Cavern,,1,Madison Square Garden,New York,NY,USA,>
 1995-12-30,1995,0,21,5,2,0,0,3,1995 NYE Run,1995 NYE,Run Like an Antelope,Antelope,1,Madison Square Garden,New York,NY,USA,
 1995-12-30,1995,0,22,6,e,0,0,3,1995 NYE Run,1995 NYE,A Day in the Life,ADITL,0,Madison Square Garden,New York,NY,USA,
-1995-12-31,1995,0,1,1,1,0,0,8,1995 NYE Run,1995 NYE,Punch You in the Eye,PYITE,1,Madison Square Garden,New York,NY,USA,","
+1995-12-31,1995,0,1,1,1,0,0,7,1995 NYE Run,1995 NYE,Punch You in the Eye,PYITE,1,Madison Square Garden,New York,NY,USA,","
 1995-12-31,1995,0,2,2,1,0,0,5,1995 NYE Run,1995 NYE,The Sloth,Sloth,1,Madison Square Garden,New York,NY,USA,>
-1995-12-31,1995,0,3,1,1,0,0,5,1995 NYE Run,1995 NYE,Reba,,1,Madison Square Garden,New York,NY,USA,","
+1995-12-31,1995,0,3,1,1,0,0,4,1995 NYE Run,1995 NYE,Reba,,1,Madison Square Garden,New York,NY,USA,","
 1995-12-31,1995,0,4,2,1,0,0,5,1995 NYE Run,1995 NYE,The Squirming Coil,Coil,1,Madison Square Garden,New York,NY,USA,>
 1995-12-31,1995,0,5,1,1,0,0,4,1995 NYE Run,1995 NYE,Maze,,1,Madison Square Garden,New York,NY,USA,","
 1995-12-31,1995,0,6,2,1,0,0,16,1995 NYE Run,1995 NYE,Colonel Forbin's Ascent,Forbin's,1,Madison Square Garden,New York,NY,USA,>
@@ -1658,7 +1658,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1995-12-31,1995,0,20,2,3,0,0,81,1995 NYE Run,1995 NYE,Auld Lang Syne,,0,Madison Square Garden,New York,NY,USA,>
 1995-12-31,1995,0,21,2,3,0,0,5,1995 NYE Run,1995 NYE,Weekapaug Groove,Weekapaug,1,Madison Square Garden,New York,NY,USA,>
 1995-12-31,1995,0,22,1,3,0,0,33,1995 NYE Run,1995 NYE,Sea and Sand,,0,Madison Square Garden,New York,NY,USA,","
-1995-12-31,1995,0,23,1,3,0,0,10,1995 NYE Run,1995 NYE,You Enjoy Myself,YEM,1,Madison Square Garden,New York,NY,USA,","
+1995-12-31,1995,0,23,1,3,0,0,9,1995 NYE Run,1995 NYE,You Enjoy Myself,YEM,1,Madison Square Garden,New York,NY,USA,","
 1995-12-31,1995,0,24,1,3,0,0,148,1995 NYE Run,1995 NYE,Sanity,,1,Madison Square Garden,New York,NY,USA,","
 1995-12-31,1995,0,25,5,3,0,0,7,1995 NYE Run,1995 NYE,Frankenstein,,0,Madison Square Garden,New York,NY,USA,
 1995-12-31,1995,0,26,6,e,0,0,58,1995 NYE Run,1995 NYE,Johnny B. Goode,JBG,0,Madison Square Garden,New York,NY,USA,

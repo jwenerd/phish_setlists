@@ -5,7 +5,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-01-26,1989,0,3,2,1,0,0,9,1989 Tour,1989,Alumni Blues,Alumni,1,The Paradise,Boston,MA,USA,>
 1989-01-26,1989,0,4,2,1,0,0,9,1989 Tour,1989,Letter to Jimmy Page,LTJP,1,The Paradise,Boston,MA,USA,>
 1989-01-26,1989,0,5,1,1,0,0,0,1989 Tour,1989,Alumni Blues,Alumni,1,The Paradise,Boston,MA,USA,","
-1989-01-26,1989,0,6,1,1,0,0,4,1989 Tour,1989,You Enjoy Myself,YEM,1,The Paradise,Boston,MA,USA,","
+1989-01-26,1989,0,6,1,1,0,0,3,1989 Tour,1989,You Enjoy Myself,YEM,1,The Paradise,Boston,MA,USA,","
 1989-01-26,1989,0,7,1,1,0,0,9,1989 Tour,1989,The Lizards,Lizards,1,The Paradise,Boston,MA,USA,","
 1989-01-26,1989,0,8,1,1,0,0,10,1989 Tour,1989,Take the 'A' Train,'A' Train,0,The Paradise,Boston,MA,USA,","
 1989-01-26,1989,0,9,1,1,0,0,21,1989 Tour,1989,Sanity,,1,The Paradise,Boston,MA,USA,","
@@ -17,12 +17,12 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-01-26,1989,0,15,2,2,0,0,4,1989 Tour,1989,Colonel Forbin's Ascent,Forbin's,1,The Paradise,Boston,MA,USA,>
 1989-01-26,1989,0,16,1,2,0,0,4,1989 Tour,1989,Fly Famous Mockingbird,Mockingbird,1,The Paradise,Boston,MA,USA,","
 1989-01-26,1989,0,17,3,2,0,0,9,1989 Tour,1989,The Sloth,Sloth,1,The Paradise,Boston,MA,USA,->
-1989-01-26,1989,0,18,1,2,0,0,4,1989 Tour,1989,Possum,,1,The Paradise,Boston,MA,USA,","
+1989-01-26,1989,0,18,1,2,0,0,3,1989 Tour,1989,Possum,,1,The Paradise,Boston,MA,USA,","
 1989-01-26,1989,0,19,1,2,0,0,9,1989 Tour,1989,Contact,,1,The Paradise,Boston,MA,USA,","
 1989-01-26,1989,0,20,1,2,0,0,15,1989 Tour,1989,Big Black Furry Creature from Mars,BBFCFM,1,The Paradise,Boston,MA,USA,","
 1989-01-26,1989,0,21,1,2,0,0,4,1989 Tour,1989,Foam,,1,The Paradise,Boston,MA,USA,","
 1989-01-26,1989,0,22,5,2,0,0,4,1989 Tour,1989,David Bowie,Bowie,1,The Paradise,Boston,MA,USA,
-1989-01-26,1989,0,23,1,e,0,0,9,1989 Tour,1989,AC/DC Bag,Bag,1,The Paradise,Boston,MA,USA,","
+1989-01-26,1989,0,23,1,e,0,0,8,1989 Tour,1989,AC/DC Bag,Bag,1,The Paradise,Boston,MA,USA,","
 1989-01-26,1989,0,24,6,e,0,0,13,1989 Tour,1989,Fire,,0,The Paradise,Boston,MA,USA,
 1989-02-06,1989,0,1,1,1,0,0,4,1989 Tour,1989,Suzy Greenberg,Suzy,1,The Front,Burlington,VT,USA,","
 1989-02-06,1989,0,2,2,1,0,0,22,1989 Tour,1989,The Curtain,Curtain,1,The Front,Burlington,VT,USA,>
@@ -30,7 +30,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-02-06,1989,0,4,1,1,0,0,17,1989 Tour,1989,Peaches en Regalia,Peaches,0,The Front,Burlington,VT,USA,","
 1989-02-06,1989,0,5,2,1,0,0,4,1989 Tour,1989,Fee,,1,The Front,Burlington,VT,USA,>
 1989-02-06,1989,0,6,1,1,0,0,20,1989 Tour,1989,La Grange,,0,The Front,Burlington,VT,USA,","
-1989-02-06,1989,0,7,4,1,0,0,4,1989 Tour,1989,You Enjoy Myself,YEM,1,The Front,Burlington,VT,USA,
+1989-02-06,1989,0,7,4,1,0,0,3,1989 Tour,1989,You Enjoy Myself,YEM,1,The Front,Burlington,VT,USA,
 1989-02-06,1989,0,8,2,2,0,0,46,1989 Tour,1989,All Blues,,0,The Front,Burlington,VT,USA,>
 1989-02-06,1989,0,9,1,2,0,0,4,1989 Tour,1989,Sanity,,1,The Front,Burlington,VT,USA,","
 1989-02-06,1989,0,10,1,2,0,0,4,1989 Tour,1989,Take the 'A' Train,'A' Train,0,The Front,Burlington,VT,USA,","
@@ -40,7 +40,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-02-06,1989,0,14,4,2,0,0,4,1989 Tour,1989,I Didn't Know,IDK,1,The Front,Burlington,VT,USA,
 1989-02-06,1989,0,15,1,3,0,0,4,1989 Tour,1989,Good Times Bad Times,GTBT,0,The Front,Burlington,VT,USA,","
 1989-02-06,1989,0,16,2,3,0,0,17,1989 Tour,1989,Walk Away,,0,The Front,Burlington,VT,USA,>
-1989-02-06,1989,0,17,1,3,0,0,20,1989 Tour,1989,Harry Hood,Hood,1,The Front,Burlington,VT,USA,","
+1989-02-06,1989,0,17,1,3,0,0,19,1989 Tour,1989,Harry Hood,Hood,1,The Front,Burlington,VT,USA,","
 1989-02-06,1989,0,18,1,3,0,0,4,1989 Tour,1989,Big Black Furry Creature from Mars,BBFCFM,1,The Front,Burlington,VT,USA,","
 1989-02-06,1989,0,19,1,3,0,0,15,1989 Tour,1989,The Ballad of Curtis Loew,Curtis Loew,0,The Front,Burlington,VT,USA,","
 1989-02-06,1989,0,20,2,3,0,0,4,1989 Tour,1989,Colonel Forbin's Ascent,Forbin's,1,The Front,Burlington,VT,USA,>
@@ -52,16 +52,16 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-02-07,1989,0,2,2,1,0,0,24,1989 Tour,1989,McGrupp and the Watchful Hosemasters,McGrupp,1,The Front,Burlington,VT,USA,>
 1989-02-07,1989,0,3,1,1,0,0,5,1989 Tour,1989,Foam,,1,The Front,Burlington,VT,USA,","
 1989-02-07,1989,0,4,3,1,0,0,5,1989 Tour,1989,The Sloth,Sloth,1,The Front,Burlington,VT,USA,->
-1989-02-07,1989,0,5,1,1,0,0,5,1989 Tour,1989,Possum,,1,The Front,Burlington,VT,USA,","
+1989-02-07,1989,0,5,1,1,0,0,4,1989 Tour,1989,Possum,,1,The Front,Burlington,VT,USA,","
 1989-02-07,1989,0,6,2,1,0,0,14,1989 Tour,1989,Mike's Song,Mike's,1,The Front,Burlington,VT,USA,>
 1989-02-07,1989,0,7,2,1,0,0,14,1989 Tour,1989,I Am Hydrogen,Hydrogen,1,The Front,Burlington,VT,USA,>
 1989-02-07,1989,0,8,1,1,0,0,14,1989 Tour,1989,Weekapaug Groove,Weekapaug,1,The Front,Burlington,VT,USA,","
 1989-02-07,1989,0,9,4,1,0,0,1,1989 Tour,1989,Golgi Apparatus,Golgi,1,The Front,Burlington,VT,USA,
 1989-02-07,1989,0,10,1,2,0,0,44,1989 Tour,1989,Makisupa Policeman,Makisupa,1,The Front,Burlington,VT,USA,","
 1989-02-07,1989,0,11,1,2,0,0,16,1989 Tour,1989,Dinner and a Movie,,1,The Front,Burlington,VT,USA,","
-1989-02-07,1989,0,12,2,2,0,0,5,1989 Tour,1989,AC/DC Bag,Bag,1,The Front,Burlington,VT,USA,>
+1989-02-07,1989,0,12,2,2,0,0,4,1989 Tour,1989,AC/DC Bag,Bag,1,The Front,Burlington,VT,USA,>
 1989-02-07,1989,0,13,1,2,0,0,5,1989 Tour,1989,The Lizards,Lizards,1,The Front,Burlington,VT,USA,","
-1989-02-07,1989,0,14,1,2,0,0,21,1989 Tour,1989,Timber (Jerry the Mule),Timber Ho,0,The Front,Burlington,VT,USA,","
+1989-02-07,1989,0,14,1,2,0,0,20,1989 Tour,1989,Timber (Jerry the Mule),Timber Ho,0,The Front,Burlington,VT,USA,","
 1989-02-07,1989,0,15,1,2,0,0,5,1989 Tour,1989,Contact,,1,The Front,Burlington,VT,USA,","
 1989-02-07,1989,0,16,2,2,0,0,5,1989 Tour,1989,Alumni Blues,Alumni,1,The Front,Burlington,VT,USA,>
 1989-02-07,1989,0,17,2,2,0,0,5,1989 Tour,1989,Letter to Jimmy Page,LTJP,1,The Front,Burlington,VT,USA,>
@@ -77,8 +77,8 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-02-07,1989,0,27,6,e,0,0,5,1989 Tour,1989,Fire,,0,The Front,Burlington,VT,USA,
 1989-02-11,1989,0,1,1,1,0,0,2,1989 Tour,1989,The Sloth,Sloth,1,Sheehan's,Northampton,MA,USA,","
 1989-02-11,1989,0,2,6,1,0,0,3,1989 Tour,1989,Take the 'A' Train,'A' Train,0,Sheehan's,Northampton,MA,USA,
-1989-02-17,1989,0,1,1,1,0,0,3,1989 Tour,1989,AC/DC Bag,Bag,1,Old Stone Church,Newmarket,NH,USA,","
-1989-02-17,1989,0,2,1,1,0,0,4,1989 Tour,1989,You Enjoy Myself,YEM,1,Old Stone Church,Newmarket,NH,USA,","
+1989-02-17,1989,0,1,1,1,0,0,2,1989 Tour,1989,AC/DC Bag,Bag,1,Old Stone Church,Newmarket,NH,USA,","
+1989-02-17,1989,0,2,1,1,0,0,3,1989 Tour,1989,You Enjoy Myself,YEM,1,Old Stone Church,Newmarket,NH,USA,","
 1989-02-17,1989,0,3,1,1,0,0,3,1989 Tour,1989,Fee,,1,Old Stone Church,Newmarket,NH,USA,","
 1989-02-17,1989,0,4,1,1,0,0,4,1989 Tour,1989,Divided Sky,Divided,1,Old Stone Church,Newmarket,NH,USA,","
 1989-02-17,1989,0,5,1,1,0,0,204,1989 Tour,1989,Split Open and Melt,SOAMelt,1,Old Stone Church,Newmarket,NH,USA,","
@@ -95,19 +95,19 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-02-18,1989,0,6,2,1,0,0,5,1989 Tour,1989,Fly Famous Mockingbird,Mockingbird,1,Old Stone Church,Newmarket,NH,USA,>
 1989-02-18,1989,0,7,1,1,0,0,4,1989 Tour,1989,The Lizards,Lizards,1,Old Stone Church,Newmarket,NH,USA,","
 1989-02-18,1989,0,8,2,1,0,0,5,1989 Tour,1989,Walk Away,,0,Old Stone Church,Newmarket,NH,USA,>
-1989-02-18,1989,0,9,1,1,0,0,4,1989 Tour,1989,Possum,,1,Old Stone Church,Newmarket,NH,USA,","
+1989-02-18,1989,0,9,1,1,0,0,3,1989 Tour,1989,Possum,,1,Old Stone Church,Newmarket,NH,USA,","
 1989-02-18,1989,0,10,4,1,0,0,5,1989 Tour,1989,Good Times Bad Times,GTBT,0,Old Stone Church,Newmarket,NH,USA,
 1989-02-18,1989,0,11,1,2,0,0,1,1989 Tour,1989,Golgi Apparatus,Golgi,1,Old Stone Church,Newmarket,NH,USA,","
 1989-02-18,1989,0,12,2,2,0,0,5,1989 Tour,1989,Wilson,,1,Old Stone Church,Newmarket,NH,USA,>
 1989-02-18,1989,0,13,1,2,0,0,5,1989 Tour,1989,Peaches en Regalia,Peaches,0,Old Stone Church,Newmarket,NH,USA,","
-1989-02-18,1989,0,14,2,2,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,Old Stone Church,Newmarket,NH,USA,>
+1989-02-18,1989,0,14,2,2,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,Old Stone Church,Newmarket,NH,USA,>
 1989-02-18,1989,0,15,1,2,0,0,5,1989 Tour,1989,La Grange,,0,Old Stone Church,Newmarket,NH,USA,","
 1989-02-18,1989,0,16,1,2,0,0,4,1989 Tour,1989,Slave to the Traffic Light,Slave,1,Old Stone Church,Newmarket,NH,USA,","
 1989-02-18,1989,0,17,1,2,0,0,4,1989 Tour,1989,Contact,,1,Old Stone Church,Newmarket,NH,USA,","
 1989-02-18,1989,0,18,4,2,0,0,5,1989 Tour,1989,David Bowie,Bowie,1,Old Stone Church,Newmarket,NH,USA,
 1989-02-18,1989,0,19,1,3,0,0,4,1989 Tour,1989,Whipping Post,,0,Old Stone Church,Newmarket,NH,USA,","
 1989-02-18,1989,0,20,1,3,0,0,5,1989 Tour,1989,Corinna,,0,Old Stone Church,Newmarket,NH,USA,","
-1989-02-18,1989,0,21,5,3,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,Old Stone Church,Newmarket,NH,USA,
+1989-02-18,1989,0,21,5,3,0,0,0,1989 Tour,1989,AC/DC Bag,Bag,1,Old Stone Church,Newmarket,NH,USA,
 1989-02-18,1989,0,22,6,e,0,0,4,1989 Tour,1989,Fire,,0,Old Stone Church,Newmarket,NH,USA,
 1989-02-23,1989,0,1,1,1,0,0,32,1989 Tour,1989,Satin Doll,,0,The Front,Burlington,VT,USA,","
 1989-02-23,1989,0,2,6,1,0,0,207,1989 Tour,1989,Call It Stormy Monday (But Tuesday Is Just As Bad),,0,The Front,Burlington,VT,USA,
@@ -120,13 +120,13 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-02-24,1989,0,7,2,1,0,0,2,1989 Tour,1989,Fly Famous Mockingbird,Mockingbird,1,The Front,Burlington,VT,USA,>
 1989-02-24,1989,0,8,2,1,0,0,3,1989 Tour,1989,Run Like an Antelope,Antelope,1,The Front,Burlington,VT,USA,>
 1989-02-24,1989,0,9,1,1,0,0,2,1989 Tour,1989,Golgi Apparatus,Golgi,1,The Front,Burlington,VT,USA,","
-1989-02-24,1989,0,10,4,1,0,0,2,1989 Tour,1989,Possum,,1,The Front,Burlington,VT,USA,
+1989-02-24,1989,0,10,4,1,0,0,1,1989 Tour,1989,Possum,,1,The Front,Burlington,VT,USA,
 1989-02-24,1989,0,11,2,2,0,0,7,1989 Tour,1989,On Your Way Down,,0,The Front,Burlington,VT,USA,>
-1989-02-24,1989,0,12,1,2,0,0,2,1989 Tour,1989,AC/DC Bag,Bag,1,The Front,Burlington,VT,USA,","
-1989-02-24,1989,0,13,3,2,0,0,2,1989 Tour,1989,You Enjoy Myself,YEM,1,The Front,Burlington,VT,USA,->
+1989-02-24,1989,0,12,1,2,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,The Front,Burlington,VT,USA,","
+1989-02-24,1989,0,13,3,2,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,The Front,Burlington,VT,USA,->
 1989-02-24,1989,0,14,6,2,0,0,33,1989 Tour,1989,Camel Walk,,1,The Front,Burlington,VT,USA,
 1989-03-01,1989,0,1,1,1,0,0,29,1989 Tour,1989,Funky Bitch,,0,Gallagher's,Waitsfield,VT,USA,","
-1989-03-01,1989,0,2,1,1,0,0,2,1989 Tour,1989,Possum,,1,Gallagher's,Waitsfield,VT,USA,","
+1989-03-01,1989,0,2,1,1,0,0,1,1989 Tour,1989,Possum,,1,Gallagher's,Waitsfield,VT,USA,","
 1989-03-01,1989,0,3,1,1,0,0,4,1989 Tour,1989,Walk Away,,0,Gallagher's,Waitsfield,VT,USA,","
 1989-03-01,1989,0,4,2,1,0,0,8,1989 Tour,1989,Suzy Greenberg,Suzy,1,Gallagher's,Waitsfield,VT,USA,>
 1989-03-01,1989,0,5,2,1,0,0,8,1989 Tour,1989,Mike's Song,Mike's,1,Gallagher's,Waitsfield,VT,USA,>
@@ -144,7 +144,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-03-01,1989,0,17,2,3,0,0,34,1989 Tour,1989,Dave's Energy Guide,DEG,1,Gallagher's,Waitsfield,VT,USA,>
 1989-03-01,1989,0,18,1,3,0,0,0,1989 Tour,1989,Cities,,0,Gallagher's,Waitsfield,VT,USA,","
 1989-03-01,1989,0,19,1,3,0,0,53,1989 Tour,1989,Dog Log,,1,Gallagher's,Waitsfield,VT,USA,","
-1989-03-01,1989,0,20,1,3,0,0,9,1989 Tour,1989,Harry Hood,Hood,1,Gallagher's,Waitsfield,VT,USA,","
+1989-03-01,1989,0,20,1,3,0,0,8,1989 Tour,1989,Harry Hood,Hood,1,Gallagher's,Waitsfield,VT,USA,","
 1989-03-01,1989,0,21,1,3,0,0,5,1989 Tour,1989,Fluffhead,,1,Gallagher's,Waitsfield,VT,USA,","
 1989-03-01,1989,0,22,5,3,0,0,34,1989 Tour,1989,Ride Captain Ride,,0,Gallagher's,Waitsfield,VT,USA,
 1989-03-01,1989,0,23,1,e,0,0,210,1989 Tour,1989,Green Onions,,0,Gallagher's,Waitsfield,VT,USA,","
@@ -156,9 +156,9 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-03-01,1989,0,29,6,e,0,0,4,1989 Tour,1989,Fire,,0,Gallagher's,Waitsfield,VT,USA,
 1989-03-03,1989,0,1,2,1,0,0,1,1989 Tour,1989,Wilson,,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,>
 1989-03-03,1989,0,2,1,1,0,0,9,1989 Tour,1989,McGrupp and the Watchful Hosemasters,McGrupp,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,","
-1989-03-03,1989,0,3,2,1,0,0,3,1989 Tour,1989,You Enjoy Myself,YEM,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,>
+1989-03-03,1989,0,3,2,1,0,0,2,1989 Tour,1989,You Enjoy Myself,YEM,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,>
 1989-03-03,1989,0,4,1,1,0,0,3,1989 Tour,1989,Foam,,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,","
-1989-03-03,1989,0,5,1,1,0,0,3,1989 Tour,1989,AC/DC Bag,Bag,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,","
+1989-03-03,1989,0,5,1,1,0,0,2,1989 Tour,1989,AC/DC Bag,Bag,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,","
 1989-03-03,1989,0,6,2,1,0,0,3,1989 Tour,1989,The Curtain,Curtain,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,>
 1989-03-03,1989,0,7,1,1,0,0,3,1989 Tour,1989,Run Like an Antelope,Antelope,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,","
 1989-03-03,1989,0,8,1,1,0,0,5,1989 Tour,1989,I Didn't Know,IDK,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,","
@@ -171,7 +171,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-03-03,1989,0,15,2,2,0,0,1,1989 Tour,1989,I Am Hydrogen,Hydrogen,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,>
 1989-03-03,1989,0,16,1,2,0,0,1,1989 Tour,1989,Weekapaug Groove,Weekapaug,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,","
 1989-03-03,1989,0,17,1,2,0,0,6,1989 Tour,1989,Fee,,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,","
-1989-03-03,1989,0,18,1,2,0,0,1,1989 Tour,1989,Possum,,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,","
+1989-03-03,1989,0,18,1,2,0,0,0,1989 Tour,1989,Possum,,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,","
 1989-03-03,1989,0,19,1,2,0,0,1,1989 Tour,1989,Walk Away,,0,"Living and Learning Center, University of Vermont",Burlington,VT,USA,","
 1989-03-03,1989,0,20,2,2,0,0,3,1989 Tour,1989,Colonel Forbin's Ascent,Forbin's,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,>
 1989-03-03,1989,0,21,1,2,0,0,3,1989 Tour,1989,Fly Famous Mockingbird,Mockingbird,1,"Living and Learning Center, University of Vermont",Burlington,VT,USA,","
@@ -188,7 +188,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-03-04,1989,0,6,1,1,0,0,1,1989 Tour,1989,Fee,,1,The Wetlands Preserve,New York,NY,USA,","
 1989-03-04,1989,0,7,1,1,0,0,1,1989 Tour,1989,Golgi Apparatus,Golgi,1,The Wetlands Preserve,New York,NY,USA,","
 1989-03-04,1989,0,8,4,1,0,0,1,1989 Tour,1989,Good Times Bad Times,GTBT,0,The Wetlands Preserve,New York,NY,USA,
-1989-03-04,1989,0,9,2,2,0,0,1,1989 Tour,1989,Possum,,1,The Wetlands Preserve,New York,NY,USA,>
+1989-03-04,1989,0,9,2,2,0,0,0,1989 Tour,1989,Possum,,1,The Wetlands Preserve,New York,NY,USA,>
 1989-03-04,1989,0,10,1,2,0,0,2,1989 Tour,1989,Fluffhead,,1,The Wetlands Preserve,New York,NY,USA,","
 1989-03-04,1989,0,11,1,2,0,0,1,1989 Tour,1989,The Lizards,Lizards,1,The Wetlands Preserve,New York,NY,USA,","
 1989-03-04,1989,0,12,1,2,0,0,1,1989 Tour,1989,Run Like an Antelope,Antelope,1,The Wetlands Preserve,New York,NY,USA,","
@@ -222,14 +222,14 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-03-12,1989,0,8,1,1,0,0,2,1989 Tour,1989,Golgi Apparatus,Golgi,1,Nectar's,Burlington,VT,USA,","
 1989-03-12,1989,0,9,1,1,0,0,28,1989 Tour,1989,Bold As Love,,0,Nectar's,Burlington,VT,USA,","
 1989-03-12,1989,0,10,6,1,0,0,3,1989 Tour,1989,Foam,,1,Nectar's,Burlington,VT,USA,
-1989-03-13,1989,0,1,1,1,0,0,4,1989 Tour,1989,You Enjoy Myself,YEM,1,Nectar's,Burlington,VT,USA,","
+1989-03-13,1989,0,1,1,1,0,0,3,1989 Tour,1989,You Enjoy Myself,YEM,1,Nectar's,Burlington,VT,USA,","
 1989-03-13,1989,0,2,1,1,0,0,3,1989 Tour,1989,Fee,,1,Nectar's,Burlington,VT,USA,","
 1989-03-13,1989,0,3,1,1,0,0,75,1989 Tour,1989,Ya Mar,,0,Nectar's,Burlington,VT,USA,","
 1989-03-13,1989,0,4,1,1,0,0,5,1989 Tour,1989,Big Black Furry Creature from Mars,BBFCFM,1,Nectar's,Burlington,VT,USA,","
 1989-03-13,1989,0,5,4,1,0,0,4,1989 Tour,1989,David Bowie,Bowie,1,Nectar's,Burlington,VT,USA,
 1989-03-13,1989,0,6,1,2,0,0,13,1989 Tour,1989,Sanity,,1,Nectar's,Burlington,VT,USA,","
 1989-03-13,1989,0,7,1,2,0,0,3,1989 Tour,1989,Take the 'A' Train,'A' Train,0,Nectar's,Burlington,VT,USA,","
-1989-03-13,1989,0,8,1,2,0,0,3,1989 Tour,1989,Possum,,1,Nectar's,Burlington,VT,USA,","
+1989-03-13,1989,0,8,1,2,0,0,2,1989 Tour,1989,Possum,,1,Nectar's,Burlington,VT,USA,","
 1989-03-13,1989,0,9,1,2,0,0,4,1989 Tour,1989,Divided Sky,Divided,1,Nectar's,Burlington,VT,USA,","
 1989-03-13,1989,0,10,1,2,0,0,3,1989 Tour,1989,The Lizards,Lizards,1,Nectar's,Burlington,VT,USA,","
 1989-03-13,1989,0,11,4,2,0,0,5,1989 Tour,1989,Fire,,0,Nectar's,Burlington,VT,USA,
@@ -244,9 +244,9 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-03-14,1989,0,5,1,1,0,0,2,1989 Tour,1989,Weekapaug Groove,Weekapaug,1,Nectar's,Burlington,VT,USA,","
 1989-03-14,1989,0,6,1,1,0,0,4,1989 Tour,1989,Fluffhead,,1,Nectar's,Burlington,VT,USA,","
 1989-03-14,1989,0,7,1,1,0,0,4,1989 Tour,1989,Contact,,1,Nectar's,Burlington,VT,USA,","
-1989-03-14,1989,0,8,2,1,0,0,5,1989 Tour,1989,AC/DC Bag,Bag,1,Nectar's,Burlington,VT,USA,>
+1989-03-14,1989,0,8,2,1,0,0,4,1989 Tour,1989,AC/DC Bag,Bag,1,Nectar's,Burlington,VT,USA,>
 1989-03-14,1989,0,9,1,1,0,0,5,1989 Tour,1989,Wilson,,1,Nectar's,Burlington,VT,USA,","
-1989-03-14,1989,0,10,1,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,Nectar's,Burlington,VT,USA,","
+1989-03-14,1989,0,10,1,1,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,Nectar's,Burlington,VT,USA,","
 1989-03-14,1989,0,11,1,1,0,0,34,1989 Tour,1989,Harpua,,1,Nectar's,Burlington,VT,USA,","
 1989-03-14,1989,0,12,4,1,0,0,2,1989 Tour,1989,Foam,,1,Nectar's,Burlington,VT,USA,
 1989-03-14,1989,0,13,1,2,0,0,0,1989 Tour,1989,Wilson,,1,Nectar's,Burlington,VT,USA,","
@@ -259,13 +259,13 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-03-14,1989,0,20,1,3,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,Nectar's,Burlington,VT,USA,","
 1989-03-14,1989,0,21,5,3,0,0,4,1989 Tour,1989,Good Times Bad Times,GTBT,0,Nectar's,Burlington,VT,USA,
 1989-03-14,1989,0,22,6,e,0,0,6,1989 Tour,1989,Halley's Comet,Halley's,1,Nectar's,Burlington,VT,USA,
-1989-03-24,1989,0,1,1,1,0,0,2,1989 Tour,1989,Possum,,1,The Paradise,Boston,MA,USA,","
+1989-03-24,1989,0,1,1,1,0,0,1,1989 Tour,1989,Possum,,1,The Paradise,Boston,MA,USA,","
 1989-03-24,1989,0,2,2,1,0,0,1,1989 Tour,1989,Mike's Song,Mike's,1,The Paradise,Boston,MA,USA,>
 1989-03-24,1989,0,3,2,1,0,0,1,1989 Tour,1989,I Am Hydrogen,Hydrogen,1,The Paradise,Boston,MA,USA,>
 1989-03-24,1989,0,4,1,1,0,0,1,1989 Tour,1989,Weekapaug Groove,Weekapaug,1,The Paradise,Boston,MA,USA,","
 1989-03-24,1989,0,5,2,1,0,0,2,1989 Tour,1989,Golgi Apparatus,Golgi,1,The Paradise,Boston,MA,USA,>
 1989-03-24,1989,0,6,1,1,0,0,2,1989 Tour,1989,Divided Sky,Divided,1,The Paradise,Boston,MA,USA,","
-1989-03-24,1989,0,7,1,1,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,The Paradise,Boston,MA,USA,","
+1989-03-24,1989,0,7,1,1,0,0,0,1989 Tour,1989,AC/DC Bag,Bag,1,The Paradise,Boston,MA,USA,","
 1989-03-24,1989,0,8,1,1,0,0,3,1989 Tour,1989,If I Only Had a Brain,,0,The Paradise,Boston,MA,USA,","
 1989-03-24,1989,0,9,1,1,0,0,2,1989 Tour,1989,Take the 'A' Train,'A' Train,0,The Paradise,Boston,MA,USA,","
 1989-03-24,1989,0,10,6,1,0,0,2,1989 Tour,1989,David Bowie,Bowie,1,The Paradise,Boston,MA,USA,
@@ -281,13 +281,13 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-03-30,1989,0,10,2,2,0,0,2,1989 Tour,1989,Mike's Song,Mike's,1,The Front,Burlington,VT,USA,>
 1989-03-30,1989,0,11,2,2,0,0,2,1989 Tour,1989,I Am Hydrogen,Hydrogen,1,The Front,Burlington,VT,USA,>
 1989-03-30,1989,0,12,1,2,0,0,2,1989 Tour,1989,Weekapaug Groove,Weekapaug,1,The Front,Burlington,VT,USA,","
-1989-03-30,1989,0,13,1,2,0,0,3,1989 Tour,1989,You Enjoy Myself,YEM,1,The Front,Burlington,VT,USA,","
+1989-03-30,1989,0,13,1,2,0,0,2,1989 Tour,1989,You Enjoy Myself,YEM,1,The Front,Burlington,VT,USA,","
 1989-03-30,1989,0,14,1,2,0,0,219,1989 Tour,1989,Undun,,0,The Front,Burlington,VT,USA,","
 1989-03-30,1989,0,15,1,2,0,0,3,1989 Tour,1989,La Grange,,0,The Front,Burlington,VT,USA,","
 1989-03-30,1989,0,16,4,2,0,0,2,1989 Tour,1989,Golgi Apparatus,Golgi,1,The Front,Burlington,VT,USA,
 1989-03-30,1989,0,17,2,3,0,0,9,1989 Tour,1989,Peaches en Regalia,Peaches,0,The Front,Burlington,VT,USA,>
 1989-03-30,1989,0,18,1,3,0,0,3,1989 Tour,1989,Foam,,1,The Front,Burlington,VT,USA,","
-1989-03-30,1989,0,19,2,3,0,0,2,1989 Tour,1989,AC/DC Bag,Bag,1,The Front,Burlington,VT,USA,>
+1989-03-30,1989,0,19,2,3,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,The Front,Burlington,VT,USA,>
 1989-03-30,1989,0,20,1,3,0,0,4,1989 Tour,1989,Big Black Furry Creature from Mars,BBFCFM,1,The Front,Burlington,VT,USA,","
 1989-03-30,1989,0,21,1,3,0,0,9,1989 Tour,1989,Satin Doll,,0,The Front,Burlington,VT,USA,","
 1989-03-30,1989,0,22,5,3,0,0,62,1989 Tour,1989,Rocky Top,,0,The Front,Burlington,VT,USA,
@@ -300,7 +300,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-04-13,1989,0,2,1,1,0,0,8,1989 Tour,1989,Wilson,,1,Valley Club Cafe,Rutland,VT,USA,","
 1989-04-13,1989,0,3,1,1,0,0,5,1989 Tour,1989,The Mango Song,Mango,1,Valley Club Cafe,Rutland,VT,USA,","
 1989-04-13,1989,0,4,6,1,0,0,224,1989 Tour,1989,Le Freak,,0,Valley Club Cafe,Rutland,VT,USA,
-1989-04-14,1989,0,1,2,1,0,0,6,1989 Tour,1989,AC/DC Bag,Bag,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,>
+1989-04-14,1989,0,1,2,1,0,0,5,1989 Tour,1989,AC/DC Bag,Bag,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,>
 1989-04-14,1989,0,2,1,1,0,0,6,1989 Tour,1989,Foam,,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
 1989-04-14,1989,0,3,1,1,0,0,14,1989 Tour,1989,Walk Away,,0,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
 1989-04-14,1989,0,4,1,1,0,0,6,1989 Tour,1989,Fluffhead,,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
@@ -309,11 +309,11 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-04-14,1989,0,7,1,1,0,0,6,1989 Tour,1989,Run Like an Antelope,Antelope,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
 1989-04-14,1989,0,8,1,1,0,0,9,1989 Tour,1989,Contact,,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
 1989-04-14,1989,0,9,4,1,0,0,9,1989 Tour,1989,Fire,,0,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,
-1989-04-14,1989,0,10,1,2,0,0,6,1989 Tour,1989,You Enjoy Myself,YEM,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
+1989-04-14,1989,0,10,1,2,0,0,5,1989 Tour,1989,You Enjoy Myself,YEM,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
 1989-04-14,1989,0,11,1,2,0,0,6,1989 Tour,1989,Bold As Love,,0,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
 1989-04-14,1989,0,12,1,2,0,0,9,1989 Tour,1989,The Lizards,Lizards,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
 1989-04-14,1989,0,13,1,2,0,0,19,1989 Tour,1989,The Sloth,Sloth,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
-1989-04-14,1989,0,14,1,2,0,0,8,1989 Tour,1989,Possum,,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
+1989-04-14,1989,0,14,1,2,0,0,7,1989 Tour,1989,Possum,,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
 1989-04-14,1989,0,15,1,2,0,0,8,1989 Tour,1989,If I Only Had a Brain,,0,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,","
 1989-04-14,1989,0,16,2,2,0,0,6,1989 Tour,1989,Mike's Song,Mike's,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,>
 1989-04-14,1989,0,17,2,2,0,0,6,1989 Tour,1989,I Am Hydrogen,Hydrogen,1,"The Base Lodge, Stearns Hall, Johnson State College",Johnson,VT,USA,>
@@ -323,7 +323,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-04-15,1989,0,2,2,1,0,0,1,1989 Tour,1989,I Am Hydrogen,Hydrogen,1,"Billings Lounge, University of Vermont",Burlington,VT,USA,>
 1989-04-15,1989,0,3,1,1,0,0,1,1989 Tour,1989,Weekapaug Groove,Weekapaug,1,"Billings Lounge, University of Vermont",Burlington,VT,USA,","
 1989-04-15,1989,0,4,2,1,0,0,1,1989 Tour,1989,Esther,,1,"Billings Lounge, University of Vermont",Burlington,VT,USA,>
-1989-04-15,1989,0,5,2,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,"Billings Lounge, University of Vermont",Burlington,VT,USA,>
+1989-04-15,1989,0,5,2,1,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,"Billings Lounge, University of Vermont",Burlington,VT,USA,>
 1989-04-15,1989,0,6,1,1,0,0,2,1989 Tour,1989,Wilson,,1,"Billings Lounge, University of Vermont",Burlington,VT,USA,","
 1989-04-15,1989,0,7,1,1,0,0,7,1989 Tour,1989,Peaches en Regalia,Peaches,0,"Billings Lounge, University of Vermont",Burlington,VT,USA,","
 1989-04-15,1989,0,8,2,1,0,0,7,1989 Tour,1989,On Your Way Down,,0,"Billings Lounge, University of Vermont",Burlington,VT,USA,>
@@ -344,7 +344,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-04-15,1989,0,23,2,2,0,0,1,1989 Tour,1989,Fluffhead,,1,"Billings Lounge, University of Vermont",Burlington,VT,USA,>
 1989-04-15,1989,0,24,6,2,0,0,10,1989 Tour,1989,Good Times Bad Times,GTBT,0,"Billings Lounge, University of Vermont",Burlington,VT,USA,
 1989-04-19,1989,0,1,6,1,0,0,8,1989 Tour,1989,Undun,,0,Johnny D's,Somerville,MA,USA,
-1989-04-20,1989,0,1,2,1,2,0,3,1989 Tour,1989,AC/DC Bag,Bag,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,>
+1989-04-20,1989,0,1,2,1,2,0,2,1989 Tour,1989,AC/DC Bag,Bag,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,>
 1989-04-20,1989,0,2,1,1,2,0,2,1989 Tour,1989,Fluffhead,,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,","
 1989-04-20,1989,0,3,2,1,1,0,228,1989 Tour,1989,You Shook Me All Night Long,,0,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,>
 1989-04-20,1989,0,4,1,1,2,0,0,1989 Tour,1989,Fluffhead,,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,","
@@ -352,13 +352,13 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-04-20,1989,0,6,1,1,2,0,2,1989 Tour,1989,Esther,,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,","
 1989-04-20,1989,0,7,1,1,2,0,2,1989 Tour,1989,Suzy Greenberg,Suzy,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,","
 1989-04-20,1989,0,8,1,1,2,0,3,1989 Tour,1989,The Sloth,Sloth,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,","
-1989-04-20,1989,0,9,1,1,2,0,3,1989 Tour,1989,Possum,,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,","
+1989-04-20,1989,0,9,1,1,2,0,2,1989 Tour,1989,Possum,,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,","
 1989-04-20,1989,0,10,3,1,2,0,2,1989 Tour,1989,McGrupp and the Watchful Hosemasters,McGrupp,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,->
 1989-04-20,1989,0,11,1,1,2,0,2,1989 Tour,1989,Foam,,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,","
 1989-04-20,1989,0,12,4,1,2,0,2,1989 Tour,1989,David Bowie,Bowie,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,
 1989-04-20,1989,0,13,1,2,2,0,2,1989 Tour,1989,Divided Sky,Divided,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,","
 1989-04-20,1989,0,14,1,2,2,0,3,1989 Tour,1989,Walk Away,,0,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,","
-1989-04-20,1989,0,15,2,2,2,0,2,1989 Tour,1989,You Enjoy Myself,YEM,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,>
+1989-04-20,1989,0,15,2,2,2,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,>
 1989-04-20,1989,0,16,1,2,2,0,2,1989 Tour,1989,Split Open and Melt,SOAMelt,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,","
 1989-04-20,1989,0,17,1,2,2,0,3,1989 Tour,1989,The Lizards,Lizards,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,","
 1989-04-20,1989,0,18,2,2,2,0,2,1989 Tour,1989,Mike's Song,Mike's,1,"Humphries House (The Zoo), Amherst College",Amherst,MA,USA,>
@@ -382,7 +382,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-04-27,1989,0,12,1,e,0,0,2,1989 Tour,1989,Contact,,1,"Strafford Room, Memorial Union Building, University of New Hampshire",Durham,NH,USA,","
 1989-04-27,1989,0,13,6,e,0,0,3,1989 Tour,1989,David Bowie,Bowie,1,"Strafford Room, Memorial Union Building, University of New Hampshire",Durham,NH,USA,
 1989-04-30,1989,0,1,1,1,0,0,3,1989 Tour,1989,I Didn't Know,IDK,1,Night Stage,Cambridge,MA,USA,","
-1989-04-30,1989,0,2,1,1,0,0,6,1989 Tour,1989,You Enjoy Myself,YEM,1,Night Stage,Cambridge,MA,USA,","
+1989-04-30,1989,0,2,1,1,0,0,5,1989 Tour,1989,You Enjoy Myself,YEM,1,Night Stage,Cambridge,MA,USA,","
 1989-04-30,1989,0,3,1,1,0,0,6,1989 Tour,1989,McGrupp and the Watchful Hosemasters,McGrupp,1,Night Stage,Cambridge,MA,USA,","
 1989-04-30,1989,0,4,1,1,0,0,3,1989 Tour,1989,The Lizards,Lizards,1,Night Stage,Cambridge,MA,USA,","
 1989-04-30,1989,0,5,1,1,0,0,3,1989 Tour,1989,Divided Sky,Divided,1,Night Stage,Cambridge,MA,USA,","
@@ -390,11 +390,11 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-04-30,1989,0,7,1,1,0,0,8,1989 Tour,1989,Peaches en Regalia,Peaches,0,Night Stage,Cambridge,MA,USA,","
 1989-04-30,1989,0,8,1,1,0,0,9,1989 Tour,1989,Run Like an Antelope,Antelope,1,Night Stage,Cambridge,MA,USA,","
 1989-04-30,1989,0,9,5,1,0,0,53,1989 Tour,1989,Terrapin,,0,Night Stage,Cambridge,MA,USA,
-1989-04-30,1989,0,10,6,e,0,0,6,1989 Tour,1989,Possum,,1,Night Stage,Cambridge,MA,USA,
+1989-04-30,1989,0,10,6,e,0,0,5,1989 Tour,1989,Possum,,1,Night Stage,Cambridge,MA,USA,
 1989-05-01,1989,0,1,1,1,0,0,25,1989 Tour,1989,Dinner and a Movie,,1,Pearl Street Ballroom,Northampton,MA,USA,","
-1989-05-01,1989,0,2,1,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,Pearl Street Ballroom,Northampton,MA,USA,","
+1989-05-01,1989,0,2,1,1,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,Pearl Street Ballroom,Northampton,MA,USA,","
 1989-05-01,1989,0,3,1,1,0,0,7,1989 Tour,1989,Esther,,1,Pearl Street Ballroom,Northampton,MA,USA,","
-1989-05-01,1989,0,4,1,1,0,0,7,1989 Tour,1989,AC/DC Bag,Bag,1,Pearl Street Ballroom,Northampton,MA,USA,","
+1989-05-01,1989,0,4,1,1,0,0,6,1989 Tour,1989,AC/DC Bag,Bag,1,Pearl Street Ballroom,Northampton,MA,USA,","
 1989-05-01,1989,0,5,2,1,0,0,4,1989 Tour,1989,Alumni Blues,Alumni,1,Pearl Street Ballroom,Northampton,MA,USA,>
 1989-05-01,1989,0,6,2,1,0,0,4,1989 Tour,1989,Letter to Jimmy Page,LTJP,1,Pearl Street Ballroom,Northampton,MA,USA,>
 1989-05-01,1989,0,7,1,1,0,0,0,1989 Tour,1989,Alumni Blues,Alumni,1,Pearl Street Ballroom,Northampton,MA,USA,","
@@ -407,18 +407,18 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-05-01,1989,0,14,2,2,0,0,7,1989 Tour,1989,I Am Hydrogen,Hydrogen,1,Pearl Street Ballroom,Northampton,MA,USA,>
 1989-05-01,1989,0,15,1,2,0,0,7,1989 Tour,1989,Weekapaug Groove,Weekapaug,1,Pearl Street Ballroom,Northampton,MA,USA,","
 1989-05-01,1989,0,16,1,2,0,0,9,1989 Tour,1989,On Your Way Down,,0,Pearl Street Ballroom,Northampton,MA,USA,","
-1989-05-01,1989,0,17,1,2,0,0,1,1989 Tour,1989,Possum,,1,Pearl Street Ballroom,Northampton,MA,USA,","
+1989-05-01,1989,0,17,1,2,0,0,0,1989 Tour,1989,Possum,,1,Pearl Street Ballroom,Northampton,MA,USA,","
 1989-05-01,1989,0,18,1,2,0,0,38,1989 Tour,1989,Icculus,,1,Pearl Street Ballroom,Northampton,MA,USA,","
 1989-05-01,1989,0,19,2,2,0,0,12,1989 Tour,1989,Colonel Forbin's Ascent,Forbin's,1,Pearl Street Ballroom,Northampton,MA,USA,>
 1989-05-01,1989,0,20,1,2,0,0,12,1989 Tour,1989,Fly Famous Mockingbird,Mockingbird,1,Pearl Street Ballroom,Northampton,MA,USA,","
 1989-05-01,1989,0,21,5,2,0,0,4,1989 Tour,1989,David Bowie,Bowie,1,Pearl Street Ballroom,Northampton,MA,USA,
 1989-05-01,1989,0,22,6,e,0,0,4,1989 Tour,1989,Contact,,1,Pearl Street Ballroom,Northampton,MA,USA,
-1989-05-03,1989,0,1,1,1,0,0,1,1989 Tour,1989,Possum,,1,"Tent Party, Franklin & Marshall College",Lancaster,PA,USA,","
-1989-05-03,1989,0,2,1,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,"Tent Party, Franklin & Marshall College",Lancaster,PA,USA,","
+1989-05-03,1989,0,1,1,1,0,0,0,1989 Tour,1989,Possum,,1,"Tent Party, Franklin & Marshall College",Lancaster,PA,USA,","
+1989-05-03,1989,0,2,1,1,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,"Tent Party, Franklin & Marshall College",Lancaster,PA,USA,","
 1989-05-03,1989,0,3,1,1,0,0,5,1989 Tour,1989,The Sloth,Sloth,1,"Tent Party, Franklin & Marshall College",Lancaster,PA,USA,","
 1989-05-03,1989,0,4,6,1,0,0,1,1989 Tour,1989,Contact,,1,"Tent Party, Franklin & Marshall College",Lancaster,PA,USA,
 1989-05-05,1989,0,1,1,1,0,0,2,1989 Tour,1989,Golgi Apparatus,Golgi,1,"Sigma Phi House, Hamilton College",Clinton,NY,USA,","
-1989-05-05,1989,0,2,1,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,"Sigma Phi House, Hamilton College",Clinton,NY,USA,","
+1989-05-05,1989,0,2,1,1,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,"Sigma Phi House, Hamilton College",Clinton,NY,USA,","
 1989-05-05,1989,0,3,1,1,0,0,18,1989 Tour,1989,Ya Mar,,0,"Sigma Phi House, Hamilton College",Clinton,NY,USA,","
 1989-05-05,1989,0,4,2,1,0,0,9,1989 Tour,1989,Fluffhead,,1,"Sigma Phi House, Hamilton College",Clinton,NY,USA,>
 1989-05-05,1989,0,5,2,1,0,0,2,1989 Tour,1989,Alumni Blues,Alumni,1,"Sigma Phi House, Hamilton College",Clinton,NY,USA,>
@@ -431,16 +431,16 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-05-05,1989,0,12,1,2,0,0,2,1989 Tour,1989,Take the 'A' Train,'A' Train,0,"Sigma Phi House, Hamilton College",Clinton,NY,USA,","
 1989-05-05,1989,0,13,1,2,0,0,2,1989 Tour,1989,Good Times Bad Times,GTBT,0,"Sigma Phi House, Hamilton College",Clinton,NY,USA,","
 1989-05-05,1989,0,14,6,2,0,0,3,1989 Tour,1989,McGrupp and the Watchful Hosemasters,McGrupp,1,"Sigma Phi House, Hamilton College",Clinton,NY,USA,
-1989-05-06,1989,0,1,2,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,"Collis Center, Dartmouth College",Hanover,NH,USA,>
+1989-05-06,1989,0,1,2,1,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,"Collis Center, Dartmouth College",Hanover,NH,USA,>
 1989-05-06,1989,0,2,1,1,0,0,1,1989 Tour,1989,I Didn't Know,IDK,1,"Collis Center, Dartmouth College",Hanover,NH,USA,","
 1989-05-06,1989,0,3,2,1,0,0,3,1989 Tour,1989,Mike's Song,Mike's,1,"Collis Center, Dartmouth College",Hanover,NH,USA,>
 1989-05-06,1989,0,4,2,1,0,0,3,1989 Tour,1989,I Am Hydrogen,Hydrogen,1,"Collis Center, Dartmouth College",Hanover,NH,USA,>
 1989-05-06,1989,0,5,1,1,0,0,3,1989 Tour,1989,Weekapaug Groove,Weekapaug,1,"Collis Center, Dartmouth College",Hanover,NH,USA,","
 1989-05-06,1989,0,6,1,1,0,0,3,1989 Tour,1989,Esther,,1,"Collis Center, Dartmouth College",Hanover,NH,USA,","
 1989-05-06,1989,0,7,1,1,0,0,2,1989 Tour,1989,The Sloth,Sloth,1,"Collis Center, Dartmouth College",Hanover,NH,USA,","
-1989-05-06,1989,0,8,1,1,0,0,2,1989 Tour,1989,Possum,,1,"Collis Center, Dartmouth College",Hanover,NH,USA,","
+1989-05-06,1989,0,8,1,1,0,0,1,1989 Tour,1989,Possum,,1,"Collis Center, Dartmouth College",Hanover,NH,USA,","
 1989-05-06,1989,0,9,1,1,0,0,13,1989 Tour,1989,Bold As Love,,0,"Collis Center, Dartmouth College",Hanover,NH,USA,","
-1989-05-06,1989,0,10,1,1,0,0,3,1989 Tour,1989,AC/DC Bag,Bag,1,"Collis Center, Dartmouth College",Hanover,NH,USA,","
+1989-05-06,1989,0,10,1,1,0,0,2,1989 Tour,1989,AC/DC Bag,Bag,1,"Collis Center, Dartmouth College",Hanover,NH,USA,","
 1989-05-06,1989,0,11,2,1,0,0,3,1989 Tour,1989,Colonel Forbin's Ascent,Forbin's,1,"Collis Center, Dartmouth College",Hanover,NH,USA,>
 1989-05-06,1989,0,12,1,1,0,0,3,1989 Tour,1989,Fly Famous Mockingbird,Mockingbird,1,"Collis Center, Dartmouth College",Hanover,NH,USA,","
 1989-05-06,1989,0,13,4,1,0,0,3,1989 Tour,1989,David Bowie,Bowie,1,"Collis Center, Dartmouth College",Hanover,NH,USA,
@@ -448,7 +448,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-05-06,1989,0,15,1,2,0,0,10,1989 Tour,1989,Suzy Greenberg,Suzy,1,"Collis Center, Dartmouth College",Hanover,NH,USA,","
 1989-05-06,1989,0,16,1,2,0,0,2,1989 Tour,1989,Contact,,1,"Collis Center, Dartmouth College",Hanover,NH,USA,","
 1989-05-06,1989,0,17,1,2,0,0,10,1989 Tour,1989,Fire,,0,"Collis Center, Dartmouth College",Hanover,NH,USA,","
-1989-05-06,1989,0,18,1,2,0,0,28,1989 Tour,1989,Harry Hood,Hood,1,"Collis Center, Dartmouth College",Hanover,NH,USA,","
+1989-05-06,1989,0,18,1,2,0,0,27,1989 Tour,1989,Harry Hood,Hood,1,"Collis Center, Dartmouth College",Hanover,NH,USA,","
 1989-05-06,1989,0,19,2,2,0,0,1,1989 Tour,1989,Golgi Apparatus,Golgi,1,"Collis Center, Dartmouth College",Hanover,NH,USA,>
 1989-05-06,1989,0,20,1,2,0,0,12,1989 Tour,1989,Slave to the Traffic Light,Slave,1,"Collis Center, Dartmouth College",Hanover,NH,USA,","
 1989-05-06,1989,0,21,6,2,0,0,4,1989 Tour,1989,Divided Sky,Divided,1,"Collis Center, Dartmouth College",Hanover,NH,USA,
@@ -459,9 +459,9 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-05-09,1989,0,5,2,1,0,0,3,1989 Tour,1989,I Am Hydrogen,Hydrogen,1,The Front,Burlington,VT,USA,>
 1989-05-09,1989,0,6,1,1,0,0,3,1989 Tour,1989,Weekapaug Groove,Weekapaug,1,The Front,Burlington,VT,USA,","
 1989-05-09,1989,0,7,1,1,0,0,3,1989 Tour,1989,The Sloth,Sloth,1,The Front,Burlington,VT,USA,","
-1989-05-09,1989,0,8,1,1,0,0,3,1989 Tour,1989,Possum,,1,The Front,Burlington,VT,USA,","
+1989-05-09,1989,0,8,1,1,0,0,2,1989 Tour,1989,Possum,,1,The Front,Burlington,VT,USA,","
 1989-05-09,1989,0,9,4,1,0,0,3,1989 Tour,1989,Divided Sky,Divided,1,The Front,Burlington,VT,USA,
-1989-05-09,1989,0,10,1,2,0,0,3,1989 Tour,1989,You Enjoy Myself,YEM,1,The Front,Burlington,VT,USA,","
+1989-05-09,1989,0,10,1,2,0,0,2,1989 Tour,1989,You Enjoy Myself,YEM,1,The Front,Burlington,VT,USA,","
 1989-05-09,1989,0,11,1,2,0,0,20,1989 Tour,1989,La Grange,,0,The Front,Burlington,VT,USA,","
 1989-05-09,1989,0,12,1,2,0,0,241,1989 Tour,1989,If I Don't Be There By Morning,,0,The Front,Burlington,VT,USA,","
 1989-05-09,1989,0,13,2,2,0,0,3,1989 Tour,1989,Slave to the Traffic Light,Slave,1,The Front,Burlington,VT,USA,>
@@ -475,15 +475,15 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-05-09,1989,0,21,1,2,0,0,3,1989 Tour,1989,Bold As Love,,0,The Front,Burlington,VT,USA,","
 1989-05-09,1989,0,22,1,2,0,0,13,1989 Tour,1989,Harpua,,1,The Front,Burlington,VT,USA,","
 1989-05-09,1989,0,23,6,2,0,0,10,1989 Tour,1989,Whipping Post,,0,The Front,Burlington,VT,USA,
-1989-05-13,1989,0,1,1,1,0,0,5,1989 Tour,1989,AC/DC Bag,Bag,1,The Orange Grove,Syracuse,NY,USA,","
+1989-05-13,1989,0,1,1,1,0,0,4,1989 Tour,1989,AC/DC Bag,Bag,1,The Orange Grove,Syracuse,NY,USA,","
 1989-05-13,1989,0,2,2,1,0,0,6,1989 Tour,1989,Alumni Blues,Alumni,1,The Orange Grove,Syracuse,NY,USA,>
 1989-05-13,1989,0,3,2,1,0,0,6,1989 Tour,1989,Letter to Jimmy Page,LTJP,1,The Orange Grove,Syracuse,NY,USA,>
 1989-05-13,1989,0,4,1,1,0,0,0,1989 Tour,1989,Alumni Blues,Alumni,1,The Orange Grove,Syracuse,NY,USA,","
-1989-05-13,1989,0,5,1,1,0,0,2,1989 Tour,1989,You Enjoy Myself,YEM,1,The Orange Grove,Syracuse,NY,USA,","
+1989-05-13,1989,0,5,1,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,The Orange Grove,Syracuse,NY,USA,","
 1989-05-13,1989,0,6,1,1,0,0,5,1989 Tour,1989,Golgi Apparatus,Golgi,1,The Orange Grove,Syracuse,NY,USA,","
 1989-05-13,1989,0,7,1,1,0,0,2,1989 Tour,1989,La Grange,,0,The Orange Grove,Syracuse,NY,USA,","
 1989-05-13,1989,0,8,1,1,0,0,6,1989 Tour,1989,Fluffhead,,1,The Orange Grove,Syracuse,NY,USA,","
-1989-05-13,1989,0,9,2,1,0,0,2,1989 Tour,1989,Possum,,1,The Orange Grove,Syracuse,NY,USA,>
+1989-05-13,1989,0,9,2,1,0,0,1,1989 Tour,1989,Possum,,1,The Orange Grove,Syracuse,NY,USA,>
 1989-05-13,1989,0,10,1,1,0,0,15,1989 Tour,1989,Foam,,1,The Orange Grove,Syracuse,NY,USA,","
 1989-05-13,1989,0,11,1,1,0,0,15,1989 Tour,1989,Walk Away,,0,The Orange Grove,Syracuse,NY,USA,","
 1989-05-13,1989,0,12,1,1,0,0,6,1989 Tour,1989,Take the 'A' Train,'A' Train,0,The Orange Grove,Syracuse,NY,USA,","
@@ -492,30 +492,30 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-05-13,1989,0,15,2,2,0,0,5,1989 Tour,1989,Suzy Greenberg,Suzy,1,The Orange Grove,Syracuse,NY,USA,>
 1989-05-13,1989,0,16,1,2,0,0,2,1989 Tour,1989,Bold As Love,,0,The Orange Grove,Syracuse,NY,USA,","
 1989-05-13,1989,0,17,1,2,0,0,2,1989 Tour,1989,The Lizards,Lizards,1,The Orange Grove,Syracuse,NY,USA,","
-1989-05-13,1989,0,18,1,2,0,0,5,1989 Tour,1989,Harry Hood,Hood,1,The Orange Grove,Syracuse,NY,USA,","
+1989-05-13,1989,0,18,1,2,0,0,4,1989 Tour,1989,Harry Hood,Hood,1,The Orange Grove,Syracuse,NY,USA,","
 1989-05-13,1989,0,19,1,2,0,0,18,1989 Tour,1989,If I Only Had a Brain,,0,The Orange Grove,Syracuse,NY,USA,","
 1989-05-13,1989,0,20,1,2,0,0,5,1989 Tour,1989,Contact,,1,The Orange Grove,Syracuse,NY,USA,","
 1989-05-13,1989,0,21,5,2,0,0,5,1989 Tour,1989,Fire,,0,The Orange Grove,Syracuse,NY,USA,
 1989-05-13,1989,0,22,6,e,0,0,2,1989 Tour,1989,Whipping Post,,0,The Orange Grove,Syracuse,NY,USA,
-1989-05-14,1989,0,1,1,1,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,"Campus Pond, University of Massachusetts",Amherst,MA,USA,","
+1989-05-14,1989,0,1,1,1,0,0,0,1989 Tour,1989,AC/DC Bag,Bag,1,"Campus Pond, University of Massachusetts",Amherst,MA,USA,","
 1989-05-14,1989,0,2,1,1,0,0,3,1989 Tour,1989,Divided Sky,Divided,1,"Campus Pond, University of Massachusetts",Amherst,MA,USA,","
 1989-05-14,1989,0,3,1,1,0,0,1,1989 Tour,1989,The Lizards,Lizards,1,"Campus Pond, University of Massachusetts",Amherst,MA,USA,","
 1989-05-14,1989,0,4,1,1,0,0,3,1989 Tour,1989,Run Like an Antelope,Antelope,1,"Campus Pond, University of Massachusetts",Amherst,MA,USA,","
 1989-05-14,1989,0,5,1,1,0,0,10,1989 Tour,1989,Terrapin,,0,"Campus Pond, University of Massachusetts",Amherst,MA,USA,","
-1989-05-14,1989,0,6,1,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,"Campus Pond, University of Massachusetts",Amherst,MA,USA,","
-1989-05-14,1989,0,7,6,1,0,0,1,1989 Tour,1989,Possum,,1,"Campus Pond, University of Massachusetts",Amherst,MA,USA,
-1989-05-19,1989,0,1,1,1,0,0,2,1989 Tour,1989,Possum,,1,The Blue Pelican,Newport,RI,USA,","
+1989-05-14,1989,0,6,1,1,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,"Campus Pond, University of Massachusetts",Amherst,MA,USA,","
+1989-05-14,1989,0,7,6,1,0,0,0,1989 Tour,1989,Possum,,1,"Campus Pond, University of Massachusetts",Amherst,MA,USA,
+1989-05-19,1989,0,1,1,1,0,0,1,1989 Tour,1989,Possum,,1,The Blue Pelican,Newport,RI,USA,","
 1989-05-19,1989,0,2,6,1,0,0,3,1989 Tour,1989,Contact,,1,The Blue Pelican,Newport,RI,USA,
-1989-05-20,1989,0,1,2,1,0,0,3,1989 Tour,1989,AC/DC Bag,Bag,1,Northfield/Mt. Hermon School Gymnasium,Northfield,MA,USA,>
+1989-05-20,1989,0,1,2,1,0,0,2,1989 Tour,1989,AC/DC Bag,Bag,1,Northfield/Mt. Hermon School Gymnasium,Northfield,MA,USA,>
 1989-05-20,1989,0,2,2,1,0,0,4,1989 Tour,1989,Alumni Blues,Alumni,1,Northfield/Mt. Hermon School Gymnasium,Northfield,MA,USA,>
 1989-05-20,1989,0,3,2,1,0,0,4,1989 Tour,1989,Letter to Jimmy Page,LTJP,1,Northfield/Mt. Hermon School Gymnasium,Northfield,MA,USA,>
 1989-05-20,1989,0,4,1,1,0,0,0,1989 Tour,1989,Alumni Blues,Alumni,1,Northfield/Mt. Hermon School Gymnasium,Northfield,MA,USA,","
-1989-05-20,1989,0,5,1,1,0,0,3,1989 Tour,1989,You Enjoy Myself,YEM,1,Northfield/Mt. Hermon School Gymnasium,Northfield,MA,USA,","
+1989-05-20,1989,0,5,1,1,0,0,2,1989 Tour,1989,You Enjoy Myself,YEM,1,Northfield/Mt. Hermon School Gymnasium,Northfield,MA,USA,","
 1989-05-20,1989,0,6,1,1,0,0,3,1989 Tour,1989,The Lizards,Lizards,1,Northfield/Mt. Hermon School Gymnasium,Northfield,MA,USA,","
 1989-05-20,1989,0,7,1,1,0,0,6,1989 Tour,1989,Wilson,,1,Northfield/Mt. Hermon School Gymnasium,Northfield,MA,USA,","
 1989-05-20,1989,0,8,1,1,0,0,3,1989 Tour,1989,Divided Sky,Divided,1,Northfield/Mt. Hermon School Gymnasium,Northfield,MA,USA,","
 1989-05-20,1989,0,9,1,1,0,0,6,1989 Tour,1989,I Didn't Know,IDK,1,Northfield/Mt. Hermon School Gymnasium,Northfield,MA,USA,","
-1989-05-20,1989,0,10,4,1,0,0,1,1989 Tour,1989,Possum,,1,Northfield/Mt. Hermon School Gymnasium,Northfield,MA,USA,
+1989-05-20,1989,0,10,4,1,0,0,0,1989 Tour,1989,Possum,,1,Northfield/Mt. Hermon School Gymnasium,Northfield,MA,USA,
 1989-05-20,1989,0,11,1,2,0,0,4,1989 Tour,1989,Bold As Love,,0,Northfield/Mt. Hermon School Gymnasium,Northfield,MA,USA,","
 1989-05-20,1989,0,12,2,2,0,0,6,1989 Tour,1989,Mike's Song,Mike's,1,Northfield/Mt. Hermon School Gymnasium,Northfield,MA,USA,>
 1989-05-20,1989,0,13,2,2,0,0,6,1989 Tour,1989,I Am Hydrogen,Hydrogen,1,Northfield/Mt. Hermon School Gymnasium,Northfield,MA,USA,>
@@ -526,7 +526,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-05-20,1989,0,18,1,2,0,0,4,1989 Tour,1989,David Bowie,Bowie,1,Northfield/Mt. Hermon School Gymnasium,Northfield,MA,USA,","
 1989-05-20,1989,0,19,5,2,0,0,4,1989 Tour,1989,Golgi Apparatus,Golgi,1,Northfield/Mt. Hermon School Gymnasium,Northfield,MA,USA,
 1989-05-20,1989,0,20,6,e,0,0,10,1989 Tour,1989,Good Times Bad Times,GTBT,0,Northfield/Mt. Hermon School Gymnasium,Northfield,MA,USA,
-1989-05-21,1989,0,1,1,1,0,0,5,1989 Tour,1989,Harry Hood,Hood,1,320 Spear Street,Burlington,VT,USA,","
+1989-05-21,1989,0,1,1,1,0,0,4,1989 Tour,1989,Harry Hood,Hood,1,320 Spear Street,Burlington,VT,USA,","
 1989-05-21,1989,0,2,1,1,0,0,1,1989 Tour,1989,Foam,,1,320 Spear Street,Burlington,VT,USA,","
 1989-05-21,1989,0,3,1,1,0,0,1,1989 Tour,1989,Contact,,1,320 Spear Street,Burlington,VT,USA,","
 1989-05-21,1989,0,4,2,1,0,0,1,1989 Tour,1989,Mike's Song,Mike's,1,320 Spear Street,Burlington,VT,USA,>
@@ -535,21 +535,21 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-05-21,1989,0,7,1,1,0,0,5,1989 Tour,1989,Split Open and Melt,SOAMelt,1,320 Spear Street,Burlington,VT,USA,","
 1989-05-21,1989,0,8,1,1,0,0,248,1989 Tour,1989,Dazed and Confused,,0,320 Spear Street,Burlington,VT,USA,","
 1989-05-21,1989,0,9,1,1,0,0,7,1989 Tour,1989,The Sloth,Sloth,1,320 Spear Street,Burlington,VT,USA,","
-1989-05-21,1989,0,10,2,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,320 Spear Street,Burlington,VT,USA,>
+1989-05-21,1989,0,10,2,1,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,320 Spear Street,Burlington,VT,USA,>
 1989-05-21,1989,0,11,1,1,0,0,7,1989 Tour,1989,Ya Mar,,0,320 Spear Street,Burlington,VT,USA,","
-1989-05-21,1989,0,12,2,1,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,320 Spear Street,Burlington,VT,USA,>
+1989-05-21,1989,0,12,2,1,0,0,0,1989 Tour,1989,AC/DC Bag,Bag,1,320 Spear Street,Burlington,VT,USA,>
 1989-05-21,1989,0,13,4,1,0,0,1,1989 Tour,1989,Divided Sky,Divided,1,320 Spear Street,Burlington,VT,USA,
 1989-05-21,1989,0,14,1,2,0,0,1,1989 Tour,1989,Alumni Blues,Alumni,1,320 Spear Street,Burlington,VT,USA,","
-1989-05-21,1989,0,15,6,2,0,0,1,1989 Tour,1989,Possum,,1,320 Spear Street,Burlington,VT,USA,
+1989-05-21,1989,0,15,6,2,0,0,0,1989 Tour,1989,Possum,,1,320 Spear Street,Burlington,VT,USA,
 1989-05-26,1989,0,1,1,1,0,0,2,1989 Tour,1989,Bold As Love,,0,Valley Club Cafe,Rutland,VT,USA,","
-1989-05-26,1989,0,2,1,1,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,Valley Club Cafe,Rutland,VT,USA,","
+1989-05-26,1989,0,2,1,1,0,0,0,1989 Tour,1989,AC/DC Bag,Bag,1,Valley Club Cafe,Rutland,VT,USA,","
 1989-05-26,1989,0,3,2,1,0,0,1,1989 Tour,1989,Mike's Song,Mike's,1,Valley Club Cafe,Rutland,VT,USA,>
 1989-05-26,1989,0,4,2,1,0,0,1,1989 Tour,1989,I Am Hydrogen,Hydrogen,1,Valley Club Cafe,Rutland,VT,USA,>
 1989-05-26,1989,0,5,1,1,0,0,1,1989 Tour,1989,Weekapaug Groove,Weekapaug,1,Valley Club Cafe,Rutland,VT,USA,","
 1989-05-26,1989,0,6,1,1,0,0,18,1989 Tour,1989,Sanity,,1,Valley Club Cafe,Rutland,VT,USA,","
 1989-05-26,1989,0,7,2,1,0,0,24,1989 Tour,1989,Halley's Comet,Halley's,1,Valley Club Cafe,Rutland,VT,USA,>
 1989-05-26,1989,0,8,1,1,0,0,1,1989 Tour,1989,The Sloth,Sloth,1,Valley Club Cafe,Rutland,VT,USA,","
-1989-05-26,1989,0,9,4,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,Valley Club Cafe,Rutland,VT,USA,
+1989-05-26,1989,0,9,4,1,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,Valley Club Cafe,Rutland,VT,USA,
 1989-05-26,1989,0,10,1,2,0,0,2,1989 Tour,1989,David Bowie,Bowie,1,Valley Club Cafe,Rutland,VT,USA,","
 1989-05-26,1989,0,11,1,2,0,0,23,1989 Tour,1989,The Mango Song,Mango,1,Valley Club Cafe,Rutland,VT,USA,","
 1989-05-26,1989,0,12,1,2,0,0,1,1989 Tour,1989,Split Open and Melt,SOAMelt,1,Valley Club Cafe,Rutland,VT,USA,","
@@ -559,15 +559,15 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-05-26,1989,0,16,1,3,0,0,8,1989 Tour,1989,Slave to the Traffic Light,Slave,1,Valley Club Cafe,Rutland,VT,USA,","
 1989-05-26,1989,0,17,1,3,0,0,23,1989 Tour,1989,Funky Bitch,,0,Valley Club Cafe,Rutland,VT,USA,","
 1989-05-26,1989,0,18,2,3,0,0,48,1989 Tour,1989,The Ballad of Curtis Loew,Curtis Loew,0,Valley Club Cafe,Rutland,VT,USA,>
-1989-05-26,1989,0,19,5,3,0,0,1,1989 Tour,1989,Possum,,1,Valley Club Cafe,Rutland,VT,USA,
+1989-05-26,1989,0,19,5,3,0,0,0,1989 Tour,1989,Possum,,1,Valley Club Cafe,Rutland,VT,USA,
 1989-05-26,1989,0,20,6,e,0,0,74,1989 Tour,1989,The Practical Song,,1,Valley Club Cafe,Rutland,VT,USA,
-1989-05-27,1989,0,1,1,1,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,"Alpha Delta Phi Fraternity, Trinity College",Hartford,CT,USA,","
+1989-05-27,1989,0,1,1,1,0,0,0,1989 Tour,1989,AC/DC Bag,Bag,1,"Alpha Delta Phi Fraternity, Trinity College",Hartford,CT,USA,","
 1989-05-27,1989,0,2,2,1,0,0,1,1989 Tour,1989,Mike's Song,Mike's,1,"Alpha Delta Phi Fraternity, Trinity College",Hartford,CT,USA,>
 1989-05-27,1989,0,3,2,1,0,0,1,1989 Tour,1989,I Am Hydrogen,Hydrogen,1,"Alpha Delta Phi Fraternity, Trinity College",Hartford,CT,USA,>
 1989-05-27,1989,0,4,1,1,0,0,1,1989 Tour,1989,Weekapaug Groove,Weekapaug,1,"Alpha Delta Phi Fraternity, Trinity College",Hartford,CT,USA,","
 1989-05-27,1989,0,5,1,1,0,0,1,1989 Tour,1989,Funky Bitch,,0,"Alpha Delta Phi Fraternity, Trinity College",Hartford,CT,USA,","
 1989-05-27,1989,0,6,1,1,0,0,13,1989 Tour,1989,Fee,,1,"Alpha Delta Phi Fraternity, Trinity College",Hartford,CT,USA,","
-1989-05-27,1989,0,7,1,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,"Alpha Delta Phi Fraternity, Trinity College",Hartford,CT,USA,","
+1989-05-27,1989,0,7,1,1,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,"Alpha Delta Phi Fraternity, Trinity College",Hartford,CT,USA,","
 1989-05-27,1989,0,8,1,1,0,0,3,1989 Tour,1989,Take the 'A' Train,'A' Train,0,"Alpha Delta Phi Fraternity, Trinity College",Hartford,CT,USA,","
 1989-05-27,1989,0,9,1,1,0,0,7,1989 Tour,1989,Fluffhead,,1,"Alpha Delta Phi Fraternity, Trinity College",Hartford,CT,USA,","
 1989-05-27,1989,0,10,1,1,0,0,1,1989 Tour,1989,Bathtub Gin,Gin,1,"Alpha Delta Phi Fraternity, Trinity College",Hartford,CT,USA,","
@@ -580,7 +580,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-05-28,1989,0,6,1,1,0,0,2,1989 Tour,1989,Slave to the Traffic Light,Slave,1,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,","
 1989-05-28,1989,0,7,1,1,0,0,10,1989 Tour,1989,Esther,,1,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,","
 1989-05-28,1989,0,8,1,1,0,0,8,1989 Tour,1989,Suzy Greenberg,Suzy,1,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,","
-1989-05-28,1989,0,9,4,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,
+1989-05-28,1989,0,9,4,1,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,
 1989-05-28,1989,0,10,1,2,0,0,8,1989 Tour,1989,Fire,,0,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,","
 1989-05-28,1989,0,11,2,2,0,0,1,1989 Tour,1989,Mike's Song,Mike's,1,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,>
 1989-05-28,1989,0,12,2,2,0,0,1,1989 Tour,1989,I Am Hydrogen,Hydrogen,1,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,>
@@ -590,14 +590,14 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-05-28,1989,0,16,1,2,0,0,41,1989 Tour,1989,Ride Captain Ride,,0,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,","
 1989-05-28,1989,0,17,1,2,0,0,10,1989 Tour,1989,Peaches en Regalia,Peaches,0,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,","
 1989-05-28,1989,0,18,1,2,0,0,1,1989 Tour,1989,Take the 'A' Train,'A' Train,0,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,","
-1989-05-28,1989,0,19,1,2,0,0,2,1989 Tour,1989,Possum,,1,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,","
+1989-05-28,1989,0,19,1,2,0,0,1,1989 Tour,1989,Possum,,1,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,","
 1989-05-28,1989,0,20,1,2,0,0,3,1989 Tour,1989,Contact,,1,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,","
 1989-05-28,1989,0,21,3,2,0,0,251,1989 Tour,1989,Funky (Breakdown),,0,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,->
 1989-05-28,1989,0,22,1,2,0,0,32,1989 Tour,1989,The Price of Love,,0,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,","
 1989-05-28,1989,0,23,1,2,0,0,1,1989 Tour,1989,Funky Bitch,,0,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,","
 1989-05-28,1989,0,24,1,2,0,0,2,1989 Tour,1989,Split Open and Melt,SOAMelt,1,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,","
 1989-05-28,1989,0,25,1,2,0,0,2,1989 Tour,1989,The Mango Song,Mango,1,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,","
-1989-05-28,1989,0,26,4,2,0,0,3,1989 Tour,1989,Harry Hood,Hood,1,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,
+1989-05-28,1989,0,26,4,2,0,0,2,1989 Tour,1989,Harry Hood,Hood,1,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,
 1989-05-28,1989,0,27,3,3,0,0,20,1989 Tour,1989,Jam,,0,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,->
 1989-05-28,1989,0,28,1,3,1,0,8,1989 Tour,1989,La Grange,,0,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,","
 1989-05-28,1989,0,29,1,3,0,0,2,1989 Tour,1989,The Sloth,Sloth,1,"Ian McLean's Party, Connie Condon's Farm",Hebron,NY,USA,","
@@ -607,14 +607,14 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-06-10,1989,0,1,1,1,0,0,4,1989 Tour,1989,Run Like an Antelope,Antelope,1,The Living Room,Providence,RI,USA,","
 1989-06-10,1989,0,2,2,1,0,0,18,1989 Tour,1989,McGrupp and the Watchful Hosemasters,McGrupp,1,The Living Room,Providence,RI,USA,>
 1989-06-10,1989,0,3,1,1,0,0,4,1989 Tour,1989,Ya Mar,,0,The Living Room,Providence,RI,USA,","
-1989-06-10,1989,0,4,1,1,0,0,4,1989 Tour,1989,You Enjoy Myself,YEM,1,The Living Room,Providence,RI,USA,","
-1989-06-10,1989,0,5,2,1,0,0,5,1989 Tour,1989,AC/DC Bag,Bag,1,The Living Room,Providence,RI,USA,>
+1989-06-10,1989,0,4,1,1,0,0,3,1989 Tour,1989,You Enjoy Myself,YEM,1,The Living Room,Providence,RI,USA,","
+1989-06-10,1989,0,5,2,1,0,0,4,1989 Tour,1989,AC/DC Bag,Bag,1,The Living Room,Providence,RI,USA,>
 1989-06-10,1989,0,6,1,1,0,0,7,1989 Tour,1989,Foam,,1,The Living Room,Providence,RI,USA,","
 1989-06-10,1989,0,7,6,1,0,0,5,1989 Tour,1989,Good Times Bad Times,GTBT,0,The Living Room,Providence,RI,USA,
 1989-06-14,1989,1,1,1,1,0,0,0,1989 Tour,1989,Me and Bobby McGee,,1,"Private Party, Stowe High School Graduation, Lake Champlain",Burlington,VT,USA,","
 1989-06-14,1989,1,2,6,1,0,0,0,1989 Tour,1989,Hotel California,,1,"Private Party, Stowe High School Graduation, Lake Champlain",Burlington,VT,USA,
-1989-06-23,1989,0,1,1,1,0,0,3,1989 Tour,1989,AC/DC Bag,Bag,1,The Paradise,Boston,MA,USA,","
-1989-06-23,1989,0,2,2,1,0,0,3,1989 Tour,1989,You Enjoy Myself,YEM,1,The Paradise,Boston,MA,USA,>
+1989-06-23,1989,0,1,1,1,0,0,2,1989 Tour,1989,AC/DC Bag,Bag,1,The Paradise,Boston,MA,USA,","
+1989-06-23,1989,0,2,2,1,0,0,2,1989 Tour,1989,You Enjoy Myself,YEM,1,The Paradise,Boston,MA,USA,>
 1989-06-23,1989,0,3,1,1,0,0,11,1989 Tour,1989,Wilson,,1,The Paradise,Boston,MA,USA,","
 1989-06-23,1989,0,4,1,1,0,0,7,1989 Tour,1989,Peaches en Regalia,Peaches,0,The Paradise,Boston,MA,USA,","
 1989-06-23,1989,0,5,1,1,0,0,20,1989 Tour,1989,Donna Lee,,0,The Paradise,Boston,MA,USA,","
@@ -626,25 +626,25 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-06-23,1989,0,11,4,1,0,0,3,1989 Tour,1989,Run Like an Antelope,Antelope,1,The Paradise,Boston,MA,USA,
 1989-06-23,1989,0,12,1,2,0,0,7,1989 Tour,1989,The Sloth,Sloth,1,The Paradise,Boston,MA,USA,","
 1989-06-23,1989,0,13,1,2,0,0,8,1989 Tour,1989,Fluffhead,,1,The Paradise,Boston,MA,USA,","
-1989-06-23,1989,0,14,1,2,0,0,7,1989 Tour,1989,Harry Hood,Hood,1,The Paradise,Boston,MA,USA,","
+1989-06-23,1989,0,14,1,2,0,0,6,1989 Tour,1989,Harry Hood,Hood,1,The Paradise,Boston,MA,USA,","
 1989-06-23,1989,0,15,1,2,0,0,3,1989 Tour,1989,Ya Mar,,0,The Paradise,Boston,MA,USA,","
 1989-06-23,1989,0,16,1,2,0,0,7,1989 Tour,1989,Split Open and Melt,SOAMelt,1,The Paradise,Boston,MA,USA,","
-1989-06-23,1989,0,17,1,2,0,0,7,1989 Tour,1989,Possum,,1,The Paradise,Boston,MA,USA,","
+1989-06-23,1989,0,17,1,2,0,0,6,1989 Tour,1989,Possum,,1,The Paradise,Boston,MA,USA,","
 1989-06-23,1989,0,18,5,2,0,0,9,1989 Tour,1989,David Bowie,Bowie,1,The Paradise,Boston,MA,USA,
 1989-06-23,1989,0,19,2,e,0,0,7,1989 Tour,1989,Contact,,1,The Paradise,Boston,MA,USA,>
 1989-06-23,1989,0,20,6,e,0,0,3,1989 Tour,1989,Good Times Bad Times,GTBT,0,The Paradise,Boston,MA,USA,
-1989-06-29,1989,0,1,2,1,0,0,1,1989 Tour,1989,Possum,,1,The Front,Burlington,VT,USA,>
+1989-06-29,1989,0,1,2,1,0,0,0,1989 Tour,1989,Possum,,1,The Front,Burlington,VT,USA,>
 1989-06-29,1989,0,2,1,1,0,0,8,1989 Tour,1989,Divided Sky,Divided,1,The Front,Burlington,VT,USA,","
 1989-06-29,1989,0,3,6,1,0,0,4,1989 Tour,1989,Foam,,1,The Front,Burlington,VT,USA,
 1989-06-30,1989,0,1,1,1,0,0,9,1989 Tour,1989,Funky Bitch,,0,Pearl Street Ballroom,Northampton,MA,USA,","
-1989-06-30,1989,0,2,1,1,0,0,2,1989 Tour,1989,You Enjoy Myself,YEM,1,Pearl Street Ballroom,Northampton,MA,USA,","
+1989-06-30,1989,0,2,1,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,Pearl Street Ballroom,Northampton,MA,USA,","
 1989-06-30,1989,0,3,2,1,0,0,5,1989 Tour,1989,McGrupp and the Watchful Hosemasters,McGrupp,1,Pearl Street Ballroom,Northampton,MA,USA,>
-1989-06-30,1989,0,4,1,1,0,0,1,1989 Tour,1989,Possum,,1,Pearl Street Ballroom,Northampton,MA,USA,","
+1989-06-30,1989,0,4,1,1,0,0,0,1989 Tour,1989,Possum,,1,Pearl Street Ballroom,Northampton,MA,USA,","
 1989-06-30,1989,0,5,1,1,0,0,2,1989 Tour,1989,Donna Lee,,0,Pearl Street Ballroom,Northampton,MA,USA,","
 1989-06-30,1989,0,6,2,1,0,0,2,1989 Tour,1989,Fluffhead,,1,Pearl Street Ballroom,Northampton,MA,USA,>
 1989-06-30,1989,0,7,4,1,0,0,2,1989 Tour,1989,Run Like an Antelope,Antelope,1,Pearl Street Ballroom,Northampton,MA,USA,
 1989-06-30,1989,0,8,1,2,0,0,17,1989 Tour,1989,Walk Away,,0,Pearl Street Ballroom,Northampton,MA,USA,","
-1989-06-30,1989,0,9,2,2,0,0,2,1989 Tour,1989,AC/DC Bag,Bag,1,Pearl Street Ballroom,Northampton,MA,USA,>
+1989-06-30,1989,0,9,2,2,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,Pearl Street Ballroom,Northampton,MA,USA,>
 1989-06-30,1989,0,10,2,2,0,0,44,1989 Tour,1989,The Curtain,Curtain,1,Pearl Street Ballroom,Northampton,MA,USA,>
 1989-06-30,1989,0,11,1,2,0,0,9,1989 Tour,1989,Slave to the Traffic Light,Slave,1,Pearl Street Ballroom,Northampton,MA,USA,","
 1989-06-30,1989,0,12,2,2,0,0,9,1989 Tour,1989,Bathtub Gin,Gin,1,Pearl Street Ballroom,Northampton,MA,USA,>
@@ -653,7 +653,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-06-30,1989,0,15,6,2,0,0,2,1989 Tour,1989,Weekapaug Groove,Weekapaug,1,Pearl Street Ballroom,Northampton,MA,USA,
 1989-07-01,1989,0,1,1,1,0,0,3,1989 Tour,1989,Split Open and Melt,SOAMelt,1,Les Foufounes Électriques,"Montréal, Québec",,Canada,","
 1989-07-01,1989,0,2,1,1,0,0,1,1989 Tour,1989,Donna Lee,,0,Les Foufounes Électriques,"Montréal, Québec",,Canada,","
-1989-07-01,1989,0,3,2,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,Les Foufounes Électriques,"Montréal, Québec",,Canada,>
+1989-07-01,1989,0,3,2,1,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,Les Foufounes Électriques,"Montréal, Québec",,Canada,>
 1989-07-01,1989,0,4,1,1,0,0,2,1989 Tour,1989,Divided Sky,Divided,1,Les Foufounes Électriques,"Montréal, Québec",,Canada,","
 1989-07-01,1989,0,5,1,1,0,0,3,1989 Tour,1989,The Lizards,Lizards,1,Les Foufounes Électriques,"Montréal, Québec",,Canada,","
 1989-07-01,1989,0,6,1,1,0,0,3,1989 Tour,1989,David Bowie,Bowie,1,Les Foufounes Électriques,"Montréal, Québec",,Canada,","
@@ -676,15 +676,15 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-08-12,1989,0,9,4,1,0,0,12,1989 Tour,1989,Take the 'A' Train,'A' Train,0,Burlington Boathouse,Burlington,VT,USA,
 1989-08-12,1989,0,10,1,2,0,0,263,1989 Tour,1989,Blue Sky,,0,Burlington Boathouse,Burlington,VT,USA,","
 1989-08-12,1989,0,11,1,2,0,0,12,1989 Tour,1989,Suzy Greenberg,Suzy,1,Burlington Boathouse,Burlington,VT,USA,","
-1989-08-12,1989,0,12,1,2,0,0,3,1989 Tour,1989,AC/DC Bag,Bag,1,Burlington Boathouse,Burlington,VT,USA,","
+1989-08-12,1989,0,12,1,2,0,0,2,1989 Tour,1989,AC/DC Bag,Bag,1,Burlington Boathouse,Burlington,VT,USA,","
 1989-08-12,1989,0,13,1,2,0,0,5,1989 Tour,1989,Ya Mar,,0,Burlington Boathouse,Burlington,VT,USA,","
 1989-08-12,1989,0,14,1,2,0,0,44,1989 Tour,1989,Rocky Top,,0,Burlington Boathouse,Burlington,VT,USA,","
 1989-08-12,1989,0,15,1,2,0,0,28,1989 Tour,1989,On Your Way Down,,0,Burlington Boathouse,Burlington,VT,USA,","
 1989-08-12,1989,0,16,1,2,0,0,263,1989 Tour,1989,Night and Day,,0,Burlington Boathouse,Burlington,VT,USA,","
 1989-08-12,1989,0,17,1,2,0,0,204,1989 Tour,1989,Blue Monk,,0,Burlington Boathouse,Burlington,VT,USA,","
 1989-08-12,1989,0,18,1,2,0,0,2,1989 Tour,1989,I Didn't Know,IDK,1,Burlington Boathouse,Burlington,VT,USA,","
-1989-08-12,1989,0,19,1,2,0,0,2,1989 Tour,1989,You Enjoy Myself,YEM,1,Burlington Boathouse,Burlington,VT,USA,","
-1989-08-12,1989,0,20,4,2,0,0,3,1989 Tour,1989,Possum,,1,Burlington Boathouse,Burlington,VT,USA,
+1989-08-12,1989,0,19,1,2,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,Burlington Boathouse,Burlington,VT,USA,","
+1989-08-12,1989,0,20,4,2,0,0,2,1989 Tour,1989,Possum,,1,Burlington Boathouse,Burlington,VT,USA,
 1989-08-12,1989,0,21,1,3,0,0,28,1989 Tour,1989,Icculus,,1,Burlington Boathouse,Burlington,VT,USA,","
 1989-08-12,1989,0,22,1,3,0,0,3,1989 Tour,1989,Run Like an Antelope,Antelope,1,Burlington Boathouse,Burlington,VT,USA,","
 1989-08-12,1989,0,23,2,3,0,0,261,1989 Tour,1989,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Burlington Boathouse,Burlington,VT,USA,>
@@ -694,20 +694,20 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-08-17,1989,0,3,2,1,0,0,5,1989 Tour,1989,McGrupp and the Watchful Hosemasters,McGrupp,1,The Front,Burlington,VT,USA,>
 1989-08-17,1989,0,4,1,1,0,0,4,1989 Tour,1989,The Sloth,Sloth,1,The Front,Burlington,VT,USA,","
 1989-08-17,1989,0,5,1,1,0,0,2,1989 Tour,1989,Rocky Top,,0,The Front,Burlington,VT,USA,","
-1989-08-17,1989,0,6,1,1,0,0,7,1989 Tour,1989,Harry Hood,Hood,1,The Front,Burlington,VT,USA,","
+1989-08-17,1989,0,6,1,1,0,0,6,1989 Tour,1989,Harry Hood,Hood,1,The Front,Burlington,VT,USA,","
 1989-08-17,1989,0,7,2,1,0,0,4,1989 Tour,1989,Mike's Song,Mike's,1,The Front,Burlington,VT,USA,>
 1989-08-17,1989,0,8,2,1,0,0,4,1989 Tour,1989,I Am Hydrogen,Hydrogen,1,The Front,Burlington,VT,USA,>
 1989-08-17,1989,0,9,4,1,0,0,4,1989 Tour,1989,Weekapaug Groove,Weekapaug,1,The Front,Burlington,VT,USA,
 1989-08-17,1989,0,10,1,2,0,0,5,1989 Tour,1989,Walk Away,,0,The Front,Burlington,VT,USA,","
-1989-08-17,1989,0,11,1,2,0,0,2,1989 Tour,1989,AC/DC Bag,Bag,1,The Front,Burlington,VT,USA,","
+1989-08-17,1989,0,11,1,2,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,The Front,Burlington,VT,USA,","
 1989-08-17,1989,0,12,1,2,0,0,14,1989 Tour,1989,The Mango Song,Mango,1,The Front,Burlington,VT,USA,","
 1989-08-17,1989,0,13,2,2,0,0,7,1989 Tour,1989,Fee,,1,The Front,Burlington,VT,USA,>
-1989-08-17,1989,0,14,1,2,0,0,2,1989 Tour,1989,You Enjoy Myself,YEM,1,The Front,Burlington,VT,USA,","
+1989-08-17,1989,0,14,1,2,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,The Front,Burlington,VT,USA,","
 1989-08-17,1989,0,15,4,2,0,0,4,1989 Tour,1989,The Lizards,Lizards,1,The Front,Burlington,VT,USA,
 1989-08-17,1989,0,16,1,3,0,0,2,1989 Tour,1989,The Oh Kee Pa Ceremony,Oh Kee Pa,1,The Front,Burlington,VT,USA,","
 1989-08-17,1989,0,17,1,3,0,0,16,1989 Tour,1989,Bold As Love,,0,The Front,Burlington,VT,USA,","
-1989-08-17,1989,0,18,1,3,0,0,264,1989 Tour,1989,Punch You in the Eye,PYITE,1,The Front,Burlington,VT,USA,","
-1989-08-17,1989,0,19,1,3,0,0,2,1989 Tour,1989,Possum,,1,The Front,Burlington,VT,USA,","
+1989-08-17,1989,0,18,1,3,0,0,263,1989 Tour,1989,Punch You in the Eye,PYITE,1,The Front,Burlington,VT,USA,","
+1989-08-17,1989,0,19,1,3,0,0,1,1989 Tour,1989,Possum,,1,The Front,Burlington,VT,USA,","
 1989-08-17,1989,0,20,2,3,0,0,16,1989 Tour,1989,Halley's Comet,Halley's,1,The Front,Burlington,VT,USA,>
 1989-08-17,1989,0,21,2,3,0,0,17,1989 Tour,1989,Alumni Blues,Alumni,1,The Front,Burlington,VT,USA,>
 1989-08-17,1989,0,22,2,3,0,0,18,1989 Tour,1989,Letter to Jimmy Page,LTJP,1,The Front,Burlington,VT,USA,>
@@ -720,8 +720,8 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-08-19,1989,0,2,2,1,0,0,2,1989 Tour,1989,Suzy Greenberg,Suzy,1,"Collis Center, Dartmouth College",Hanover,NH,USA,>
 1989-08-19,1989,0,3,2,1,0,0,59,1989 Tour,1989,The Man Who Stepped Into Yesterday,TMWSIY,1,"Collis Center, Dartmouth College",Hanover,NH,USA,>
 1989-08-19,1989,0,4,1,1,0,0,59,1989 Tour,1989,Avenu Malkenu,,0,"Collis Center, Dartmouth College",Hanover,NH,USA,","
-1989-08-19,1989,0,5,1,1,0,0,2,1989 Tour,1989,AC/DC Bag,Bag,1,"Collis Center, Dartmouth College",Hanover,NH,USA,","
-1989-08-19,1989,0,6,1,1,0,0,2,1989 Tour,1989,Punch You in the Eye,PYITE,1,"Collis Center, Dartmouth College",Hanover,NH,USA,","
+1989-08-19,1989,0,5,1,1,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,"Collis Center, Dartmouth College",Hanover,NH,USA,","
+1989-08-19,1989,0,6,1,1,0,0,1,1989 Tour,1989,Punch You in the Eye,PYITE,1,"Collis Center, Dartmouth College",Hanover,NH,USA,","
 1989-08-19,1989,0,7,1,1,0,0,2,1989 Tour,1989,Rocky Top,,0,"Collis Center, Dartmouth College",Hanover,NH,USA,","
 1989-08-19,1989,0,8,1,1,0,0,2,1989 Tour,1989,Bold As Love,,0,"Collis Center, Dartmouth College",Hanover,NH,USA,","
 1989-08-19,1989,0,9,1,1,0,0,2,1989 Tour,1989,The Mango Song,Mango,1,"Collis Center, Dartmouth College",Hanover,NH,USA,","
@@ -740,28 +740,28 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-08-19,1989,0,22,2,2,0,0,2,1989 Tour,1989,Alumni Blues,Alumni,1,"Collis Center, Dartmouth College",Hanover,NH,USA,>
 1989-08-19,1989,0,23,2,2,0,0,2,1989 Tour,1989,Letter to Jimmy Page,LTJP,1,"Collis Center, Dartmouth College",Hanover,NH,USA,>
 1989-08-19,1989,0,24,1,2,0,0,0,1989 Tour,1989,Alumni Blues,Alumni,1,"Collis Center, Dartmouth College",Hanover,NH,USA,","
-1989-08-19,1989,0,25,1,2,0,0,2,1989 Tour,1989,You Enjoy Myself,YEM,1,"Collis Center, Dartmouth College",Hanover,NH,USA,","
-1989-08-19,1989,0,26,6,2,0,0,2,1989 Tour,1989,Harry Hood,Hood,1,"Collis Center, Dartmouth College",Hanover,NH,USA,
+1989-08-19,1989,0,25,1,2,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,"Collis Center, Dartmouth College",Hanover,NH,USA,","
+1989-08-19,1989,0,26,6,2,0,0,1,1989 Tour,1989,Harry Hood,Hood,1,"Collis Center, Dartmouth College",Hanover,NH,USA,
 1989-08-23,1989,0,1,4,1,2,0,1,1989 Tour,1989,Weekapaug Groove,Weekapaug,1,The Living Room,Providence,RI,USA,
 1989-08-23,1989,0,2,1,2,2,0,1,1989 Tour,1989,David Bowie,Bowie,1,The Living Room,Providence,RI,USA,","
 1989-08-23,1989,0,3,2,2,2,0,8,1989 Tour,1989,The Curtain,Curtain,1,The Living Room,Providence,RI,USA,>
-1989-08-23,1989,0,4,2,2,2,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,The Living Room,Providence,RI,USA,>
+1989-08-23,1989,0,4,2,2,2,0,0,1989 Tour,1989,AC/DC Bag,Bag,1,The Living Room,Providence,RI,USA,>
 1989-08-23,1989,0,5,1,2,2,0,1,1989 Tour,1989,The Lizards,Lizards,1,The Living Room,Providence,RI,USA,","
 1989-08-23,1989,0,6,1,2,2,0,49,1989 Tour,1989,Makisupa Policeman,Makisupa,1,The Living Room,Providence,RI,USA,","
-1989-08-23,1989,0,7,6,2,2,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,The Living Room,Providence,RI,USA,
+1989-08-23,1989,0,7,6,2,2,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,The Living Room,Providence,RI,USA,
 1989-08-26,1989,0,1,1,1,0,0,9,1989 Tour,1989,Fluffhead,,1,Townshend Family Park,Townshend,VT,USA,","
 1989-08-26,1989,0,2,2,1,0,0,19,1989 Tour,1989,Colonel Forbin's Ascent,Forbin's,1,Townshend Family Park,Townshend,VT,USA,>
 1989-08-26,1989,0,3,1,1,0,0,19,1989 Tour,1989,Fly Famous Mockingbird,Mockingbird,1,Townshend Family Park,Townshend,VT,USA,","
-1989-08-26,1989,0,4,1,1,0,0,3,1989 Tour,1989,Harry Hood,Hood,1,Townshend Family Park,Townshend,VT,USA,","
+1989-08-26,1989,0,4,1,1,0,0,2,1989 Tour,1989,Harry Hood,Hood,1,Townshend Family Park,Townshend,VT,USA,","
 1989-08-26,1989,0,5,1,1,0,0,3,1989 Tour,1989,Split Open and Melt,SOAMelt,1,Townshend Family Park,Townshend,VT,USA,","
 1989-08-26,1989,0,6,1,1,0,0,3,1989 Tour,1989,Divided Sky,Divided,1,Townshend Family Park,Townshend,VT,USA,","
-1989-08-26,1989,0,7,3,1,0,0,2,1989 Tour,1989,You Enjoy Myself,YEM,1,Townshend Family Park,Townshend,VT,USA,->
-1989-08-26,1989,0,8,4,1,0,0,5,1989 Tour,1989,Possum,,1,Townshend Family Park,Townshend,VT,USA,
+1989-08-26,1989,0,7,3,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,Townshend Family Park,Townshend,VT,USA,->
+1989-08-26,1989,0,8,4,1,0,0,4,1989 Tour,1989,Possum,,1,Townshend Family Park,Townshend,VT,USA,
 1989-08-26,1989,0,9,2,2,0,0,60,1989 Tour,1989,The Fishin' Hole,,0,Townshend Family Park,Townshend,VT,USA,>
 1989-08-26,1989,0,10,1,2,0,0,3,1989 Tour,1989,Bold As Love,,0,Townshend Family Park,Townshend,VT,USA,","
 1989-08-26,1989,0,11,1,2,0,0,5,1989 Tour,1989,Ya Mar,,0,Townshend Family Park,Townshend,VT,USA,","
 1989-08-26,1989,0,12,1,2,0,0,10,1989 Tour,1989,Slave to the Traffic Light,Slave,1,Townshend Family Park,Townshend,VT,USA,","
-1989-08-26,1989,0,13,1,2,0,0,2,1989 Tour,1989,AC/DC Bag,Bag,1,Townshend Family Park,Townshend,VT,USA,","
+1989-08-26,1989,0,13,1,2,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,Townshend Family Park,Townshend,VT,USA,","
 1989-08-26,1989,0,14,1,2,0,0,7,1989 Tour,1989,Donna Lee,,0,Townshend Family Park,Townshend,VT,USA,","
 1989-08-26,1989,0,15,2,2,0,0,3,1989 Tour,1989,Funky Bitch,,0,Townshend Family Park,Townshend,VT,USA,>
 1989-08-26,1989,0,16,1,2,0,0,11,1989 Tour,1989,Foam,,1,Townshend Family Park,Townshend,VT,USA,","
@@ -779,32 +779,32 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-09-09,1989,0,3,1,1,0,0,6,1989 Tour,1989,Suzy Greenberg,Suzy,1,"Dining Commons, Bennington College",Bennington,VT,USA,","
 1989-09-09,1989,0,4,2,1,0,0,278,1989 Tour,1989,Rhombus Narration,,1,"Dining Commons, Bennington College",Bennington,VT,USA,>
 1989-09-09,1989,0,5,1,1,0,0,6,1989 Tour,1989,Divided Sky,Divided,1,"Dining Commons, Bennington College",Bennington,VT,USA,","
-1989-09-09,1989,0,6,2,1,0,0,6,1989 Tour,1989,AC/DC Bag,Bag,1,"Dining Commons, Bennington College",Bennington,VT,USA,>
+1989-09-09,1989,0,6,2,1,0,0,5,1989 Tour,1989,AC/DC Bag,Bag,1,"Dining Commons, Bennington College",Bennington,VT,USA,>
 1989-09-09,1989,0,7,2,1,0,0,11,1989 Tour,1989,McGrupp and the Watchful Hosemasters,McGrupp,1,"Dining Commons, Bennington College",Bennington,VT,USA,>
 1989-09-09,1989,0,8,1,1,0,0,9,1989 Tour,1989,Bathtub Gin,Gin,1,"Dining Commons, Bennington College",Bennington,VT,USA,","
-1989-09-09,1989,0,9,3,1,0,0,9,1989 Tour,1989,Punch You in the Eye,PYITE,1,"Dining Commons, Bennington College",Bennington,VT,USA,->
+1989-09-09,1989,0,9,3,1,0,0,8,1989 Tour,1989,Punch You in the Eye,PYITE,1,"Dining Commons, Bennington College",Bennington,VT,USA,->
 1989-09-09,1989,0,10,1,1,0,0,18,1989 Tour,1989,Wilson,,1,"Dining Commons, Bennington College",Bennington,VT,USA,","
 1989-09-09,1989,0,11,1,1,0,0,274,1989 Tour,1989,My Sweet One,MSO,1,"Dining Commons, Bennington College",Bennington,VT,USA,","
 1989-09-09,1989,0,12,4,1,0,0,6,1989 Tour,1989,David Bowie,Bowie,1,"Dining Commons, Bennington College",Bennington,VT,USA,
 1989-09-09,1989,0,13,1,2,0,0,6,1989 Tour,1989,Ya Mar,,0,"Dining Commons, Bennington College",Bennington,VT,USA,","
-1989-09-09,1989,0,14,3,2,0,0,6,1989 Tour,1989,You Enjoy Myself,YEM,1,"Dining Commons, Bennington College",Bennington,VT,USA,->
+1989-09-09,1989,0,14,3,2,0,0,5,1989 Tour,1989,You Enjoy Myself,YEM,1,"Dining Commons, Bennington College",Bennington,VT,USA,->
 1989-09-09,1989,0,15,2,2,0,0,9,1989 Tour,1989,Alumni Blues,Alumni,1,"Dining Commons, Bennington College",Bennington,VT,USA,>
 1989-09-09,1989,0,16,2,2,0,0,9,1989 Tour,1989,Letter to Jimmy Page,LTJP,1,"Dining Commons, Bennington College",Bennington,VT,USA,>
 1989-09-09,1989,0,17,2,2,0,0,0,1989 Tour,1989,Alumni Blues,Alumni,1,"Dining Commons, Bennington College",Bennington,VT,USA,>
 1989-09-09,1989,0,18,1,2,0,0,6,1989 Tour,1989,Split Open and Melt,SOAMelt,1,"Dining Commons, Bennington College",Bennington,VT,USA,","
-1989-09-09,1989,0,19,1,2,0,0,6,1989 Tour,1989,Harry Hood,Hood,1,"Dining Commons, Bennington College",Bennington,VT,USA,","
+1989-09-09,1989,0,19,1,2,0,0,5,1989 Tour,1989,Harry Hood,Hood,1,"Dining Commons, Bennington College",Bennington,VT,USA,","
 1989-09-09,1989,0,20,1,2,0,0,11,1989 Tour,1989,Walk Away,,0,"Dining Commons, Bennington College",Bennington,VT,USA,","
-1989-09-09,1989,0,21,6,2,0,0,6,1989 Tour,1989,Possum,,1,"Dining Commons, Bennington College",Bennington,VT,USA,
+1989-09-09,1989,0,21,6,2,0,0,5,1989 Tour,1989,Possum,,1,"Dining Commons, Bennington College",Bennington,VT,USA,
 1989-09-14,1989,0,1,2,1,0,0,2,1989 Tour,1989,The Oh Kee Pa Ceremony,Oh Kee Pa,1,"MacPhie Pub, Tufts University",Medford,MA,USA,>
 1989-09-14,1989,0,2,1,1,0,0,2,1989 Tour,1989,Suzy Greenberg,Suzy,1,"MacPhie Pub, Tufts University",Medford,MA,USA,","
-1989-09-14,1989,0,3,1,1,0,0,2,1989 Tour,1989,You Enjoy Myself,YEM,1,"MacPhie Pub, Tufts University",Medford,MA,USA,","
+1989-09-14,1989,0,3,1,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,"MacPhie Pub, Tufts University",Medford,MA,USA,","
 1989-09-14,1989,0,4,1,1,0,0,2,1989 Tour,1989,Foam,,1,"MacPhie Pub, Tufts University",Medford,MA,USA,","
 1989-09-14,1989,0,5,2,1,0,0,8,1989 Tour,1989,Colonel Forbin's Ascent,Forbin's,1,"MacPhie Pub, Tufts University",Medford,MA,USA,>
 1989-09-14,1989,0,6,2,1,0,0,8,1989 Tour,1989,Fly Famous Mockingbird,Mockingbird,1,"MacPhie Pub, Tufts University",Medford,MA,USA,>
 1989-09-14,1989,0,7,1,1,0,0,8,1989 Tour,1989,La Grange,,0,"MacPhie Pub, Tufts University",Medford,MA,USA,","
 1989-09-14,1989,0,8,3,1,0,0,13,1989 Tour,1989,Fee,,1,"MacPhie Pub, Tufts University",Medford,MA,USA,->
 1989-09-14,1989,0,9,4,1,0,0,2,1989 Tour,1989,David Bowie,Bowie,1,"MacPhie Pub, Tufts University",Medford,MA,USA,
-1989-09-14,1989,0,10,1,2,0,0,2,1989 Tour,1989,Harry Hood,Hood,1,"MacPhie Pub, Tufts University",Medford,MA,USA,","
+1989-09-14,1989,0,10,1,2,0,0,1,1989 Tour,1989,Harry Hood,Hood,1,"MacPhie Pub, Tufts University",Medford,MA,USA,","
 1989-09-14,1989,0,11,1,2,0,0,2,1989 Tour,1989,Bathtub Gin,Gin,1,"MacPhie Pub, Tufts University",Medford,MA,USA,","
 1989-09-14,1989,0,12,2,2,0,0,2,1989 Tour,1989,Alumni Blues,Alumni,1,"MacPhie Pub, Tufts University",Medford,MA,USA,>
 1989-09-14,1989,0,13,2,2,0,0,2,1989 Tour,1989,Letter to Jimmy Page,LTJP,1,"MacPhie Pub, Tufts University",Medford,MA,USA,>
@@ -813,7 +813,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-09-16,1989,0,2,1,1,0,0,9,1989 Tour,1989,Funky Bitch,,0,Tree Cafe,Portland,ME,USA,","
 1989-09-21,1989,0,1,2,1,0,0,16,1989 Tour,1989,Golgi Apparatus,Golgi,1,Pearl Street Ballroom,Northampton,MA,USA,>
 1989-09-21,1989,0,2,2,1,0,0,5,1989 Tour,1989,Ya Mar,,0,Pearl Street Ballroom,Northampton,MA,USA,>
-1989-09-21,1989,0,3,2,1,0,0,5,1989 Tour,1989,AC/DC Bag,Bag,1,Pearl Street Ballroom,Northampton,MA,USA,>
+1989-09-21,1989,0,3,2,1,0,0,4,1989 Tour,1989,AC/DC Bag,Bag,1,Pearl Street Ballroom,Northampton,MA,USA,>
 1989-09-21,1989,0,4,1,1,0,0,5,1989 Tour,1989,My Sweet One,MSO,1,Pearl Street Ballroom,Northampton,MA,USA,","
 1989-09-21,1989,0,5,2,1,0,0,3,1989 Tour,1989,Fee,,1,Pearl Street Ballroom,Northampton,MA,USA,>
 1989-09-21,1989,0,6,2,1,0,0,3,1989 Tour,1989,Alumni Blues,Alumni,1,Pearl Street Ballroom,Northampton,MA,USA,>
@@ -826,9 +826,9 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-09-21,1989,0,13,2,2,0,0,170,1989 Tour,1989,The Chase,,1,Pearl Street Ballroom,Northampton,MA,USA,>
 1989-09-21,1989,0,14,2,2,0,0,11,1989 Tour,1989,Dinner and a Movie,,1,Pearl Street Ballroom,Northampton,MA,USA,>
 1989-09-21,1989,0,15,2,2,0,0,106,1989 Tour,1989,Bundle of Joy,,1,Pearl Street Ballroom,Northampton,MA,USA,>
-1989-09-21,1989,0,16,1,2,0,0,5,1989 Tour,1989,Possum,,1,Pearl Street Ballroom,Northampton,MA,USA,","
+1989-09-21,1989,0,16,1,2,0,0,4,1989 Tour,1989,Possum,,1,Pearl Street Ballroom,Northampton,MA,USA,","
 1989-09-21,1989,0,17,1,2,0,0,3,1989 Tour,1989,Bathtub Gin,Gin,1,Pearl Street Ballroom,Northampton,MA,USA,","
-1989-09-21,1989,0,18,1,2,0,0,3,1989 Tour,1989,You Enjoy Myself,YEM,1,Pearl Street Ballroom,Northampton,MA,USA,","
+1989-09-21,1989,0,18,1,2,0,0,2,1989 Tour,1989,You Enjoy Myself,YEM,1,Pearl Street Ballroom,Northampton,MA,USA,","
 1989-09-21,1989,0,19,1,2,0,0,38,1989 Tour,1989,If I Only Had a Brain,,0,Pearl Street Ballroom,Northampton,MA,USA,","
 1989-09-21,1989,0,20,5,2,0,0,11,1989 Tour,1989,Run Like an Antelope,Antelope,1,Pearl Street Ballroom,Northampton,MA,USA,
 1989-09-21,1989,0,21,6,e,0,0,23,1989 Tour,1989,Good Times Bad Times,GTBT,0,Pearl Street Ballroom,Northampton,MA,USA,
@@ -838,7 +838,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-10-01,1989,0,4,2,1,0,0,1,1989 Tour,1989,McGrupp and the Watchful Hosemasters,McGrupp,1,The Front,Burlington,VT,USA,>
 1989-10-01,1989,0,5,2,1,0,0,1,1989 Tour,1989,Who Do? We Do!,,1,The Front,Burlington,VT,USA,>
 1989-10-01,1989,0,6,1,1,0,0,1,1989 Tour,1989,Golgi Apparatus,Golgi,1,The Front,Burlington,VT,USA,","
-1989-10-01,1989,0,7,2,1,0,0,4,1989 Tour,1989,Harry Hood,Hood,1,The Front,Burlington,VT,USA,>
+1989-10-01,1989,0,7,2,1,0,0,3,1989 Tour,1989,Harry Hood,Hood,1,The Front,Burlington,VT,USA,>
 1989-10-01,1989,0,8,2,1,0,0,1,1989 Tour,1989,The Chase,,1,The Front,Burlington,VT,USA,>
 1989-10-01,1989,0,9,2,1,0,0,6,1989 Tour,1989,Wilson,,1,The Front,Burlington,VT,USA,>
 1989-10-01,1989,0,10,1,1,0,0,4,1989 Tour,1989,Foam,,1,The Front,Burlington,VT,USA,","
@@ -846,19 +846,19 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-10-01,1989,0,12,2,1,0,0,4,1989 Tour,1989,The Oh Kee Pa Ceremony,Oh Kee Pa,1,The Front,Burlington,VT,USA,>
 1989-10-01,1989,0,13,2,1,0,0,4,1989 Tour,1989,Suzy Greenberg,Suzy,1,The Front,Burlington,VT,USA,>
 1989-10-01,1989,0,14,4,1,0,0,1,1989 Tour,1989,Run Like an Antelope,Antelope,1,The Front,Burlington,VT,USA,
-1989-10-01,1989,0,15,2,2,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,The Front,Burlington,VT,USA,>
+1989-10-01,1989,0,15,2,2,0,0,0,1989 Tour,1989,AC/DC Bag,Bag,1,The Front,Burlington,VT,USA,>
 1989-10-01,1989,0,16,2,2,0,0,1,1989 Tour,1989,My Sweet One,MSO,1,The Front,Burlington,VT,USA,>
-1989-10-01,1989,0,17,1,2,0,0,281,1989 Tour,1989,Reba,,1,The Front,Burlington,VT,USA,","
+1989-10-01,1989,0,17,1,2,0,0,280,1989 Tour,1989,Reba,,1,The Front,Burlington,VT,USA,","
 1989-10-01,1989,0,18,2,2,0,0,1,1989 Tour,1989,Dinner and a Movie,,1,The Front,Burlington,VT,USA,>
 1989-10-01,1989,0,19,2,2,0,0,1,1989 Tour,1989,Bundle of Joy,,1,The Front,Burlington,VT,USA,>
-1989-10-01,1989,0,20,1,2,0,0,1,1989 Tour,1989,Possum,,1,The Front,Burlington,VT,USA,","
-1989-10-01,1989,0,21,2,2,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,The Front,Burlington,VT,USA,>
+1989-10-01,1989,0,20,1,2,0,0,0,1989 Tour,1989,Possum,,1,The Front,Burlington,VT,USA,","
+1989-10-01,1989,0,21,2,2,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,The Front,Burlington,VT,USA,>
 1989-10-01,1989,0,22,1,2,0,0,1,1989 Tour,1989,If I Only Had a Brain,,0,The Front,Burlington,VT,USA,","
 1989-10-01,1989,0,23,1,2,0,0,12,1989 Tour,1989,Contact,,1,The Front,Burlington,VT,USA,","
 1989-10-01,1989,0,24,1,2,0,0,6,1989 Tour,1989,Split Open and Melt,SOAMelt,1,The Front,Burlington,VT,USA,","
 1989-10-01,1989,0,25,5,2,0,0,12,1989 Tour,1989,The Lizards,Lizards,1,The Front,Burlington,VT,USA,
 1989-10-01,1989,0,26,6,e,0,0,284,1989 Tour,1989,Highway to Hell,,0,The Front,Burlington,VT,USA,
-1989-10-06,1989,0,1,1,2,0,0,81,1989 Tour,1989,Timber (Jerry the Mule),Timber Ho,0,The Paradise,Boston,MA,USA,","
+1989-10-06,1989,0,1,1,2,0,0,80,1989 Tour,1989,Timber (Jerry the Mule),Timber Ho,0,The Paradise,Boston,MA,USA,","
 1989-10-06,1989,0,2,2,2,0,0,16,1989 Tour,1989,Mike's Song,Mike's,1,The Paradise,Boston,MA,USA,>
 1989-10-06,1989,0,3,2,2,0,0,16,1989 Tour,1989,I Am Hydrogen,Hydrogen,1,The Paradise,Boston,MA,USA,>
 1989-10-06,1989,0,4,1,2,0,0,15,1989 Tour,1989,Weekapaug Groove,Weekapaug,1,The Paradise,Boston,MA,USA,","
@@ -867,8 +867,8 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-10-06,1989,0,7,1,2,0,0,13,1989 Tour,1989,Bold As Love,,0,The Paradise,Boston,MA,USA,","
 1989-10-06,1989,0,8,1,2,0,0,1,1989 Tour,1989,Dinner and a Movie,,1,The Paradise,Boston,MA,USA,","
 1989-10-06,1989,0,9,1,2,0,0,134,1989 Tour,1989,Happy Birthday to You,Happy Birthday,0,The Paradise,Boston,MA,USA,","
-1989-10-06,1989,0,10,1,2,0,0,1,1989 Tour,1989,Harry Hood,Hood,1,The Paradise,Boston,MA,USA,","
-1989-10-06,1989,0,11,1,2,0,0,1,1989 Tour,1989,Possum,,1,The Paradise,Boston,MA,USA,","
+1989-10-06,1989,0,10,1,2,0,0,0,1989 Tour,1989,Harry Hood,Hood,1,The Paradise,Boston,MA,USA,","
+1989-10-06,1989,0,11,1,2,0,0,0,1989 Tour,1989,Possum,,1,The Paradise,Boston,MA,USA,","
 1989-10-06,1989,0,12,1,2,0,0,1,1989 Tour,1989,Highway to Hell,,0,The Paradise,Boston,MA,USA,","
 1989-10-06,1989,0,13,5,2,0,0,64,1989 Tour,1989,Big Black Furry Creature from Mars,BBFCFM,1,The Paradise,Boston,MA,USA,
 1989-10-06,1989,0,14,6,e,0,0,2,1989 Tour,1989,Good Times Bad Times,GTBT,0,The Paradise,Boston,MA,USA,
@@ -887,14 +887,14 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-10-07,1989,0,13,4,1,0,0,1,1989 Tour,1989,Good Times Bad Times,GTBT,0,"Chase Hall, Bates College",Lewiston,ME,USA,
 1989-10-07,1989,0,14,2,2,0,0,1,1989 Tour,1989,Dinner and a Movie,,1,"Chase Hall, Bates College",Lewiston,ME,USA,>
 1989-10-07,1989,0,15,2,2,0,0,2,1989 Tour,1989,Bundle of Joy,,1,"Chase Hall, Bates College",Lewiston,ME,USA,>
-1989-10-07,1989,0,16,1,2,0,0,1,1989 Tour,1989,Possum,,1,"Chase Hall, Bates College",Lewiston,ME,USA,","
+1989-10-07,1989,0,16,1,2,0,0,0,1989 Tour,1989,Possum,,1,"Chase Hall, Bates College",Lewiston,ME,USA,","
 1989-10-07,1989,0,17,1,2,0,0,1,1989 Tour,1989,Happy Birthday to You,Happy Birthday,0,"Chase Hall, Bates College",Lewiston,ME,USA,","
 1989-10-07,1989,0,18,1,2,0,0,2,1989 Tour,1989,The Lizards,Lizards,1,"Chase Hall, Bates College",Lewiston,ME,USA,","
-1989-10-07,1989,0,19,1,2,0,0,2,1989 Tour,1989,AC/DC Bag,Bag,1,"Chase Hall, Bates College",Lewiston,ME,USA,","
+1989-10-07,1989,0,19,1,2,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,"Chase Hall, Bates College",Lewiston,ME,USA,","
 1989-10-07,1989,0,20,1,2,0,0,3,1989 Tour,1989,David Bowie,Bowie,1,"Chase Hall, Bates College",Lewiston,ME,USA,","
 1989-10-07,1989,0,21,2,2,0,0,2,1989 Tour,1989,Contact,,1,"Chase Hall, Bates College",Lewiston,ME,USA,>
 1989-10-07,1989,0,22,5,2,0,0,1,1989 Tour,1989,Highway to Hell,,0,"Chase Hall, Bates College",Lewiston,ME,USA,
-1989-10-07,1989,0,23,6,e,0,0,2,1989 Tour,1989,You Enjoy Myself,YEM,1,"Chase Hall, Bates College",Lewiston,ME,USA,
+1989-10-07,1989,0,23,6,e,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,"Chase Hall, Bates College",Lewiston,ME,USA,
 1989-10-10,1989,0,1,1,1,0,0,18,1989 Tour,1989,The Ballad of Curtis Loew,Curtis Loew,0,The Front,Burlington,VT,USA,","
 1989-10-10,1989,0,2,2,1,0,0,1,1989 Tour,1989,Alumni Blues,Alumni,1,The Front,Burlington,VT,USA,>
 1989-10-10,1989,0,3,2,1,0,0,1,1989 Tour,1989,Letter to Jimmy Page,LTJP,1,The Front,Burlington,VT,USA,>
@@ -905,17 +905,17 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-10-10,1989,0,8,2,1,0,0,3,1989 Tour,1989,McGrupp and the Watchful Hosemasters,McGrupp,1,The Front,Burlington,VT,USA,>
 1989-10-10,1989,0,9,1,1,0,0,3,1989 Tour,1989,Who Do? We Do!,,1,The Front,Burlington,VT,USA,","
 1989-10-10,1989,0,10,1,1,0,0,4,1989 Tour,1989,Divided Sky,Divided,1,The Front,Burlington,VT,USA,","
-1989-10-10,1989,0,11,1,1,0,0,3,1989 Tour,1989,Reba,,1,The Front,Burlington,VT,USA,","
+1989-10-10,1989,0,11,1,1,0,0,2,1989 Tour,1989,Reba,,1,The Front,Burlington,VT,USA,","
 1989-10-10,1989,0,12,2,1,0,0,1,1989 Tour,1989,Mike's Song,Mike's,1,The Front,Burlington,VT,USA,>
 1989-10-10,1989,0,13,2,1,0,0,1,1989 Tour,1989,I Am Hydrogen,Hydrogen,1,The Front,Burlington,VT,USA,>
 1989-10-10,1989,0,14,5,1,0,0,1,1989 Tour,1989,Weekapaug Groove,Weekapaug,1,The Front,Burlington,VT,USA,
 1989-10-10,1989,0,15,6,e,0,0,145,1989 Tour,1989,"Swing Low, Sweet Chariot",,0,The Front,Burlington,VT,USA,
 1989-10-12,1989,0,1,2,1,0,0,4,1989 Tour,1989,The Oh Kee Pa Ceremony,Oh Kee Pa,1,"Mabel Brown Room, Keene State College",Keene,NH,USA,>
-1989-10-12,1989,0,2,1,1,0,0,2,1989 Tour,1989,AC/DC Bag,Bag,1,"Mabel Brown Room, Keene State College",Keene,NH,USA,","
+1989-10-12,1989,0,2,1,1,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,"Mabel Brown Room, Keene State College",Keene,NH,USA,","
 1989-10-12,1989,0,3,2,1,0,0,8,1989 Tour,1989,Colonel Forbin's Ascent,Forbin's,1,"Mabel Brown Room, Keene State College",Keene,NH,USA,>
 1989-10-12,1989,0,4,1,1,0,0,8,1989 Tour,1989,Fly Famous Mockingbird,Mockingbird,1,"Mabel Brown Room, Keene State College",Keene,NH,USA,","
-1989-10-12,1989,0,5,2,1,0,0,2,1989 Tour,1989,You Enjoy Myself,YEM,1,"Mabel Brown Room, Keene State College",Keene,NH,USA,>
-1989-10-12,1989,0,6,1,1,0,0,2,1989 Tour,1989,Possum,,1,"Mabel Brown Room, Keene State College",Keene,NH,USA,","
+1989-10-12,1989,0,5,2,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,"Mabel Brown Room, Keene State College",Keene,NH,USA,>
+1989-10-12,1989,0,6,1,1,0,0,1,1989 Tour,1989,Possum,,1,"Mabel Brown Room, Keene State College",Keene,NH,USA,","
 1989-10-12,1989,0,7,1,1,0,0,1,1989 Tour,1989,Divided Sky,Divided,1,"Mabel Brown Room, Keene State College",Keene,NH,USA,","
 1989-10-12,1989,0,8,4,1,0,0,2,1989 Tour,1989,La Grange,,0,"Mabel Brown Room, Keene State College",Keene,NH,USA,
 1989-10-12,1989,0,9,1,2,0,0,2,1989 Tour,1989,Fee,,1,"Mabel Brown Room, Keene State College",Keene,NH,USA,","
@@ -929,16 +929,16 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-10-13,1989,0,1,1,1,0,0,2,1989 Tour,1989,David Bowie,Bowie,1,Copperfield's,Syracuse,NY,USA,","
 1989-10-13,1989,0,2,1,1,0,0,17,1989 Tour,1989,Slave to the Traffic Light,Slave,1,Copperfield's,Syracuse,NY,USA,","
 1989-10-13,1989,0,3,1,1,0,0,4,1989 Tour,1989,The Sloth,Sloth,1,Copperfield's,Syracuse,NY,USA,","
-1989-10-13,1989,0,4,4,1,0,0,1,1989 Tour,1989,Possum,,1,Copperfield's,Syracuse,NY,USA,
+1989-10-13,1989,0,4,4,1,0,0,0,1989 Tour,1989,Possum,,1,Copperfield's,Syracuse,NY,USA,
 1989-10-13,1989,0,5,1,2,0,0,26,1989 Tour,1989,Bike,,0,Copperfield's,Syracuse,NY,USA,","
 1989-10-13,1989,0,6,2,2,0,0,17,1989 Tour,1989,The Man Who Stepped Into Yesterday,TMWSIY,1,Copperfield's,Syracuse,NY,USA,>
 1989-10-13,1989,0,7,2,2,0,0,17,1989 Tour,1989,Avenu Malkenu,,0,Copperfield's,Syracuse,NY,USA,>
 1989-10-13,1989,0,8,2,2,0,0,1,1989 Tour,1989,Mike's Song,Mike's,1,Copperfield's,Syracuse,NY,USA,>
 1989-10-13,1989,0,9,2,2,0,0,1,1989 Tour,1989,I Am Hydrogen,Hydrogen,1,Copperfield's,Syracuse,NY,USA,>
 1989-10-13,1989,0,10,1,2,0,0,1,1989 Tour,1989,Weekapaug Groove,Weekapaug,1,Copperfield's,Syracuse,NY,USA,","
-1989-10-13,1989,0,11,1,2,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,Copperfield's,Syracuse,NY,USA,","
+1989-10-13,1989,0,11,1,2,0,0,0,1989 Tour,1989,AC/DC Bag,Bag,1,Copperfield's,Syracuse,NY,USA,","
 1989-10-13,1989,0,12,6,2,0,0,1,1989 Tour,1989,Colonel Forbin's Ascent,Forbin's,1,Copperfield's,Syracuse,NY,USA,
-1989-10-14,1989,0,1,2,1,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,"The Barn, Hobart College",Geneva,NY,USA,>
+1989-10-14,1989,0,1,2,1,0,0,0,1989 Tour,1989,AC/DC Bag,Bag,1,"The Barn, Hobart College",Geneva,NY,USA,>
 1989-10-14,1989,0,2,1,1,0,0,2,1989 Tour,1989,Divided Sky,Divided,1,"The Barn, Hobart College",Geneva,NY,USA,","
 1989-10-14,1989,0,3,1,1,0,0,25,1989 Tour,1989,I Didn't Know,IDK,1,"The Barn, Hobart College",Geneva,NY,USA,","
 1989-10-14,1989,0,4,2,1,0,0,4,1989 Tour,1989,Golgi Apparatus,Golgi,1,"The Barn, Hobart College",Geneva,NY,USA,>
@@ -948,27 +948,27 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-10-14,1989,0,8,2,1,0,0,3,1989 Tour,1989,Alumni Blues,Alumni,1,"The Barn, Hobart College",Geneva,NY,USA,>
 1989-10-14,1989,0,9,2,1,0,0,3,1989 Tour,1989,Letter to Jimmy Page,LTJP,1,"The Barn, Hobart College",Geneva,NY,USA,>
 1989-10-14,1989,0,10,1,1,0,0,0,1989 Tour,1989,Alumni Blues,Alumni,1,"The Barn, Hobart College",Geneva,NY,USA,","
-1989-10-14,1989,0,11,2,1,0,0,2,1989 Tour,1989,You Enjoy Myself,YEM,1,"The Barn, Hobart College",Geneva,NY,USA,>
+1989-10-14,1989,0,11,2,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,"The Barn, Hobart College",Geneva,NY,USA,>
 1989-10-14,1989,0,12,2,1,0,0,4,1989 Tour,1989,Makisupa Policeman,Makisupa,1,"The Barn, Hobart College",Geneva,NY,USA,>
 1989-10-14,1989,0,13,4,1,0,0,4,1989 Tour,1989,Good Times Bad Times,GTBT,0,"The Barn, Hobart College",Geneva,NY,USA,
 1989-10-14,1989,0,14,1,2,0,0,133,1989 Tour,1989,Anarchy,,1,"The Barn, Hobart College",Geneva,NY,USA,","
 1989-10-14,1989,0,15,1,2,0,0,2,1989 Tour,1989,Highway to Hell,,0,"The Barn, Hobart College",Geneva,NY,USA,","
-1989-10-14,1989,0,16,1,2,0,0,1,1989 Tour,1989,Possum,,1,"The Barn, Hobart College",Geneva,NY,USA,","
+1989-10-14,1989,0,16,1,2,0,0,0,1989 Tour,1989,Possum,,1,"The Barn, Hobart College",Geneva,NY,USA,","
 1989-10-14,1989,0,17,6,2,0,0,47,1989 Tour,1989,Harpua,,1,"The Barn, Hobart College",Geneva,NY,USA,
 1989-10-20,1989,0,1,2,1,0,0,1,1989 Tour,1989,Harpua,,1,The Front,Burlington,VT,USA,>
 1989-10-20,1989,0,2,2,1,0,0,5,1989 Tour,1989,Bundle of Joy,,1,The Front,Burlington,VT,USA,>
 1989-10-20,1989,0,3,2,1,0,0,2,1989 Tour,1989,Colonel Forbin's Ascent,Forbin's,1,The Front,Burlington,VT,USA,>
 1989-10-20,1989,0,4,2,1,0,0,3,1989 Tour,1989,Fly Famous Mockingbird,Mockingbird,1,The Front,Burlington,VT,USA,>
-1989-10-20,1989,0,5,2,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,The Front,Burlington,VT,USA,>
+1989-10-20,1989,0,5,2,1,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,The Front,Burlington,VT,USA,>
 1989-10-20,1989,0,6,2,1,0,0,3,1989 Tour,1989,The Oh Kee Pa Ceremony,Oh Kee Pa,1,The Front,Burlington,VT,USA,>
-1989-10-20,1989,0,7,2,1,0,0,4,1989 Tour,1989,Reba,,1,The Front,Burlington,VT,USA,>
+1989-10-20,1989,0,7,2,1,0,0,3,1989 Tour,1989,Reba,,1,The Front,Burlington,VT,USA,>
 1989-10-20,1989,0,8,1,1,0,0,1,1989 Tour,1989,Divided Sky,Divided,1,The Front,Burlington,VT,USA,","
 1989-10-20,1989,0,9,4,1,0,0,1,1989 Tour,1989,Golgi Apparatus,Golgi,1,The Front,Burlington,VT,USA,
 1989-10-20,1989,0,10,1,2,0,0,1,1989 Tour,1989,I Didn't Know,IDK,1,The Front,Burlington,VT,USA,","
-1989-10-20,1989,0,11,2,2,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,The Front,Burlington,VT,USA,>
+1989-10-20,1989,0,11,2,2,0,0,0,1989 Tour,1989,AC/DC Bag,Bag,1,The Front,Burlington,VT,USA,>
 1989-10-20,1989,0,12,1,2,0,0,19,1989 Tour,1989,Donna Lee,,0,The Front,Burlington,VT,USA,","
 1989-10-20,1989,0,13,1,2,0,0,1,1989 Tour,1989,Split Open and Melt,SOAMelt,1,The Front,Burlington,VT,USA,","
-1989-10-20,1989,0,14,1,2,0,0,6,1989 Tour,1989,Harry Hood,Hood,1,The Front,Burlington,VT,USA,","
+1989-10-20,1989,0,14,1,2,0,0,5,1989 Tour,1989,Harry Hood,Hood,1,The Front,Burlington,VT,USA,","
 1989-10-20,1989,0,15,1,2,0,0,4,1989 Tour,1989,"Swing Low, Sweet Chariot",,0,The Front,Burlington,VT,USA,","
 1989-10-20,1989,0,16,1,2,0,0,289,1989 Tour,1989,In a Hole,,1,The Front,Burlington,VT,USA,","
 1989-10-20,1989,0,17,1,2,0,0,2,1989 Tour,1989,Slave to the Traffic Light,Slave,1,The Front,Burlington,VT,USA,","
@@ -983,7 +983,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-10-21,1989,0,4,2,1,0,0,5,1989 Tour,1989,McGrupp and the Watchful Hosemasters,McGrupp,1,The Front,Burlington,VT,USA,>
 1989-10-21,1989,0,5,2,1,0,0,5,1989 Tour,1989,Who Do? We Do!,,1,The Front,Burlington,VT,USA,>
 1989-10-21,1989,0,6,2,1,0,0,8,1989 Tour,1989,Foam,,1,The Front,Burlington,VT,USA,>
-1989-10-21,1989,0,7,2,1,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,The Front,Burlington,VT,USA,>
+1989-10-21,1989,0,7,2,1,0,0,0,1989 Tour,1989,AC/DC Bag,Bag,1,The Front,Burlington,VT,USA,>
 1989-10-21,1989,0,8,1,1,0,0,4,1989 Tour,1989,The Lizards,Lizards,1,The Front,Burlington,VT,USA,","
 1989-10-21,1989,0,9,1,1,0,0,80,1989 Tour,1989,Dog Log,,1,The Front,Burlington,VT,USA,","
 1989-10-21,1989,0,10,4,1,0,0,3,1989 Tour,1989,David Bowie,Bowie,1,The Front,Burlington,VT,USA,
@@ -993,15 +993,15 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-10-21,1989,0,14,2,2,0,0,1,1989 Tour,1989,The Oh Kee Pa Ceremony,Oh Kee Pa,1,The Front,Burlington,VT,USA,>
 1989-10-21,1989,0,15,2,2,0,0,6,1989 Tour,1989,Suzy Greenberg,Suzy,1,The Front,Burlington,VT,USA,>
 1989-10-21,1989,0,16,1,2,0,0,8,1989 Tour,1989,Wilson,,1,The Front,Burlington,VT,USA,","
-1989-10-21,1989,0,17,1,2,0,0,2,1989 Tour,1989,Possum,,1,The Front,Burlington,VT,USA,","
-1989-10-21,1989,0,18,1,2,0,0,1,1989 Tour,1989,Reba,,1,The Front,Burlington,VT,USA,","
+1989-10-21,1989,0,17,1,2,0,0,1,1989 Tour,1989,Possum,,1,The Front,Burlington,VT,USA,","
+1989-10-21,1989,0,18,1,2,0,0,0,1989 Tour,1989,Reba,,1,The Front,Burlington,VT,USA,","
 1989-10-21,1989,0,19,1,2,0,0,3,1989 Tour,1989,The Sloth,Sloth,1,The Front,Burlington,VT,USA,","
-1989-10-21,1989,0,20,2,2,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,The Front,Burlington,VT,USA,>
+1989-10-21,1989,0,20,2,2,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,The Front,Burlington,VT,USA,>
 1989-10-21,1989,0,21,6,2,0,0,2,1989 Tour,1989,Highway to Hell,,0,The Front,Burlington,VT,USA,
 1989-10-22,1989,0,1,1,1,0,0,2,1989 Tour,1989,La Grange,,0,The Front,Burlington,VT,USA,","
 1989-10-22,1989,0,2,2,1,0,0,2,1989 Tour,1989,Colonel Forbin's Ascent,Forbin's,1,The Front,Burlington,VT,USA,>
 1989-10-22,1989,0,3,2,1,0,0,2,1989 Tour,1989,Fly Famous Mockingbird,Mockingbird,1,The Front,Burlington,VT,USA,>
-1989-10-22,1989,0,4,2,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,The Front,Burlington,VT,USA,>
+1989-10-22,1989,0,4,2,1,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,The Front,Burlington,VT,USA,>
 1989-10-22,1989,0,5,2,1,0,0,1,1989 Tour,1989,The Oh Kee Pa Ceremony,Oh Kee Pa,1,The Front,Burlington,VT,USA,>
 1989-10-22,1989,0,6,1,1,0,0,1,1989 Tour,1989,Suzy Greenberg,Suzy,1,The Front,Burlington,VT,USA,","
 1989-10-22,1989,0,7,1,1,0,0,1,1989 Tour,1989,Ya Mar,,0,The Front,Burlington,VT,USA,","
@@ -1012,22 +1012,22 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-10-22,1989,0,12,1,1,0,0,2,1989 Tour,1989,Divided Sky,Divided,1,The Front,Burlington,VT,USA,","
 1989-10-22,1989,0,13,2,1,0,0,2,1989 Tour,1989,I Didn't Know,IDK,1,The Front,Burlington,VT,USA,>
 1989-10-22,1989,0,14,4,1,0,0,3,1989 Tour,1989,Good Times Bad Times,GTBT,0,The Front,Burlington,VT,USA,
-1989-10-22,1989,0,15,1,2,0,0,2,1989 Tour,1989,Harry Hood,Hood,1,The Front,Burlington,VT,USA,","
-1989-10-22,1989,0,16,1,2,0,0,1,1989 Tour,1989,Reba,,1,The Front,Burlington,VT,USA,","
+1989-10-22,1989,0,15,1,2,0,0,1,1989 Tour,1989,Harry Hood,Hood,1,The Front,Burlington,VT,USA,","
+1989-10-22,1989,0,16,1,2,0,0,0,1989 Tour,1989,Reba,,1,The Front,Burlington,VT,USA,","
 1989-10-22,1989,0,17,1,2,0,0,2,1989 Tour,1989,Golgi Apparatus,Golgi,1,The Front,Burlington,VT,USA,","
 1989-10-22,1989,0,18,1,2,0,0,1,1989 Tour,1989,In a Hole,,1,The Front,Burlington,VT,USA,","
 1989-10-22,1989,0,19,2,2,0,0,1,1989 Tour,1989,McGrupp and the Watchful Hosemasters,McGrupp,1,The Front,Burlington,VT,USA,>
 1989-10-22,1989,0,20,2,2,0,0,1,1989 Tour,1989,Who Do? We Do!,,1,The Front,Burlington,VT,USA,>
-1989-10-22,1989,0,21,1,2,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,The Front,Burlington,VT,USA,","
+1989-10-22,1989,0,21,1,2,0,0,0,1989 Tour,1989,AC/DC Bag,Bag,1,The Front,Burlington,VT,USA,","
 1989-10-22,1989,0,22,1,2,0,0,9,1989 Tour,1989,My Sweet One,MSO,1,The Front,Burlington,VT,USA,","
 1989-10-22,1989,0,23,2,2,0,0,1,1989 Tour,1989,Fee,,1,The Front,Burlington,VT,USA,>
-1989-10-22,1989,0,24,5,2,0,0,1,1989 Tour,1989,Possum,,1,The Front,Burlington,VT,USA,
+1989-10-22,1989,0,24,5,2,0,0,0,1989 Tour,1989,Possum,,1,The Front,Burlington,VT,USA,
 1989-10-22,1989,0,25,1,e,0,0,24,1989 Tour,1989,Undun,,0,The Front,Burlington,VT,USA,","
 1989-10-22,1989,0,26,1,e,0,0,2,1989 Tour,1989,Run Like an Antelope,Antelope,1,The Front,Burlington,VT,USA,","
 1989-10-22,1989,0,27,6,e,0,0,1,1989 Tour,1989,The Lizards,Lizards,1,The Front,Burlington,VT,USA,
 1989-10-26,1989,0,1,1,1,0,0,1,1989 Tour,1989,The Oh Kee Pa Ceremony,Oh Kee Pa,1,The Wetlands Preserve,New York,NY,USA,","
 1989-10-26,1989,0,2,2,1,0,0,1,1989 Tour,1989,Golgi Apparatus,Golgi,1,The Wetlands Preserve,New York,NY,USA,>
-1989-10-26,1989,0,3,3,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,The Wetlands Preserve,New York,NY,USA,->
+1989-10-26,1989,0,3,3,1,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,The Wetlands Preserve,New York,NY,USA,->
 1989-10-26,1989,0,4,2,1,0,0,1,1989 Tour,1989,Fee,,1,The Wetlands Preserve,New York,NY,USA,>
 1989-10-26,1989,0,5,1,1,0,0,1,1989 Tour,1989,Divided Sky,Divided,1,The Wetlands Preserve,New York,NY,USA,","
 1989-10-26,1989,0,6,1,1,0,0,1,1989 Tour,1989,I Didn't Know,IDK,1,The Wetlands Preserve,New York,NY,USA,","
@@ -1039,40 +1039,40 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-10-26,1989,0,12,2,2,1,0,292,1989 Tour,1989,Who Knows,,0,The Wetlands Preserve,New York,NY,USA,>
 1989-10-26,1989,0,13,2,2,0,0,3,1989 Tour,1989,Dinner and a Movie,,1,The Wetlands Preserve,New York,NY,USA,>
 1989-10-26,1989,0,14,2,2,0,0,1,1989 Tour,1989,Who Do? We Do!,,1,The Wetlands Preserve,New York,NY,USA,>
-1989-10-26,1989,0,15,2,2,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,The Wetlands Preserve,New York,NY,USA,>
-1989-10-26,1989,0,16,2,2,0,0,1,1989 Tour,1989,Reba,,1,The Wetlands Preserve,New York,NY,USA,>
+1989-10-26,1989,0,15,2,2,0,0,0,1989 Tour,1989,AC/DC Bag,Bag,1,The Wetlands Preserve,New York,NY,USA,>
+1989-10-26,1989,0,16,2,2,0,0,0,1989 Tour,1989,Reba,,1,The Wetlands Preserve,New York,NY,USA,>
 1989-10-26,1989,0,17,2,2,0,0,3,1989 Tour,1989,Walk Away,,0,The Wetlands Preserve,New York,NY,USA,>
 1989-10-26,1989,0,18,2,2,0,0,11,1989 Tour,1989,Bathtub Gin,Gin,1,The Wetlands Preserve,New York,NY,USA,>
 1989-10-26,1989,0,19,2,2,0,0,2,1989 Tour,1989,The Sloth,Sloth,1,The Wetlands Preserve,New York,NY,USA,>
 1989-10-26,1989,0,20,2,2,0,0,10,1989 Tour,1989,The Chase,,1,The Wetlands Preserve,New York,NY,USA,>
-1989-10-26,1989,0,21,1,2,0,0,1,1989 Tour,1989,Possum,,1,The Wetlands Preserve,New York,NY,USA,","
-1989-10-26,1989,0,22,1,2,0,0,16,1989 Tour,1989,Punch You in the Eye,PYITE,1,The Wetlands Preserve,New York,NY,USA,","
+1989-10-26,1989,0,21,1,2,0,0,0,1989 Tour,1989,Possum,,1,The Wetlands Preserve,New York,NY,USA,","
+1989-10-26,1989,0,22,1,2,0,0,15,1989 Tour,1989,Punch You in the Eye,PYITE,1,The Wetlands Preserve,New York,NY,USA,","
 1989-10-26,1989,0,23,1,2,0,0,1,1989 Tour,1989,In a Hole,,1,The Wetlands Preserve,New York,NY,USA,","
 1989-10-26,1989,0,24,1,2,0,0,292,1989 Tour,1989,Gaul Swerves and the Rest is Everything Else,,1,The Wetlands Preserve,New York,NY,USA,","
 1989-10-26,1989,0,25,1,2,0,0,3,1989 Tour,1989,No Dogs Allowed,,1,The Wetlands Preserve,New York,NY,USA,","
 1989-10-26,1989,0,26,6,2,0,0,2,1989 Tour,1989,David Bowie,Bowie,1,The Wetlands Preserve,New York,NY,USA,
 1989-10-28,1989,0,1,1,1,0,0,1,1989 Tour,1989,I Didn't Know,IDK,1,The Chance,Poughkeepsie,NY,USA,","
-1989-10-28,1989,0,2,1,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,The Chance,Poughkeepsie,NY,USA,","
+1989-10-28,1989,0,2,1,1,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,The Chance,Poughkeepsie,NY,USA,","
 1989-10-28,1989,0,3,2,1,0,0,2,1989 Tour,1989,Colonel Forbin's Ascent,Forbin's,1,The Chance,Poughkeepsie,NY,USA,>
 1989-10-28,1989,0,4,1,1,0,0,2,1989 Tour,1989,Fly Famous Mockingbird,Mockingbird,1,The Chance,Poughkeepsie,NY,USA,","
 1989-10-28,1989,0,5,1,1,0,0,3,1989 Tour,1989,Highway to Hell,,0,The Chance,Poughkeepsie,NY,USA,","
 1989-10-28,1989,0,6,1,1,0,0,2,1989 Tour,1989,Good Times Bad Times,GTBT,0,The Chance,Poughkeepsie,NY,USA,","
 1989-10-28,1989,0,7,1,1,0,0,1,1989 Tour,1989,Dinner and a Movie,,1,The Chance,Poughkeepsie,NY,USA,","
-1989-10-28,1989,0,8,1,1,0,0,1,1989 Tour,1989,Reba,,1,The Chance,Poughkeepsie,NY,USA,","
+1989-10-28,1989,0,8,1,1,0,0,0,1989 Tour,1989,Reba,,1,The Chance,Poughkeepsie,NY,USA,","
 1989-10-28,1989,0,9,4,1,0,0,1,1989 Tour,1989,Divided Sky,Divided,1,The Chance,Poughkeepsie,NY,USA,
 1989-10-28,1989,0,10,6,2,0,0,4,1989 Tour,1989,Harpua,,1,The Chance,Poughkeepsie,NY,USA,
 1989-10-31,1989,0,1,2,1,0,0,2,1989 Tour,1989,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Goddard College,Plainfield,VT,USA,>
 1989-10-31,1989,0,2,1,1,0,0,3,1989 Tour,1989,Suzy Greenberg,Suzy,1,Goddard College,Plainfield,VT,USA,","
-1989-10-31,1989,0,3,2,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,Goddard College,Plainfield,VT,USA,>
-1989-10-31,1989,0,4,2,1,0,0,2,1989 Tour,1989,AC/DC Bag,Bag,1,Goddard College,Plainfield,VT,USA,>
+1989-10-31,1989,0,3,2,1,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,Goddard College,Plainfield,VT,USA,>
+1989-10-31,1989,0,4,2,1,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,Goddard College,Plainfield,VT,USA,>
 1989-10-31,1989,0,5,1,1,0,0,1,1989 Tour,1989,Divided Sky,Divided,1,Goddard College,Plainfield,VT,USA,","
 1989-10-31,1989,0,6,1,1,0,0,2,1989 Tour,1989,Fee,,1,Goddard College,Plainfield,VT,USA,","
 1989-10-31,1989,0,7,1,1,0,0,2,1989 Tour,1989,Walk Away,,0,Goddard College,Plainfield,VT,USA,","
 1989-10-31,1989,0,8,2,1,0,0,2,1989 Tour,1989,Bathtub Gin,Gin,1,Goddard College,Plainfield,VT,USA,>
-1989-10-31,1989,0,9,4,1,0,0,2,1989 Tour,1989,Possum,,1,Goddard College,Plainfield,VT,USA,
+1989-10-31,1989,0,9,4,1,0,0,1,1989 Tour,1989,Possum,,1,Goddard College,Plainfield,VT,USA,
 1989-10-31,1989,0,10,1,2,0,0,2,1989 Tour,1989,David Bowie,Bowie,1,Goddard College,Plainfield,VT,USA,","
 1989-10-31,1989,0,11,1,2,0,0,2,1989 Tour,1989,Wilson,,1,Goddard College,Plainfield,VT,USA,","
-1989-10-31,1989,0,12,1,2,0,0,1,1989 Tour,1989,Reba,,1,Goddard College,Plainfield,VT,USA,","
+1989-10-31,1989,0,12,1,2,0,0,0,1989 Tour,1989,Reba,,1,Goddard College,Plainfield,VT,USA,","
 1989-10-31,1989,0,13,2,2,0,0,1,1989 Tour,1989,Colonel Forbin's Ascent,Forbin's,1,Goddard College,Plainfield,VT,USA,>
 1989-10-31,1989,0,14,1,2,0,0,1,1989 Tour,1989,Fly Famous Mockingbird,Mockingbird,1,Goddard College,Plainfield,VT,USA,","
 1989-10-31,1989,0,15,2,2,0,0,6,1989 Tour,1989,Alumni Blues,Alumni,1,Goddard College,Plainfield,VT,USA,>
@@ -1081,9 +1081,9 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-10-31,1989,0,18,1,2,0,0,2,1989 Tour,1989,The Lizards,Lizards,1,Goddard College,Plainfield,VT,USA,","
 1989-10-31,1989,0,19,5,2,0,0,1,1989 Tour,1989,Highway to Hell,,0,Goddard College,Plainfield,VT,USA,
 1989-10-31,1989,0,20,2,e,0,0,9,1989 Tour,1989,Contact,,1,Goddard College,Plainfield,VT,USA,>
-1989-10-31,1989,0,21,3,e,0,0,3,1989 Tour,1989,Run Like an Antelope,Antelope,1,Goddard College,Plainfield,VT,USA,->
+1989-10-31,1989,0,21,3,e,0,0,0,1989 Tour,1989,Run Like an Antelope,Antelope,1,Goddard College,Plainfield,VT,USA,->
 1989-10-31,1989,0,22,3,e,0,0,296,1989 Tour,1989,Kung,,1,Goddard College,Plainfield,VT,USA,->
-1989-10-31,1989,0,23,6,e,0,0,0,1989 Tour,1989,Run Like an Antelope,Antelope,1,Goddard College,Plainfield,VT,USA,
+1989-10-31,1989,0,23,6,e,0,0,3,1989 Tour,1989,Run Like an Antelope,Antelope,1,Goddard College,Plainfield,VT,USA,
 1989-11-02,1989,0,1,1,1,0,0,1,1989 Tour,1989,Bathtub Gin,Gin,1,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,","
 1989-11-02,1989,0,2,1,1,0,0,4,1989 Tour,1989,Foam,,1,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,","
 1989-11-02,1989,0,3,2,1,0,0,3,1989 Tour,1989,Mike's Song,Mike's,1,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,>
@@ -1091,19 +1091,19 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-11-02,1989,0,5,1,1,0,0,3,1989 Tour,1989,Weekapaug Groove,Weekapaug,1,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,","
 1989-11-02,1989,0,6,2,1,0,0,1,1989 Tour,1989,Fee,,1,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,>
 1989-11-02,1989,0,7,2,1,0,0,27,1989 Tour,1989,The Curtain,Curtain,1,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,>
-1989-11-02,1989,0,8,1,1,0,0,1,1989 Tour,1989,Reba,,1,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,","
+1989-11-02,1989,0,8,1,1,0,0,0,1989 Tour,1989,Reba,,1,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,","
 1989-11-02,1989,0,9,1,1,0,0,4,1989 Tour,1989,Split Open and Melt,SOAMelt,1,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,","
 1989-11-02,1989,0,10,2,1,0,0,9,1989 Tour,1989,Esther,,1,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,>
 1989-11-02,1989,0,11,4,1,0,0,2,1989 Tour,1989,Good Times Bad Times,GTBT,0,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,
 1989-11-02,1989,0,12,2,2,0,0,1,1989 Tour,1989,The Oh Kee Pa Ceremony,Oh Kee Pa,1,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,>
 1989-11-02,1989,0,13,1,2,0,0,3,1989 Tour,1989,Golgi Apparatus,Golgi,1,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,","
-1989-11-02,1989,0,14,2,2,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,>
+1989-11-02,1989,0,14,2,2,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,>
 1989-11-02,1989,0,15,1,2,0,0,1,1989 Tour,1989,Kung,,1,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,","
 1989-11-02,1989,0,16,2,2,0,0,19,1989 Tour,1989,Rhombus Narration,,1,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,>
 1989-11-02,1989,0,17,1,2,0,0,1,1989 Tour,1989,Divided Sky,Divided,1,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,","
 1989-11-02,1989,0,18,2,2,0,0,4,1989 Tour,1989,McGrupp and the Watchful Hosemasters,McGrupp,1,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,>
 1989-11-02,1989,0,19,2,2,0,0,3,1989 Tour,1989,Who Do? We Do!,,1,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,>
-1989-11-02,1989,0,20,2,2,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,>
+1989-11-02,1989,0,20,2,2,0,0,0,1989 Tour,1989,AC/DC Bag,Bag,1,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,>
 1989-11-02,1989,0,21,2,2,0,0,4,1989 Tour,1989,My Sweet One,MSO,1,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,>
 1989-11-02,1989,0,22,6,2,0,0,1,1989 Tour,1989,Highway to Hell,,0,"Memorial Union Building, Granite State Room, University of New Hampshire",Durham,NH,USA,
 1989-11-03,1989,0,1,2,1,0,0,2,1989 Tour,1989,Colonel Forbin's Ascent,Forbin's,1,Tree Cafe,Portland,ME,USA,>
@@ -1112,30 +1112,30 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-11-03,1989,0,4,1,1,0,0,1,1989 Tour,1989,My Sweet One,MSO,1,Tree Cafe,Portland,ME,USA,","
 1989-11-03,1989,0,5,2,1,0,0,1,1989 Tour,1989,Split Open and Melt,SOAMelt,1,Tree Cafe,Portland,ME,USA,>
 1989-11-03,1989,0,6,2,1,0,0,7,1989 Tour,1989,Bundle of Joy,,1,Tree Cafe,Portland,ME,USA,>
-1989-11-03,1989,0,7,1,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,Tree Cafe,Portland,ME,USA,","
-1989-11-03,1989,0,8,1,1,0,0,4,1989 Tour,1989,Punch You in the Eye,PYITE,1,Tree Cafe,Portland,ME,USA,","
-1989-11-03,1989,0,9,1,1,0,0,1,1989 Tour,1989,Reba,,1,Tree Cafe,Portland,ME,USA,","
+1989-11-03,1989,0,7,1,1,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,Tree Cafe,Portland,ME,USA,","
+1989-11-03,1989,0,8,1,1,0,0,3,1989 Tour,1989,Punch You in the Eye,PYITE,1,Tree Cafe,Portland,ME,USA,","
+1989-11-03,1989,0,9,1,1,0,0,0,1989 Tour,1989,Reba,,1,Tree Cafe,Portland,ME,USA,","
 1989-11-03,1989,0,10,4,1,0,0,1,1989 Tour,1989,Golgi Apparatus,Golgi,1,Tree Cafe,Portland,ME,USA,
 1989-11-03,1989,0,11,2,2,0,0,2,1989 Tour,1989,David Bowie,Bowie,1,Tree Cafe,Portland,ME,USA,>
 1989-11-03,1989,0,12,1,2,0,0,4,1989 Tour,1989,No Dogs Allowed,,1,Tree Cafe,Portland,ME,USA,","
 1989-11-03,1989,0,13,2,2,0,0,1,1989 Tour,1989,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Tree Cafe,Portland,ME,USA,>
 1989-11-03,1989,0,14,2,2,0,0,4,1989 Tour,1989,The Sloth,Sloth,1,Tree Cafe,Portland,ME,USA,>
 1989-11-03,1989,0,15,1,2,0,0,1,1989 Tour,1989,Foam,,1,Tree Cafe,Portland,ME,USA,","
-1989-11-03,1989,0,16,6,2,0,0,5,1989 Tour,1989,Harry Hood,Hood,1,Tree Cafe,Portland,ME,USA,
+1989-11-03,1989,0,16,6,2,0,0,4,1989 Tour,1989,Harry Hood,Hood,1,Tree Cafe,Portland,ME,USA,
 1989-11-09,1989,0,1,1,1,0,0,5,1989 Tour,1989,I Didn't Know,IDK,1,"Mission Park Dining Hall, Williams College",Williamstown,MA,USA,","
 1989-11-09,1989,0,2,2,1,0,0,2,1989 Tour,1989,Golgi Apparatus,Golgi,1,"Mission Park Dining Hall, Williams College",Williamstown,MA,USA,>
 1989-11-09,1989,0,3,1,1,0,0,7,1989 Tour,1989,Ya Mar,,0,"Mission Park Dining Hall, Williams College",Williamstown,MA,USA,","
 1989-11-09,1989,0,4,2,1,0,0,3,1989 Tour,1989,The Curtain,Curtain,1,"Mission Park Dining Hall, Williams College",Williamstown,MA,USA,>
 1989-11-09,1989,0,5,1,1,0,0,2,1989 Tour,1989,My Sweet One,MSO,1,"Mission Park Dining Hall, Williams College",Williamstown,MA,USA,","
 1989-11-09,1989,0,6,2,1,0,0,2,1989 Tour,1989,Bathtub Gin,Gin,1,"Mission Park Dining Hall, Williams College",Williamstown,MA,USA,>
-1989-11-09,1989,0,7,2,1,0,0,2,1989 Tour,1989,You Enjoy Myself,YEM,1,"Mission Park Dining Hall, Williams College",Williamstown,MA,USA,>
+1989-11-09,1989,0,7,2,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,"Mission Park Dining Hall, Williams College",Williamstown,MA,USA,>
 1989-11-09,1989,0,8,1,1,0,0,31,1989 Tour,1989,Take the 'A' Train,'A' Train,0,"Mission Park Dining Hall, Williams College",Williamstown,MA,USA,","
 1989-11-09,1989,0,9,4,1,0,0,3,1989 Tour,1989,Good Times Bad Times,GTBT,0,"Mission Park Dining Hall, Williams College",Williamstown,MA,USA,
 1989-11-09,1989,0,10,2,2,0,0,2,1989 Tour,1989,The Oh Kee Pa Ceremony,Oh Kee Pa,1,"Mission Park Dining Hall, Williams College",Williamstown,MA,USA,>
-1989-11-09,1989,0,11,2,2,0,0,3,1989 Tour,1989,AC/DC Bag,Bag,1,"Mission Park Dining Hall, Williams College",Williamstown,MA,USA,>
+1989-11-09,1989,0,11,2,2,0,0,2,1989 Tour,1989,AC/DC Bag,Bag,1,"Mission Park Dining Hall, Williams College",Williamstown,MA,USA,>
 1989-11-09,1989,0,12,2,2,0,0,3,1989 Tour,1989,McGrupp and the Watchful Hosemasters,McGrupp,1,"Mission Park Dining Hall, Williams College",Williamstown,MA,USA,>
 1989-11-09,1989,0,13,2,2,0,0,3,1989 Tour,1989,Who Do? We Do!,,1,"Mission Park Dining Hall, Williams College",Williamstown,MA,USA,>
-1989-11-09,1989,0,14,1,2,0,0,2,1989 Tour,1989,Punch You in the Eye,PYITE,1,"Mission Park Dining Hall, Williams College",Williamstown,MA,USA,","
+1989-11-09,1989,0,14,1,2,0,0,1,1989 Tour,1989,Punch You in the Eye,PYITE,1,"Mission Park Dining Hall, Williams College",Williamstown,MA,USA,","
 1989-11-09,1989,0,15,1,2,0,0,4,1989 Tour,1989,The Lizards,Lizards,1,"Mission Park Dining Hall, Williams College",Williamstown,MA,USA,","
 1989-11-09,1989,0,16,2,2,0,0,3,1989 Tour,1989,Mike's Song,Mike's,1,"Mission Park Dining Hall, Williams College",Williamstown,MA,USA,>
 1989-11-09,1989,0,17,2,2,0,0,3,1989 Tour,1989,I Am Hydrogen,Hydrogen,1,"Mission Park Dining Hall, Williams College",Williamstown,MA,USA,>
@@ -1147,11 +1147,11 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-11-10,1989,0,4,1,1,0,0,8,1989 Tour,1989,Rocky Top,,0,"Sigma Phi House, Hamilton College",Clinton,NY,USA,","
 1989-11-10,1989,0,5,2,1,0,0,4,1989 Tour,1989,Fee,,1,"Sigma Phi House, Hamilton College",Clinton,NY,USA,>
 1989-11-10,1989,0,6,2,1,0,0,4,1989 Tour,1989,Divided Sky,Divided,1,"Sigma Phi House, Hamilton College",Clinton,NY,USA,>
-1989-11-10,1989,0,7,1,1,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,"Sigma Phi House, Hamilton College",Clinton,NY,USA,","
+1989-11-10,1989,0,7,1,1,0,0,0,1989 Tour,1989,AC/DC Bag,Bag,1,"Sigma Phi House, Hamilton College",Clinton,NY,USA,","
 1989-11-10,1989,0,8,1,1,0,0,1,1989 Tour,1989,My Sweet One,MSO,1,"Sigma Phi House, Hamilton College",Clinton,NY,USA,","
-1989-11-10,1989,0,9,2,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,"Sigma Phi House, Hamilton College",Clinton,NY,USA,>
+1989-11-10,1989,0,9,2,1,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,"Sigma Phi House, Hamilton College",Clinton,NY,USA,>
 1989-11-10,1989,0,10,4,1,0,0,8,1989 Tour,1989,La Grange,,0,"Sigma Phi House, Hamilton College",Clinton,NY,USA,
-1989-11-10,1989,0,11,1,2,0,0,3,1989 Tour,1989,Harry Hood,Hood,1,"Sigma Phi House, Hamilton College",Clinton,NY,USA,","
+1989-11-10,1989,0,11,1,2,0,0,2,1989 Tour,1989,Harry Hood,Hood,1,"Sigma Phi House, Hamilton College",Clinton,NY,USA,","
 1989-11-10,1989,0,12,1,2,0,0,1,1989 Tour,1989,Bathtub Gin,Gin,1,"Sigma Phi House, Hamilton College",Clinton,NY,USA,","
 1989-11-10,1989,0,13,2,2,0,0,1,1989 Tour,1989,Mike's Song,Mike's,1,"Sigma Phi House, Hamilton College",Clinton,NY,USA,>
 1989-11-10,1989,0,14,2,2,0,0,1,1989 Tour,1989,I Am Hydrogen,Hydrogen,1,"Sigma Phi House, Hamilton College",Clinton,NY,USA,>
@@ -1162,7 +1162,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-11-10,1989,0,19,1,2,0,0,3,1989 Tour,1989,The Sloth,Sloth,1,"Sigma Phi House, Hamilton College",Clinton,NY,USA,","
 1989-11-10,1989,0,20,1,2,0,0,1,1989 Tour,1989,The Lizards,Lizards,1,"Sigma Phi House, Hamilton College",Clinton,NY,USA,","
 1989-11-10,1989,0,21,1,2,0,0,17,1989 Tour,1989,If I Only Had a Brain,,0,"Sigma Phi House, Hamilton College",Clinton,NY,USA,","
-1989-11-10,1989,0,22,5,2,0,0,5,1989 Tour,1989,Possum,,1,"Sigma Phi House, Hamilton College",Clinton,NY,USA,
+1989-11-10,1989,0,22,5,2,0,0,4,1989 Tour,1989,Possum,,1,"Sigma Phi House, Hamilton College",Clinton,NY,USA,
 1989-11-10,1989,0,23,1,e,0,0,6,1989 Tour,1989,Harpua,,1,"Sigma Phi House, Hamilton College",Clinton,NY,USA,","
 1989-11-10,1989,0,24,7,e,0,0,1,1989 Tour,1989,Highway to Hell,,0,"Sigma Phi House, Hamilton College",Clinton,NY,USA,
 1989-11-10,1989,0,25,2,e2,0,0,1,1989 Tour,1989,Take the 'A' Train,'A' Train,0,"Sigma Phi House, Hamilton College",Clinton,NY,USA,>
@@ -1170,9 +1170,9 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-11-11,1989,0,1,2,1,0,0,1,1989 Tour,1989,The Oh Kee Pa Ceremony,Oh Kee Pa,1,"Patrick Gymnasium, University of Vermont",Burlington,VT,USA,>
 1989-11-11,1989,0,2,1,1,0,0,2,1989 Tour,1989,Golgi Apparatus,Golgi,1,"Patrick Gymnasium, University of Vermont",Burlington,VT,USA,","
 1989-11-11,1989,0,3,1,1,0,0,1,1989 Tour,1989,Bathtub Gin,Gin,1,"Patrick Gymnasium, University of Vermont",Burlington,VT,USA,","
-1989-11-11,1989,0,4,2,1,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,"Patrick Gymnasium, University of Vermont",Burlington,VT,USA,>
+1989-11-11,1989,0,4,2,1,0,0,0,1989 Tour,1989,AC/DC Bag,Bag,1,"Patrick Gymnasium, University of Vermont",Burlington,VT,USA,>
 1989-11-11,1989,0,5,1,1,0,0,1,1989 Tour,1989,My Sweet One,MSO,1,"Patrick Gymnasium, University of Vermont",Burlington,VT,USA,","
-1989-11-11,1989,0,6,1,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,"Patrick Gymnasium, University of Vermont",Burlington,VT,USA,","
+1989-11-11,1989,0,6,1,1,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,"Patrick Gymnasium, University of Vermont",Burlington,VT,USA,","
 1989-11-11,1989,0,7,1,1,0,0,1,1989 Tour,1989,If I Only Had a Brain,,0,"Patrick Gymnasium, University of Vermont",Burlington,VT,USA,","
 1989-11-11,1989,0,8,6,1,0,0,299,1989 Tour,1989,Frankenstein,,0,"Patrick Gymnasium, University of Vermont",Burlington,VT,USA,
 1989-11-16,1989,0,1,2,1,0,0,2,1989 Tour,1989,Mike's Song,Mike's,1,Pearl Street Ballroom,Northampton,MA,USA,>
@@ -1183,37 +1183,37 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-11-16,1989,0,6,2,1,0,0,1,1989 Tour,1989,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Pearl Street Ballroom,Northampton,MA,USA,>
 1989-11-16,1989,0,7,1,1,0,0,2,1989 Tour,1989,Suzy Greenberg,Suzy,1,Pearl Street Ballroom,Northampton,MA,USA,","
 1989-11-16,1989,0,8,1,1,0,0,1,1989 Tour,1989,My Sweet One,MSO,1,Pearl Street Ballroom,Northampton,MA,USA,","
-1989-11-16,1989,0,9,1,1,0,0,5,1989 Tour,1989,Reba,,1,Pearl Street Ballroom,Northampton,MA,USA,","
-1989-11-16,1989,0,10,1,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,Pearl Street Ballroom,Northampton,MA,USA,","
+1989-11-16,1989,0,9,1,1,0,0,4,1989 Tour,1989,Reba,,1,Pearl Street Ballroom,Northampton,MA,USA,","
+1989-11-16,1989,0,10,1,1,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,Pearl Street Ballroom,Northampton,MA,USA,","
 1989-11-16,1989,0,11,4,1,0,0,1,1989 Tour,1989,Frankenstein,,0,Pearl Street Ballroom,Northampton,MA,USA,
 1989-11-16,1989,0,12,2,2,0,0,2,1989 Tour,1989,The Sloth,Sloth,1,Pearl Street Ballroom,Northampton,MA,USA,>
-1989-11-16,1989,0,13,1,2,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,Pearl Street Ballroom,Northampton,MA,USA,","
+1989-11-16,1989,0,13,1,2,0,0,0,1989 Tour,1989,AC/DC Bag,Bag,1,Pearl Street Ballroom,Northampton,MA,USA,","
 1989-11-16,1989,0,14,2,2,0,0,10,1989 Tour,1989,Tela,,1,Pearl Street Ballroom,Northampton,MA,USA,>
 1989-11-16,1989,0,15,6,2,0,0,5,1989 Tour,1989,David Bowie,Bowie,1,Pearl Street Ballroom,Northampton,MA,USA,
-1989-11-18,1989,0,1,1,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,23 East Cabaret,Ardmore,PA,USA,","
+1989-11-18,1989,0,1,1,1,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,23 East Cabaret,Ardmore,PA,USA,","
 1989-11-18,1989,0,2,1,1,0,0,3,1989 Tour,1989,Take the 'A' Train,'A' Train,0,23 East Cabaret,Ardmore,PA,USA,","
-1989-11-18,1989,0,3,1,1,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,23 East Cabaret,Ardmore,PA,USA,","
+1989-11-18,1989,0,3,1,1,0,0,0,1989 Tour,1989,AC/DC Bag,Bag,1,23 East Cabaret,Ardmore,PA,USA,","
 1989-11-18,1989,0,4,1,1,0,0,3,1989 Tour,1989,The Lizards,Lizards,1,23 East Cabaret,Ardmore,PA,USA,","
 1989-11-18,1989,0,5,1,1,0,0,1,1989 Tour,1989,My Sweet One,MSO,1,23 East Cabaret,Ardmore,PA,USA,","
-1989-11-18,1989,0,6,1,1,0,0,3,1989 Tour,1989,Possum,,1,23 East Cabaret,Ardmore,PA,USA,","
+1989-11-18,1989,0,6,1,1,0,0,2,1989 Tour,1989,Possum,,1,23 East Cabaret,Ardmore,PA,USA,","
 1989-11-18,1989,0,7,1,1,0,0,3,1989 Tour,1989,Divided Sky,Divided,1,23 East Cabaret,Ardmore,PA,USA,","
 1989-11-18,1989,0,8,1,1,0,0,8,1989 Tour,1989,Wilson,,1,23 East Cabaret,Ardmore,PA,USA,","
-1989-11-18,1989,0,9,1,1,0,0,1,1989 Tour,1989,Reba,,1,23 East Cabaret,Ardmore,PA,USA,","
+1989-11-18,1989,0,9,1,1,0,0,0,1989 Tour,1989,Reba,,1,23 East Cabaret,Ardmore,PA,USA,","
 1989-11-18,1989,0,10,1,1,0,0,1,1989 Tour,1989,David Bowie,Bowie,1,23 East Cabaret,Ardmore,PA,USA,","
 1989-11-18,1989,0,11,6,1,0,0,8,1989 Tour,1989,Contact,,1,23 East Cabaret,Ardmore,PA,USA,
 1989-11-30,1989,0,1,1,1,0,0,2,1989 Tour,1989,Bathtub Gin,Gin,1,The Paradise,Boston,MA,USA,","
 1989-11-30,1989,0,2,1,1,0,0,1,1989 Tour,1989,Divided Sky,Divided,1,The Paradise,Boston,MA,USA,","
 1989-11-30,1989,0,3,1,1,0,0,5,1989 Tour,1989,Ya Mar,,0,The Paradise,Boston,MA,USA,","
 1989-11-30,1989,0,4,2,1,0,0,2,1989 Tour,1989,The Oh Kee Pa Ceremony,Oh Kee Pa,1,The Paradise,Boston,MA,USA,>
-1989-11-30,1989,0,5,2,1,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,The Paradise,Boston,MA,USA,>
+1989-11-30,1989,0,5,2,1,0,0,0,1989 Tour,1989,AC/DC Bag,Bag,1,The Paradise,Boston,MA,USA,>
 1989-11-30,1989,0,6,1,1,0,0,2,1989 Tour,1989,Foam,,1,The Paradise,Boston,MA,USA,","
 1989-11-30,1989,0,7,1,1,0,0,1,1989 Tour,1989,The Lizards,Lizards,1,The Paradise,Boston,MA,USA,","
 1989-11-30,1989,0,8,1,1,0,0,1,1989 Tour,1989,My Sweet One,MSO,1,The Paradise,Boston,MA,USA,","
 1989-11-30,1989,0,9,1,1,0,0,4,1989 Tour,1989,Run Like an Antelope,Antelope,1,The Paradise,Boston,MA,USA,","
 1989-11-30,1989,0,10,1,1,0,0,301,1989 Tour,1989,Lawn Boy,,1,The Paradise,Boston,MA,USA,","
 1989-11-30,1989,0,11,4,1,0,0,2,1989 Tour,1989,Frankenstein,,0,The Paradise,Boston,MA,USA,
-1989-11-30,1989,0,12,1,2,0,0,1,1989 Tour,1989,Reba,,1,The Paradise,Boston,MA,USA,","
-1989-11-30,1989,0,13,1,2,0,0,1,1989 Tour,1989,Possum,,1,The Paradise,Boston,MA,USA,","
+1989-11-30,1989,0,12,1,2,0,0,0,1989 Tour,1989,Reba,,1,The Paradise,Boston,MA,USA,","
+1989-11-30,1989,0,13,1,2,0,0,0,1989 Tour,1989,Possum,,1,The Paradise,Boston,MA,USA,","
 1989-11-30,1989,0,14,2,2,0,0,7,1989 Tour,1989,Colonel Forbin's Ascent,Forbin's,1,The Paradise,Boston,MA,USA,>
 1989-11-30,1989,0,15,1,2,0,0,7,1989 Tour,1989,Fly Famous Mockingbird,Mockingbird,1,The Paradise,Boston,MA,USA,","
 1989-11-30,1989,0,16,1,2,0,0,12,1989 Tour,1989,Undun,,0,The Paradise,Boston,MA,USA,","
@@ -1227,12 +1227,12 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-11-30,1989,0,24,6,e,0,0,3,1989 Tour,1989,Golgi Apparatus,Golgi,1,The Paradise,Boston,MA,USA,
 1989-12-01,1989,0,1,2,1,0,0,6,1989 Tour,1989,I Didn't Know,IDK,1,The Paradise,Boston,MA,USA,>
 1989-12-01,1989,0,2,1,1,0,0,5,1989 Tour,1989,La Grange,,0,The Paradise,Boston,MA,USA,","
-1989-12-01,1989,0,3,1,1,0,0,2,1989 Tour,1989,You Enjoy Myself,YEM,1,The Paradise,Boston,MA,USA,","
+1989-12-01,1989,0,3,1,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,The Paradise,Boston,MA,USA,","
 1989-12-01,1989,0,4,1,1,0,0,1,1989 Tour,1989,The Oh Kee Pa Ceremony,Oh Kee Pa,1,The Paradise,Boston,MA,USA,","
 1989-12-01,1989,0,5,2,1,0,0,11,1989 Tour,1989,Dinner and a Movie,,1,The Paradise,Boston,MA,USA,>
 1989-12-01,1989,0,6,1,1,0,0,1,1989 Tour,1989,Bathtub Gin,Gin,1,The Paradise,Boston,MA,USA,","
 1989-12-01,1989,0,7,1,1,0,0,1,1989 Tour,1989,My Sweet One,MSO,1,The Paradise,Boston,MA,USA,","
-1989-12-01,1989,0,8,1,1,0,0,5,1989 Tour,1989,Harry Hood,Hood,1,The Paradise,Boston,MA,USA,","
+1989-12-01,1989,0,8,1,1,0,0,4,1989 Tour,1989,Harry Hood,Hood,1,The Paradise,Boston,MA,USA,","
 1989-12-01,1989,0,9,4,1,0,0,6,1989 Tour,1989,Good Times Bad Times,GTBT,0,The Paradise,Boston,MA,USA,
 1989-12-01,1989,0,10,2,2,0,0,10,1989 Tour,1989,Alumni Blues,Alumni,1,The Paradise,Boston,MA,USA,>
 1989-12-01,1989,0,11,2,2,0,0,10,1989 Tour,1989,Letter to Jimmy Page,LTJP,1,The Paradise,Boston,MA,USA,>
@@ -1247,11 +1247,11 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-12-01,1989,0,20,1,2,0,0,4,1989 Tour,1989,If I Only Had a Brain,,0,The Paradise,Boston,MA,USA,","
 1989-12-01,1989,0,21,5,2,0,0,5,1989 Tour,1989,Highway to Hell,,0,The Paradise,Boston,MA,USA,
 1989-12-01,1989,0,22,2,e,0,0,1,1989 Tour,1989,Lawn Boy,,1,The Paradise,Boston,MA,USA,>
-1989-12-01,1989,0,23,6,e,0,0,1,1989 Tour,1989,Possum,,1,The Paradise,Boston,MA,USA,
+1989-12-01,1989,0,23,6,e,0,0,0,1989 Tour,1989,Possum,,1,The Paradise,Boston,MA,USA,
 1989-12-03,1989,0,1,1,1,0,0,2,1989 Tour,1989,Bathtub Gin,Gin,1,The Front,Burlington,VT,USA,","
 1989-12-03,1989,0,2,2,1,0,0,27,1989 Tour,1989,Funky Bitch,,0,The Front,Burlington,VT,USA,>
 1989-12-03,1989,0,3,1,1,0,0,3,1989 Tour,1989,Ya Mar,,0,The Front,Burlington,VT,USA,","
-1989-12-03,1989,0,4,1,1,0,0,3,1989 Tour,1989,Reba,,1,The Front,Burlington,VT,USA,","
+1989-12-03,1989,0,4,1,1,0,0,2,1989 Tour,1989,Reba,,1,The Front,Burlington,VT,USA,","
 1989-12-03,1989,0,5,1,1,0,0,2,1989 Tour,1989,Divided Sky,Divided,1,The Front,Burlington,VT,USA,","
 1989-12-03,1989,0,6,2,1,0,0,2,1989 Tour,1989,My Sweet One,MSO,1,The Front,Burlington,VT,USA,>
 1989-12-03,1989,0,7,1,1,0,0,3,1989 Tour,1989,Run Like an Antelope,Antelope,1,The Front,Burlington,VT,USA,","
@@ -1259,14 +1259,14 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-12-03,1989,0,9,4,1,0,0,3,1989 Tour,1989,Frankenstein,,0,The Front,Burlington,VT,USA,
 1989-12-03,1989,0,10,2,2,0,0,19,1989 Tour,1989,The Man Who Stepped Into Yesterday,TMWSIY,1,The Front,Burlington,VT,USA,>
 1989-12-03,1989,0,11,2,2,0,0,19,1989 Tour,1989,Avenu Malkenu,,0,The Front,Burlington,VT,USA,>
-1989-12-03,1989,0,12,2,2,0,0,3,1989 Tour,1989,AC/DC Bag,Bag,1,The Front,Burlington,VT,USA,>
+1989-12-03,1989,0,12,2,2,0,0,2,1989 Tour,1989,AC/DC Bag,Bag,1,The Front,Burlington,VT,USA,>
 1989-12-03,1989,0,13,2,2,0,0,11,1989 Tour,1989,Esther,,1,The Front,Burlington,VT,USA,>
 1989-12-03,1989,0,14,2,2,0,0,2,1989 Tour,1989,The Oh Kee Pa Ceremony,Oh Kee Pa,1,The Front,Burlington,VT,USA,>
 1989-12-03,1989,0,15,1,2,0,0,3,1989 Tour,1989,Suzy Greenberg,Suzy,1,The Front,Burlington,VT,USA,","
 1989-12-03,1989,0,16,1,2,0,0,3,1989 Tour,1989,Split Open and Melt,SOAMelt,1,The Front,Burlington,VT,USA,","
 1989-12-03,1989,0,17,1,2,0,0,3,1989 Tour,1989,In a Hole,,1,The Front,Burlington,VT,USA,","
 1989-12-03,1989,0,18,2,2,0,0,3,1989 Tour,1989,Fee,,1,The Front,Burlington,VT,USA,>
-1989-12-03,1989,0,19,1,2,0,0,2,1989 Tour,1989,Possum,,1,The Front,Burlington,VT,USA,","
+1989-12-03,1989,0,19,1,2,0,0,1,1989 Tour,1989,Possum,,1,The Front,Burlington,VT,USA,","
 1989-12-03,1989,0,20,1,2,0,0,78,1989 Tour,1989,Love You,,0,The Front,Burlington,VT,USA,","
 1989-12-03,1989,0,21,2,2,0,0,2,1989 Tour,1989,Mike's Song,Mike's,1,The Front,Burlington,VT,USA,>
 1989-12-03,1989,0,22,2,2,0,0,2,1989 Tour,1989,I Am Hydrogen,Hydrogen,1,The Front,Burlington,VT,USA,>
@@ -1274,9 +1274,9 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-12-03,1989,0,24,1,e,0,0,2,1989 Tour,1989,I Didn't Know,IDK,1,The Front,Burlington,VT,USA,","
 1989-12-03,1989,0,25,6,e,0,0,3,1989 Tour,1989,Golgi Apparatus,Golgi,1,The Front,Burlington,VT,USA,
 1989-12-07,1989,0,1,1,1,0,0,3,1989 Tour,1989,I Didn't Know,IDK,1,8x10 Club,Baltimore,MD,USA,","
-1989-12-07,1989,0,2,1,1,0,0,5,1989 Tour,1989,You Enjoy Myself,YEM,1,8x10 Club,Baltimore,MD,USA,","
+1989-12-07,1989,0,2,1,1,0,0,4,1989 Tour,1989,You Enjoy Myself,YEM,1,8x10 Club,Baltimore,MD,USA,","
 1989-12-07,1989,0,3,1,1,0,0,6,1989 Tour,1989,Take the 'A' Train,'A' Train,0,8x10 Club,Baltimore,MD,USA,","
-1989-12-07,1989,0,4,1,1,0,0,3,1989 Tour,1989,AC/DC Bag,Bag,1,8x10 Club,Baltimore,MD,USA,","
+1989-12-07,1989,0,4,1,1,0,0,2,1989 Tour,1989,AC/DC Bag,Bag,1,8x10 Club,Baltimore,MD,USA,","
 1989-12-07,1989,0,5,1,1,0,0,3,1989 Tour,1989,Fee,,1,8x10 Club,Baltimore,MD,USA,","
 1989-12-07,1989,0,6,2,1,0,0,3,1989 Tour,1989,Mike's Song,Mike's,1,8x10 Club,Baltimore,MD,USA,>
 1989-12-07,1989,0,7,2,1,0,0,3,1989 Tour,1989,I Am Hydrogen,Hydrogen,1,8x10 Club,Baltimore,MD,USA,>
@@ -1294,27 +1294,27 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-12-07,1989,0,19,1,2,0,0,5,1989 Tour,1989,The Lizards,Lizards,1,8x10 Club,Baltimore,MD,USA,","
 1989-12-07,1989,0,20,1,2,0,0,3,1989 Tour,1989,Run Like an Antelope,Antelope,1,8x10 Club,Baltimore,MD,USA,","
 1989-12-07,1989,0,21,1,2,0,0,3,1989 Tour,1989,Lawn Boy,,1,8x10 Club,Baltimore,MD,USA,","
-1989-12-07,1989,0,22,1,2,0,0,3,1989 Tour,1989,Possum,,1,8x10 Club,Baltimore,MD,USA,","
+1989-12-07,1989,0,22,1,2,0,0,2,1989 Tour,1989,Possum,,1,8x10 Club,Baltimore,MD,USA,","
 1989-12-07,1989,0,23,1,2,0,0,6,1989 Tour,1989,Undun,,0,8x10 Club,Baltimore,MD,USA,","
 1989-12-07,1989,0,24,6,2,0,0,3,1989 Tour,1989,Golgi Apparatus,Golgi,1,8x10 Club,Baltimore,MD,USA,
 1989-12-08,1989,0,1,2,1,0,0,1,1989 Tour,1989,The Oh Kee Pa Ceremony,Oh Kee Pa,1,"Withey Hall Dining Room, Green Mountain College",Poultney,VT,USA,>
 1989-12-08,1989,0,2,1,1,0,0,1,1989 Tour,1989,Suzy Greenberg,Suzy,1,"Withey Hall Dining Room, Green Mountain College",Poultney,VT,USA,","
 1989-12-08,1989,0,3,1,1,0,0,4,1989 Tour,1989,Split Open and Melt,SOAMelt,1,"Withey Hall Dining Room, Green Mountain College",Poultney,VT,USA,","
 1989-12-08,1989,0,4,1,1,0,0,1,1989 Tour,1989,Ya Mar,,0,"Withey Hall Dining Room, Green Mountain College",Poultney,VT,USA,","
-1989-12-08,1989,0,5,1,1,0,0,4,1989 Tour,1989,Reba,,1,"Withey Hall Dining Room, Green Mountain College",Poultney,VT,USA,","
+1989-12-08,1989,0,5,1,1,0,0,3,1989 Tour,1989,Reba,,1,"Withey Hall Dining Room, Green Mountain College",Poultney,VT,USA,","
 1989-12-08,1989,0,6,2,1,0,0,11,1989 Tour,1989,McGrupp and the Watchful Hosemasters,McGrupp,1,"Withey Hall Dining Room, Green Mountain College",Poultney,VT,USA,>
 1989-12-08,1989,0,7,2,1,0,0,11,1989 Tour,1989,Who Do? We Do!,,1,"Withey Hall Dining Room, Green Mountain College",Poultney,VT,USA,>
-1989-12-08,1989,0,8,1,1,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,"Withey Hall Dining Room, Green Mountain College",Poultney,VT,USA,","
+1989-12-08,1989,0,8,1,1,0,0,0,1989 Tour,1989,AC/DC Bag,Bag,1,"Withey Hall Dining Room, Green Mountain College",Poultney,VT,USA,","
 1989-12-08,1989,0,9,2,1,0,0,4,1989 Tour,1989,My Sweet One,MSO,1,"Withey Hall Dining Room, Green Mountain College",Poultney,VT,USA,>
 1989-12-08,1989,0,10,1,1,0,0,4,1989 Tour,1989,Bathtub Gin,Gin,1,"Withey Hall Dining Room, Green Mountain College",Poultney,VT,USA,","
 1989-12-08,1989,0,11,4,1,0,0,1,1989 Tour,1989,Run Like an Antelope,Antelope,1,"Withey Hall Dining Room, Green Mountain College",Poultney,VT,USA,
-1989-12-08,1989,0,12,1,2,0,0,6,1989 Tour,1989,Harry Hood,Hood,1,"Withey Hall Dining Room, Green Mountain College",Poultney,VT,USA,","
+1989-12-08,1989,0,12,1,2,0,0,5,1989 Tour,1989,Harry Hood,Hood,1,"Withey Hall Dining Room, Green Mountain College",Poultney,VT,USA,","
 1989-12-08,1989,0,13,2,2,0,0,9,1989 Tour,1989,Tela,,1,"Withey Hall Dining Room, Green Mountain College",Poultney,VT,USA,>
-1989-12-08,1989,0,14,1,2,0,0,27,1989 Tour,1989,Timber (Jerry the Mule),Timber Ho,0,"Withey Hall Dining Room, Green Mountain College",Poultney,VT,USA,","
+1989-12-08,1989,0,14,1,2,0,0,26,1989 Tour,1989,Timber (Jerry the Mule),Timber Ho,0,"Withey Hall Dining Room, Green Mountain College",Poultney,VT,USA,","
 1989-12-08,1989,0,15,1,2,0,0,21,1989 Tour,1989,Slave to the Traffic Light,Slave,1,"Withey Hall Dining Room, Green Mountain College",Poultney,VT,USA,","
 1989-12-08,1989,0,16,1,2,0,0,1,1989 Tour,1989,I Didn't Know,IDK,1,"Withey Hall Dining Room, Green Mountain College",Poultney,VT,USA,","
-1989-12-08,1989,0,17,3,2,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,"Withey Hall Dining Room, Green Mountain College",Poultney,VT,USA,->
-1989-12-08,1989,0,18,5,2,0,0,1,1989 Tour,1989,Possum,,1,"Withey Hall Dining Room, Green Mountain College",Poultney,VT,USA,
+1989-12-08,1989,0,17,3,2,0,0,0,1989 Tour,1989,You Enjoy Myself,YEM,1,"Withey Hall Dining Room, Green Mountain College",Poultney,VT,USA,->
+1989-12-08,1989,0,18,5,2,0,0,0,1989 Tour,1989,Possum,,1,"Withey Hall Dining Room, Green Mountain College",Poultney,VT,USA,
 1989-12-08,1989,0,19,2,e,0,0,1,1989 Tour,1989,Lawn Boy,,1,"Withey Hall Dining Room, Green Mountain College",Poultney,VT,USA,>
 1989-12-08,1989,0,20,6,e,0,0,45,1989 Tour,1989,Fire,,0,"Withey Hall Dining Room, Green Mountain College",Poultney,VT,USA,
 1989-12-09,1989,0,1,2,1,0,0,7,1989 Tour,1989,Dinner and a Movie,,1,"Huden Dining Hall, Castleton State College",Castleton,VT,USA,>
@@ -1346,19 +1346,19 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-12-15,1989,0,5,1,1,0,0,1,1989 Tour,1989,Weekapaug Groove,Weekapaug,1,Ukrainian National Home,New York,NY,USA,","
 1989-12-15,1989,0,6,2,1,0,0,2,1989 Tour,1989,Ya Mar,,0,Ukrainian National Home,New York,NY,USA,>
 1989-12-15,1989,0,7,2,1,0,0,2,1989 Tour,1989,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Ukrainian National Home,New York,NY,USA,>
-1989-12-15,1989,0,8,1,1,0,0,2,1989 Tour,1989,AC/DC Bag,Bag,1,Ukrainian National Home,New York,NY,USA,","
-1989-12-15,1989,0,9,1,1,0,0,2,1989 Tour,1989,You Enjoy Myself,YEM,1,Ukrainian National Home,New York,NY,USA,","
+1989-12-15,1989,0,8,1,1,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,Ukrainian National Home,New York,NY,USA,","
+1989-12-15,1989,0,9,1,1,0,0,1,1989 Tour,1989,You Enjoy Myself,YEM,1,Ukrainian National Home,New York,NY,USA,","
 1989-12-15,1989,0,10,4,1,0,0,8,1989 Tour,1989,Good Times Bad Times,GTBT,0,Ukrainian National Home,New York,NY,USA,
 1989-12-15,1989,0,11,2,2,0,0,2,1989 Tour,1989,I Didn't Know,IDK,1,Ukrainian National Home,New York,NY,USA,>
 1989-12-15,1989,0,12,1,2,0,0,3,1989 Tour,1989,Divided Sky,Divided,1,Ukrainian National Home,New York,NY,USA,","
-1989-12-15,1989,0,13,1,2,0,0,2,1989 Tour,1989,Possum,,1,Ukrainian National Home,New York,NY,USA,","
+1989-12-15,1989,0,13,1,2,0,0,1,1989 Tour,1989,Possum,,1,Ukrainian National Home,New York,NY,USA,","
 1989-12-15,1989,0,14,1,2,0,0,2,1989 Tour,1989,Run Like an Antelope,Antelope,1,Ukrainian National Home,New York,NY,USA,","
 1989-12-15,1989,0,15,1,2,0,0,6,1989 Tour,1989,Funky Bitch,,0,Ukrainian National Home,New York,NY,USA,","
 1989-12-15,1989,0,16,1,2,0,0,61,1989 Tour,1989,Jesus Just Left Chicago,JJLC,0,Ukrainian National Home,New York,NY,USA,","
 1989-12-15,1989,0,17,2,2,0,0,1,1989 Tour,1989,Contact,,1,Ukrainian National Home,New York,NY,USA,>
 1989-12-15,1989,0,18,6,2,0,0,1,1989 Tour,1989,David Bowie,Bowie,1,Ukrainian National Home,New York,NY,USA,
 1989-12-16,1989,0,1,2,1,0,0,15,1989 Tour,1989,The Curtain,Curtain,1,"Contois Auditorium, City Hall",Burlington,VT,USA,>
-1989-12-16,1989,0,2,1,1,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,"Contois Auditorium, City Hall",Burlington,VT,USA,","
+1989-12-16,1989,0,2,1,1,0,0,0,1989 Tour,1989,AC/DC Bag,Bag,1,"Contois Auditorium, City Hall",Burlington,VT,USA,","
 1989-12-16,1989,0,3,2,1,0,0,2,1989 Tour,1989,Lawn Boy,,1,"Contois Auditorium, City Hall",Burlington,VT,USA,>
 1989-12-16,1989,0,4,2,1,0,0,1,1989 Tour,1989,Mike's Song,Mike's,1,"Contois Auditorium, City Hall",Burlington,VT,USA,>
 1989-12-16,1989,0,5,2,1,0,0,1,1989 Tour,1989,I Am Hydrogen,Hydrogen,1,"Contois Auditorium, City Hall",Burlington,VT,USA,>
@@ -1366,12 +1366,12 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-12-16,1989,0,7,1,1,0,0,2,1989 Tour,1989,The Lizards,Lizards,1,"Contois Auditorium, City Hall",Burlington,VT,USA,","
 1989-12-16,1989,0,8,1,1,0,0,2,1989 Tour,1989,In a Hole,,1,"Contois Auditorium, City Hall",Burlington,VT,USA,","
 1989-12-16,1989,0,9,5,1,0,0,1,1989 Tour,1989,Golgi Apparatus,Golgi,1,"Contois Auditorium, City Hall",Burlington,VT,USA,
-1989-12-16,1989,0,10,6,e,0,0,1,1989 Tour,1989,Possum,,1,"Contois Auditorium, City Hall",Burlington,VT,USA,
+1989-12-16,1989,0,10,6,e,0,0,0,1989 Tour,1989,Possum,,1,"Contois Auditorium, City Hall",Burlington,VT,USA,
 1989-12-29,1989,0,1,2,1,0,0,5,1989 Tour,1989,Rhombus Narration,,1,23 East Cabaret,Ardmore,PA,USA,>
 1989-12-29,1989,0,2,1,1,0,0,2,1989 Tour,1989,Divided Sky,Divided,1,23 East Cabaret,Ardmore,PA,USA,","
 1989-12-29,1989,0,3,1,1,0,0,2,1989 Tour,1989,Ya Mar,,0,23 East Cabaret,Ardmore,PA,USA,","
 1989-12-29,1989,0,4,2,1,0,0,2,1989 Tour,1989,The Oh Kee Pa Ceremony,Oh Kee Pa,1,23 East Cabaret,Ardmore,PA,USA,>
-1989-12-29,1989,0,5,2,1,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,23 East Cabaret,Ardmore,PA,USA,>
+1989-12-29,1989,0,5,2,1,0,0,0,1989 Tour,1989,AC/DC Bag,Bag,1,23 East Cabaret,Ardmore,PA,USA,>
 1989-12-29,1989,0,6,1,1,0,0,1,1989 Tour,1989,The Lizards,Lizards,1,23 East Cabaret,Ardmore,PA,USA,","
 1989-12-29,1989,0,7,1,1,0,0,1,1989 Tour,1989,Lawn Boy,,1,23 East Cabaret,Ardmore,PA,USA,","
 1989-12-29,1989,0,8,2,1,0,0,1,1989 Tour,1989,Mike's Song,Mike's,1,23 East Cabaret,Ardmore,PA,USA,>
@@ -1393,9 +1393,9 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-12-30,1989,0,14,2,e,0,0,1,1989 Tour,1989,I Am Hydrogen,Hydrogen,1,The Wetlands Preserve,New York,NY,USA,>
 1989-12-30,1989,0,15,6,e,0,0,1,1989 Tour,1989,Weekapaug Groove,Weekapaug,1,The Wetlands Preserve,New York,NY,USA,
 1989-12-31,1989,0,1,1,1,0,0,4,1989 Tour,1989,I Didn't Know,IDK,1,Boston World Trade Center Exhibition Hall,Boston,MA,USA,","
-1989-12-31,1989,0,2,2,1,0,0,4,1989 Tour,1989,You Enjoy Myself,YEM,1,Boston World Trade Center Exhibition Hall,Boston,MA,USA,>
+1989-12-31,1989,0,2,2,1,0,0,3,1989 Tour,1989,You Enjoy Myself,YEM,1,Boston World Trade Center Exhibition Hall,Boston,MA,USA,>
 1989-12-31,1989,0,3,2,1,0,0,2,1989 Tour,1989,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Boston World Trade Center Exhibition Hall,Boston,MA,USA,>
-1989-12-31,1989,0,4,1,1,0,0,2,1989 Tour,1989,AC/DC Bag,Bag,1,Boston World Trade Center Exhibition Hall,Boston,MA,USA,","
+1989-12-31,1989,0,4,1,1,0,0,1,1989 Tour,1989,AC/DC Bag,Bag,1,Boston World Trade Center Exhibition Hall,Boston,MA,USA,","
 1989-12-31,1989,0,5,2,1,0,0,1,1989 Tour,1989,Auld Lang Syne,,0,Boston World Trade Center Exhibition Hall,Boston,MA,USA,>
 1989-12-31,1989,0,6,1,1,0,0,4,1989 Tour,1989,Run Like an Antelope,Antelope,1,Boston World Trade Center Exhibition Hall,Boston,MA,USA,","
 1989-12-31,1989,0,7,1,1,0,0,1,1989 Tour,1989,Bathtub Gin,Gin,1,Boston World Trade Center Exhibition Hall,Boston,MA,USA,","
