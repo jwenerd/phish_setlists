@@ -1,6 +1,7 @@
 import pandas as pd
 from datetime import datetime, timedelta
 
+SIX_MONTHS = 182
 ONE_YEAR = 365
 TWO_YEARS = 730
 FIVE_YEARS = 1825
@@ -17,11 +18,24 @@ class SummaryGenerator:
         
         self.now = datetime.now()
         
+        # Determine most recent tour
+        latest_date = self.df['showdate'].max()
+        latest_shows = self.df[self.df['showdate'] == latest_date]
+        if not latest_shows.empty:
+            self.most_recent_tour = latest_shows['tourname'].iloc[0]
+        else:
+            self.most_recent_tour = None
+        
         # 2. Cache Filtered DataFrames
+        self.df_6_months = self._filter_past_days(SIX_MONTHS)
         self.df_1_year = self._filter_past_days(ONE_YEAR)
         self.df_2_years = self._filter_past_days(TWO_YEARS)
         self.df_5_years = self._filter_past_days(FIVE_YEARS)
         self.df_10_years = self._filter_past_days(TEN_YEARS)
+        if self.most_recent_tour:
+            self.df_most_recent_tour = self.df[self.df['tourname'] == self.most_recent_tour]
+        else:
+            self.df_most_recent_tour = self.df.iloc[0:0]
 
     def _filter_past_days(self, days: int):
         cutoff_date = self.now - timedelta(days=days)
@@ -31,37 +45,56 @@ class SummaryGenerator:
         # 3. Date Formatting Helper
         return series.dt.strftime('%Y-%m-%d')
         
-    def _get_df_by_days(self, days: int):
-        if days == ONE_YEAR:
+    def _get_df_by_timeframe(self, timeframe):
+        if timeframe == SIX_MONTHS:
+            return self.df_6_months
+        elif timeframe == ONE_YEAR:
             return self.df_1_year
-        elif days == TWO_YEARS:
+        elif timeframe == TWO_YEARS:
             return self.df_2_years
-        elif days == FIVE_YEARS:
+        elif timeframe == FIVE_YEARS:
             return self.df_5_years
-        elif days == TEN_YEARS:
+        elif timeframe == TEN_YEARS:
             return self.df_10_years
-        return self._filter_past_days(days)
+        elif timeframe == 'most_recent_tour':
+            return self.df_most_recent_tour
+        
+        if isinstance(timeframe, int):
+            return self._filter_past_days(timeframe)
+        return self.df
 
-    def get_show_count(self, days: int) -> int:
-        return self._get_df_by_days(days)['showdate'].nunique()
+    def get_show_count(self, timeframe) -> int:
+        return self._get_df_by_timeframe(timeframe)['showdate'].nunique()
 
-    def get_most_common_songs(self, days: int, top_n: int = 10):
-        recent_df = self._get_df_by_days(days)
+    def get_most_common_songs(self, timeframe, top_n: int = 10):
+        recent_df = self._get_df_by_timeframe(timeframe)
         counts = recent_df['song'].value_counts().head(top_n).reset_index()
         counts.columns = ['Song', 'Times Played']
         return counts
 
-    def get_newest_songs(self, days: int):
+    def get_newest_songs(self, timeframe):
         first_played = self.df.groupby('song')['showdate'].min().reset_index()
-        cutoff_date = self.now - timedelta(days=days)
+        if timeframe == 'most_recent_tour':
+            tour_df = self._get_df_by_timeframe(timeframe)
+            if tour_df.empty:
+                return pd.DataFrame(columns=['Song', 'Debut Date', 'Times Played'])
+            tour_songs = tour_df['song'].unique()
+            new_songs = first_played[first_played['song'].isin(tour_songs)].copy()
+            min_tour_date = tour_df['showdate'].min()
+            new_songs = new_songs[new_songs['showdate'] >= min_tour_date]
+        else:
+            if isinstance(timeframe, int):
+                cutoff_date = self.now - timedelta(days=timeframe)
+            else:
+                cutoff_date = self.now - timedelta(days=TWO_YEARS)
+            new_songs = first_played[first_played['showdate'] >= cutoff_date].copy()
         
-        new_songs = first_played[first_played['showdate'] >= cutoff_date].copy()
         new_songs.columns = ['Song', 'Debut Date']
         
         if new_songs.empty:
             return pd.DataFrame(columns=['Song', 'Debut Date', 'Times Played'])
             
-        recent_df = self._get_df_by_days(days)
+        recent_df = self._get_df_by_timeframe(timeframe)
         play_counts = recent_df[recent_df['song'].isin(new_songs['Song'])]['song'].value_counts().reset_index()
         play_counts.columns = ['Song', 'Times Played']
         
@@ -72,8 +105,8 @@ class SummaryGenerator:
         merged['Debut Date'] = self._format_date(merged['Debut Date'])
         return merged
 
-    def get_bustout_shows(self, days: int, top_n: int = 5):
-        recent_df = self._get_df_by_days(days).copy()
+    def get_bustout_shows(self, timeframe, top_n: int = 5):
+        recent_df = self._get_df_by_timeframe(timeframe).copy()
         
         show_gaps = recent_df.groupby(['showdate', 'venue', 'city', 'state']).agg(
             avg_gap=('gap', 'mean'),
@@ -89,8 +122,8 @@ class SummaryGenerator:
         show_gaps.columns = ['Date', 'Venue', 'City', 'State', 'Avg Gap']
         return show_gaps
 
-    def get_marathon_shows(self, days: int, top_n: int = 5):
-        recent_df = self._get_df_by_days(days).copy()
+    def get_marathon_shows(self, timeframe, top_n: int = 5):
+        recent_df = self._get_df_by_timeframe(timeframe).copy()
         show_counts = recent_df.groupby(['showdate', 'venue', 'city', 'state']).agg(
             unique_songs=('song', 'nunique')
         ).reset_index()
@@ -101,8 +134,8 @@ class SummaryGenerator:
         show_counts.columns = ['Date', 'Venue', 'City', 'State', 'Unique Songs']
         return show_counts
         
-    def get_rarest_songs(self, days: int, top_n: int = 10):
-        recent_df = self._get_df_by_days(days).copy()
+    def get_rarest_songs(self, timeframe, top_n: int = 10):
+        recent_df = self._get_df_by_timeframe(timeframe).copy()
         
         idx = recent_df.groupby('song')['gap'].idxmax()
         rarest = recent_df.loc[idx].sort_values(by='gap', ascending=False).head(top_n)
@@ -111,8 +144,8 @@ class SummaryGenerator:
         rarest.columns = ['Song', 'Date Played', 'Gap']
         return rarest
 
-    def get_fun_stats(self, days: int) -> str:
-        df = self._get_df_by_days(days).copy()
+    def get_fun_stats(self, timeframe) -> str:
+        df = self._get_df_by_timeframe(timeframe).copy()
         if df.empty:
             return "No data for this timeframe.\n"
             
@@ -151,88 +184,110 @@ class SummaryGenerator:
             top_encore = "N/A"
             top_encore_count = 0
             
-        return f"""{shows} shows across {venues} venues
-
-{total_songs} total songs played
-
-Number of unique songs played: {unique_songs}
-
-{one_timers} songs were played exactly once
-
-Bust-outs (Gap > 50): {bustouts}
-
-Most common show opener: {top_opener} ({top_opener_count} times)
-
-Most common encore: {top_encore} ({top_encore_count} times)
-"""
+        stats_lines = [
+            f"{shows} shows across {venues} venues",
+            f"{total_songs} total songs played",
+            f"Number of unique songs played: {unique_songs}",
+            f"{one_timers} songs were played exactly once",
+            f"Bust-outs (Gap > 50): {bustouts}"
+        ]
+        
+        if top_opener_count > 1:
+            stats_lines.append(f"Most common show opener: {top_opener} ({top_opener_count} times)")
+            
+        if top_encore_count > 1:
+            stats_lines.append(f"Most common encore: {top_encore} ({top_encore_count} times)")
+            
+        return "\n\n".join(stats_lines) + "\n"
 
     def generate_markdown(self) -> str:
+        shows_6_mo = self.get_show_count(SIX_MONTHS)
         shows_1_yr = self.get_show_count(ONE_YEAR)
         shows_2_yr = self.get_show_count(TWO_YEARS)
         shows_5_yr = self.get_show_count(FIVE_YEARS)
         shows_10_yr = self.get_show_count(TEN_YEARS)
         
+        tour_fun_stats = ""
+        tour_common_songs = ""
+        if self.most_recent_tour:
+            shows_recent_tour = self.get_show_count('most_recent_tour')
+            tour_fun_stats = f"""
+### Most Recent Tour: {self.most_recent_tour} ({shows_recent_tour} Shows)
+{self.get_fun_stats('most_recent_tour')}"""
+            tour_common_songs = f"""
+### Most Recent Tour: {self.most_recent_tour} ({shows_recent_tour} Shows)
+
+{self.get_most_common_songs('most_recent_tour').to_markdown(index=False)}
+"""
+        
         # 4. Markdown Generation Boilerplate
         template = f"""# Phish Setlist Summary
-
+ 
 *Generated on {self.now.strftime('%Y-%m-%d')}*
-
+ 
 ## Fun with Stats
-
+{tour_fun_stats}
+### Past 6 Months ({shows_6_mo} Shows)
+{self.get_fun_stats(SIX_MONTHS)}
+ 
 ### Past 1 Year ({shows_1_yr} Shows)
 {self.get_fun_stats(ONE_YEAR)}
-
+ 
 ### Past 2 Years ({shows_2_yr} Shows)
 {self.get_fun_stats(TWO_YEARS)}
-
+ 
 ### Past 5 Years ({shows_5_yr} Shows)
 {self.get_fun_stats(FIVE_YEARS)}
-
+ 
 ### Past 10 Years ({shows_10_yr} Shows)
 {self.get_fun_stats(TEN_YEARS)}
-
+ 
 ## Most Common Songs
-
+{tour_common_songs}
+### Past 6 Months ({shows_6_mo} Shows)
+ 
+{self.get_most_common_songs(SIX_MONTHS).to_markdown(index=False)}
+ 
 ### Past 1 Year ({shows_1_yr} Shows)
-
+ 
 {self.get_most_common_songs(ONE_YEAR).to_markdown(index=False)}
-
+ 
 ### Past 2 Years ({shows_2_yr} Shows)
-
+ 
 {self.get_most_common_songs(TWO_YEARS).to_markdown(index=False)}
-
+ 
 ### Past 5 Years ({shows_5_yr} Shows)
-
+ 
 {self.get_most_common_songs(FIVE_YEARS).to_markdown(index=False)}
-
+ 
 ### Past 10 Years ({shows_10_yr} Shows)
-
+ 
 {self.get_most_common_songs(TEN_YEARS).to_markdown(index=False)}
-
+ 
 ## Newest Songs (Debuts Past 2 Years - {shows_2_yr} Shows)
-
+ 
 {self.get_newest_songs(TWO_YEARS).to_markdown(index=False)}
-
+ 
 ## Notable Shows with Variety (Past 5 Years - {shows_5_yr} Shows)
-
+ 
 ### The 'Bust-Out' Shows (Highest Avg Gap - Past 5 Years)
-
+ 
 {self.get_bustout_shows(FIVE_YEARS).to_markdown(index=False)}
-
+ 
 ### The 'Bust-Out' Shows (Highest Avg Gap - Past 10 Years)
-
+ 
 {self.get_bustout_shows(TEN_YEARS).to_markdown(index=False)}
-
+ 
 ### The Marathons (Most Unique Songs - Past 5 Years)
-
+ 
 {self.get_marathon_shows(FIVE_YEARS).to_markdown(index=False)}
-
+ 
 ### The Marathons (Most Unique Songs - Past 10 Years)
-
+ 
 {self.get_marathon_shows(TEN_YEARS).to_markdown(index=False)}
-
+ 
 ## Rarest Songs Played (Past 1 Year - {shows_1_yr} Shows)
-
+ 
 {self.get_rarest_songs(ONE_YEAR).to_markdown(index=False)}
 """
         return template
