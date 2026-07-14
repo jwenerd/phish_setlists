@@ -35,7 +35,7 @@ class PhishNetClient():
     def get_setlist_data(self, year=None):
         shows = self.get_all_shows()
         if year:
-            shows = [show for show in shows if show['showyear'] == str(year)]
+            shows = [show for show in shows if int(show['showyear']) == int(year)]
 
         print(f"  downloading: year={year}, {len(shows)} shows")
 
