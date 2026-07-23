@@ -1,4 +1,236 @@
 showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,tourwhen,song,nickname,is_original,venue,city,state,country,trans_mark
+2026-01-27,2026,1,1,1,1,0,0,429,Not Part of a Tour,No Tour,Jam,,0,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-27,2026,1,2,1,1,0,0,8,Not Part of a Tour,No Tour,My Soul,,0,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-27,2026,1,3,6,1,0,0,3,Not Part of a Tour,No Tour,Theme from the Bottom,Theme,1,Moon Palace,Cancun,Quintana Roo,Mexico,
+2026-01-28,2026,0,1,1,1,0,0,7,2026 Mexico,2026 Mexico,Hey Stranger,,0,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-28,2026,0,2,2,1,0,0,2,2026 Mexico,2026 Mexico,The Moma Dance,Moma,1,Moon Palace,Cancun,Quintana Roo,Mexico,>
+2026-01-28,2026,0,3,1,1,0,0,2,2026 Mexico,2026 Mexico,Back on the Train,BOTT,0,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-28,2026,0,4,1,1,0,0,3,2026 Mexico,2026 Mexico,Roggae,,1,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-28,2026,0,5,1,1,0,0,1,2026 Mexico,2026 Mexico,Sand,,0,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-28,2026,0,6,1,1,0,0,159,2026 Mexico,2026 Mexico,Breath and Burning,,1,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-28,2026,0,7,1,1,0,0,4,2026 Mexico,2026 Mexico,Sigma Oasis,,0,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-28,2026,0,8,1,1,0,0,0,2026 Mexico,2026 Mexico,Fling Your Head,,1,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-28,2026,0,9,4,1,0,0,2,2026 Mexico,2026 Mexico,Chalk Dust Torture,CDT,1,Moon Palace,Cancun,Quintana Roo,Mexico,
+2026-01-28,2026,0,10,2,2,0,0,64,2026 Mexico,2026 Mexico,Waves,,1,Moon Palace,Cancun,Quintana Roo,Mexico,>
+2026-01-28,2026,0,11,2,2,0,0,1,2026 Mexico,2026 Mexico,Fuego,,1,Moon Palace,Cancun,Quintana Roo,Mexico,>
+2026-01-28,2026,0,12,1,2,0,0,0,2026 Mexico,2026 Mexico,No Men In No Man's Land,NMINML,1,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-28,2026,0,13,2,2,0,0,10,2026 Mexico,2026 Mexico,Mercury,,1,Moon Palace,Cancun,Quintana Roo,Mexico,>
+2026-01-28,2026,0,14,1,2,0,0,6,2026 Mexico,2026 Mexico,Boogie On Reggae Woman,Boogie On,0,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-28,2026,0,15,2,2,0,0,8,2026 Mexico,2026 Mexico,Backwards Down the Number Line,BDTNL,0,Moon Palace,Cancun,Quintana Roo,Mexico,>
+2026-01-28,2026,0,16,5,2,0,0,3,2026 Mexico,2026 Mexico,Character Zero,,1,Moon Palace,Cancun,Quintana Roo,Mexico,
+2026-01-28,2026,0,17,1,e,0,0,185,2026 Mexico,2026 Mexico,Dog Faced Boy,,1,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-28,2026,0,18,6,e,0,0,2,2026 Mexico,2026 Mexico,Ghost,,1,Moon Palace,Cancun,Quintana Roo,Mexico,
+2026-01-29,2026,0,1,1,1,0,0,8,2026 Mexico,2026 Mexico,Gumbo,,1,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-29,2026,0,2,2,1,0,0,4,2026 Mexico,2026 Mexico,NICU,,1,Moon Palace,Cancun,Quintana Roo,Mexico,>
+2026-01-29,2026,0,3,2,1,0,0,7,2026 Mexico,2026 Mexico,Prince Caspian,Caspian,1,Moon Palace,Cancun,Quintana Roo,Mexico,>
+2026-01-29,2026,0,4,1,1,0,0,4,2026 Mexico,2026 Mexico,Oblivion,,0,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-29,2026,0,5,1,1,0,0,76,2026 Mexico,2026 Mexico,Brian and Robert,,1,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-29,2026,0,6,1,1,0,0,2,2026 Mexico,2026 Mexico,Stash,,1,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-29,2026,0,7,1,1,0,0,8,2026 Mexico,2026 Mexico,Ya Mar,,0,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-29,2026,0,8,2,1,0,0,20,2026 Mexico,2026 Mexico,McGrupp and the Watchful Hosemasters,McGrupp,1,Moon Palace,Cancun,Quintana Roo,Mexico,>
+2026-01-29,2026,0,9,4,1,0,0,2,2026 Mexico,2026 Mexico,Say It To Me S.A.N.T.O.S.,,1,Moon Palace,Cancun,Quintana Roo,Mexico,
+2026-01-29,2026,0,10,3,2,0,0,4,2026 Mexico,2026 Mexico,A Wave of Hope,,0,Moon Palace,Cancun,Quintana Roo,Mexico,->
+2026-01-29,2026,0,11,2,2,0,0,3,2026 Mexico,2026 Mexico,Ruby Waves,,0,Moon Palace,Cancun,Quintana Roo,Mexico,>
+2026-01-29,2026,0,12,1,2,0,0,6,2026 Mexico,2026 Mexico,Lonely Trip,,0,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-29,2026,0,13,5,2,0,0,2,2026 Mexico,2026 Mexico,What's Going Through Your Mind,WGTYM,0,Moon Palace,Cancun,Quintana Roo,Mexico,
+2026-01-29,2026,0,14,1,e,0,0,0,2026 Mexico,2026 Mexico,Dancing in Midair,,1,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-29,2026,0,15,6,e,0,0,5,2026 Mexico,2026 Mexico,Run Like an Antelope,Antelope,1,Moon Palace,Cancun,Quintana Roo,Mexico,
+2026-01-30,2026,0,1,1,1,0,0,3,2026 Mexico,2026 Mexico,Blaze On,,1,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-30,2026,0,2,1,1,0,0,2,2026 Mexico,2026 Mexico,Bouncing Around the Room,Bouncin',1,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-30,2026,0,3,1,1,0,0,5,2026 Mexico,2026 Mexico,Evolve,,0,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-30,2026,0,4,1,1,0,0,5,2026 Mexico,2026 Mexico,Wolfman's Brother,Wolfman's,1,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-30,2026,0,5,1,1,0,0,3,2026 Mexico,2026 Mexico,Tube,,1,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-30,2026,0,6,1,1,0,0,33,2026 Mexico,2026 Mexico,Water in the Sky,,1,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-30,2026,0,7,2,1,0,0,3,2026 Mexico,2026 Mexico,Free,,1,Moon Palace,Cancun,Quintana Roo,Mexico,>
+2026-01-30,2026,0,8,1,1,0,0,5,2026 Mexico,2026 Mexico,Bathtub Gin,Gin,1,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-30,2026,0,9,4,1,0,0,6,2026 Mexico,2026 Mexico,Most Events Aren't Planned,,0,Moon Palace,Cancun,Quintana Roo,Mexico,
+2026-01-30,2026,0,10,2,2,0,0,4,2026 Mexico,2026 Mexico,Carini,,1,Moon Palace,Cancun,Quintana Roo,Mexico,>
+2026-01-30,2026,0,11,3,2,0,0,4,2026 Mexico,2026 Mexico,Light,,0,Moon Palace,Cancun,Quintana Roo,Mexico,->
+2026-01-30,2026,0,12,2,2,0,0,112,2026 Mexico,2026 Mexico,Frankie Says,,1,Moon Palace,Cancun,Quintana Roo,Mexico,>
+2026-01-30,2026,0,13,1,2,0,0,5,2026 Mexico,2026 Mexico,Everything's Right,,0,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-30,2026,0,14,1,2,0,0,3,2026 Mexico,2026 Mexico,Life Saving Gun,,1,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-30,2026,0,15,5,2,0,0,3,2026 Mexico,2026 Mexico,First Tube,,0,Moon Palace,Cancun,Quintana Roo,Mexico,
+2026-01-30,2026,0,16,1,e,0,0,0,2026 Mexico,2026 Mexico,Simeon,,0,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-30,2026,0,17,6,e,0,0,2,2026 Mexico,2026 Mexico,A Life Beyond The Dream,,0,Moon Palace,Cancun,Quintana Roo,Mexico,
+2026-01-31,2026,0,1,2,1,0,0,6,2026 Mexico,2026 Mexico,Mike's Song,Mike's,1,Moon Palace,Cancun,Quintana Roo,Mexico,>
+2026-01-31,2026,0,2,3,1,0,0,13,2026 Mexico,2026 Mexico,Halley's Comet,Halley's,1,Moon Palace,Cancun,Quintana Roo,Mexico,->
+2026-01-31,2026,0,3,1,1,0,0,6,2026 Mexico,2026 Mexico,Weekapaug Groove,Weekapaug,1,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-31,2026,0,4,1,1,0,0,9,2026 Mexico,2026 Mexico,Julius,,1,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-31,2026,0,5,1,1,0,0,3,2026 Mexico,2026 Mexico,"My Friend, My Friend",My Friend,1,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-31,2026,0,6,1,1,0,0,29,2026 Mexico,2026 Mexico,Mull,,1,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-31,2026,0,7,1,1,0,0,29,2026 Mexico,2026 Mexico,Vultures,,1,Moon Palace,Cancun,Quintana Roo,Mexico,","
+2026-01-31,2026,0,8,2,1,0,0,4,2026 Mexico,2026 Mexico,Also Sprach Zarathustra,2001,0,Moon Palace,Cancun,Quintana Roo,Mexico,>
+2026-01-31,2026,0,9,4,1,0,0,5,2026 Mexico,2026 Mexico,Drift While You're Sleeping,,0,Moon Palace,Cancun,Quintana Roo,Mexico,
+2026-01-31,2026,0,10,3,2,0,0,22,2026 Mexico,2026 Mexico,A Song I Heard the Ocean Sing,ASIHTOS,1,Moon Palace,Cancun,Quintana Roo,Mexico,->
+2026-01-31,2026,0,11,2,2,0,0,9,2026 Mexico,2026 Mexico,Beneath a Sea of Stars Part 1,,0,Moon Palace,Cancun,Quintana Roo,Mexico,>
+2026-01-31,2026,0,12,2,2,0,0,11,2026 Mexico,2026 Mexico,Meatstick,,1,Moon Palace,Cancun,Quintana Roo,Mexico,>
+2026-01-31,2026,0,13,2,2,0,0,5,2026 Mexico,2026 Mexico,Golden Age,,0,Moon Palace,Cancun,Quintana Roo,Mexico,>
+2026-01-31,2026,0,14,5,2,0,0,7,2026 Mexico,2026 Mexico,Slave to the Traffic Light,Slave,1,Moon Palace,Cancun,Quintana Roo,Mexico,
+2026-01-31,2026,0,15,2,e,0,0,17,2026 Mexico,2026 Mexico,Loving Cup,,0,Moon Palace,Cancun,Quintana Roo,Mexico,>
+2026-01-31,2026,0,16,6,e,0,0,3,2026 Mexico,2026 Mexico,Harry Hood,Hood,1,Moon Palace,Cancun,Quintana Roo,Mexico,
+2026-04-16,2026,0,1,1,1,0,0,2,2026 Sphere,2026 Sphere,Evolve,,0,Sphere,Las Vegas,NV,USA,","
+2026-04-16,2026,0,2,1,1,0,0,1,2026 Sphere,2026 Sphere,Wolfman's Brother,Wolfman's,1,Sphere,Las Vegas,NV,USA,","
+2026-04-16,2026,0,3,1,1,0,0,9,2026 Sphere,2026 Sphere,Foam,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-16,2026,0,4,1,1,0,0,7,2026 Sphere,2026 Sphere,Theme from the Bottom,Theme,1,Sphere,Las Vegas,NV,USA,","
+2026-04-16,2026,0,5,1,1,0,0,8,2026 Sphere,2026 Sphere,Rift,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-16,2026,0,6,2,1,0,0,9,2026 Sphere,2026 Sphere,Scents and Subtle Sounds,,1,Sphere,Las Vegas,NV,USA,>
+2026-04-16,2026,0,7,1,1,0,0,12,2026 Sphere,2026 Sphere,Steam,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-16,2026,0,8,4,1,0,0,6,2026 Sphere,2026 Sphere,Split Open and Melt,SOAMelt,1,Sphere,Las Vegas,NV,USA,
+2026-04-16,2026,0,9,1,2,0,0,1,2026 Sphere,2026 Sphere,Everything's Right,,0,Sphere,Las Vegas,NV,USA,","
+2026-04-16,2026,0,10,1,2,0,0,7,2026 Sphere,2026 Sphere,Down with Disease,DwD,1,Sphere,Las Vegas,NV,USA,","
+2026-04-16,2026,0,11,1,2,0,0,7,2026 Sphere,2026 Sphere,Twenty Years Later,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-16,2026,0,12,1,2,0,0,8,2026 Sphere,2026 Sphere,Gotta Jibboo,Jibboo,0,Sphere,Las Vegas,NV,USA,","
+2026-04-16,2026,0,13,1,2,0,0,40,2026 Sphere,2026 Sphere,Lifeboy,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-16,2026,0,14,2,2,0,0,4,2026 Sphere,2026 Sphere,You Enjoy Myself,YEM,1,Sphere,Las Vegas,NV,USA,>
+2026-04-16,2026,0,15,5,2,0,0,1,2026 Sphere,2026 Sphere,Also Sprach Zarathustra,2001,0,Sphere,Las Vegas,NV,USA,
+2026-04-16,2026,0,16,1,e,0,0,168,2026 Sphere,2026 Sphere,Space Oddity,,0,Sphere,Las Vegas,NV,USA,","
+2026-04-16,2026,0,17,6,e,0,0,0,2026 Sphere,2026 Sphere,Harry Hood,Hood,1,Sphere,Las Vegas,NV,USA,
+2026-04-17,2026,0,1,1,1,0,0,2,2026 Sphere,2026 Sphere,Free,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-17,2026,0,2,1,1,0,0,5,2026 Sphere,2026 Sphere,Birds of a Feather,BOAF,1,Sphere,Las Vegas,NV,USA,","
+2026-04-17,2026,0,3,1,1,0,0,12,2026 Sphere,2026 Sphere,Martian Monster,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-17,2026,0,4,1,1,0,0,25,2026 Sphere,2026 Sphere,Guelah Papyrus,Guelah,1,Sphere,Las Vegas,NV,USA,","
+2026-04-17,2026,0,5,1,1,0,0,6,2026 Sphere,2026 Sphere,Divided Sky,Divided,1,Sphere,Las Vegas,NV,USA,","
+2026-04-17,2026,0,6,1,1,0,0,4,2026 Sphere,2026 Sphere,Hey Stranger,,0,Sphere,Las Vegas,NV,USA,","
+2026-04-17,2026,0,7,1,1,0,0,1,2026 Sphere,2026 Sphere,Mull,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-17,2026,0,8,1,1,0,0,24,2026 Sphere,2026 Sphere,Limb By Limb,LxL,1,Sphere,Las Vegas,NV,USA,","
+2026-04-17,2026,0,9,4,1,0,0,11,2026 Sphere,2026 Sphere,Suzy Greenberg,Suzy,1,Sphere,Las Vegas,NV,USA,
+2026-04-17,2026,0,10,2,2,0,0,4,2026 Sphere,2026 Sphere,No Men In No Man's Land,NMINML,1,Sphere,Las Vegas,NV,USA,>
+2026-04-17,2026,0,11,1,2,0,0,2,2026 Sphere,2026 Sphere,Light,,0,Sphere,Las Vegas,NV,USA,","
+2026-04-17,2026,0,12,1,2,0,0,28,2026 Sphere,2026 Sphere,Joy,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-17,2026,0,13,2,2,0,0,1,2026 Sphere,2026 Sphere,Mike's Song,Mike's,1,Sphere,Las Vegas,NV,USA,>
+2026-04-17,2026,0,14,2,2,0,0,9,2026 Sphere,2026 Sphere,I Am Hydrogen,Hydrogen,1,Sphere,Las Vegas,NV,USA,>
+2026-04-17,2026,0,15,1,2,0,0,1,2026 Sphere,2026 Sphere,Weekapaug Groove,Weekapaug,1,Sphere,Las Vegas,NV,USA,","
+2026-04-17,2026,0,16,2,2,0,0,1,2026 Sphere,2026 Sphere,Beneath a Sea of Stars Part 1,,0,Sphere,Las Vegas,NV,USA,>
+2026-04-17,2026,0,17,5,2,0,0,2,2026 Sphere,2026 Sphere,Most Events Aren't Planned,,0,Sphere,Las Vegas,NV,USA,
+2026-04-17,2026,0,18,1,e,0,0,0,2026 Sphere,2026 Sphere,Brief Time,,0,Sphere,Las Vegas,NV,USA,","
+2026-04-17,2026,0,19,6,e,0,0,2,2026 Sphere,2026 Sphere,Carini,,1,Sphere,Las Vegas,NV,USA,
+2026-04-18,2026,0,1,1,1,0,0,10,2026 Sphere,2026 Sphere,Buried Alive,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-18,2026,0,2,1,1,0,0,9,2026 Sphere,2026 Sphere,AC/DC Bag,Bag,1,Sphere,Las Vegas,NV,USA,","
+2026-04-18,2026,0,3,1,1,0,0,7,2026 Sphere,2026 Sphere,Reba,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-18,2026,0,4,2,1,0,0,95,2026 Sphere,2026 Sphere,Colonel Forbin's Ascent,Forbin's,1,Sphere,Las Vegas,NV,USA,>
+2026-04-18,2026,0,5,1,1,0,0,95,2026 Sphere,2026 Sphere,Fly Famous Mockingbird,Mockingbird,1,Sphere,Las Vegas,NV,USA,","
+2026-04-18,2026,0,6,1,1,0,0,6,2026 Sphere,2026 Sphere,Sigma Oasis,,0,Sphere,Las Vegas,NV,USA,","
+2026-04-18,2026,0,7,1,1,0,0,29,2026 Sphere,2026 Sphere,Walk Away,,0,Sphere,Las Vegas,NV,USA,","
+2026-04-18,2026,0,8,4,1,0,0,4,2026 Sphere,2026 Sphere,Bathtub Gin,Gin,1,Sphere,Las Vegas,NV,USA,
+2026-04-18,2026,0,9,1,2,0,0,4,2026 Sphere,2026 Sphere,Oblivion,,0,Sphere,Las Vegas,NV,USA,","
+2026-04-18,2026,0,10,1,2,0,0,10,2026 Sphere,2026 Sphere,Simple,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-18,2026,0,11,1,2,0,0,6,2026 Sphere,2026 Sphere,Tweezer,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-18,2026,0,12,1,2,0,0,6,2026 Sphere,2026 Sphere,Waste,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-18,2026,0,13,1,2,0,0,7,2026 Sphere,2026 Sphere,Twist,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-18,2026,0,14,5,2,0,0,5,2026 Sphere,2026 Sphere,Run Like an Antelope,Antelope,1,Sphere,Las Vegas,NV,USA,
+2026-04-18,2026,0,15,1,e,0,0,23,2026 Sphere,2026 Sphere,I Am the Walrus,,0,Sphere,Las Vegas,NV,USA,","
+2026-04-18,2026,0,16,6,e,0,0,6,2026 Sphere,2026 Sphere,Tweezer Reprise,Tweeprise,1,Sphere,Las Vegas,NV,USA,
+2026-04-23,2026,0,1,1,1,0,0,13,2026 Sphere,2026 Sphere,46 Days,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-23,2026,0,2,1,1,0,0,34,2026 Sphere,2026 Sphere,Guyute,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-23,2026,0,3,1,1,0,0,15,2026 Sphere,2026 Sphere,Maze,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-23,2026,0,4,1,1,0,0,12,2026 Sphere,2026 Sphere,Esther,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-23,2026,0,5,1,1,0,0,5,2026 Sphere,2026 Sphere,Gumbo,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-23,2026,0,6,1,1,0,0,5,2026 Sphere,2026 Sphere,Brian and Robert,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-23,2026,0,7,1,1,0,0,5,2026 Sphere,2026 Sphere,Stash,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-23,2026,0,8,4,1,0,0,12,2026 Sphere,2026 Sphere,Moonage Daydream,,0,Sphere,Las Vegas,NV,USA,
+2026-04-23,2026,0,9,1,2,0,0,9,2026 Sphere,2026 Sphere,The Curtain With,Curtain With,1,Sphere,Las Vegas,NV,USA,","
+2026-04-23,2026,0,10,3,2,0,0,7,2026 Sphere,2026 Sphere,Fuego,,1,Sphere,Las Vegas,NV,USA,->
+2026-04-23,2026,0,11,2,2,0,0,0,2026 Sphere,2026 Sphere,Dark Puddle,,1,Sphere,Las Vegas,NV,USA,>
+2026-04-23,2026,0,12,3,2,0,0,3,2026 Sphere,2026 Sphere,Golden Age,,0,Sphere,Las Vegas,NV,USA,->
+2026-04-23,2026,0,13,1,2,0,0,0,2026 Sphere,2026 Sphere,Fuego,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-23,2026,0,14,1,2,0,0,6,2026 Sphere,2026 Sphere,Backwards Down the Number Line,BDTNL,0,Sphere,Las Vegas,NV,USA,","
+2026-04-23,2026,0,15,2,2,0,0,8,2026 Sphere,2026 Sphere,Cavern,,1,Sphere,Las Vegas,NV,USA,>
+2026-04-23,2026,0,16,5,2,0,0,9,2026 Sphere,2026 Sphere,Possum,,1,Sphere,Las Vegas,NV,USA,
+2026-04-23,2026,0,17,1,e,0,0,16,2026 Sphere,2026 Sphere,Fee,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-23,2026,0,18,1,e,0,0,4,2026 Sphere,2026 Sphere,Tube,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-23,2026,0,19,6,e,0,0,7,2026 Sphere,2026 Sphere,More,,1,Sphere,Las Vegas,NV,USA,
+2026-04-24,2026,0,1,2,1,0,0,97,2026 Sphere,2026 Sphere,The Man Who Stepped Into Yesterday,TMWSIY,1,Sphere,Las Vegas,NV,USA,>
+2026-04-24,2026,0,2,1,1,0,0,11,2026 Sphere,2026 Sphere,The Lizards,Lizards,1,Sphere,Las Vegas,NV,USA,","
+2026-04-24,2026,0,3,1,1,0,0,23,2026 Sphere,2026 Sphere,Set Your Soul Free,,0,Sphere,Las Vegas,NV,USA,","
+2026-04-24,2026,0,4,1,1,0,0,7,2026 Sphere,2026 Sphere,Roggae,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-24,2026,0,5,1,1,0,0,7,2026 Sphere,2026 Sphere,Ya Mar,,0,Sphere,Las Vegas,NV,USA,","
+2026-04-24,2026,0,6,1,1,0,0,29,2026 Sphere,2026 Sphere,The Dogs,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-24,2026,0,7,1,1,0,0,42,2026 Sphere,2026 Sphere,Billy Breathes,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-24,2026,0,8,1,1,0,0,9,2026 Sphere,2026 Sphere,It's Ice,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-24,2026,0,9,4,1,0,0,15,2026 Sphere,2026 Sphere,Walls of the Cave,WotC,1,Sphere,Las Vegas,NV,USA,
+2026-04-24,2026,0,10,1,2,0,0,15,2026 Sphere,2026 Sphere,Pebbles and Marbles,,0,Sphere,Las Vegas,NV,USA,","
+2026-04-24,2026,0,11,3,2,0,0,7,2026 Sphere,2026 Sphere,What's Going Through Your Mind,WGTYM,0,Sphere,Las Vegas,NV,USA,->
+2026-04-24,2026,0,12,2,2,0,0,9,2026 Sphere,2026 Sphere,Piper,,1,Sphere,Las Vegas,NV,USA,>
+2026-04-24,2026,0,13,1,2,0,0,8,2026 Sphere,2026 Sphere,Monsters,,0,Sphere,Las Vegas,NV,USA,","
+2026-04-24,2026,0,14,1,2,0,0,6,2026 Sphere,2026 Sphere,Life Saving Gun,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-24,2026,0,15,1,2,0,0,18,2026 Sphere,2026 Sphere,What's the Use?,WTU?,1,Sphere,Las Vegas,NV,USA,","
+2026-04-24,2026,0,16,1,2,0,0,5,2026 Sphere,2026 Sphere,Vultures,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-24,2026,0,17,5,2,0,0,7,2026 Sphere,2026 Sphere,Say It To Me S.A.N.T.O.S.,,1,Sphere,Las Vegas,NV,USA,
+2026-04-24,2026,0,18,6,e,0,0,5,2026 Sphere,2026 Sphere,Slave to the Traffic Light,Slave,1,Sphere,Las Vegas,NV,USA,
+2026-04-25,2026,0,1,1,1,0,0,20,2026 Sphere,2026 Sphere,Timber (Jerry the Mule),Timber Ho,0,Sphere,Las Vegas,NV,USA,","
+2026-04-25,2026,0,2,1,1,0,0,8,2026 Sphere,2026 Sphere,The Moma Dance,Moma,1,Sphere,Las Vegas,NV,USA,","
+2026-04-25,2026,0,3,1,1,0,0,11,2026 Sphere,2026 Sphere,The Final Hurrah,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-25,2026,0,4,2,1,0,0,10,2026 Sphere,2026 Sphere,Axilla (Part II),,1,Sphere,Las Vegas,NV,USA,>
+2026-04-25,2026,0,5,1,1,0,0,19,2026 Sphere,2026 Sphere,Cities,,0,Sphere,Las Vegas,NV,USA,","
+2026-04-25,2026,0,6,1,1,0,0,17,2026 Sphere,2026 Sphere,Horn,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-25,2026,0,7,1,1,0,0,23,2026 Sphere,2026 Sphere,The Well,,0,Sphere,Las Vegas,NV,USA,","
+2026-04-25,2026,0,8,4,1,0,0,17,2026 Sphere,2026 Sphere,My Soul,,0,Sphere,Las Vegas,NV,USA,
+2026-04-25,2026,0,9,2,2,0,0,5,2026 Sphere,2026 Sphere,Halley's Comet,Halley's,1,Sphere,Las Vegas,NV,USA,>
+2026-04-25,2026,0,10,1,2,0,0,6,2026 Sphere,2026 Sphere,Blaze On,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-25,2026,0,11,1,2,0,0,8,2026 Sphere,2026 Sphere,Chalk Dust Torture,CDT,1,Sphere,Las Vegas,NV,USA,","
+2026-04-25,2026,0,12,2,2,0,0,8,2026 Sphere,2026 Sphere,Mercury,,1,Sphere,Las Vegas,NV,USA,>
+2026-04-25,2026,0,13,2,2,0,0,8,2026 Sphere,2026 Sphere,Waves,,1,Sphere,Las Vegas,NV,USA,>
+2026-04-25,2026,0,14,1,2,0,0,21,2026 Sphere,2026 Sphere,About to Run,,0,Sphere,Las Vegas,NV,USA,","
+2026-04-25,2026,0,15,5,2,0,0,8,2026 Sphere,2026 Sphere,Ghost,,1,Sphere,Las Vegas,NV,USA,
+2026-04-25,2026,0,16,2,e,0,0,15,2026 Sphere,2026 Sphere,Bug,,0,Sphere,Las Vegas,NV,USA,>
+2026-04-25,2026,0,17,6,e,0,0,6,2026 Sphere,2026 Sphere,First Tube,,0,Sphere,Las Vegas,NV,USA,
+2026-04-30,2026,0,1,1,1,0,0,16,2026 Sphere,2026 Sphere,The Wedge,Wedge,1,Sphere,Las Vegas,NV,USA,","
+2026-04-30,2026,0,2,1,1,0,0,8,2026 Sphere,2026 Sphere,NICU,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-30,2026,0,3,1,1,0,0,43,2026 Sphere,2026 Sphere,Halfway to the Moon,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-30,2026,0,4,1,1,0,0,18,2026 Sphere,2026 Sphere,Leaves,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-30,2026,0,5,1,1,0,0,18,2026 Sphere,2026 Sphere,555,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-30,2026,0,6,1,1,0,0,40,2026 Sphere,2026 Sphere,Dirt,,0,Sphere,Las Vegas,NV,USA,","
+2026-04-30,2026,0,7,1,1,0,0,13,2026 Sphere,2026 Sphere,Punch You in the Eye,PYITE,1,Sphere,Las Vegas,NV,USA,","
+2026-04-30,2026,0,8,4,1,0,0,14,2026 Sphere,2026 Sphere,Golgi Apparatus,Golgi,1,Sphere,Las Vegas,NV,USA,
+2026-04-30,2026,0,9,2,2,0,0,6,2026 Sphere,2026 Sphere,A Song I Heard the Ocean Sing,ASIHTOS,1,Sphere,Las Vegas,NV,USA,>
+2026-04-30,2026,0,10,2,2,0,0,8,2026 Sphere,2026 Sphere,A Wave of Hope,,0,Sphere,Las Vegas,NV,USA,>
+2026-04-30,2026,0,11,2,2,0,0,8,2026 Sphere,2026 Sphere,Prince Caspian,Caspian,1,Sphere,Las Vegas,NV,USA,>
+2026-04-30,2026,0,12,1,2,0,0,8,2026 Sphere,2026 Sphere,Lonely Trip,,0,Sphere,Las Vegas,NV,USA,","
+2026-04-30,2026,0,13,1,2,0,0,20,2026 Sphere,2026 Sphere,Runaway Jim,,1,Sphere,Las Vegas,NV,USA,","
+2026-04-30,2026,0,14,1,2,0,0,18,2026 Sphere,2026 Sphere,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,Sphere,Las Vegas,NV,USA,","
+2026-04-30,2026,0,15,5,2,0,0,6,2026 Sphere,2026 Sphere,Drift While You're Sleeping,,0,Sphere,Las Vegas,NV,USA,
+2026-04-30,2026,0,16,1,e,0,0,98,2026 Sphere,2026 Sphere,The Sloth,Sloth,1,Sphere,Las Vegas,NV,USA,","
+2026-04-30,2026,0,17,6,e,0,0,18,2026 Sphere,2026 Sphere,The Squirming Coil,Coil,1,Sphere,Las Vegas,NV,USA,
+2026-05-01,2026,0,1,1,1,0,0,21,2026 Sphere,2026 Sphere,Sample in a Jar,Sample,1,Sphere,Las Vegas,NV,USA,","
+2026-05-01,2026,0,2,1,1,0,0,10,2026 Sphere,2026 Sphere,Boogie On Reggae Woman,Boogie On,0,Sphere,Las Vegas,NV,USA,","
+2026-05-01,2026,0,3,1,1,0,0,30,2026 Sphere,2026 Sphere,Heavy Things,,1,Sphere,Las Vegas,NV,USA,","
+2026-05-01,2026,0,4,1,1,0,0,8,2026 Sphere,2026 Sphere,Bouncing Around the Room,Bouncin',1,Sphere,Las Vegas,NV,USA,","
+2026-05-01,2026,0,5,1,1,0,0,112,2026 Sphere,2026 Sphere,Mound,,1,Sphere,Las Vegas,NV,USA,","
+2026-05-01,2026,0,6,1,1,0,0,13,2026 Sphere,2026 Sphere,Mountains in the Mist,Mist,0,Sphere,Las Vegas,NV,USA,","
+2026-05-01,2026,0,7,1,1,0,0,42,2026 Sphere,2026 Sphere,Stealing Time From the Faulty Plan,STFTFP,1,Sphere,Las Vegas,NV,USA,","
+2026-05-01,2026,0,8,1,1,0,0,99,2026 Sphere,2026 Sphere,Tela,,1,Sphere,Las Vegas,NV,USA,","
+2026-05-01,2026,0,9,1,1,0,0,9,2026 Sphere,2026 Sphere,McGrupp and the Watchful Hosemasters,McGrupp,1,Sphere,Las Vegas,NV,USA,","
+2026-05-01,2026,0,10,1,1,0,0,78,2026 Sphere,2026 Sphere,Wingsuit,,1,Sphere,Las Vegas,NV,USA,","
+2026-05-01,2026,0,11,4,1,0,0,19,2026 Sphere,2026 Sphere,David Bowie,Bowie,1,Sphere,Las Vegas,NV,USA,
+2026-05-01,2026,0,12,1,2,0,0,18,2026 Sphere,2026 Sphere,Wilson,,1,Sphere,Las Vegas,NV,USA,","
+2026-05-01,2026,0,13,2,2,0,0,29,2026 Sphere,2026 Sphere,Seven Below,,1,Sphere,Las Vegas,NV,USA,>
+2026-05-01,2026,0,14,2,2,0,0,13,2026 Sphere,2026 Sphere,Plasma,,0,Sphere,Las Vegas,NV,USA,>
+2026-05-01,2026,0,15,2,2,0,0,12,2026 Sphere,2026 Sphere,Crosseyed and Painless,C&amp;P,0,Sphere,Las Vegas,NV,USA,>
+2026-05-01,2026,0,16,1,2,0,0,21,2026 Sphere,2026 Sphere,Pillow Jets,,0,Sphere,Las Vegas,NV,USA,","
+2026-05-01,2026,0,17,1,2,0,0,32,2026 Sphere,2026 Sphere,Shade,,1,Sphere,Las Vegas,NV,USA,","
+2026-05-01,2026,0,18,5,2,0,0,11,2026 Sphere,2026 Sphere,Sand,,0,Sphere,Las Vegas,NV,USA,
+2026-05-01,2026,0,19,1,e,0,0,32,2026 Sphere,2026 Sphere,I Didn't Know,IDK,1,Sphere,Las Vegas,NV,USA,","
+2026-05-01,2026,0,20,1,e,0,0,55,2026 Sphere,2026 Sphere,Saw It Again,,1,Sphere,Las Vegas,NV,USA,","
+2026-05-01,2026,0,21,6,e,0,0,17,2026 Sphere,2026 Sphere,Rock and Roll,R&amp;R,0,Sphere,Las Vegas,NV,USA,
+2026-05-02,2026,0,1,1,1,0,0,31,2026 Sphere,2026 Sphere,Farmhouse,,1,Sphere,Las Vegas,NV,USA,","
+2026-05-02,2026,0,2,1,1,0,0,17,2026 Sphere,2026 Sphere,Undermind,,0,Sphere,Las Vegas,NV,USA,","
+2026-05-02,2026,0,3,1,1,0,0,21,2026 Sphere,2026 Sphere,Ocelot,,1,Sphere,Las Vegas,NV,USA,","
+2026-05-02,2026,0,4,1,1,0,0,11,2026 Sphere,2026 Sphere,Back on the Train,BOTT,0,Sphere,Las Vegas,NV,USA,","
+2026-05-02,2026,0,5,2,1,0,0,17,2026 Sphere,2026 Sphere,Ether Edge,,0,Sphere,Las Vegas,NV,USA,>
+2026-05-02,2026,0,6,1,1,0,0,19,2026 Sphere,2026 Sphere,Llama,,1,Sphere,Las Vegas,NV,USA,","
+2026-05-02,2026,0,7,2,1,0,0,31,2026 Sphere,2026 Sphere,The Horse,Horse,1,Sphere,Las Vegas,NV,USA,>
+2026-05-02,2026,0,8,1,1,0,0,31,2026 Sphere,2026 Sphere,Silent in the Morning,Silent,1,Sphere,Las Vegas,NV,USA,","
+2026-05-02,2026,0,9,1,1,0,0,15,2026 Sphere,2026 Sphere,Taste,,1,Sphere,Las Vegas,NV,USA,","
+2026-05-02,2026,0,10,4,1,0,0,8,2026 Sphere,2026 Sphere,Julius,,1,Sphere,Las Vegas,NV,USA,
+2026-05-02,2026,0,11,1,2,0,0,77,2026 Sphere,2026 Sphere,Frankenstein,,0,Sphere,Las Vegas,NV,USA,","
+2026-05-02,2026,0,12,1,2,0,0,12,2026 Sphere,2026 Sphere,Kill Devil Falls,KDF,1,Sphere,Las Vegas,NV,USA,","
+2026-05-02,2026,0,13,1,2,0,0,10,2026 Sphere,2026 Sphere,Ruby Waves,,0,Sphere,Las Vegas,NV,USA,","
+2026-05-02,2026,0,14,1,2,0,0,8,2026 Sphere,2026 Sphere,Meatstick,,1,Sphere,Las Vegas,NV,USA,","
+2026-05-02,2026,0,15,2,2,0,0,8,2026 Sphere,2026 Sphere,"My Friend, My Friend",My Friend,1,Sphere,Las Vegas,NV,USA,>
+2026-05-02,2026,0,16,1,2,0,0,9,2026 Sphere,2026 Sphere,A Life Beyond The Dream,,0,Sphere,Las Vegas,NV,USA,","
+2026-05-02,2026,0,17,5,2,0,0,11,2026 Sphere,2026 Sphere,Character Zero,,1,Sphere,Las Vegas,NV,USA,
+2026-05-02,2026,0,18,1,e,0,0,25,2026 Sphere,2026 Sphere,Wading in the Velvet Sea,Velvet Sea,1,Sphere,Las Vegas,NV,USA,","
+2026-05-02,2026,0,19,6,e,0,0,14,2026 Sphere,2026 Sphere,Fluffhead,,1,Sphere,Las Vegas,NV,USA,
 2026-07-07,2026,0,1,2,1,0,0,3,2026 Summer Tour,2026 Summer,Chalk Dust Torture,CDT,1,Kohl Center,Madison,WI,USA,>
 2026-07-07,2026,0,2,1,1,0,0,3,2026 Summer Tour,2026 Summer,Ghost,,1,Kohl Center,Madison,WI,USA,","
 2026-07-07,2026,0,3,2,1,0,0,0,2026 Summer Tour,2026 Summer,Back on the Train,BOTT,0,Kohl Center,Madison,WI,USA,>
@@ -17,3 +249,189 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2026-07-07,2026,0,16,5,2,0,0,7,2026 Summer Tour,2026 Summer,Suzy Greenberg,Suzy,1,Kohl Center,Madison,WI,USA,
 2026-07-07,2026,0,17,1,e,0,0,4,2026 Summer Tour,2026 Summer,Slave to the Traffic Light,Slave,1,Kohl Center,Madison,WI,USA,","
 2026-07-07,2026,0,18,6,e,0,0,4,2026 Summer Tour,2026 Summer,Say It To Me S.A.N.T.O.S.,,1,Kohl Center,Madison,WI,USA,
+2026-07-08,2026,0,1,1,1,0,0,7,2026 Summer Tour,2026 Summer,Sigma Oasis,,0,Kohl Center,Madison,WI,USA,","
+2026-07-08,2026,0,2,2,1,0,0,4,2026 Summer Tour,2026 Summer,The Moma Dance,Moma,1,Kohl Center,Madison,WI,USA,>
+2026-07-08,2026,0,3,1,1,0,0,3,2026 Summer Tour,2026 Summer,Runaway Jim,,1,Kohl Center,Madison,WI,USA,","
+2026-07-08,2026,0,4,1,1,0,0,4,2026 Summer Tour,2026 Summer,Cities,,0,Kohl Center,Madison,WI,USA,","
+2026-07-08,2026,0,5,1,1,0,0,3,2026 Summer Tour,2026 Summer,Leaves,,1,Kohl Center,Madison,WI,USA,","
+2026-07-08,2026,0,6,1,1,0,0,1,2026 Summer Tour,2026 Summer,Julius,,1,Kohl Center,Madison,WI,USA,","
+2026-07-08,2026,0,7,4,1,0,0,6,2026 Summer Tour,2026 Summer,Cavern,,1,Kohl Center,Madison,WI,USA,
+2026-07-08,2026,0,8,1,2,0,0,1,2026 Summer Tour,2026 Summer,Kill Devil Falls,KDF,1,Kohl Center,Madison,WI,USA,","
+2026-07-08,2026,0,9,3,2,0,0,3,2026 Summer Tour,2026 Summer,Prince Caspian,Caspian,1,Kohl Center,Madison,WI,USA,->
+2026-07-08,2026,0,10,1,2,0,0,7,2026 Summer Tour,2026 Summer,Twist,,1,Kohl Center,Madison,WI,USA,","
+2026-07-08,2026,0,11,2,2,0,0,8,2026 Summer Tour,2026 Summer,No Men In No Man's Land,NMINML,1,Kohl Center,Madison,WI,USA,>
+2026-07-08,2026,0,12,1,2,0,0,6,2026 Summer Tour,2026 Summer,Possum,,1,Kohl Center,Madison,WI,USA,","
+2026-07-08,2026,0,13,1,2,0,0,5,2026 Summer Tour,2026 Summer,Monsters,,0,Kohl Center,Madison,WI,USA,","
+2026-07-08,2026,0,14,5,2,0,0,9,2026 Summer Tour,2026 Summer,Harry Hood,Hood,1,Kohl Center,Madison,WI,USA,
+2026-07-08,2026,0,15,1,e,0,0,7,2026 Summer Tour,2026 Summer,Waste,,1,Kohl Center,Madison,WI,USA,","
+2026-07-08,2026,0,16,6,e,0,0,4,2026 Summer Tour,2026 Summer,First Tube,,0,Kohl Center,Madison,WI,USA,
+2026-07-10,2026,0,1,3,1,0,0,5,2026 Summer Tour,2026 Summer,Blaze On,,1,Ruoff Music Center,Noblesville,IN,USA,->
+2026-07-10,2026,0,2,3,1,0,0,3,2026 Summer Tour,2026 Summer,Plasma,,0,Ruoff Music Center,Noblesville,IN,USA,->
+2026-07-10,2026,0,3,1,1,0,0,5,2026 Summer Tour,2026 Summer,Blaze On,,1,Ruoff Music Center,Noblesville,IN,USA,","
+2026-07-10,2026,0,4,1,1,0,0,6,2026 Summer Tour,2026 Summer,Roggae,,1,Ruoff Music Center,Noblesville,IN,USA,","
+2026-07-10,2026,0,5,1,1,0,0,7,2026 Summer Tour,2026 Summer,Tube,,1,Ruoff Music Center,Noblesville,IN,USA,","
+2026-07-10,2026,0,6,1,1,0,0,10,2026 Summer Tour,2026 Summer,Wolfman's Brother,Wolfman's,1,Ruoff Music Center,Noblesville,IN,USA,","
+2026-07-10,2026,0,7,1,1,0,0,9,2026 Summer Tour,2026 Summer,Limb By Limb,LxL,1,Ruoff Music Center,Noblesville,IN,USA,","
+2026-07-10,2026,0,8,1,1,0,0,9,2026 Summer Tour,2026 Summer,Hey Stranger,,0,Ruoff Music Center,Noblesville,IN,USA,","
+2026-07-10,2026,0,9,4,1,0,0,3,2026 Summer Tour,2026 Summer,Bouncing Around the Room,Bouncin',1,Ruoff Music Center,Noblesville,IN,USA,
+2026-07-10,2026,0,10,2,2,0,0,8,2026 Summer Tour,2026 Summer,Oblivion,,0,Ruoff Music Center,Noblesville,IN,USA,>
+2026-07-10,2026,0,11,2,2,0,0,10,2026 Summer Tour,2026 Summer,Down with Disease,DwD,1,Ruoff Music Center,Noblesville,IN,USA,>
+2026-07-10,2026,0,12,2,2,0,0,10,2026 Summer Tour,2026 Summer,You Enjoy Myself,YEM,1,Ruoff Music Center,Noblesville,IN,USA,>
+2026-07-10,2026,0,13,2,2,0,0,7,2026 Summer Tour,2026 Summer,Backwards Down the Number Line,BDTNL,0,Ruoff Music Center,Noblesville,IN,USA,>
+2026-07-10,2026,0,14,5,2,0,0,11,2026 Summer Tour,2026 Summer,Loving Cup,,0,Ruoff Music Center,Noblesville,IN,USA,
+2026-07-10,2026,0,15,1,e,0,0,6,2026 Summer Tour,2026 Summer,What's Going Through Your Mind,WGTYM,0,Ruoff Music Center,Noblesville,IN,USA,","
+2026-07-10,2026,0,16,6,e,0,0,30,2026 Summer Tour,2026 Summer,Rocky Top,,0,Ruoff Music Center,Noblesville,IN,USA,
+2026-07-11,2026,0,1,1,1,0,0,9,2026 Summer Tour,2026 Summer,AC/DC Bag,Bag,1,Ruoff Music Center,Noblesville,IN,USA,","
+2026-07-11,2026,0,2,2,1,0,0,5,2026 Summer Tour,2026 Summer,Punch You in the Eye,PYITE,1,Ruoff Music Center,Noblesville,IN,USA,>
+2026-07-11,2026,0,3,3,1,0,0,11,2026 Summer Tour,2026 Summer,Theme from the Bottom,Theme,1,Ruoff Music Center,Noblesville,IN,USA,->
+2026-07-11,2026,0,4,1,1,0,0,6,2026 Summer Tour,2026 Summer,Timber (Jerry the Mule),Timber Ho,0,Ruoff Music Center,Noblesville,IN,USA,","
+2026-07-11,2026,0,5,2,1,0,0,5,2026 Summer Tour,2026 Summer,555,,1,Ruoff Music Center,Noblesville,IN,USA,>
+2026-07-11,2026,0,6,1,1,0,0,9,2026 Summer Tour,2026 Summer,Reba,,1,Ruoff Music Center,Noblesville,IN,USA,","
+2026-07-11,2026,0,7,1,1,0,0,5,2026 Summer Tour,2026 Summer,Dirt,,0,Ruoff Music Center,Noblesville,IN,USA,","
+2026-07-11,2026,0,8,4,1,0,0,10,2026 Summer Tour,2026 Summer,Most Events Aren't Planned,,0,Ruoff Music Center,Noblesville,IN,USA,
+2026-07-11,2026,0,9,3,2,0,0,11,2026 Summer Tour,2026 Summer,Everything's Right,,0,Ruoff Music Center,Noblesville,IN,USA,->
+2026-07-11,2026,0,10,3,2,0,0,9,2026 Summer Tour,2026 Summer,Tweezer,,1,Ruoff Music Center,Noblesville,IN,USA,->
+2026-07-11,2026,0,11,2,2,0,0,8,2026 Summer Tour,2026 Summer,Golden Age,,0,Ruoff Music Center,Noblesville,IN,USA,>
+2026-07-11,2026,0,12,3,2,0,0,3,2026 Summer Tour,2026 Summer,"My Friend, My Friend",My Friend,1,Ruoff Music Center,Noblesville,IN,USA,->
+2026-07-11,2026,0,13,2,2,0,0,9,2026 Summer Tour,2026 Summer,Tweezer,,1,Ruoff Music Center,Noblesville,IN,USA,>
+2026-07-11,2026,0,14,2,2,0,0,43,2026 Summer Tour,2026 Summer,No Quarter,,0,Ruoff Music Center,Noblesville,IN,USA,>
+2026-07-11,2026,0,15,5,2,0,0,10,2026 Summer Tour,2026 Summer,Carini,,1,Ruoff Music Center,Noblesville,IN,USA,
+2026-07-11,2026,0,16,1,e,0,0,3,2026 Summer Tour,2026 Summer,A Life Beyond The Dream,,0,Ruoff Music Center,Noblesville,IN,USA,","
+2026-07-11,2026,0,17,6,e,0,0,9,2026 Summer Tour,2026 Summer,Tweezer Reprise,Tweeprise,1,Ruoff Music Center,Noblesville,IN,USA,
+2026-07-12,2026,0,1,1,1,0,0,9,2026 Summer Tour,2026 Summer,46 Days,,1,Ruoff Music Center,Noblesville,IN,USA,","
+2026-07-12,2026,0,2,3,1,0,0,12,2026 Summer Tour,2026 Summer,Evolve,,0,Ruoff Music Center,Noblesville,IN,USA,->
+2026-07-12,2026,0,3,1,1,0,0,12,2026 Summer Tour,2026 Summer,Rift,,1,Ruoff Music Center,Noblesville,IN,USA,","
+2026-07-12,2026,0,4,1,1,0,0,10,2026 Summer Tour,2026 Summer,Bathtub Gin,Gin,1,Ruoff Music Center,Noblesville,IN,USA,","
+2026-07-12,2026,0,5,1,1,0,0,9,2026 Summer Tour,2026 Summer,Maze,,1,Ruoff Music Center,Noblesville,IN,USA,","
+2026-07-12,2026,0,6,1,1,0,0,5,2026 Summer Tour,2026 Summer,Mountains in the Mist,Mist,0,Ruoff Music Center,Noblesville,IN,USA,","
+2026-07-12,2026,0,7,4,1,0,0,9,2026 Summer Tour,2026 Summer,Stash,,1,Ruoff Music Center,Noblesville,IN,USA,
+2026-07-12,2026,0,8,1,2,0,0,10,2026 Summer Tour,2026 Summer,Simple,,1,Ruoff Music Center,Noblesville,IN,USA,","
+2026-07-12,2026,0,9,2,2,0,0,5,2026 Summer Tour,2026 Summer,Pillow Jets,,0,Ruoff Music Center,Noblesville,IN,USA,>
+2026-07-12,2026,0,10,2,2,0,0,11,2026 Summer Tour,2026 Summer,Light,,0,Ruoff Music Center,Noblesville,IN,USA,>
+2026-07-12,2026,0,11,2,2,0,0,17,2026 Summer Tour,2026 Summer,Cream,,0,Ruoff Music Center,Noblesville,IN,USA,>
+2026-07-12,2026,0,12,2,2,0,0,12,2026 Summer Tour,2026 Summer,Also Sprach Zarathustra,2001,0,Ruoff Music Center,Noblesville,IN,USA,>
+2026-07-12,2026,0,13,5,2,0,0,9,2026 Summer Tour,2026 Summer,More,,1,Ruoff Music Center,Noblesville,IN,USA,
+2026-07-12,2026,0,14,2,e,0,0,5,2026 Summer Tour,2026 Summer,Wilson,,1,Ruoff Music Center,Noblesville,IN,USA,>
+2026-07-12,2026,0,15,6,e,2,2,4,2026 Summer Tour,2026 Summer,Fluffhead,,1,Ruoff Music Center,Noblesville,IN,USA,
+2026-07-14,2026,0,1,1,1,0,0,6,2026 Summer Tour,2026 Summer,David Bowie,Bowie,1,Enmarket Arena,Savannah,GA,USA,","
+2026-07-14,2026,0,2,2,1,0,0,10,2026 Summer Tour,2026 Summer,Gumbo,,1,Enmarket Arena,Savannah,GA,USA,>
+2026-07-14,2026,0,3,1,1,0,0,12,2026 Summer Tour,2026 Summer,Birds of a Feather,BOAF,1,Enmarket Arena,Savannah,GA,USA,","
+2026-07-14,2026,0,4,1,1,0,0,28,2026 Summer Tour,2026 Summer,The Old Home Place,,0,Enmarket Arena,Savannah,GA,USA,","
+2026-07-14,2026,0,5,1,1,0,0,13,2026 Summer Tour,2026 Summer,Steam,,1,Enmarket Arena,Savannah,GA,USA,","
+2026-07-14,2026,0,6,2,1,0,0,10,2026 Summer Tour,2026 Summer,The Curtain With,Curtain With,1,Enmarket Arena,Savannah,GA,USA,>
+2026-07-14,2026,0,7,4,1,0,0,8,2026 Summer Tour,2026 Summer,Horn,,1,Enmarket Arena,Savannah,GA,USA,
+2026-07-14,2026,0,8,2,2,0,0,13,2026 Summer Tour,2026 Summer,Split Open and Melt,SOAMelt,1,Enmarket Arena,Savannah,GA,USA,>
+2026-07-14,2026,0,9,3,2,0,0,4,2026 Summer Tour,2026 Summer,Sand,,0,Enmarket Arena,Savannah,GA,USA,->
+2026-07-14,2026,0,10,1,2,0,0,9,2026 Summer Tour,2026 Summer,It's Ice,,1,Enmarket Arena,Savannah,GA,USA,","
+2026-07-14,2026,0,11,1,2,0,0,8,2026 Summer Tour,2026 Summer,About to Run,,0,Enmarket Arena,Savannah,GA,USA,","
+2026-07-14,2026,0,12,2,2,0,0,9,2026 Summer Tour,2026 Summer,Piper,,1,Enmarket Arena,Savannah,GA,USA,>
+2026-07-14,2026,0,13,5,2,0,0,9,2026 Summer Tour,2026 Summer,Walls of the Cave,WotC,1,Enmarket Arena,Savannah,GA,USA,
+2026-07-14,2026,0,14,1,e,0,0,7,2026 Summer Tour,2026 Summer,The Squirming Coil,Coil,1,Enmarket Arena,Savannah,GA,USA,","
+2026-07-14,2026,0,15,6,e,0,0,132,2026 Summer Tour,2026 Summer,Fire,,0,Enmarket Arena,Savannah,GA,USA,
+2026-07-15,2026,0,1,1,1,0,0,82,2026 Summer Tour,2026 Summer,Dinner and a Movie,,1,Enmarket Arena,Savannah,GA,USA,","
+2026-07-15,2026,0,2,1,1,0,0,10,2026 Summer Tour,2026 Summer,Vultures,,1,Enmarket Arena,Savannah,GA,USA,","
+2026-07-15,2026,0,3,1,1,0,0,6,2026 Summer Tour,2026 Summer,Taste,,1,Enmarket Arena,Savannah,GA,USA,","
+2026-07-15,2026,0,4,2,1,0,0,8,2026 Summer Tour,2026 Summer,The Wedge,Wedge,1,Enmarket Arena,Savannah,GA,USA,>
+2026-07-15,2026,0,5,1,1,0,0,10,2026 Summer Tour,2026 Summer,Pebbles and Marbles,,0,Enmarket Arena,Savannah,GA,USA,","
+2026-07-15,2026,0,6,1,1,0,0,13,2026 Summer Tour,2026 Summer,Divided Sky,Divided,1,Enmarket Arena,Savannah,GA,USA,","
+2026-07-15,2026,0,7,1,1,0,0,9,2026 Summer Tour,2026 Summer,Halley's Comet,Halley's,1,Enmarket Arena,Savannah,GA,USA,","
+2026-07-15,2026,0,8,4,1,0,0,8,2026 Summer Tour,2026 Summer,Drift While You're Sleeping,,0,Enmarket Arena,Savannah,GA,USA,
+2026-07-15,2026,0,9,1,2,0,0,43,2026 Summer Tour,2026 Summer,Sightless Escape,,0,Enmarket Arena,Savannah,GA,USA,","
+2026-07-15,2026,0,10,2,2,0,0,8,2026 Summer Tour,2026 Summer,A Song I Heard the Ocean Sing,ASIHTOS,1,Enmarket Arena,Savannah,GA,USA,>
+2026-07-15,2026,0,11,2,2,0,0,7,2026 Summer Tour,2026 Summer,Crosseyed and Painless,C&amp;P,0,Enmarket Arena,Savannah,GA,USA,>
+2026-07-15,2026,0,12,1,2,0,0,6,2026 Summer Tour,2026 Summer,Farmhouse,,1,Enmarket Arena,Savannah,GA,USA,","
+2026-07-15,2026,0,13,2,2,0,0,14,2026 Summer Tour,2026 Summer,Scents and Subtle Sounds,,1,Enmarket Arena,Savannah,GA,USA,>
+2026-07-15,2026,0,14,5,2,0,0,5,2026 Summer Tour,2026 Summer,Ghost,,1,Enmarket Arena,Savannah,GA,USA,
+2026-07-15,2026,0,15,6,e,0,0,7,2026 Summer Tour,2026 Summer,Rock and Roll,R&amp;R,0,Enmarket Arena,Savannah,GA,USA,
+2026-07-17,2026,0,1,2,1,0,0,13,2026 Summer Tour,2026 Summer,Buried Alive,,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,>
+2026-07-17,2026,0,2,1,1,0,0,6,2026 Summer Tour,2026 Summer,Character Zero,,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,","
+2026-07-17,2026,0,3,1,1,0,0,7,2026 Summer Tour,2026 Summer,Llama,,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,","
+2026-07-17,2026,0,4,2,1,0,0,10,2026 Summer Tour,2026 Summer,Mercury,,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,>
+2026-07-17,2026,0,5,2,1,0,0,8,2026 Summer Tour,2026 Summer,Sample in a Jar,Sample,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,>
+2026-07-17,2026,0,6,1,1,0,0,43,2026 Summer Tour,2026 Summer,Destiny Unbound,Destiny,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,","
+2026-07-17,2026,0,7,1,1,0,0,12,2026 Summer Tour,2026 Summer,Guyute,,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,","
+2026-07-17,2026,0,8,4,1,0,0,9,2026 Summer Tour,2026 Summer,Golgi Apparatus,Golgi,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,
+2026-07-17,2026,0,9,1,2,0,0,5,2026 Summer Tour,2026 Summer,Harry Hood,Hood,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,","
+2026-07-17,2026,0,10,2,2,0,0,6,2026 Summer Tour,2026 Summer,Fuego,,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,>
+2026-07-17,2026,0,11,3,2,0,0,11,2026 Summer Tour,2026 Summer,The Lizards,Lizards,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,->
+2026-07-17,2026,0,12,5,2,0,0,6,2026 Summer Tour,2026 Summer,A Wave of Hope,,0,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,
+2026-07-17,2026,0,13,1,e,0,0,12,2026 Summer Tour,2026 Summer,Fee,,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,","
+2026-07-17,2026,0,14,2,e,0,0,7,2026 Summer Tour,2026 Summer,Meatstick,,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,>
+2026-07-17,2026,0,15,1,e,0,0,45,2026 Summer Tour,2026 Summer,The Mango Song,Mango,1,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,","
+2026-07-17,2026,0,16,6,e,0,0,25,2026 Summer Tour,2026 Summer,Izabella,,0,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,
+2026-07-18,2026,0,1,1,1,0,0,5,2026 Summer Tour,2026 Summer,What's Going Through Your Mind,WGTYM,0,Merriweather Post Pavilion,Columbia,MD,USA,","
+2026-07-18,2026,0,2,1,1,0,0,95,2026 Summer Tour,2026 Summer,Contact,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2026-07-18,2026,0,3,2,1,0,0,5,2026 Summer Tour,2026 Summer,You Enjoy Myself,YEM,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2026-07-18,2026,0,4,3,1,0,0,11,2026 Summer Tour,2026 Summer,Axilla (Part II),,1,Merriweather Post Pavilion,Columbia,MD,USA,->
+2026-07-18,2026,0,5,3,1,0,0,9,2026 Summer Tour,2026 Summer,McGrupp and the Watchful Hosemasters,McGrupp,1,Merriweather Post Pavilion,Columbia,MD,USA,->
+2026-07-18,2026,0,6,2,1,0,0,241,2026 Summer Tour,2026 Summer,Have Mercy,,0,Merriweather Post Pavilion,Columbia,MD,USA,>
+2026-07-18,2026,0,7,2,1,0,0,9,2026 Summer Tour,2026 Summer,McGrupp and the Watchful Hosemasters,McGrupp,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2026-07-18,2026,0,8,1,1,0,0,9,2026 Summer Tour,2026 Summer,Shade,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2026-07-18,2026,0,9,4,1,0,0,6,2026 Summer Tour,2026 Summer,Runaway Jim,,1,Merriweather Post Pavilion,Columbia,MD,USA,
+2026-07-18,2026,0,10,2,2,0,0,7,2026 Summer Tour,2026 Summer,Life Saving Gun,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2026-07-18,2026,0,11,3,2,0,0,16,2026 Summer Tour,2026 Summer,Gotta Jibboo,Jibboo,0,Merriweather Post Pavilion,Columbia,MD,USA,->
+2026-07-18,2026,0,12,2,2,0,0,8,2026 Summer Tour,2026 Summer,Ether Edge,,0,Merriweather Post Pavilion,Columbia,MD,USA,>
+2026-07-18,2026,0,13,1,2,0,0,16,2026 Summer Tour,2026 Summer,Lifeboy,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2026-07-18,2026,0,14,2,2,0,0,9,2026 Summer Tour,2026 Summer,Boogie On Reggae Woman,Boogie On,0,Merriweather Post Pavilion,Columbia,MD,USA,>
+2026-07-18,2026,0,15,5,2,0,0,7,2026 Summer Tour,2026 Summer,Free,,1,Merriweather Post Pavilion,Columbia,MD,USA,
+2026-07-18,2026,0,16,1,e,0,0,6,2026 Summer Tour,2026 Summer,Monsters,,0,Merriweather Post Pavilion,Columbia,MD,USA,","
+2026-07-18,2026,0,17,1,e,0,0,63,2026 Summer Tour,2026 Summer,If I Could,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2026-07-18,2026,0,18,6,e,2,2,7,2026 Summer Tour,2026 Summer,Run Like an Antelope,Antelope,1,Merriweather Post Pavilion,Columbia,MD,USA,
+2026-07-19,2026,0,1,2,1,0,0,9,2026 Summer Tour,2026 Summer,Undermind,,0,Merriweather Post Pavilion,Columbia,MD,USA,>
+2026-07-19,2026,0,2,1,1,0,0,8,2026 Summer Tour,2026 Summer,Back on the Train,BOTT,0,Merriweather Post Pavilion,Columbia,MD,USA,","
+2026-07-19,2026,0,3,1,1,0,0,138,2026 Summer Tour,2026 Summer,Ass Handed,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2026-07-19,2026,0,4,2,1,0,0,7,2026 Summer Tour,2026 Summer,The Moma Dance,Moma,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2026-07-19,2026,0,5,1,1,0,0,54,2026 Summer Tour,2026 Summer,Fast Enough for You,FEFY,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2026-07-19,2026,0,6,2,1,0,0,11,2026 Summer Tour,2026 Summer,NICU,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2026-07-19,2026,0,7,2,1,0,0,6,2026 Summer Tour,2026 Summer,Oblivion,,0,Merriweather Post Pavilion,Columbia,MD,USA,>
+2026-07-19,2026,0,8,4,1,0,0,7,2026 Summer Tour,2026 Summer,Possum,,1,Merriweather Post Pavilion,Columbia,MD,USA,
+2026-07-19,2026,0,9,1,2,0,0,5,2026 Summer Tour,2026 Summer,Carini,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
+2026-07-19,2026,0,10,2,2,0,0,7,2026 Summer Tour,2026 Summer,No Men In No Man's Land,NMINML,1,Merriweather Post Pavilion,Columbia,MD,USA,>
+2026-07-19,2026,0,11,2,2,0,0,16,2026 Summer Tour,2026 Summer,Beneath a Sea of Stars Part 1,,0,Merriweather Post Pavilion,Columbia,MD,USA,>
+2026-07-19,2026,0,12,2,2,0,0,8,2026 Summer Tour,2026 Summer,Ruby Waves,,0,Merriweather Post Pavilion,Columbia,MD,USA,>
+2026-07-19,2026,0,13,5,2,0,0,6,2026 Summer Tour,2026 Summer,Backwards Down the Number Line,BDTNL,0,Merriweather Post Pavilion,Columbia,MD,USA,
+2026-07-19,2026,0,14,2,e,0,0,15,2026 Summer Tour,2026 Summer,I Am the Walrus,,0,Merriweather Post Pavilion,Columbia,MD,USA,>
+2026-07-19,2026,0,15,6,e,2,2,7,2026 Summer Tour,2026 Summer,First Tube,,0,Merriweather Post Pavilion,Columbia,MD,USA,
+2026-07-21,2026,0,1,2,1,0,0,45,2026 Summer Tour,2026 Summer,Turtle in the Clouds,,1,Empower Federal Credit Union Amphitheater at Lakeview,Syracuse,NY,USA,>
+2026-07-21,2026,0,2,3,1,0,0,13,2026 Summer Tour,2026 Summer,Bug,,0,Empower Federal Credit Union Amphitheater at Lakeview,Syracuse,NY,USA,->
+2026-07-21,2026,0,3,2,1,0,0,11,2026 Summer Tour,2026 Summer,Seven Below,,1,Empower Federal Credit Union Amphitheater at Lakeview,Syracuse,NY,USA,>
+2026-07-21,2026,0,4,2,1,0,0,10,2026 Summer Tour,2026 Summer,Ocelot,,1,Empower Federal Credit Union Amphitheater at Lakeview,Syracuse,NY,USA,>
+2026-07-21,2026,0,5,1,1,0,0,17,2026 Summer Tour,2026 Summer,Mull,,1,Empower Federal Credit Union Amphitheater at Lakeview,Syracuse,NY,USA,","
+2026-07-21,2026,0,6,3,1,0,0,8,2026 Summer Tour,2026 Summer,Sigma Oasis,,0,Empower Federal Credit Union Amphitheater at Lakeview,Syracuse,NY,USA,->
+2026-07-21,2026,0,7,4,1,0,0,3,2026 Summer Tour,2026 Summer,Ghost,,1,Empower Federal Credit Union Amphitheater at Lakeview,Syracuse,NY,USA,
+2026-07-21,2026,0,8,2,2,0,0,4,2026 Summer Tour,2026 Summer,Sand,,0,Empower Federal Credit Union Amphitheater at Lakeview,Syracuse,NY,USA,>
+2026-07-21,2026,0,9,2,2,0,0,6,2026 Summer Tour,2026 Summer,Everything's Right,,0,Empower Federal Credit Union Amphitheater at Lakeview,Syracuse,NY,USA,>
+2026-07-21,2026,0,10,2,2,0,0,14,2026 Summer Tour,2026 Summer,What's the Use?,WTU?,1,Empower Federal Credit Union Amphitheater at Lakeview,Syracuse,NY,USA,>
+2026-07-21,2026,0,11,2,2,0,0,5,2026 Summer Tour,2026 Summer,Light,,0,Empower Federal Credit Union Amphitheater at Lakeview,Syracuse,NY,USA,>
+2026-07-21,2026,0,12,2,2,0,0,5,2026 Summer Tour,2026 Summer,Also Sprach Zarathustra,2001,0,Empower Federal Credit Union Amphitheater at Lakeview,Syracuse,NY,USA,>
+2026-07-21,2026,0,13,2,2,0,0,7,2026 Summer Tour,2026 Summer,Blaze On,,1,Empower Federal Credit Union Amphitheater at Lakeview,Syracuse,NY,USA,>
+2026-07-21,2026,0,14,2,2,0,0,8,2026 Summer Tour,2026 Summer,Prince Caspian,Caspian,1,Empower Federal Credit Union Amphitheater at Lakeview,Syracuse,NY,USA,>
+2026-07-21,2026,0,15,2,2,0,0,5,2026 Summer Tour,2026 Summer,More,,1,Empower Federal Credit Union Amphitheater at Lakeview,Syracuse,NY,USA,>
+2026-07-21,2026,0,16,6,2,0,0,9,2026 Summer Tour,2026 Summer,Say It To Me S.A.N.T.O.S.,,1,Empower Federal Credit Union Amphitheater at Lakeview,Syracuse,NY,USA,
+2026-07-22,2026,0,1,1,1,0,0,225,2026 Summer Tour,2026 Summer,Glide,,1,Madison Square Garden,New York,NY,USA,","
+2026-07-22,2026,0,2,1,1,0,0,2,2026 Summer Tour,2026 Summer,Runaway Jim,,1,Madison Square Garden,New York,NY,USA,","
+2026-07-22,2026,0,3,1,1,0,0,19,2026 Summer Tour,2026 Summer,Foam,,1,Madison Square Garden,New York,NY,USA,","
+2026-07-22,2026,0,4,1,1,0,0,82,2026 Summer Tour,2026 Summer,Axilla,,1,Madison Square Garden,New York,NY,USA,","
+2026-07-22,2026,0,5,1,1,0,0,6,2026 Summer Tour,2026 Summer,Stash,,1,Madison Square Garden,New York,NY,USA,","
+2026-07-22,2026,0,6,2,1,0,0,1468,2026 Summer Tour,2026 Summer,Cold as Ice,,0,Madison Square Garden,New York,NY,USA,>
+2026-07-22,2026,0,7,2,1,0,0,382,2026 Summer Tour,2026 Summer,Love You,,0,Madison Square Garden,New York,NY,USA,>
+2026-07-22,2026,0,8,2,1,0,0,135,2026 Summer Tour,2026 Summer,Hold Your Head Up,HYHU,0,Madison Square Garden,New York,NY,USA,>
+2026-07-22,2026,0,9,1,1,0,0,41,2026 Summer Tour,2026 Summer,Sparkle,,1,Madison Square Garden,New York,NY,USA,","
+2026-07-22,2026,0,10,2,1,0,0,7,2026 Summer Tour,2026 Summer,AC/DC Bag,Bag,1,Madison Square Garden,New York,NY,USA,>
+2026-07-22,2026,0,11,2,1,0,0,7,2026 Summer Tour,2026 Summer,Reba,,1,Madison Square Garden,New York,NY,USA,>
+2026-07-22,2026,0,12,2,1,0,0,1,2026 Summer Tour,2026 Summer,Possum,,1,Madison Square Garden,New York,NY,USA,>
+2026-07-22,2026,0,13,3,1,0,0,5,2026 Summer Tour,2026 Summer,David Bowie,Bowie,1,Madison Square Garden,New York,NY,USA,->
+2026-07-22,2026,0,14,3,1,0,0,1027,2026 Summer Tour,2026 Summer,The Vibration of Life,Vibration of Life,1,Madison Square Garden,New York,NY,USA,->
+2026-07-22,2026,0,15,4,1,0,0,5,2026 Summer Tour,2026 Summer,David Bowie,Bowie,1,Madison Square Garden,New York,NY,USA,
+2026-07-22,2026,0,16,2,2,0,0,10,2026 Summer Tour,2026 Summer,Mike's Song,Mike's,1,Madison Square Garden,New York,NY,USA,>
+2026-07-22,2026,0,17,2,2,0,0,18,2026 Summer Tour,2026 Summer,I Am Hydrogen,Hydrogen,1,Madison Square Garden,New York,NY,USA,>
+2026-07-22,2026,0,18,1,2,0,0,10,2026 Summer Tour,2026 Summer,Weekapaug Groove,Weekapaug,1,Madison Square Garden,New York,NY,USA,","
+2026-07-22,2026,0,19,3,2,0,0,8,2026 Summer Tour,2026 Summer,Bouncing Around the Room,Bouncin',1,Madison Square Garden,New York,NY,USA,->
+2026-07-22,2026,0,20,3,2,0,0,7,2026 Summer Tour,2026 Summer,"My Friend, My Friend",My Friend,1,Madison Square Garden,New York,NY,USA,->
+2026-07-22,2026,0,21,1,2,0,0,5,2026 Summer Tour,2026 Summer,Split Open and Melt,SOAMelt,1,Madison Square Garden,New York,NY,USA,","
+2026-07-22,2026,0,22,1,2,0,0,3,2026 Summer Tour,2026 Summer,The Lizards,Lizards,1,Madison Square Garden,New York,NY,USA,","
+2026-07-22,2026,0,23,5,2,0,0,3,2026 Summer Tour,2026 Summer,Harry Hood,Hood,1,Madison Square Garden,New York,NY,USA,
+2026-07-22,2026,0,24,2,e,0,0,11,2026 Summer Tour,2026 Summer,The Horse,Horse,1,Madison Square Garden,New York,NY,USA,>
+2026-07-22,2026,0,25,1,e,0,0,11,2026 Summer Tour,2026 Summer,Silent in the Morning,Silent,1,Madison Square Garden,New York,NY,USA,","
+2026-07-22,2026,0,26,1,e,0,0,88,2026 Summer Tour,2026 Summer,Big Black Furry Creature from Mars,BBFCFM,1,Madison Square Garden,New York,NY,USA,","
+2026-07-22,2026,0,27,6,e,0,0,2,2026 Summer Tour,2026 Summer,Run Like an Antelope,Antelope,1,Madison Square Garden,New York,NY,USA,
