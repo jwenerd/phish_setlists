@@ -1,22 +1,32 @@
 showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,tourwhen,song,nickname,is_original,venue,city,state,country,trans_mark
-2014-07-18,2014,0,1,1,1,0,0,1,2014 Summer,2014 Summer,555,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-18,2014,0,2,1,1,0,0,4,2014 Summer,2014 Summer,Kill Devil Falls,KDF,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-18,2014,0,3,2,1,0,0,2,2014 Summer,2014 Summer,Bouncing Around the Room,Bouncin',1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-18,2014,0,4,1,1,0,0,2,2014 Summer,2014 Summer,Reba,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-18,2014,0,5,1,1,0,0,1,2014 Summer,2014 Summer,Waiting All Night,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-18,2014,0,6,1,1,0,0,3,2014 Summer,2014 Summer,Birds of a Feather,BOAF,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-18,2014,0,7,2,1,0,0,4,2014 Summer,2014 Summer,Halfway to the Moon,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-18,2014,0,8,2,1,0,0,4,2014 Summer,2014 Summer,Sparkle,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-18,2014,0,9,1,1,0,0,5,2014 Summer,2014 Summer,Sample in a Jar,Sample,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-18,2014,0,10,2,1,0,0,4,2014 Summer,2014 Summer,A Song I Heard the Ocean Sing,ASIHTOS,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-18,2014,0,11,1,1,0,0,5,2014 Summer,2014 Summer,Stash,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-18,2014,0,12,4,1,0,0,9,2014 Summer,2014 Summer,The Squirming Coil,Coil,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,
-2014-07-18,2014,0,13,2,2,0,0,4,2014 Summer,2014 Summer,Golden Age,,0,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-18,2014,0,14,1,2,0,0,40,2014 Summer,2014 Summer,The Mango Song,Mango,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-18,2014,0,15,3,2,0,0,3,2014 Summer,2014 Summer,Sand,,0,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,->
-2014-07-18,2014,0,16,3,2,0,0,1,2014 Summer,2014 Summer,Piper,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,->
-2014-07-18,2014,0,17,3,2,0,0,2,2014 Summer,2014 Summer,Halley's Comet,Halley's,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,->
-2014-07-18,2014,0,18,2,2,0,0,2,2014 Summer,2014 Summer,Wombat,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-18,2014,0,19,2,2,0,0,3,2014 Summer,2014 Summer,Chalk Dust Torture,CDT,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-18,2014,0,20,5,2,0,0,3,2014 Summer,2014 Summer,Slave to the Traffic Light,Slave,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,
-2014-07-18,2014,0,21,6,e,0,0,6,2014 Summer,2014 Summer,Julius,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,
+2014-06-24,2014,0,1,1,1,0,0,1,Not Part of a Tour,No Tour,46 Days,,1,Ed Sullivan Theater,New York,NY,USA,","
+2014-06-24,2014,1,1,6,1,0,0,2,Not Part of a Tour,No Tour,The Line,,1,Ed Sullivan Theater,New York,NY,USA,
+2014-06-24,2014,0,2,1,1,0,0,13,Not Part of a Tour,No Tour,Undermind,,0,Ed Sullivan Theater,New York,NY,USA,","
+2014-06-24,2014,0,3,1,1,0,0,2,Not Part of a Tour,No Tour,Halfway to the Moon,,1,Ed Sullivan Theater,New York,NY,USA,","
+2014-06-24,2014,0,4,1,1,0,0,3,Not Part of a Tour,No Tour,Carini,,1,Ed Sullivan Theater,New York,NY,USA,","
+2014-06-24,2014,0,5,1,1,0,0,3,Not Part of a Tour,No Tour,Devotion to a Dream,,1,Ed Sullivan Theater,New York,NY,USA,","
+2014-06-24,2014,0,6,1,1,0,0,3,Not Part of a Tour,No Tour,555,,1,Ed Sullivan Theater,New York,NY,USA,","
+2014-06-24,2014,0,7,5,1,0,0,0,Not Part of a Tour,No Tour,Twist,,1,Ed Sullivan Theater,New York,NY,USA,
+2014-06-24,2014,0,8,6,e,0,0,1,Not Part of a Tour,No Tour,Character Zero,,1,Ed Sullivan Theater,New York,NY,USA,
+2014-08-03,2014,0,1,2,1,0,0,33,2014 Summer,2014 Summer,My Soul,,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2014-08-03,2014,0,2,1,1,0,0,3,2014 Summer,2014 Summer,Bathtub Gin,Gin,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,3,1,1,0,0,1,2014 Summer,2014 Summer,555,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,4,1,1,0,0,44,2014 Summer,2014 Summer,Pebbles and Marbles,,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,5,1,1,0,0,4,2014 Summer,2014 Summer,The Line,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,6,1,1,0,0,34,2014 Summer,2014 Summer,Vultures,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,7,1,1,0,0,38,2014 Summer,2014 Summer,Fast Enough for You,FEFY,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,8,2,1,0,0,5,2014 Summer,2014 Summer,Back on the Train,BOTT,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2014-08-03,2014,0,9,1,1,0,0,17,2014 Summer,2014 Summer,Taste,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,10,1,1,0,0,8,2014 Summer,2014 Summer,Gumbo,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,11,1,1,0,0,4,2014 Summer,2014 Summer,Halfway to the Moon,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,12,1,1,0,0,3,2014 Summer,2014 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,13,4,1,0,0,6,2014 Summer,2014 Summer,Suzy Greenberg,Suzy,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
+2014-08-03,2014,0,14,3,2,0,0,2,2014 Summer,2014 Summer,Chalk Dust Torture,CDT,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,->
+2014-08-03,2014,0,15,2,2,0,0,109,2014 Summer,2014 Summer,Scents and Subtle Sounds,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2014-08-03,2014,0,16,2,2,0,0,6,2014 Summer,2014 Summer,Twist,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2014-08-03,2014,0,17,2,2,0,0,2,2014 Summer,2014 Summer,Fuego,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2014-08-03,2014,0,18,2,2,0,0,6,2014 Summer,2014 Summer,The Wedge,Wedge,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2014-08-03,2014,0,19,2,2,0,0,6,2014 Summer,2014 Summer,Light,,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2014-08-03,2014,0,20,2,2,0,0,5,2014 Summer,2014 Summer,Harry Hood,Hood,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2014-08-03,2014,0,21,5,2,0,0,2,2014 Summer,2014 Summer,First Tube,,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
+2014-08-03,2014,0,22,6,e,0,0,18,2014 Summer,2014 Summer,Fluffhead,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,

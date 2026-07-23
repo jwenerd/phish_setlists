@@ -1,33 +1,35 @@
 showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,tourwhen,song,nickname,is_original,venue,city,state,country,trans_mark
-1999-07-01,1999,0,1,1,1,0,0,3,1999 Summer U.S. Tour,1999 Summer,Punch You in the Eye,PYITE,1,First American Music Center,Antioch,TN,USA,","
-1999-07-01,1999,0,2,1,1,0,0,21,1999 Summer U.S. Tour,1999 Summer,Billy Breathes,,1,First American Music Center,Antioch,TN,USA,","
-1999-07-01,1999,0,3,1,1,0,0,4,1999 Summer U.S. Tour,1999 Summer,Guyute,,1,First American Music Center,Antioch,TN,USA,","
-1999-07-01,1999,0,4,1,1,0,0,4,1999 Summer U.S. Tour,1999 Summer,Wolfman's Brother,Wolfman's,1,First American Music Center,Antioch,TN,USA,","
-1999-07-01,1999,0,5,1,1,0,0,21,1999 Summer U.S. Tour,1999 Summer,Beauty of My Dreams,,0,First American Music Center,Antioch,TN,USA,","
-1999-07-01,1999,0,6,1,1,0,0,192,1999 Summer U.S. Tour,1999 Summer,Doin' My Time,,0,First American Music Center,Antioch,TN,USA,","
-1999-07-01,1999,0,7,1,1,0,0,2,1999 Summer U.S. Tour,1999 Summer,Roggae,,1,First American Music Center,Antioch,TN,USA,","
-1999-07-01,1999,0,8,1,1,0,0,17,1999 Summer U.S. Tour,1999 Summer,Water in the Sky,,1,First American Music Center,Antioch,TN,USA,","
-1999-07-01,1999,0,9,1,1,0,0,1,1999 Summer U.S. Tour,1999 Summer,Back on the Train,BOTT,0,First American Music Center,Antioch,TN,USA,","
-1999-07-01,1999,0,10,4,1,0,0,19,1999 Summer U.S. Tour,1999 Summer,Poor Heart,,1,First American Music Center,Antioch,TN,USA,
-1999-07-01,1999,0,11,2,2,0,0,2,1999 Summer U.S. Tour,1999 Summer,Down with Disease,DwD,1,First American Music Center,Antioch,TN,USA,>
-1999-07-01,1999,0,12,2,2,0,0,2,1999 Summer U.S. Tour,1999 Summer,Prince Caspian,Caspian,1,First American Music Center,Antioch,TN,USA,>
-1999-07-01,1999,0,13,5,2,0,0,3,1999 Summer U.S. Tour,1999 Summer,You Enjoy Myself,YEM,1,First American Music Center,Antioch,TN,USA,
-1999-07-01,1999,0,14,6,e,0,0,2,1999 Summer U.S. Tour,1999 Summer,Character Zero,,1,First American Music Center,Antioch,TN,USA,
-1999-12-17,1999,0,1,1,1,0,0,3,1999 Winter Tour,1999 Winter,Piper,,1,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-17,1999,0,2,2,1,0,0,15,1999 Winter Tour,1999 Winter,Meat,,1,Hampton Coliseum,Hampton,VA,USA,>
-1999-12-17,1999,0,3,2,1,0,0,9,1999 Winter Tour,1999 Winter,Sparkle,,1,Hampton Coliseum,Hampton,VA,USA,>
-1999-12-17,1999,0,4,2,1,0,0,3,1999 Winter Tour,1999 Winter,Gotta Jibboo,Jibboo,0,Hampton Coliseum,Hampton,VA,USA,>
-1999-12-17,1999,0,5,1,1,0,0,7,1999 Winter Tour,1999 Winter,Punch You in the Eye,PYITE,1,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-17,1999,0,6,1,1,0,0,5,1999 Winter Tour,1999 Winter,When the Circus Comes,Circus,0,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-17,1999,0,7,1,1,0,0,25,1999 Winter Tour,1999 Winter,Water in the Sky,,1,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-17,1999,0,8,4,1,0,0,5,1999 Winter Tour,1999 Winter,Twist,,1,Hampton Coliseum,Hampton,VA,USA,
-1999-12-17,1999,0,9,1,2,0,0,6,1999 Winter Tour,1999 Winter,Birds of a Feather,BOAF,1,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-17,1999,0,10,2,2,0,0,3,1999 Winter Tour,1999 Winter,The Moma Dance,Moma,1,Hampton Coliseum,Hampton,VA,USA,>
-1999-12-17,1999,0,11,2,2,0,0,13,1999 Winter Tour,1999 Winter,Jam,,0,Hampton Coliseum,Hampton,VA,USA,>
-1999-12-17,1999,0,12,1,2,0,0,4,1999 Winter Tour,1999 Winter,Bug,,0,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-17,1999,0,13,1,2,0,0,8,1999 Winter Tour,1999 Winter,Jennifer Dances,,1,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-17,1999,0,14,1,2,0,0,10,1999 Winter Tour,1999 Winter,Split Open and Melt,SOAMelt,1,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-17,1999,0,15,5,2,0,0,9,1999 Winter Tour,1999 Winter,Character Zero,,1,Hampton Coliseum,Hampton,VA,USA,
-1999-12-17,1999,0,16,1,e,0,0,62,1999 Winter Tour,1999 Winter,The Old Home Place,,0,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-17,1999,0,17,2,e,0,0,4,1999 Winter Tour,1999 Winter,The Squirming Coil,Coil,1,Hampton Coliseum,Hampton,VA,USA,>
-1999-12-17,1999,0,18,6,e,0,0,5,1999 Winter Tour,1999 Winter,Loving Cup,,0,Hampton Coliseum,Hampton,VA,USA,
+1999-09-12,1999,0,1,1,1,0,0,1,1999 Fall Tour,1999 Fall,First Tube,,0,Portland Meadows,Portland,OR,USA,","
+1999-09-12,1999,0,2,1,1,0,0,4,1999 Fall Tour,1999 Fall,Poor Heart,,1,Portland Meadows,Portland,OR,USA,","
+1999-09-12,1999,0,3,1,1,0,0,3,1999 Fall Tour,1999 Fall,Mozambique,,0,Portland Meadows,Portland,OR,USA,","
+1999-09-12,1999,0,4,1,1,0,0,8,1999 Fall Tour,1999 Fall,Bathtub Gin,Gin,1,Portland Meadows,Portland,OR,USA,","
+1999-09-12,1999,0,5,1,1,0,0,5,1999 Fall Tour,1999 Fall,Back on the Train,BOTT,0,Portland Meadows,Portland,OR,USA,","
+1999-09-12,1999,0,6,1,1,0,0,23,1999 Fall Tour,1999 Fall,My Mind's Got a Mind of its Own,MMGAMOIO,0,Portland Meadows,Portland,OR,USA,","
+1999-09-12,1999,0,7,1,1,0,0,29,1999 Fall Tour,1999 Fall,Frankie Says,,1,Portland Meadows,Portland,OR,USA,","
+1999-09-12,1999,0,8,1,1,0,0,3,1999 Fall Tour,1999 Fall,Birds of a Feather,BOAF,1,Portland Meadows,Portland,OR,USA,","
+1999-09-12,1999,0,9,1,1,0,0,18,1999 Fall Tour,1999 Fall,Lawn Boy,,1,Portland Meadows,Portland,OR,USA,","
+1999-09-12,1999,0,10,4,1,0,0,3,1999 Fall Tour,1999 Fall,Possum,,1,Portland Meadows,Portland,OR,USA,
+1999-09-12,1999,0,11,2,2,0,0,3,1999 Fall Tour,1999 Fall,Ghost,,1,Portland Meadows,Portland,OR,USA,>
+1999-09-12,1999,0,12,2,2,0,0,6,1999 Fall Tour,1999 Fall,Runaway Jim,,1,Portland Meadows,Portland,OR,USA,>
+1999-09-12,1999,0,13,1,2,0,0,4,1999 Fall Tour,1999 Fall,Roggae,,1,Portland Meadows,Portland,OR,USA,","
+1999-09-12,1999,0,14,2,2,0,0,5,1999 Fall Tour,1999 Fall,Also Sprach Zarathustra,2001,0,Portland Meadows,Portland,OR,USA,>
+1999-09-12,1999,0,15,5,2,0,0,2,1999 Fall Tour,1999 Fall,You Enjoy Myself,YEM,1,Portland Meadows,Portland,OR,USA,
+1999-09-12,1999,0,16,6,e,0,0,7,1999 Fall Tour,1999 Fall,Theme from the Bottom,Theme,1,Portland Meadows,Portland,OR,USA,
+1999-09-24,1999,0,1,2,1,0,0,2,1999 Fall Tour,1999 Fall,First Tube,,0,South Park Meadows,Austin,TX,USA,>
+1999-09-24,1999,0,2,1,1,0,0,8,1999 Fall Tour,1999 Fall,Punch You in the Eye,PYITE,1,South Park Meadows,Austin,TX,USA,","
+1999-09-24,1999,0,3,1,1,0,0,3,1999 Fall Tour,1999 Fall,Farmhouse,,1,South Park Meadows,Austin,TX,USA,","
+1999-09-24,1999,0,4,1,1,0,0,5,1999 Fall Tour,1999 Fall,Water in the Sky,,1,South Park Meadows,Austin,TX,USA,","
+1999-09-24,1999,0,5,1,1,0,0,5,1999 Fall Tour,1999 Fall,The Moma Dance,Moma,1,South Park Meadows,Austin,TX,USA,","
+1999-09-24,1999,0,6,1,1,0,0,2,1999 Fall Tour,1999 Fall,Down with Disease,DwD,1,South Park Meadows,Austin,TX,USA,","
+1999-09-24,1999,0,7,1,1,0,0,4,1999 Fall Tour,1999 Fall,Roggae,,1,South Park Meadows,Austin,TX,USA,","
+1999-09-24,1999,0,8,1,1,0,0,2,1999 Fall Tour,1999 Fall,Back on the Train,BOTT,0,South Park Meadows,Austin,TX,USA,","
+1999-09-24,1999,0,9,1,1,0,0,3,1999 Fall Tour,1999 Fall,Guyute,,1,South Park Meadows,Austin,TX,USA,","
+1999-09-24,1999,0,10,4,1,0,0,2,1999 Fall Tour,1999 Fall,Loving Cup,,0,South Park Meadows,Austin,TX,USA,
+1999-09-24,1999,0,11,2,2,0,0,5,1999 Fall Tour,1999 Fall,Peaches en Regalia,Peaches,0,South Park Meadows,Austin,TX,USA,>
+1999-09-24,1999,0,12,1,2,0,0,7,1999 Fall Tour,1999 Fall,Possum,,1,South Park Meadows,Austin,TX,USA,","
+1999-09-24,1999,0,13,3,2,0,0,4,1999 Fall Tour,1999 Fall,Wolfman's Brother,Wolfman's,1,South Park Meadows,Austin,TX,USA,->
+1999-09-24,1999,0,14,1,2,0,0,12,1999 Fall Tour,1999 Fall,The Lizards,Lizards,1,South Park Meadows,Austin,TX,USA,","
+1999-09-24,1999,0,15,3,2,0,0,1,1999 Fall Tour,1999 Fall,Sand,,0,South Park Meadows,Austin,TX,USA,->
+1999-09-24,1999,0,16,5,2,0,0,6,1999 Fall Tour,1999 Fall,Misty Mountain Hop,,0,South Park Meadows,Austin,TX,USA,
+1999-09-24,1999,0,17,2,e,0,0,4,1999 Fall Tour,1999 Fall,Boogie On Reggae Woman,Boogie On,0,South Park Meadows,Austin,TX,USA,>
+1999-09-24,1999,0,18,6,e,0,0,1,1999 Fall Tour,1999 Fall,Chalk Dust Torture,CDT,1,South Park Meadows,Austin,TX,USA,

@@ -1,22 +1,21 @@
 showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,tourwhen,song,nickname,is_original,venue,city,state,country,trans_mark
-2016-10-28,2016,0,1,1,1,0,0,8,2016 Fall Tour,2016 Fall,Martian Monster,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2016-10-28,2016,0,2,1,1,0,0,1,2016 Fall Tour,2016 Fall,No Men In No Man's Land,NMINML,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2016-10-28,2016,0,3,1,1,0,0,182,2016 Fall Tour,2016 Fall,Dogs Stole Things,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2016-10-28,2016,0,4,1,1,0,0,227,2016 Fall Tour,2016 Fall,Beauty of My Dreams,,0,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2016-10-28,2016,0,5,1,1,0,0,22,2016 Fall Tour,2016 Fall,Destiny Unbound,Destiny,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2016-10-28,2016,0,6,1,1,0,0,5,2016 Fall Tour,2016 Fall,Limb By Limb,LxL,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2016-10-28,2016,0,7,1,1,0,0,9,2016 Fall Tour,2016 Fall,Home,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2016-10-28,2016,0,8,1,1,0,0,19,2016 Fall Tour,2016 Fall,When the Circus Comes,Circus,0,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2016-10-28,2016,0,9,2,1,0,0,7,2016 Fall Tour,2016 Fall,Steam,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
-2016-10-28,2016,0,10,1,1,0,0,7,2016 Fall Tour,2016 Fall,The Wedge,Wedge,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2016-10-28,2016,0,11,1,1,0,0,5,2016 Fall Tour,2016 Fall,Cavern,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2016-10-28,2016,0,12,4,1,0,0,5,2016 Fall Tour,2016 Fall,Walls of the Cave,WotC,1,MGM Grand Garden Arena,Las Vegas,NV,USA,
-2016-10-28,2016,0,13,1,2,0,0,283,2016 Fall Tour,2016 Fall,Crimes of the Mind,,0,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2016-10-28,2016,0,14,2,2,0,0,4,2016 Fall Tour,2016 Fall,Golden Age,,0,MGM Grand Garden Arena,Las Vegas,NV,USA,>
-2016-10-28,2016,0,15,2,2,0,0,3,2016 Fall Tour,2016 Fall,Simple,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
-2016-10-28,2016,0,16,2,2,0,0,9,2016 Fall Tour,2016 Fall,Light,,0,MGM Grand Garden Arena,Las Vegas,NV,USA,>
-2016-10-28,2016,0,17,2,2,0,0,9,2016 Fall Tour,2016 Fall,Twenty Years Later,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
-2016-10-28,2016,0,18,1,2,0,0,3,2016 Fall Tour,2016 Fall,Blaze On,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2016-10-28,2016,0,19,5,2,0,0,11,2016 Fall Tour,2016 Fall,The Squirming Coil,Coil,1,MGM Grand Garden Arena,Las Vegas,NV,USA,
-2016-10-28,2016,0,20,1,e,0,0,6,2016 Fall Tour,2016 Fall,Bouncing Around the Room,Bouncin',1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2016-10-28,2016,0,21,6,e,0,0,22,2016 Fall Tour,2016 Fall,Bold As Love,,0,MGM Grand Garden Arena,Las Vegas,NV,USA,
+2016-10-16,2016,0,1,2,1,0,0,8,2016 Fall Tour,2016 Fall,Kill Devil Falls,KDF,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,>
+2016-10-16,2016,0,2,2,1,0,0,3,2016 Fall Tour,2016 Fall,The Moma Dance,Moma,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,>
+2016-10-16,2016,0,3,1,1,0,0,9,2016 Fall Tour,2016 Fall,Back on the Train,BOTT,0,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,4,1,1,0,0,5,2016 Fall Tour,2016 Fall,Undermind,,0,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,5,1,1,0,0,23,2016 Fall Tour,2016 Fall,Nellie Kane,,0,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,6,1,1,0,0,5,2016 Fall Tour,2016 Fall,Stash,,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,7,1,1,0,0,2,2016 Fall Tour,2016 Fall,Petrichor,,0,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,8,2,1,0,0,3,2016 Fall Tour,2016 Fall,Mike's Song,Mike's,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,>
+2016-10-16,2016,0,9,1,1,0,0,8,2016 Fall Tour,2016 Fall,Bouncing Around the Room,Bouncin',1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,10,4,1,0,0,3,2016 Fall Tour,2016 Fall,Weekapaug Groove,Weekapaug,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,
+2016-10-16,2016,0,11,2,2,0,0,3,2016 Fall Tour,2016 Fall,Crosseyed and Painless,C&amp;P,0,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,>
+2016-10-16,2016,0,12,2,2,0,0,3,2016 Fall Tour,2016 Fall,Steam,,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,>
+2016-10-16,2016,0,13,2,2,0,0,3,2016 Fall Tour,2016 Fall,Piper,,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,>
+2016-10-16,2016,0,14,1,2,0,0,3,2016 Fall Tour,2016 Fall,Wingsuit,,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,15,2,2,0,0,11,2016 Fall Tour,2016 Fall,Sparkle,,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,>
+2016-10-16,2016,0,16,1,2,0,0,5,2016 Fall Tour,2016 Fall,The Wedge,Wedge,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,17,2,2,0,0,10,2016 Fall Tour,2016 Fall,Wading in the Velvet Sea,Velvet Sea,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,>
+2016-10-16,2016,0,18,5,2,0,0,5,2016 Fall Tour,2016 Fall,Run Like an Antelope,Antelope,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,
+2016-10-16,2016,0,19,1,e,0,0,15,2016 Fall Tour,2016 Fall,The Ballad of Curtis Loew,Curtis Loew,0,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,20,6,e,0,0,3,2016 Fall Tour,2016 Fall,Character Zero,,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,

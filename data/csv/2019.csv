@@ -1,22 +1,26 @@
 showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,tourwhen,song,nickname,is_original,venue,city,state,country,trans_mark
-2019-06-23,2019,0,1,2,1,0,0,5,2019 Summer Tour,2019 Summer,Carini,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,2,2,1,0,0,66,2019 Summer Tour,2019 Summer,My Soul,,0,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,3,1,1,0,0,27,2019 Summer Tour,2019 Summer,Rift,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-23,2019,0,4,1,1,0,0,28,2019 Summer Tour,2019 Summer,Gumbo,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-23,2019,0,5,2,1,0,0,47,2019 Summer Tour,2019 Summer,It's Ice,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,6,1,1,0,0,40,2019 Summer Tour,2019 Summer,Winterqueen,,0,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-23,2019,0,7,1,1,0,0,66,2019 Summer Tour,2019 Summer,Yarmouth Road,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-23,2019,0,8,1,1,0,0,10,2019 Summer Tour,2019 Summer,Shade,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-23,2019,0,9,1,1,0,0,1830,2019 Summer Tour,2019 Summer,Halfway Home,,0,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-23,2019,0,10,2,1,0,0,4,2019 Summer Tour,2019 Summer,The Wedge,Wedge,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,11,4,1,0,0,7,2019 Summer Tour,2019 Summer,Run Like an Antelope,Antelope,1,Merriweather Post Pavilion,Columbia,MD,USA,
-2019-06-23,2019,0,12,2,2,0,0,13,2019 Summer Tour,2019 Summer,Crosseyed and Painless,C&amp;P,0,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,13,2,2,0,0,2,2019 Summer Tour,2019 Summer,Everything's Right,,0,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,14,3,2,0,0,4,2019 Summer Tour,2019 Summer,Ruby Waves,,0,Merriweather Post Pavilion,Columbia,MD,USA,->
-2019-06-23,2019,0,15,2,2,0,0,4,2019 Summer Tour,2019 Summer,Twist,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,16,2,2,0,0,6,2019 Summer Tour,2019 Summer,Also Sprach Zarathustra,2001,0,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,17,5,2,0,0,4,2019 Summer Tour,2019 Summer,Blaze On,,1,Merriweather Post Pavilion,Columbia,MD,USA,
-2019-06-23,2019,0,18,1,e,0,0,15,2019 Summer Tour,2019 Summer,Maze,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-23,2019,0,19,2,e,0,0,6,2019 Summer Tour,2019 Summer,Waste,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,20,2,e,0,0,10,2019 Summer Tour,2019 Summer,Sanity,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,21,6,e,0,0,5,2019 Summer Tour,2019 Summer,Wilson,,1,Merriweather Post Pavilion,Columbia,MD,USA,
+2019-12-03,2019,0,1,1,1,0,0,417,2019 Fall Tour,2019 Fall,Hello My Baby,,0,Met Philadelphia,Philadelphia,PA,USA,","
+2019-12-03,2019,0,2,2,1,0,0,0,2019 Fall Tour,2019 Fall,Tweezer,,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,3,2,1,0,0,6,2019 Fall Tour,2019 Fall,Free,,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,4,2,1,0,0,5,2019 Fall Tour,2019 Fall,The Moma Dance,Moma,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,5,3,1,0,0,0,2019 Fall Tour,2019 Fall,Tweezer,,1,Met Philadelphia,Philadelphia,PA,USA,->
+2019-12-03,2019,0,6,1,1,0,0,5,2019 Fall Tour,2019 Fall,Blaze On,,1,Met Philadelphia,Philadelphia,PA,USA,","
+2019-12-03,2019,0,7,1,1,0,0,186,2019 Fall Tour,2019 Fall,Jesus Just Left Chicago,JJLC,0,Met Philadelphia,Philadelphia,PA,USA,","
+2019-12-03,2019,0,8,2,1,0,0,18,2019 Fall Tour,2019 Fall,Kill Devil Falls,KDF,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,9,3,1,0,0,0,2019 Fall Tour,2019 Fall,Tweezer,,1,Met Philadelphia,Philadelphia,PA,USA,->
+2019-12-03,2019,0,10,1,1,0,0,8,2019 Fall Tour,2019 Fall,Ya Mar,,0,Met Philadelphia,Philadelphia,PA,USA,","
+2019-12-03,2019,0,11,4,1,0,0,5,2019 Fall Tour,2019 Fall,Drift While You're Sleeping,,0,Met Philadelphia,Philadelphia,PA,USA,
+2019-12-03,2019,0,12,2,2,0,0,4,2019 Fall Tour,2019 Fall,Chalk Dust Torture,CDT,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,13,2,2,0,0,3,2019 Fall Tour,2019 Fall,Tweezer,,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,14,2,2,0,0,5,2019 Fall Tour,2019 Fall,Mike's Song,Mike's,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,15,1,2,0,0,4,2019 Fall Tour,2019 Fall,Sparkle,,1,Met Philadelphia,Philadelphia,PA,USA,","
+2019-12-03,2019,0,16,2,2,0,0,20,2019 Fall Tour,2019 Fall,Ass Handed,,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,17,1,2,0,0,5,2019 Fall Tour,2019 Fall,Weekapaug Groove,Weekapaug,1,Met Philadelphia,Philadelphia,PA,USA,","
+2019-12-03,2019,0,18,2,2,0,0,20,2019 Fall Tour,2019 Fall,Miss You,,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,19,2,2,0,0,20,2019 Fall Tour,2019 Fall,Waves,,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,20,2,2,0,0,6,2019 Fall Tour,2019 Fall,Twist,,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,21,2,2,0,0,43,2019 Fall Tour,2019 Fall,A Day in the Life,ADITL,0,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,22,2,2,0,0,4,2019 Fall Tour,2019 Fall,Also Sprach Zarathustra,2001,0,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,23,5,2,0,0,7,2019 Fall Tour,2019 Fall,More,,1,Met Philadelphia,Philadelphia,PA,USA,
+2019-12-03,2019,0,24,2,e,0,0,3,2019 Fall Tour,2019 Fall,Waste,,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,25,6,e,0,0,3,2019 Fall Tour,2019 Fall,Tweezer Reprise,Tweeprise,1,Met Philadelphia,Philadelphia,PA,USA,

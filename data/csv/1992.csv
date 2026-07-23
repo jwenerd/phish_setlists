@@ -1,8 +1,60 @@
 showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,tourwhen,song,nickname,is_original,venue,city,state,country,trans_mark
-1992-07-26,1992,0,1,1,1,0,0,7,1992 Summer U.S. Tour,1992 Summer,Chalk Dust Torture,CDT,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
-1992-07-26,1992,0,2,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,It's Ice,,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
-1992-07-26,1992,0,3,1,1,0,0,9,1992 Summer U.S. Tour,1992 Summer,Divided Sky,Divided,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
-1992-07-26,1992,0,4,1,1,0,0,8,1992 Summer U.S. Tour,1992 Summer,Weigh,,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
-1992-07-26,1992,0,5,1,1,0,0,9,1992 Summer U.S. Tour,1992 Summer,Split Open and Melt,SOAMelt,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
-1992-07-26,1992,0,6,1,1,0,0,9,1992 Summer U.S. Tour,1992 Summer,The Lizards,Lizards,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
-1992-07-26,1992,0,7,6,1,0,0,1,1992 Summer U.S. Tour,1992 Summer,Llama,,1,Big Birch Concert Pavilion,Patterson,NY,USA,
+1992-08-24,1992,0,1,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Buried Alive,,1,Gerald Ford Amphitheater,Vail,CO,USA,","
+1992-08-24,1992,0,2,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Poor Heart,,1,Gerald Ford Amphitheater,Vail,CO,USA,","
+1992-08-24,1992,0,3,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,All Things Reconsidered,ATR,1,Gerald Ford Amphitheater,Vail,CO,USA,","
+1992-08-24,1992,0,4,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Tweezer,,1,Gerald Ford Amphitheater,Vail,CO,USA,","
+1992-08-24,1992,0,5,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,The Landlady,Landlady,1,Gerald Ford Amphitheater,Vail,CO,USA,","
+1992-08-24,1992,0,6,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Reba,,1,Gerald Ford Amphitheater,Vail,CO,USA,","
+1992-08-24,1992,0,7,6,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,You Enjoy Myself,YEM,1,Gerald Ford Amphitheater,Vail,CO,USA,
+1992-11-20,1992,0,1,1,1,0,0,1,1992 Fall Tour,1992 Fall,Axilla,,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,2,1,1,0,0,8,1992 Fall Tour,1992 Fall,All Things Reconsidered,ATR,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,3,2,1,0,0,12,1992 Fall Tour,1992 Fall,Suzy Greenberg,Suzy,1,Palace Theatre,Albany,NY,USA,>
+1992-11-20,1992,0,4,1,1,0,0,2,1992 Fall Tour,1992 Fall,Rift,,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,5,1,1,0,0,31,1992 Fall Tour,1992 Fall,The Sloth,Sloth,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,6,1,1,0,0,2,1992 Fall Tour,1992 Fall,Reba,,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,7,2,1,0,0,6,1992 Fall Tour,1992 Fall,Sparkle,,1,Palace Theatre,Albany,NY,USA,>
+1992-11-20,1992,0,8,1,1,0,0,2,1992 Fall Tour,1992 Fall,Stash,,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,9,1,1,0,0,22,1992 Fall Tour,1992 Fall,The Lizards,Lizards,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,10,1,1,0,0,2,1992 Fall Tour,1992 Fall,Memories,,0,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,11,2,1,0,0,10,1992 Fall Tour,1992 Fall,David Bowie,Bowie,1,Palace Theatre,Albany,NY,USA,>
+1992-11-20,1992,0,12,1,1,0,0,0,1992 Fall Tour,1992 Fall,I Walk the Line,,0,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,13,4,1,0,0,0,1992 Fall Tour,1992 Fall,David Bowie,Bowie,1,Palace Theatre,Albany,NY,USA,
+1992-11-20,1992,0,14,1,2,0,0,4,1992 Fall Tour,1992 Fall,Chalk Dust Torture,CDT,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,15,1,2,0,0,30,1992 Fall Tour,1992 Fall,Fluffhead,,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,16,1,2,0,0,66,1992 Fall Tour,1992 Fall,Tube,,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,17,1,2,0,0,1,1992 Fall Tour,1992 Fall,You Enjoy Myself,YEM,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,18,1,2,0,0,1,1992 Fall Tour,1992 Fall,Fast Enough for You,FEFY,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,19,1,2,0,0,30,1992 Fall Tour,1992 Fall,Dinner and a Movie,,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,20,1,2,0,0,30,1992 Fall Tour,1992 Fall,Harry Hood,Hood,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,21,2,2,0,0,1,1992 Fall Tour,1992 Fall,Hold Your Head Up,HYHU,0,Palace Theatre,Albany,NY,USA,>
+1992-11-20,1992,0,22,1,2,0,0,12,1992 Fall Tour,1992 Fall,Terrapin,,0,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,23,1,2,0,0,1,1992 Fall Tour,1992 Fall,Lengthwise,,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,24,5,2,0,0,118,1992 Fall Tour,1992 Fall,Self,,0,Palace Theatre,Albany,NY,USA,
+1992-11-20,1992,0,25,1,e,0,0,2,1992 Fall Tour,1992 Fall,Sweet Adeline,,0,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,26,6,e,0,0,18,1992 Fall Tour,1992 Fall,Good Times Bad Times,GTBT,0,Palace Theatre,Albany,NY,USA,
+1992-12-11,1992,0,1,1,1,2,0,3,1992 Fall Tour,1992 Fall,Runaway Jim,,1,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,2,2,1,2,0,2,1992 Fall Tour,1992 Fall,It's Ice,,1,Michigan Theater,Ann Arbor,MI,USA,>
+1992-12-11,1992,0,3,1,1,2,0,2,1992 Fall Tour,1992 Fall,Uncle Pen,,0,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,4,1,1,2,0,2,1992 Fall Tour,1992 Fall,Stash,,1,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,5,1,1,2,0,2,1992 Fall Tour,1992 Fall,The Lizards,Lizards,1,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,6,1,1,2,0,3,1992 Fall Tour,1992 Fall,Chalk Dust Torture,CDT,1,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,7,1,1,2,0,2,1992 Fall Tour,1992 Fall,Guelah Papyrus,Guelah,1,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,8,2,1,2,0,2,1992 Fall Tour,1992 Fall,Sparkle,,1,Michigan Theater,Ann Arbor,MI,USA,>
+1992-12-11,1992,0,9,1,1,2,0,3,1992 Fall Tour,1992 Fall,"My Friend, My Friend",My Friend,1,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,10,1,1,2,0,5,1992 Fall Tour,1992 Fall,Memories,,0,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,11,4,1,2,0,3,1992 Fall Tour,1992 Fall,David Bowie,Bowie,1,Michigan Theater,Ann Arbor,MI,USA,
+1992-12-11,1992,0,12,2,2,2,0,9,1992 Fall Tour,1992 Fall,Dinner and a Movie,,1,Michigan Theater,Ann Arbor,MI,USA,>
+1992-12-11,1992,0,13,2,2,2,0,2,1992 Fall Tour,1992 Fall,Mike's Song,Mike's,1,Michigan Theater,Ann Arbor,MI,USA,>
+1992-12-11,1992,0,14,3,2,2,0,2,1992 Fall Tour,1992 Fall,I Am Hydrogen,Hydrogen,1,Michigan Theater,Ann Arbor,MI,USA,->
+1992-12-11,1992,0,15,3,2,2,0,3,1992 Fall Tour,1992 Fall,The Vibration of Life,Vibration of Life,1,Michigan Theater,Ann Arbor,MI,USA,->
+1992-12-11,1992,0,16,2,2,2,0,0,1992 Fall Tour,1992 Fall,I Am Hydrogen,Hydrogen,1,Michigan Theater,Ann Arbor,MI,USA,>
+1992-12-11,1992,0,17,1,2,2,0,2,1992 Fall Tour,1992 Fall,Weekapaug Groove,Weekapaug,1,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,18,2,2,2,0,6,1992 Fall Tour,1992 Fall,Esther,,1,Michigan Theater,Ann Arbor,MI,USA,>
+1992-12-11,1992,0,19,1,2,2,0,3,1992 Fall Tour,1992 Fall,Axilla,,1,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,20,1,2,2,0,2,1992 Fall Tour,1992 Fall,Bouncing Around the Room,Bouncin',1,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,21,2,2,2,0,4,1992 Fall Tour,1992 Fall,Paul and Silas,,0,Michigan Theater,Ann Arbor,MI,USA,>
+1992-12-11,1992,0,22,1,2,2,0,1,1992 Fall Tour,1992 Fall,Big Ball Jam,BBJ,1,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,23,1,2,2,0,6,1992 Fall Tour,1992 Fall,Faht,,1,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,24,5,2,2,0,3,1992 Fall Tour,1992 Fall,Possum,,1,Michigan Theater,Ann Arbor,MI,USA,
+1992-12-11,1992,0,25,1,e,2,0,11,1992 Fall Tour,1992 Fall,Contact,,1,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,26,6,e,2,0,5,1992 Fall Tour,1992 Fall,Good Times Bad Times,GTBT,0,Michigan Theater,Ann Arbor,MI,USA,

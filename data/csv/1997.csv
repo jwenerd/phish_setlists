@@ -1,18 +1,57 @@
 showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,tourwhen,song,nickname,is_original,venue,city,state,country,trans_mark
-1997-12-09,1997,0,1,2,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Mike's Song,Mike's,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,>
-1997-12-09,1997,0,2,1,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Chalk Dust Torture,CDT,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,","
-1997-12-09,1997,0,3,1,1,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,My Soul,,0,"Bryce Jordan Center, Penn State University",State College,PA,USA,","
-1997-12-09,1997,0,4,2,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Stash,,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,>
-1997-12-09,1997,0,5,2,1,0,0,11,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,I Am Hydrogen,Hydrogen,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,>
-1997-12-09,1997,0,6,1,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Weekapaug Groove,Weekapaug,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,","
-1997-12-09,1997,0,7,1,1,0,0,12,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Dogs Stole Things,,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,","
-1997-12-09,1997,0,8,1,1,0,0,12,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Beauty of My Dreams,,0,"Bryce Jordan Center, Penn State University",State College,PA,USA,","
-1997-12-09,1997,0,9,2,1,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Horn,,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,>
-1997-12-09,1997,0,10,4,1,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Loving Cup,,0,"Bryce Jordan Center, Penn State University",State College,PA,USA,
-1997-12-09,1997,0,11,2,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Julius,,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,>
-1997-12-09,1997,0,12,3,2,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Simple,,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,->
-1997-12-09,1997,0,13,2,2,0,0,0,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Timber (Jerry the Mule),Timber Ho,0,"Bryce Jordan Center, Penn State University",State College,PA,USA,>
-1997-12-09,1997,0,14,1,2,0,0,19,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Contact,,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,","
-1997-12-09,1997,0,15,2,2,0,0,59,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Axilla,,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,>
-1997-12-09,1997,0,16,5,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Harry Hood,Hood,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,
-1997-12-09,1997,0,17,6,e,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Fire,,0,"Bryce Jordan Center, Penn State University",State College,PA,USA,
+1997-03-01,1997,0,1,2,1,0,0,223,1997 Winter European Tour,1997 Winter,Cities,,0,Markthalle,Hamburg,Hamburg,Germany,>
+1997-03-01,1997,0,2,1,1,0,0,6,1997 Winter European Tour,1997 Winter,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Markthalle,Hamburg,Hamburg,Germany,","
+1997-03-01,1997,0,3,1,1,0,0,2,1997 Winter European Tour,1997 Winter,Down with Disease,DwD,1,Markthalle,Hamburg,Hamburg,Germany,","
+1997-03-01,1997,0,4,1,1,0,0,36,1997 Winter European Tour,1997 Winter,Weigh,,1,Markthalle,Hamburg,Hamburg,Germany,","
+1997-03-01,1997,0,5,1,1,0,0,3,1997 Winter European Tour,1997 Winter,Beauty of My Dreams,,0,Markthalle,Hamburg,Hamburg,Germany,","
+1997-03-01,1997,0,6,3,1,0,0,7,1997 Winter European Tour,1997 Winter,Wolfman's Brother,Wolfman's,1,Markthalle,Hamburg,Hamburg,Germany,->
+1997-03-01,1997,0,7,1,1,0,0,5,1997 Winter European Tour,1997 Winter,Jesus Just Left Chicago,JJLC,0,Markthalle,Hamburg,Hamburg,Germany,","
+1997-03-01,1997,0,8,1,1,0,0,5,1997 Winter European Tour,1997 Winter,Reba,,1,Markthalle,Hamburg,Hamburg,Germany,","
+1997-03-01,1997,0,9,1,1,0,0,5,1997 Winter European Tour,1997 Winter,Hello My Baby,,0,Markthalle,Hamburg,Hamburg,Germany,","
+1997-03-01,1997,0,10,4,1,0,0,13,1997 Winter European Tour,1997 Winter,Possum,,1,Markthalle,Hamburg,Hamburg,Germany,
+1997-03-01,1997,0,11,1,2,0,0,0,1997 Winter European Tour,1997 Winter,Carini,,1,Markthalle,Hamburg,Hamburg,Germany,","
+1997-03-01,1997,0,12,2,2,0,0,59,1997 Winter European Tour,1997 Winter,Dinner and a Movie,,1,Markthalle,Hamburg,Hamburg,Germany,>
+1997-03-01,1997,0,13,3,2,0,0,4,1997 Winter European Tour,1997 Winter,Mike's Song,Mike's,1,Markthalle,Hamburg,Hamburg,Germany,->
+1997-03-01,1997,0,14,2,2,0,0,18,1997 Winter European Tour,1997 Winter,Lawn Boy,,1,Markthalle,Hamburg,Hamburg,Germany,>
+1997-03-01,1997,0,15,1,2,0,0,16,1997 Winter European Tour,1997 Winter,Weekapaug Groove,Weekapaug,1,Markthalle,Hamburg,Hamburg,Germany,","
+1997-03-01,1997,0,16,2,2,0,0,16,1997 Winter European Tour,1997 Winter,The Mango Song,Mango,1,Markthalle,Hamburg,Hamburg,Germany,>
+1997-03-01,1997,0,17,1,2,0,0,4,1997 Winter European Tour,1997 Winter,Billy Breathes,,1,Markthalle,Hamburg,Hamburg,Germany,","
+1997-03-01,1997,0,18,5,2,0,0,1,1997 Winter European Tour,1997 Winter,Theme from the Bottom,Theme,1,Markthalle,Hamburg,Hamburg,Germany,
+1997-03-01,1997,0,19,1,e,0,0,1,1997 Winter European Tour,1997 Winter,Taste,,1,Markthalle,Hamburg,Hamburg,Germany,","
+1997-03-01,1997,0,20,6,e,0,0,3,1997 Winter European Tour,1997 Winter,Sweet Adeline,,0,Markthalle,Hamburg,Hamburg,Germany,
+1997-05-18,1997,1,1,6,1,0,0,0,Not Part of a Tour,No Tour,The Star-Spangled Banner,Star Spangled Banner,0,CoreStates Center,Philadelphia,PA,USA,
+1997-07-02,1997,0,1,2,1,0,0,15,1997 Summer European Tour,1997 Summer,Mike's Song,Mike's,1,Paradiso,Amsterdam,North Holland,Netherlands,>
+1997-07-02,1997,0,2,3,1,0,0,20,1997 Summer European Tour,1997 Summer,Simple,,1,Paradiso,Amsterdam,North Holland,Netherlands,->
+1997-07-02,1997,0,3,1,1,0,0,9,1997 Summer European Tour,1997 Summer,Maze,,1,Paradiso,Amsterdam,North Holland,Netherlands,","
+1997-07-02,1997,0,4,1,1,0,0,31,1997 Summer European Tour,1997 Summer,Strange Design,,1,Paradiso,Amsterdam,North Holland,Netherlands,","
+1997-07-02,1997,0,5,1,1,0,0,8,1997 Summer European Tour,1997 Summer,Ginseng Sullivan,Ginseng,0,Paradiso,Amsterdam,North Holland,Netherlands,","
+1997-07-02,1997,0,6,1,1,0,0,5,1997 Summer European Tour,1997 Summer,Vultures,,1,Paradiso,Amsterdam,North Holland,Netherlands,","
+1997-07-02,1997,0,7,2,1,0,0,6,1997 Summer European Tour,1997 Summer,Water in the Sky,,1,Paradiso,Amsterdam,North Holland,Netherlands,>
+1997-07-02,1997,0,8,4,1,0,0,15,1997 Summer European Tour,1997 Summer,Weekapaug Groove,Weekapaug,1,Paradiso,Amsterdam,North Holland,Netherlands,
+1997-07-02,1997,0,9,3,2,0,0,3,1997 Summer European Tour,1997 Summer,Stash,,1,Paradiso,Amsterdam,North Holland,Netherlands,->
+1997-07-02,1997,0,10,3,2,0,0,17,1997 Summer European Tour,1997 Summer,Llama,,1,Paradiso,Amsterdam,North Holland,Netherlands,->
+1997-07-02,1997,0,11,3,2,1,0,1123,1997 Summer European Tour,1997 Summer,Wormtown,,0,Paradiso,Amsterdam,North Holland,Netherlands,->
+1997-07-02,1997,0,12,5,2,0,0,4,1997 Summer European Tour,1997 Summer,Wading in the Velvet Sea,Velvet Sea,1,Paradiso,Amsterdam,North Holland,Netherlands,
+1997-07-02,1997,0,13,7,e,0,0,5,1997 Summer European Tour,1997 Summer,Free,,1,Paradiso,Amsterdam,North Holland,Netherlands,
+1997-07-02,1997,0,14,6,e2,0,0,8,1997 Summer European Tour,1997 Summer,David Bowie,Bowie,1,Paradiso,Amsterdam,North Holland,Netherlands,
+1997-12-13,1997,0,1,2,1,0,0,8,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Ya Mar,,0,Pepsi Arena,Albany,NY,USA,>
+1997-12-13,1997,0,2,2,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Axilla,,1,Pepsi Arena,Albany,NY,USA,>
+1997-12-13,1997,0,3,1,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Theme from the Bottom,Theme,1,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,4,1,1,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Ginseng Sullivan,Ginseng,0,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,5,1,1,0,0,10,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Strange Design,,1,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,6,1,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Sample in a Jar,Sample,1,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,7,1,1,0,0,21,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Vultures,,1,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,8,1,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Tube,,1,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,9,4,1,0,0,26,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Good Times Bad Times,GTBT,0,Pepsi Arena,Albany,NY,USA,
+1997-12-13,1997,0,10,2,2,0,0,9,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,NICU,,1,Pepsi Arena,Albany,NY,USA,>
+1997-12-13,1997,0,11,2,2,0,0,1,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Punch You in the Eye,PYITE,1,Pepsi Arena,Albany,NY,USA,>
+1997-12-13,1997,0,12,2,2,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Ghost,,1,Pepsi Arena,Albany,NY,USA,>
+1997-12-13,1997,0,13,3,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Mike's Song,Mike's,1,Pepsi Arena,Albany,NY,USA,->
+1997-12-13,1997,0,14,1,2,0,0,16,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Llama,,1,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,15,1,2,0,0,9,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,When the Circus Comes,Circus,0,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,16,3,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Weekapaug Groove,Weekapaug,1,Pepsi Arena,Albany,NY,USA,->
+1997-12-13,1997,0,17,3,2,0,0,60,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Catapult,,1,Pepsi Arena,Albany,NY,USA,->
+1997-12-13,1997,0,18,1,2,0,0,0,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Weekapaug Groove,Weekapaug,1,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,19,5,2,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Harry Hood,Hood,1,Pepsi Arena,Albany,NY,USA,
+1997-12-13,1997,0,20,1,e,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,My Soul,,0,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,21,6,e,0,0,9,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,The Squirming Coil,Coil,1,Pepsi Arena,Albany,NY,USA,

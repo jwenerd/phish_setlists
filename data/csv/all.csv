@@ -206,539 +206,714 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1986-05-24,1986,0,2,2,1,0,0,1,1986 Tour,1986,Halley's Comet,Halley's,1,Hunt's,Burlington,VT,USA,>
 1986-05-24,1986,0,3,2,1,0,0,1,1986 Tour,1986,Back Porch Boogie Blues,,0,Hunt's,Burlington,VT,USA,>
 1986-05-24,1986,0,4,6,1,0,0,0,1986 Tour,1986,Halley's Comet,Halley's,1,Hunt's,Burlington,VT,USA,
-1987-01-21,1987,0,1,4,1,0,0,7,1987 Tour,1987,Wilson,,1,Hunt's,Burlington,VT,USA,
-1987-01-21,1987,0,2,1,2,0,0,7,1987 Tour,1987,I Am Hydrogen,Hydrogen,1,Hunt's,Burlington,VT,USA,","
-1987-01-21,1987,0,3,1,2,0,0,1,1987 Tour,1987,Peaches en Regalia,Peaches,0,Hunt's,Burlington,VT,USA,","
-1987-01-21,1987,0,4,1,2,0,0,2,1987 Tour,1987,"Swing Low, Sweet Chariot",,0,Hunt's,Burlington,VT,USA,","
-1987-01-21,1987,0,5,1,2,0,0,1,1987 Tour,1987,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,Hunt's,Burlington,VT,USA,","
-1987-01-21,1987,0,6,1,2,0,0,2,1987 Tour,1987,Makisupa Policeman,Makisupa,1,Hunt's,Burlington,VT,USA,","
-1987-01-21,1987,0,7,2,2,0,0,2,1987 Tour,1987,Skin It Back,,0,Hunt's,Burlington,VT,USA,>
-1987-01-21,1987,0,8,1,2,0,0,1,1987 Tour,1987,Cities,,0,Hunt's,Burlington,VT,USA,","
-1987-01-21,1987,0,9,6,2,0,0,1,1987 Tour,1987,Fluffhead,,1,Hunt's,Burlington,VT,USA,
-1990-02-23,1990,0,1,2,1,0,0,6,1990 Tour,1990,Alumni Blues,Alumni,1,"Dining Center, Haverford College",Haverford,PA,USA,>
-1990-02-23,1990,0,2,2,1,0,0,6,1990 Tour,1990,Letter to Jimmy Page,LTJP,1,"Dining Center, Haverford College",Haverford,PA,USA,>
-1990-02-23,1990,0,3,1,1,0,0,0,1990 Tour,1990,Alumni Blues,Alumni,1,"Dining Center, Haverford College",Haverford,PA,USA,","
-1990-02-23,1990,0,4,2,1,0,0,0,1990 Tour,1990,You Enjoy Myself,YEM,1,"Dining Center, Haverford College",Haverford,PA,USA,>
-1990-02-23,1990,0,5,1,1,0,0,1,1990 Tour,1990,Possum,,1,"Dining Center, Haverford College",Haverford,PA,USA,","
-1990-02-23,1990,0,6,1,1,0,0,4,1990 Tour,1990,Foam,,1,"Dining Center, Haverford College",Haverford,PA,USA,","
-1990-02-23,1990,0,7,1,1,0,0,2,1990 Tour,1990,Carolina,,0,"Dining Center, Haverford College",Haverford,PA,USA,","
-1990-02-23,1990,0,8,1,1,0,0,5,1990 Tour,1990,Rocky Top,,0,"Dining Center, Haverford College",Haverford,PA,USA,","
-1990-02-23,1990,0,9,2,1,0,0,4,1990 Tour,1990,Dinner and a Movie,,1,"Dining Center, Haverford College",Haverford,PA,USA,>
-1990-02-23,1990,0,10,1,1,0,0,1,1990 Tour,1990,Ya Mar,,0,"Dining Center, Haverford College",Haverford,PA,USA,","
-1990-02-23,1990,0,11,1,1,0,0,6,1990 Tour,1990,Walk Away,,0,"Dining Center, Haverford College",Haverford,PA,USA,","
-1990-02-23,1990,0,12,2,1,0,0,0,1990 Tour,1990,Bouncing Around the Room,Bouncin',1,"Dining Center, Haverford College",Haverford,PA,USA,>
-1990-02-23,1990,0,13,4,1,0,0,3,1990 Tour,1990,Run Like an Antelope,Antelope,1,"Dining Center, Haverford College",Haverford,PA,USA,
-1990-02-23,1990,0,14,2,2,0,0,2,1990 Tour,1990,Golgi Apparatus,Golgi,1,"Dining Center, Haverford College",Haverford,PA,USA,>
-1990-02-23,1990,0,15,1,2,0,0,1,1990 Tour,1990,Reba,,1,"Dining Center, Haverford College",Haverford,PA,USA,","
-1990-02-23,1990,0,16,1,2,0,0,2,1990 Tour,1990,Bathtub Gin,Gin,1,"Dining Center, Haverford College",Haverford,PA,USA,","
-1990-02-23,1990,0,17,1,2,0,0,9,1990 Tour,1990,Jesus Just Left Chicago,JJLC,0,"Dining Center, Haverford College",Haverford,PA,USA,","
-1990-02-23,1990,0,18,2,2,0,0,16,1990 Tour,1990,Tela,,1,"Dining Center, Haverford College",Haverford,PA,USA,>
-1990-02-23,1990,0,19,2,2,0,0,1,1990 Tour,1990,The Oh Kee Pa Ceremony,Oh Kee Pa,1,"Dining Center, Haverford College",Haverford,PA,USA,>
-1990-02-23,1990,0,20,1,2,0,0,4,1990 Tour,1990,Suzy Greenberg,Suzy,1,"Dining Center, Haverford College",Haverford,PA,USA,","
-1990-02-23,1990,0,21,2,2,0,0,2,1990 Tour,1990,Mike's Song,Mike's,1,"Dining Center, Haverford College",Haverford,PA,USA,>
-1990-02-23,1990,0,22,2,2,0,0,2,1990 Tour,1990,I Am Hydrogen,Hydrogen,1,"Dining Center, Haverford College",Haverford,PA,USA,>
-1990-02-23,1990,0,23,1,2,0,0,2,1990 Tour,1990,Weekapaug Groove,Weekapaug,1,"Dining Center, Haverford College",Haverford,PA,USA,","
-1990-02-23,1990,0,24,5,2,0,0,4,1990 Tour,1990,Highway to Hell,,0,"Dining Center, Haverford College",Haverford,PA,USA,
-1990-02-23,1990,0,25,1,e,0,0,5,1990 Tour,1990,Contact,,1,"Dining Center, Haverford College",Haverford,PA,USA,","
-1990-02-23,1990,0,26,1,e,0,0,5,1990 Tour,1990,I Didn't Know,IDK,1,"Dining Center, Haverford College",Haverford,PA,USA,","
-1990-02-23,1990,0,27,6,e,0,0,7,1990 Tour,1990,Good Times Bad Times,GTBT,0,"Dining Center, Haverford College",Haverford,PA,USA,
-1990-04-29,1990,0,1,1,1,0,0,8,1990 Tour,1990,Carolina,,0,Woodbury Ski & Racquet Club,Woodbury,CT,USA,","
-1990-04-29,1990,0,2,1,1,0,0,0,1990 Tour,1990,Possum,,1,Woodbury Ski & Racquet Club,Woodbury,CT,USA,","
-1990-04-29,1990,0,3,1,1,0,0,3,1990 Tour,1990,Ya Mar,,0,Woodbury Ski & Racquet Club,Woodbury,CT,USA,","
-1990-04-29,1990,0,4,1,1,0,0,0,1990 Tour,1990,You Enjoy Myself,YEM,1,Woodbury Ski & Racquet Club,Woodbury,CT,USA,","
-1990-04-29,1990,0,5,2,1,0,0,1,1990 Tour,1990,Dinner and a Movie,,1,Woodbury Ski & Racquet Club,Woodbury,CT,USA,>
-1990-04-29,1990,0,6,1,1,0,0,0,1990 Tour,1990,Bouncing Around the Room,Bouncin',1,Woodbury Ski & Racquet Club,Woodbury,CT,USA,","
-1990-04-29,1990,0,7,1,1,0,0,1,1990 Tour,1990,Uncle Pen,,0,Woodbury Ski & Racquet Club,Woodbury,CT,USA,","
-1990-04-29,1990,0,8,1,1,0,0,3,1990 Tour,1990,Divided Sky,Divided,1,Woodbury Ski & Racquet Club,Woodbury,CT,USA,","
-1990-04-29,1990,0,9,2,1,0,0,5,1990 Tour,1990,Fluffhead,,1,Woodbury Ski & Racquet Club,Woodbury,CT,USA,>
-1990-04-29,1990,0,10,1,1,0,0,6,1990 Tour,1990,Walk Away,,0,Woodbury Ski & Racquet Club,Woodbury,CT,USA,","
-1990-04-29,1990,0,11,2,1,0,0,8,1990 Tour,1990,Love You,,0,Woodbury Ski & Racquet Club,Woodbury,CT,USA,>
-1990-04-29,1990,0,12,1,1,0,0,167,1990 Tour,1990,Hold Your Head Up,HYHU,0,Woodbury Ski & Racquet Club,Woodbury,CT,USA,","
-1990-04-29,1990,0,13,1,1,0,0,6,1990 Tour,1990,The Lizards,Lizards,1,Woodbury Ski & Racquet Club,Woodbury,CT,USA,","
-1990-04-29,1990,0,14,6,1,0,0,5,1990 Tour,1990,Fire,,0,Woodbury Ski & Racquet Club,Woodbury,CT,USA,
-1991-02-22,1991,0,1,1,1,0,0,4,1991 Winter/Spring Tour,1991 Winter,Chalk Dust Torture,CDT,1,Cat's Cradle,Chapel Hill,NC,USA,","
-1991-02-22,1991,0,2,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,The Squirming Coil,Coil,1,Cat's Cradle,Chapel Hill,NC,USA,","
-1991-02-22,1991,0,3,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Dinner and a Movie,,1,Cat's Cradle,Chapel Hill,NC,USA,>
-1991-02-22,1991,0,4,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,You Enjoy Myself,YEM,1,Cat's Cradle,Chapel Hill,NC,USA,","
-1991-02-22,1991,0,5,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Magilla,,1,Cat's Cradle,Chapel Hill,NC,USA,","
-1991-02-22,1991,0,6,2,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Cat's Cradle,Chapel Hill,NC,USA,>
-1991-02-22,1991,0,7,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Suzy Greenberg,Suzy,1,Cat's Cradle,Chapel Hill,NC,USA,>
-1991-02-22,1991,0,8,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Hold Your Head Up,HYHU,0,Cat's Cradle,Chapel Hill,NC,USA,>
-1991-02-22,1991,0,9,3,1,0,0,5,1991 Winter/Spring Tour,1991 Winter,Terrapin,,0,Cat's Cradle,Chapel Hill,NC,USA,->
-1991-02-22,1991,0,10,2,1,1,0,3,1991 Winter/Spring Tour,1991 Winter,Whole Lotta Love,,0,Cat's Cradle,Chapel Hill,NC,USA,>
-1991-02-22,1991,0,11,1,1,0,0,0,1991 Winter/Spring Tour,1991 Winter,Hold Your Head Up,HYHU,0,Cat's Cradle,Chapel Hill,NC,USA,","
-1991-02-22,1991,0,12,6,1,0,0,8,1991 Winter/Spring Tour,1991 Winter,Run Like an Antelope,Antelope,1,Cat's Cradle,Chapel Hill,NC,USA,
-1991-04-21,1991,0,1,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Golgi Apparatus,Golgi,1,SUNY Potsdam,Potsdam,NY,USA,","
-1991-04-21,1991,0,2,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Rocky Top,,0,SUNY Potsdam,Potsdam,NY,USA,>
-1991-04-21,1991,0,3,2,1,0,0,29,1991 Winter/Spring Tour,1991 Winter,Wilson,,1,SUNY Potsdam,Potsdam,NY,USA,>
-1991-04-21,1991,0,4,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Divided Sky,Divided,1,SUNY Potsdam,Potsdam,NY,USA,","
-1991-04-21,1991,0,5,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,Foam,,1,SUNY Potsdam,Potsdam,NY,USA,","
-1991-04-21,1991,0,6,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,My Sweet One,MSO,1,SUNY Potsdam,Potsdam,NY,USA,","
-1991-04-21,1991,0,7,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Oh Kee Pa Ceremony,Oh Kee Pa,1,SUNY Potsdam,Potsdam,NY,USA,>
-1991-04-21,1991,0,8,2,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,AC/DC Bag,Bag,1,SUNY Potsdam,Potsdam,NY,USA,>
-1991-04-21,1991,0,9,1,1,0,0,4,1991 Winter/Spring Tour,1991 Winter,Tela,,1,SUNY Potsdam,Potsdam,NY,USA,","
-1991-04-21,1991,0,10,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Mike's Song,Mike's,1,SUNY Potsdam,Potsdam,NY,USA,>
-1991-04-21,1991,0,11,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,I Am Hydrogen,Hydrogen,1,SUNY Potsdam,Potsdam,NY,USA,>
-1991-04-21,1991,0,12,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Weekapaug Groove,Weekapaug,1,SUNY Potsdam,Potsdam,NY,USA,","
-1991-04-21,1991,0,13,4,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Sweet Adeline,,0,SUNY Potsdam,Potsdam,NY,USA,
-1991-04-21,1991,0,14,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Possum,,1,SUNY Potsdam,Potsdam,NY,USA,","
-1991-04-21,1991,0,15,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Fee,,1,SUNY Potsdam,Potsdam,NY,USA,","
-1991-04-21,1991,0,16,1,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Landlady,Landlady,1,SUNY Potsdam,Potsdam,NY,USA,","
-1991-04-21,1991,0,17,2,2,0,0,5,1991 Winter/Spring Tour,1991 Winter,Colonel Forbin's Ascent,Forbin's,1,SUNY Potsdam,Potsdam,NY,USA,>
-1991-04-21,1991,0,18,2,2,0,0,5,1991 Winter/Spring Tour,1991 Winter,Fly Famous Mockingbird,Mockingbird,1,SUNY Potsdam,Potsdam,NY,USA,>
-1991-04-21,1991,0,19,1,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Llama,,1,SUNY Potsdam,Potsdam,NY,USA,","
-1991-04-21,1991,0,20,1,2,0,0,4,1991 Winter/Spring Tour,1991 Winter,Uncle Pen,,0,SUNY Potsdam,Potsdam,NY,USA,","
-1991-04-21,1991,0,21,1,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Harry Hood,Hood,1,SUNY Potsdam,Potsdam,NY,USA,","
-1991-04-21,1991,0,22,5,2,0,0,0,1991 Winter/Spring Tour,1991 Winter,Cavern,,1,SUNY Potsdam,Potsdam,NY,USA,
-1991-04-21,1991,0,23,2,e,0,0,2,1991 Winter/Spring Tour,1991 Winter,I Didn't Know,IDK,1,SUNY Potsdam,Potsdam,NY,USA,>
-1991-04-21,1991,0,24,6,e,0,0,4,1991 Winter/Spring Tour,1991 Winter,David Bowie,Bowie,1,SUNY Potsdam,Potsdam,NY,USA,
-1991-07-27,1991,0,1,1,1,0,0,2,1991 Giant Country Horns Summer Tour,1991 Summer,Llama,,1,Variety Playhouse,Atlanta,GA,USA,","
-1991-07-27,1991,0,2,1,1,0,0,1,1991 Giant Country Horns Summer Tour,1991 Summer,Foam,,1,Variety Playhouse,Atlanta,GA,USA,","
-1991-07-27,1991,0,3,2,1,0,0,4,1991 Giant Country Horns Summer Tour,1991 Summer,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Variety Playhouse,Atlanta,GA,USA,>
-1991-07-27,1991,0,4,1,1,0,0,1,1991 Giant Country Horns Summer Tour,1991 Summer,Suzy Greenberg,Suzy,1,Variety Playhouse,Atlanta,GA,USA,","
-1991-07-27,1991,0,5,1,1,0,0,0,1991 Giant Country Horns Summer Tour,1991 Summer,Cavern,,1,Variety Playhouse,Atlanta,GA,USA,","
-1991-07-27,1991,0,6,1,1,0,0,1,1991 Giant Country Horns Summer Tour,1991 Summer,Flat Fee,,1,Variety Playhouse,Atlanta,GA,USA,","
-1991-07-27,1991,0,7,1,1,0,0,2,1991 Giant Country Horns Summer Tour,1991 Summer,Poor Heart,,1,Variety Playhouse,Atlanta,GA,USA,","
-1991-07-27,1991,0,8,1,1,0,0,1,1991 Giant Country Horns Summer Tour,1991 Summer,Stash,,1,Variety Playhouse,Atlanta,GA,USA,","
-1991-07-27,1991,0,9,2,1,0,0,1,1991 Giant Country Horns Summer Tour,1991 Summer,The Man Who Stepped Into Yesterday,TMWSIY,1,Variety Playhouse,Atlanta,GA,USA,>
-1991-07-27,1991,0,10,2,1,0,0,1,1991 Giant Country Horns Summer Tour,1991 Summer,Avenu Malkenu,,0,Variety Playhouse,Atlanta,GA,USA,>
-1991-07-27,1991,0,11,1,1,0,0,0,1991 Giant Country Horns Summer Tour,1991 Summer,The Man Who Stepped Into Yesterday,TMWSIY,1,Variety Playhouse,Atlanta,GA,USA,","
-1991-07-27,1991,0,12,1,1,0,0,2,1991 Giant Country Horns Summer Tour,1991 Summer,Possum,,1,Variety Playhouse,Atlanta,GA,USA,","
-1991-07-27,1991,0,13,1,1,0,0,3,1991 Giant Country Horns Summer Tour,1991 Summer,I Didn't Know,IDK,1,Variety Playhouse,Atlanta,GA,USA,","
-1991-07-27,1991,0,14,1,1,0,0,1,1991 Giant Country Horns Summer Tour,1991 Summer,The Landlady,Landlady,1,Variety Playhouse,Atlanta,GA,USA,","
-1991-07-27,1991,0,15,2,1,0,0,2,1991 Giant Country Horns Summer Tour,1991 Summer,Mike's Song,Mike's,1,Variety Playhouse,Atlanta,GA,USA,>
-1991-07-27,1991,0,16,2,1,0,0,2,1991 Giant Country Horns Summer Tour,1991 Summer,I Am Hydrogen,Hydrogen,1,Variety Playhouse,Atlanta,GA,USA,>
-1991-07-27,1991,0,17,5,1,0,0,2,1991 Giant Country Horns Summer Tour,1991 Summer,Weekapaug Groove,Weekapaug,1,Variety Playhouse,Atlanta,GA,USA,
-1991-07-27,1991,0,18,7,e,0,0,2,1991 Giant Country Horns Summer Tour,1991 Summer,Touch Me,,0,Variety Playhouse,Atlanta,GA,USA,
-1991-07-27,1991,0,19,6,e2,0,0,3,1991 Giant Country Horns Summer Tour,1991 Summer,Contact,,1,Variety Playhouse,Atlanta,GA,USA,
-1992-07-26,1992,0,1,1,1,0,0,7,1992 Summer U.S. Tour,1992 Summer,Chalk Dust Torture,CDT,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
-1992-07-26,1992,0,2,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,It's Ice,,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
-1992-07-26,1992,0,3,1,1,0,0,9,1992 Summer U.S. Tour,1992 Summer,Divided Sky,Divided,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
-1992-07-26,1992,0,4,1,1,0,0,8,1992 Summer U.S. Tour,1992 Summer,Weigh,,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
-1992-07-26,1992,0,5,1,1,0,0,9,1992 Summer U.S. Tour,1992 Summer,Split Open and Melt,SOAMelt,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
-1992-07-26,1992,0,6,1,1,0,0,9,1992 Summer U.S. Tour,1992 Summer,The Lizards,Lizards,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
-1992-07-26,1992,0,7,6,1,0,0,1,1992 Summer U.S. Tour,1992 Summer,Llama,,1,Big Birch Concert Pavilion,Patterson,NY,USA,
-1993-07-28,1993,0,1,1,1,0,0,7,1993 Summer Tour,1993 Summer,All Things Reconsidered,ATR,1,Grady Cole Center,Charlotte,NC,USA,","
-1993-07-28,1993,0,2,1,1,0,0,4,1993 Summer Tour,1993 Summer,Runaway Jim,,1,Grady Cole Center,Charlotte,NC,USA,","
-1993-07-28,1993,0,3,1,1,0,0,5,1993 Summer Tour,1993 Summer,Ya Mar,,0,Grady Cole Center,Charlotte,NC,USA,","
-1993-07-28,1993,0,4,1,1,0,0,5,1993 Summer Tour,1993 Summer,Sample in a Jar,Sample,1,Grady Cole Center,Charlotte,NC,USA,","
-1993-07-28,1993,0,5,1,1,0,0,2,1993 Summer Tour,1993 Summer,Foam,,1,Grady Cole Center,Charlotte,NC,USA,","
-1993-07-28,1993,0,6,1,1,0,0,3,1993 Summer Tour,1993 Summer,Nellie Kane,,0,Grady Cole Center,Charlotte,NC,USA,","
-1993-07-28,1993,0,7,1,1,0,0,3,1993 Summer Tour,1993 Summer,Split Open and Melt,SOAMelt,1,Grady Cole Center,Charlotte,NC,USA,","
-1993-07-28,1993,0,8,2,1,0,0,2,1993 Summer Tour,1993 Summer,The Horse,Horse,1,Grady Cole Center,Charlotte,NC,USA,>
-1993-07-28,1993,0,9,1,1,0,0,2,1993 Summer Tour,1993 Summer,Silent in the Morning,Silent,1,Grady Cole Center,Charlotte,NC,USA,","
-1993-07-28,1993,0,10,2,1,0,0,4,1993 Summer Tour,1993 Summer,Poor Heart,,1,Grady Cole Center,Charlotte,NC,USA,>
-1993-07-28,1993,0,11,4,1,0,0,1,1993 Summer Tour,1993 Summer,Cavern,,1,Grady Cole Center,Charlotte,NC,USA,
-1993-07-28,1993,0,12,2,2,0,0,1,1993 Summer Tour,1993 Summer,Also Sprach Zarathustra,2001,0,Grady Cole Center,Charlotte,NC,USA,>
-1993-07-28,1993,0,13,2,2,0,0,18,1993 Summer Tour,1993 Summer,Axilla,,1,Grady Cole Center,Charlotte,NC,USA,>
-1993-07-28,1993,0,14,2,2,0,0,17,1993 Summer Tour,1993 Summer,My Sweet One,MSO,1,Grady Cole Center,Charlotte,NC,USA,>
-1993-07-28,1993,0,15,1,2,0,0,4,1993 Summer Tour,1993 Summer,Run Like an Antelope,Antelope,1,Grady Cole Center,Charlotte,NC,USA,","
-1993-07-28,1993,0,16,1,2,0,0,2,1993 Summer Tour,1993 Summer,The Lizards,Lizards,1,Grady Cole Center,Charlotte,NC,USA,","
-1993-07-28,1993,0,17,1,2,0,0,2,1993 Summer Tour,1993 Summer,Mound,,1,Grady Cole Center,Charlotte,NC,USA,","
-1993-07-28,1993,0,18,1,2,0,0,3,1993 Summer Tour,1993 Summer,"My Friend, My Friend",My Friend,1,Grady Cole Center,Charlotte,NC,USA,","
-1993-07-28,1993,0,19,1,2,0,0,8,1993 Summer Tour,1993 Summer,Harry Hood,Hood,1,Grady Cole Center,Charlotte,NC,USA,","
-1993-07-28,1993,0,20,2,2,0,0,14,1993 Summer Tour,1993 Summer,The Great Gig in the Sky,Great Gig in the Sky,0,Grady Cole Center,Charlotte,NC,USA,>
-1993-07-28,1993,0,21,1,2,0,0,1,1993 Summer Tour,1993 Summer,Hold Your Head Up,HYHU,0,Grady Cole Center,Charlotte,NC,USA,","
-1993-07-28,1993,0,22,5,2,0,0,4,1993 Summer Tour,1993 Summer,Chalk Dust Torture,CDT,1,Grady Cole Center,Charlotte,NC,USA,
-1993-07-28,1993,0,23,1,e,0,0,0,1993 Summer Tour,1993 Summer,Piano Duet,,1,Grady Cole Center,Charlotte,NC,USA,","
-1993-07-28,1993,0,24,6,e,0,0,799,1993 Summer Tour,1993 Summer,"Bill Bailey, Won't You Please Come Home?",,0,Grady Cole Center,Charlotte,NC,USA,
-1994-04-13,1994,1,1,1,1,0,0,0,Not Part of a Tour,No Tour,Sample in a Jar,Sample,1,WNEW Studios,New York,NY,USA,","
-1994-04-13,1994,0,1,2,1,0,0,7,1994 Spring Tour,1994 Spring,Buried Alive,,1,Beacon Theatre,New York,NY,USA,>
-1994-04-13,1994,1,2,1,1,0,0,0,Not Part of a Tour,No Tour,Down with Disease,DwD,1,WNEW Studios,New York,NY,USA,","
-1994-04-13,1994,0,2,1,1,0,0,1,1994 Spring Tour,1994 Spring,Poor Heart,,1,Beacon Theatre,New York,NY,USA,","
-1994-04-13,1994,1,3,6,1,0,0,0,Not Part of a Tour,No Tour,Rift,,1,WNEW Studios,New York,NY,USA,
-1994-04-13,1994,0,3,1,1,0,0,3,1994 Spring Tour,1994 Spring,Stash,,1,Beacon Theatre,New York,NY,USA,","
-1994-04-13,1994,0,4,1,1,0,0,5,1994 Spring Tour,1994 Spring,The Lizards,Lizards,1,Beacon Theatre,New York,NY,USA,","
-1994-04-13,1994,0,5,1,1,0,0,1,1994 Spring Tour,1994 Spring,Julius,,1,Beacon Theatre,New York,NY,USA,","
-1994-04-13,1994,0,6,1,1,0,0,2,1994 Spring Tour,1994 Spring,Ginseng Sullivan,Ginseng,0,Beacon Theatre,New York,NY,USA,","
-1994-04-13,1994,0,7,1,1,0,0,1,1994 Spring Tour,1994 Spring,Divided Sky,Divided,1,Beacon Theatre,New York,NY,USA,","
-1994-04-13,1994,0,8,4,1,0,0,2,1994 Spring Tour,1994 Spring,Golgi Apparatus,Golgi,1,Beacon Theatre,New York,NY,USA,
-1994-04-13,1994,0,9,1,2,0,0,19,1994 Spring Tour,1994 Spring,Faht,,1,Beacon Theatre,New York,NY,USA,","
-1994-04-13,1994,0,10,2,2,0,0,5,1994 Spring Tour,1994 Spring,The Curtain,Curtain,1,Beacon Theatre,New York,NY,USA,>
-1994-04-13,1994,0,11,1,2,0,0,1,1994 Spring Tour,1994 Spring,Sample in a Jar,Sample,1,Beacon Theatre,New York,NY,USA,","
-1994-04-13,1994,0,12,1,2,0,0,2,1994 Spring Tour,1994 Spring,Reba,,1,Beacon Theatre,New York,NY,USA,","
-1994-04-13,1994,0,13,1,2,0,0,1,1994 Spring Tour,1994 Spring,Big Ball Jam,BBJ,1,Beacon Theatre,New York,NY,USA,","
-1994-04-13,1994,0,14,3,2,0,0,3,1994 Spring Tour,1994 Spring,Fee,,1,Beacon Theatre,New York,NY,USA,->
-1994-04-13,1994,0,15,1,2,0,0,19,1994 Spring Tour,1994 Spring,Take the 'A' Train,'A' Train,0,Beacon Theatre,New York,NY,USA,","
-1994-04-13,1994,0,16,1,2,0,0,4,1994 Spring Tour,1994 Spring,David Bowie,Bowie,1,Beacon Theatre,New York,NY,USA,","
-1994-04-13,1994,0,17,2,2,0,0,9,1994 Spring Tour,1994 Spring,Purple Rain,,0,Beacon Theatre,New York,NY,USA,>
-1994-04-13,1994,0,18,1,2,0,0,2,1994 Spring Tour,1994 Spring,Hold Your Head Up,HYHU,0,Beacon Theatre,New York,NY,USA,","
-1994-04-13,1994,0,19,5,2,0,0,5,1994 Spring Tour,1994 Spring,AC/DC Bag,Bag,1,Beacon Theatre,New York,NY,USA,
-1994-04-13,1994,0,20,1,e,0,0,5,1994 Spring Tour,1994 Spring,Sweet Adeline,,0,Beacon Theatre,New York,NY,USA,","
-1994-04-13,1994,0,21,6,e,0,0,9,1994 Spring Tour,1994 Spring,Good Times Bad Times,GTBT,0,Beacon Theatre,New York,NY,USA,
-1994-04-18,1994,0,1,1,1,0,0,3,1994 Spring Tour,1994 Spring,Chalk Dust Torture,CDT,1,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,","
-1994-04-18,1994,0,2,2,1,0,0,4,1994 Spring Tour,1994 Spring,Glide,,1,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,>
-1994-04-18,1994,0,3,2,1,0,0,2,1994 Spring Tour,1994 Spring,Poor Heart,,1,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,>
-1994-04-18,1994,0,4,1,1,0,0,2,1994 Spring Tour,1994 Spring,Julius,,1,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,","
-1994-04-18,1994,0,5,2,1,0,0,6,1994 Spring Tour,1994 Spring,"My Friend, My Friend",My Friend,1,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,>
-1994-04-18,1994,0,6,1,1,0,0,2,1994 Spring Tour,1994 Spring,Rift,,1,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,","
-1994-04-18,1994,0,7,1,1,0,0,4,1994 Spring Tour,1994 Spring,Split Open and Melt,SOAMelt,1,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,","
-1994-04-18,1994,0,8,1,1,0,0,4,1994 Spring Tour,1994 Spring,Dog Faced Boy,,1,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,","
-1994-04-18,1994,0,9,2,1,0,0,3,1994 Spring Tour,1994 Spring,The Oh Kee Pa Ceremony,Oh Kee Pa,1,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,>
-1994-04-18,1994,0,10,4,1,0,0,4,1994 Spring Tour,1994 Spring,AC/DC Bag,Bag,1,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,
-1994-04-18,1994,0,11,2,2,0,0,4,1994 Spring Tour,1994 Spring,Also Sprach Zarathustra,2001,0,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,>
-1994-04-18,1994,0,12,1,2,0,0,2,1994 Spring Tour,1994 Spring,Sample in a Jar,Sample,1,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,","
-1994-04-18,1994,0,13,2,2,0,0,4,1994 Spring Tour,1994 Spring,Sparkle,,1,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,>
-1994-04-18,1994,0,14,1,2,0,0,8,1994 Spring Tour,1994 Spring,Bathtub Gin,Gin,1,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,","
-1994-04-18,1994,0,15,2,2,0,0,1,1994 Spring Tour,1994 Spring,Big Ball Jam,BBJ,1,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,>
-1994-04-18,1994,0,16,1,2,0,0,7,1994 Spring Tour,1994 Spring,Ya Mar,,0,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,","
-1994-04-18,1994,0,17,1,2,0,0,8,1994 Spring Tour,1994 Spring,Mike's Song,Mike's,1,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,","
-1994-04-18,1994,0,18,2,2,0,0,32,1994 Spring Tour,1994 Spring,The Man Who Stepped Into Yesterday,TMWSIY,1,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,>
-1994-04-18,1994,0,19,2,2,0,0,32,1994 Spring Tour,1994 Spring,Avenu Malkenu,,0,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,>
-1994-04-18,1994,0,20,2,2,0,0,0,1994 Spring Tour,1994 Spring,The Man Who Stepped Into Yesterday,TMWSIY,1,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,>
-1994-04-18,1994,0,21,2,2,0,0,0,1994 Spring Tour,1994 Spring,Down with Disease,DwD,1,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,>
-1994-04-18,1994,0,22,2,2,0,0,1,1994 Spring Tour,1994 Spring,Hold Your Head Up,HYHU,0,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,>
-1994-04-18,1994,0,23,2,2,0,0,3,1994 Spring Tour,1994 Spring,I Wan'na Be Like You,,0,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,>
-1994-04-18,1994,0,24,1,2,0,0,0,1994 Spring Tour,1994 Spring,Hold Your Head Up,HYHU,0,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,","
-1994-04-18,1994,0,25,5,2,0,0,0,1994 Spring Tour,1994 Spring,Cavern,,1,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,
-1994-04-18,1994,0,26,6,e,0,0,5,1994 Spring Tour,1994 Spring,Good Times Bad Times,GTBT,0,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,
-1994-07-05,1994,0,1,1,1,0,0,2,1994 Summer Tour,1994 Summer,Rift,,1,Congress Center,Ottawa,Ontario,Canada,","
-1994-07-05,1994,0,2,1,1,0,0,2,1994 Summer Tour,1994 Summer,Sample in a Jar,Sample,1,Congress Center,Ottawa,Ontario,Canada,","
-1994-07-05,1994,0,3,2,1,0,0,5,1994 Summer Tour,1994 Summer,The Curtain,Curtain,1,Congress Center,Ottawa,Ontario,Canada,>
-1994-07-05,1994,0,4,2,1,0,0,358,1994 Summer Tour,1994 Summer,Letter to Jimmy Page,LTJP,1,Congress Center,Ottawa,Ontario,Canada,>
-1994-07-05,1994,0,5,1,1,0,0,3,1994 Summer Tour,1994 Summer,If I Could,,1,Congress Center,Ottawa,Ontario,Canada,","
-1994-07-05,1994,0,6,1,1,0,0,9,1994 Summer Tour,1994 Summer,Uncle Pen,,0,Congress Center,Ottawa,Ontario,Canada,","
-1994-07-05,1994,0,7,1,1,0,0,3,1994 Summer Tour,1994 Summer,Stash,,1,Congress Center,Ottawa,Ontario,Canada,","
-1994-07-05,1994,0,8,2,1,0,0,11,1994 Summer Tour,1994 Summer,Esther,,1,Congress Center,Ottawa,Ontario,Canada,>
-1994-07-05,1994,0,9,1,1,0,0,0,1994 Summer Tour,1994 Summer,Down with Disease,DwD,1,Congress Center,Ottawa,Ontario,Canada,","
-1994-07-05,1994,0,10,4,1,0,0,8,1994 Summer Tour,1994 Summer,Sweet Adeline,,0,Congress Center,Ottawa,Ontario,Canada,
-1994-07-05,1994,0,11,2,2,0,0,8,1994 Summer Tour,1994 Summer,Punch You in the Eye,PYITE,1,Congress Center,Ottawa,Ontario,Canada,>
-1994-07-05,1994,0,12,2,2,0,0,2,1994 Summer Tour,1994 Summer,Sparkle,,1,Congress Center,Ottawa,Ontario,Canada,>
-1994-07-05,1994,0,13,2,2,0,0,7,1994 Summer Tour,1994 Summer,Bathtub Gin,Gin,1,Congress Center,Ottawa,Ontario,Canada,>
-1994-07-05,1994,0,14,1,2,0,0,2,1994 Summer Tour,1994 Summer,Lifeboy,,1,Congress Center,Ottawa,Ontario,Canada,","
-1994-07-05,1994,0,15,2,2,0,0,679,1994 Summer Tour,1994 Summer,Cities,,0,Congress Center,Ottawa,Ontario,Canada,>
-1994-07-05,1994,0,16,1,2,0,0,3,1994 Summer Tour,1994 Summer,You Enjoy Myself,YEM,1,Congress Center,Ottawa,Ontario,Canada,","
-1994-07-05,1994,0,17,2,2,0,0,42,1994 Summer Tour,1994 Summer,The Great Gig in the Sky,Great Gig in the Sky,0,Congress Center,Ottawa,Ontario,Canada,>
-1994-07-05,1994,0,18,1,2,0,0,3,1994 Summer Tour,1994 Summer,Hold Your Head Up,HYHU,0,Congress Center,Ottawa,Ontario,Canada,","
-1994-07-05,1994,0,19,1,2,0,0,11,1994 Summer Tour,1994 Summer,Ginseng Sullivan,Ginseng,0,Congress Center,Ottawa,Ontario,Canada,","
-1994-07-05,1994,0,20,1,2,0,0,10,1994 Summer Tour,1994 Summer,My Sweet One,MSO,1,Congress Center,Ottawa,Ontario,Canada,","
-1994-07-05,1994,0,21,1,2,0,0,6,1994 Summer Tour,1994 Summer,Amazing Grace,,0,Congress Center,Ottawa,Ontario,Canada,","
-1994-07-05,1994,0,22,5,2,0,0,2,1994 Summer Tour,1994 Summer,Golgi Apparatus,Golgi,1,Congress Center,Ottawa,Ontario,Canada,
-1994-07-05,1994,0,23,6,e,0,0,15,1994 Summer Tour,1994 Summer,Good Times Bad Times,GTBT,0,Congress Center,Ottawa,Ontario,Canada,
-1994-07-13,1994,0,1,2,1,0,0,14,1994 Summer Tour,1994 Summer,Buried Alive,,1,Big Birch Concert Pavilion,Patterson,NY,USA,>
-1994-07-13,1994,0,2,2,1,0,0,2,1994 Summer Tour,1994 Summer,Poor Heart,,1,Big Birch Concert Pavilion,Patterson,NY,USA,>
-1994-07-13,1994,0,3,1,1,0,0,1,1994 Summer Tour,1994 Summer,Sample in a Jar,Sample,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
-1994-07-13,1994,0,4,1,1,0,0,2,1994 Summer Tour,1994 Summer,Foam,,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
-1994-07-13,1994,0,5,1,1,0,0,8,1994 Summer Tour,1994 Summer,The Mango Song,Mango,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
-1994-07-13,1994,0,6,2,1,0,0,1,1994 Summer Tour,1994 Summer,Down with Disease,DwD,1,Big Birch Concert Pavilion,Patterson,NY,USA,>
-1994-07-13,1994,0,7,3,1,0,0,6,1994 Summer Tour,1994 Summer,Fee,,1,Big Birch Concert Pavilion,Patterson,NY,USA,->
-1994-07-13,1994,0,8,2,1,0,0,3,1994 Summer Tour,1994 Summer,It's Ice,,1,Big Birch Concert Pavilion,Patterson,NY,USA,>
-1994-07-13,1994,0,9,1,1,0,0,7,1994 Summer Tour,1994 Summer,Fast Enough for You,FEFY,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
-1994-07-13,1994,0,10,1,1,0,0,10,1994 Summer Tour,1994 Summer,I Didn't Know,IDK,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
-1994-07-13,1994,0,11,4,1,0,0,2,1994 Summer Tour,1994 Summer,Split Open and Melt,SOAMelt,1,Big Birch Concert Pavilion,Patterson,NY,USA,
-1994-07-13,1994,0,12,1,2,0,0,7,1994 Summer Tour,1994 Summer,Possum,,1,Big Birch Concert Pavilion,Patterson,NY,USA,","
-1994-07-13,1994,0,13,3,2,0,0,0,1994 Summer Tour,1994 Summer,Cavern,,1,Big Birch Concert Pavilion,Patterson,NY,USA,->
-1994-07-13,1994,0,14,3,2,0,0,3,1994 Summer Tour,1994 Summer,Wilson,,1,Big Birch Concert Pavilion,Patterson,NY,USA,->
-1994-07-13,1994,0,15,2,2,0,0,0,1994 Summer Tour,1994 Summer,Cavern,,1,Big Birch Concert Pavilion,Patterson,NY,USA,>
-1994-07-13,1994,0,16,3,2,0,0,6,1994 Summer Tour,1994 Summer,NICU,,1,Big Birch Concert Pavilion,Patterson,NY,USA,->
-1994-07-13,1994,0,17,3,2,0,0,0,1994 Summer Tour,1994 Summer,Tweezer,,1,Big Birch Concert Pavilion,Patterson,NY,USA,->
-1994-07-13,1994,0,18,3,2,0,0,1,1994 Summer Tour,1994 Summer,Julius,,1,Big Birch Concert Pavilion,Patterson,NY,USA,->
-1994-07-13,1994,0,19,3,2,0,0,0,1994 Summer Tour,1994 Summer,Tweezer,,1,Big Birch Concert Pavilion,Patterson,NY,USA,->
-1994-07-13,1994,0,20,3,2,0,0,3,1994 Summer Tour,1994 Summer,Big Black Furry Creature from Mars,BBFCFM,1,Big Birch Concert Pavilion,Patterson,NY,USA,->
-1994-07-13,1994,0,21,3,2,0,0,1,1994 Summer Tour,1994 Summer,Tweezer,,1,Big Birch Concert Pavilion,Patterson,NY,USA,->
-1994-07-13,1994,0,22,2,2,0,0,10,1994 Summer Tour,1994 Summer,Mound,,1,Big Birch Concert Pavilion,Patterson,NY,USA,>
-1994-07-13,1994,0,23,2,2,0,0,7,1994 Summer Tour,1994 Summer,Slave to the Traffic Light,Slave,1,Big Birch Concert Pavilion,Patterson,NY,USA,>
-1994-07-13,1994,0,24,5,2,0,0,2,1994 Summer Tour,1994 Summer,Suzy Greenberg,Suzy,1,Big Birch Concert Pavilion,Patterson,NY,USA,
-1994-07-13,1994,0,25,2,e,0,0,5,1994 Summer Tour,1994 Summer,My Sweet One,MSO,1,Big Birch Concert Pavilion,Patterson,NY,USA,>
-1994-07-13,1994,0,26,6,e,0,0,1,1994 Summer Tour,1994 Summer,Tweezer Reprise,Tweeprise,1,Big Birch Concert Pavilion,Patterson,NY,USA,
-1994-10-21,1994,0,1,3,1,0,0,3,1994 Fall Tour,1994 Fall,Fee,,1,Sunrise Musical Theatre,Sunrise,FL,USA,->
-1994-10-21,1994,0,2,2,1,0,0,3,1994 Fall Tour,1994 Fall,Down with Disease,DwD,1,Sunrise Musical Theatre,Sunrise,FL,USA,>
-1994-10-21,1994,0,3,1,1,0,0,3,1994 Fall Tour,1994 Fall,Foam,,1,Sunrise Musical Theatre,Sunrise,FL,USA,","
-1994-10-21,1994,0,4,1,1,0,0,15,1994 Fall Tour,1994 Fall,The Mango Song,Mango,1,Sunrise Musical Theatre,Sunrise,FL,USA,","
-1994-10-21,1994,0,5,1,1,0,0,2,1994 Fall Tour,1994 Fall,The Old Home Place,,0,Sunrise Musical Theatre,Sunrise,FL,USA,","
-1994-10-21,1994,0,6,1,1,0,0,2,1994 Fall Tour,1994 Fall,Stash,,1,Sunrise Musical Theatre,Sunrise,FL,USA,","
-1994-10-21,1994,0,7,1,1,0,0,7,1994 Fall Tour,1994 Fall,The Lizards,Lizards,1,Sunrise Musical Theatre,Sunrise,FL,USA,","
-1994-10-21,1994,0,8,1,1,0,0,3,1994 Fall Tour,1994 Fall,Dog Faced Boy,,1,Sunrise Musical Theatre,Sunrise,FL,USA,","
-1994-10-21,1994,0,9,4,1,0,0,3,1994 Fall Tour,1994 Fall,Run Like an Antelope,Antelope,1,Sunrise Musical Theatre,Sunrise,FL,USA,
-1994-10-21,1994,0,10,2,2,0,0,4,1994 Fall Tour,1994 Fall,Also Sprach Zarathustra,2001,0,Sunrise Musical Theatre,Sunrise,FL,USA,>
-1994-10-21,1994,0,11,3,2,0,0,6,1994 Fall Tour,1994 Fall,Mike's Song,Mike's,1,Sunrise Musical Theatre,Sunrise,FL,USA,->
-1994-10-21,1994,0,12,3,2,0,0,2,1994 Fall Tour,1994 Fall,Simple,,1,Sunrise Musical Theatre,Sunrise,FL,USA,->
-1994-10-21,1994,0,13,2,2,0,0,0,1994 Fall Tour,1994 Fall,Mike's Song,Mike's,1,Sunrise Musical Theatre,Sunrise,FL,USA,>
-1994-10-21,1994,0,14,2,2,0,0,10,1994 Fall Tour,1994 Fall,I Am Hydrogen,Hydrogen,1,Sunrise Musical Theatre,Sunrise,FL,USA,>
-1994-10-21,1994,0,15,1,2,0,0,6,1994 Fall Tour,1994 Fall,Weekapaug Groove,Weekapaug,1,Sunrise Musical Theatre,Sunrise,FL,USA,","
-1994-10-21,1994,0,16,1,2,0,0,9,1994 Fall Tour,1994 Fall,Sleeping Monkey,,1,Sunrise Musical Theatre,Sunrise,FL,USA,","
-1994-10-21,1994,0,17,2,2,0,0,5,1994 Fall Tour,1994 Fall,The Curtain,Curtain,1,Sunrise Musical Theatre,Sunrise,FL,USA,>
-1994-10-21,1994,0,18,2,2,0,0,6,1994 Fall Tour,1994 Fall,Fast Enough for You,FEFY,1,Sunrise Musical Theatre,Sunrise,FL,USA,>
-1994-10-21,1994,0,19,1,2,0,0,2,1994 Fall Tour,1994 Fall,Scent of a Mule,SOAMule,1,Sunrise Musical Theatre,Sunrise,FL,USA,","
-1994-10-21,1994,0,20,5,2,0,0,8,1994 Fall Tour,1994 Fall,Slave to the Traffic Light,Slave,1,Sunrise Musical Theatre,Sunrise,FL,USA,
-1994-10-21,1994,0,21,1,e,0,0,3,1994 Fall Tour,1994 Fall,Sweet Adeline,,0,Sunrise Musical Theatre,Sunrise,FL,USA,","
-1994-10-21,1994,0,22,1,e,0,0,1,1994 Fall Tour,1994 Fall,Foreplay/Long Time,,0,Sunrise Musical Theatre,Sunrise,FL,USA,","
-1994-10-21,1994,0,23,6,e,0,0,4,1994 Fall Tour,1994 Fall,Cavern,,1,Sunrise Musical Theatre,Sunrise,FL,USA,
-1995-05-16,1995,0,1,1,1,0,0,945,Not Part of a Tour,No Tour,Don't You Want To Go?,,0,Lowell Memorial Auditorium,Lowell,MA,USA,","
-1995-05-16,1995,0,2,2,1,0,0,951,Not Part of a Tour,No Tour,Ha Ha Ha,,1,Lowell Memorial Auditorium,Lowell,MA,USA,>
-1995-05-16,1995,0,3,1,1,0,0,951,Not Part of a Tour,No Tour,Spock's Brain,,1,Lowell Memorial Auditorium,Lowell,MA,USA,","
-1995-05-16,1995,0,4,1,1,0,0,947,Not Part of a Tour,No Tour,Strange Design,,1,Lowell Memorial Auditorium,Lowell,MA,USA,","
-1995-05-16,1995,0,5,1,1,0,0,3,Not Part of a Tour,No Tour,Reba,,1,Lowell Memorial Auditorium,Lowell,MA,USA,","
-1995-05-16,1995,0,6,1,1,0,0,947,Not Part of a Tour,No Tour,Theme from the Bottom,Theme,1,Lowell Memorial Auditorium,Lowell,MA,USA,","
-1995-05-16,1995,0,7,2,1,0,0,2,Not Part of a Tour,No Tour,Hold Your Head Up,HYHU,0,Lowell Memorial Auditorium,Lowell,MA,USA,>
-1995-05-16,1995,0,8,2,1,0,0,951,Not Part of a Tour,No Tour,Lonesome Cowboy Bill,,0,Lowell Memorial Auditorium,Lowell,MA,USA,>
-1995-05-16,1995,0,9,1,1,0,0,0,Not Part of a Tour,No Tour,Hold Your Head Up,HYHU,0,Lowell Memorial Auditorium,Lowell,MA,USA,","
-1995-05-16,1995,0,10,1,1,0,0,948,Not Part of a Tour,No Tour,Free,,1,Lowell Memorial Auditorium,Lowell,MA,USA,","
-1995-05-16,1995,0,11,2,1,0,0,951,Not Part of a Tour,No Tour,Glide II,,1,Lowell Memorial Auditorium,Lowell,MA,USA,>
-1995-05-16,1995,0,12,1,1,0,0,1,Not Part of a Tour,No Tour,You Enjoy Myself,YEM,1,Lowell Memorial Auditorium,Lowell,MA,USA,","
-1995-05-16,1995,0,13,1,1,0,0,7,Not Part of a Tour,No Tour,Sweet Adeline,,0,Lowell Memorial Auditorium,Lowell,MA,USA,","
-1995-05-16,1995,0,14,5,1,0,0,2,Not Part of a Tour,No Tour,Sample in a Jar,Sample,1,Lowell Memorial Auditorium,Lowell,MA,USA,
-1995-05-16,1995,0,15,3,e,0,0,945,Not Part of a Tour,No Tour,I'll Come Running,,0,Lowell Memorial Auditorium,Lowell,MA,USA,->
-1995-05-16,1995,0,16,6,e,0,0,945,Not Part of a Tour,No Tour,Gloria,,0,Lowell Memorial Auditorium,Lowell,MA,USA,
-1995-06-15,1995,0,1,2,1,0,0,3,1995 Summer Tour,1995 Summer,"My Friend, My Friend",My Friend,1,Lakewood Amphitheatre,Atlanta,GA,USA,>
-1995-06-15,1995,0,2,2,1,0,0,2,1995 Summer Tour,1995 Summer,Sparkle,,1,Lakewood Amphitheatre,Atlanta,GA,USA,>
-1995-06-15,1995,0,3,1,1,0,0,3,1995 Summer Tour,1995 Summer,AC/DC Bag,Bag,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
-1995-06-15,1995,0,4,1,1,0,0,8,1995 Summer Tour,1995 Summer,The Old Home Place,,0,Lakewood Amphitheatre,Atlanta,GA,USA,","
-1995-06-15,1995,0,5,1,1,0,0,2,1995 Summer Tour,1995 Summer,Taste,,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
-1995-06-15,1995,0,6,1,1,0,0,4,1995 Summer Tour,1995 Summer,The Wedge,Wedge,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
-1995-06-15,1995,0,7,3,1,0,0,2,1995 Summer Tour,1995 Summer,Stash,,1,Lakewood Amphitheatre,Atlanta,GA,USA,->
-1995-06-15,1995,0,8,1,1,0,0,10,1995 Summer Tour,1995 Summer,I Didn't Know,IDK,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
-1995-06-15,1995,0,9,1,1,0,0,16,1995 Summer Tour,1995 Summer,Fluffhead,,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
-1995-06-15,1995,0,10,4,1,0,0,4,1995 Summer Tour,1995 Summer,Run Like an Antelope,Antelope,1,Lakewood Amphitheatre,Atlanta,GA,USA,
-1995-06-15,1995,0,11,1,2,0,0,8,1995 Summer Tour,1995 Summer,My Sweet One,MSO,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
-1995-06-15,1995,0,12,2,2,0,0,5,1995 Summer Tour,1995 Summer,Ha Ha Ha,,1,Lakewood Amphitheatre,Atlanta,GA,USA,>
-1995-06-15,1995,0,13,1,2,0,0,2,1995 Summer Tour,1995 Summer,David Bowie,Bowie,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
-1995-06-15,1995,0,14,2,2,0,0,2,1995 Summer Tour,1995 Summer,Strange Design,,1,Lakewood Amphitheatre,Atlanta,GA,USA,>
-1995-06-15,1995,0,15,1,2,0,0,1,1995 Summer Tour,1995 Summer,Theme from the Bottom,Theme,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
-1995-06-15,1995,0,16,1,2,0,0,4,1995 Summer Tour,1995 Summer,Scent of a Mule,SOAMule,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
-1995-06-15,1995,0,17,1,2,0,0,1,1995 Summer Tour,1995 Summer,Acoustic Army,,1,Lakewood Amphitheatre,Atlanta,GA,USA,","
-1995-06-15,1995,0,18,5,2,0,0,4,1995 Summer Tour,1995 Summer,Slave to the Traffic Light,Slave,1,Lakewood Amphitheatre,Atlanta,GA,USA,
-1995-06-15,1995,0,19,1,e,0,0,1,1995 Summer Tour,1995 Summer,Bouncing Around the Room,Bouncin',1,Lakewood Amphitheatre,Atlanta,GA,USA,","
-1995-06-15,1995,0,20,6,e,0,0,9,1995 Summer Tour,1995 Summer,Frankenstein,,0,Lakewood Amphitheatre,Atlanta,GA,USA,
-1995-09-29,1995,0,1,2,1,0,0,1,1995 Fall Tour,1995 Fall,AC/DC Bag,Bag,1,Greek Theatre,Los Angeles,CA,USA,>
-1995-09-29,1995,0,2,2,1,0,0,3,1995 Fall Tour,1995 Fall,Sparkle,,1,Greek Theatre,Los Angeles,CA,USA,>
-1995-09-29,1995,0,3,1,1,0,0,4,1995 Fall Tour,1995 Fall,Divided Sky,Divided,1,Greek Theatre,Los Angeles,CA,USA,","
-1995-09-29,1995,0,4,1,1,0,0,2,1995 Fall Tour,1995 Fall,Strange Design,,1,Greek Theatre,Los Angeles,CA,USA,","
-1995-09-29,1995,0,5,1,1,0,0,1,1995 Fall Tour,1995 Fall,Cars Trucks Buses,CTB,1,Greek Theatre,Los Angeles,CA,USA,","
-1995-09-29,1995,0,6,1,1,0,0,6,1995 Fall Tour,1995 Fall,You Enjoy Myself,YEM,1,Greek Theatre,Los Angeles,CA,USA,","
-1995-09-29,1995,0,7,1,1,0,0,8,1995 Fall Tour,1995 Fall,Sweet Adeline,,0,Greek Theatre,Los Angeles,CA,USA,","
-1995-09-29,1995,0,8,4,1,0,0,5,1995 Fall Tour,1995 Fall,Suzy Greenberg,Suzy,1,Greek Theatre,Los Angeles,CA,USA,
-1995-09-29,1995,0,9,2,2,0,0,6,1995 Fall Tour,1995 Fall,Also Sprach Zarathustra,2001,0,Greek Theatre,Los Angeles,CA,USA,>
-1995-09-29,1995,0,10,1,2,0,0,3,1995 Fall Tour,1995 Fall,Maze,,1,Greek Theatre,Los Angeles,CA,USA,","
-1995-09-29,1995,0,11,1,2,0,0,2,1995 Fall Tour,1995 Fall,Free,,1,Greek Theatre,Los Angeles,CA,USA,","
-1995-09-29,1995,0,12,1,2,0,0,5,1995 Fall Tour,1995 Fall,Ya Mar,,0,Greek Theatre,Los Angeles,CA,USA,","
-1995-09-29,1995,0,13,1,2,0,0,5,1995 Fall Tour,1995 Fall,Split Open and Melt,SOAMelt,1,Greek Theatre,Los Angeles,CA,USA,","
-1995-09-29,1995,0,14,1,2,0,0,1,1995 Fall Tour,1995 Fall,Billy Breathes,,1,Greek Theatre,Los Angeles,CA,USA,","
-1995-09-29,1995,0,15,2,2,0,0,6,1995 Fall Tour,1995 Fall,Hold Your Head Up,HYHU,0,Greek Theatre,Los Angeles,CA,USA,>
-1995-09-29,1995,0,16,2,2,0,0,970,1995 Fall Tour,1995 Fall,Cryin',,0,Greek Theatre,Los Angeles,CA,USA,>
-1995-09-29,1995,0,17,1,2,0,0,0,1995 Fall Tour,1995 Fall,Hold Your Head Up,HYHU,0,Greek Theatre,Los Angeles,CA,USA,","
-1995-09-29,1995,0,18,5,2,0,0,2,1995 Fall Tour,1995 Fall,A Day in the Life,ADITL,0,Greek Theatre,Los Angeles,CA,USA,
-1995-09-29,1995,0,19,6,e,0,0,2,1995 Fall Tour,1995 Fall,Chalk Dust Torture,CDT,1,Greek Theatre,Los Angeles,CA,USA,
-1996-07-07,1996,0,1,2,1,0,0,4,1996 Summer European Tour,1996 Summer,Sample in a Jar,Sample,1,Parco Aquatica,Milan,Lombardy,Italy,>
-1996-07-07,1996,0,2,1,1,0,0,7,1996 Summer European Tour,1996 Summer,Divided Sky,Divided,1,Parco Aquatica,Milan,Lombardy,Italy,","
-1996-07-07,1996,0,3,1,1,0,0,7,1996 Summer European Tour,1996 Summer,Bouncing Around the Room,Bouncin',1,Parco Aquatica,Milan,Lombardy,Italy,","
-1996-07-07,1996,0,4,2,1,0,0,9,1996 Summer European Tour,1996 Summer,The Curtain,Curtain,1,Parco Aquatica,Milan,Lombardy,Italy,>
-1996-07-07,1996,0,5,1,1,0,0,8,1996 Summer European Tour,1996 Summer,Tweezer,,1,Parco Aquatica,Milan,Lombardy,Italy,","
-1996-07-07,1996,0,6,1,1,0,0,2,1996 Summer European Tour,1996 Summer,Sweet Adeline,,0,Parco Aquatica,Milan,Lombardy,Italy,","
-1996-07-07,1996,0,7,1,1,0,0,9,1996 Summer European Tour,1996 Summer,Uncle Pen,,0,Parco Aquatica,Milan,Lombardy,Italy,","
-1996-07-07,1996,0,8,2,1,0,0,4,1996 Summer European Tour,1996 Summer,Cavern,,1,Parco Aquatica,Milan,Lombardy,Italy,>
-1996-07-07,1996,0,9,2,1,0,0,7,1996 Summer European Tour,1996 Summer,Run Like an Antelope,Antelope,1,Parco Aquatica,Milan,Lombardy,Italy,>
-1996-07-07,1996,0,10,6,1,0,0,7,1996 Summer European Tour,1996 Summer,Suzy Greenberg,Suzy,1,Parco Aquatica,Milan,Lombardy,Italy,
-1997-12-09,1997,0,1,2,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Mike's Song,Mike's,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,>
-1997-12-09,1997,0,2,1,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Chalk Dust Torture,CDT,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,","
-1997-12-09,1997,0,3,1,1,0,0,4,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,My Soul,,0,"Bryce Jordan Center, Penn State University",State College,PA,USA,","
-1997-12-09,1997,0,4,2,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Stash,,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,>
-1997-12-09,1997,0,5,2,1,0,0,11,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,I Am Hydrogen,Hydrogen,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,>
-1997-12-09,1997,0,6,1,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Weekapaug Groove,Weekapaug,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,","
-1997-12-09,1997,0,7,1,1,0,0,12,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Dogs Stole Things,,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,","
-1997-12-09,1997,0,8,1,1,0,0,12,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Beauty of My Dreams,,0,"Bryce Jordan Center, Penn State University",State College,PA,USA,","
-1997-12-09,1997,0,9,2,1,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Horn,,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,>
-1997-12-09,1997,0,10,4,1,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Loving Cup,,0,"Bryce Jordan Center, Penn State University",State College,PA,USA,
-1997-12-09,1997,0,11,2,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Julius,,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,>
-1997-12-09,1997,0,12,3,2,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Simple,,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,->
-1997-12-09,1997,0,13,2,2,0,0,0,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Timber (Jerry the Mule),Timber Ho,0,"Bryce Jordan Center, Penn State University",State College,PA,USA,>
-1997-12-09,1997,0,14,1,2,0,0,19,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Contact,,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,","
-1997-12-09,1997,0,15,2,2,0,0,59,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Axilla,,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,>
-1997-12-09,1997,0,16,5,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Harry Hood,Hood,1,"Bryce Jordan Center, Penn State University",State College,PA,USA,
-1997-12-09,1997,0,17,6,e,0,0,7,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Fire,,0,"Bryce Jordan Center, Penn State University",State College,PA,USA,
-1999-07-01,1999,0,1,1,1,0,0,3,1999 Summer U.S. Tour,1999 Summer,Punch You in the Eye,PYITE,1,First American Music Center,Antioch,TN,USA,","
-1999-07-01,1999,0,2,1,1,0,0,21,1999 Summer U.S. Tour,1999 Summer,Billy Breathes,,1,First American Music Center,Antioch,TN,USA,","
-1999-07-01,1999,0,3,1,1,0,0,4,1999 Summer U.S. Tour,1999 Summer,Guyute,,1,First American Music Center,Antioch,TN,USA,","
-1999-07-01,1999,0,4,1,1,0,0,4,1999 Summer U.S. Tour,1999 Summer,Wolfman's Brother,Wolfman's,1,First American Music Center,Antioch,TN,USA,","
-1999-07-01,1999,0,5,1,1,0,0,21,1999 Summer U.S. Tour,1999 Summer,Beauty of My Dreams,,0,First American Music Center,Antioch,TN,USA,","
-1999-07-01,1999,0,6,1,1,0,0,192,1999 Summer U.S. Tour,1999 Summer,Doin' My Time,,0,First American Music Center,Antioch,TN,USA,","
-1999-07-01,1999,0,7,1,1,0,0,2,1999 Summer U.S. Tour,1999 Summer,Roggae,,1,First American Music Center,Antioch,TN,USA,","
-1999-07-01,1999,0,8,1,1,0,0,17,1999 Summer U.S. Tour,1999 Summer,Water in the Sky,,1,First American Music Center,Antioch,TN,USA,","
-1999-07-01,1999,0,9,1,1,0,0,1,1999 Summer U.S. Tour,1999 Summer,Back on the Train,BOTT,0,First American Music Center,Antioch,TN,USA,","
-1999-07-01,1999,0,10,4,1,0,0,19,1999 Summer U.S. Tour,1999 Summer,Poor Heart,,1,First American Music Center,Antioch,TN,USA,
-1999-07-01,1999,0,11,2,2,0,0,2,1999 Summer U.S. Tour,1999 Summer,Down with Disease,DwD,1,First American Music Center,Antioch,TN,USA,>
-1999-07-01,1999,0,12,2,2,0,0,2,1999 Summer U.S. Tour,1999 Summer,Prince Caspian,Caspian,1,First American Music Center,Antioch,TN,USA,>
-1999-07-01,1999,0,13,5,2,0,0,3,1999 Summer U.S. Tour,1999 Summer,You Enjoy Myself,YEM,1,First American Music Center,Antioch,TN,USA,
-1999-07-01,1999,0,14,6,e,0,0,2,1999 Summer U.S. Tour,1999 Summer,Character Zero,,1,First American Music Center,Antioch,TN,USA,
-1999-12-17,1999,0,1,1,1,0,0,3,1999 Winter Tour,1999 Winter,Piper,,1,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-17,1999,0,2,2,1,0,0,15,1999 Winter Tour,1999 Winter,Meat,,1,Hampton Coliseum,Hampton,VA,USA,>
-1999-12-17,1999,0,3,2,1,0,0,9,1999 Winter Tour,1999 Winter,Sparkle,,1,Hampton Coliseum,Hampton,VA,USA,>
-1999-12-17,1999,0,4,2,1,0,0,3,1999 Winter Tour,1999 Winter,Gotta Jibboo,Jibboo,0,Hampton Coliseum,Hampton,VA,USA,>
-1999-12-17,1999,0,5,1,1,0,0,7,1999 Winter Tour,1999 Winter,Punch You in the Eye,PYITE,1,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-17,1999,0,6,1,1,0,0,5,1999 Winter Tour,1999 Winter,When the Circus Comes,Circus,0,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-17,1999,0,7,1,1,0,0,25,1999 Winter Tour,1999 Winter,Water in the Sky,,1,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-17,1999,0,8,4,1,0,0,5,1999 Winter Tour,1999 Winter,Twist,,1,Hampton Coliseum,Hampton,VA,USA,
-1999-12-17,1999,0,9,1,2,0,0,6,1999 Winter Tour,1999 Winter,Birds of a Feather,BOAF,1,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-17,1999,0,10,2,2,0,0,3,1999 Winter Tour,1999 Winter,The Moma Dance,Moma,1,Hampton Coliseum,Hampton,VA,USA,>
-1999-12-17,1999,0,11,2,2,0,0,13,1999 Winter Tour,1999 Winter,Jam,,0,Hampton Coliseum,Hampton,VA,USA,>
-1999-12-17,1999,0,12,1,2,0,0,4,1999 Winter Tour,1999 Winter,Bug,,0,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-17,1999,0,13,1,2,0,0,8,1999 Winter Tour,1999 Winter,Jennifer Dances,,1,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-17,1999,0,14,1,2,0,0,10,1999 Winter Tour,1999 Winter,Split Open and Melt,SOAMelt,1,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-17,1999,0,15,5,2,0,0,9,1999 Winter Tour,1999 Winter,Character Zero,,1,Hampton Coliseum,Hampton,VA,USA,
-1999-12-17,1999,0,16,1,e,0,0,62,1999 Winter Tour,1999 Winter,The Old Home Place,,0,Hampton Coliseum,Hampton,VA,USA,","
-1999-12-17,1999,0,17,2,e,0,0,4,1999 Winter Tour,1999 Winter,The Squirming Coil,Coil,1,Hampton Coliseum,Hampton,VA,USA,>
-1999-12-17,1999,0,18,6,e,0,0,5,1999 Winter Tour,1999 Winter,Loving Cup,,0,Hampton Coliseum,Hampton,VA,USA,
-2000-07-17,2000,0,1,1,1,0,0,0,Not Part of a Tour,No Tour,First Tube,,0,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,2,1,1,0,0,1,Not Part of a Tour,No Tour,My Soul,,0,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,3,1,1,0,0,0,Not Part of a Tour,No Tour,Limb By Limb,LxL,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,4,1,1,0,0,15,Not Part of a Tour,No Tour,Horn,,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,5,1,1,0,0,3,Not Part of a Tour,No Tour,Heavy Things,,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,6,1,1,0,0,4,Not Part of a Tour,No Tour,Back on the Train,BOTT,0,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,7,1,1,0,0,3,Not Part of a Tour,No Tour,Beauty of My Dreams,,0,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,8,1,1,0,0,2,Not Part of a Tour,No Tour,Gotta Jibboo,Jibboo,0,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,9,1,1,0,0,1,Not Part of a Tour,No Tour,Piper,,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,10,1,1,0,0,0,Not Part of a Tour,No Tour,Down with Disease,DwD,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,11,1,1,0,0,2,Not Part of a Tour,No Tour,The Inlaw Josie Wales,,0,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,12,1,1,0,0,2,Not Part of a Tour,No Tour,Driver,,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,13,1,1,0,0,10,Not Part of a Tour,No Tour,When the Circus Comes,Circus,0,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,14,1,1,0,0,4,Not Part of a Tour,No Tour,Twist,,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,15,1,1,0,0,21,Not Part of a Tour,No Tour,Sleep,,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,16,1,1,0,0,4,Not Part of a Tour,No Tour,Chalk Dust Torture,CDT,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,17,1,1,0,0,3,Not Part of a Tour,No Tour,Wading in the Velvet Sea,Velvet Sea,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,18,1,1,0,0,5,Not Part of a Tour,No Tour,Possum,,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,19,1,1,0,0,4,Not Part of a Tour,No Tour,Character Zero,,1,"KLRU Studios, University of Texas",Austin,TX,USA,","
-2000-07-17,2000,0,20,6,1,0,0,0,Not Part of a Tour,No Tour,First Tube,,0,"KLRU Studios, University of Texas",Austin,TX,USA,
-2004-08-12,2004,0,1,1,1,0,0,4,2004 Late Summer Tour,2004 Summer,Wilson,,1,Tweeter Center at the Waterfront,Camden,NJ,USA,","
-2004-08-12,2004,0,2,3,1,0,0,4,2004 Late Summer Tour,2004 Summer,You Enjoy Myself,YEM,1,Tweeter Center at the Waterfront,Camden,NJ,USA,->
-2004-08-12,2004,0,3,2,1,0,0,4,2004 Late Summer Tour,2004 Summer,Ghost,,1,Tweeter Center at the Waterfront,Camden,NJ,USA,>
-2004-08-12,2004,0,4,3,1,0,0,12,2004 Late Summer Tour,2004 Summer,Maze,,1,Tweeter Center at the Waterfront,Camden,NJ,USA,->
-2004-08-12,2004,0,5,3,1,0,0,36,2004 Late Summer Tour,2004 Summer,Catapult,,1,Tweeter Center at the Waterfront,Camden,NJ,USA,->
-2004-08-12,2004,0,6,1,1,0,0,0,2004 Late Summer Tour,2004 Summer,Maze,,1,Tweeter Center at the Waterfront,Camden,NJ,USA,","
-2004-08-12,2004,0,7,1,1,0,0,4,2004 Late Summer Tour,2004 Summer,The Moma Dance,Moma,1,Tweeter Center at the Waterfront,Camden,NJ,USA,","
-2004-08-12,2004,0,8,1,1,0,0,9,2004 Late Summer Tour,2004 Summer,Horn,,1,Tweeter Center at the Waterfront,Camden,NJ,USA,","
-2004-08-12,2004,0,9,4,1,0,0,7,2004 Late Summer Tour,2004 Summer,Pebbles and Marbles,,0,Tweeter Center at the Waterfront,Camden,NJ,USA,
-2004-08-12,2004,0,10,2,2,0,0,2,2004 Late Summer Tour,2004 Summer,Piper,,1,Tweeter Center at the Waterfront,Camden,NJ,USA,>
-2004-08-12,2004,0,11,2,2,0,0,15,2004 Late Summer Tour,2004 Summer,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,Tweeter Center at the Waterfront,Camden,NJ,USA,>
-2004-08-12,2004,0,12,2,2,0,0,6,2004 Late Summer Tour,2004 Summer,Cavern,,1,Tweeter Center at the Waterfront,Camden,NJ,USA,>
-2004-08-12,2004,0,13,2,2,0,0,2,2004 Late Summer Tour,2004 Summer,Limb By Limb,LxL,1,Tweeter Center at the Waterfront,Camden,NJ,USA,>
-2004-08-12,2004,0,14,2,2,0,0,5,2004 Late Summer Tour,2004 Summer,Julius,,1,Tweeter Center at the Waterfront,Camden,NJ,USA,>
-2004-08-12,2004,0,15,1,2,0,0,6,2004 Late Summer Tour,2004 Summer,Rock and Roll,R&amp;R,0,Tweeter Center at the Waterfront,Camden,NJ,USA,","
-2004-08-12,2004,0,16,5,2,0,0,4,2004 Late Summer Tour,2004 Summer,Scents and Subtle Sounds,,1,Tweeter Center at the Waterfront,Camden,NJ,USA,
-2004-08-12,2004,0,17,1,e,0,0,5,2004 Late Summer Tour,2004 Summer,Lawn Boy,,1,Tweeter Center at the Waterfront,Camden,NJ,USA,","
-2004-08-12,2004,0,18,6,e,0,0,12,2004 Late Summer Tour,2004 Summer,Frankenstein,,0,Tweeter Center at the Waterfront,Camden,NJ,USA,
-2011-12-30,2011,0,1,2,1,0,0,11,2011 NYE,2011 NYE,Punch You in the Eye,PYITE,1,Madison Square Garden,New York,NY,USA,>
-2011-12-30,2011,0,2,2,1,0,0,6,2011 NYE,2011 NYE,Prince Caspian,Caspian,1,Madison Square Garden,New York,NY,USA,>
-2011-12-30,2011,0,3,1,1,0,0,2,2011 NYE,2011 NYE,Backwards Down the Number Line,BDTNL,0,Madison Square Garden,New York,NY,USA,","
-2011-12-30,2011,0,4,1,1,0,0,15,2011 NYE,2011 NYE,Nellie Kane,,0,Madison Square Garden,New York,NY,USA,","
-2011-12-30,2011,0,5,1,1,0,0,5,2011 NYE,2011 NYE,Divided Sky,Divided,1,Madison Square Garden,New York,NY,USA,","
-2011-12-30,2011,0,6,1,1,0,0,6,2011 NYE,2011 NYE,Sand,,0,Madison Square Garden,New York,NY,USA,","
-2011-12-30,2011,0,7,1,1,0,0,25,2011 NYE,2011 NYE,Vultures,,1,Madison Square Garden,New York,NY,USA,","
-2011-12-30,2011,0,8,1,1,0,0,4,2011 NYE,2011 NYE,Rift,,1,Madison Square Garden,New York,NY,USA,","
-2011-12-30,2011,0,9,1,1,0,0,13,2011 NYE,2011 NYE,Joy,,1,Madison Square Garden,New York,NY,USA,","
-2011-12-30,2011,0,10,4,1,0,0,13,2011 NYE,2011 NYE,Quinn the Eskimo (The Mighty Quinn),Quinn,0,Madison Square Garden,New York,NY,USA,
-2011-12-30,2011,0,11,2,2,0,0,10,2011 NYE,2011 NYE,Wilson,,1,Madison Square Garden,New York,NY,USA,>
-2011-12-30,2011,0,12,2,2,0,0,5,2011 NYE,2011 NYE,Axilla,,1,Madison Square Garden,New York,NY,USA,>
-2011-12-30,2011,0,13,2,2,0,0,4,2011 NYE,2011 NYE,Piper,,1,Madison Square Garden,New York,NY,USA,>
-2011-12-30,2011,0,14,2,2,0,0,2,2011 NYE,2011 NYE,Twist,,1,Madison Square Garden,New York,NY,USA,>
-2011-12-30,2011,0,15,2,2,0,0,3,2011 NYE,2011 NYE,Julius,,1,Madison Square Garden,New York,NY,USA,>
-2011-12-30,2011,0,16,2,2,0,0,7,2011 NYE,2011 NYE,Golgi Apparatus,Golgi,1,Madison Square Garden,New York,NY,USA,>
-2011-12-30,2011,0,17,2,2,0,0,5,2011 NYE,2011 NYE,Also Sprach Zarathustra,2001,0,Madison Square Garden,New York,NY,USA,>
-2011-12-30,2011,0,18,2,2,0,0,9,2011 NYE,2011 NYE,The Horse,Horse,1,Madison Square Garden,New York,NY,USA,>
-2011-12-30,2011,0,19,2,2,0,0,6,2011 NYE,2011 NYE,Silent in the Morning,Silent,1,Madison Square Garden,New York,NY,USA,>
-2011-12-30,2011,0,20,1,2,0,0,12,2011 NYE,2011 NYE,David Bowie,Bowie,1,Madison Square Garden,New York,NY,USA,","
-2011-12-30,2011,0,21,5,2,0,0,6,2011 NYE,2011 NYE,The Squirming Coil,Coil,1,Madison Square Garden,New York,NY,USA,
-2011-12-30,2011,0,22,1,e,0,0,15,2011 NYE,2011 NYE,Boogie On Reggae Woman,Boogie On,0,Madison Square Garden,New York,NY,USA,","
-2011-12-30,2011,0,23,6,e,0,0,11,2011 NYE,2011 NYE,Good Times Bad Times,GTBT,0,Madison Square Garden,New York,NY,USA,
-2013-08-05,2013,0,1,2,1,0,0,2,2013 Summer Tour,2013 Summer,AC/DC Bag,Bag,1,Hollywood Bowl,Hollywood,CA,USA,>
-2013-08-05,2013,0,2,2,1,0,0,6,2013 Summer Tour,2013 Summer,The Moma Dance,Moma,1,Hollywood Bowl,Hollywood,CA,USA,>
-2013-08-05,2013,0,3,1,1,0,0,4,2013 Summer Tour,2013 Summer,Sparkle,,1,Hollywood Bowl,Hollywood,CA,USA,","
-2013-08-05,2013,0,4,1,1,0,0,3,2013 Summer Tour,2013 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Hollywood Bowl,Hollywood,CA,USA,","
-2013-08-05,2013,0,5,1,1,0,0,4,2013 Summer Tour,2013 Summer,Lawn Boy,,1,Hollywood Bowl,Hollywood,CA,USA,","
-2013-08-05,2013,0,6,1,1,0,0,4,2013 Summer Tour,2013 Summer,Wolfman's Brother,Wolfman's,1,Hollywood Bowl,Hollywood,CA,USA,","
-2013-08-05,2013,0,7,2,1,0,0,6,2013 Summer Tour,2013 Summer,Roses Are Free,Roses,0,Hollywood Bowl,Hollywood,CA,USA,>
-2013-08-05,2013,0,8,1,1,0,0,11,2013 Summer Tour,2013 Summer,Scent of a Mule,SOAMule,1,Hollywood Bowl,Hollywood,CA,USA,","
-2013-08-05,2013,0,9,1,1,0,0,4,2013 Summer Tour,2013 Summer,Ocelot,,1,Hollywood Bowl,Hollywood,CA,USA,","
-2013-08-05,2013,0,10,1,1,0,0,4,2013 Summer Tour,2013 Summer,Cavern,,1,Hollywood Bowl,Hollywood,CA,USA,","
-2013-08-05,2013,0,11,4,1,0,0,33,2013 Summer Tour,2013 Summer,While My Guitar Gently Weeps,WMGGW,0,Hollywood Bowl,Hollywood,CA,USA,
-2013-08-05,2013,0,12,2,2,0,0,4,2013 Summer Tour,2013 Summer,Chalk Dust Torture,CDT,1,Hollywood Bowl,Hollywood,CA,USA,>
-2013-08-05,2013,0,13,2,2,0,0,4,2013 Summer Tour,2013 Summer,Golden Age,,0,Hollywood Bowl,Hollywood,CA,USA,>
-2013-08-05,2013,0,14,1,2,0,0,5,2013 Summer Tour,2013 Summer,Birds of a Feather,BOAF,1,Hollywood Bowl,Hollywood,CA,USA,","
-2013-08-05,2013,0,15,2,2,0,0,3,2013 Summer Tour,2013 Summer,Sand,,0,Hollywood Bowl,Hollywood,CA,USA,>
-2013-08-05,2013,0,16,2,2,0,0,2,2013 Summer Tour,2013 Summer,Down with Disease,DwD,1,Hollywood Bowl,Hollywood,CA,USA,>
-2013-08-05,2013,0,17,2,2,0,0,9,2013 Summer Tour,2013 Summer,"My Friend, My Friend",My Friend,1,Hollywood Bowl,Hollywood,CA,USA,>
-2013-08-05,2013,0,18,2,2,0,0,2,2013 Summer Tour,2013 Summer,Harry Hood,Hood,1,Hollywood Bowl,Hollywood,CA,USA,>
-2013-08-05,2013,0,19,5,2,0,0,5,2013 Summer Tour,2013 Summer,Character Zero,,1,Hollywood Bowl,Hollywood,CA,USA,
-2013-08-05,2013,0,20,6,e,0,0,7,2013 Summer Tour,2013 Summer,Loving Cup,,0,Hollywood Bowl,Hollywood,CA,USA,
-2014-07-18,2014,0,1,1,1,0,0,1,2014 Summer,2014 Summer,555,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-18,2014,0,2,1,1,0,0,4,2014 Summer,2014 Summer,Kill Devil Falls,KDF,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-18,2014,0,3,2,1,0,0,2,2014 Summer,2014 Summer,Bouncing Around the Room,Bouncin',1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-18,2014,0,4,1,1,0,0,2,2014 Summer,2014 Summer,Reba,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-18,2014,0,5,1,1,0,0,1,2014 Summer,2014 Summer,Waiting All Night,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-18,2014,0,6,1,1,0,0,3,2014 Summer,2014 Summer,Birds of a Feather,BOAF,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-18,2014,0,7,2,1,0,0,4,2014 Summer,2014 Summer,Halfway to the Moon,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-18,2014,0,8,2,1,0,0,4,2014 Summer,2014 Summer,Sparkle,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-18,2014,0,9,1,1,0,0,5,2014 Summer,2014 Summer,Sample in a Jar,Sample,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-18,2014,0,10,2,1,0,0,4,2014 Summer,2014 Summer,A Song I Heard the Ocean Sing,ASIHTOS,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-18,2014,0,11,1,1,0,0,5,2014 Summer,2014 Summer,Stash,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-18,2014,0,12,4,1,0,0,9,2014 Summer,2014 Summer,The Squirming Coil,Coil,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,
-2014-07-18,2014,0,13,2,2,0,0,4,2014 Summer,2014 Summer,Golden Age,,0,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-18,2014,0,14,1,2,0,0,40,2014 Summer,2014 Summer,The Mango Song,Mango,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,","
-2014-07-18,2014,0,15,3,2,0,0,3,2014 Summer,2014 Summer,Sand,,0,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,->
-2014-07-18,2014,0,16,3,2,0,0,1,2014 Summer,2014 Summer,Piper,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,->
-2014-07-18,2014,0,17,3,2,0,0,2,2014 Summer,2014 Summer,Halley's Comet,Halley's,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,->
-2014-07-18,2014,0,18,2,2,0,0,2,2014 Summer,2014 Summer,Wombat,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-18,2014,0,19,2,2,0,0,3,2014 Summer,2014 Summer,Chalk Dust Torture,CDT,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,>
-2014-07-18,2014,0,20,5,2,0,0,3,2014 Summer,2014 Summer,Slave to the Traffic Light,Slave,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,
-2014-07-18,2014,0,21,6,e,0,0,6,2014 Summer,2014 Summer,Julius,,1,FirstMerit Bank Pavilion at Northerly Island,Chicago,IL,USA,
-2016-10-28,2016,0,1,1,1,0,0,8,2016 Fall Tour,2016 Fall,Martian Monster,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2016-10-28,2016,0,2,1,1,0,0,1,2016 Fall Tour,2016 Fall,No Men In No Man's Land,NMINML,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2016-10-28,2016,0,3,1,1,0,0,182,2016 Fall Tour,2016 Fall,Dogs Stole Things,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2016-10-28,2016,0,4,1,1,0,0,227,2016 Fall Tour,2016 Fall,Beauty of My Dreams,,0,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2016-10-28,2016,0,5,1,1,0,0,22,2016 Fall Tour,2016 Fall,Destiny Unbound,Destiny,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2016-10-28,2016,0,6,1,1,0,0,5,2016 Fall Tour,2016 Fall,Limb By Limb,LxL,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2016-10-28,2016,0,7,1,1,0,0,9,2016 Fall Tour,2016 Fall,Home,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2016-10-28,2016,0,8,1,1,0,0,19,2016 Fall Tour,2016 Fall,When the Circus Comes,Circus,0,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2016-10-28,2016,0,9,2,1,0,0,7,2016 Fall Tour,2016 Fall,Steam,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
-2016-10-28,2016,0,10,1,1,0,0,7,2016 Fall Tour,2016 Fall,The Wedge,Wedge,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2016-10-28,2016,0,11,1,1,0,0,5,2016 Fall Tour,2016 Fall,Cavern,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2016-10-28,2016,0,12,4,1,0,0,5,2016 Fall Tour,2016 Fall,Walls of the Cave,WotC,1,MGM Grand Garden Arena,Las Vegas,NV,USA,
-2016-10-28,2016,0,13,1,2,0,0,283,2016 Fall Tour,2016 Fall,Crimes of the Mind,,0,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2016-10-28,2016,0,14,2,2,0,0,4,2016 Fall Tour,2016 Fall,Golden Age,,0,MGM Grand Garden Arena,Las Vegas,NV,USA,>
-2016-10-28,2016,0,15,2,2,0,0,3,2016 Fall Tour,2016 Fall,Simple,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
-2016-10-28,2016,0,16,2,2,0,0,9,2016 Fall Tour,2016 Fall,Light,,0,MGM Grand Garden Arena,Las Vegas,NV,USA,>
-2016-10-28,2016,0,17,2,2,0,0,9,2016 Fall Tour,2016 Fall,Twenty Years Later,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,>
-2016-10-28,2016,0,18,1,2,0,0,3,2016 Fall Tour,2016 Fall,Blaze On,,1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2016-10-28,2016,0,19,5,2,0,0,11,2016 Fall Tour,2016 Fall,The Squirming Coil,Coil,1,MGM Grand Garden Arena,Las Vegas,NV,USA,
-2016-10-28,2016,0,20,1,e,0,0,6,2016 Fall Tour,2016 Fall,Bouncing Around the Room,Bouncin',1,MGM Grand Garden Arena,Las Vegas,NV,USA,","
-2016-10-28,2016,0,21,6,e,0,0,22,2016 Fall Tour,2016 Fall,Bold As Love,,0,MGM Grand Garden Arena,Las Vegas,NV,USA,
-2019-06-23,2019,0,1,2,1,0,0,5,2019 Summer Tour,2019 Summer,Carini,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,2,2,1,0,0,66,2019 Summer Tour,2019 Summer,My Soul,,0,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,3,1,1,0,0,27,2019 Summer Tour,2019 Summer,Rift,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-23,2019,0,4,1,1,0,0,28,2019 Summer Tour,2019 Summer,Gumbo,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-23,2019,0,5,2,1,0,0,47,2019 Summer Tour,2019 Summer,It's Ice,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,6,1,1,0,0,40,2019 Summer Tour,2019 Summer,Winterqueen,,0,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-23,2019,0,7,1,1,0,0,66,2019 Summer Tour,2019 Summer,Yarmouth Road,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-23,2019,0,8,1,1,0,0,10,2019 Summer Tour,2019 Summer,Shade,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-23,2019,0,9,1,1,0,0,1830,2019 Summer Tour,2019 Summer,Halfway Home,,0,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-23,2019,0,10,2,1,0,0,4,2019 Summer Tour,2019 Summer,The Wedge,Wedge,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,11,4,1,0,0,7,2019 Summer Tour,2019 Summer,Run Like an Antelope,Antelope,1,Merriweather Post Pavilion,Columbia,MD,USA,
-2019-06-23,2019,0,12,2,2,0,0,13,2019 Summer Tour,2019 Summer,Crosseyed and Painless,C&amp;P,0,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,13,2,2,0,0,2,2019 Summer Tour,2019 Summer,Everything's Right,,0,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,14,3,2,0,0,4,2019 Summer Tour,2019 Summer,Ruby Waves,,0,Merriweather Post Pavilion,Columbia,MD,USA,->
-2019-06-23,2019,0,15,2,2,0,0,4,2019 Summer Tour,2019 Summer,Twist,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,16,2,2,0,0,6,2019 Summer Tour,2019 Summer,Also Sprach Zarathustra,2001,0,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,17,5,2,0,0,4,2019 Summer Tour,2019 Summer,Blaze On,,1,Merriweather Post Pavilion,Columbia,MD,USA,
-2019-06-23,2019,0,18,1,e,0,0,15,2019 Summer Tour,2019 Summer,Maze,,1,Merriweather Post Pavilion,Columbia,MD,USA,","
-2019-06-23,2019,0,19,2,e,0,0,6,2019 Summer Tour,2019 Summer,Waste,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,20,2,e,0,0,10,2019 Summer Tour,2019 Summer,Sanity,,1,Merriweather Post Pavilion,Columbia,MD,USA,>
-2019-06-23,2019,0,21,6,e,0,0,5,2019 Summer Tour,2019 Summer,Wilson,,1,Merriweather Post Pavilion,Columbia,MD,USA,
-2021-10-20,2021,0,1,1,1,2,0,10,2021 Fall Tour,2021 Fall,Mr. Completely,,0,Matthew Knight Arena,Eugene,OR,USA,","
-2021-10-20,2021,0,2,3,1,2,0,28,2021 Fall Tour,2021 Fall,Energy,,0,Matthew Knight Arena,Eugene,OR,USA,->
-2021-10-20,2021,0,3,1,1,2,0,6,2021 Fall Tour,2021 Fall,Timber (Jerry the Mule),Timber Ho,0,Matthew Knight Arena,Eugene,OR,USA,","
-2021-10-20,2021,0,4,2,1,2,0,18,2021 Fall Tour,2021 Fall,Casual Enlightenment,,1,Matthew Knight Arena,Eugene,OR,USA,>
-2021-10-20,2021,0,5,1,1,2,0,11,2021 Fall Tour,2021 Fall,Divided Sky,Divided,1,Matthew Knight Arena,Eugene,OR,USA,","
-2021-10-20,2021,0,6,1,1,2,0,6,2021 Fall Tour,2021 Fall,Farmhouse,,1,Matthew Knight Arena,Eugene,OR,USA,","
-2021-10-20,2021,0,7,2,1,2,0,12,2021 Fall Tour,2021 Fall,Split Open and Melt,SOAMelt,1,Matthew Knight Arena,Eugene,OR,USA,>
-2021-10-20,2021,0,8,2,1,2,0,127,2021 Fall Tour,2021 Fall,End of Session,,1,Matthew Knight Arena,Eugene,OR,USA,>
-2021-10-20,2021,0,9,4,1,2,0,0,2021 Fall Tour,2021 Fall,Split Open and Melt,SOAMelt,1,Matthew Knight Arena,Eugene,OR,USA,
-2021-10-20,2021,0,10,2,2,2,0,14,2021 Fall Tour,2021 Fall,AC/DC Bag,Bag,1,Matthew Knight Arena,Eugene,OR,USA,>
-2021-10-20,2021,0,11,2,2,2,0,5,2021 Fall Tour,2021 Fall,Ruby Waves,,0,Matthew Knight Arena,Eugene,OR,USA,>
-2021-10-20,2021,0,12,2,2,2,0,5,2021 Fall Tour,2021 Fall,Lonely Trip,,0,Matthew Knight Arena,Eugene,OR,USA,>
-2021-10-20,2021,0,13,2,2,2,0,16,2021 Fall Tour,2021 Fall,Golden Age,,0,Matthew Knight Arena,Eugene,OR,USA,>
-2021-10-20,2021,0,14,5,2,2,0,7,2021 Fall Tour,2021 Fall,Backwards Down the Number Line,BDTNL,0,Matthew Knight Arena,Eugene,OR,USA,
-2021-10-20,2021,0,15,2,e,2,0,9,2021 Fall Tour,2021 Fall,Wilson,,1,Matthew Knight Arena,Eugene,OR,USA,>
-2021-10-20,2021,0,16,6,e,2,0,5,2021 Fall Tour,2021 Fall,Say It To Me S.A.N.T.O.S.,,1,Matthew Knight Arena,Eugene,OR,USA,
-2025-01-28,2025,1,1,1,1,0,0,382,Not Part of a Tour,No Tour,Jam,,0,Moon Palace,Cancun,Quintana Roo,Mexico,","
-2025-01-28,2025,1,2,1,1,0,0,18,Not Part of a Tour,No Tour,My Soul,,0,Moon Palace,Cancun,Quintana Roo,Mexico,","
-2025-01-28,2025,1,3,1,1,0,0,10,Not Part of a Tour,No Tour,Ocelot,,1,Moon Palace,Cancun,Quintana Roo,Mexico,","
-2025-01-28,2025,1,4,6,1,2,2,382,Not Part of a Tour,No Tour,Jam,,0,Moon Palace,Cancun,Quintana Roo,Mexico,
+1988-03-21,1988,0,1,1,1,0,0,5,1988 Tour,1988,Suzy Greenberg,Suzy,1,Nectar's,Burlington,VT,USA,","
+1988-03-21,1988,0,2,1,1,0,0,3,1988 Tour,1988,Golgi Apparatus,Golgi,1,Nectar's,Burlington,VT,USA,","
+1988-03-21,1988,0,3,1,1,0,0,2,1988 Tour,1988,McGrupp and the Watchful Hosemasters,McGrupp,1,Nectar's,Burlington,VT,USA,","
+1988-03-21,1988,0,4,1,1,0,0,3,1988 Tour,1988,Sneakin' Sally Thru the Alley,Sneakin' Sally,0,Nectar's,Burlington,VT,USA,","
+1988-03-21,1988,0,5,1,1,0,0,7,1988 Tour,1988,Divided Sky,Divided,1,Nectar's,Burlington,VT,USA,","
+1988-03-21,1988,0,6,2,1,0,0,45,1988 Tour,1988,Boogie On Reggae Woman,Boogie On,0,Nectar's,Burlington,VT,USA,>
+1988-03-21,1988,0,7,1,1,0,0,9,1988 Tour,1988,Timber (Jerry the Mule),Timber Ho,0,Nectar's,Burlington,VT,USA,","
+1988-03-21,1988,0,8,4,1,0,0,2,1988 Tour,1988,The Lizards,Lizards,1,Nectar's,Burlington,VT,USA,
+1988-03-21,1988,0,9,1,2,0,0,7,1988 Tour,1988,Fire,,0,Nectar's,Burlington,VT,USA,","
+1988-03-21,1988,0,10,2,2,0,0,1,1988 Tour,1988,AC/DC Bag,Bag,1,Nectar's,Burlington,VT,USA,>
+1988-03-21,1988,0,11,2,2,0,0,21,1988 Tour,1988,The Chase,,1,Nectar's,Burlington,VT,USA,>
+1988-03-21,1988,0,12,1,2,0,0,1,1988 Tour,1988,Possum,,1,Nectar's,Burlington,VT,USA,","
+1988-03-21,1988,0,13,1,2,0,0,3,1988 Tour,1988,Dinner and a Movie,,1,Nectar's,Burlington,VT,USA,","
+1988-03-21,1988,0,14,1,2,0,0,5,1988 Tour,1988,I Didn't Know,IDK,1,Nectar's,Burlington,VT,USA,","
+1988-03-21,1988,0,15,2,2,0,0,2,1988 Tour,1988,Colonel Forbin's Ascent,Forbin's,1,Nectar's,Burlington,VT,USA,>
+1988-03-21,1988,0,16,6,2,0,0,2,1988 Tour,1988,Fly Famous Mockingbird,Mockingbird,1,Nectar's,Burlington,VT,USA,
+1989-03-13,1989,0,1,1,1,0,0,3,1989 Tour,1989,You Enjoy Myself,YEM,1,Nectar's,Burlington,VT,USA,","
+1989-03-13,1989,0,2,1,1,0,0,3,1989 Tour,1989,Fee,,1,Nectar's,Burlington,VT,USA,","
+1989-03-13,1989,0,3,1,1,0,0,75,1989 Tour,1989,Ya Mar,,0,Nectar's,Burlington,VT,USA,","
+1989-03-13,1989,0,4,1,1,0,0,5,1989 Tour,1989,Big Black Furry Creature from Mars,BBFCFM,1,Nectar's,Burlington,VT,USA,","
+1989-03-13,1989,0,5,4,1,0,0,4,1989 Tour,1989,David Bowie,Bowie,1,Nectar's,Burlington,VT,USA,
+1989-03-13,1989,0,6,1,2,0,0,13,1989 Tour,1989,Sanity,,1,Nectar's,Burlington,VT,USA,","
+1989-03-13,1989,0,7,1,2,0,0,3,1989 Tour,1989,Take the 'A' Train,'A' Train,0,Nectar's,Burlington,VT,USA,","
+1989-03-13,1989,0,8,1,2,0,0,2,1989 Tour,1989,Possum,,1,Nectar's,Burlington,VT,USA,","
+1989-03-13,1989,0,9,1,2,0,0,4,1989 Tour,1989,Divided Sky,Divided,1,Nectar's,Burlington,VT,USA,","
+1989-03-13,1989,0,10,1,2,0,0,3,1989 Tour,1989,The Lizards,Lizards,1,Nectar's,Burlington,VT,USA,","
+1989-03-13,1989,0,11,4,2,0,0,5,1989 Tour,1989,Fire,,0,Nectar's,Burlington,VT,USA,
+1989-03-13,1989,0,12,1,3,0,0,9,1989 Tour,1989,Whipping Post,,0,Nectar's,Burlington,VT,USA,","
+1989-03-13,1989,0,13,1,3,0,0,3,1989 Tour,1989,I Didn't Know,IDK,1,Nectar's,Burlington,VT,USA,","
+1989-03-13,1989,0,14,5,3,0,0,155,1989 Tour,1989,Free Bird,,0,Nectar's,Burlington,VT,USA,
+1989-03-13,1989,0,15,6,e,0,0,1,1989 Tour,1989,Golgi Apparatus,Golgi,1,Nectar's,Burlington,VT,USA,
+1989-10-10,1989,0,1,1,1,0,0,18,1989 Tour,1989,The Ballad of Curtis Loew,Curtis Loew,0,The Front,Burlington,VT,USA,","
+1989-10-10,1989,0,2,2,1,0,0,1,1989 Tour,1989,Alumni Blues,Alumni,1,The Front,Burlington,VT,USA,>
+1989-10-10,1989,0,3,2,1,0,0,1,1989 Tour,1989,Letter to Jimmy Page,LTJP,1,The Front,Burlington,VT,USA,>
+1989-10-10,1989,0,4,1,1,0,0,0,1989 Tour,1989,Alumni Blues,Alumni,1,The Front,Burlington,VT,USA,","
+1989-10-10,1989,0,5,1,1,0,0,1,1989 Tour,1989,Contact,,1,The Front,Burlington,VT,USA,","
+1989-10-10,1989,0,6,1,1,0,0,1,1989 Tour,1989,The Lizards,Lizards,1,The Front,Burlington,VT,USA,","
+1989-10-10,1989,0,7,1,1,0,0,1,1989 Tour,1989,David Bowie,Bowie,1,The Front,Burlington,VT,USA,","
+1989-10-10,1989,0,8,2,1,0,0,3,1989 Tour,1989,McGrupp and the Watchful Hosemasters,McGrupp,1,The Front,Burlington,VT,USA,>
+1989-10-10,1989,0,9,1,1,0,0,3,1989 Tour,1989,Who Do? We Do!,,1,The Front,Burlington,VT,USA,","
+1989-10-10,1989,0,10,1,1,0,0,4,1989 Tour,1989,Divided Sky,Divided,1,The Front,Burlington,VT,USA,","
+1989-10-10,1989,0,11,1,1,0,0,2,1989 Tour,1989,Reba,,1,The Front,Burlington,VT,USA,","
+1989-10-10,1989,0,12,2,1,0,0,1,1989 Tour,1989,Mike's Song,Mike's,1,The Front,Burlington,VT,USA,>
+1989-10-10,1989,0,13,2,1,0,0,1,1989 Tour,1989,I Am Hydrogen,Hydrogen,1,The Front,Burlington,VT,USA,>
+1989-10-10,1989,0,14,5,1,0,0,1,1989 Tour,1989,Weekapaug Groove,Weekapaug,1,The Front,Burlington,VT,USA,
+1989-10-10,1989,0,15,6,e,0,0,145,1989 Tour,1989,"Swing Low, Sweet Chariot",,0,The Front,Burlington,VT,USA,
+1989-12-30,1989,0,1,3,1,0,0,315,1989 Tour,1989,Fluff's Travels,,1,The Wetlands Preserve,New York,NY,USA,->
+1989-12-30,1989,0,2,4,1,0,0,3,1989 Tour,1989,David Bowie,Bowie,1,The Wetlands Preserve,New York,NY,USA,
+1989-12-30,1989,0,3,1,2,0,0,4,1989 Tour,1989,Bathtub Gin,Gin,1,The Wetlands Preserve,New York,NY,USA,","
+1989-12-30,1989,0,4,1,2,0,0,5,1989 Tour,1989,Split Open and Melt,SOAMelt,1,The Wetlands Preserve,New York,NY,USA,","
+1989-12-30,1989,0,5,1,2,0,0,1,1989 Tour,1989,Ya Mar,,0,The Wetlands Preserve,New York,NY,USA,","
+1989-12-30,1989,0,6,2,2,0,0,5,1989 Tour,1989,Suzy Greenberg,Suzy,1,The Wetlands Preserve,New York,NY,USA,>
+1989-12-30,1989,0,7,1,2,0,0,4,1989 Tour,1989,Foam,,1,The Wetlands Preserve,New York,NY,USA,","
+1989-12-30,1989,0,8,2,2,0,0,5,1989 Tour,1989,My Sweet One,MSO,1,The Wetlands Preserve,New York,NY,USA,>
+1989-12-30,1989,0,9,1,2,0,0,4,1989 Tour,1989,La Grange,,0,The Wetlands Preserve,New York,NY,USA,","
+1989-12-30,1989,0,10,1,2,0,0,1,1989 Tour,1989,Lawn Boy,,1,The Wetlands Preserve,New York,NY,USA,","
+1989-12-30,1989,0,11,5,2,0,0,2,1989 Tour,1989,Golgi Apparatus,Golgi,1,The Wetlands Preserve,New York,NY,USA,
+1989-12-30,1989,0,12,3,e,0,0,313,1989 Tour,1989,Auld Lang Syne,,0,The Wetlands Preserve,New York,NY,USA,->
+1989-12-30,1989,0,13,2,e,0,0,1,1989 Tour,1989,Mike's Song,Mike's,1,The Wetlands Preserve,New York,NY,USA,>
+1989-12-30,1989,0,14,2,e,0,0,1,1989 Tour,1989,I Am Hydrogen,Hydrogen,1,The Wetlands Preserve,New York,NY,USA,>
+1989-12-30,1989,0,15,6,e,0,0,1,1989 Tour,1989,Weekapaug Groove,Weekapaug,1,The Wetlands Preserve,New York,NY,USA,
+1990-05-12,1990,0,1,6,1,0,0,16,1990 Tour,1990,Alumni Blues,Alumni,1,The Front,Burlington,VT,USA,
+1990-09-30,1990,0,1,1,1,0,0,12,Not Part of a Tour,No Tour,Self,,0,Unknown Venue,Unknown,,USA,","
+1990-09-30,1990,0,2,1,1,0,0,0,Not Part of a Tour,No Tour,Family Picture,,0,Unknown Venue,Unknown,,USA,","
+1990-09-30,1990,0,3,6,1,0,0,0,Not Part of a Tour,No Tour,We've Only Just Begun,,1,Unknown Venue,Unknown,,USA,
+1991-03-22,1991,0,1,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Chalk Dust Torture,CDT,1,The Inferno,Steamboat Springs,CO,USA,","
+1991-03-22,1991,0,2,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Llama,,1,The Inferno,Steamboat Springs,CO,USA,","
+1991-03-22,1991,0,3,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,You Enjoy Myself,YEM,1,The Inferno,Steamboat Springs,CO,USA,","
+1991-03-22,1991,0,4,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Landlady,Landlady,1,The Inferno,Steamboat Springs,CO,USA,>
+1991-03-22,1991,0,5,1,1,0,0,3,1991 Winter/Spring Tour,1991 Winter,Destiny Unbound,Destiny,1,The Inferno,Steamboat Springs,CO,USA,","
+1991-03-22,1991,0,6,1,1,0,0,0,1991 Winter/Spring Tour,1991 Winter,Bouncing Around the Room,Bouncin',1,The Inferno,Steamboat Springs,CO,USA,","
+1991-03-22,1991,0,7,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Split Open and Melt,SOAMelt,1,The Inferno,Steamboat Springs,CO,USA,","
+1991-03-22,1991,0,8,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Squirming Coil,Coil,1,The Inferno,Steamboat Springs,CO,USA,>
+1991-03-22,1991,0,9,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Buried Alive,,1,The Inferno,Steamboat Springs,CO,USA,>
+1991-03-22,1991,0,10,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Cavern,,1,The Inferno,Steamboat Springs,CO,USA,>
+1991-03-22,1991,0,11,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Reba,,1,The Inferno,Steamboat Springs,CO,USA,","
+1991-03-22,1991,0,12,4,1,0,0,5,1991 Winter/Spring Tour,1991 Winter,Fire,,0,The Inferno,Steamboat Springs,CO,USA,
+1991-03-22,1991,0,13,2,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,The Oh Kee Pa Ceremony,Oh Kee Pa,1,The Inferno,Steamboat Springs,CO,USA,>
+1991-03-22,1991,0,14,2,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Suzy Greenberg,Suzy,1,The Inferno,Steamboat Springs,CO,USA,>
+1991-03-22,1991,0,15,2,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Run Like an Antelope,Antelope,1,The Inferno,Steamboat Springs,CO,USA,>
+1991-03-22,1991,0,16,1,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Foam,,1,The Inferno,Steamboat Springs,CO,USA,","
+1991-03-22,1991,0,17,1,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,Paul and Silas,,0,The Inferno,Steamboat Springs,CO,USA,","
+1991-03-22,1991,0,18,1,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Stash,,1,The Inferno,Steamboat Springs,CO,USA,","
+1991-03-22,1991,0,19,2,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Runaway Jim,,1,The Inferno,Steamboat Springs,CO,USA,>
+1991-03-22,1991,0,20,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Guelah Papyrus,Guelah,1,The Inferno,Steamboat Springs,CO,USA,","
+1991-03-22,1991,0,21,2,2,0,0,4,1991 Winter/Spring Tour,1991 Winter,Hold Your Head Up,HYHU,0,The Inferno,Steamboat Springs,CO,USA,>
+1991-03-22,1991,0,22,2,2,0,0,4,1991 Winter/Spring Tour,1991 Winter,Terrapin,,0,The Inferno,Steamboat Springs,CO,USA,>
+1991-03-22,1991,0,23,1,2,0,0,19,1991 Winter/Spring Tour,1991 Winter,Let's Go,,0,The Inferno,Steamboat Springs,CO,USA,","
+1991-03-22,1991,0,24,2,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Mike's Song,Mike's,1,The Inferno,Steamboat Springs,CO,USA,>
+1991-03-22,1991,0,25,2,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,I Am Hydrogen,Hydrogen,1,The Inferno,Steamboat Springs,CO,USA,>
+1991-03-22,1991,0,26,5,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,Weekapaug Groove,Weekapaug,1,The Inferno,Steamboat Springs,CO,USA,
+1991-03-22,1991,0,27,1,e,0,0,2,1991 Winter/Spring Tour,1991 Winter,Magilla,,1,The Inferno,Steamboat Springs,CO,USA,","
+1991-03-22,1991,0,28,6,e,0,0,2,1991 Winter/Spring Tour,1991 Winter,Golgi Apparatus,Golgi,1,The Inferno,Steamboat Springs,CO,USA,
+1991-04-05,1991,0,1,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Landlady,Landlady,1,Starry Night,Portland,OR,USA,>
+1991-04-05,1991,0,2,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Bouncing Around the Room,Bouncin',1,Starry Night,Portland,OR,USA,>
+1991-04-05,1991,0,3,1,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Divided Sky,Divided,1,Starry Night,Portland,OR,USA,","
+1991-04-05,1991,0,4,2,1,0,0,1,1991 Winter/Spring Tour,1991 Winter,Cavern,,1,Starry Night,Portland,OR,USA,>
+1991-04-05,1991,0,5,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Take the 'A' Train,'A' Train,0,Starry Night,Portland,OR,USA,>
+1991-04-05,1991,0,6,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Reba,,1,Starry Night,Portland,OR,USA,","
+1991-04-05,1991,0,7,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Chalk Dust Torture,CDT,1,Starry Night,Portland,OR,USA,","
+1991-04-05,1991,0,8,1,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Foam,,1,Starry Night,Portland,OR,USA,","
+1991-04-05,1991,0,9,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Mike's Song,Mike's,1,Starry Night,Portland,OR,USA,>
+1991-04-05,1991,0,10,2,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,I Am Hydrogen,Hydrogen,1,Starry Night,Portland,OR,USA,>
+1991-04-05,1991,0,11,4,1,0,0,2,1991 Winter/Spring Tour,1991 Winter,Weekapaug Groove,Weekapaug,1,Starry Night,Portland,OR,USA,
+1991-04-05,1991,0,12,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Rocky Top,,0,Starry Night,Portland,OR,USA,","
+1991-04-05,1991,0,13,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Stash,,1,Starry Night,Portland,OR,USA,","
+1991-04-05,1991,0,14,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,The Lizards,Lizards,1,Starry Night,Portland,OR,USA,","
+1991-04-05,1991,0,15,1,2,0,0,4,1991 Winter/Spring Tour,1991 Winter,The Sloth,Sloth,1,Starry Night,Portland,OR,USA,","
+1991-04-05,1991,0,16,2,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,Dinner and a Movie,,1,Starry Night,Portland,OR,USA,>
+1991-04-05,1991,0,17,1,2,0,0,3,1991 Winter/Spring Tour,1991 Winter,Harry Hood,Hood,1,Starry Night,Portland,OR,USA,","
+1991-04-05,1991,0,18,1,2,0,0,2,1991 Winter/Spring Tour,1991 Winter,I Didn't Know,IDK,1,Starry Night,Portland,OR,USA,","
+1991-04-05,1991,0,19,1,2,0,0,1,1991 Winter/Spring Tour,1991 Winter,My Sweet One,MSO,1,Starry Night,Portland,OR,USA,","
+1991-04-05,1991,0,20,5,2,0,0,5,1991 Winter/Spring Tour,1991 Winter,Good Times Bad Times,GTBT,0,Starry Night,Portland,OR,USA,
+1991-04-05,1991,0,21,2,e,0,0,2,1991 Winter/Spring Tour,1991 Winter,Fee,,1,Starry Night,Portland,OR,USA,>
+1991-04-05,1991,0,22,2,e,0,0,1,1991 Winter/Spring Tour,1991 Winter,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Starry Night,Portland,OR,USA,>
+1991-04-05,1991,0,23,6,e,0,0,1,1991 Winter/Spring Tour,1991 Winter,Suzy Greenberg,Suzy,1,Starry Night,Portland,OR,USA,
+1992-08-24,1992,0,1,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Buried Alive,,1,Gerald Ford Amphitheater,Vail,CO,USA,","
+1992-08-24,1992,0,2,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,Poor Heart,,1,Gerald Ford Amphitheater,Vail,CO,USA,","
+1992-08-24,1992,0,3,1,1,0,0,4,1992 Summer U.S. Tour,1992 Summer,All Things Reconsidered,ATR,1,Gerald Ford Amphitheater,Vail,CO,USA,","
+1992-08-24,1992,0,4,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Tweezer,,1,Gerald Ford Amphitheater,Vail,CO,USA,","
+1992-08-24,1992,0,5,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,The Landlady,Landlady,1,Gerald Ford Amphitheater,Vail,CO,USA,","
+1992-08-24,1992,0,6,1,1,0,0,3,1992 Summer U.S. Tour,1992 Summer,Reba,,1,Gerald Ford Amphitheater,Vail,CO,USA,","
+1992-08-24,1992,0,7,6,1,0,0,2,1992 Summer U.S. Tour,1992 Summer,You Enjoy Myself,YEM,1,Gerald Ford Amphitheater,Vail,CO,USA,
+1992-11-20,1992,0,1,1,1,0,0,1,1992 Fall Tour,1992 Fall,Axilla,,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,2,1,1,0,0,8,1992 Fall Tour,1992 Fall,All Things Reconsidered,ATR,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,3,2,1,0,0,12,1992 Fall Tour,1992 Fall,Suzy Greenberg,Suzy,1,Palace Theatre,Albany,NY,USA,>
+1992-11-20,1992,0,4,1,1,0,0,2,1992 Fall Tour,1992 Fall,Rift,,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,5,1,1,0,0,31,1992 Fall Tour,1992 Fall,The Sloth,Sloth,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,6,1,1,0,0,2,1992 Fall Tour,1992 Fall,Reba,,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,7,2,1,0,0,6,1992 Fall Tour,1992 Fall,Sparkle,,1,Palace Theatre,Albany,NY,USA,>
+1992-11-20,1992,0,8,1,1,0,0,2,1992 Fall Tour,1992 Fall,Stash,,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,9,1,1,0,0,22,1992 Fall Tour,1992 Fall,The Lizards,Lizards,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,10,1,1,0,0,2,1992 Fall Tour,1992 Fall,Memories,,0,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,11,2,1,0,0,10,1992 Fall Tour,1992 Fall,David Bowie,Bowie,1,Palace Theatre,Albany,NY,USA,>
+1992-11-20,1992,0,12,1,1,0,0,0,1992 Fall Tour,1992 Fall,I Walk the Line,,0,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,13,4,1,0,0,0,1992 Fall Tour,1992 Fall,David Bowie,Bowie,1,Palace Theatre,Albany,NY,USA,
+1992-11-20,1992,0,14,1,2,0,0,4,1992 Fall Tour,1992 Fall,Chalk Dust Torture,CDT,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,15,1,2,0,0,30,1992 Fall Tour,1992 Fall,Fluffhead,,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,16,1,2,0,0,66,1992 Fall Tour,1992 Fall,Tube,,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,17,1,2,0,0,1,1992 Fall Tour,1992 Fall,You Enjoy Myself,YEM,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,18,1,2,0,0,1,1992 Fall Tour,1992 Fall,Fast Enough for You,FEFY,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,19,1,2,0,0,30,1992 Fall Tour,1992 Fall,Dinner and a Movie,,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,20,1,2,0,0,30,1992 Fall Tour,1992 Fall,Harry Hood,Hood,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,21,2,2,0,0,1,1992 Fall Tour,1992 Fall,Hold Your Head Up,HYHU,0,Palace Theatre,Albany,NY,USA,>
+1992-11-20,1992,0,22,1,2,0,0,12,1992 Fall Tour,1992 Fall,Terrapin,,0,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,23,1,2,0,0,1,1992 Fall Tour,1992 Fall,Lengthwise,,1,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,24,5,2,0,0,118,1992 Fall Tour,1992 Fall,Self,,0,Palace Theatre,Albany,NY,USA,
+1992-11-20,1992,0,25,1,e,0,0,2,1992 Fall Tour,1992 Fall,Sweet Adeline,,0,Palace Theatre,Albany,NY,USA,","
+1992-11-20,1992,0,26,6,e,0,0,18,1992 Fall Tour,1992 Fall,Good Times Bad Times,GTBT,0,Palace Theatre,Albany,NY,USA,
+1992-12-11,1992,0,1,1,1,2,0,3,1992 Fall Tour,1992 Fall,Runaway Jim,,1,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,2,2,1,2,0,2,1992 Fall Tour,1992 Fall,It's Ice,,1,Michigan Theater,Ann Arbor,MI,USA,>
+1992-12-11,1992,0,3,1,1,2,0,2,1992 Fall Tour,1992 Fall,Uncle Pen,,0,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,4,1,1,2,0,2,1992 Fall Tour,1992 Fall,Stash,,1,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,5,1,1,2,0,2,1992 Fall Tour,1992 Fall,The Lizards,Lizards,1,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,6,1,1,2,0,3,1992 Fall Tour,1992 Fall,Chalk Dust Torture,CDT,1,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,7,1,1,2,0,2,1992 Fall Tour,1992 Fall,Guelah Papyrus,Guelah,1,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,8,2,1,2,0,2,1992 Fall Tour,1992 Fall,Sparkle,,1,Michigan Theater,Ann Arbor,MI,USA,>
+1992-12-11,1992,0,9,1,1,2,0,3,1992 Fall Tour,1992 Fall,"My Friend, My Friend",My Friend,1,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,10,1,1,2,0,5,1992 Fall Tour,1992 Fall,Memories,,0,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,11,4,1,2,0,3,1992 Fall Tour,1992 Fall,David Bowie,Bowie,1,Michigan Theater,Ann Arbor,MI,USA,
+1992-12-11,1992,0,12,2,2,2,0,9,1992 Fall Tour,1992 Fall,Dinner and a Movie,,1,Michigan Theater,Ann Arbor,MI,USA,>
+1992-12-11,1992,0,13,2,2,2,0,2,1992 Fall Tour,1992 Fall,Mike's Song,Mike's,1,Michigan Theater,Ann Arbor,MI,USA,>
+1992-12-11,1992,0,14,3,2,2,0,2,1992 Fall Tour,1992 Fall,I Am Hydrogen,Hydrogen,1,Michigan Theater,Ann Arbor,MI,USA,->
+1992-12-11,1992,0,15,3,2,2,0,3,1992 Fall Tour,1992 Fall,The Vibration of Life,Vibration of Life,1,Michigan Theater,Ann Arbor,MI,USA,->
+1992-12-11,1992,0,16,2,2,2,0,0,1992 Fall Tour,1992 Fall,I Am Hydrogen,Hydrogen,1,Michigan Theater,Ann Arbor,MI,USA,>
+1992-12-11,1992,0,17,1,2,2,0,2,1992 Fall Tour,1992 Fall,Weekapaug Groove,Weekapaug,1,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,18,2,2,2,0,6,1992 Fall Tour,1992 Fall,Esther,,1,Michigan Theater,Ann Arbor,MI,USA,>
+1992-12-11,1992,0,19,1,2,2,0,3,1992 Fall Tour,1992 Fall,Axilla,,1,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,20,1,2,2,0,2,1992 Fall Tour,1992 Fall,Bouncing Around the Room,Bouncin',1,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,21,2,2,2,0,4,1992 Fall Tour,1992 Fall,Paul and Silas,,0,Michigan Theater,Ann Arbor,MI,USA,>
+1992-12-11,1992,0,22,1,2,2,0,1,1992 Fall Tour,1992 Fall,Big Ball Jam,BBJ,1,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,23,1,2,2,0,6,1992 Fall Tour,1992 Fall,Faht,,1,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,24,5,2,2,0,3,1992 Fall Tour,1992 Fall,Possum,,1,Michigan Theater,Ann Arbor,MI,USA,
+1992-12-11,1992,0,25,1,e,2,0,11,1992 Fall Tour,1992 Fall,Contact,,1,Michigan Theater,Ann Arbor,MI,USA,","
+1992-12-11,1992,0,26,6,e,2,0,5,1992 Fall Tour,1992 Fall,Good Times Bad Times,GTBT,0,Michigan Theater,Ann Arbor,MI,USA,
+1993-04-25,1993,0,1,1,1,0,0,7,1993 Winter/Spring Tour,1993 Winter,The Landlady,Landlady,1,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,","
+1993-04-25,1993,0,2,1,1,0,0,3,1993 Winter/Spring Tour,1993 Winter,Possum,,1,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,","
+1993-04-25,1993,0,3,1,1,0,0,2,1993 Winter/Spring Tour,1993 Winter,Bouncing Around the Room,Bouncin',1,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,","
+1993-04-25,1993,0,4,2,1,0,0,2,1993 Winter/Spring Tour,1993 Winter,It's Ice,,1,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,>
+1993-04-25,1993,0,5,2,1,0,0,5,1993 Winter/Spring Tour,1993 Winter,Glide,,1,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,>
+1993-04-25,1993,0,6,1,1,0,0,2,1993 Winter/Spring Tour,1993 Winter,Runaway Jim,,1,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,","
+1993-04-25,1993,0,7,2,1,0,0,4,1993 Winter/Spring Tour,1993 Winter,Colonel Forbin's Ascent,Forbin's,1,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,>
+1993-04-25,1993,0,8,1,1,0,0,4,1993 Winter/Spring Tour,1993 Winter,Fly Famous Mockingbird,Mockingbird,1,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,","
+1993-04-25,1993,0,9,1,1,0,0,2,1993 Winter/Spring Tour,1993 Winter,Maze,,1,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,","
+1993-04-25,1993,0,10,1,1,0,0,4,1993 Winter/Spring Tour,1993 Winter,I Didn't Know,IDK,1,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,","
+1993-04-25,1993,0,11,4,1,0,0,2,1993 Winter/Spring Tour,1993 Winter,Golgi Apparatus,Golgi,1,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,
+1993-04-25,1993,0,12,2,2,0,0,7,1993 Winter/Spring Tour,1993 Winter,Wilson,,1,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,>
+1993-04-25,1993,0,13,2,2,0,0,8,1993 Winter/Spring Tour,1993 Winter,The Curtain,Curtain,1,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,>
+1993-04-25,1993,0,14,1,2,0,0,2,1993 Winter/Spring Tour,1993 Winter,Tweezer,,1,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,","
+1993-04-25,1993,0,15,1,2,0,0,9,1993 Winter/Spring Tour,1993 Winter,Contact,,1,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,","
+1993-04-25,1993,0,16,1,2,0,0,3,1993 Winter/Spring Tour,1993 Winter,Uncle Pen,,0,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,","
+1993-04-25,1993,0,17,1,2,0,0,1,1993 Winter/Spring Tour,1993 Winter,Big Ball Jam,BBJ,1,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,","
+1993-04-25,1993,0,18,2,2,0,0,2,1993 Winter/Spring Tour,1993 Winter,Mike's Song,Mike's,1,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,>
+1993-04-25,1993,0,19,2,2,0,0,2,1993 Winter/Spring Tour,1993 Winter,I Am Hydrogen,Hydrogen,1,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,>
+1993-04-25,1993,0,20,1,2,0,0,2,1993 Winter/Spring Tour,1993 Winter,Weekapaug Groove,Weekapaug,1,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,","
+1993-04-25,1993,0,21,2,2,0,0,3,1993 Winter/Spring Tour,1993 Winter,Fee,,1,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,>
+1993-04-25,1993,0,22,5,2,0,0,2,1993 Winter/Spring Tour,1993 Winter,Tweezer Reprise,Tweeprise,1,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,
+1993-04-25,1993,0,23,1,e,0,0,1,1993 Winter/Spring Tour,1993 Winter,When Something is Wrong with My Baby,,0,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,","
+1993-04-25,1993,0,24,1,e,0,0,14,1993 Winter/Spring Tour,1993 Winter,Carolina,,0,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,","
+1993-04-25,1993,0,25,6,e,0,0,6,1993 Winter/Spring Tour,1993 Winter,Rocky Top,,0,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,
+1993-08-11,1993,0,1,2,1,0,0,4,1993 Summer Tour,1993 Summer,Buried Alive,,1,Eastbrook Theatre,Grand Rapids,MI,USA,>
+1993-08-11,1993,0,2,2,1,0,0,2,1993 Summer Tour,1993 Summer,Runaway Jim,,1,Eastbrook Theatre,Grand Rapids,MI,USA,>
+1993-08-11,1993,0,3,2,1,0,0,9,1993 Summer Tour,1993 Summer,Weigh,,1,Eastbrook Theatre,Grand Rapids,MI,USA,>
+1993-08-11,1993,0,4,1,1,0,0,2,1993 Summer Tour,1993 Summer,It's Ice,,1,Eastbrook Theatre,Grand Rapids,MI,USA,","
+1993-08-11,1993,0,5,2,1,0,0,805,1993 Summer Tour,1993 Summer,Ginseng Sullivan,Ginseng,0,Eastbrook Theatre,Grand Rapids,MI,USA,>
+1993-08-11,1993,0,6,1,1,0,0,0,1993 Summer Tour,1993 Summer,"My Friend, My Friend",My Friend,1,Eastbrook Theatre,Grand Rapids,MI,USA,","
+1993-08-11,1993,0,7,2,1,0,0,13,1993 Summer Tour,1993 Summer,The Mango Song,Mango,1,Eastbrook Theatre,Grand Rapids,MI,USA,>
+1993-08-11,1993,0,8,1,1,0,0,3,1993 Summer Tour,1993 Summer,Stash,,1,Eastbrook Theatre,Grand Rapids,MI,USA,","
+1993-08-11,1993,0,9,2,1,0,0,3,1993 Summer Tour,1993 Summer,Sparkle,,1,Eastbrook Theatre,Grand Rapids,MI,USA,>
+1993-08-11,1993,0,10,4,1,0,0,2,1993 Summer Tour,1993 Summer,Cavern,,1,Eastbrook Theatre,Grand Rapids,MI,USA,
+1993-08-11,1993,0,11,2,2,0,0,3,1993 Summer Tour,1993 Summer,Mike's Song,Mike's,1,Eastbrook Theatre,Grand Rapids,MI,USA,>
+1993-08-11,1993,0,12,2,2,0,0,10,1993 Summer Tour,1993 Summer,The Great Gig in the Sky,Great Gig in the Sky,0,Eastbrook Theatre,Grand Rapids,MI,USA,>
+1993-08-11,1993,0,13,1,2,0,0,6,1993 Summer Tour,1993 Summer,Weekapaug Groove,Weekapaug,1,Eastbrook Theatre,Grand Rapids,MI,USA,","
+1993-08-11,1993,0,14,2,2,0,0,8,1993 Summer Tour,1993 Summer,Esther,,1,Eastbrook Theatre,Grand Rapids,MI,USA,>
+1993-08-11,1993,0,15,1,2,0,0,6,1993 Summer Tour,1993 Summer,All Things Reconsidered,ATR,1,Eastbrook Theatre,Grand Rapids,MI,USA,","
+1993-08-11,1993,0,16,3,2,0,0,2,1993 Summer Tour,1993 Summer,Bouncing Around the Room,Bouncin',1,Eastbrook Theatre,Grand Rapids,MI,USA,->
+1993-08-11,1993,0,17,1,2,0,0,2,1993 Summer Tour,1993 Summer,Rift,,1,Eastbrook Theatre,Grand Rapids,MI,USA,","
+1993-08-11,1993,0,18,1,2,0,0,48,1993 Summer Tour,1993 Summer,Jesus Just Left Chicago,JJLC,0,Eastbrook Theatre,Grand Rapids,MI,USA,","
+1993-08-11,1993,0,19,2,2,0,0,2,1993 Summer Tour,1993 Summer,My Sweet One,MSO,1,Eastbrook Theatre,Grand Rapids,MI,USA,>
+1993-08-11,1993,0,20,5,2,0,0,3,1993 Summer Tour,1993 Summer,Run Like an Antelope,Antelope,1,Eastbrook Theatre,Grand Rapids,MI,USA,
+1993-08-11,1993,0,21,1,e,0,0,25,1993 Summer Tour,1993 Summer,Sweet Adeline,,0,Eastbrook Theatre,Grand Rapids,MI,USA,","
+1993-08-11,1993,0,22,6,e,0,0,43,1993 Summer Tour,1993 Summer,Bold As Love,,0,Eastbrook Theatre,Grand Rapids,MI,USA,
+1994-04-21,1994,0,1,1,1,0,0,2,1994 Spring Tour,1994 Spring,Chalk Dust Torture,CDT,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,","
+1994-04-21,1994,0,2,2,1,0,0,2,1994 Spring Tour,1994 Spring,Sparkle,,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,>
+1994-04-21,1994,0,3,1,1,0,0,3,1994 Spring Tour,1994 Spring,Foam,,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,","
+1994-04-21,1994,0,4,1,1,0,0,2,1994 Spring Tour,1994 Spring,Glide,,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,","
+1994-04-21,1994,0,5,1,1,0,0,2,1994 Spring Tour,1994 Spring,Split Open and Melt,SOAMelt,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,","
+1994-04-21,1994,0,6,1,1,0,0,4,1994 Spring Tour,1994 Spring,The Lizards,Lizards,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,","
+1994-04-21,1994,0,7,2,1,0,0,1,1994 Spring Tour,1994 Spring,Down with Disease,DwD,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,>
+1994-04-21,1994,0,8,2,1,0,0,3,1994 Spring Tour,1994 Spring,If I Could,,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,>
+1994-04-21,1994,0,9,4,1,0,0,1,1994 Spring Tour,1994 Spring,Cavern,,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,
+1994-04-21,1994,0,10,2,2,0,0,2,1994 Spring Tour,1994 Spring,Also Sprach Zarathustra,2001,0,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,>
+1994-04-21,1994,0,11,1,2,0,0,3,1994 Spring Tour,1994 Spring,Maze,,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,","
+1994-04-21,1994,0,12,2,2,0,0,4,1994 Spring Tour,1994 Spring,Fluffhead,,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,>
+1994-04-21,1994,0,13,2,2,0,0,2,1994 Spring Tour,1994 Spring,Mike's Song,Mike's,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,>
+1994-04-21,1994,0,14,2,2,0,0,10,1994 Spring Tour,1994 Spring,I Am Hydrogen,Hydrogen,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,>
+1994-04-21,1994,0,15,1,2,0,0,10,1994 Spring Tour,1994 Spring,Weekapaug Groove,Weekapaug,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,","
+1994-04-21,1994,0,16,1,2,0,0,6,1994 Spring Tour,1994 Spring,Scent of a Mule,SOAMule,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,","
+1994-04-21,1994,0,17,2,2,0,0,1,1994 Spring Tour,1994 Spring,Big Ball Jam,BBJ,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,>
+1994-04-21,1994,0,18,1,2,0,0,7,1994 Spring Tour,1994 Spring,Possum,,1,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,","
+1994-04-21,1994,0,19,5,2,0,0,5,1994 Spring Tour,1994 Spring,Amazing Grace,,0,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,
+1994-04-21,1994,0,20,3,e,0,0,314,1994 Spring Tour,1994 Spring,Drums,,0,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,->
+1994-04-21,1994,0,21,3,e,0,0,23,1994 Spring Tour,1994 Spring,Jam,,0,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,->
+1994-04-21,1994,0,22,6,e,0,0,840,1994 Spring Tour,1994 Spring,All Along the Watchtower,,0,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,
+1994-10-15,1994,0,1,2,1,0,0,7,1994 Fall Tour,1994 Fall,Wilson,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
+1994-10-15,1994,0,2,2,1,0,0,2,1994 Fall Tour,1994 Fall,Sparkle,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
+1994-10-15,1994,0,3,3,1,0,0,2,1994 Fall Tour,1994 Fall,Simple,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,->
+1994-10-15,1994,0,4,1,1,0,0,4,1994 Fall Tour,1994 Fall,Maze,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+1994-10-15,1994,0,5,1,1,0,0,7,1994 Fall Tour,1994 Fall,Glide,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+1994-10-15,1994,0,6,2,1,0,0,2,1994 Fall Tour,1994 Fall,Reba,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
+1994-10-15,1994,0,7,2,1,0,0,1,1994 Fall Tour,1994 Fall,Down with Disease,DwD,1,Oak Mountain Amphitheatre,Pelham,AL,USA,>
+1994-10-15,1994,0,8,4,1,0,0,4,1994 Fall Tour,1994 Fall,Golgi Apparatus,Golgi,1,Oak Mountain Amphitheatre,Pelham,AL,USA,
+1994-10-15,1994,0,9,2,2,0,0,6,1994 Fall Tour,1994 Fall,Also Sprach Zarathustra,2001,0,Oak Mountain Amphitheatre,Pelham,AL,USA,>
+1994-10-15,1994,0,10,1,2,0,0,5,1994 Fall Tour,1994 Fall,Runaway Jim,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+1994-10-15,1994,0,11,3,2,0,0,24,1994 Fall Tour,1994 Fall,Halley's Comet,Halley's,1,Oak Mountain Amphitheatre,Pelham,AL,USA,->
+1994-10-15,1994,0,12,1,2,0,0,3,1994 Fall Tour,1994 Fall,Scent of a Mule,SOAMule,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+1994-10-15,1994,0,13,3,2,0,0,2,1994 Fall Tour,1994 Fall,You Enjoy Myself,YEM,1,Oak Mountain Amphitheatre,Pelham,AL,USA,->
+1994-10-15,1994,0,14,3,2,0,0,8,1994 Fall Tour,1994 Fall,Catapult,,1,Oak Mountain Amphitheatre,Pelham,AL,USA,->
+1994-10-15,1994,0,15,1,2,0,0,0,1994 Fall Tour,1994 Fall,You Enjoy Myself,YEM,1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+1994-10-15,1994,0,16,1,2,0,0,2,1994 Fall Tour,1994 Fall,Amazing Grace,,0,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+1994-10-15,1994,0,17,1,2,0,0,1,1994 Fall Tour,1994 Fall,Foreplay/Long Time,,0,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+1994-10-15,1994,0,18,1,2,0,0,2,1994 Fall Tour,1994 Fall,Bouncing Around the Room,Bouncin',1,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+1994-10-15,1994,0,19,5,2,0,0,6,1994 Fall Tour,1994 Fall,Suzy Greenberg,Suzy,1,Oak Mountain Amphitheatre,Pelham,AL,USA,
+1994-10-15,1994,0,20,1,e,0,0,67,1994 Fall Tour,1994 Fall,Drums,,0,Oak Mountain Amphitheatre,Pelham,AL,USA,","
+1994-10-15,1994,0,21,6,e,0,0,907,1994 Fall Tour,1994 Fall,The Maker,,0,Oak Mountain Amphitheatre,Pelham,AL,USA,
+1995-11-19,1995,0,1,3,1,0,0,10,1995 Fall Tour,1995 Fall,Makisupa Policeman,Makisupa,1,Charlotte Coliseum,Charlotte,NC,USA,->
+1995-11-19,1995,0,2,1,1,0,0,4,1995 Fall Tour,1995 Fall,Maze,,1,Charlotte Coliseum,Charlotte,NC,USA,","
+1995-11-19,1995,0,3,2,1,0,0,3,1995 Fall Tour,1995 Fall,Poor Heart,,1,Charlotte Coliseum,Charlotte,NC,USA,>
+1995-11-19,1995,0,4,2,1,0,0,3,1995 Fall Tour,1995 Fall,Rift,,1,Charlotte Coliseum,Charlotte,NC,USA,>
+1995-11-19,1995,0,5,1,1,0,0,4,1995 Fall Tour,1995 Fall,Stash,,1,Charlotte Coliseum,Charlotte,NC,USA,","
+1995-11-19,1995,0,6,2,1,0,0,4,1995 Fall Tour,1995 Fall,Strange Design,,1,Charlotte Coliseum,Charlotte,NC,USA,>
+1995-11-19,1995,0,7,1,1,0,0,7,1995 Fall Tour,1995 Fall,It's Ice,,1,Charlotte Coliseum,Charlotte,NC,USA,","
+1995-11-19,1995,0,8,1,1,0,0,5,1995 Fall Tour,1995 Fall,Hello My Baby,,0,Charlotte Coliseum,Charlotte,NC,USA,","
+1995-11-19,1995,0,9,1,1,0,0,4,1995 Fall Tour,1995 Fall,Julius,,1,Charlotte Coliseum,Charlotte,NC,USA,","
+1995-11-19,1995,0,10,4,1,0,0,3,1995 Fall Tour,1995 Fall,The Squirming Coil,Coil,1,Charlotte Coliseum,Charlotte,NC,USA,
+1995-11-19,1995,0,11,2,2,0,0,2,1995 Fall Tour,1995 Fall,Theme from the Bottom,Theme,1,Charlotte Coliseum,Charlotte,NC,USA,>
+1995-11-19,1995,0,12,2,2,0,0,6,1995 Fall Tour,1995 Fall,Also Sprach Zarathustra,2001,0,Charlotte Coliseum,Charlotte,NC,USA,>
+1995-11-19,1995,0,13,2,2,0,0,5,1995 Fall Tour,1995 Fall,The Curtain,Curtain,1,Charlotte Coliseum,Charlotte,NC,USA,>
+1995-11-19,1995,0,14,2,2,0,0,4,1995 Fall Tour,1995 Fall,Tweezer,,1,Charlotte Coliseum,Charlotte,NC,USA,>
+1995-11-19,1995,0,15,1,2,0,0,4,1995 Fall Tour,1995 Fall,Billy Breathes,,1,Charlotte Coliseum,Charlotte,NC,USA,","
+1995-11-19,1995,0,16,1,2,0,0,3,1995 Fall Tour,1995 Fall,Scent of a Mule,SOAMule,1,Charlotte Coliseum,Charlotte,NC,USA,","
+1995-11-19,1995,0,17,1,2,0,0,1,1995 Fall Tour,1995 Fall,Harry Hood,Hood,1,Charlotte Coliseum,Charlotte,NC,USA,","
+1995-11-19,1995,0,18,5,2,0,0,3,1995 Fall Tour,1995 Fall,Suzy Greenberg,Suzy,1,Charlotte Coliseum,Charlotte,NC,USA,
+1995-11-19,1995,0,19,2,e,0,0,3,1995 Fall Tour,1995 Fall,Life on Mars?,,0,Charlotte Coliseum,Charlotte,NC,USA,>
+1995-11-19,1995,0,20,6,e,0,0,4,1995 Fall Tour,1995 Fall,Tweezer Reprise,Tweeprise,1,Charlotte Coliseum,Charlotte,NC,USA,
+1996-07-03,1996,0,1,1,1,0,0,1,1996 Summer European Tour,1996 Summer,Runaway Jim,,1,Stadio Briamasco,Trento,Trentino-Alto Adige,Italy,","
+1996-07-03,1996,0,2,1,1,0,0,1,1996 Summer European Tour,1996 Summer,Stash,,1,Stadio Briamasco,Trento,Trentino-Alto Adige,Italy,","
+1996-07-03,1996,0,3,2,1,0,0,1,1996 Summer European Tour,1996 Summer,Sparkle,,1,Stadio Briamasco,Trento,Trentino-Alto Adige,Italy,>
+1996-07-03,1996,0,4,3,1,0,0,64,1996 Summer European Tour,1996 Summer,Taste,,1,Stadio Briamasco,Trento,Trentino-Alto Adige,Italy,->
+1996-07-03,1996,0,5,6,1,0,0,5,1996 Summer European Tour,1996 Summer,Llama,,1,Stadio Briamasco,Trento,Trentino-Alto Adige,Italy,
+1996-08-17,1996,0,1,1,1,0,0,3,1996 Summer U.S. Tour,1996 Summer,The Old Home Place,,0,Plattsburgh Air Force Base,Plattsburgh,NY,USA,","
+1996-08-17,1996,0,2,1,1,0,0,2,1996 Summer U.S. Tour,1996 Summer,Punch You in the Eye,PYITE,1,Plattsburgh Air Force Base,Plattsburgh,NY,USA,","
+1996-08-17,1996,0,3,2,1,0,0,1,1996 Summer U.S. Tour,1996 Summer,Reba,,1,Plattsburgh Air Force Base,Plattsburgh,NY,USA,>
+1996-08-17,1996,0,4,1,1,0,0,2,1996 Summer U.S. Tour,1996 Summer,Cars Trucks Buses,CTB,1,Plattsburgh Air Force Base,Plattsburgh,NY,USA,","
+1996-08-17,1996,0,5,1,1,0,0,3,1996 Summer U.S. Tour,1996 Summer,The Lizards,Lizards,1,Plattsburgh Air Force Base,Plattsburgh,NY,USA,","
+1996-08-17,1996,0,6,1,1,0,0,2,1996 Summer U.S. Tour,1996 Summer,Sample in a Jar,Sample,1,Plattsburgh Air Force Base,Plattsburgh,NY,USA,","
+1996-08-17,1996,0,7,1,1,0,0,4,1996 Summer U.S. Tour,1996 Summer,Taste,,1,Plattsburgh Air Force Base,Plattsburgh,NY,USA,","
+1996-08-17,1996,0,8,3,1,0,0,2,1996 Summer U.S. Tour,1996 Summer,Fee,,1,Plattsburgh Air Force Base,Plattsburgh,NY,USA,->
+1996-08-17,1996,0,9,1,1,0,0,3,1996 Summer U.S. Tour,1996 Summer,Maze,,1,Plattsburgh Air Force Base,Plattsburgh,NY,USA,","
+1996-08-17,1996,0,10,4,1,0,0,4,1996 Summer U.S. Tour,1996 Summer,Suzy Greenberg,Suzy,1,Plattsburgh Air Force Base,Plattsburgh,NY,USA,
+1996-08-17,1996,0,11,2,2,0,0,7,1996 Summer U.S. Tour,1996 Summer,The Curtain,Curtain,1,Plattsburgh Air Force Base,Plattsburgh,NY,USA,>
+1996-08-17,1996,0,12,1,2,0,0,2,1996 Summer U.S. Tour,1996 Summer,Runaway Jim,,1,Plattsburgh Air Force Base,Plattsburgh,NY,USA,","
+1996-08-17,1996,0,13,2,2,0,0,4,1996 Summer U.S. Tour,1996 Summer,It's Ice,,1,Plattsburgh Air Force Base,Plattsburgh,NY,USA,>
+1996-08-17,1996,0,14,1,2,0,0,259,1996 Summer U.S. Tour,1996 Summer,Brother,,1,Plattsburgh Air Force Base,Plattsburgh,NY,USA,","
+1996-08-17,1996,0,15,1,2,0,0,5,1996 Summer U.S. Tour,1996 Summer,Fluffhead,,1,Plattsburgh Air Force Base,Plattsburgh,NY,USA,","
+1996-08-17,1996,0,16,2,2,0,0,4,1996 Summer U.S. Tour,1996 Summer,Run Like an Antelope,Antelope,1,Plattsburgh Air Force Base,Plattsburgh,NY,USA,>
+1996-08-17,1996,0,17,2,2,0,0,4,1996 Summer U.S. Tour,1996 Summer,Golgi Apparatus,Golgi,1,Plattsburgh Air Force Base,Plattsburgh,NY,USA,>
+1996-08-17,1996,0,18,4,2,0,0,3,1996 Summer U.S. Tour,1996 Summer,Slave to the Traffic Light,Slave,1,Plattsburgh Air Force Base,Plattsburgh,NY,USA,
+1996-08-17,1996,0,19,2,3,0,0,2,1996 Summer U.S. Tour,1996 Summer,Wilson,,1,Plattsburgh Air Force Base,Plattsburgh,NY,USA,>
+1996-08-17,1996,0,20,1,3,0,0,31,1996 Summer U.S. Tour,1996 Summer,Frankenstein,,0,Plattsburgh Air Force Base,Plattsburgh,NY,USA,","
+1996-08-17,1996,0,21,1,3,0,0,5,1996 Summer U.S. Tour,1996 Summer,Scent of a Mule,SOAMule,1,Plattsburgh Air Force Base,Plattsburgh,NY,USA,","
+1996-08-17,1996,0,22,1,3,0,0,1,1996 Summer U.S. Tour,1996 Summer,Tweezer,,1,Plattsburgh Air Force Base,Plattsburgh,NY,USA,","
+1996-08-17,1996,0,23,1,3,0,0,5,1996 Summer U.S. Tour,1996 Summer,A Day in the Life,ADITL,0,Plattsburgh Air Force Base,Plattsburgh,NY,USA,","
+1996-08-17,1996,0,24,2,3,0,0,3,1996 Summer U.S. Tour,1996 Summer,Possum,,1,Plattsburgh Air Force Base,Plattsburgh,NY,USA,>
+1996-08-17,1996,0,25,5,3,0,0,1,1996 Summer U.S. Tour,1996 Summer,Tweezer Reprise,Tweeprise,1,Plattsburgh Air Force Base,Plattsburgh,NY,USA,
+1996-08-17,1996,0,26,6,e,0,0,64,1996 Summer U.S. Tour,1996 Summer,Harpua,,1,Plattsburgh Air Force Base,Plattsburgh,NY,USA,
+1997-03-01,1997,0,1,2,1,0,0,223,1997 Winter European Tour,1997 Winter,Cities,,0,Markthalle,Hamburg,Hamburg,Germany,>
+1997-03-01,1997,0,2,1,1,0,0,6,1997 Winter European Tour,1997 Winter,The Oh Kee Pa Ceremony,Oh Kee Pa,1,Markthalle,Hamburg,Hamburg,Germany,","
+1997-03-01,1997,0,3,1,1,0,0,2,1997 Winter European Tour,1997 Winter,Down with Disease,DwD,1,Markthalle,Hamburg,Hamburg,Germany,","
+1997-03-01,1997,0,4,1,1,0,0,36,1997 Winter European Tour,1997 Winter,Weigh,,1,Markthalle,Hamburg,Hamburg,Germany,","
+1997-03-01,1997,0,5,1,1,0,0,3,1997 Winter European Tour,1997 Winter,Beauty of My Dreams,,0,Markthalle,Hamburg,Hamburg,Germany,","
+1997-03-01,1997,0,6,3,1,0,0,7,1997 Winter European Tour,1997 Winter,Wolfman's Brother,Wolfman's,1,Markthalle,Hamburg,Hamburg,Germany,->
+1997-03-01,1997,0,7,1,1,0,0,5,1997 Winter European Tour,1997 Winter,Jesus Just Left Chicago,JJLC,0,Markthalle,Hamburg,Hamburg,Germany,","
+1997-03-01,1997,0,8,1,1,0,0,5,1997 Winter European Tour,1997 Winter,Reba,,1,Markthalle,Hamburg,Hamburg,Germany,","
+1997-03-01,1997,0,9,1,1,0,0,5,1997 Winter European Tour,1997 Winter,Hello My Baby,,0,Markthalle,Hamburg,Hamburg,Germany,","
+1997-03-01,1997,0,10,4,1,0,0,13,1997 Winter European Tour,1997 Winter,Possum,,1,Markthalle,Hamburg,Hamburg,Germany,
+1997-03-01,1997,0,11,1,2,0,0,0,1997 Winter European Tour,1997 Winter,Carini,,1,Markthalle,Hamburg,Hamburg,Germany,","
+1997-03-01,1997,0,12,2,2,0,0,59,1997 Winter European Tour,1997 Winter,Dinner and a Movie,,1,Markthalle,Hamburg,Hamburg,Germany,>
+1997-03-01,1997,0,13,3,2,0,0,4,1997 Winter European Tour,1997 Winter,Mike's Song,Mike's,1,Markthalle,Hamburg,Hamburg,Germany,->
+1997-03-01,1997,0,14,2,2,0,0,18,1997 Winter European Tour,1997 Winter,Lawn Boy,,1,Markthalle,Hamburg,Hamburg,Germany,>
+1997-03-01,1997,0,15,1,2,0,0,16,1997 Winter European Tour,1997 Winter,Weekapaug Groove,Weekapaug,1,Markthalle,Hamburg,Hamburg,Germany,","
+1997-03-01,1997,0,16,2,2,0,0,16,1997 Winter European Tour,1997 Winter,The Mango Song,Mango,1,Markthalle,Hamburg,Hamburg,Germany,>
+1997-03-01,1997,0,17,1,2,0,0,4,1997 Winter European Tour,1997 Winter,Billy Breathes,,1,Markthalle,Hamburg,Hamburg,Germany,","
+1997-03-01,1997,0,18,5,2,0,0,1,1997 Winter European Tour,1997 Winter,Theme from the Bottom,Theme,1,Markthalle,Hamburg,Hamburg,Germany,
+1997-03-01,1997,0,19,1,e,0,0,1,1997 Winter European Tour,1997 Winter,Taste,,1,Markthalle,Hamburg,Hamburg,Germany,","
+1997-03-01,1997,0,20,6,e,0,0,3,1997 Winter European Tour,1997 Winter,Sweet Adeline,,0,Markthalle,Hamburg,Hamburg,Germany,
+1997-05-18,1997,1,1,6,1,0,0,0,Not Part of a Tour,No Tour,The Star-Spangled Banner,Star Spangled Banner,0,CoreStates Center,Philadelphia,PA,USA,
+1997-07-02,1997,0,1,2,1,0,0,15,1997 Summer European Tour,1997 Summer,Mike's Song,Mike's,1,Paradiso,Amsterdam,North Holland,Netherlands,>
+1997-07-02,1997,0,2,3,1,0,0,20,1997 Summer European Tour,1997 Summer,Simple,,1,Paradiso,Amsterdam,North Holland,Netherlands,->
+1997-07-02,1997,0,3,1,1,0,0,9,1997 Summer European Tour,1997 Summer,Maze,,1,Paradiso,Amsterdam,North Holland,Netherlands,","
+1997-07-02,1997,0,4,1,1,0,0,31,1997 Summer European Tour,1997 Summer,Strange Design,,1,Paradiso,Amsterdam,North Holland,Netherlands,","
+1997-07-02,1997,0,5,1,1,0,0,8,1997 Summer European Tour,1997 Summer,Ginseng Sullivan,Ginseng,0,Paradiso,Amsterdam,North Holland,Netherlands,","
+1997-07-02,1997,0,6,1,1,0,0,5,1997 Summer European Tour,1997 Summer,Vultures,,1,Paradiso,Amsterdam,North Holland,Netherlands,","
+1997-07-02,1997,0,7,2,1,0,0,6,1997 Summer European Tour,1997 Summer,Water in the Sky,,1,Paradiso,Amsterdam,North Holland,Netherlands,>
+1997-07-02,1997,0,8,4,1,0,0,15,1997 Summer European Tour,1997 Summer,Weekapaug Groove,Weekapaug,1,Paradiso,Amsterdam,North Holland,Netherlands,
+1997-07-02,1997,0,9,3,2,0,0,3,1997 Summer European Tour,1997 Summer,Stash,,1,Paradiso,Amsterdam,North Holland,Netherlands,->
+1997-07-02,1997,0,10,3,2,0,0,17,1997 Summer European Tour,1997 Summer,Llama,,1,Paradiso,Amsterdam,North Holland,Netherlands,->
+1997-07-02,1997,0,11,3,2,1,0,1123,1997 Summer European Tour,1997 Summer,Wormtown,,0,Paradiso,Amsterdam,North Holland,Netherlands,->
+1997-07-02,1997,0,12,5,2,0,0,4,1997 Summer European Tour,1997 Summer,Wading in the Velvet Sea,Velvet Sea,1,Paradiso,Amsterdam,North Holland,Netherlands,
+1997-07-02,1997,0,13,7,e,0,0,5,1997 Summer European Tour,1997 Summer,Free,,1,Paradiso,Amsterdam,North Holland,Netherlands,
+1997-07-02,1997,0,14,6,e2,0,0,8,1997 Summer European Tour,1997 Summer,David Bowie,Bowie,1,Paradiso,Amsterdam,North Holland,Netherlands,
+1997-12-13,1997,0,1,2,1,0,0,8,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Ya Mar,,0,Pepsi Arena,Albany,NY,USA,>
+1997-12-13,1997,0,2,2,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Axilla,,1,Pepsi Arena,Albany,NY,USA,>
+1997-12-13,1997,0,3,1,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Theme from the Bottom,Theme,1,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,4,1,1,0,0,6,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Ginseng Sullivan,Ginseng,0,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,5,1,1,0,0,10,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Strange Design,,1,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,6,1,1,0,0,5,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Sample in a Jar,Sample,1,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,7,1,1,0,0,21,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Vultures,,1,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,8,1,1,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Tube,,1,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,9,4,1,0,0,26,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Good Times Bad Times,GTBT,0,Pepsi Arena,Albany,NY,USA,
+1997-12-13,1997,0,10,2,2,0,0,9,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,NICU,,1,Pepsi Arena,Albany,NY,USA,>
+1997-12-13,1997,0,11,2,2,0,0,1,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Punch You in the Eye,PYITE,1,Pepsi Arena,Albany,NY,USA,>
+1997-12-13,1997,0,12,2,2,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Ghost,,1,Pepsi Arena,Albany,NY,USA,>
+1997-12-13,1997,0,13,3,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Mike's Song,Mike's,1,Pepsi Arena,Albany,NY,USA,->
+1997-12-13,1997,0,14,1,2,0,0,16,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Llama,,1,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,15,1,2,0,0,9,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,When the Circus Comes,Circus,0,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,16,3,2,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Weekapaug Groove,Weekapaug,1,Pepsi Arena,Albany,NY,USA,->
+1997-12-13,1997,0,17,3,2,0,0,60,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Catapult,,1,Pepsi Arena,Albany,NY,USA,->
+1997-12-13,1997,0,18,1,2,0,0,0,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Weekapaug Groove,Weekapaug,1,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,19,5,2,0,0,2,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,Harry Hood,Hood,1,Pepsi Arena,Albany,NY,USA,
+1997-12-13,1997,0,20,1,e,0,0,3,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,My Soul,,0,Pepsi Arena,Albany,NY,USA,","
+1997-12-13,1997,0,21,6,e,0,0,9,1997 Fall Tour (a.k.a. Phish Destroys America),1997 Fall,The Squirming Coil,Coil,1,Pepsi Arena,Albany,NY,USA,
+1998-08-02,1998,0,1,1,1,0,0,1,1998 Summer U.S. Tour,1998 Summer,Roggae,,1,Deer Creek Music Center,Noblesville,IN,USA,","
+1998-08-02,1998,0,2,1,1,0,0,11,1998 Summer U.S. Tour,1998 Summer,Divided Sky,Divided,1,Deer Creek Music Center,Noblesville,IN,USA,","
+1998-08-02,1998,0,3,2,1,0,0,27,1998 Summer U.S. Tour,1998 Summer,The Horse,Horse,1,Deer Creek Music Center,Noblesville,IN,USA,>
+1998-08-02,1998,0,4,2,1,0,0,27,1998 Summer U.S. Tour,1998 Summer,Silent in the Morning,Silent,1,Deer Creek Music Center,Noblesville,IN,USA,>
+1998-08-02,1998,0,5,1,1,0,0,5,1998 Summer U.S. Tour,1998 Summer,You Better Believe It Baby,,0,Deer Creek Music Center,Noblesville,IN,USA,","
+1998-08-02,1998,0,6,2,1,0,0,15,1998 Summer U.S. Tour,1998 Summer,Boogie On Reggae Woman,Boogie On,0,Deer Creek Music Center,Noblesville,IN,USA,>
+1998-08-02,1998,0,7,1,1,0,0,4,1998 Summer U.S. Tour,1998 Summer,Reba,,1,Deer Creek Music Center,Noblesville,IN,USA,","
+1998-08-02,1998,0,8,2,1,0,0,52,1998 Summer U.S. Tour,1998 Summer,Weigh,,1,Deer Creek Music Center,Noblesville,IN,USA,>
+1998-08-02,1998,0,9,4,1,0,0,1,1998 Summer U.S. Tour,1998 Summer,Birds of a Feather,BOAF,1,Deer Creek Music Center,Noblesville,IN,USA,
+1998-08-02,1998,0,10,2,2,0,0,9,1998 Summer U.S. Tour,1998 Summer,Possum,,1,Deer Creek Music Center,Noblesville,IN,USA,>
+1998-08-02,1998,0,11,2,2,0,0,8,1998 Summer U.S. Tour,1998 Summer,Ghost,,1,Deer Creek Music Center,Noblesville,IN,USA,>
+1998-08-02,1998,0,12,2,2,0,0,61,1998 Summer U.S. Tour,1998 Summer,Lifeboy,,1,Deer Creek Music Center,Noblesville,IN,USA,>
+1998-08-02,1998,0,13,1,2,0,0,5,1998 Summer U.S. Tour,1998 Summer,David Bowie,Bowie,1,Deer Creek Music Center,Noblesville,IN,USA,","
+1998-08-02,1998,0,14,1,2,0,0,1200,1998 Summer U.S. Tour,1998 Summer,I Get a Kick Out of You,,0,Deer Creek Music Center,Noblesville,IN,USA,","
+1998-08-02,1998,0,15,5,2,0,0,6,1998 Summer U.S. Tour,1998 Summer,Loving Cup,,0,Deer Creek Music Center,Noblesville,IN,USA,
+1998-08-02,1998,0,16,2,e,0,0,5,1998 Summer U.S. Tour,1998 Summer,Harry Hood,Hood,1,Deer Creek Music Center,Noblesville,IN,USA,>
+1998-08-02,1998,0,17,6,e,0,0,3,1998 Summer U.S. Tour,1998 Summer,Bittersweet Motel,,1,Deer Creek Music Center,Noblesville,IN,USA,
+1999-09-12,1999,0,1,1,1,0,0,1,1999 Fall Tour,1999 Fall,First Tube,,0,Portland Meadows,Portland,OR,USA,","
+1999-09-12,1999,0,2,1,1,0,0,4,1999 Fall Tour,1999 Fall,Poor Heart,,1,Portland Meadows,Portland,OR,USA,","
+1999-09-12,1999,0,3,1,1,0,0,3,1999 Fall Tour,1999 Fall,Mozambique,,0,Portland Meadows,Portland,OR,USA,","
+1999-09-12,1999,0,4,1,1,0,0,8,1999 Fall Tour,1999 Fall,Bathtub Gin,Gin,1,Portland Meadows,Portland,OR,USA,","
+1999-09-12,1999,0,5,1,1,0,0,5,1999 Fall Tour,1999 Fall,Back on the Train,BOTT,0,Portland Meadows,Portland,OR,USA,","
+1999-09-12,1999,0,6,1,1,0,0,23,1999 Fall Tour,1999 Fall,My Mind's Got a Mind of its Own,MMGAMOIO,0,Portland Meadows,Portland,OR,USA,","
+1999-09-12,1999,0,7,1,1,0,0,29,1999 Fall Tour,1999 Fall,Frankie Says,,1,Portland Meadows,Portland,OR,USA,","
+1999-09-12,1999,0,8,1,1,0,0,3,1999 Fall Tour,1999 Fall,Birds of a Feather,BOAF,1,Portland Meadows,Portland,OR,USA,","
+1999-09-12,1999,0,9,1,1,0,0,18,1999 Fall Tour,1999 Fall,Lawn Boy,,1,Portland Meadows,Portland,OR,USA,","
+1999-09-12,1999,0,10,4,1,0,0,3,1999 Fall Tour,1999 Fall,Possum,,1,Portland Meadows,Portland,OR,USA,
+1999-09-12,1999,0,11,2,2,0,0,3,1999 Fall Tour,1999 Fall,Ghost,,1,Portland Meadows,Portland,OR,USA,>
+1999-09-12,1999,0,12,2,2,0,0,6,1999 Fall Tour,1999 Fall,Runaway Jim,,1,Portland Meadows,Portland,OR,USA,>
+1999-09-12,1999,0,13,1,2,0,0,4,1999 Fall Tour,1999 Fall,Roggae,,1,Portland Meadows,Portland,OR,USA,","
+1999-09-12,1999,0,14,2,2,0,0,5,1999 Fall Tour,1999 Fall,Also Sprach Zarathustra,2001,0,Portland Meadows,Portland,OR,USA,>
+1999-09-12,1999,0,15,5,2,0,0,2,1999 Fall Tour,1999 Fall,You Enjoy Myself,YEM,1,Portland Meadows,Portland,OR,USA,
+1999-09-12,1999,0,16,6,e,0,0,7,1999 Fall Tour,1999 Fall,Theme from the Bottom,Theme,1,Portland Meadows,Portland,OR,USA,
+1999-09-24,1999,0,1,2,1,0,0,2,1999 Fall Tour,1999 Fall,First Tube,,0,South Park Meadows,Austin,TX,USA,>
+1999-09-24,1999,0,2,1,1,0,0,8,1999 Fall Tour,1999 Fall,Punch You in the Eye,PYITE,1,South Park Meadows,Austin,TX,USA,","
+1999-09-24,1999,0,3,1,1,0,0,3,1999 Fall Tour,1999 Fall,Farmhouse,,1,South Park Meadows,Austin,TX,USA,","
+1999-09-24,1999,0,4,1,1,0,0,5,1999 Fall Tour,1999 Fall,Water in the Sky,,1,South Park Meadows,Austin,TX,USA,","
+1999-09-24,1999,0,5,1,1,0,0,5,1999 Fall Tour,1999 Fall,The Moma Dance,Moma,1,South Park Meadows,Austin,TX,USA,","
+1999-09-24,1999,0,6,1,1,0,0,2,1999 Fall Tour,1999 Fall,Down with Disease,DwD,1,South Park Meadows,Austin,TX,USA,","
+1999-09-24,1999,0,7,1,1,0,0,4,1999 Fall Tour,1999 Fall,Roggae,,1,South Park Meadows,Austin,TX,USA,","
+1999-09-24,1999,0,8,1,1,0,0,2,1999 Fall Tour,1999 Fall,Back on the Train,BOTT,0,South Park Meadows,Austin,TX,USA,","
+1999-09-24,1999,0,9,1,1,0,0,3,1999 Fall Tour,1999 Fall,Guyute,,1,South Park Meadows,Austin,TX,USA,","
+1999-09-24,1999,0,10,4,1,0,0,2,1999 Fall Tour,1999 Fall,Loving Cup,,0,South Park Meadows,Austin,TX,USA,
+1999-09-24,1999,0,11,2,2,0,0,5,1999 Fall Tour,1999 Fall,Peaches en Regalia,Peaches,0,South Park Meadows,Austin,TX,USA,>
+1999-09-24,1999,0,12,1,2,0,0,7,1999 Fall Tour,1999 Fall,Possum,,1,South Park Meadows,Austin,TX,USA,","
+1999-09-24,1999,0,13,3,2,0,0,4,1999 Fall Tour,1999 Fall,Wolfman's Brother,Wolfman's,1,South Park Meadows,Austin,TX,USA,->
+1999-09-24,1999,0,14,1,2,0,0,12,1999 Fall Tour,1999 Fall,The Lizards,Lizards,1,South Park Meadows,Austin,TX,USA,","
+1999-09-24,1999,0,15,3,2,0,0,1,1999 Fall Tour,1999 Fall,Sand,,0,South Park Meadows,Austin,TX,USA,->
+1999-09-24,1999,0,16,5,2,0,0,6,1999 Fall Tour,1999 Fall,Misty Mountain Hop,,0,South Park Meadows,Austin,TX,USA,
+1999-09-24,1999,0,17,2,e,0,0,4,1999 Fall Tour,1999 Fall,Boogie On Reggae Woman,Boogie On,0,South Park Meadows,Austin,TX,USA,>
+1999-09-24,1999,0,18,6,e,0,0,1,1999 Fall Tour,1999 Fall,Chalk Dust Torture,CDT,1,South Park Meadows,Austin,TX,USA,
+2003-07-25,2003,0,1,2,1,0,0,33,2003 Summer Tour,2003 Summer,Funky Bitch,,0,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
+2003-07-25,2003,0,2,1,1,0,0,6,2003 Summer Tour,2003 Summer,Chalk Dust Torture,CDT,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
+2003-07-25,2003,0,3,1,1,0,0,5,2003 Summer Tour,2003 Summer,Two Versions of Me,,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
+2003-07-25,2003,0,4,1,1,0,0,5,2003 Summer Tour,2003 Summer,Bathtub Gin,Gin,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
+2003-07-25,2003,0,5,1,1,0,0,2,2003 Summer Tour,2003 Summer,Limb By Limb,LxL,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
+2003-07-25,2003,0,6,2,1,0,0,6,2003 Summer Tour,2003 Summer,Back on the Train,BOTT,0,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
+2003-07-25,2003,0,7,2,1,0,0,6,2003 Summer Tour,2003 Summer,Horn,,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
+2003-07-25,2003,0,8,2,1,0,0,7,2003 Summer Tour,2003 Summer,Golgi Apparatus,Golgi,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
+2003-07-25,2003,0,9,4,1,0,0,5,2003 Summer Tour,2003 Summer,Character Zero,,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,
+2003-07-25,2003,0,10,3,2,0,0,32,2003 Summer Tour,2003 Summer,Drowned,,0,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,->
+2003-07-25,2003,0,11,3,2,0,0,108,2003 Summer Tour,2003 Summer,Kung,,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,->
+2003-07-25,2003,0,12,3,2,0,0,4,2003 Summer Tour,2003 Summer,Twist,,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,->
+2003-07-25,2003,0,13,1,2,0,0,9,2003 Summer Tour,2003 Summer,Heavy Things,,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
+2003-07-25,2003,0,14,2,2,0,0,4,2003 Summer Tour,2003 Summer,Harry Hood,Hood,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,>
+2003-07-25,2003,0,15,5,2,0,0,5,2003 Summer Tour,2003 Summer,David Bowie,Bowie,1,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,
+2003-07-25,2003,0,16,1,e,0,0,60,2003 Summer Tour,2003 Summer,The Star-Spangled Banner,Star Spangled Banner,0,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,","
+2003-07-25,2003,0,17,6,e,0,0,5,2003 Summer Tour,2003 Summer,Bug,,0,Verizon Wireless Amphitheatre - Charlotte,Charlotte,NC,USA,
+2004-08-14,2004,0,1,2,1,2,0,4,2004 Late Summer Tour,2004 Summer,Walls of the Cave,WotC,1,Newport State Airport,Coventry,VT,USA,>
+2004-08-14,2004,0,2,3,1,2,0,4,2004 Late Summer Tour,2004 Summer,Runaway Jim,,1,Newport State Airport,Coventry,VT,USA,->
+2004-08-14,2004,0,3,1,1,2,0,11,2004 Late Summer Tour,2004 Summer,Gotta Jibboo,Jibboo,0,Newport State Airport,Coventry,VT,USA,","
+2004-08-14,2004,0,4,2,1,2,0,0,2004 Late Summer Tour,2004 Summer,You Enjoy Myself,YEM,1,Newport State Airport,Coventry,VT,USA,>
+2004-08-14,2004,0,5,2,1,2,0,2,2004 Late Summer Tour,2004 Summer,Sample in a Jar,Sample,1,Newport State Airport,Coventry,VT,USA,>
+2004-08-14,2004,0,6,2,1,2,0,13,2004 Late Summer Tour,2004 Summer,Axilla,,1,Newport State Airport,Coventry,VT,USA,>
+2004-08-14,2004,0,7,2,1,2,0,10,2004 Late Summer Tour,2004 Summer,Poor Heart,,1,Newport State Airport,Coventry,VT,USA,>
+2004-08-14,2004,0,8,1,1,2,0,2,2004 Late Summer Tour,2004 Summer,Run Like an Antelope,Antelope,1,Newport State Airport,Coventry,VT,USA,","
+2004-08-14,2004,0,9,4,1,2,0,22,2004 Late Summer Tour,2004 Summer,Fire,,0,Newport State Airport,Coventry,VT,USA,
+2004-08-14,2004,0,10,3,2,2,0,2,2004 Late Summer Tour,2004 Summer,AC/DC Bag,Bag,1,Newport State Airport,Coventry,VT,USA,->
+2004-08-14,2004,0,11,2,2,2,0,8,2004 Late Summer Tour,2004 Summer,46 Days,,1,Newport State Airport,Coventry,VT,USA,>
+2004-08-14,2004,0,12,3,2,2,0,8,2004 Late Summer Tour,2004 Summer,Halley's Comet,Halley's,1,Newport State Airport,Coventry,VT,USA,->
+2004-08-14,2004,0,13,1,2,2,0,8,2004 Late Summer Tour,2004 Summer,Ya Mar,,0,Newport State Airport,Coventry,VT,USA,","
+2004-08-14,2004,0,14,1,2,2,0,4,2004 Late Summer Tour,2004 Summer,David Bowie,Bowie,1,Newport State Airport,Coventry,VT,USA,","
+2004-08-14,2004,0,15,4,2,2,0,4,2004 Late Summer Tour,2004 Summer,Character Zero,,1,Newport State Airport,Coventry,VT,USA,
+2004-08-14,2004,0,16,3,3,2,0,9,2004 Late Summer Tour,2004 Summer,Twist,,1,Newport State Airport,Coventry,VT,USA,->
+2004-08-14,2004,0,17,1,3,2,0,7,2004 Late Summer Tour,2004 Summer,The Wedge,Wedge,1,Newport State Airport,Coventry,VT,USA,","
+2004-08-14,2004,0,18,2,3,2,0,4,2004 Late Summer Tour,2004 Summer,Stash,,1,Newport State Airport,Coventry,VT,USA,>
+2004-08-14,2004,0,19,1,3,2,0,5,2004 Late Summer Tour,2004 Summer,Free,,1,Newport State Airport,Coventry,VT,USA,","
+2004-08-14,2004,0,20,1,3,2,0,17,2004 Late Summer Tour,2004 Summer,Guyute,,1,Newport State Airport,Coventry,VT,USA,","
+2004-08-14,2004,0,21,2,3,2,0,10,2004 Late Summer Tour,2004 Summer,Drowned,,0,Newport State Airport,Coventry,VT,USA,>
+2004-08-14,2004,0,22,5,3,2,0,3,2004 Late Summer Tour,2004 Summer,Friday,,1,Newport State Airport,Coventry,VT,USA,
+2004-08-14,2004,0,23,6,e,2,0,2,2004 Late Summer Tour,2004 Summer,Harry Hood,Hood,1,Newport State Airport,Coventry,VT,USA,
+2010-08-09,2010,0,1,1,1,0,0,2,2010 Late Summer Tour,2010 Summer,Down with Disease,DwD,1,Telluride Town Park,Telluride,CO,USA,","
+2010-08-09,2010,0,2,1,1,0,0,4,2010 Late Summer Tour,2010 Summer,Camel Walk,,1,Telluride Town Park,Telluride,CO,USA,","
+2010-08-09,2010,0,3,1,1,0,0,2,2010 Late Summer Tour,2010 Summer,Ocelot,,1,Telluride Town Park,Telluride,CO,USA,","
+2010-08-09,2010,0,4,1,1,0,0,7,2010 Late Summer Tour,2010 Summer,Light Up Or Leave Me Alone,Light Up,0,Telluride Town Park,Telluride,CO,USA,","
+2010-08-09,2010,0,5,1,1,0,0,11,2010 Late Summer Tour,2010 Summer,Summer of '89,,1,Telluride Town Park,Telluride,CO,USA,","
+2010-08-09,2010,0,6,1,1,0,0,6,2010 Late Summer Tour,2010 Summer,Stash,,1,Telluride Town Park,Telluride,CO,USA,","
+2010-08-09,2010,0,7,2,1,0,0,6,2010 Late Summer Tour,2010 Summer,Cavern,,1,Telluride Town Park,Telluride,CO,USA,>
+2010-08-09,2010,0,8,2,1,0,0,6,2010 Late Summer Tour,2010 Summer,The Wedge,Wedge,1,Telluride Town Park,Telluride,CO,USA,>
+2010-08-09,2010,0,9,1,1,0,0,2,2010 Late Summer Tour,2010 Summer,Possum,,1,Telluride Town Park,Telluride,CO,USA,","
+2010-08-09,2010,0,10,4,1,0,0,4,2010 Late Summer Tour,2010 Summer,Julius,,1,Telluride Town Park,Telluride,CO,USA,
+2010-08-09,2010,0,11,2,2,0,0,17,2010 Late Summer Tour,2010 Summer,Sand,,0,Telluride Town Park,Telluride,CO,USA,>
+2010-08-09,2010,0,12,2,2,0,0,1,2010 Late Summer Tour,2010 Summer,Backwards Down the Number Line,BDTNL,0,Telluride Town Park,Telluride,CO,USA,>
+2010-08-09,2010,0,13,2,2,0,0,4,2010 Late Summer Tour,2010 Summer,Prince Caspian,Caspian,1,Telluride Town Park,Telluride,CO,USA,>
+2010-08-09,2010,0,14,3,2,0,0,2,2010 Late Summer Tour,2010 Summer,Tweezer,,1,Telluride Town Park,Telluride,CO,USA,->
+2010-08-09,2010,0,15,2,2,0,0,7,2010 Late Summer Tour,2010 Summer,Boogie On Reggae Woman,Boogie On,0,Telluride Town Park,Telluride,CO,USA,>
+2010-08-09,2010,0,16,2,2,0,0,4,2010 Late Summer Tour,2010 Summer,Piper,,1,Telluride Town Park,Telluride,CO,USA,>
+2010-08-09,2010,0,17,1,2,0,0,5,2010 Late Summer Tour,2010 Summer,Mountains in the Mist,Mist,0,Telluride Town Park,Telluride,CO,USA,","
+2010-08-09,2010,0,18,1,2,0,0,4,2010 Late Summer Tour,2010 Summer,David Bowie,Bowie,1,Telluride Town Park,Telluride,CO,USA,","
+2010-08-09,2010,0,19,5,2,0,0,6,2010 Late Summer Tour,2010 Summer,A Day in the Life,ADITL,0,Telluride Town Park,Telluride,CO,USA,
+2010-08-09,2010,0,20,2,e,0,0,211,2010 Late Summer Tour,2010 Summer,Quinn the Eskimo (The Mighty Quinn),Quinn,0,Telluride Town Park,Telluride,CO,USA,>
+2010-08-09,2010,0,21,6,e,0,0,2,2010 Late Summer Tour,2010 Summer,Tweezer Reprise,Tweeprise,1,Telluride Town Park,Telluride,CO,USA,
+2010-10-23,2010,0,1,1,1,0,0,6,2010 Fall Tour,2010 Fall,Meatstick,,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+2010-10-23,2010,0,2,1,1,0,0,16,2010 Fall Tour,2010 Fall,Party Time,,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+2010-10-23,2010,0,3,1,1,0,0,3,2010 Fall Tour,2010 Fall,Golgi Apparatus,Golgi,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+2010-10-23,2010,0,4,2,1,0,0,3,2010 Fall Tour,2010 Fall,Kill Devil Falls,KDF,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-23,2010,0,5,1,1,0,0,3,2010 Fall Tour,2010 Fall,Tweezer,,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+2010-10-23,2010,0,6,1,1,0,0,13,2010 Fall Tour,2010 Fall,Lawn Boy,,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+2010-10-23,2010,0,7,2,1,0,0,13,2010 Fall Tour,2010 Fall,Sparkle,,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-23,2010,0,8,1,1,0,0,12,2010 Fall Tour,2010 Fall,Big Black Furry Creature from Mars,BBFCFM,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+2010-10-23,2010,0,9,2,1,0,0,40,2010 Fall Tour,2010 Fall,Hold Your Head Up,HYHU,0,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-23,2010,0,10,2,1,0,0,40,2010 Fall Tour,2010 Fall,Love You,,0,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-23,2010,0,11,1,1,0,0,0,2010 Fall Tour,2010 Fall,Hold Your Head Up,HYHU,0,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+2010-10-23,2010,0,12,2,1,0,0,2,2010 Fall Tour,2010 Fall,Possum,,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-23,2010,0,13,4,1,0,0,3,2010 Fall Tour,2010 Fall,Tweezer Reprise,Tweeprise,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,
+2010-10-23,2010,0,14,2,2,0,0,0,2010 Fall Tour,2010 Fall,Down with Disease,DwD,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-23,2010,0,15,3,2,0,0,4,2010 Fall Tour,2010 Fall,"My Friend, My Friend",My Friend,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,->
+2010-10-23,2010,0,16,3,2,0,0,4,2010 Fall Tour,2010 Fall,Prince Caspian,Caspian,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,->
+2010-10-23,2010,0,17,3,2,0,0,6,2010 Fall Tour,2010 Fall,Halfway to the Moon,,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,->
+2010-10-23,2010,0,18,2,2,0,0,5,2010 Fall Tour,2010 Fall,Boogie On Reggae Woman,Boogie On,0,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-23,2010,0,19,1,2,0,0,11,2010 Fall Tour,2010 Fall,Maze,,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,","
+2010-10-23,2010,0,20,2,2,0,0,7,2010 Fall Tour,2010 Fall,Wading in the Velvet Sea,Velvet Sea,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-23,2010,0,21,2,2,0,0,2,2010 Fall Tour,2010 Fall,Piper,,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-23,2010,0,22,2,2,0,0,2,2010 Fall Tour,2010 Fall,Harry Hood,Hood,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,>
+2010-10-23,2010,0,23,5,2,0,0,3,2010 Fall Tour,2010 Fall,You Enjoy Myself,YEM,1,"Mullins Center, University of Massachusetts",Amherst,MA,USA,
+2010-10-23,2010,0,24,6,e,0,0,16,2010 Fall Tour,2010 Fall,Shine a Light,,0,"Mullins Center, University of Massachusetts",Amherst,MA,USA,
+2012-08-22,2012,0,1,1,1,0,0,3,2012 Late Summer Tour,2012 Summer,Chalk Dust Torture,CDT,1,Starlight Theatre,Kansas City,MO,USA,","
+2012-08-22,2012,0,2,1,1,0,0,9,2012 Late Summer Tour,2012 Summer,Skin It Back,,0,Starlight Theatre,Kansas City,MO,USA,","
+2012-08-22,2012,0,3,2,1,0,0,3,2012 Late Summer Tour,2012 Summer,The Moma Dance,Moma,1,Starlight Theatre,Kansas City,MO,USA,>
+2012-08-22,2012,0,4,2,1,0,0,4,2012 Late Summer Tour,2012 Summer,Rift,,1,Starlight Theatre,Kansas City,MO,USA,>
+2012-08-22,2012,0,5,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Bathtub Gin,Gin,1,Starlight Theatre,Kansas City,MO,USA,","
+2012-08-22,2012,0,6,1,1,0,0,4,2012 Late Summer Tour,2012 Summer,Stash,,1,Starlight Theatre,Kansas City,MO,USA,","
+2012-08-22,2012,0,7,1,1,0,0,28,2012 Late Summer Tour,2012 Summer,The Ballad of Curtis Loew,Curtis Loew,0,Starlight Theatre,Kansas City,MO,USA,","
+2012-08-22,2012,0,8,2,1,0,0,3,2012 Late Summer Tour,2012 Summer,Kill Devil Falls,KDF,1,Starlight Theatre,Kansas City,MO,USA,>
+2012-08-22,2012,0,9,2,1,0,0,3,2012 Late Summer Tour,2012 Summer,Funky Bitch,,0,Starlight Theatre,Kansas City,MO,USA,>
+2012-08-22,2012,0,10,4,1,0,0,3,2012 Late Summer Tour,2012 Summer,Run Like an Antelope,Antelope,1,Starlight Theatre,Kansas City,MO,USA,
+2012-08-22,2012,0,11,2,2,0,0,2,2012 Late Summer Tour,2012 Summer,Tweezer,,1,Starlight Theatre,Kansas City,MO,USA,>
+2012-08-22,2012,0,12,2,2,0,0,2,2012 Late Summer Tour,2012 Summer,Piper,,1,Starlight Theatre,Kansas City,MO,USA,>
+2012-08-22,2012,0,13,2,2,0,0,2,2012 Late Summer Tour,2012 Summer,Mike's Song,Mike's,1,Starlight Theatre,Kansas City,MO,USA,>
+2012-08-22,2012,0,14,2,2,0,0,3,2012 Late Summer Tour,2012 Summer,Bouncing Around the Room,Bouncin',1,Starlight Theatre,Kansas City,MO,USA,>
+2012-08-22,2012,0,15,2,2,0,0,1,2012 Late Summer Tour,2012 Summer,Backwards Down the Number Line,BDTNL,0,Starlight Theatre,Kansas City,MO,USA,>
+2012-08-22,2012,0,16,1,2,0,0,7,2012 Late Summer Tour,2012 Summer,Heavy Things,,1,Starlight Theatre,Kansas City,MO,USA,","
+2012-08-22,2012,0,17,2,2,0,0,5,2012 Late Summer Tour,2012 Summer,If I Could,,1,Starlight Theatre,Kansas City,MO,USA,>
+2012-08-22,2012,0,18,1,2,0,0,2,2012 Late Summer Tour,2012 Summer,Weekapaug Groove,Weekapaug,1,Starlight Theatre,Kansas City,MO,USA,","
+2012-08-22,2012,0,19,2,2,0,0,3,2012 Late Summer Tour,2012 Summer,Harry Hood,Hood,1,Starlight Theatre,Kansas City,MO,USA,>
+2012-08-22,2012,0,20,5,2,0,0,4,2012 Late Summer Tour,2012 Summer,Suzy Greenberg,Suzy,1,Starlight Theatre,Kansas City,MO,USA,
+2012-08-22,2012,0,21,2,e,0,0,1,2012 Late Summer Tour,2012 Summer,Loving Cup,,0,Starlight Theatre,Kansas City,MO,USA,>
+2012-08-22,2012,0,22,6,e,0,0,0,2012 Late Summer Tour,2012 Summer,Tweezer Reprise,Tweeprise,1,Starlight Theatre,Kansas City,MO,USA,
+2014-06-24,2014,0,1,1,1,0,0,1,Not Part of a Tour,No Tour,46 Days,,1,Ed Sullivan Theater,New York,NY,USA,","
+2014-06-24,2014,1,1,6,1,0,0,2,Not Part of a Tour,No Tour,The Line,,1,Ed Sullivan Theater,New York,NY,USA,
+2014-06-24,2014,0,2,1,1,0,0,13,Not Part of a Tour,No Tour,Undermind,,0,Ed Sullivan Theater,New York,NY,USA,","
+2014-06-24,2014,0,3,1,1,0,0,2,Not Part of a Tour,No Tour,Halfway to the Moon,,1,Ed Sullivan Theater,New York,NY,USA,","
+2014-06-24,2014,0,4,1,1,0,0,3,Not Part of a Tour,No Tour,Carini,,1,Ed Sullivan Theater,New York,NY,USA,","
+2014-06-24,2014,0,5,1,1,0,0,3,Not Part of a Tour,No Tour,Devotion to a Dream,,1,Ed Sullivan Theater,New York,NY,USA,","
+2014-06-24,2014,0,6,1,1,0,0,3,Not Part of a Tour,No Tour,555,,1,Ed Sullivan Theater,New York,NY,USA,","
+2014-06-24,2014,0,7,5,1,0,0,0,Not Part of a Tour,No Tour,Twist,,1,Ed Sullivan Theater,New York,NY,USA,
+2014-06-24,2014,0,8,6,e,0,0,1,Not Part of a Tour,No Tour,Character Zero,,1,Ed Sullivan Theater,New York,NY,USA,
+2014-08-03,2014,0,1,2,1,0,0,33,2014 Summer,2014 Summer,My Soul,,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2014-08-03,2014,0,2,1,1,0,0,3,2014 Summer,2014 Summer,Bathtub Gin,Gin,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,3,1,1,0,0,1,2014 Summer,2014 Summer,555,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,4,1,1,0,0,44,2014 Summer,2014 Summer,Pebbles and Marbles,,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,5,1,1,0,0,4,2014 Summer,2014 Summer,The Line,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,6,1,1,0,0,34,2014 Summer,2014 Summer,Vultures,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,7,1,1,0,0,38,2014 Summer,2014 Summer,Fast Enough for You,FEFY,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,8,2,1,0,0,5,2014 Summer,2014 Summer,Back on the Train,BOTT,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2014-08-03,2014,0,9,1,1,0,0,17,2014 Summer,2014 Summer,Taste,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,10,1,1,0,0,8,2014 Summer,2014 Summer,Gumbo,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,11,1,1,0,0,4,2014 Summer,2014 Summer,Halfway to the Moon,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,12,1,1,0,0,3,2014 Summer,2014 Summer,Stealing Time From the Faulty Plan,STFTFP,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,","
+2014-08-03,2014,0,13,4,1,0,0,6,2014 Summer,2014 Summer,Suzy Greenberg,Suzy,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
+2014-08-03,2014,0,14,3,2,0,0,2,2014 Summer,2014 Summer,Chalk Dust Torture,CDT,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,->
+2014-08-03,2014,0,15,2,2,0,0,109,2014 Summer,2014 Summer,Scents and Subtle Sounds,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2014-08-03,2014,0,16,2,2,0,0,6,2014 Summer,2014 Summer,Twist,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2014-08-03,2014,0,17,2,2,0,0,2,2014 Summer,2014 Summer,Fuego,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2014-08-03,2014,0,18,2,2,0,0,6,2014 Summer,2014 Summer,The Wedge,Wedge,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2014-08-03,2014,0,19,2,2,0,0,6,2014 Summer,2014 Summer,Light,,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2014-08-03,2014,0,20,2,2,0,0,5,2014 Summer,2014 Summer,Harry Hood,Hood,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,>
+2014-08-03,2014,0,21,5,2,0,0,2,2014 Summer,2014 Summer,First Tube,,0,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
+2014-08-03,2014,0,22,6,e,0,0,18,2014 Summer,2014 Summer,Fluffhead,,1,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,
+2016-10-16,2016,0,1,2,1,0,0,8,2016 Fall Tour,2016 Fall,Kill Devil Falls,KDF,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,>
+2016-10-16,2016,0,2,2,1,0,0,3,2016 Fall Tour,2016 Fall,The Moma Dance,Moma,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,>
+2016-10-16,2016,0,3,1,1,0,0,9,2016 Fall Tour,2016 Fall,Back on the Train,BOTT,0,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,4,1,1,0,0,5,2016 Fall Tour,2016 Fall,Undermind,,0,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,5,1,1,0,0,23,2016 Fall Tour,2016 Fall,Nellie Kane,,0,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,6,1,1,0,0,5,2016 Fall Tour,2016 Fall,Stash,,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,7,1,1,0,0,2,2016 Fall Tour,2016 Fall,Petrichor,,0,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,8,2,1,0,0,3,2016 Fall Tour,2016 Fall,Mike's Song,Mike's,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,>
+2016-10-16,2016,0,9,1,1,0,0,8,2016 Fall Tour,2016 Fall,Bouncing Around the Room,Bouncin',1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,10,4,1,0,0,3,2016 Fall Tour,2016 Fall,Weekapaug Groove,Weekapaug,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,
+2016-10-16,2016,0,11,2,2,0,0,3,2016 Fall Tour,2016 Fall,Crosseyed and Painless,C&amp;P,0,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,>
+2016-10-16,2016,0,12,2,2,0,0,3,2016 Fall Tour,2016 Fall,Steam,,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,>
+2016-10-16,2016,0,13,2,2,0,0,3,2016 Fall Tour,2016 Fall,Piper,,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,>
+2016-10-16,2016,0,14,1,2,0,0,3,2016 Fall Tour,2016 Fall,Wingsuit,,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,15,2,2,0,0,11,2016 Fall Tour,2016 Fall,Sparkle,,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,>
+2016-10-16,2016,0,16,1,2,0,0,5,2016 Fall Tour,2016 Fall,The Wedge,Wedge,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,17,2,2,0,0,10,2016 Fall Tour,2016 Fall,Wading in the Velvet Sea,Velvet Sea,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,>
+2016-10-16,2016,0,18,5,2,0,0,5,2016 Fall Tour,2016 Fall,Run Like an Antelope,Antelope,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,
+2016-10-16,2016,0,19,1,e,0,0,15,2016 Fall Tour,2016 Fall,The Ballad of Curtis Loew,Curtis Loew,0,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,","
+2016-10-16,2016,0,20,6,e,0,0,3,2016 Fall Tour,2016 Fall,Character Zero,,1,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,
+2017-12-29,2017,0,1,2,1,0,0,3,2017 NYE Run,2017 NYE,Cavern,,1,Madison Square Garden,New York,NY,USA,>
+2017-12-29,2017,0,2,1,1,0,0,3,2017 NYE Run,2017 NYE,Blaze On,,1,Madison Square Garden,New York,NY,USA,","
+2017-12-29,2017,0,3,1,1,0,0,3,2017 NYE Run,2017 NYE,555,,1,Madison Square Garden,New York,NY,USA,","
+2017-12-29,2017,0,4,2,1,0,0,16,2017 NYE Run,2017 NYE,I Always Wanted It This Way,,1,Madison Square Garden,New York,NY,USA,>
+2017-12-29,2017,0,5,1,1,0,0,3,2017 NYE Run,2017 NYE,Martian Monster,,1,Madison Square Garden,New York,NY,USA,","
+2017-12-29,2017,0,6,1,1,0,0,8,2017 NYE Run,2017 NYE,Heavy Things,,1,Madison Square Garden,New York,NY,USA,","
+2017-12-29,2017,0,7,1,1,0,0,12,2017 NYE Run,2017 NYE,Destiny Unbound,Destiny,1,Madison Square Garden,New York,NY,USA,","
+2017-12-29,2017,0,8,1,1,0,0,7,2017 NYE Run,2017 NYE,Ocelot,,1,Madison Square Garden,New York,NY,USA,","
+2017-12-29,2017,0,9,4,1,0,0,3,2017 NYE Run,2017 NYE,Walls of the Cave,WotC,1,Madison Square Garden,New York,NY,USA,
+2017-12-29,2017,0,10,2,2,0,0,3,2017 NYE Run,2017 NYE,Sand,,0,Madison Square Garden,New York,NY,USA,>
+2017-12-29,2017,0,11,2,2,0,0,3,2017 NYE Run,2017 NYE,Chalk Dust Torture,CDT,1,Madison Square Garden,New York,NY,USA,>
+2017-12-29,2017,0,12,2,2,0,0,4,2017 NYE Run,2017 NYE,Ghost,,1,Madison Square Garden,New York,NY,USA,>
+2017-12-29,2017,0,13,2,2,0,0,11,2017 NYE Run,2017 NYE,Backwards Down the Number Line,BDTNL,0,Madison Square Garden,New York,NY,USA,>
+2017-12-29,2017,0,14,2,2,0,0,3,2017 NYE Run,2017 NYE,Simple,,1,Madison Square Garden,New York,NY,USA,>
+2017-12-29,2017,0,15,5,2,0,0,16,2017 NYE Run,2017 NYE,Split Open and Melt,SOAMelt,1,Madison Square Garden,New York,NY,USA,
+2017-12-29,2017,0,16,6,e,0,0,14,2017 NYE Run,2017 NYE,Julius,,1,Madison Square Garden,New York,NY,USA,
+2019-12-03,2019,0,1,1,1,0,0,417,2019 Fall Tour,2019 Fall,Hello My Baby,,0,Met Philadelphia,Philadelphia,PA,USA,","
+2019-12-03,2019,0,2,2,1,0,0,0,2019 Fall Tour,2019 Fall,Tweezer,,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,3,2,1,0,0,6,2019 Fall Tour,2019 Fall,Free,,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,4,2,1,0,0,5,2019 Fall Tour,2019 Fall,The Moma Dance,Moma,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,5,3,1,0,0,0,2019 Fall Tour,2019 Fall,Tweezer,,1,Met Philadelphia,Philadelphia,PA,USA,->
+2019-12-03,2019,0,6,1,1,0,0,5,2019 Fall Tour,2019 Fall,Blaze On,,1,Met Philadelphia,Philadelphia,PA,USA,","
+2019-12-03,2019,0,7,1,1,0,0,186,2019 Fall Tour,2019 Fall,Jesus Just Left Chicago,JJLC,0,Met Philadelphia,Philadelphia,PA,USA,","
+2019-12-03,2019,0,8,2,1,0,0,18,2019 Fall Tour,2019 Fall,Kill Devil Falls,KDF,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,9,3,1,0,0,0,2019 Fall Tour,2019 Fall,Tweezer,,1,Met Philadelphia,Philadelphia,PA,USA,->
+2019-12-03,2019,0,10,1,1,0,0,8,2019 Fall Tour,2019 Fall,Ya Mar,,0,Met Philadelphia,Philadelphia,PA,USA,","
+2019-12-03,2019,0,11,4,1,0,0,5,2019 Fall Tour,2019 Fall,Drift While You're Sleeping,,0,Met Philadelphia,Philadelphia,PA,USA,
+2019-12-03,2019,0,12,2,2,0,0,4,2019 Fall Tour,2019 Fall,Chalk Dust Torture,CDT,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,13,2,2,0,0,3,2019 Fall Tour,2019 Fall,Tweezer,,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,14,2,2,0,0,5,2019 Fall Tour,2019 Fall,Mike's Song,Mike's,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,15,1,2,0,0,4,2019 Fall Tour,2019 Fall,Sparkle,,1,Met Philadelphia,Philadelphia,PA,USA,","
+2019-12-03,2019,0,16,2,2,0,0,20,2019 Fall Tour,2019 Fall,Ass Handed,,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,17,1,2,0,0,5,2019 Fall Tour,2019 Fall,Weekapaug Groove,Weekapaug,1,Met Philadelphia,Philadelphia,PA,USA,","
+2019-12-03,2019,0,18,2,2,0,0,20,2019 Fall Tour,2019 Fall,Miss You,,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,19,2,2,0,0,20,2019 Fall Tour,2019 Fall,Waves,,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,20,2,2,0,0,6,2019 Fall Tour,2019 Fall,Twist,,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,21,2,2,0,0,43,2019 Fall Tour,2019 Fall,A Day in the Life,ADITL,0,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,22,2,2,0,0,4,2019 Fall Tour,2019 Fall,Also Sprach Zarathustra,2001,0,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,23,5,2,0,0,7,2019 Fall Tour,2019 Fall,More,,1,Met Philadelphia,Philadelphia,PA,USA,
+2019-12-03,2019,0,24,2,e,0,0,3,2019 Fall Tour,2019 Fall,Waste,,1,Met Philadelphia,Philadelphia,PA,USA,>
+2019-12-03,2019,0,25,6,e,0,0,3,2019 Fall Tour,2019 Fall,Tweezer Reprise,Tweeprise,1,Met Philadelphia,Philadelphia,PA,USA,
+2021-08-14,2021,0,1,1,1,0,0,3,2021 Summer Tour,2021 Summer,Llama,,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,2,1,1,0,0,5,2021 Summer Tour,2021 Summer,Tube,,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,3,2,1,0,0,9,2021 Summer Tour,2021 Summer,Destiny Unbound,Destiny,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-14,2021,0,4,1,1,0,0,5,2021 Summer Tour,2021 Summer,Ya Mar,,0,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,5,1,1,0,0,4,2021 Summer Tour,2021 Summer,46 Days,,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,6,1,1,0,0,8,2021 Summer Tour,2021 Summer,Reba,,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,7,1,1,0,0,87,2021 Summer Tour,2021 Summer,Soul Shakedown Party,,0,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,8,1,1,0,0,7,2021 Summer Tour,2021 Summer,Split Open and Melt,SOAMelt,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,9,4,1,0,0,8,2021 Summer Tour,2021 Summer,The Squirming Coil,Coil,1,Atlantic City Beach,Atlantic City,NJ,USA,
+2021-08-14,2021,0,10,1,2,0,0,5,2021 Summer Tour,2021 Summer,I Never Needed You Like This Before,,0,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,11,2,2,0,0,19,2021 Summer Tour,2021 Summer,Drowned,,0,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-14,2021,0,12,3,2,0,0,4,2021 Summer Tour,2021 Summer,Ghost,,1,Atlantic City Beach,Atlantic City,NJ,USA,->
+2021-08-14,2021,0,13,2,2,0,0,23,2021 Summer Tour,2021 Summer,Scents and Subtle Sounds,,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-14,2021,0,14,2,2,0,0,2,2021 Summer Tour,2021 Summer,Chalk Dust Torture,CDT,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-14,2021,0,15,2,2,0,0,22,2021 Summer Tour,2021 Summer,No Quarter,,0,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-14,2021,0,16,2,2,0,0,4,2021 Summer Tour,2021 Summer,Slave to the Traffic Light,Slave,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-14,2021,0,17,5,2,0,0,7,2021 Summer Tour,2021 Summer,Suzy Greenberg,Suzy,1,Atlantic City Beach,Atlantic City,NJ,USA,
+2021-08-14,2021,0,18,1,e,0,0,9,2021 Summer Tour,2021 Summer,A Life Beyond The Dream,,0,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,19,6,e,0,0,8,2021 Summer Tour,2021 Summer,Tweezer Reprise,Tweeprise,1,Atlantic City Beach,Atlantic City,NJ,USA,
+2024-08-31,2024,0,1,1,1,0,0,4,2024 Summer Tour,2024 Summer,46 Days,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-31,2024,0,2,1,1,0,0,3,2024 Summer Tour,2024 Summer,Oblivion,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-31,2024,0,3,3,1,0,0,14,2024 Summer Tour,2024 Summer,Axilla (Part II),,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2024-08-31,2024,0,4,1,1,0,0,3,2024 Summer Tour,2024 Summer,Bathtub Gin,Gin,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-31,2024,0,5,1,1,0,0,10,2024 Summer Tour,2024 Summer,Undermind,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-31,2024,0,6,1,1,0,0,3,2024 Summer Tour,2024 Summer,Maze,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-31,2024,0,7,1,1,0,0,5,2024 Summer Tour,2024 Summer,Free,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-31,2024,0,8,4,1,0,0,19,2024 Summer Tour,2024 Summer,Most Events Aren't Planned,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2024-08-31,2024,0,9,2,2,0,0,9,2024 Summer Tour,2024 Summer,Loving Cup,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2024-08-31,2024,0,10,3,2,0,0,4,2024 Summer Tour,2024 Summer,Kill Devil Falls,KDF,1,Dick's Sporting Goods Park,Commerce City,CO,USA,->
+2024-08-31,2024,0,11,2,2,0,0,6,2024 Summer Tour,2024 Summer,What's Going Through Your Mind,WGTYM,0,Dick's Sporting Goods Park,Commerce City,CO,USA,>
+2024-08-31,2024,0,12,1,2,0,0,6,2024 Summer Tour,2024 Summer,Crosseyed and Painless,C&amp;P,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-31,2024,0,13,1,2,0,0,12,2024 Summer Tour,2024 Summer,Split Open and Melt,SOAMelt,1,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-31,2024,0,14,1,2,0,0,12,2024 Summer Tour,2024 Summer,Monsters,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-31,2024,0,15,5,2,0,0,3,2024 Summer Tour,2024 Summer,Carini,,1,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2024-08-31,2024,0,16,1,e,0,0,9,2024 Summer Tour,2024 Summer,Bug,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,","
+2024-08-31,2024,0,17,6,e,0,0,4,2024 Summer Tour,2024 Summer,First Tube,,0,Dick's Sporting Goods Park,Commerce City,CO,USA,
+2025-04-19,2025,0,1,1,1,0,0,5,2025 Spring Tour,2025 Spring,Free,,1,Climate Pledge Arena,Seattle,WA,USA,","
+2025-04-19,2025,0,2,1,1,0,0,2,2025 Spring Tour,2025 Spring,Bathtub Gin,Gin,1,Climate Pledge Arena,Seattle,WA,USA,","
+2025-04-19,2025,0,3,1,1,0,0,5,2025 Spring Tour,2025 Spring,Evolve,,0,Climate Pledge Arena,Seattle,WA,USA,","
+2025-04-19,2025,0,4,1,1,0,0,2,2025 Spring Tour,2025 Spring,Stash,,1,Climate Pledge Arena,Seattle,WA,USA,","
+2025-04-19,2025,0,5,1,1,0,0,29,2025 Spring Tour,2025 Spring,Pebbles and Marbles,,0,Climate Pledge Arena,Seattle,WA,USA,","
+2025-04-19,2025,0,6,1,1,0,0,2,2025 Spring Tour,2025 Spring,Farmhouse,,1,Climate Pledge Arena,Seattle,WA,USA,","
+2025-04-19,2025,0,7,2,1,0,0,38,2025 Spring Tour,2025 Spring,Suzy Greenberg,Suzy,1,Climate Pledge Arena,Seattle,WA,USA,>
+2025-04-19,2025,0,8,4,1,0,0,10,2025 Spring Tour,2025 Spring,Walls of the Cave,WotC,1,Climate Pledge Arena,Seattle,WA,USA,
+2025-04-19,2025,0,9,2,2,0,0,3,2025 Spring Tour,2025 Spring,Chalk Dust Torture,CDT,1,Climate Pledge Arena,Seattle,WA,USA,>
+2025-04-19,2025,0,10,2,2,0,0,5,2025 Spring Tour,2025 Spring,Light,,0,Climate Pledge Arena,Seattle,WA,USA,>
+2025-04-19,2025,0,11,2,2,0,0,0,2025 Spring Tour,2025 Spring,Chalk Dust Torture,CDT,1,Climate Pledge Arena,Seattle,WA,USA,>
+2025-04-19,2025,0,12,3,2,0,0,3,2025 Spring Tour,2025 Spring,Fuego,,1,Climate Pledge Arena,Seattle,WA,USA,->
+2025-04-19,2025,0,13,1,2,0,0,7,2025 Spring Tour,2025 Spring,Monsters,,0,Climate Pledge Arena,Seattle,WA,USA,","
+2025-04-19,2025,0,14,2,2,0,0,4,2025 Spring Tour,2025 Spring,Piper,,1,Climate Pledge Arena,Seattle,WA,USA,>
+2025-04-19,2025,0,15,5,2,0,0,4,2025 Spring Tour,2025 Spring,Backwards Down the Number Line,BDTNL,0,Climate Pledge Arena,Seattle,WA,USA,
+2025-04-19,2025,0,16,1,e,0,0,11,2025 Spring Tour,2025 Spring,Sleeping Monkey,,1,Climate Pledge Arena,Seattle,WA,USA,","
+2025-04-19,2025,0,17,6,e,0,0,1,2025 Spring Tour,2025 Spring,"My Friend, My Friend",My Friend,1,Climate Pledge Arena,Seattle,WA,USA,
+2025-04-20,2025,0,1,1,1,0,0,5,2025 Spring Tour,2025 Spring,46 Days,,1,Moda Center,Portland,OR,USA,","
+2025-04-20,2025,0,2,2,1,0,0,4,2025 Spring Tour,2025 Spring,The Moma Dance,Moma,1,Moda Center,Portland,OR,USA,>
+2025-04-20,2025,0,3,3,1,0,0,6,2025 Spring Tour,2025 Spring,Cities,,0,Moda Center,Portland,OR,USA,->
+2025-04-20,2025,0,4,1,1,0,0,4,2025 Spring Tour,2025 Spring,Plasma,,0,Moda Center,Portland,OR,USA,","
+2025-04-20,2025,0,5,1,1,0,0,6,2025 Spring Tour,2025 Spring,Bouncing Around the Room,Bouncin',1,Moda Center,Portland,OR,USA,","
+2025-04-20,2025,0,6,1,1,0,0,4,2025 Spring Tour,2025 Spring,Sigma Oasis,,0,Moda Center,Portland,OR,USA,","
+2025-04-20,2025,0,7,2,1,0,0,6,2025 Spring Tour,2025 Spring,Run Like an Antelope,Antelope,1,Moda Center,Portland,OR,USA,>
+2025-04-20,2025,0,8,4,1,0,0,4,2025 Spring Tour,2025 Spring,Say It To Me S.A.N.T.O.S.,,1,Moda Center,Portland,OR,USA,
+2025-04-20,2025,0,9,2,2,0,0,10,2025 Spring Tour,2025 Spring,A Wave of Hope,,0,Moda Center,Portland,OR,USA,>
+2025-04-20,2025,0,10,2,2,0,0,5,2025 Spring Tour,2025 Spring,Twist,,1,Moda Center,Portland,OR,USA,>
+2025-04-20,2025,0,11,2,2,0,0,19,2025 Spring Tour,2025 Spring,Scents and Subtle Sounds,,1,Moda Center,Portland,OR,USA,>
+2025-04-20,2025,0,12,3,2,0,0,4,2025 Spring Tour,2025 Spring,Everything's Right,,0,Moda Center,Portland,OR,USA,->
+2025-04-20,2025,0,13,2,2,0,0,19,2025 Spring Tour,2025 Spring,Boogie On Reggae Woman,Boogie On,0,Moda Center,Portland,OR,USA,>
+2025-04-20,2025,0,14,2,2,0,0,3,2025 Spring Tour,2025 Spring,Also Sprach Zarathustra,2001,0,Moda Center,Portland,OR,USA,>
+2025-04-20,2025,0,15,2,2,0,0,2,2025 Spring Tour,2025 Spring,A Life Beyond The Dream,,0,Moda Center,Portland,OR,USA,>
+2025-04-20,2025,0,16,5,2,0,0,4,2025 Spring Tour,2025 Spring,Harry Hood,Hood,1,Moda Center,Portland,OR,USA,
+2025-04-20,2025,0,17,2,e,0,0,23,2025 Spring Tour,2025 Spring,Wilson,,1,Moda Center,Portland,OR,USA,>
+2025-04-20,2025,0,18,6,e,0,0,7,2025 Spring Tour,2025 Spring,Slave to the Traffic Light,Slave,1,Moda Center,Portland,OR,USA,
+2026-07-07,2026,0,1,2,1,0,0,3,2026 Summer Tour,2026 Summer,Chalk Dust Torture,CDT,1,Kohl Center,Madison,WI,USA,>
+2026-07-07,2026,0,2,1,1,0,0,3,2026 Summer Tour,2026 Summer,Ghost,,1,Kohl Center,Madison,WI,USA,","
+2026-07-07,2026,0,3,2,1,0,0,0,2026 Summer Tour,2026 Summer,Back on the Train,BOTT,0,Kohl Center,Madison,WI,USA,>
+2026-07-07,2026,0,4,1,1,0,0,7,2026 Summer Tour,2026 Summer,Free,,1,Kohl Center,Madison,WI,USA,","
+2026-07-07,2026,0,5,1,1,0,0,7,2026 Summer Tour,2026 Summer,Mike's Song,Mike's,1,Kohl Center,Madison,WI,USA,","
+2026-07-07,2026,0,6,2,1,0,0,4,2026 Summer Tour,2026 Summer,The Man Who Stepped Into Yesterday,TMWSIY,1,Kohl Center,Madison,WI,USA,>
+2026-07-07,2026,0,7,1,1,0,0,190,2026 Summer Tour,2026 Summer,Avenu Malkenu,,0,Kohl Center,Madison,WI,USA,","
+2026-07-07,2026,0,8,1,1,0,0,7,2026 Summer Tour,2026 Summer,Weekapaug Groove,Weekapaug,1,Kohl Center,Madison,WI,USA,","
+2026-07-07,2026,0,9,2,1,0,0,2,2026 Summer Tour,2026 Summer,A Wave of Hope,,0,Kohl Center,Madison,WI,USA,>
+2026-07-07,2026,0,10,4,1,0,0,0,2026 Summer Tour,2026 Summer,Character Zero,,1,Kohl Center,Madison,WI,USA,
+2026-07-07,2026,0,11,1,2,0,0,6,2026 Summer Tour,2026 Summer,Run Like an Antelope,Antelope,1,Kohl Center,Madison,WI,USA,","
+2026-07-07,2026,0,12,2,2,0,0,5,2026 Summer Tour,2026 Summer,Fuego,,1,Kohl Center,Madison,WI,USA,>
+2026-07-07,2026,0,13,2,2,0,0,4,2026 Summer Tour,2026 Summer,Life Saving Gun,,1,Kohl Center,Madison,WI,USA,>
+2026-07-07,2026,0,14,1,2,0,0,1,2026 Summer Tour,2026 Summer,Sand,,0,Kohl Center,Madison,WI,USA,","
+2026-07-07,2026,0,15,2,2,0,0,0,2026 Summer Tour,2026 Summer,Ruby Waves,,0,Kohl Center,Madison,WI,USA,>
+2026-07-07,2026,0,16,5,2,0,0,7,2026 Summer Tour,2026 Summer,Suzy Greenberg,Suzy,1,Kohl Center,Madison,WI,USA,
+2026-07-07,2026,0,17,1,e,0,0,4,2026 Summer Tour,2026 Summer,Slave to the Traffic Light,Slave,1,Kohl Center,Madison,WI,USA,","
+2026-07-07,2026,0,18,6,e,0,0,4,2026 Summer Tour,2026 Summer,Say It To Me S.A.N.T.O.S.,,1,Kohl Center,Madison,WI,USA,

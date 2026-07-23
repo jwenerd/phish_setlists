@@ -1,17 +1,20 @@
 showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,tourwhen,song,nickname,is_original,venue,city,state,country,trans_mark
-2021-10-20,2021,0,1,1,1,2,0,10,2021 Fall Tour,2021 Fall,Mr. Completely,,0,Matthew Knight Arena,Eugene,OR,USA,","
-2021-10-20,2021,0,2,3,1,2,0,28,2021 Fall Tour,2021 Fall,Energy,,0,Matthew Knight Arena,Eugene,OR,USA,->
-2021-10-20,2021,0,3,1,1,2,0,6,2021 Fall Tour,2021 Fall,Timber (Jerry the Mule),Timber Ho,0,Matthew Knight Arena,Eugene,OR,USA,","
-2021-10-20,2021,0,4,2,1,2,0,18,2021 Fall Tour,2021 Fall,Casual Enlightenment,,1,Matthew Knight Arena,Eugene,OR,USA,>
-2021-10-20,2021,0,5,1,1,2,0,11,2021 Fall Tour,2021 Fall,Divided Sky,Divided,1,Matthew Knight Arena,Eugene,OR,USA,","
-2021-10-20,2021,0,6,1,1,2,0,6,2021 Fall Tour,2021 Fall,Farmhouse,,1,Matthew Knight Arena,Eugene,OR,USA,","
-2021-10-20,2021,0,7,2,1,2,0,12,2021 Fall Tour,2021 Fall,Split Open and Melt,SOAMelt,1,Matthew Knight Arena,Eugene,OR,USA,>
-2021-10-20,2021,0,8,2,1,2,0,127,2021 Fall Tour,2021 Fall,End of Session,,1,Matthew Knight Arena,Eugene,OR,USA,>
-2021-10-20,2021,0,9,4,1,2,0,0,2021 Fall Tour,2021 Fall,Split Open and Melt,SOAMelt,1,Matthew Knight Arena,Eugene,OR,USA,
-2021-10-20,2021,0,10,2,2,2,0,14,2021 Fall Tour,2021 Fall,AC/DC Bag,Bag,1,Matthew Knight Arena,Eugene,OR,USA,>
-2021-10-20,2021,0,11,2,2,2,0,5,2021 Fall Tour,2021 Fall,Ruby Waves,,0,Matthew Knight Arena,Eugene,OR,USA,>
-2021-10-20,2021,0,12,2,2,2,0,5,2021 Fall Tour,2021 Fall,Lonely Trip,,0,Matthew Knight Arena,Eugene,OR,USA,>
-2021-10-20,2021,0,13,2,2,2,0,16,2021 Fall Tour,2021 Fall,Golden Age,,0,Matthew Knight Arena,Eugene,OR,USA,>
-2021-10-20,2021,0,14,5,2,2,0,7,2021 Fall Tour,2021 Fall,Backwards Down the Number Line,BDTNL,0,Matthew Knight Arena,Eugene,OR,USA,
-2021-10-20,2021,0,15,2,e,2,0,9,2021 Fall Tour,2021 Fall,Wilson,,1,Matthew Knight Arena,Eugene,OR,USA,>
-2021-10-20,2021,0,16,6,e,2,0,5,2021 Fall Tour,2021 Fall,Say It To Me S.A.N.T.O.S.,,1,Matthew Knight Arena,Eugene,OR,USA,
+2021-08-14,2021,0,1,1,1,0,0,3,2021 Summer Tour,2021 Summer,Llama,,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,2,1,1,0,0,5,2021 Summer Tour,2021 Summer,Tube,,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,3,2,1,0,0,9,2021 Summer Tour,2021 Summer,Destiny Unbound,Destiny,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-14,2021,0,4,1,1,0,0,5,2021 Summer Tour,2021 Summer,Ya Mar,,0,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,5,1,1,0,0,4,2021 Summer Tour,2021 Summer,46 Days,,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,6,1,1,0,0,8,2021 Summer Tour,2021 Summer,Reba,,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,7,1,1,0,0,87,2021 Summer Tour,2021 Summer,Soul Shakedown Party,,0,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,8,1,1,0,0,7,2021 Summer Tour,2021 Summer,Split Open and Melt,SOAMelt,1,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,9,4,1,0,0,8,2021 Summer Tour,2021 Summer,The Squirming Coil,Coil,1,Atlantic City Beach,Atlantic City,NJ,USA,
+2021-08-14,2021,0,10,1,2,0,0,5,2021 Summer Tour,2021 Summer,I Never Needed You Like This Before,,0,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,11,2,2,0,0,19,2021 Summer Tour,2021 Summer,Drowned,,0,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-14,2021,0,12,3,2,0,0,4,2021 Summer Tour,2021 Summer,Ghost,,1,Atlantic City Beach,Atlantic City,NJ,USA,->
+2021-08-14,2021,0,13,2,2,0,0,23,2021 Summer Tour,2021 Summer,Scents and Subtle Sounds,,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-14,2021,0,14,2,2,0,0,2,2021 Summer Tour,2021 Summer,Chalk Dust Torture,CDT,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-14,2021,0,15,2,2,0,0,22,2021 Summer Tour,2021 Summer,No Quarter,,0,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-14,2021,0,16,2,2,0,0,4,2021 Summer Tour,2021 Summer,Slave to the Traffic Light,Slave,1,Atlantic City Beach,Atlantic City,NJ,USA,>
+2021-08-14,2021,0,17,5,2,0,0,7,2021 Summer Tour,2021 Summer,Suzy Greenberg,Suzy,1,Atlantic City Beach,Atlantic City,NJ,USA,
+2021-08-14,2021,0,18,1,e,0,0,9,2021 Summer Tour,2021 Summer,A Life Beyond The Dream,,0,Atlantic City Beach,Atlantic City,NJ,USA,","
+2021-08-14,2021,0,19,6,e,0,0,8,2021 Summer Tour,2021 Summer,Tweezer Reprise,Tweeprise,1,Atlantic City Beach,Atlantic City,NJ,USA,
