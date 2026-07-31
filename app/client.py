@@ -1,5 +1,6 @@
 import pysh
 import os
+import time
 import itertools
 import concurrent.futures
 
@@ -11,8 +12,8 @@ else:
 
 
 SONG_KEYS = ['showdate', 'showyear', 'exclude', 'position', 'transition', 'set', 'isjam',
-                         'isreprise', 'gap', 'tourname', 'tourwhen', 'song', 'nickname', 'is_original',
-                         'venue', 'city', 'state', 'country', 'trans_mark']
+             'isreprise', 'gap', 'tourname', 'tourwhen', 'song', 'nickname', 'is_original',
+             'venue', 'city', 'state', 'country', 'trans_mark']
 
 
 class PhishNetClient():
@@ -20,17 +21,41 @@ class PhishNetClient():
         self.client = pysh.Client()
         self._all_shows = None
 
+    def _call_api(self, func, *args, max_retries=5, initial_backoff=2, **kwargs):
+        for attempt in range(max_retries):
+            try:
+                res = func(*args, **kwargs)
+                if isinstance(res, dict) and res.get('error'):
+                    error_msg = res.get('error')
+                    if attempt < max_retries - 1:
+                        sleep_time = initial_backoff * (2 ** attempt)
+                        print(f"    [API Error] {error_msg}. Retrying in {sleep_time}s (attempt {attempt + 1}/{max_retries})...")
+                        time.sleep(sleep_time)
+                        continue
+                    else:
+                        raise RuntimeError(f"phish.net API error after {max_retries} attempts: {error_msg}")
+                return res
+            except Exception as e:
+                if attempt < max_retries - 1:
+                    sleep_time = initial_backoff * (2 ** attempt)
+                    print(f"    [Network/SSL Error] {e}. Retrying in {sleep_time}s (attempt {attempt + 1}/{max_retries})...")
+                    time.sleep(sleep_time)
+                else:
+                    raise e
+
     def get_all_shows(self):
         if self._all_shows:
             return self._all_shows
-        all_shows = self.client.get_shows(parameters=pysh.Parameters(order_by='showdate'))
-        self._all_shows = self.__filter_phish(all_shows)
+        all_shows = self._call_api(self.client.get_shows, parameters=pysh.Parameters(order_by='showdate'))
+        filtered = self.__filter_phish(all_shows)
+        if not filtered and isinstance(all_shows, dict):
+            raise RuntimeError(f"Failed to fetch shows from phish.net API: {all_shows}")
+        self._all_shows = filtered
         return self._all_shows
 
     def get_setlist_by_date(self, date):
-        songs = self.client.get_setlists(column="showdate", value=date)
-        songs = self.__filter_phish(songs)
-        return songs
+        songs = self._call_api(self.client.get_setlists, column="showdate", value=date)
+        return self.__filter_phish(songs)
 
     def get_setlist_data(self, year=None):
         shows = self.get_all_shows()
@@ -39,7 +64,7 @@ class PhishNetClient():
 
         print(f"  downloading: year={year}, {len(shows)} shows")
 
-        with concurrent.futures.ThreadPoolExecutor() as executor:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
             setlists = list(executor.map(lambda show: self.get_setlist_by_date(show['showdate']), shows))
 
         setlist_data = []
@@ -51,7 +76,8 @@ class PhishNetClient():
         return list(itertools.chain(*setlist_data))  # flatten
 
     def download_all(self):
-        years = set([show['showyear'] for show in self.get_all_shows()])
+        shows = self.get_all_shows()
+        years = set([int(show['showyear']) for show in shows])
         year_data = [self.get_setlist_data(year) for year in sorted(years)]
         return list(itertools.chain(*year_data))  # flatten
 
@@ -62,3 +88,4 @@ class PhishNetClient():
 
 
 phish_net_client = PhishNetClient()
+
