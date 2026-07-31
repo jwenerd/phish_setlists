@@ -69,7 +69,7 @@ class PhishNetClient():
 
         print(f"  downloading: year={year}, {len(shows)} shows")
 
-        with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
             setlists = list(executor.map(lambda show: self.get_setlist_by_date(show['showdate']), shows))
 
         setlist_data = []
