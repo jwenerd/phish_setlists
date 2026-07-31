@@ -21,26 +21,29 @@ class PhishNetClient():
         self.client = pysh.Client()
         self._all_shows = None
 
-    def _call_api(self, func, *args, max_retries=5, initial_backoff=2, **kwargs):
-        for attempt in range(max_retries):
+    def _call_api(self, func, *args, initial_backoff=2, **kwargs):
+        rate_limit_delays = [10, 20, 40, 80, 160, 360, 720, 1440]
+        max_attempts = len(rate_limit_delays)
+        for attempt in range(max_attempts):
             try:
                 res = func(*args, **kwargs)
                 if isinstance(res, dict) and res.get('error'):
                     error_msg = str(res.get('error'))
-                    if attempt < max_retries - 1:
-                        # If HTTP 429 rate limit, wait longer for API rate limit window to clear
-                        backoff = 10 if "429" in error_msg else initial_backoff
-                        sleep_time = backoff * (2 ** attempt)
-                        print(f"    [API Error] {error_msg}. Retrying in {sleep_time}s (attempt {attempt + 1}/{max_retries})...")
+                    if attempt < max_attempts - 1:
+                        if "429" in error_msg:
+                            sleep_time = rate_limit_delays[attempt]
+                        else:
+                            sleep_time = initial_backoff * (2 ** attempt)
+                        print(f"    [API Error] {error_msg}. Retrying in {sleep_time}s (attempt {attempt + 1}/{max_attempts})...")
                         time.sleep(sleep_time)
                         continue
                     else:
-                        raise RuntimeError(f"phish.net API error after {max_retries} attempts: {error_msg}")
+                        raise RuntimeError(f"phish.net API error after {max_attempts} attempts: {error_msg}")
                 return res
             except Exception as e:
-                if attempt < max_retries - 1:
+                if attempt < max_attempts - 1:
                     sleep_time = initial_backoff * (2 ** attempt)
-                    print(f"    [Network/SSL Error] {e}. Retrying in {sleep_time}s (attempt {attempt + 1}/{max_retries})...")
+                    print(f"    [Network/SSL Error] {e}. Retrying in {sleep_time}s (attempt {attempt + 1}/{max_attempts})...")
                     time.sleep(sleep_time)
                 else:
                     raise e
