@@ -1,17 +1,17 @@
 # Phish Setlist Summary
  
-*Generated on 2026-07-26*
+*Generated on 2026-07-31*
  
 ## Fun with Stats
 
-### Most Recent Tour: Not Part of a Tour (2 Shows)
-2 shows across 2 venues
+### Most Recent Tour: 1986 Tour (4 Shows)
+4 shows across 2 venues
 
-23 total songs played
+36 total songs played
 
-Number of unique songs played: 18
+Number of unique songs played: 25
 
-14 songs were played exactly once
+18 songs were played exactly once
 
 Bust-outs (Gap > 50): 0
 
@@ -37,20 +37,20 @@ No data for this timeframe.
  
 ## Most Common Songs
 
-### Most Recent Tour: Not Part of a Tour (2 Shows)
+### Most Recent Tour: 1986 Tour (4 Shows)
 
-| Song                                 |   Times Played |
-|:-------------------------------------|---------------:|
-| Alumni Blues                         |              3 |
-| Dog Log                              |              2 |
-| Prep School Hippie                   |              2 |
-| Camel Walk                           |              2 |
-| Run Like an Antelope                 |              1 |
-| Dave's Energy Guide                  |              1 |
-| McGrupp and the Watchful Hosemasters |              1 |
-| AC/DC Bag                            |              1 |
-| Dear Mrs. Reagan                     |              1 |
-| Quinn the Eskimo (The Mighty Quinn)  |              1 |
+| Song                       |   Times Played |
+|:---------------------------|---------------:|
+| Alumni Blues               |              4 |
+| Halley's Comet             |              4 |
+| Dave's Energy Guide        |              2 |
+| You Enjoy Myself           |              2 |
+| Letter to Jimmy Page       |              2 |
+| The Pendulum               |              2 |
+| Back Porch Boogie Blues    |              2 |
+| Slave to the Traffic Light |              1 |
+| Mike's Song                |              1 |
+| Prep School Hippie         |              1 |
 
 ### Past 6 Months (0 Shows)
  
