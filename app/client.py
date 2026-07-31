@@ -26,9 +26,11 @@ class PhishNetClient():
             try:
                 res = func(*args, **kwargs)
                 if isinstance(res, dict) and res.get('error'):
-                    error_msg = res.get('error')
+                    error_msg = str(res.get('error'))
                     if attempt < max_retries - 1:
-                        sleep_time = initial_backoff * (2 ** attempt)
+                        # If HTTP 429 rate limit, wait longer for API rate limit window to clear
+                        backoff = 10 if "429" in error_msg else initial_backoff
+                        sleep_time = backoff * (2 ** attempt)
                         print(f"    [API Error] {error_msg}. Retrying in {sleep_time}s (attempt {attempt + 1}/{max_retries})...")
                         time.sleep(sleep_time)
                         continue
