@@ -1,6 +1,6 @@
 # Phish Setlist Summary
  
-*Generated on 2026-08-02*
+*Generated on 2026-08-09*
  
 ## Fun with Stats
 
@@ -49,32 +49,32 @@ Most common show opener: Buried Alive (4 times)
 Most common encore: Fee (3 times)
 
  
-### Past 2 Years (103 Shows)
-103 shows across 33 venues
+### Past 2 Years (98 Shows)
+98 shows across 32 venues
 
-1853 total songs played
+1756 total songs played
 
-Number of unique songs played: 297
+Number of unique songs played: 293
 
-94 songs were played exactly once
+98 songs were played exactly once
 
-Bust-outs (Gap > 50): 136
+Bust-outs (Gap > 50): 128
 
 Most common show opener: Buried Alive (7 times)
 
 Most common encore: A Life Beyond The Dream (7 times)
 
  
-### Past 5 Years (252 Shows)
-252 shows across 68 venues
+### Past 5 Years (247 Shows)
+247 shows across 67 venues
 
-4598 total songs played
+4494 total songs played
 
 Number of unique songs played: 374
 
-85 songs were played exactly once
+87 songs were played exactly once
 
-Bust-outs (Gap > 50): 300
+Bust-outs (Gap > 50): 297
 
 Most common show opener: Buried Alive (13 times)
 
@@ -144,35 +144,35 @@ Most common encore: A Life Beyond The Dream (22 times)
 | Light                   |              8 |
 | Also Sprach Zarathustra |              8 |
  
-### Past 2 Years (103 Shows)
+### Past 2 Years (98 Shows)
  
-| Song               |   Times Played |
-|:-------------------|---------------:|
-| Tweezer            |             31 |
-| Harry Hood         |             24 |
-| Chalk Dust Torture |             23 |
-| Tweezer Reprise    |             23 |
-| Ghost              |             22 |
-| Sand               |             22 |
-| Carini             |             22 |
-| Character Zero     |             20 |
-| Fuego              |             20 |
-| Possum             |             20 |
+| Song                           |   Times Played |
+|:-------------------------------|---------------:|
+| Tweezer                        |             28 |
+| Tweezer Reprise                |             23 |
+| Harry Hood                     |             23 |
+| Sand                           |             21 |
+| Ghost                          |             21 |
+| Chalk Dust Torture             |             21 |
+| Carini                         |             21 |
+| Fuego                          |             19 |
+| What's Going Through Your Mind |             19 |
+| Everything's Right             |             19 |
  
-### Past 5 Years (252 Shows)
+### Past 5 Years (247 Shows)
  
 | Song               |   Times Played |
 |:-------------------|---------------:|
 | Tweezer            |             67 |
-| Ghost              |             59 |
-| Harry Hood         |             57 |
+| Ghost              |             57 |
 | Chalk Dust Torture |             56 |
-| Sand               |             55 |
-| Everything's Right |             53 |
-| Blaze On           |             52 |
-| Free               |             51 |
-| Carini             |             51 |
-| Sigma Oasis        |             51 |
+| Harry Hood         |             56 |
+| Sand               |             54 |
+| Everything's Right |             52 |
+| Blaze On           |             51 |
+| Free               |             50 |
+| Carini             |             50 |
+| Sigma Oasis        |             50 |
  
 ### Past 10 Years (395 Shows)
  
@@ -189,27 +189,26 @@ Most common encore: A Life Beyond The Dream (22 times)
 | Carini             |             79 |
 | Everything's Right |             79 |
  
-## Newest Songs (Debuts Past 2 Years - 103 Shows)
+## Newest Songs (Debuts Past 2 Years - 98 Shows)
  
-| Song                           | Debut Date   |   Times Played |
-|:-------------------------------|:-------------|---------------:|
-| Dark Puddle                    | 2026-04-23   |              1 |
-| Brief Time                     | 2026-04-17   |              1 |
-| Simeon                         | 2026-01-30   |              1 |
-| Dancing in Midair              | 2026-01-29   |              1 |
-| Fling Your Head                | 2026-01-28   |              1 |
-| Cream                          | 2025-12-31   |              2 |
-| Sincere                        | 2025-12-31   |              1 |
-| Box of Rain                    | 2024-10-25   |              1 |
-| Woodlands Jam                  | 2024-08-16   |              1 |
-| Day Tripper                    | 2024-08-14   |              1 |
-| My Sharona                     | 2024-08-14   |              1 |
-| Mystery Achievement            | 2024-08-14   |              1 |
-| Slow Ride                      | 2024-08-14   |              1 |
-| Starship Trooper               | 2024-08-14   |              1 |
-| What's Going Through Your Mind | 2024-08-07   |             20 |
+| Song                | Debut Date   |   Times Played |
+|:--------------------|:-------------|---------------:|
+| Dark Puddle         | 2026-04-23   |              1 |
+| Brief Time          | 2026-04-17   |              1 |
+| Simeon              | 2026-01-30   |              1 |
+| Dancing in Midair   | 2026-01-29   |              1 |
+| Fling Your Head     | 2026-01-28   |              1 |
+| Cream               | 2025-12-31   |              2 |
+| Sincere             | 2025-12-31   |              1 |
+| Box of Rain         | 2024-10-25   |              1 |
+| Woodlands Jam       | 2024-08-16   |              1 |
+| Day Tripper         | 2024-08-14   |              1 |
+| My Sharona          | 2024-08-14   |              1 |
+| Mystery Achievement | 2024-08-14   |              1 |
+| Slow Ride           | 2024-08-14   |              1 |
+| Starship Trooper    | 2024-08-14   |              1 |
  
-## Notable Shows with Variety (Past 5 Years - 252 Shows)
+## Notable Shows with Variety (Past 5 Years - 247 Shows)
  
 ### The 'Bust-Out' Shows (Highest Avg Gap - Past 5 Years)
  
@@ -243,13 +242,13 @@ Most common encore: A Life Beyond The Dream (22 times)
  
 ### The Marathons (Most Unique Songs - Past 10 Years)
  
-| Date       | Venue                     | City             | State   |   Unique Songs |
-|:-----------|:--------------------------|:-----------------|:--------|---------------:|
-| 2016-10-31 | MGM Grand Garden Arena    | Las Vegas        | NV      |             31 |
-| 2022-12-31 | Madison Square Garden     | New York         | NY      |             31 |
-| 2023-12-31 | Madison Square Garden     | New York         | NY      |             30 |
-| 2024-12-31 | Madison Square Garden     | New York         | NY      |             29 |
-| 2019-12-08 | North Charleston Coliseum | North Charleston | SC      |             28 |
+| Date       | Venue                  | City      | State   |   Unique Songs |
+|:-----------|:-----------------------|:----------|:--------|---------------:|
+| 2016-10-31 | MGM Grand Garden Arena | Las Vegas | NV      |             31 |
+| 2022-12-31 | Madison Square Garden  | New York  | NY      |             31 |
+| 2023-12-31 | Madison Square Garden  | New York  | NY      |             30 |
+| 2024-12-31 | Madison Square Garden  | New York  | NY      |             29 |
+| 2018-10-31 | MGM Grand Garden Arena | Las Vegas | NV      |             28 |
  
 ## Rarest Songs Played (Past 1 Year - 44 Shows)
  
