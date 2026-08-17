@@ -4,11 +4,20 @@ import time
 import itertools
 import concurrent.futures
 
+if "PHISH_API_KEY" not in os.environ and os.path.exists(".env"):
+    with open(".env") as f:
+        for line in f:
+            line = line.strip()
+            if line and not line.startswith("#") and "=" in line:
+                k, v = line.split("=", 1)
+                os.environ[k.strip()] = v.strip().strip("'\"")
+
 if "PHISH_API_KEY" in os.environ:
     apikey = os.environ["PHISH_API_KEY"]
 else:
     raise ValueError(
         "Must set PHISH_API_KEY enviromental variable with api.phish.net key!")
+
 
 
 SONG_KEYS = ['showdate', 'showyear', 'exclude', 'position', 'transition', 'set', 'isjam',

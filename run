@@ -1,27 +1,55 @@
 #!/usr/bin/env python
 import argparse
 import glob
+import os
 import pandas as pd
-from app import SetlistData, SummaryGenerator, phish_net_client as client
+from app import SetlistData, SummaryGenerator, PersonalSummaryGenerator, phish_net_client as client
 from datetime import datetime
 
-parser = argparse.ArgumentParser()
-parser.add_argument('--update', default='all',
-                    choices=['all', 'year'], help='download all data or current year')
-parser.add_argument('--year',  type=int, default=None,
+parser = argparse.ArgumentParser(description="Phish setlist data and summary generator")
+parser.add_argument('--update', default=None,
+                    choices=['all', 'year'], help='download all data or specific year')
+parser.add_argument('--year', type=int, default=None,
                     help="Year to update if update = 'year'")
+parser.add_argument('--personal', action='store_true',
+                    help="Generate MY-SUMMARY.md from personal attended shows in data/input/shows.txt")
+parser.add_argument('--summary', action='store_true',
+                    help="Generate SUMMARY.md from local CSV data")
 args = parser.parse_args()
+
+
+def load_local_csv_df():
+    csv_files = glob.glob('data/csv/[0-9]*.csv')
+    if not csv_files:
+        return None
+    return pd.concat((pd.read_csv(f) for f in csv_files), ignore_index=True)
 
 
 def generate_summary(df=None):
     print("Generating SUMMARY.md...")
     if df is None:
-        csv_files = glob.glob('data/csv/[0-9]*.csv')
-        if not csv_files:
+        df = load_local_csv_df()
+        if df is None:
+            print("No CSV data found in data/csv/")
             return
-        df = pd.concat((pd.read_csv(f) for f in csv_files), ignore_index=True)
     sg = SummaryGenerator(df)
     sg.write_to_file('SUMMARY.md')
+    print("SUMMARY.md generated.")
+
+
+def generate_personal_summary(df=None, shows_path='data/input/shows.txt'):
+    if not os.path.exists(shows_path):
+        print(f"Personal shows file not found at {shows_path}")
+        return
+    print(f"Generating MY-SUMMARY.md from {shows_path}...")
+    if df is None:
+        df = load_local_csv_df()
+        if df is None:
+            print("No CSV data found in data/csv/")
+            return
+    psg = PersonalSummaryGenerator(df, shows_input=shows_path)
+    psg.write_to_file('MY-SUMMARY.md')
+    print("MY-SUMMARY.md generated.")
 
 
 def create_all():
@@ -30,10 +58,11 @@ def create_all():
     setlist_data.save_all()
     setlist_data.save_years()
     generate_summary(setlist_data.df)
+    generate_personal_summary(setlist_data.df)
 
 
 def create_year(year=None):
-    if year == None:
+    if year is None:
         year = datetime.now().year
 
     print(f"Updating year {year}...")
@@ -41,8 +70,17 @@ def create_year(year=None):
     setlist_data.save_years()
 
 
-if args.update == 'year':
+if args.personal:
+    generate_personal_summary()
+elif args.summary:
+    generate_summary()
+elif args.update == 'year':
     create_year(args.year)
 elif args.update == 'all':
     create_all()
+else:
+    # Default behavior if no flags: generate personal summary and general summary
+    generate_summary()
+    generate_personal_summary()
+
 
