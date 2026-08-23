@@ -1,6 +1,6 @@
 # Phish Setlist Summary
  
-*Generated on 2026-08-16*
+*Generated on 2026-08-23*
  
 ## Fun with Stats
 
@@ -49,12 +49,12 @@ Most common show opener: Buried Alive (4 times)
 Most common encore: Fee (3 times)
 
  
-### Past 2 Years (93 Shows)
-93 shows across 31 venues
+### Past 2 Years (91 Shows)
+91 shows across 30 venues
 
-1667 total songs played
+1631 total songs played
 
-Number of unique songs played: 281
+Number of unique songs played: 280
 
 89 songs were played exactly once
 
@@ -144,20 +144,20 @@ Most common encore: A Life Beyond The Dream (22 times)
 | Light                   |              8 |
 | Also Sprach Zarathustra |              8 |
  
-### Past 2 Years (93 Shows)
+### Past 2 Years (91 Shows)
  
-| Song                    |   Times Played |
-|:------------------------|---------------:|
-| Tweezer                 |             28 |
-| Tweezer Reprise         |             22 |
-| Carini                  |             21 |
-| Harry Hood              |             21 |
-| Chalk Dust Torture      |             20 |
-| Ghost                   |             19 |
-| Sand                    |             19 |
-| Blaze On                |             18 |
-| Also Sprach Zarathustra |             18 |
-| Stash                   |             18 |
+| Song                           |   Times Played |
+|:-------------------------------|---------------:|
+| Tweezer                        |             27 |
+| Harry Hood                     |             21 |
+| Tweezer Reprise                |             21 |
+| Chalk Dust Torture             |             20 |
+| Carini                         |             20 |
+| Ghost                          |             19 |
+| Sand                           |             19 |
+| Possum                         |             18 |
+| Everything's Right             |             18 |
+| What's Going Through Your Mind |             18 |
  
 ### Past 5 Years (243 Shows)
  
@@ -189,7 +189,7 @@ Most common encore: A Life Beyond The Dream (22 times)
 | Carini             |             79 |
 | Everything's Right |             79 |
  
-## Newest Songs (Debuts Past 2 Years - 93 Shows)
+## Newest Songs (Debuts Past 2 Years - 91 Shows)
  
 | Song              | Debut Date   |   Times Played |
 |:------------------|:-------------|---------------:|
