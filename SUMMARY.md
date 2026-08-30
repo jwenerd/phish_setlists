@@ -1,6 +1,6 @@
 # Phish Setlist Summary
  
-*Generated on 2026-08-23*
+*Generated on 2026-08-30*
  
 ## Fun with Stats
 
@@ -49,42 +49,42 @@ Most common show opener: Buried Alive (4 times)
 Most common encore: Fee (3 times)
 
  
-### Past 2 Years (91 Shows)
-91 shows across 30 venues
+### Past 2 Years (89 Shows)
+89 shows across 30 venues
 
-1631 total songs played
+1598 total songs played
 
-Number of unique songs played: 280
+Number of unique songs played: 279
 
-89 songs were played exactly once
+88 songs were played exactly once
 
-Bust-outs (Gap > 50): 122
+Bust-outs (Gap > 50): 118
 
 Most common show opener: Buried Alive (7 times)
 
 Most common encore: A Life Beyond The Dream (6 times)
 
  
-### Past 5 Years (243 Shows)
-243 shows across 66 venues
+### Past 5 Years (239 Shows)
+239 shows across 65 venues
 
-4418 total songs played
+4340 total songs played
 
-Number of unique songs played: 373
+Number of unique songs played: 369
 
-87 songs were played exactly once
+88 songs were played exactly once
 
-Bust-outs (Gap > 50): 295
+Bust-outs (Gap > 50): 287
 
 Most common show opener: Buried Alive (13 times)
 
 Most common encore: A Life Beyond The Dream (18 times)
 
  
-### Past 10 Years (395 Shows)
-395 shows across 89 venues
+### Past 10 Years (393 Shows)
+393 shows across 88 venues
 
-7443 total songs played
+7403 total songs played
 
 Number of unique songs played: 460
 
@@ -144,52 +144,52 @@ Most common encore: A Life Beyond The Dream (22 times)
 | Light                   |              8 |
 | Also Sprach Zarathustra |              8 |
  
-### Past 2 Years (91 Shows)
+### Past 2 Years (89 Shows)
  
 | Song                           |   Times Played |
 |:-------------------------------|---------------:|
 | Tweezer                        |             27 |
-| Harry Hood                     |             21 |
 | Tweezer Reprise                |             21 |
-| Chalk Dust Torture             |             20 |
 | Carini                         |             20 |
-| Ghost                          |             19 |
-| Sand                           |             19 |
-| Possum                         |             18 |
-| Everything's Right             |             18 |
+| Harry Hood                     |             20 |
+| Chalk Dust Torture             |             19 |
 | What's Going Through Your Mind |             18 |
+| Sand                           |             18 |
+| Ghost                          |             18 |
+| Free                           |             17 |
+| Stash                          |             17 |
  
-### Past 5 Years (243 Shows)
+### Past 5 Years (239 Shows)
  
 | Song               |   Times Played |
 |:-------------------|---------------:|
 | Tweezer            |             66 |
 | Ghost              |             56 |
-| Harry Hood         |             55 |
-| Chalk Dust Torture |             54 |
-| Sand               |             53 |
-| Everything's Right |             51 |
-| Sigma Oasis        |             50 |
-| Blaze On           |             50 |
-| Down with Disease  |             49 |
-| Free               |             49 |
+| Harry Hood         |             54 |
+| Chalk Dust Torture |             53 |
+| Sand               |             52 |
+| Everything's Right |             50 |
+| Blaze On           |             49 |
+| Sigma Oasis        |             49 |
+| Free               |             48 |
+| Down with Disease  |             48 |
  
-### Past 10 Years (395 Shows)
+### Past 10 Years (393 Shows)
  
 | Song               |   Times Played |
 |:-------------------|---------------:|
-| Tweezer            |            100 |
-| Ghost              |             92 |
-| Harry Hood         |             88 |
-| Blaze On           |             87 |
-| Chalk Dust Torture |             87 |
+| Tweezer            |             99 |
+| Ghost              |             91 |
+| Harry Hood         |             87 |
+| Blaze On           |             86 |
+| Chalk Dust Torture |             86 |
 | Sand               |             84 |
-| Free               |             80 |
-| 46 Days            |             80 |
-| Carini             |             79 |
+| 46 Days            |             79 |
+| Free               |             79 |
 | Everything's Right |             79 |
+| Carini             |             78 |
  
-## Newest Songs (Debuts Past 2 Years - 91 Shows)
+## Newest Songs (Debuts Past 2 Years - 89 Shows)
  
 | Song              | Debut Date   |   Times Played |
 |:------------------|:-------------|---------------:|
@@ -202,7 +202,7 @@ Most common encore: A Life Beyond The Dream (22 times)
 | Sincere           | 2025-12-31   |              1 |
 | Box of Rain       | 2024-10-25   |              1 |
  
-## Notable Shows with Variety (Past 5 Years - 243 Shows)
+## Notable Shows with Variety (Past 5 Years - 239 Shows)
  
 ### The 'Bust-Out' Shows (Highest Avg Gap - Past 5 Years)
  
@@ -236,13 +236,13 @@ Most common encore: A Life Beyond The Dream (22 times)
  
 ### The Marathons (Most Unique Songs - Past 10 Years)
  
-| Date       | Venue                     | City             | State   |   Unique Songs |
-|:-----------|:--------------------------|:-----------------|:--------|---------------:|
-| 2016-10-31 | MGM Grand Garden Arena    | Las Vegas        | NV      |             31 |
-| 2022-12-31 | Madison Square Garden     | New York         | NY      |             31 |
-| 2023-12-31 | Madison Square Garden     | New York         | NY      |             30 |
-| 2024-12-31 | Madison Square Garden     | New York         | NY      |             29 |
-| 2019-12-08 | North Charleston Coliseum | North Charleston | SC      |             28 |
+| Date       | Venue                  | City      | State   |   Unique Songs |
+|:-----------|:-----------------------|:----------|:--------|---------------:|
+| 2022-12-31 | Madison Square Garden  | New York  | NY      |             31 |
+| 2016-10-31 | MGM Grand Garden Arena | Las Vegas | NV      |             31 |
+| 2023-12-31 | Madison Square Garden  | New York  | NY      |             30 |
+| 2024-12-31 | Madison Square Garden  | New York  | NY      |             29 |
+| 2018-12-31 | Madison Square Garden  | New York  | NY      |             28 |
  
 ## Rarest Songs Played (Past 1 Year - 44 Shows)
  
