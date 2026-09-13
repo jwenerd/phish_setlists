@@ -1,6 +1,6 @@
 # Personal Phish Stats Summary
 
-*Generated on 2026-09-08 based on `128` attended shows.*
+*Generated on 2026-09-13 based on `128` attended shows.*
 
 ---
 
@@ -237,8 +237,8 @@
 |      1 | Whole Lotta Love     |          1037 | 2010-10-30    | Boardwalk Hall                     | Atlantic City | NJ      |
 |      2 | How High the Moon    |           714 | 2009-08-13    | Darien Lake Performing Arts Center | Darien Center | NY      |
 |      3 | Letter to Jimmy Page |           590 | 2010-06-25    | Susquehanna Bank Center            | Camden        | NJ      |
-|      4 | Thunderhead          |           543 | 2022-09-03    | Dick's Sporting Goods Park         | Commerce City | CO      |
-|      5 | L.A. Woman           |           492 | 2021-10-24    | The Forum                          | Inglewood     | CA      |
+|      4 | Thunderhead          |           544 | 2022-09-03    | Dick's Sporting Goods Park         | Commerce City | CO      |
+|      5 | L.A. Woman           |           493 | 2021-10-24    | The Forum                          | Inglewood     | CA      |
 |      6 | Dog Log              |           464 | 2024-09-01    | Dick's Sporting Goods Park         | Commerce City | CO      |
 |      7 | Sabotage             |           453 | 2024-09-01    | Dick's Sporting Goods Park         | Commerce City | CO      |
 |      8 | Terrapin             |           436 | 2019-12-04    | Petersen Events Center             | Pittsburgh    | PA      |
@@ -315,16 +315,16 @@
 ### Personal 'Bust-Out' Shows (Highest Average Song Gap)
 |   Rank | Date       | Venue                              | City          | State   |   Avg Gap |   Max Gap |
 |-------:|:-----------|:-----------------------------------|:--------------|:--------|----------:|----------:|
-|      1 | 2021-10-28 | MGM Grand Garden Arena             | Las Vegas     | NV      |      64.1 |       436 |
-|      2 | 2010-10-30 | Boardwalk Hall                     | Atlantic City | NJ      |      57.4 |      1037 |
-|      3 | 2024-09-01 | Dick's Sporting Goods Park         | Commerce City | CO      |      55.2 |       464 |
+|      1 | 2021-10-28 | MGM Grand Garden Arena             | Las Vegas     | NV      |      64.3 |       436 |
+|      2 | 2010-10-30 | Boardwalk Hall                     | Atlantic City | NJ      |      57.7 |      1037 |
+|      3 | 2024-09-01 | Dick's Sporting Goods Park         | Commerce City | CO      |      55.5 |       464 |
 |      4 | 2003-07-29 | Post-Gazette Pavilion at Star Lake | Burgettstown  | PA      |      47.2 |       287 |
-|      5 | 2010-06-25 | Susquehanna Bank Center            | Camden        | NJ      |      45.8 |       590 |
-|      6 | 2016-12-29 | Madison Square Garden              | New York      | NY      |      42.6 |       200 |
-|      7 | 2022-09-03 | Dick's Sporting Goods Park         | Commerce City | CO      |      41.6 |       543 |
+|      5 | 2010-06-25 | Susquehanna Bank Center            | Camden        | NJ      |      45.9 |       590 |
+|      6 | 2016-12-29 | Madison Square Garden              | New York      | NY      |      42.8 |       200 |
+|      7 | 2022-09-03 | Dick's Sporting Goods Park         | Commerce City | CO      |      41.9 |       544 |
 |      8 | 2021-10-30 | MGM Grand Garden Arena             | Las Vegas     | NV      |      41.6 |       332 |
-|      9 | 2009-08-13 | Darien Lake Performing Arts Center | Darien Center | NY      |      38.4 |       714 |
-|     10 | 2016-12-30 | Madison Square Garden              | New York      | NY      |      37.2 |       378 |
+|      9 | 2009-08-13 | Darien Lake Performing Arts Center | Darien Center | NY      |      38.7 |       714 |
+|     10 | 2016-12-30 | Madison Square Garden              | New York      | NY      |      37.5 |       378 |
 
 ### Top 15 "White Whales" (Most Played Songs Never Seen Live)
 |   Rank | Song                               |   All-Time Phish Plays |
