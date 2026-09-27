@@ -1,6 +1,6 @@
 # Phish Setlist Summary
  
-*Generated on 2026-09-20*
+*Generated on 2026-09-27*
  
 ## Fun with Stats
 
@@ -33,20 +33,20 @@ Most common show opener: Buried Alive (2 times)
 Most common encore: Wading in the Velvet Sea (3 times)
 
  
-### Past 1 Year (40 Shows)
-40 shows across 12 venues
+### Past 1 Year (39 Shows)
+39 shows across 11 venues
 
-702 total songs played
+681 total songs played
 
-Number of unique songs played: 230
+Number of unique songs played: 229
 
-82 songs were played exactly once
+81 songs were played exactly once
 
 Bust-outs (Gap > 50): 59
 
 Most common show opener: Buried Alive (3 times)
 
-Most common encore: A Life Beyond The Dream (3 times)
+Most common encore: Slave to the Traffic Light (3 times)
 
  
 ### Past 2 Years (90 Shows)
@@ -129,20 +129,20 @@ Most common encore: A Life Beyond The Dream (22 times)
 | Character Zero       |              6 |
 | Everything's Right   |              5 |
  
-### Past 1 Year (40 Shows)
+### Past 1 Year (39 Shows)
  
-| Song                           |   Times Played |
-|:-------------------------------|---------------:|
-| Tweezer                        |             14 |
-| Ghost                          |              9 |
-| Chalk Dust Torture             |              9 |
-| Harry Hood                     |              9 |
-| What's Going Through Your Mind |              8 |
-| Run Like an Antelope           |              8 |
-| Carini                         |              8 |
-| Character Zero                 |              8 |
-| Free                           |              8 |
-| Sand                           |              8 |
+| Song                 |   Times Played |
+|:---------------------|---------------:|
+| Tweezer              |             14 |
+| Run Like an Antelope |              8 |
+| Carini               |              8 |
+| Character Zero       |              8 |
+| Chalk Dust Torture   |              8 |
+| Ghost                |              8 |
+| Free                 |              8 |
+| Sand                 |              8 |
+| Fuego                |              8 |
+| Harry Hood           |              8 |
  
 ### Past 2 Years (90 Shows)
  
@@ -236,15 +236,15 @@ Most common encore: A Life Beyond The Dream (22 times)
  
 ### The Marathons (Most Unique Songs - Past 10 Years)
  
-| Date       | Venue                  | City      | State   |   Unique Songs |
-|:-----------|:-----------------------|:----------|:--------|---------------:|
-| 2022-12-31 | Madison Square Garden  | New York  | NY      |             31 |
-| 2016-10-31 | MGM Grand Garden Arena | Las Vegas | NV      |             31 |
-| 2023-12-31 | Madison Square Garden  | New York  | NY      |             30 |
-| 2024-12-31 | Madison Square Garden  | New York  | NY      |             29 |
-| 2016-12-31 | Madison Square Garden  | New York  | NY      |             28 |
+| Date       | Venue                     | City             | State   |   Unique Songs |
+|:-----------|:--------------------------|:-----------------|:--------|---------------:|
+| 2022-12-31 | Madison Square Garden     | New York         | NY      |             31 |
+| 2016-10-31 | MGM Grand Garden Arena    | Las Vegas        | NV      |             31 |
+| 2023-12-31 | Madison Square Garden     | New York         | NY      |             30 |
+| 2024-12-31 | Madison Square Garden     | New York         | NY      |             29 |
+| 2019-12-08 | North Charleston Coliseum | North Charleston | SC      |             28 |
  
-## Rarest Songs Played (Past 1 Year - 40 Shows)
+## Rarest Songs Played (Past 1 Year - 39 Shows)
  
 | Song                  | Date Played   |   Gap |
 |:----------------------|:--------------|------:|
