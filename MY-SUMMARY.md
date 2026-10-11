@@ -1,6 +1,6 @@
 # Personal Phish Stats Summary
 
-*Generated on 2026-10-04 based on `128` attended shows.*
+*Generated on 2026-10-11 based on `128` attended shows.*
 
 ---
 
@@ -22,31 +22,31 @@
 ### Top 25 Songs Overall
 |   Rank | Song                           |   Times Seen | % of Shows   |   All-Time Plays |
 |-------:|:-------------------------------|-------------:|:-------------|-----------------:|
-|      1 | Tweezer                        |           43 | 33.6%        |              483 |
-|      2 | Harry Hood                     |           36 | 28.1%        |              455 |
-|      3 | Tweezer Reprise                |           35 | 27.3%        |              348 |
-|      4 | Wolfman's Brother              |           31 | 24.2%        |              256 |
-|      5 | Chalk Dust Torture             |           31 | 24.2%        |              539 |
-|      6 | Run Like an Antelope           |           31 | 24.2%        |              513 |
-|      7 | Ghost                          |           30 | 23.4%        |              244 |
-|      8 | Also Sprach Zarathustra        |           29 | 22.7%        |              282 |
-|      9 | The Moma Dance                 |           28 | 21.9%        |              218 |
-|     10 | 46 Days                        |           28 | 21.9%        |              163 |
-|     11 | You Enjoy Myself               |           27 | 21.1%        |              659 |
+|      1 | Tweezer                        |           43 | 33.6%        |              487 |
+|      2 | Harry Hood                     |           36 | 28.1%        |              456 |
+|      3 | Tweezer Reprise                |           35 | 27.3%        |              349 |
+|      4 | Wolfman's Brother              |           31 | 24.2%        |              257 |
+|      5 | Chalk Dust Torture             |           31 | 24.2%        |              540 |
+|      6 | Run Like an Antelope           |           31 | 24.2%        |              514 |
+|      7 | Ghost                          |           30 | 23.4%        |              245 |
+|      8 | Also Sprach Zarathustra        |           29 | 22.7%        |              283 |
+|      9 | The Moma Dance                 |           28 | 21.9%        |              219 |
+|     10 | 46 Days                        |           28 | 21.9%        |              164 |
+|     11 | You Enjoy Myself               |           27 | 21.1%        |              660 |
 |     12 | Down with Disease              |           27 | 21.1%        |              348 |
-|     13 | Free                           |           27 | 21.1%        |              247 |
-|     14 | Twist                          |           26 | 20.3%        |              198 |
+|     13 | Free                           |           27 | 21.1%        |              248 |
+|     14 | Twist                          |           26 | 20.3%        |              199 |
 |     15 | Bathtub Gin                    |           26 | 20.3%        |              327 |
-|     16 | Light                          |           26 | 20.3%        |              141 |
+|     16 | Light                          |           26 | 20.3%        |              142 |
 |     17 | Slave to the Traffic Light     |           26 | 20.3%        |              302 |
 |     18 | Sand                           |           26 | 20.3%        |              169 |
 |     19 | Character Zero                 |           25 | 19.5%        |              271 |
-|     20 | Backwards Down the Number Line |           25 | 19.5%        |              152 |
+|     20 | Backwards Down the Number Line |           25 | 19.5%        |              153 |
 |     21 | Piper                          |           24 | 18.8%        |              214 |
-|     22 | David Bowie                    |           23 | 18.0%        |              515 |
-|     23 | Possum                         |           23 | 18.0%        |              594 |
+|     22 | David Bowie                    |           23 | 18.0%        |              516 |
+|     23 | Possum                         |           23 | 18.0%        |              595 |
 |     24 | Stash                          |           22 | 17.2%        |              474 |
-|     25 | Tube                           |           22 | 17.2%        |              213 |
+|     25 | Tube                           |           22 | 17.2%        |              214 |
 
 ### Top 15 Set 1 Songs
 |   Rank | Song              |   Times Seen | % of Shows   |

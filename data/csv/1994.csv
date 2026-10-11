@@ -1132,10 +1132,10 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-06-17,1994,0,24,5,2,0,0,2,1994 Summer Tour,1994 Summer,Frankenstein,,0,Eagles Ballroom,Milwaukee,WI,USA,
 1994-06-17,1994,0,25,2,e,0,0,5,1994 Summer Tour,1994 Summer,Sleeping Monkey,,1,Eagles Ballroom,Milwaukee,WI,USA,>
 1994-06-17,1994,0,26,6,e,0,0,5,1994 Summer Tour,1994 Summer,Rocky Top,,0,Eagles Ballroom,Milwaukee,WI,USA,
-1994-06-18,1994,0,1,2,1,0,0,5,1994 Summer Tour,1994 Summer,Wilson,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 1994-06-18,1994,1,1,1,1,0,0,0,Not Part of a Tour,No Tour,Sweet Adeline,,0,The Loop 97.9 Studios,Chicago,IL,USA,","
 1994-06-18,1994,0,1,2,1,0,0,5,1994 Summer Tour,1994 Summer,Wilson,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 1994-06-18,1994,1,1,1,1,0,0,0,Not Part of a Tour,No Tour,Sweet Adeline,,0,The Loop 97.9 Studios,Chicago,IL,USA,","
+1994-06-18,1994,0,1,2,1,0,0,5,1994 Summer Tour,1994 Summer,Wilson,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 1994-06-18,1994,1,2,6,1,0,0,0,Not Part of a Tour,No Tour,Dog Faced Boy,,1,The Loop 97.9 Studios,Chicago,IL,USA,
 1994-06-18,1994,0,2,1,1,0,0,2,1994 Summer Tour,1994 Summer,Rift,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
 1994-06-18,1994,1,2,6,1,0,0,0,Not Part of a Tour,No Tour,Dog Faced Boy,,1,The Loop 97.9 Studios,Chicago,IL,USA,
@@ -2339,26 +2339,26 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-11-18,1994,0,18,5,2,0,0,8,1994 Fall Tour,1994 Fall,Possum,,1,"MSU Auditorium, Michigan State University",East Lansing,MI,USA,
 1994-11-18,1994,0,19,1,e,0,0,0,1994 Fall Tour,1994 Fall,Roll in My Sweet Baby's Arms,,0,"MSU Auditorium, Michigan State University",East Lansing,MI,USA,","
 1994-11-18,1994,0,20,6,e,0,0,5,1994 Fall Tour,1994 Fall,Runaway Jim,,1,"MSU Auditorium, Michigan State University",East Lansing,MI,USA,
-1994-11-19,1994,0,1,1,1,0,0,0,Not Part of a Tour,No Tour,Blackberry Blossom,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,1,2,1,0,0,2,1994 Fall Tour,1994 Fall,Golgi Apparatus,Golgi,1,Indiana University Auditorium,Bloomington,IN,USA,>
 1994-11-19,1994,0,1,1,1,0,0,0,Not Part of a Tour,No Tour,Blackberry Blossom,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,1,2,1,0,0,2,1994 Fall Tour,1994 Fall,Golgi Apparatus,Golgi,1,Indiana University Auditorium,Bloomington,IN,USA,>
-1994-11-19,1994,0,2,2,1,0,0,2,1994 Fall Tour,1994 Fall,Down with Disease,DwD,1,Indiana University Auditorium,Bloomington,IN,USA,>
+1994-11-19,1994,0,1,1,1,0,0,0,Not Part of a Tour,No Tour,Blackberry Blossom,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,2,1,1,0,0,4,Not Part of a Tour,No Tour,Tennessee Waltz,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,2,2,1,0,0,2,1994 Fall Tour,1994 Fall,Down with Disease,DwD,1,Indiana University Auditorium,Bloomington,IN,USA,>
 1994-11-19,1994,0,2,1,1,0,0,4,Not Part of a Tour,No Tour,Tennessee Waltz,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
-1994-11-19,1994,0,3,1,1,0,0,6,1994 Fall Tour,1994 Fall,Guyute,,1,Indiana University Auditorium,Bloomington,IN,USA,","
+1994-11-19,1994,0,2,2,1,0,0,2,1994 Fall Tour,1994 Fall,Down with Disease,DwD,1,Indiana University Auditorium,Bloomington,IN,USA,>
 1994-11-19,1994,0,3,1,1,0,0,2,Not Part of a Tour,No Tour,The Old Home Place,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,3,1,1,0,0,6,1994 Fall Tour,1994 Fall,Guyute,,1,Indiana University Auditorium,Bloomington,IN,USA,","
 1994-11-19,1994,0,3,1,1,0,0,2,Not Part of a Tour,No Tour,The Old Home Place,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
+1994-11-19,1994,0,3,1,1,0,0,6,1994 Fall Tour,1994 Fall,Guyute,,1,Indiana University Auditorium,Bloomington,IN,USA,","
 1994-11-19,1994,0,4,1,1,0,0,0,Not Part of a Tour,No Tour,Dooley,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,4,1,1,0,0,46,1994 Fall Tour,1994 Fall,Paul and Silas,,0,Indiana University Auditorium,Bloomington,IN,USA,","
 1994-11-19,1994,0,4,1,1,0,0,0,Not Part of a Tour,No Tour,Dooley,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,4,1,1,0,0,46,1994 Fall Tour,1994 Fall,Paul and Silas,,0,Indiana University Auditorium,Bloomington,IN,USA,","
-1994-11-19,1994,0,5,1,1,0,0,0,Not Part of a Tour,No Tour,Mountain Dew,,1,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,5,3,1,0,0,3,1994 Fall Tour,1994 Fall,Axilla (Part II),,1,Indiana University Auditorium,Bloomington,IN,USA,->
 1994-11-19,1994,0,5,1,1,0,0,0,Not Part of a Tour,No Tour,Mountain Dew,,1,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,5,3,1,0,0,3,1994 Fall Tour,1994 Fall,Axilla (Part II),,1,Indiana University Auditorium,Bloomington,IN,USA,->
+1994-11-19,1994,0,5,1,1,0,0,0,Not Part of a Tour,No Tour,Mountain Dew,,1,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,6,2,1,0,0,11,1994 Fall Tour,1994 Fall,The Man Who Stepped Into Yesterday,TMWSIY,1,Indiana University Auditorium,Bloomington,IN,USA,>
 1994-11-19,1994,0,6,1,1,0,0,0,Not Part of a Tour,No Tour,John Hardy,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,6,2,1,0,0,11,1994 Fall Tour,1994 Fall,The Man Who Stepped Into Yesterday,TMWSIY,1,Indiana University Auditorium,Bloomington,IN,USA,>
@@ -2367,18 +2367,18 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-11-19,1994,0,7,2,1,0,0,11,1994 Fall Tour,1994 Fall,Avenu Malkenu,,0,Indiana University Auditorium,Bloomington,IN,USA,>
 1994-11-19,1994,0,7,1,1,0,0,2,Not Part of a Tour,No Tour,Roll in My Sweet Baby's Arms,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,7,2,1,0,0,11,1994 Fall Tour,1994 Fall,Avenu Malkenu,,0,Indiana University Auditorium,Bloomington,IN,USA,>
-1994-11-19,1994,0,8,1,1,0,0,1,Not Part of a Tour,No Tour,My Long Journey Home,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,8,1,1,0,0,3,1994 Fall Tour,1994 Fall,Run Like an Antelope,Antelope,1,Indiana University Auditorium,Bloomington,IN,USA,","
 1994-11-19,1994,0,8,1,1,0,0,1,Not Part of a Tour,No Tour,My Long Journey Home,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,8,1,1,0,0,3,1994 Fall Tour,1994 Fall,Run Like an Antelope,Antelope,1,Indiana University Auditorium,Bloomington,IN,USA,","
-1994-11-19,1994,0,9,1,1,0,0,2,1994 Fall Tour,1994 Fall,"I'm Blue, I'm Lonesome",,0,Indiana University Auditorium,Bloomington,IN,USA,","
+1994-11-19,1994,0,8,1,1,0,0,1,Not Part of a Tour,No Tour,My Long Journey Home,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,9,1,1,0,0,1,Not Part of a Tour,No Tour,Little Tiny Butter Biscuits,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,9,1,1,0,0,2,1994 Fall Tour,1994 Fall,"I'm Blue, I'm Lonesome",,0,Indiana University Auditorium,Bloomington,IN,USA,","
 1994-11-19,1994,0,9,1,1,0,0,1,Not Part of a Tour,No Tour,Little Tiny Butter Biscuits,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
-1994-11-19,1994,0,10,1,1,0,0,1,Not Part of a Tour,No Tour,"I'm Blue, I'm Lonesome",,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
+1994-11-19,1994,0,9,1,1,0,0,2,1994 Fall Tour,1994 Fall,"I'm Blue, I'm Lonesome",,0,Indiana University Auditorium,Bloomington,IN,USA,","
 1994-11-19,1994,0,10,1,1,0,0,1,1994 Fall Tour,1994 Fall,Little Tiny Butter Biscuits,,0,Indiana University Auditorium,Bloomington,IN,USA,","
 1994-11-19,1994,0,10,1,1,0,0,1,Not Part of a Tour,No Tour,"I'm Blue, I'm Lonesome",,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,10,1,1,0,0,1,1994 Fall Tour,1994 Fall,Little Tiny Butter Biscuits,,0,Indiana University Auditorium,Bloomington,IN,USA,","
+1994-11-19,1994,0,10,1,1,0,0,1,Not Part of a Tour,No Tour,"I'm Blue, I'm Lonesome",,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,11,1,1,0,0,0,Not Part of a Tour,No Tour,Midnight Moonlight,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,11,4,1,0,0,1,1994 Fall Tour,1994 Fall,My Long Journey Home,,0,Indiana University Auditorium,Bloomington,IN,USA,
 1994-11-19,1994,0,11,1,1,0,0,0,Not Part of a Tour,No Tour,Midnight Moonlight,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","

@@ -1711,18 +1711,18 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-01-26,1989,0,22,5,2,0,0,4,1989 Tour,1989,David Bowie,Bowie,1,The Paradise,Boston,MA,USA,
 1989-01-26,1989,0,23,1,e,0,0,9,1989 Tour,1989,AC/DC Bag,Bag,1,The Paradise,Boston,MA,USA,","
 1989-01-26,1989,0,24,6,e,0,0,13,1989 Tour,1989,Fire,,0,The Paradise,Boston,MA,USA,
-1989-02-06,1989,0,1,1,1,0,0,4,1989 Tour,1989,Suzy Greenberg,Suzy,1,The Front,Burlington,VT,USA,","
-1989-02-06,1989,0,2,2,1,0,0,22,1989 Tour,1989,The Curtain,Curtain,1,The Front,Burlington,VT,USA,>
-1989-02-06,1989,0,3,2,1,0,0,13,1989 Tour,1989,Wilson,,1,The Front,Burlington,VT,USA,>
+1989-02-06,1989,0,1,1,1,0,0,5,1989 Tour,1989,Suzy Greenberg,Suzy,1,The Front,Burlington,VT,USA,","
+1989-02-06,1989,0,2,2,1,0,0,23,1989 Tour,1989,The Curtain,Curtain,1,The Front,Burlington,VT,USA,>
+1989-02-06,1989,0,3,2,1,0,0,14,1989 Tour,1989,Wilson,,1,The Front,Burlington,VT,USA,>
 1989-02-06,1989,0,4,1,1,0,0,17,1989 Tour,1989,Peaches en Regalia,Peaches,0,The Front,Burlington,VT,USA,","
 1989-02-06,1989,0,5,2,1,0,0,4,1989 Tour,1989,Fee,,1,The Front,Burlington,VT,USA,>
 1989-02-06,1989,0,6,1,1,0,0,20,1989 Tour,1989,La Grange,,0,The Front,Burlington,VT,USA,","
-1989-02-06,1989,0,7,4,1,0,0,4,1989 Tour,1989,You Enjoy Myself,YEM,1,The Front,Burlington,VT,USA,
+1989-02-06,1989,0,7,4,1,0,0,5,1989 Tour,1989,You Enjoy Myself,YEM,1,The Front,Burlington,VT,USA,
 1989-02-06,1989,0,8,2,2,0,0,46,1989 Tour,1989,All Blues,,0,The Front,Burlington,VT,USA,>
 1989-02-06,1989,0,9,1,2,0,0,4,1989 Tour,1989,Sanity,,1,The Front,Burlington,VT,USA,","
 1989-02-06,1989,0,10,1,2,0,0,4,1989 Tour,1989,Take the 'A' Train,'A' Train,0,The Front,Burlington,VT,USA,","
 1989-02-06,1989,0,11,2,2,0,0,4,1989 Tour,1989,Golgi Apparatus,Golgi,1,The Front,Burlington,VT,USA,>
-1989-02-06,1989,0,12,1,2,0,0,4,1989 Tour,1989,Divided Sky,Divided,1,The Front,Burlington,VT,USA,","
+1989-02-06,1989,0,12,1,2,0,0,5,1989 Tour,1989,Divided Sky,Divided,1,The Front,Burlington,VT,USA,","
 1989-02-06,1989,0,13,1,2,0,0,22,1989 Tour,1989,On Your Way Down,,0,The Front,Burlington,VT,USA,","
 1989-02-06,1989,0,14,4,2,0,0,4,1989 Tour,1989,I Didn't Know,IDK,1,The Front,Burlington,VT,USA,
 1989-02-06,1989,0,15,1,3,0,0,4,1989 Tour,1989,Good Times Bad Times,GTBT,0,The Front,Burlington,VT,USA,","
@@ -1734,12 +1734,12 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-02-06,1989,0,21,2,3,0,0,4,1989 Tour,1989,Fly Famous Mockingbird,Mockingbird,1,The Front,Burlington,VT,USA,>
 1989-02-06,1989,0,22,1,3,0,0,16,1989 Tour,1989,Whipping Post,,0,The Front,Burlington,VT,USA,","
 1989-02-06,1989,0,23,5,3,0,0,38,1989 Tour,1989,Corinna,,0,The Front,Burlington,VT,USA,
-1989-02-06,1989,0,24,6,e,0,0,4,1989 Tour,1989,David Bowie,Bowie,1,The Front,Burlington,VT,USA,
+1989-02-06,1989,0,24,6,e,0,0,5,1989 Tour,1989,David Bowie,Bowie,1,The Front,Burlington,VT,USA,
 1989-02-07,1989,0,1,2,1,0,0,27,1989 Tour,1989,Esther,,1,The Front,Burlington,VT,USA,>
 1989-02-07,1989,0,2,2,1,0,0,24,1989 Tour,1989,McGrupp and the Watchful Hosemasters,McGrupp,1,The Front,Burlington,VT,USA,>
 1989-02-07,1989,0,3,1,1,0,0,5,1989 Tour,1989,Foam,,1,The Front,Burlington,VT,USA,","
 1989-02-07,1989,0,4,3,1,0,0,5,1989 Tour,1989,The Sloth,Sloth,1,The Front,Burlington,VT,USA,->
-1989-02-07,1989,0,5,1,1,0,0,5,1989 Tour,1989,Possum,,1,The Front,Burlington,VT,USA,","
+1989-02-07,1989,0,5,1,1,0,0,6,1989 Tour,1989,Possum,,1,The Front,Burlington,VT,USA,","
 1989-02-07,1989,0,6,2,1,0,0,15,1989 Tour,1989,Mike's Song,Mike's,1,The Front,Burlington,VT,USA,>
 1989-02-07,1989,0,7,2,1,0,0,14,1989 Tour,1989,I Am Hydrogen,Hydrogen,1,The Front,Burlington,VT,USA,>
 1989-02-07,1989,0,8,1,1,0,0,15,1989 Tour,1989,Weekapaug Groove,Weekapaug,1,The Front,Burlington,VT,USA,","
@@ -1747,14 +1747,14 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-02-07,1989,0,10,1,2,0,0,44,1989 Tour,1989,Makisupa Policeman,Makisupa,1,The Front,Burlington,VT,USA,","
 1989-02-07,1989,0,11,1,2,0,0,16,1989 Tour,1989,Dinner and a Movie,,1,The Front,Burlington,VT,USA,","
 1989-02-07,1989,0,12,2,2,0,0,5,1989 Tour,1989,AC/DC Bag,Bag,1,The Front,Burlington,VT,USA,>
-1989-02-07,1989,0,13,1,2,0,0,5,1989 Tour,1989,The Lizards,Lizards,1,The Front,Burlington,VT,USA,","
-1989-02-07,1989,0,14,1,2,0,0,21,1989 Tour,1989,Timber (Jerry the Mule),Timber Ho,0,The Front,Burlington,VT,USA,","
+1989-02-07,1989,0,13,1,2,0,0,6,1989 Tour,1989,The Lizards,Lizards,1,The Front,Burlington,VT,USA,","
+1989-02-07,1989,0,14,1,2,0,0,22,1989 Tour,1989,Timber (Jerry the Mule),Timber Ho,0,The Front,Burlington,VT,USA,","
 1989-02-07,1989,0,15,1,2,0,0,5,1989 Tour,1989,Contact,,1,The Front,Burlington,VT,USA,","
 1989-02-07,1989,0,16,2,2,0,0,6,1989 Tour,1989,Alumni Blues,Alumni,1,The Front,Burlington,VT,USA,>
 1989-02-07,1989,0,17,2,2,0,0,6,1989 Tour,1989,Letter to Jimmy Page,LTJP,1,The Front,Burlington,VT,USA,>
 1989-02-07,1989,0,18,1,2,0,0,0,1989 Tour,1989,Alumni Blues,Alumni,1,The Front,Burlington,VT,USA,","
 1989-02-07,1989,0,19,2,2,0,0,1,1989 Tour,1989,Fee,,1,The Front,Burlington,VT,USA,>
-1989-02-07,1989,0,20,4,2,0,0,14,1989 Tour,1989,Run Like an Antelope,Antelope,1,The Front,Burlington,VT,USA,
+1989-02-07,1989,0,20,4,2,0,0,15,1989 Tour,1989,Run Like an Antelope,Antelope,1,The Front,Burlington,VT,USA,
 1989-02-07,1989,0,21,1,3,0,0,1,1989 Tour,1989,Sanity,,1,The Front,Burlington,VT,USA,","
 1989-02-07,1989,0,22,1,3,0,0,18,1989 Tour,1989,Fluffhead,,1,The Front,Burlington,VT,USA,","
 1989-02-07,1989,0,23,2,3,0,0,1,1989 Tour,1989,Suzy Greenberg,Suzy,1,The Front,Burlington,VT,USA,>
@@ -1824,7 +1824,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-03-01,1989,0,10,1,2,0,0,8,1989 Tour,1989,Dinner and a Movie,,1,Gallagher's,Waitsfield,VT,USA,","
 1989-03-01,1989,0,11,1,2,0,0,0,1989 Tour,1989,The Fishin' Hole,,0,Gallagher's,Waitsfield,VT,USA,","
 1989-03-01,1989,0,12,1,2,0,0,3,1989 Tour,1989,Satin Doll,,0,Gallagher's,Waitsfield,VT,USA,","
-1989-03-01,1989,0,13,2,2,0,0,29,1989 Tour,1989,Halley's Comet,Halley's,1,Gallagher's,Waitsfield,VT,USA,>
+1989-03-01,1989,0,13,2,2,0,0,30,1989 Tour,1989,Halley's Comet,Halley's,1,Gallagher's,Waitsfield,VT,USA,>
 1989-03-01,1989,0,14,1,2,0,0,47,1989 Tour,1989,Light Up Or Leave Me Alone,Light Up,0,Gallagher's,Waitsfield,VT,USA,","
 1989-03-01,1989,0,15,4,2,0,0,9,1989 Tour,1989,Big Black Furry Creature from Mars,BBFCFM,1,Gallagher's,Waitsfield,VT,USA,
 1989-03-01,1989,0,16,2,3,0,0,34,1989 Tour,1989,Cities,,0,Gallagher's,Waitsfield,VT,USA,>
@@ -2553,7 +2553,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1989-10-06,1989,0,6,1,2,0,0,1,1989 Tour,1989,Golgi Apparatus,Golgi,1,The Paradise,Boston,MA,USA,","
 1989-10-06,1989,0,7,1,2,0,0,13,1989 Tour,1989,Bold As Love,,0,The Paradise,Boston,MA,USA,","
 1989-10-06,1989,0,8,1,2,0,0,1,1989 Tour,1989,Dinner and a Movie,,1,The Paradise,Boston,MA,USA,","
-1989-10-06,1989,0,9,1,2,0,0,134,1989 Tour,1989,Happy Birthday to You,Happy Birthday,0,The Paradise,Boston,MA,USA,","
+1989-10-06,1989,0,9,1,2,0,0,135,1989 Tour,1989,Happy Birthday to You,Happy Birthday,0,The Paradise,Boston,MA,USA,","
 1989-10-06,1989,0,10,1,2,0,0,1,1989 Tour,1989,Harry Hood,Hood,1,The Paradise,Boston,MA,USA,","
 1989-10-06,1989,0,11,1,2,0,0,1,1989 Tour,1989,Possum,,1,The Paradise,Boston,MA,USA,","
 1989-10-06,1989,0,12,1,2,0,0,1,1989 Tour,1989,Highway to Hell,,0,The Paradise,Boston,MA,USA,","
@@ -4448,16 +4448,16 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-08-04,1990,0,1,1,1,0,0,81,1990 Tour,1990,Communication Breakdown,,0,The Red Barn,Hinesburg,VT,USA,","
 1990-08-04,1990,0,2,6,1,0,0,7,1990 Tour,1990,The Ballad of Curtis Loew,Curtis Loew,0,The Red Barn,Hinesburg,VT,USA,
 1990-09-13,1990,0,1,1,1,0,0,0,1990 Tour,1990,The Landlady,Landlady,1,The Wetlands Preserve,New York,NY,USA,","
-1990-09-13,1990,0,2,1,1,0,0,4,1990 Tour,1990,Divided Sky,Divided,1,The Wetlands Preserve,New York,NY,USA,","
+1990-09-13,1990,0,2,1,1,0,0,3,1990 Tour,1990,Divided Sky,Divided,1,The Wetlands Preserve,New York,NY,USA,","
 1990-09-13,1990,0,3,1,1,0,0,4,1990 Tour,1990,Foam,,1,The Wetlands Preserve,New York,NY,USA,","
 1990-09-13,1990,0,4,1,1,0,0,0,1990 Tour,1990,Tube,,1,The Wetlands Preserve,New York,NY,USA,","
 1990-09-13,1990,0,5,1,1,0,0,0,1990 Tour,1990,The Asse Festival,Asse Festival,1,The Wetlands Preserve,New York,NY,USA,","
-1990-09-13,1990,0,6,1,1,0,0,4,1990 Tour,1990,Run Like an Antelope,Antelope,1,The Wetlands Preserve,New York,NY,USA,","
+1990-09-13,1990,0,6,1,1,0,0,3,1990 Tour,1990,Run Like an Antelope,Antelope,1,The Wetlands Preserve,New York,NY,USA,","
 1990-09-13,1990,0,7,1,1,0,0,0,1990 Tour,1990,Minute by Minute,,0,The Wetlands Preserve,New York,NY,USA,","
 1990-09-13,1990,0,8,1,1,0,0,0,1990 Tour,1990,Buried Alive,,1,The Wetlands Preserve,New York,NY,USA,","
 1990-09-13,1990,0,9,1,1,0,0,0,1990 Tour,1990,Paul and Silas,,0,The Wetlands Preserve,New York,NY,USA,","
 1990-09-13,1990,0,10,2,1,0,0,4,1990 Tour,1990,Bouncing Around the Room,Bouncin',1,The Wetlands Preserve,New York,NY,USA,>
-1990-09-13,1990,0,11,4,1,0,0,4,1990 Tour,1990,Possum,,1,The Wetlands Preserve,New York,NY,USA,
+1990-09-13,1990,0,11,4,1,0,0,3,1990 Tour,1990,Possum,,1,The Wetlands Preserve,New York,NY,USA,
 1990-09-13,1990,0,12,2,2,0,0,3,1990 Tour,1990,Mike's Song,Mike's,1,The Wetlands Preserve,New York,NY,USA,>
 1990-09-13,1990,0,13,2,2,0,0,4,1990 Tour,1990,I Am Hydrogen,Hydrogen,1,The Wetlands Preserve,New York,NY,USA,>
 1990-09-13,1990,0,14,1,2,0,0,3,1990 Tour,1990,Weekapaug Groove,Weekapaug,1,The Wetlands Preserve,New York,NY,USA,","
@@ -4469,13 +4469,13 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-09-13,1990,0,20,3,2,0,0,0,1990 Tour,1990,Buried Alive,,1,The Wetlands Preserve,New York,NY,USA,->
 1990-09-13,1990,0,21,2,2,0,0,5,1990 Tour,1990,Take the 'A' Train,'A' Train,0,The Wetlands Preserve,New York,NY,USA,>
 1990-09-13,1990,0,22,2,2,0,0,223,1990 Tour,1990,Sparks,,0,The Wetlands Preserve,New York,NY,USA,>
-1990-09-13,1990,0,23,1,2,0,0,4,1990 Tour,1990,Reba,,1,The Wetlands Preserve,New York,NY,USA,","
+1990-09-13,1990,0,23,1,2,0,0,3,1990 Tour,1990,Reba,,1,The Wetlands Preserve,New York,NY,USA,","
 1990-09-13,1990,0,24,1,2,0,0,0,1990 Tour,1990,Self,,0,The Wetlands Preserve,New York,NY,USA,","
 1990-09-13,1990,0,25,1,2,0,0,0,1990 Tour,1990,Dahlia,,0,The Wetlands Preserve,New York,NY,USA,","
 1990-09-13,1990,0,26,5,2,0,0,0,1990 Tour,1990,Revolution's Over,,0,The Wetlands Preserve,New York,NY,USA,
-1990-09-13,1990,0,27,7,e,0,0,4,1990 Tour,1990,The Lizards,Lizards,1,The Wetlands Preserve,New York,NY,USA,
+1990-09-13,1990,0,27,7,e,0,0,3,1990 Tour,1990,The Lizards,Lizards,1,The Wetlands Preserve,New York,NY,USA,
 1990-09-13,1990,0,28,6,e2,0,0,4,1990 Tour,1990,La Grange,,0,The Wetlands Preserve,New York,NY,USA,
-1990-09-14,1990,0,1,1,1,0,0,5,1990 Tour,1990,Suzy Greenberg,Suzy,1,The Living Room,Providence,RI,USA,","
+1990-09-14,1990,0,1,1,1,0,0,4,1990 Tour,1990,Suzy Greenberg,Suzy,1,The Living Room,Providence,RI,USA,","
 1990-09-14,1990,0,2,1,1,0,0,1,1990 Tour,1990,Bouncing Around the Room,Bouncin',1,The Living Room,Providence,RI,USA,","
 1990-09-14,1990,0,3,1,1,0,0,1,1990 Tour,1990,The Landlady,Landlady,1,The Living Room,Providence,RI,USA,","
 1990-09-14,1990,0,4,1,1,0,0,1,1990 Tour,1990,Reba,,1,The Living Room,Providence,RI,USA,","
@@ -4487,7 +4487,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-09-14,1990,0,10,2,1,0,0,1,1990 Tour,1990,I Am Hydrogen,Hydrogen,1,The Living Room,Providence,RI,USA,>
 1990-09-14,1990,0,11,4,1,0,0,1,1990 Tour,1990,Weekapaug Groove,Weekapaug,1,The Living Room,Providence,RI,USA,
 1990-09-14,1990,0,12,1,2,0,0,1,1990 Tour,1990,The Asse Festival,Asse Festival,1,The Living Room,Providence,RI,USA,","
-1990-09-14,1990,0,13,2,2,0,0,10,1990 Tour,1990,The Squirming Coil,Coil,1,The Living Room,Providence,RI,USA,>
+1990-09-14,1990,0,13,2,2,0,0,9,1990 Tour,1990,The Squirming Coil,Coil,1,The Living Room,Providence,RI,USA,>
 1990-09-14,1990,0,14,2,2,0,0,1,1990 Tour,1990,Buried Alive,,1,The Living Room,Providence,RI,USA,>
 1990-09-14,1990,0,15,1,2,0,0,4,1990 Tour,1990,Tweezer,,1,The Living Room,Providence,RI,USA,","
 1990-09-14,1990,0,16,1,2,0,0,1,1990 Tour,1990,Magilla,,1,The Living Room,Providence,RI,USA,","
@@ -4505,12 +4505,12 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-09-15,1990,0,7,2,1,0,0,2,1990 Tour,1990,The Oh Kee Pa Ceremony,Oh Kee Pa,1,The Colonial Theatre,Keene,NH,USA,>
 1990-09-15,1990,0,8,2,1,0,0,2,1990 Tour,1990,AC/DC Bag,Bag,1,The Colonial Theatre,Keene,NH,USA,>
 1990-09-15,1990,0,9,1,1,0,0,1,1990 Tour,1990,The Asse Festival,Asse Festival,1,The Colonial Theatre,Keene,NH,USA,","
-1990-09-15,1990,0,10,1,1,0,0,11,1990 Tour,1990,David Bowie,Bowie,1,The Colonial Theatre,Keene,NH,USA,","
+1990-09-15,1990,0,10,1,1,0,0,10,1990 Tour,1990,David Bowie,Bowie,1,The Colonial Theatre,Keene,NH,USA,","
 1990-09-15,1990,0,11,1,1,0,0,6,1990 Tour,1990,Golgi Apparatus,Golgi,1,The Colonial Theatre,Keene,NH,USA,","
 1990-09-15,1990,0,12,1,1,0,0,1,1990 Tour,1990,Stash,,1,The Colonial Theatre,Keene,NH,USA,","
 1990-09-15,1990,0,13,1,1,0,0,1,1990 Tour,1990,Magilla,,1,The Colonial Theatre,Keene,NH,USA,","
 1990-09-15,1990,0,14,4,1,0,0,1,1990 Tour,1990,The Squirming Coil,Coil,1,The Colonial Theatre,Keene,NH,USA,
-1990-09-15,1990,0,15,1,2,0,0,21,1990 Tour,1990,Split Open and Melt,SOAMelt,1,The Colonial Theatre,Keene,NH,USA,","
+1990-09-15,1990,0,15,1,2,0,0,20,1990 Tour,1990,Split Open and Melt,SOAMelt,1,The Colonial Theatre,Keene,NH,USA,","
 1990-09-15,1990,0,16,1,2,0,0,0,1990 Tour,1990,Eliza,,1,The Colonial Theatre,Keene,NH,USA,","
 1990-09-15,1990,0,17,2,2,0,0,6,1990 Tour,1990,My Sweet One,MSO,1,The Colonial Theatre,Keene,NH,USA,>
 1990-09-15,1990,0,18,1,2,0,0,5,1990 Tour,1990,Bathtub Gin,Gin,1,The Colonial Theatre,Keene,NH,USA,","
@@ -4576,7 +4576,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-09-21,1990,0,15,1,2,0,0,1,1990 Tour,1990,Stash,,1,Somerville Theatre,Somerville,MA,USA,","
 1990-09-21,1990,0,16,2,2,0,0,18,1990 Tour,1990,Colonel Forbin's Ascent,Forbin's,1,Somerville Theatre,Somerville,MA,USA,>
 1990-09-21,1990,0,17,1,2,0,0,18,1990 Tour,1990,Fly Famous Mockingbird,Mockingbird,1,Somerville Theatre,Somerville,MA,USA,","
-1990-09-21,1990,0,18,1,2,0,0,11,1990 Tour,1990,You Enjoy Myself,YEM,1,Somerville Theatre,Somerville,MA,USA,","
+1990-09-21,1990,0,18,1,2,0,0,10,1990 Tour,1990,You Enjoy Myself,YEM,1,Somerville Theatre,Somerville,MA,USA,","
 1990-09-21,1990,0,19,5,2,0,0,23,1990 Tour,1990,Highway to Hell,,0,Somerville Theatre,Somerville,MA,USA,
 1990-09-21,1990,0,20,6,e,0,0,16,1990 Tour,1990,Whipping Post,,0,Somerville Theatre,Somerville,MA,USA,
 1990-09-22,1990,0,1,1,1,0,0,2,1990 Tour,1990,Buried Alive,,1,"Student Union Ballroom, University of Massachusetts",Amherst,MA,USA,","
@@ -4586,7 +4586,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-09-22,1990,0,5,2,1,0,0,2,1990 Tour,1990,The Oh Kee Pa Ceremony,Oh Kee Pa,1,"Student Union Ballroom, University of Massachusetts",Amherst,MA,USA,>
 1990-09-22,1990,0,6,1,1,0,0,2,1990 Tour,1990,Suzy Greenberg,Suzy,1,"Student Union Ballroom, University of Massachusetts",Amherst,MA,USA,","
 1990-09-22,1990,0,7,2,1,0,0,1,1990 Tour,1990,Magilla,,1,"Student Union Ballroom, University of Massachusetts",Amherst,MA,USA,>
-1990-09-22,1990,0,8,2,1,0,0,12,1990 Tour,1990,Wilson,,1,"Student Union Ballroom, University of Massachusetts",Amherst,MA,USA,>
+1990-09-22,1990,0,8,2,1,0,0,11,1990 Tour,1990,Wilson,,1,"Student Union Ballroom, University of Massachusetts",Amherst,MA,USA,>
 1990-09-22,1990,0,9,1,1,0,0,1,1990 Tour,1990,The Landlady,Landlady,1,"Student Union Ballroom, University of Massachusetts",Amherst,MA,USA,","
 1990-09-22,1990,0,10,1,1,0,0,7,1990 Tour,1990,I Didn't Know,IDK,1,"Student Union Ballroom, University of Massachusetts",Amherst,MA,USA,","
 1990-09-22,1990,0,11,3,1,0,0,6,1990 Tour,1990,David Bowie,Bowie,1,"Student Union Ballroom, University of Massachusetts",Amherst,MA,USA,->
@@ -4631,7 +4631,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-09-29,1990,0,7,1,1,0,0,3,1990 Tour,1990,Possum,,1,23 East Cabaret,Ardmore,PA,USA,","
 1990-09-29,1990,0,8,2,1,0,0,3,1990 Tour,1990,Magilla,,1,23 East Cabaret,Ardmore,PA,USA,>
 1990-09-29,1990,0,9,3,1,0,0,3,1990 Tour,1990,David Bowie,Bowie,1,23 East Cabaret,Ardmore,PA,USA,->
-1990-09-29,1990,0,10,3,1,0,0,83,1990 Tour,1990,Happy Birthday to You,Happy Birthday,0,23 East Cabaret,Ardmore,PA,USA,->
+1990-09-29,1990,0,10,3,1,0,0,82,1990 Tour,1990,Happy Birthday to You,Happy Birthday,0,23 East Cabaret,Ardmore,PA,USA,->
 1990-09-29,1990,0,11,4,1,0,0,0,1990 Tour,1990,David Bowie,Bowie,1,23 East Cabaret,Ardmore,PA,USA,
 1990-09-29,1990,0,12,2,2,0,0,1,1990 Tour,1990,The Squirming Coil,Coil,1,23 East Cabaret,Ardmore,PA,USA,>
 1990-09-29,1990,0,13,1,2,0,0,3,1990 Tour,1990,Tweezer,,1,23 East Cabaret,Ardmore,PA,USA,","
@@ -4645,28 +4645,28 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-09-30,1990,0,1,1,1,0,0,12,Not Part of a Tour,No Tour,Self,,0,Unknown Venue,Unknown,,USA,","
 1990-09-30,1990,0,2,1,1,0,0,0,Not Part of a Tour,No Tour,Family Picture,,0,Unknown Venue,Unknown,,USA,","
 1990-09-30,1990,0,3,6,1,0,0,0,Not Part of a Tour,No Tour,We've Only Just Begun,,1,Unknown Venue,Unknown,,USA,
-1990-10-01,1990,0,1,1,1,0,0,0,1990 Tour,1990,Possum,,1,The Haunt,Ithaca,NY,USA,","
-1990-10-01,1990,0,2,2,1,0,0,0,1990 Tour,1990,The Squirming Coil,Coil,1,The Haunt,Ithaca,NY,USA,>
-1990-10-01,1990,0,3,1,1,0,0,0,1990 Tour,1990,The Lizards,Lizards,1,The Haunt,Ithaca,NY,USA,","
+1990-10-01,1990,0,1,1,1,0,0,2,1990 Tour,1990,Possum,,1,The Haunt,Ithaca,NY,USA,","
+1990-10-01,1990,0,2,2,1,0,0,2,1990 Tour,1990,The Squirming Coil,Coil,1,The Haunt,Ithaca,NY,USA,>
+1990-10-01,1990,0,3,1,1,0,0,3,1990 Tour,1990,The Lizards,Lizards,1,The Haunt,Ithaca,NY,USA,","
 1990-10-01,1990,0,4,1,1,0,0,0,1990 Tour,1990,The Landlady,Landlady,1,The Haunt,Ithaca,NY,USA,","
 1990-10-01,1990,0,5,1,1,0,0,0,1990 Tour,1990,Magilla,,1,The Haunt,Ithaca,NY,USA,","
 1990-10-01,1990,0,6,2,1,0,0,0,1990 Tour,1990,Dinner and a Movie,,1,The Haunt,Ithaca,NY,USA,>
 1990-10-01,1990,0,7,1,1,0,0,0,1990 Tour,1990,Bouncing Around the Room,Bouncin',1,The Haunt,Ithaca,NY,USA,","
 1990-10-01,1990,0,8,2,1,0,0,2,1990 Tour,1990,Tweezer,,1,The Haunt,Ithaca,NY,USA,>
 1990-10-01,1990,0,9,2,1,0,0,0,1990 Tour,1990,The Oh Kee Pa Ceremony,Oh Kee Pa,1,The Haunt,Ithaca,NY,USA,>
-1990-10-01,1990,0,10,4,1,0,0,0,1990 Tour,1990,Suzy Greenberg,Suzy,1,The Haunt,Ithaca,NY,USA,
+1990-10-01,1990,0,10,4,1,0,0,3,1990 Tour,1990,Suzy Greenberg,Suzy,1,The Haunt,Ithaca,NY,USA,
 1990-10-01,1990,0,11,2,2,0,0,2,1990 Tour,1990,Mike's Song,Mike's,1,The Haunt,Ithaca,NY,USA,>
 1990-10-01,1990,0,12,2,2,0,0,0,1990 Tour,1990,I Am Hydrogen,Hydrogen,1,The Haunt,Ithaca,NY,USA,>
 1990-10-01,1990,0,13,1,2,0,0,2,1990 Tour,1990,Weekapaug Groove,Weekapaug,1,The Haunt,Ithaca,NY,USA,","
 1990-10-01,1990,0,14,1,2,0,0,0,1990 Tour,1990,The Asse Festival,Asse Festival,1,The Haunt,Ithaca,NY,USA,","
 1990-10-01,1990,0,15,1,2,0,0,2,1990 Tour,1990,Stash,,1,The Haunt,Ithaca,NY,USA,","
-1990-10-01,1990,0,16,1,2,0,0,0,1990 Tour,1990,Runaway Jim,,1,The Haunt,Ithaca,NY,USA,","
+1990-10-01,1990,0,16,1,2,0,0,27,1990 Tour,1990,Runaway Jim,,1,The Haunt,Ithaca,NY,USA,","
 1990-10-01,1990,0,17,2,2,0,0,0,1990 Tour,1990,Fee,,1,The Haunt,Ithaca,NY,USA,>
-1990-10-01,1990,0,18,1,2,0,0,0,1990 Tour,1990,Gumbo,,1,The Haunt,Ithaca,NY,USA,","
+1990-10-01,1990,0,18,1,2,0,0,2,1990 Tour,1990,Gumbo,,1,The Haunt,Ithaca,NY,USA,","
 1990-10-01,1990,0,19,1,2,0,0,0,1990 Tour,1990,Golgi Apparatus,Golgi,1,The Haunt,Ithaca,NY,USA,","
 1990-10-01,1990,0,20,2,2,0,0,0,1990 Tour,1990,Love You,,0,The Haunt,Ithaca,NY,USA,>
 1990-10-01,1990,0,21,2,2,0,0,0,1990 Tour,1990,Hold Your Head Up,HYHU,0,The Haunt,Ithaca,NY,USA,>
-1990-10-01,1990,0,22,5,2,0,0,0,1990 Tour,1990,Run Like an Antelope,Antelope,1,The Haunt,Ithaca,NY,USA,
+1990-10-01,1990,0,22,5,2,0,0,3,1990 Tour,1990,Run Like an Antelope,Antelope,1,The Haunt,Ithaca,NY,USA,
 1990-10-01,1990,0,23,1,e,0,0,0,1990 Tour,1990,Contact,,1,The Haunt,Ithaca,NY,USA,","
 1990-10-01,1990,0,24,6,e,0,0,0,1990 Tour,1990,Highway to Hell,,0,The Haunt,Ithaca,NY,USA,
 1990-10-03,1990,0,1,1,1,0,0,1,1990 Tour,1990,Dinner and a Movie,,1,Thunderbird's,Portland,ME,USA,","
@@ -4725,7 +4725,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-10-05,1990,0,12,2,1,0,0,1,1990 Tour,1990,Bouncing Around the Room,Bouncin',1,"Skidmore Gymnasium, Skidmore College",Saratoga Springs,NY,USA,>
 1990-10-05,1990,0,13,4,1,0,0,3,1990 Tour,1990,Run Like an Antelope,Antelope,1,"Skidmore Gymnasium, Skidmore College",Saratoga Springs,NY,USA,
 1990-10-05,1990,0,14,2,2,0,0,1,1990 Tour,1990,Golgi Apparatus,Golgi,1,"Skidmore Gymnasium, Skidmore College",Saratoga Springs,NY,USA,>
-1990-10-05,1990,0,15,2,2,0,0,55,1990 Tour,1990,The Curtain,Curtain,1,"Skidmore Gymnasium, Skidmore College",Saratoga Springs,NY,USA,>
+1990-10-05,1990,0,15,2,2,0,0,54,1990 Tour,1990,The Curtain,Curtain,1,"Skidmore Gymnasium, Skidmore College",Saratoga Springs,NY,USA,>
 1990-10-05,1990,0,16,1,2,0,0,5,1990 Tour,1990,Ya Mar,,0,"Skidmore Gymnasium, Skidmore College",Saratoga Springs,NY,USA,","
 1990-10-05,1990,0,17,2,2,0,0,33,1990 Tour,1990,Alumni Blues,Alumni,1,"Skidmore Gymnasium, Skidmore College",Saratoga Springs,NY,USA,>
 1990-10-05,1990,0,18,2,2,0,0,33,1990 Tour,1990,Letter to Jimmy Page,LTJP,1,"Skidmore Gymnasium, Skidmore College",Saratoga Springs,NY,USA,>
@@ -5360,7 +5360,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-11-28,1990,0,19,5,2,0,0,1,1990 Tour,1990,Weekapaug Groove,Weekapaug,1,Clement's Brew Pub,Syracuse,NY,USA,
 1990-11-28,1990,0,20,1,e,0,0,2,1990 Tour,1990,Lawn Boy,,1,Clement's Brew Pub,Syracuse,NY,USA,","
 1990-11-28,1990,0,21,7,e,0,0,3,1990 Tour,1990,Rocky Top,,0,Clement's Brew Pub,Syracuse,NY,USA,
-1990-11-28,1990,0,22,6,e2,0,0,51,1990 Tour,1990,Timber (Jerry the Mule),Timber Ho,0,Clement's Brew Pub,Syracuse,NY,USA,
+1990-11-28,1990,0,22,6,e2,0,0,50,1990 Tour,1990,Timber (Jerry the Mule),Timber Ho,0,Clement's Brew Pub,Syracuse,NY,USA,
 1990-11-30,1990,0,1,1,1,0,0,1,1990 Tour,1990,The Landlady,Landlady,1,The Colonial Theatre,Keene,NH,USA,","
 1990-11-30,1990,0,2,2,1,0,0,1,1990 Tour,1990,Mike's Song,Mike's,1,The Colonial Theatre,Keene,NH,USA,>
 1990-11-30,1990,0,3,2,1,0,0,1,1990 Tour,1990,I Am Hydrogen,Hydrogen,1,The Colonial Theatre,Keene,NH,USA,>
@@ -11081,7 +11081,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1993-02-05,1993,0,3,1,1,2,0,2,1993 Winter/Spring Tour,1993 Winter,Rift,,1,Roseland Ballroom,New York,NY,USA,","
 1993-02-05,1993,0,4,1,1,2,0,4,1993 Winter/Spring Tour,1993 Winter,Split Open and Melt,SOAMelt,1,Roseland Ballroom,New York,NY,USA,","
 1993-02-05,1993,0,5,1,1,2,0,2,1993 Winter/Spring Tour,1993 Winter,Sparkle,,1,Roseland Ballroom,New York,NY,USA,","
-1993-02-05,1993,0,6,1,1,2,0,417,1993 Winter/Spring Tour,1993 Winter,Punch You in the Eye,PYITE,1,Roseland Ballroom,New York,NY,USA,","
+1993-02-05,1993,0,6,1,1,2,0,416,1993 Winter/Spring Tour,1993 Winter,Punch You in the Eye,PYITE,1,Roseland Ballroom,New York,NY,USA,","
 1993-02-05,1993,0,7,1,1,2,0,2,1993 Winter/Spring Tour,1993 Winter,I Didn't Know,IDK,1,Roseland Ballroom,New York,NY,USA,","
 1993-02-05,1993,0,8,2,1,2,0,2,1993 Winter/Spring Tour,1993 Winter,Poor Heart,,1,Roseland Ballroom,New York,NY,USA,>
 1993-02-05,1993,0,9,1,1,2,0,4,1993 Winter/Spring Tour,1993 Winter,Reba,,1,Roseland Ballroom,New York,NY,USA,","
@@ -11809,7 +11809,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1993-03-14,1993,0,8,1,1,2,0,3,1993 Winter/Spring Tour,1993 Winter,Reba,,1,"Paul Wright Gym, Western State College",Gunnison,CO,USA,","
 1993-03-14,1993,0,9,2,1,2,0,3,1993 Winter/Spring Tour,1993 Winter,Punch You in the Eye,PYITE,1,"Paul Wright Gym, Western State College",Gunnison,CO,USA,>
 1993-03-14,1993,0,10,4,1,2,0,3,1993 Winter/Spring Tour,1993 Winter,Runaway Jim,,1,"Paul Wright Gym, Western State College",Gunnison,CO,USA,
-1993-03-14,1993,0,11,2,2,2,0,477,1993 Winter/Spring Tour,1993 Winter,Halley's Comet,Halley's,1,"Paul Wright Gym, Western State College",Gunnison,CO,USA,>
+1993-03-14,1993,0,11,2,2,2,0,476,1993 Winter/Spring Tour,1993 Winter,Halley's Comet,Halley's,1,"Paul Wright Gym, Western State College",Gunnison,CO,USA,>
 1993-03-14,1993,0,12,1,2,2,0,2,1993 Winter/Spring Tour,1993 Winter,David Bowie,Bowie,1,"Paul Wright Gym, Western State College",Gunnison,CO,USA,","
 1993-03-14,1993,0,13,2,2,2,0,302,1993 Winter/Spring Tour,1993 Winter,The Ballad of Curtis Loew,Curtis Loew,0,"Paul Wright Gym, Western State College",Gunnison,CO,USA,>
 1993-03-14,1993,0,14,3,2,2,0,2,1993 Winter/Spring Tour,1993 Winter,You Enjoy Myself,YEM,1,"Paul Wright Gym, Western State College",Gunnison,CO,USA,->
@@ -14940,10 +14940,10 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-06-17,1994,0,24,5,2,0,0,2,1994 Summer Tour,1994 Summer,Frankenstein,,0,Eagles Ballroom,Milwaukee,WI,USA,
 1994-06-17,1994,0,25,2,e,0,0,5,1994 Summer Tour,1994 Summer,Sleeping Monkey,,1,Eagles Ballroom,Milwaukee,WI,USA,>
 1994-06-17,1994,0,26,6,e,0,0,5,1994 Summer Tour,1994 Summer,Rocky Top,,0,Eagles Ballroom,Milwaukee,WI,USA,
-1994-06-18,1994,0,1,2,1,0,0,5,1994 Summer Tour,1994 Summer,Wilson,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 1994-06-18,1994,1,1,1,1,0,0,0,Not Part of a Tour,No Tour,Sweet Adeline,,0,The Loop 97.9 Studios,Chicago,IL,USA,","
 1994-06-18,1994,0,1,2,1,0,0,5,1994 Summer Tour,1994 Summer,Wilson,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 1994-06-18,1994,1,1,1,1,0,0,0,Not Part of a Tour,No Tour,Sweet Adeline,,0,The Loop 97.9 Studios,Chicago,IL,USA,","
+1994-06-18,1994,0,1,2,1,0,0,5,1994 Summer Tour,1994 Summer,Wilson,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,>
 1994-06-18,1994,1,2,6,1,0,0,0,Not Part of a Tour,No Tour,Dog Faced Boy,,1,The Loop 97.9 Studios,Chicago,IL,USA,
 1994-06-18,1994,0,2,1,1,0,0,2,1994 Summer Tour,1994 Summer,Rift,,1,"UIC Pavilion, University of Illinois",Chicago,IL,USA,","
 1994-06-18,1994,1,2,6,1,0,0,0,Not Part of a Tour,No Tour,Dog Faced Boy,,1,The Loop 97.9 Studios,Chicago,IL,USA,
@@ -16147,26 +16147,26 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-11-18,1994,0,18,5,2,0,0,8,1994 Fall Tour,1994 Fall,Possum,,1,"MSU Auditorium, Michigan State University",East Lansing,MI,USA,
 1994-11-18,1994,0,19,1,e,0,0,0,1994 Fall Tour,1994 Fall,Roll in My Sweet Baby's Arms,,0,"MSU Auditorium, Michigan State University",East Lansing,MI,USA,","
 1994-11-18,1994,0,20,6,e,0,0,5,1994 Fall Tour,1994 Fall,Runaway Jim,,1,"MSU Auditorium, Michigan State University",East Lansing,MI,USA,
-1994-11-19,1994,0,1,1,1,0,0,0,Not Part of a Tour,No Tour,Blackberry Blossom,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,1,2,1,0,0,2,1994 Fall Tour,1994 Fall,Golgi Apparatus,Golgi,1,Indiana University Auditorium,Bloomington,IN,USA,>
 1994-11-19,1994,0,1,1,1,0,0,0,Not Part of a Tour,No Tour,Blackberry Blossom,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,1,2,1,0,0,2,1994 Fall Tour,1994 Fall,Golgi Apparatus,Golgi,1,Indiana University Auditorium,Bloomington,IN,USA,>
-1994-11-19,1994,0,2,2,1,0,0,2,1994 Fall Tour,1994 Fall,Down with Disease,DwD,1,Indiana University Auditorium,Bloomington,IN,USA,>
+1994-11-19,1994,0,1,1,1,0,0,0,Not Part of a Tour,No Tour,Blackberry Blossom,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,2,1,1,0,0,4,Not Part of a Tour,No Tour,Tennessee Waltz,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,2,2,1,0,0,2,1994 Fall Tour,1994 Fall,Down with Disease,DwD,1,Indiana University Auditorium,Bloomington,IN,USA,>
 1994-11-19,1994,0,2,1,1,0,0,4,Not Part of a Tour,No Tour,Tennessee Waltz,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
-1994-11-19,1994,0,3,1,1,0,0,6,1994 Fall Tour,1994 Fall,Guyute,,1,Indiana University Auditorium,Bloomington,IN,USA,","
+1994-11-19,1994,0,2,2,1,0,0,2,1994 Fall Tour,1994 Fall,Down with Disease,DwD,1,Indiana University Auditorium,Bloomington,IN,USA,>
 1994-11-19,1994,0,3,1,1,0,0,2,Not Part of a Tour,No Tour,The Old Home Place,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,3,1,1,0,0,6,1994 Fall Tour,1994 Fall,Guyute,,1,Indiana University Auditorium,Bloomington,IN,USA,","
 1994-11-19,1994,0,3,1,1,0,0,2,Not Part of a Tour,No Tour,The Old Home Place,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
+1994-11-19,1994,0,3,1,1,0,0,6,1994 Fall Tour,1994 Fall,Guyute,,1,Indiana University Auditorium,Bloomington,IN,USA,","
 1994-11-19,1994,0,4,1,1,0,0,0,Not Part of a Tour,No Tour,Dooley,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,4,1,1,0,0,46,1994 Fall Tour,1994 Fall,Paul and Silas,,0,Indiana University Auditorium,Bloomington,IN,USA,","
 1994-11-19,1994,0,4,1,1,0,0,0,Not Part of a Tour,No Tour,Dooley,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,4,1,1,0,0,46,1994 Fall Tour,1994 Fall,Paul and Silas,,0,Indiana University Auditorium,Bloomington,IN,USA,","
-1994-11-19,1994,0,5,1,1,0,0,0,Not Part of a Tour,No Tour,Mountain Dew,,1,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,5,3,1,0,0,3,1994 Fall Tour,1994 Fall,Axilla (Part II),,1,Indiana University Auditorium,Bloomington,IN,USA,->
 1994-11-19,1994,0,5,1,1,0,0,0,Not Part of a Tour,No Tour,Mountain Dew,,1,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,5,3,1,0,0,3,1994 Fall Tour,1994 Fall,Axilla (Part II),,1,Indiana University Auditorium,Bloomington,IN,USA,->
+1994-11-19,1994,0,5,1,1,0,0,0,Not Part of a Tour,No Tour,Mountain Dew,,1,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,6,2,1,0,0,11,1994 Fall Tour,1994 Fall,The Man Who Stepped Into Yesterday,TMWSIY,1,Indiana University Auditorium,Bloomington,IN,USA,>
 1994-11-19,1994,0,6,1,1,0,0,0,Not Part of a Tour,No Tour,John Hardy,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,6,2,1,0,0,11,1994 Fall Tour,1994 Fall,The Man Who Stepped Into Yesterday,TMWSIY,1,Indiana University Auditorium,Bloomington,IN,USA,>
@@ -16175,18 +16175,18 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1994-11-19,1994,0,7,2,1,0,0,11,1994 Fall Tour,1994 Fall,Avenu Malkenu,,0,Indiana University Auditorium,Bloomington,IN,USA,>
 1994-11-19,1994,0,7,1,1,0,0,2,Not Part of a Tour,No Tour,Roll in My Sweet Baby's Arms,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,7,2,1,0,0,11,1994 Fall Tour,1994 Fall,Avenu Malkenu,,0,Indiana University Auditorium,Bloomington,IN,USA,>
-1994-11-19,1994,0,8,1,1,0,0,1,Not Part of a Tour,No Tour,My Long Journey Home,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,8,1,1,0,0,3,1994 Fall Tour,1994 Fall,Run Like an Antelope,Antelope,1,Indiana University Auditorium,Bloomington,IN,USA,","
 1994-11-19,1994,0,8,1,1,0,0,1,Not Part of a Tour,No Tour,My Long Journey Home,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,8,1,1,0,0,3,1994 Fall Tour,1994 Fall,Run Like an Antelope,Antelope,1,Indiana University Auditorium,Bloomington,IN,USA,","
-1994-11-19,1994,0,9,1,1,0,0,2,1994 Fall Tour,1994 Fall,"I'm Blue, I'm Lonesome",,0,Indiana University Auditorium,Bloomington,IN,USA,","
+1994-11-19,1994,0,8,1,1,0,0,1,Not Part of a Tour,No Tour,My Long Journey Home,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,9,1,1,0,0,1,Not Part of a Tour,No Tour,Little Tiny Butter Biscuits,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,9,1,1,0,0,2,1994 Fall Tour,1994 Fall,"I'm Blue, I'm Lonesome",,0,Indiana University Auditorium,Bloomington,IN,USA,","
 1994-11-19,1994,0,9,1,1,0,0,1,Not Part of a Tour,No Tour,Little Tiny Butter Biscuits,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
-1994-11-19,1994,0,10,1,1,0,0,1,Not Part of a Tour,No Tour,"I'm Blue, I'm Lonesome",,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
+1994-11-19,1994,0,9,1,1,0,0,2,1994 Fall Tour,1994 Fall,"I'm Blue, I'm Lonesome",,0,Indiana University Auditorium,Bloomington,IN,USA,","
 1994-11-19,1994,0,10,1,1,0,0,1,1994 Fall Tour,1994 Fall,Little Tiny Butter Biscuits,,0,Indiana University Auditorium,Bloomington,IN,USA,","
 1994-11-19,1994,0,10,1,1,0,0,1,Not Part of a Tour,No Tour,"I'm Blue, I'm Lonesome",,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,10,1,1,0,0,1,1994 Fall Tour,1994 Fall,Little Tiny Butter Biscuits,,0,Indiana University Auditorium,Bloomington,IN,USA,","
+1994-11-19,1994,0,10,1,1,0,0,1,Not Part of a Tour,No Tour,"I'm Blue, I'm Lonesome",,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,11,1,1,0,0,0,Not Part of a Tour,No Tour,Midnight Moonlight,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
 1994-11-19,1994,0,11,4,1,0,0,1,1994 Fall Tour,1994 Fall,My Long Journey Home,,0,Indiana University Auditorium,Bloomington,IN,USA,
 1994-11-19,1994,0,11,1,1,0,0,0,Not Part of a Tour,No Tour,Midnight Moonlight,,0,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,","
@@ -40156,3 +40156,70 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2026-10-03,2026,0,15,2,e,0,0,4,2026 Fall Tour,2026 Fall,Character Zero,,1,Jim Whelan Boardwalk Hall,Atlantic City,NJ,USA,>
 2026-10-03,2026,0,16,2,e,0,0,77,2026 Fall Tour,2026 Fall,Sleeping Monkey,,1,Jim Whelan Boardwalk Hall,Atlantic City,NJ,USA,>
 2026-10-03,2026,0,17,6,e,0,0,2,2026 Fall Tour,2026 Fall,Tweezer Reprise,Tweeprise,1,Jim Whelan Boardwalk Hall,Atlantic City,NJ,USA,
+2026-10-04,2026,0,1,1,1,0,0,12,2026 Fall Tour,2026 Fall,David Bowie,Bowie,1,Jim Whelan Boardwalk Hall,Atlantic City,NJ,USA,","
+2026-10-04,2026,0,2,1,1,0,0,4,2026 Fall Tour,2026 Fall,The Moma Dance,Moma,1,Jim Whelan Boardwalk Hall,Atlantic City,NJ,USA,","
+2026-10-04,2026,0,3,1,1,0,0,4,2026 Fall Tour,2026 Fall,Sigma Oasis,,0,Jim Whelan Boardwalk Hall,Atlantic City,NJ,USA,","
+2026-10-04,2026,0,4,1,1,0,0,3,2026 Fall Tour,2026 Fall,Blaze On,,1,Jim Whelan Boardwalk Hall,Atlantic City,NJ,USA,","
+2026-10-04,2026,0,5,1,1,0,0,9,2026 Fall Tour,2026 Fall,Halley's Comet,Halley's,1,Jim Whelan Boardwalk Hall,Atlantic City,NJ,USA,","
+2026-10-04,2026,0,6,1,1,0,0,9,2026 Fall Tour,2026 Fall,Wilson,,1,Jim Whelan Boardwalk Hall,Atlantic City,NJ,USA,","
+2026-10-04,2026,0,7,4,1,0,0,10,2026 Fall Tour,2026 Fall,The Squirming Coil,Coil,1,Jim Whelan Boardwalk Hall,Atlantic City,NJ,USA,
+2026-10-04,2026,0,8,1,2,0,0,3,2026 Fall Tour,2026 Fall,Split Open and Melt,SOAMelt,1,Jim Whelan Boardwalk Hall,Atlantic City,NJ,USA,","
+2026-10-04,2026,0,9,1,2,0,0,5,2026 Fall Tour,2026 Fall,No Men In No Man's Land,NMINML,1,Jim Whelan Boardwalk Hall,Atlantic City,NJ,USA,","
+2026-10-04,2026,0,10,1,2,0,0,10,2026 Fall Tour,2026 Fall,Simple,,1,Jim Whelan Boardwalk Hall,Atlantic City,NJ,USA,","
+2026-10-04,2026,0,11,1,2,0,0,5,2026 Fall Tour,2026 Fall,Lonely Trip,,0,Jim Whelan Boardwalk Hall,Atlantic City,NJ,USA,","
+2026-10-04,2026,0,12,5,2,0,0,8,2026 Fall Tour,2026 Fall,You Enjoy Myself,YEM,1,Jim Whelan Boardwalk Hall,Atlantic City,NJ,USA,
+2026-10-04,2026,0,13,6,e,0,0,4,2026 Fall Tour,2026 Fall,Carini,,1,Jim Whelan Boardwalk Hall,Atlantic City,NJ,USA,
+2026-10-06,2026,0,1,2,1,0,0,17,2026 Fall Tour,2026 Fall,Buried Alive,,1,Allianz Amphitheater at Riverfront,Richmond,VA,USA,>
+2026-10-06,2026,0,2,1,1,0,0,5,2026 Fall Tour,2026 Fall,Free,,1,Allianz Amphitheater at Riverfront,Richmond,VA,USA,","
+2026-10-06,2026,0,3,1,1,0,0,6,2026 Fall Tour,2026 Fall,Run Like an Antelope,Antelope,1,Allianz Amphitheater at Riverfront,Richmond,VA,USA,","
+2026-10-06,2026,0,4,1,1,0,0,6,2026 Fall Tour,2026 Fall,Wolfman's Brother,Wolfman's,1,Allianz Amphitheater at Riverfront,Richmond,VA,USA,","
+2026-10-06,2026,0,5,1,1,0,0,19,2026 Fall Tour,2026 Fall,Steam,,1,Allianz Amphitheater at Riverfront,Richmond,VA,USA,","
+2026-10-06,2026,0,6,2,1,0,0,4,2026 Fall Tour,2026 Fall,Axilla (Part II),,1,Allianz Amphitheater at Riverfront,Richmond,VA,USA,>
+2026-10-06,2026,0,7,1,1,0,0,12,2026 Fall Tour,2026 Fall,Divided Sky,Divided,1,Allianz Amphitheater at Riverfront,Richmond,VA,USA,","
+2026-10-06,2026,0,8,4,1,0,0,6,2026 Fall Tour,2026 Fall,46 Days,,1,Allianz Amphitheater at Riverfront,Richmond,VA,USA,
+2026-10-06,2026,0,9,1,2,0,0,6,2026 Fall Tour,2026 Fall,Life Saving Gun,,1,Allianz Amphitheater at Riverfront,Richmond,VA,USA,","
+2026-10-06,2026,0,10,2,2,0,0,4,2026 Fall Tour,2026 Fall,Light,,0,Allianz Amphitheater at Riverfront,Richmond,VA,USA,>
+2026-10-06,2026,0,11,2,2,0,0,5,2026 Fall Tour,2026 Fall,Possum,,1,Allianz Amphitheater at Riverfront,Richmond,VA,USA,>
+2026-10-06,2026,0,12,2,2,0,0,12,2026 Fall Tour,2026 Fall,Also Sprach Zarathustra,2001,0,Allianz Amphitheater at Riverfront,Richmond,VA,USA,>
+2026-10-06,2026,0,13,1,2,0,0,12,2026 Fall Tour,2026 Fall,Suzy Greenberg,Suzy,1,Allianz Amphitheater at Riverfront,Richmond,VA,USA,","
+2026-10-06,2026,0,14,5,2,0,0,14,2026 Fall Tour,2026 Fall,More,,1,Allianz Amphitheater at Riverfront,Richmond,VA,USA,
+2026-10-06,2026,0,15,1,e,0,0,32,2026 Fall Tour,2026 Fall,Joy,,1,Allianz Amphitheater at Riverfront,Richmond,VA,USA,","
+2026-10-06,2026,0,16,6,e,0,0,4,2026 Fall Tour,2026 Fall,First Tube,,0,Allianz Amphitheater at Riverfront,Richmond,VA,USA,
+2026-10-07,2026,0,1,1,1,0,0,13,2026 Fall Tour,2026 Fall,Gumbo,,1,Allianz Amphitheater at Riverfront,Richmond,VA,USA,","
+2026-10-07,2026,0,2,1,1,0,0,11,2026 Fall Tour,2026 Fall,The Curtain With,Curtain With,1,Allianz Amphitheater at Riverfront,Richmond,VA,USA,","
+2026-10-07,2026,0,3,1,1,0,0,23,2026 Fall Tour,2026 Fall,Hey Stranger,,0,Allianz Amphitheater at Riverfront,Richmond,VA,USA,","
+2026-10-07,2026,0,4,1,1,0,0,13,2026 Fall Tour,2026 Fall,Llama,,1,Allianz Amphitheater at Riverfront,Richmond,VA,USA,","
+2026-10-07,2026,0,5,1,1,0,0,5,2026 Fall Tour,2026 Fall,Roggae,,1,Allianz Amphitheater at Riverfront,Richmond,VA,USA,","
+2026-10-07,2026,0,6,2,1,0,0,7,2026 Fall Tour,2026 Fall,Tube,,1,Allianz Amphitheater at Riverfront,Richmond,VA,USA,>
+2026-10-07,2026,0,7,1,1,0,0,11,2026 Fall Tour,2026 Fall,Timber (Jerry the Mule),Timber Ho,0,Allianz Amphitheater at Riverfront,Richmond,VA,USA,","
+2026-10-07,2026,0,8,4,1,0,0,6,2026 Fall Tour,2026 Fall,Most Events Aren't Planned,,0,Allianz Amphitheater at Riverfront,Richmond,VA,USA,
+2026-10-07,2026,0,9,2,2,0,0,5,2026 Fall Tour,2026 Fall,Kill Devil Falls,KDF,1,Allianz Amphitheater at Riverfront,Richmond,VA,USA,>
+2026-10-07,2026,0,10,2,2,0,0,8,2026 Fall Tour,2026 Fall,Ruby Waves,,0,Allianz Amphitheater at Riverfront,Richmond,VA,USA,>
+2026-10-07,2026,0,11,2,2,0,0,9,2026 Fall Tour,2026 Fall,Golden Age,,0,Allianz Amphitheater at Riverfront,Richmond,VA,USA,>
+2026-10-07,2026,0,12,2,2,0,0,18,2026 Fall Tour,2026 Fall,Meatstick,,1,Allianz Amphitheater at Riverfront,Richmond,VA,USA,>
+2026-10-07,2026,0,13,2,2,0,0,5,2026 Fall Tour,2026 Fall,Backwards Down the Number Line,BDTNL,0,Allianz Amphitheater at Riverfront,Richmond,VA,USA,>
+2026-10-07,2026,0,14,5,2,0,0,11,2026 Fall Tour,2026 Fall,Loving Cup,,0,Allianz Amphitheater at Riverfront,Richmond,VA,USA,
+2026-10-07,2026,0,15,1,e,0,0,14,2026 Fall Tour,2026 Fall,The Lizards,Lizards,1,Allianz Amphitheater at Riverfront,Richmond,VA,USA,","
+2026-10-07,2026,0,16,6,e,0,0,12,2026 Fall Tour,2026 Fall,Julius,,1,Allianz Amphitheater at Riverfront,Richmond,VA,USA,
+2026-10-09,2026,0,1,2,1,0,0,5,2026 Fall Tour,2026 Fall,Tweezer,,1,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,>
+2026-10-09,2026,0,2,1,1,0,0,15,2026 Fall Tour,2026 Fall,Runaway Jim,,1,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,","
+2026-10-09,2026,0,3,1,1,0,0,15,2026 Fall Tour,2026 Fall,Reba,,1,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,","
+2026-10-09,2026,0,4,3,1,0,0,0,2026 Fall Tour,2026 Fall,Tweezer,,1,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,->
+2026-10-09,2026,0,5,3,1,0,0,8,2026 Fall Tour,2026 Fall,Plasma,,0,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,->
+2026-10-09,2026,0,6,3,1,0,0,0,2026 Fall Tour,2026 Fall,Tweezer,,1,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,->
+2026-10-09,2026,0,7,1,1,0,0,0,2026 Fall Tour,2026 Fall,Plasma,,0,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,","
+2026-10-09,2026,0,8,1,1,0,0,20,2026 Fall Tour,2026 Fall,Pebbles and Marbles,,0,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,","
+2026-10-09,2026,0,9,2,1,0,0,23,2026 Fall Tour,2026 Fall,Dirt,,0,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,>
+2026-10-09,2026,0,10,4,1,0,0,4,2026 Fall Tour,2026 Fall,Chalk Dust Torture,CDT,1,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,
+2026-10-09,2026,0,11,2,2,0,0,13,2026 Fall Tour,2026 Fall,Punch You in the Eye,PYITE,1,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,>
+2026-10-09,2026,0,12,3,2,0,0,11,2026 Fall Tour,2026 Fall,Crosseyed and Painless,C&amp;P,0,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,->
+2026-10-09,2026,0,13,3,2,0,0,100,2026 Fall Tour,2026 Fall,Your Pet Cat,,1,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,->
+2026-10-09,2026,0,14,2,2,0,0,0,2026 Fall Tour,2026 Fall,Crosseyed and Painless,C&amp;P,0,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,>
+2026-10-09,2026,0,15,2,2,0,0,25,2026 Fall Tour,2026 Fall,Twist,,1,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,>
+2026-10-09,2026,0,16,3,2,0,0,30,2026 Fall Tour,2026 Fall,Waves,,1,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,->
+2026-10-09,2026,0,17,2,2,0,0,0,2026 Fall Tour,2026 Fall,Tweezer,,1,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,>
+2026-10-09,2026,0,18,2,2,0,0,4,2026 Fall Tour,2026 Fall,Harry Hood,Hood,1,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,>
+2026-10-09,2026,0,19,5,2,0,0,3,2026 Fall Tour,2026 Fall,Carini,,1,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,
+2026-10-09,2026,0,20,1,e,0,0,4,2026 Fall Tour,2026 Fall,Sleeping Monkey,,1,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,","
+2026-10-09,2026,0,21,2,e,0,0,5,2026 Fall Tour,2026 Fall,Ghost,,1,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,>
+2026-10-09,2026,0,22,6,e,0,0,4,2026 Fall Tour,2026 Fall,Tweezer Reprise,Tweeprise,1,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,
