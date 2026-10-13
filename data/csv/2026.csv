@@ -688,7 +688,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2026-10-09,2026,0,10,4,1,0,0,4,2026 Fall Tour,2026 Fall,Chalk Dust Torture,CDT,1,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,
 2026-10-09,2026,0,11,2,2,0,0,13,2026 Fall Tour,2026 Fall,Punch You in the Eye,PYITE,1,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,>
 2026-10-09,2026,0,12,3,2,0,0,11,2026 Fall Tour,2026 Fall,Crosseyed and Painless,C&amp;P,0,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,->
-2026-10-09,2026,0,13,3,2,0,0,100,2026 Fall Tour,2026 Fall,Your Pet Cat,,1,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,->
+2026-10-09,2026,0,13,2,2,0,0,100,2026 Fall Tour,2026 Fall,Your Pet Cat,,1,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,>
 2026-10-09,2026,0,14,2,2,0,0,0,2026 Fall Tour,2026 Fall,Crosseyed and Painless,C&amp;P,0,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,>
 2026-10-09,2026,0,15,2,2,0,0,25,2026 Fall Tour,2026 Fall,Twist,,1,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,>
 2026-10-09,2026,0,16,3,2,0,0,30,2026 Fall Tour,2026 Fall,Waves,,1,VyStar Veterans Memorial Arena,Jacksonville,FL,USA,->
@@ -715,3 +715,23 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 2026-10-11,2026,0,15,5,2,0,0,21,2026 Fall Tour,2026 Fall,Rock and Roll,R&amp;R,0,Orion Amphitheater,Huntsville,AL,USA,
 2026-10-11,2026,0,16,1,e,0,0,22,2026 Fall Tour,2026 Fall,About to Run,,0,Orion Amphitheater,Huntsville,AL,USA,","
 2026-10-11,2026,0,17,6,e,0,0,6,2026 Fall Tour,2026 Fall,Slave to the Traffic Light,Slave,1,Orion Amphitheater,Huntsville,AL,USA,
+2026-10-12,2026,0,1,2,1,0,0,6,2026 Fall Tour,2026 Fall,Mike's Song,Mike's,1,Orion Amphitheater,Huntsville,AL,USA,>
+2026-10-12,2026,0,2,2,1,0,0,20,2026 Fall Tour,2026 Fall,Shade,,1,Orion Amphitheater,Huntsville,AL,USA,>
+2026-10-12,2026,0,3,1,1,0,0,6,2026 Fall Tour,2026 Fall,Weekapaug Groove,Weekapaug,1,Orion Amphitheater,Huntsville,AL,USA,","
+2026-10-12,2026,0,4,2,1,0,0,17,2026 Fall Tour,2026 Fall,AC/DC Bag,Bag,1,Orion Amphitheater,Huntsville,AL,USA,>
+2026-10-12,2026,0,5,1,1,0,0,4,2026 Fall Tour,2026 Fall,Wolfman's Brother,Wolfman's,1,Orion Amphitheater,Huntsville,AL,USA,","
+2026-10-12,2026,0,6,1,1,0,0,23,2026 Fall Tour,2026 Fall,Birds of a Feather,BOAF,1,Orion Amphitheater,Huntsville,AL,USA,","
+2026-10-12,2026,0,7,4,1,0,0,8,2026 Fall Tour,2026 Fall,"My Friend, My Friend",My Friend,1,Orion Amphitheater,Huntsville,AL,USA,
+2026-10-12,2026,0,8,2,2,0,0,5,2026 Fall Tour,2026 Fall,No Men In No Man's Land,NMINML,1,Orion Amphitheater,Huntsville,AL,USA,>
+2026-10-12,2026,0,9,3,2,0,0,10,2026 Fall Tour,2026 Fall,Prince Caspian,Caspian,1,Orion Amphitheater,Huntsville,AL,USA,->
+2026-10-12,2026,0,10,1,2,0,0,5,2026 Fall Tour,2026 Fall,Blaze On,,1,Orion Amphitheater,Huntsville,AL,USA,","
+2026-10-12,2026,0,11,3,2,0,0,7,2026 Fall Tour,2026 Fall,Down with Disease,DwD,1,Orion Amphitheater,Huntsville,AL,USA,->
+2026-10-12,2026,0,12,1,2,0,0,17,2026 Fall Tour,2026 Fall,Big Black Furry Creature from Mars,BBFCFM,1,Orion Amphitheater,Huntsville,AL,USA,","
+2026-10-12,2026,0,13,2,2,0,0,22,2026 Fall Tour,2026 Fall,Scents and Subtle Sounds,,1,Orion Amphitheater,Huntsville,AL,USA,>
+2026-10-12,2026,0,14,2,2,0,0,16,2026 Fall Tour,2026 Fall,Good Times Bad Times,GTBT,0,Orion Amphitheater,Huntsville,AL,USA,>
+2026-10-12,2026,0,15,1,2,0,0,8,2026 Fall Tour,2026 Fall,Taste,,1,Orion Amphitheater,Huntsville,AL,USA,","
+2026-10-12,2026,0,16,1,2,0,0,16,2026 Fall Tour,2026 Fall,The Wedge,Wedge,1,Orion Amphitheater,Huntsville,AL,USA,","
+2026-10-12,2026,0,17,5,2,0,0,6,2026 Fall Tour,2026 Fall,Character Zero,,1,Orion Amphitheater,Huntsville,AL,USA,
+2026-10-12,2026,0,18,2,e,0,0,10,2026 Fall Tour,2026 Fall,Wading in the Velvet Sea,Velvet Sea,1,Orion Amphitheater,Huntsville,AL,USA,>
+2026-10-12,2026,0,19,2,e,0,0,3,2026 Fall Tour,2026 Fall,Backwards Down the Number Line,BDTNL,0,Orion Amphitheater,Huntsville,AL,USA,>
+2026-10-12,2026,0,20,6,e,0,0,4,2026 Fall Tour,2026 Fall,Run Like an Antelope,Antelope,1,Orion Amphitheater,Huntsville,AL,USA,
