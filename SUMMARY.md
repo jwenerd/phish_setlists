@@ -1,60 +1,60 @@
 # Phish Setlist Summary
  
-*Generated on 2026-10-11*
+*Generated on 2026-10-18*
  
 ## Fun with Stats
 
-### Most Recent Tour: 2026 Fall Tour (6 Shows)
-6 shows across 3 venues
+### Most Recent Tour: 2026 Fall Tour (8 Shows)
+8 shows across 4 venues
 
-100 total songs played
+137 total songs played
 
-Number of unique songs played: 87
+Number of unique songs played: 109
 
-77 songs were played exactly once
+84 songs were played exactly once
 
 Bust-outs (Gap > 50): 5
 
-### Past 6 Months (36 Shows)
-36 shows across 13 venues
+### Past 6 Months (35 Shows)
+35 shows across 14 venues
 
-630 total songs played
+615 total songs played
 
-Number of unique songs played: 221
+Number of unique songs played: 217
 
-75 songs were played exactly once
+81 songs were played exactly once
 
-Bust-outs (Gap > 50): 55
+Bust-outs (Gap > 50): 52
 
-Most common show opener: Buried Alive (3 times)
+Most common show opener: 46 Days (2 times)
 
-Most common encore: Wading in the Velvet Sea (3 times)
+Most common encore: Wading in the Velvet Sea (4 times)
 
  
-### Past 1 Year (45 Shows)
-45 shows across 14 venues
+### Past 1 Year (47 Shows)
+47 shows across 15 venues
 
-781 total songs played
+818 total songs played
 
 Number of unique songs played: 234
 
-83 songs were played exactly once
+81 songs were played exactly once
 
 Bust-outs (Gap > 50): 64
 
 Most common show opener: Buried Alive (4 times)
 
-Most common encore: Slave to the Traffic Light (3 times)
+Most common encore: Wading in the Velvet Sea (4 times)
 
  
-### Past 2 Years (96 Shows)
-96 shows across 33 venues
+### Past 2 Years (98 Shows)
+98 shows across 34 venues
 
-1706 total songs played
+1743 total songs played
 
 Number of unique songs played: 281
 
-87 songs were played exactly once
+86 songs were played exactly once
 
 Bust-outs (Gap > 50): 122
 
@@ -63,32 +63,32 @@ Most common show opener: Buried Alive (8 times)
 Most common encore: A Life Beyond The Dream (6 times)
 
  
-### Past 5 Years (244 Shows)
-244 shows across 67 venues
+### Past 5 Years (242 Shows)
+242 shows across 65 venues
 
-4405 total songs played
+4373 total songs played
 
-Number of unique songs played: 368
+Number of unique songs played: 365
 
-89 songs were played exactly once
+88 songs were played exactly once
 
-Bust-outs (Gap > 50): 268
+Bust-outs (Gap > 50): 264
 
 Most common show opener: Buried Alive (14 times)
 
 Most common encore: A Life Beyond The Dream (17 times)
 
  
-### Past 10 Years (398 Shows)
-398 shows across 90 venues
+### Past 10 Years (395 Shows)
+395 shows across 89 venues
 
-7490 total songs played
+7423 total songs played
 
-Number of unique songs played: 460
+Number of unique songs played: 456
 
-120 songs were played exactly once
+118 songs were played exactly once
 
-Bust-outs (Gap > 50): 414
+Bust-outs (Gap > 50): 411
 
 Most common show opener: Buried Alive (18 times)
 
@@ -97,97 +97,97 @@ Most common encore: A Life Beyond The Dream (22 times)
  
 ## Most Common Songs
 
-### Most Recent Tour: 2026 Fall Tour (6 Shows)
+### Most Recent Tour: 2026 Fall Tour (8 Shows)
 
-| Song                   |   Times Played |
-|:-----------------------|---------------:|
-| Tweezer                |              5 |
-| Ghost                  |              2 |
-| Alumni Blues           |              2 |
-| Chalk Dust Torture     |              2 |
-| Harry Hood             |              2 |
-| Sleeping Monkey        |              2 |
-| Tweezer Reprise        |              2 |
-| Carini                 |              2 |
-| Plasma                 |              2 |
-| Crosseyed and Painless |              2 |
+| Song                       |   Times Played |
+|:---------------------------|---------------:|
+| Tweezer                    |              5 |
+| Fuego                      |              2 |
+| Slave to the Traffic Light |              2 |
+| Ghost                      |              2 |
+| Down with Disease          |              2 |
+| Alumni Blues               |              2 |
+| Sand                       |              2 |
+| Everything's Right         |              2 |
+| Chalk Dust Torture         |              2 |
+| Mike's Song                |              2 |
 
-### Past 6 Months (36 Shows)
+### Past 6 Months (35 Shows)
  
-| Song                 |   Times Played |
-|:---------------------|---------------:|
-| Tweezer              |             18 |
-| Harry Hood           |              8 |
-| Ghost                |              8 |
-| Free                 |              7 |
-| Carini               |              7 |
-| Run Like an Antelope |              7 |
-| Tweezer Reprise      |              7 |
-| Fuego                |              7 |
-| Possum               |              7 |
-| Chalk Dust Torture   |              7 |
+| Song                           |   Times Played |
+|:-------------------------------|---------------:|
+| Tweezer                        |             17 |
+| Fuego                          |              8 |
+| Possum                         |              8 |
+| Ghost                          |              8 |
+| Sand                           |              8 |
+| Character Zero                 |              8 |
+| Backwards Down the Number Line |              7 |
+| Blaze On                       |              7 |
+| Chalk Dust Torture             |              7 |
+| Free                           |              7 |
  
-### Past 1 Year (45 Shows)
+### Past 1 Year (47 Shows)
  
 | Song                 |   Times Played |
 |:---------------------|---------------:|
 | Tweezer              |             19 |
+| Run Like an Antelope |             10 |
 | Carini               |             10 |
+| Character Zero       |             10 |
 | Chalk Dust Torture   |             10 |
 | Ghost                |             10 |
+| Free                 |             10 |
+| Sand                 |             10 |
+| Fuego                |             10 |
 | Harry Hood           |             10 |
-| Run Like an Antelope |              9 |
-| Character Zero       |              9 |
-| Free                 |              9 |
-| Sand                 |              9 |
-| Fuego                |              9 |
  
-### Past 2 Years (96 Shows)
+### Past 2 Years (98 Shows)
  
-| Song                           |   Times Played |
-|:-------------------------------|---------------:|
-| Tweezer                        |             32 |
-| Tweezer Reprise                |             23 |
-| Harry Hood                     |             23 |
-| Carini                         |             22 |
-| Chalk Dust Torture             |             22 |
-| Ghost                          |             21 |
-| Sand                           |             20 |
-| Possum                         |             19 |
-| Fuego                          |             19 |
-| What's Going Through Your Mind |             19 |
+| Song               |   Times Played |
+|:-------------------|---------------:|
+| Tweezer            |             32 |
+| Tweezer Reprise    |             23 |
+| Harry Hood         |             23 |
+| Carini             |             22 |
+| Chalk Dust Torture |             22 |
+| Sand               |             21 |
+| Ghost              |             21 |
+| Possum             |             20 |
+| Fuego              |             20 |
+| Everything's Right |             20 |
  
-### Past 5 Years (244 Shows)
+### Past 5 Years (242 Shows)
  
 | Song               |   Times Played |
 |:-------------------|---------------:|
 | Tweezer            |             71 |
-| Ghost              |             58 |
-| Harry Hood         |             56 |
-| Chalk Dust Torture |             54 |
+| Ghost              |             57 |
+| Harry Hood         |             55 |
 | Sand               |             53 |
+| Chalk Dust Torture |             53 |
 | Everything's Right |             51 |
 | Free               |             50 |
-| Sigma Oasis        |             50 |
-| Down with Disease  |             50 |
 | Blaze On           |             50 |
+| Down with Disease  |             50 |
+| Carini             |             48 |
  
-### Past 10 Years (398 Shows)
+### Past 10 Years (395 Shows)
  
 | Song               |   Times Played |
 |:-------------------|---------------:|
-| Tweezer            |            104 |
-| Ghost              |             93 |
-| Harry Hood         |             89 |
-| Chalk Dust Torture |             88 |
-| Blaze On           |             86 |
-| Sand               |             85 |
+| Tweezer            |            103 |
+| Ghost              |             91 |
+| Chalk Dust Torture |             87 |
+| Harry Hood         |             87 |
+| Blaze On           |             85 |
+| Sand               |             84 |
+| Everything's Right |             82 |
 | Free               |             81 |
-| Carini             |             81 |
-| Everything's Right |             81 |
-| 46 Days            |             80 |
+| Carini             |             80 |
+| 46 Days            |             79 |
  
-## Newest Songs (Debuts Past 2 Years - 96 Shows)
+## Newest Songs (Debuts Past 2 Years - 98 Shows)
  
 | Song              | Debut Date   |   Times Played |
 |:------------------|:-------------|---------------:|
@@ -200,7 +200,7 @@ Most common encore: A Life Beyond The Dream (22 times)
 | Sincere           | 2025-12-31   |              1 |
 | Box of Rain       | 2024-10-25   |              1 |
  
-## Notable Shows with Variety (Past 5 Years - 244 Shows)
+## Notable Shows with Variety (Past 5 Years - 242 Shows)
  
 ### The 'Bust-Out' Shows (Highest Avg Gap - Past 5 Years)
  
@@ -242,7 +242,7 @@ Most common encore: A Life Beyond The Dream (22 times)
 | 2024-12-31 | Madison Square Garden  | New York  | NY      |             29 |
 | 2018-12-31 | Madison Square Garden  | New York  | NY      |             28 |
  
-## Rarest Songs Played (Past 1 Year - 45 Shows)
+## Rarest Songs Played (Past 1 Year - 47 Shows)
  
 | Song                  | Date Played   |   Gap |
 |:----------------------|:--------------|------:|

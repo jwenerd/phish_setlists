@@ -1366,7 +1366,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-09-13,1990,0,16,1,2,0,0,0,1990 Tour,1990,Stash,,1,The Wetlands Preserve,New York,NY,USA,","
 1990-09-13,1990,0,17,1,2,0,0,0,1990 Tour,1990,Goin' Down Slow,,0,The Wetlands Preserve,New York,NY,USA,","
 1990-09-13,1990,0,18,2,2,0,0,4,1990 Tour,1990,The Oh Kee Pa Ceremony,Oh Kee Pa,1,The Wetlands Preserve,New York,NY,USA,>
-1990-09-13,1990,0,19,3,2,0,0,4,1990 Tour,1990,AC/DC Bag,Bag,1,The Wetlands Preserve,New York,NY,USA,->
+1990-09-13,1990,0,19,3,2,0,0,3,1990 Tour,1990,AC/DC Bag,Bag,1,The Wetlands Preserve,New York,NY,USA,->
 1990-09-13,1990,0,20,3,2,0,0,0,1990 Tour,1990,Buried Alive,,1,The Wetlands Preserve,New York,NY,USA,->
 1990-09-13,1990,0,21,2,2,0,0,5,1990 Tour,1990,Take the 'A' Train,'A' Train,0,The Wetlands Preserve,New York,NY,USA,>
 1990-09-13,1990,0,22,2,2,0,0,223,1990 Tour,1990,Sparks,,0,The Wetlands Preserve,New York,NY,USA,>
@@ -1586,7 +1586,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-10-03,1990,0,14,1,2,0,0,13,1990 Tour,1990,Goin' Down Slow,,0,Thunderbird's,Portland,ME,USA,","
 1990-10-03,1990,0,15,1,2,0,0,4,1990 Tour,1990,My Sweet One,MSO,1,Thunderbird's,Portland,ME,USA,","
 1990-10-03,1990,0,16,1,2,0,0,1,1990 Tour,1990,Gumbo,,1,Thunderbird's,Portland,ME,USA,","
-1990-10-03,1990,0,17,1,2,0,0,18,1990 Tour,1990,Good Times Bad Times,GTBT,0,Thunderbird's,Portland,ME,USA,","
+1990-10-03,1990,0,17,1,2,0,0,17,1990 Tour,1990,Good Times Bad Times,GTBT,0,Thunderbird's,Portland,ME,USA,","
 1990-10-03,1990,0,18,1,2,0,0,1,1990 Tour,1990,Magilla,,1,Thunderbird's,Portland,ME,USA,","
 1990-10-03,1990,0,19,1,2,0,0,8,1990 Tour,1990,Tube,,1,Thunderbird's,Portland,ME,USA,","
 1990-10-03,1990,0,20,1,2,0,0,4,1990 Tour,1990,You Enjoy Myself,YEM,1,Thunderbird's,Portland,ME,USA,","
@@ -1972,7 +1972,7 @@ showdate,showyear,exclude,position,transition,set,isjam,isreprise,gap,tourname,t
 1990-10-31,1990,0,24,2,2,0,0,1,1990 Tour,1990,I Am Hydrogen,Hydrogen,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,>
 1990-10-31,1990,0,25,5,2,0,0,1,1990 Tour,1990,Weekapaug Groove,Weekapaug,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,
 1990-10-31,1990,0,26,2,e,0,0,1,1990 Tour,1990,Uncle Pen,,0,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,>
-1990-10-31,1990,0,27,6,e,0,0,38,1990 Tour,1990,Big Black Furry Creature from Mars,BBFCFM,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,
+1990-10-31,1990,0,27,6,e,0,0,37,1990 Tour,1990,Big Black Furry Creature from Mars,BBFCFM,1,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,
 1990-11-02,1990,0,1,1,1,0,0,4,1990 Tour,1990,Golgi Apparatus,Golgi,1,"Glenn Miller Ballroom, University of Colorado",Boulder,CO,USA,","
 1990-11-02,1990,0,2,2,1,0,0,1,1990 Tour,1990,The Landlady,Landlady,1,"Glenn Miller Ballroom, University of Colorado",Boulder,CO,USA,>
 1990-11-02,1990,0,3,2,1,0,0,1,1990 Tour,1990,Bouncing Around the Room,Bouncin',1,"Glenn Miller Ballroom, University of Colorado",Boulder,CO,USA,>
