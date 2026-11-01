@@ -1,6 +1,6 @@
 # Phish Setlist Summary
  
-*Generated on 2026-10-25*
+*Generated on 2026-11-01*
  
 ## Fun with Stats
 
@@ -15,20 +15,20 @@ Number of unique songs played: 109
 
 Bust-outs (Gap > 50): 5
 
-### Past 6 Months (32 Shows)
-32 shows across 14 venues
+### Past 6 Months (29 Shows)
+29 shows across 13 venues
 
-561 total songs played
+504 total songs played
 
-Number of unique songs played: 209
+Number of unique songs played: 199
 
 83 songs were played exactly once
 
-Bust-outs (Gap > 50): 51
+Bust-outs (Gap > 50): 45
 
 Most common show opener: David Bowie (2 times)
 
-Most common encore: Wading in the Velvet Sea (4 times)
+Most common encore: Wading in the Velvet Sea (3 times)
 
  
 ### Past 1 Year (47 Shows)
@@ -47,48 +47,48 @@ Most common show opener: Buried Alive (4 times)
 Most common encore: Wading in the Velvet Sea (4 times)
 
  
-### Past 2 Years (97 Shows)
-97 shows across 34 venues
+### Past 2 Years (95 Shows)
+95 shows across 33 venues
 
-1722 total songs played
+1685 total songs played
 
-Number of unique songs played: 280
+Number of unique songs played: 278
 
-85 songs were played exactly once
+84 songs were played exactly once
 
-Bust-outs (Gap > 50): 121
+Bust-outs (Gap > 50): 118
 
 Most common show opener: Buried Alive (8 times)
 
 Most common encore: A Life Beyond The Dream (6 times)
 
  
-### Past 5 Years (237 Shows)
-237 shows across 60 venues
+### Past 5 Years (233 Shows)
+233 shows across 59 venues
 
-4281 total songs played
+4196 total songs played
 
-Number of unique songs played: 361
+Number of unique songs played: 352
 
-86 songs were played exactly once
+82 songs were played exactly once
 
-Bust-outs (Gap > 50): 260
+Bust-outs (Gap > 50): 251
 
-Most common show opener: Buried Alive (14 times)
+Most common show opener: Buried Alive (13 times)
 
 Most common encore: A Life Beyond The Dream (17 times)
 
  
-### Past 10 Years (391 Shows)
-391 shows across 88 venues
+### Past 10 Years (387 Shows)
+387 shows across 88 venues
 
-7337 total songs played
+7246 total songs played
 
-Number of unique songs played: 453
+Number of unique songs played: 445
 
-115 songs were played exactly once
+110 songs were played exactly once
 
-Bust-outs (Gap > 50): 408
+Bust-outs (Gap > 50): 404
 
 Most common show opener: Buried Alive (18 times)
 
@@ -112,20 +112,20 @@ Most common encore: A Life Beyond The Dream (22 times)
 | Chalk Dust Torture         |              2 |
 | Mike's Song                |              2 |
 
-### Past 6 Months (32 Shows)
+### Past 6 Months (29 Shows)
  
 | Song                 |   Times Played |
 |:---------------------|---------------:|
 | Tweezer              |             17 |
-| Sand                 |              8 |
-| Character Zero       |              8 |
 | Ghost                |              7 |
 | Free                 |              7 |
+| Character Zero       |              7 |
 | Run Like an Antelope |              7 |
+| Sand                 |              7 |
 | Possum               |              7 |
 | Harry Hood           |              7 |
-| A Wave of Hope       |              6 |
-| Prince Caspian       |              6 |
+| Chalk Dust Torture   |              6 |
+| Fuego                |              6 |
  
 ### Past 1 Year (47 Shows)
  
@@ -142,52 +142,52 @@ Most common encore: A Life Beyond The Dream (22 times)
 | Fuego                |             10 |
 | Harry Hood           |             10 |
  
-### Past 2 Years (97 Shows)
+### Past 2 Years (95 Shows)
  
 | Song               |   Times Played |
 |:-------------------|---------------:|
 | Tweezer            |             31 |
-| Harry Hood         |             23 |
-| Chalk Dust Torture |             22 |
+| Harry Hood         |             22 |
 | Tweezer Reprise    |             22 |
 | Carini             |             21 |
-| Possum             |             20 |
-| Fuego              |             20 |
-| Everything's Right |             20 |
+| Chalk Dust Torture |             21 |
 | Ghost              |             20 |
 | Sand               |             20 |
+| Fuego              |             19 |
+| Possum             |             19 |
+| Everything's Right |             19 |
  
-### Past 5 Years (237 Shows)
+### Past 5 Years (233 Shows)
  
 | Song               |   Times Played |
 |:-------------------|---------------:|
-| Tweezer            |             69 |
-| Ghost              |             56 |
-| Harry Hood         |             54 |
-| Sand               |             52 |
+| Tweezer            |             67 |
+| Ghost              |             55 |
+| Harry Hood         |             53 |
 | Chalk Dust Torture |             52 |
+| Sand               |             51 |
 | Down with Disease  |             50 |
 | Everything's Right |             50 |
-| Free               |             49 |
 | Blaze On           |             49 |
-| Sigma Oasis        |             47 |
+| Free               |             48 |
+| Sigma Oasis        |             46 |
  
-### Past 10 Years (391 Shows)
+### Past 10 Years (387 Shows)
  
 | Song               |   Times Played |
 |:-------------------|---------------:|
-| Tweezer            |            103 |
-| Ghost              |             90 |
-| Harry Hood         |             87 |
-| Chalk Dust Torture |             86 |
-| Blaze On           |             84 |
-| Sand               |             84 |
+| Tweezer            |            102 |
+| Ghost              |             89 |
+| Chalk Dust Torture |             85 |
+| Harry Hood         |             85 |
+| Blaze On           |             83 |
+| Sand               |             83 |
 | Everything's Right |             82 |
-| Free               |             81 |
-| Carini             |             79 |
-| Down with Disease  |             77 |
+| Free               |             80 |
+| Carini             |             78 |
+| 46 Days            |             76 |
  
-## Newest Songs (Debuts Past 2 Years - 97 Shows)
+## Newest Songs (Debuts Past 2 Years - 95 Shows)
  
 | Song              | Debut Date   |   Times Played |
 |:------------------|:-------------|---------------:|
@@ -199,7 +199,7 @@ Most common encore: A Life Beyond The Dream (22 times)
 | Cream             | 2025-12-31   |              2 |
 | Sincere           | 2025-12-31   |              1 |
  
-## Notable Shows with Variety (Past 5 Years - 237 Shows)
+## Notable Shows with Variety (Past 5 Years - 233 Shows)
  
 ### The 'Bust-Out' Shows (Highest Avg Gap - Past 5 Years)
  
@@ -223,23 +223,23 @@ Most common encore: A Life Beyond The Dream (22 times)
  
 ### The Marathons (Most Unique Songs - Past 5 Years)
  
-| Date       | Venue                  | City      | State   |   Unique Songs |
-|:-----------|:-----------------------|:----------|:--------|---------------:|
-| 2022-12-31 | Madison Square Garden  | New York  | NY      |             31 |
-| 2023-12-31 | Madison Square Garden  | New York  | NY      |             30 |
-| 2024-12-31 | Madison Square Garden  | New York  | NY      |             29 |
-| 2025-12-31 | Madison Square Garden  | New York  | NY      |             27 |
-| 2021-10-31 | MGM Grand Garden Arena | Las Vegas | NV      |             26 |
+| Date       | Venue                 | City     | State   |   Unique Songs |
+|:-----------|:----------------------|:---------|:--------|---------------:|
+| 2022-12-31 | Madison Square Garden | New York | NY      |             31 |
+| 2023-12-31 | Madison Square Garden | New York | NY      |             30 |
+| 2024-12-31 | Madison Square Garden | New York | NY      |             29 |
+| 2025-12-31 | Madison Square Garden | New York | NY      |             27 |
+| 2026-07-22 | Madison Square Garden | New York | NY      |             26 |
  
 ### The Marathons (Most Unique Songs - Past 10 Years)
  
 | Date       | Venue                  | City      | State   |   Unique Songs |
 |:-----------|:-----------------------|:----------|:--------|---------------:|
 | 2022-12-31 | Madison Square Garden  | New York  | NY      |             31 |
-| 2016-10-31 | MGM Grand Garden Arena | Las Vegas | NV      |             31 |
 | 2023-12-31 | Madison Square Garden  | New York  | NY      |             30 |
 | 2024-12-31 | Madison Square Garden  | New York  | NY      |             29 |
-| 2018-12-31 | Madison Square Garden  | New York  | NY      |             28 |
+| 2018-10-31 | MGM Grand Garden Arena | Las Vegas | NV      |             28 |
+| 2016-12-31 | Madison Square Garden  | New York  | NY      |             28 |
  
 ## Rarest Songs Played (Past 1 Year - 47 Shows)
  
