@@ -1,6 +1,6 @@
 # Phish Setlist Summary
  
-*Generated on 2026-11-01*
+*Generated on 2026-11-08*
  
 ## Fun with Stats
 
@@ -233,13 +233,13 @@ Most common encore: A Life Beyond The Dream (22 times)
  
 ### The Marathons (Most Unique Songs - Past 10 Years)
  
-| Date       | Venue                  | City      | State   |   Unique Songs |
-|:-----------|:-----------------------|:----------|:--------|---------------:|
-| 2022-12-31 | Madison Square Garden  | New York  | NY      |             31 |
-| 2023-12-31 | Madison Square Garden  | New York  | NY      |             30 |
-| 2024-12-31 | Madison Square Garden  | New York  | NY      |             29 |
-| 2018-10-31 | MGM Grand Garden Arena | Las Vegas | NV      |             28 |
-| 2016-12-31 | Madison Square Garden  | New York  | NY      |             28 |
+| Date       | Venue                     | City             | State   |   Unique Songs |
+|:-----------|:--------------------------|:-----------------|:--------|---------------:|
+| 2022-12-31 | Madison Square Garden     | New York         | NY      |             31 |
+| 2023-12-31 | Madison Square Garden     | New York         | NY      |             30 |
+| 2024-12-31 | Madison Square Garden     | New York         | NY      |             29 |
+| 2018-12-31 | Madison Square Garden     | New York         | NY      |             28 |
+| 2019-12-08 | North Charleston Coliseum | North Charleston | SC      |             28 |
  
 ## Rarest Songs Played (Past 1 Year - 47 Shows)
  
